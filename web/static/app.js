@@ -2,40 +2,264 @@
 const app = document.getElementById("app");
 
 // ============================================================
-// Фоновый паттерн
+// Хранилище прогресса (localStorage)
+// ============================================================
+const LS = {
+  activity: "hsk5_activity",       // {"2026-09-23": 5, ...}
+  lessons:  "hsk5_lessons_opened", // ["1.1", "1.2", ...]
+  srs:      "hsk5_srs",            // {"细节": {ease, interval, due, reps}}
+  settings: "hsk5_settings",       // {sessionSize, newPerDay}
+};
+
+function lsGet(key, def) {
+  try {
+    const v = localStorage.getItem(key);
+    return v ? JSON.parse(v) : def;
+  } catch (e) { return def; }
+}
+function lsSet(key, val) {
+  try { localStorage.setItem(key, JSON.stringify(val)); } catch (e) {}
+}
+
+function todayStr() {
+  const d = new Date();
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+}
+
+function markActivity(delta = 1) {
+  const a = lsGet(LS.activity, {});
+  const t = todayStr();
+  a[t] = (a[t] || 0) + delta;
+  lsSet(LS.activity, a);
+}
+
+function markLessonOpened(unit, lesson) {
+  const l = lsGet(LS.lessons, []);
+  const id = `${unit}.${lesson}`;
+  if (!l.includes(id)) {
+    l.push(id);
+    lsSet(LS.lessons, l);
+  }
+  markActivity(1);
+}
+
+// ============================================================
+// Локализация: обратная связь
+// ============================================================
+const FB = {
+  ru: { menu_title: "Обратная связь", menu_sub: "Написать разработчику",
+    page_title: "Обратная связь", hint: "Нашли ошибку или есть пожелание? Напишите.",
+    name: "Ваше имя (необязательно)", name_ph: "Аноним",
+    message: "Сообщение", message_ph: "Опишите проблему или идею...",
+    send: "Отправить", empty: "Введите текст", sending: "Отправляю...",
+    sent: "Спасибо! Сообщение отправлено.", error: "Не удалось отправить." },
+  tk: { menu_title: "Yza baglanyşyk", menu_sub: "Işläp taýýarlaýja ýaz",
+    page_title: "Yza baglanyşyk", hint: "Ýalňyşlyk tapdyňyzmy? Ýazyň.",
+    name: "Adyňyz (hökman däl)", name_ph: "Näbelli",
+    message: "Habar", message_ph: "Meseläni beýan ediň...",
+    send: "Ibermek", empty: "Tekst giriziň", sending: "Iberýärin...",
+    sent: "Sag boluň!", error: "Iberip bolmady." },
+  en: { menu_title: "Feedback", menu_sub: "Write to the developer",
+    page_title: "Feedback", hint: "Found a bug? Write to me.",
+    name: "Your name (optional)", name_ph: "Anonymous",
+    message: "Message", message_ph: "Describe problem or idea...",
+    send: "Send", empty: "Enter a message", sending: "Sending...",
+    sent: "Thanks! Message sent.", error: "Could not send." },
+};
+function tFb(k) {
+  const l = (typeof getLang === "function" ? getLang() : "ru");
+  return (FB[l] || FB.ru)[k] || FB.ru[k] || k;
+}
+
+// ============================================================
+// Общая локализация
+// ============================================================
+const UI_T = {
+  ru: {
+    vocab_search_ph: "Поиск по ханзи, пиньиню или переводу...",
+    unit_all: "Все юниты", empty: "Ничего не найдено",
+    col_lesson: "Урок", col_hanzi: "汉字", col_pinyin: "Pinyin",
+    col_pos: "POS", col_trans: "Перевод",
+    grammar_search_ph: "Поиск по правилу или тексту...",
+    grammar_total: "правил",
+    compare_search_ph: "Поиск по паре слов...",
+    compare_common: "Общее", compare_diff: "Различия",
+    analyzer_title: "Анализатор иероглифов",
+    analyzer_ph: "Введите иероглиф или слово...",
+    analyzer_hint: "Например: 细, 电台, 抱怨",
+    analyzer_nothing: "Ничего не найдено по этому запросу",
+    analyzer_found_in: "Найдено в уроках",
+    // Activity
+    act_title: "Активность",
+    act_total: "Действий всего",
+    act_active: "Активных дней",
+    act_streak: "Текущий стрик",
+    act_best: "Лучший день",
+    act_days: "дней",
+    act_less: "Меньше",
+    act_more: "Больше",
+    // Progress
+    prg_title: "Прогресс",
+    prg_lessons_done: "Уроков открыто",
+    prg_words_studied: "Слов в SRS",
+    prg_streak: "Стрик",
+    prg_today: "Сегодня действий",
+    prg_week: "За 7 дней",
+    prg_month: "За 30 дней",
+    prg_total: "Всего действий",
+    prg_reset: "Сбросить прогресс",
+    prg_reset_ok: "Прогресс сброшен",
+    prg_reset_confirm: "Точно сбросить весь прогресс? Это нельзя отменить.",
+    // SRS
+    srs_title: "Повторение (SRS)",
+    srs_start: "Начать сессию",
+    srs_size: "Размер сессии",
+    srs_all_done: "Все карточки на сегодня повторены!",
+    srs_due: "Карточек к повторению",
+    srs_total: "Всего карточек",
+    srs_known: "Знаю",
+    srs_reveal: "Показать ответ",
+    srs_again: "Забыл",
+    srs_hard: "Трудно",
+    srs_good: "Хорошо",
+    srs_easy: "Легко",
+    srs_finish: "Сессия завершена",
+    srs_correct: "Правильно",
+    srs_again_short: "Ещё",
+    srs_scope: "Диапазон",
+  },
+  tk: {
+    vocab_search_ph: "Hanzi, pinyin ýa-da terjime boýunça gözle...",
+    unit_all: "Ähli bölümler", empty: "Hiç zat tapylmady",
+    col_lesson: "Sapak", col_hanzi: "汉字", col_pinyin: "Pinyin",
+    col_pos: "POS", col_trans: "Terjime",
+    grammar_search_ph: "Düzgün boýunça gözle...",
+    grammar_total: "düzgün",
+    compare_search_ph: "Söz jübüti boýunça gözle...",
+    compare_common: "Umumy", compare_diff: "Tapawut",
+    analyzer_title: "Ieroglif analizatory",
+    analyzer_ph: "Ieroglif ýa-da söz giriziň...",
+    analyzer_hint: "Meselem: 细, 电台, 抱怨",
+    analyzer_nothing: "Bu sorag boýunça hiç zat tapylmady",
+    analyzer_found_in: "Sapaklarda tapyldy",
+    act_title: "Işjeňlik",
+    act_total: "Jemi hereketler",
+    act_active: "Işjeň günler",
+    act_streak: "Häzirki streak",
+    act_best: "Iň gowy gün",
+    act_days: "gün",
+    act_less: "Az", act_more: "Köp",
+    prg_title: "Ösüş",
+    prg_lessons_done: "Açylan sapaklar",
+    prg_words_studied: "SRS-de sözler",
+    prg_streak: "Streak",
+    prg_today: "Şu gün",
+    prg_week: "7 günde",
+    prg_month: "30 günde",
+    prg_total: "Jemi hereketler",
+    prg_reset: "Ösüşi pozmak",
+    prg_reset_ok: "Ösüş pozuldy",
+    prg_reset_confirm: "Ösüşi pozmalymy? Yzyna gaýtaryp bolmaz.",
+    srs_title: "Gaýtalama (SRS)",
+    srs_start: "Sessiýany başla",
+    srs_size: "Sessiýa ululygy",
+    srs_all_done: "Bu gün üçin ähli kartlar gaýtalandy!",
+    srs_due: "Gaýtalamaga degişli kartlar",
+    srs_total: "Jemi kartlar",
+    srs_known: "Bilýärin",
+    srs_reveal: "Jogaby görkez",
+    srs_again: "Ýatdan çykardym",
+    srs_hard: "Kyn",
+    srs_good: "Gowy",
+    srs_easy: "Aňsat",
+    srs_finish: "Sessiýa tamamlandy",
+    srs_correct: "Dogry",
+    srs_again_short: "Ýene",
+    srs_scope: "Aralyk",
+  },
+  en: {
+    vocab_search_ph: "Search by hanzi, pinyin or translation...",
+    unit_all: "All units", empty: "Nothing found",
+    col_lesson: "Lesson", col_hanzi: "汉字", col_pinyin: "Pinyin",
+    col_pos: "POS", col_trans: "Translation",
+    grammar_search_ph: "Search by rule or text...",
+    grammar_total: "rules",
+    compare_search_ph: "Search by word pair...",
+    compare_common: "Common", compare_diff: "Differences",
+    analyzer_title: "Hanzi analyzer",
+    analyzer_ph: "Enter a character or word...",
+    analyzer_hint: "Example: 细, 电台, 抱怨",
+    analyzer_nothing: "Nothing found for this query",
+    analyzer_found_in: "Found in lessons",
+    act_title: "Activity",
+    act_total: "Total actions",
+    act_active: "Active days",
+    act_streak: "Current streak",
+    act_best: "Best day",
+    act_days: "days",
+    act_less: "Less", act_more: "More",
+    prg_title: "Progress",
+    prg_lessons_done: "Lessons opened",
+    prg_words_studied: "Words in SRS",
+    prg_streak: "Streak",
+    prg_today: "Today",
+    prg_week: "Last 7 days",
+    prg_month: "Last 30 days",
+    prg_total: "Total actions",
+    prg_reset: "Reset progress",
+    prg_reset_ok: "Progress reset",
+    prg_reset_confirm: "Reset all progress? This cannot be undone.",
+    srs_title: "Review (SRS)",
+    srs_start: "Start session",
+    srs_size: "Session size",
+    srs_all_done: "All cards reviewed for today!",
+    srs_due: "Cards due",
+    srs_total: "Total cards",
+    srs_known: "Known",
+    srs_reveal: "Show answer",
+    srs_again: "Again",
+    srs_hard: "Hard",
+    srs_good: "Good",
+    srs_easy: "Easy",
+    srs_finish: "Session finished",
+    srs_correct: "Correct",
+    srs_again_short: "Again",
+    srs_scope: "Scope",
+  },
+};
+function tU(k) {
+  const l = (typeof getLang === "function" ? getLang() : "ru");
+  return (UI_T[l] || UI_T.ru)[k] || UI_T.ru[k] || k;
+}
+
+// ============================================================
+// Фон
 // ============================================================
 function drawBackgroundPattern() {
-  const container = document.getElementById("bg-pattern");
-  if (!container || container.dataset.drawn === "1") return;
-  container.dataset.drawn = "1";
-
-  const BG_CHARS = "汉字学习研究书道文心画意诗词歌赋";
-  const MATH = "xyabfπ√∞θαβΔ";
-  const w = window.innerWidth;
-  const h = window.innerHeight;
-
+  const c = document.getElementById("bg-pattern");
+  if (!c || c.dataset.drawn === "1") return;
+  c.dataset.drawn = "1";
+  const BG = "汉字学习研究书道文心画意诗词歌赋";
+  const M = "xyabfπ√∞θαβΔ";
+  const w = window.innerWidth, h = window.innerHeight;
   let seed = 42;
-  const rnd = () => {
-    seed = (seed * 16807) % 2147483647;
-    return seed / 2147483647;
-  };
-
+  const rnd = () => { seed = (seed * 16807) % 2147483647; return seed / 2147483647; };
   for (let i = 0; i < 30; i++) {
-    const span = document.createElement("span");
-    span.textContent = BG_CHARS[Math.floor(rnd() * BG_CHARS.length)];
-    span.style.left = (rnd() * (w + 100) - 50) + "px";
-    span.style.top = (rnd() * (h + 100) - 50) + "px";
-    span.style.fontSize = (40 + rnd() * 90) + "px";
-    container.appendChild(span);
+    const s = document.createElement("span");
+    s.textContent = BG[Math.floor(rnd() * BG.length)];
+    s.style.left = (rnd() * (w + 100) - 50) + "px";
+    s.style.top = (rnd() * (h + 100) - 50) + "px";
+    s.style.fontSize = (40 + rnd() * 90) + "px";
+    c.appendChild(s);
   }
   for (let i = 0; i < 22; i++) {
-    const span = document.createElement("span");
-    span.className = "math";
-    span.textContent = MATH[Math.floor(rnd() * MATH.length)];
-    span.style.left = (rnd() * w) + "px";
-    span.style.top = (rnd() * h) + "px";
-    span.style.fontSize = (14 + rnd() * 16) + "px";
-    container.appendChild(span);
+    const s = document.createElement("span");
+    s.className = "math";
+    s.textContent = M[Math.floor(rnd() * M.length)];
+    s.style.left = (rnd() * w) + "px";
+    s.style.top = (rnd() * h) + "px";
+    s.style.fontSize = (14 + rnd() * 16) + "px";
+    c.appendChild(s);
   }
 }
 
@@ -63,13 +287,10 @@ function renderMainMenu() {
       <span class="app-name">${t("app_name")}</span>
     </div>
     <div class="version">v0.1.0 · web</div>
-
     <div class="main-layout">
       <div class="menu-list" id="menu-list"></div>
       <div class="sidebar" id="sidebar"></div>
-    </div>
-  `;
-
+    </div>`;
   const list = document.getElementById("menu-list");
   for (const item of MENU_ITEMS) {
     const card = document.createElement("div");
@@ -80,64 +301,74 @@ function renderMainMenu() {
         <div class="card-title">${t(item.key).replace(/^[^\s]+\s*/, "")}</div>
         <div class="card-sub">${t(item.sub)}</div>
       </div>
-      <div class="card-chevron">›</div>
-    `;
+      <div class="card-chevron">›</div>`;
     card.addEventListener("click", () => navigate(item.route));
     list.appendChild(card);
   }
+  const fb = document.createElement("div");
+  fb.className = "card";
+  fb.innerHTML = `
+    <div class="card-icon teal">✉</div>
+    <div class="card-text">
+      <div class="card-title">${tFb("menu_title")}</div>
+      <div class="card-sub">${tFb("menu_sub")}</div>
+    </div>
+    <div class="card-chevron">›</div>`;
+  fb.addEventListener("click", () => navigate("feedback"));
+  list.appendChild(fb);
 
-  const sidebar = document.getElementById("sidebar");
-  sidebar.innerHTML = `
+  const lessons = lsGet(LS.lessons, []);
+  const act = lsGet(LS.activity, {});
+  const todayCount = act[todayStr()] || 0;
+
+  let streak = 0;
+  const d = new Date();
+  while (true) {
+    const s = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+    if (act[s]) { streak++; d.setDate(d.getDate() - 1); } else break;
+  }
+
+  const sb = document.getElementById("sidebar");
+  sb.innerHTML = `
     <div class="continue-card" id="btn-continue">
       <div class="continue-icon">▶</div>
       <div>
         <div class="continue-title">${t("continue")}</div>
-        <div class="continue-sub">Урок 1.1</div>
+        <div class="continue-sub">${lessons.length ? "Уроки" : "Начни с Урока 1.1"}</div>
       </div>
     </div>
     <button class="side-btn" id="btn-lang">
       <span style="font-size:18px">🌐</span>
       <span>${langName()}</span>
     </button>
-    <button class="side-btn" id="btn-about">
-      <span style="font-size:18px">ℹ</span>
-      <span>О программе</span>
-    </button>
     <div class="streak-card">
       <div style="font-size:28px">🔥</div>
       <div>
-        <div class="streak-num">0</div>
+        <div class="streak-num">${streak}</div>
         <div class="streak-label">${t("streak")}</div>
       </div>
     </div>
     <div class="progress-bar-container">
       <div class="progress-header">
         <span>${t("course_progress")}</span>
-        <span>0/18</span>
+        <span>${lessons.length}/18</span>
       </div>
       <div class="progress-bar">
-        <div class="progress-fill" style="width: 0%"></div>
+        <div class="progress-fill" style="width: ${Math.round(lessons.length / 18 * 100)}%"></div>
       </div>
     </div>
-  `;
-
-  document.getElementById("btn-continue").addEventListener("click",
-    () => navigate("lessons"));
-  document.getElementById("btn-lang").addEventListener("click",
-    () => cycleLang());
-  document.getElementById("btn-about").addEventListener("click",
-    () => alert("HSK 5 Learner · web\nHSK 5 上 · тренажёр"));
+    <div style="font-size:12px;color:#8B9AAB;margin-top:8px;text-align:center">
+      ${tU("prg_today")}: ${todayCount}
+    </div>`;
+  document.getElementById("btn-continue").addEventListener("click", () => navigate("lessons"));
+  document.getElementById("btn-lang").addEventListener("click", () => cycleLang());
 }
-
 function langName() {
   return { ru: "Сменить язык", tk: "Dili çalyş", en: "Change language" }[getLang()];
 }
-
 function cycleLang() {
-  const order = ["ru", "tk", "en"];
-  const cur = getLang();
-  const nxt = order[(order.indexOf(cur) + 1) % order.length];
-  setLang(nxt);
+  const o = ["ru", "tk", "en"], c = getLang();
+  setLang(o[(o.indexOf(c) + 1) % o.length]);
 }
 
 // ============================================================
@@ -151,111 +382,797 @@ const UNIT_TITLES = {
   5: { zh: "放眼世界", ru: "Взгляд на мир", tk: "Dünýä nazary", en: "Seeing the World" },
   6: { zh: "修养身心", ru: "Душа и тело", tk: "Ruhy we beden", en: "Cultivating Body and Mind" },
 };
-
-const UNIT_COLORS = {
-  1: "#3A6088", 2: "#3A7060", 3: "#7A6030",
-  4: "#5A4A88", 5: "#3A7080", 6: "#7A3A60",
-};
+const UNIT_COLORS = { 1: "#3A6088", 2: "#3A7060", 3: "#7A6030",
+  4: "#5A4A88", 5: "#3A7080", 6: "#7A3A60" };
 
 async function renderLessons() {
   app.innerHTML = `
     <button class="back-btn" id="back">‹ ${t("back")}</button>
-    <div class="header">
-      <span class="app-name">📚 ${t("menu_lessons").replace(/^[^\s]+\s*/, "")}</span>
-    </div>
+    <div class="header"><span class="app-name">📚 ${t("menu_lessons").replace(/^[^\s]+\s*/, "")}</span></div>
     <div class="version">${t("lessons_sub")}</div>
-    <div id="lessons-content" class="loading">${t("loading")}</div>
-  `;
+    <div id="lessons-content" class="loading">${t("loading")}</div>`;
   document.getElementById("back").addEventListener("click", () => navigate("menu"));
-
   try {
     const r = await fetch("/api/lessons");
-    const lessons = await r.json();
-
+    const ls = await r.json();
     const byUnit = {};
-    for (const l of lessons) {
-      const u = l.unit;
-      if (!byUnit[u]) byUnit[u] = [];
-      byUnit[u].push(l);
-    }
-
+    for (const l of ls) { (byUnit[l.unit] = byUnit[l.unit] || []).push(l); }
     const cont = document.getElementById("lessons-content");
     cont.classList.remove("loading");
     cont.innerHTML = "";
-
-    for (const unit of Object.keys(byUnit).sort()) {
-      const unitBlock = document.createElement("div");
-      unitBlock.className = "unit-block";
-
-      const title = UNIT_TITLES[unit] || {};
-      const tr = title[getLang()] || title.en || "";
-
-      unitBlock.innerHTML = `
+    const opened = lsGet(LS.lessons, []);
+    for (const u of Object.keys(byUnit).sort()) {
+      const block = document.createElement("div");
+      block.className = "unit-block";
+      const tt = UNIT_TITLES[u] || {};
+      const tr = tt[getLang()] || tt.en || "";
+      block.innerHTML = `
         <div class="unit-header">
-          <span class="unit-label">UNIT ${unit}</span>
-          <span class="unit-name">${title.zh || ""} · ${tr}</span>
-        </div>
-      `;
-
-      for (const l of byUnit[unit]) {
+          <span class="unit-label">UNIT ${u}</span>
+          <span class="unit-name">${tt.zh || ""} · ${tr}</span>
+        </div>`;
+      for (const l of byUnit[u]) {
         const row = document.createElement("div");
         row.className = "lesson-row";
         const color = UNIT_COLORS[l.unit] || "#3A6088";
-        // FIX: сервер отдаёт "lesson", а не "index"
-        const lessonNum = l.lesson;
-        const zh = (l.title && l.title.zh) || `Урок ${l.unit}.${lessonNum}`;
-        const trTitle = (l.title && (l.title[getLang()] || l.title.en)) || "";
-
+        const zh = (l.title && l.title.zh) || `Урок ${l.unit}.${l.lesson}`;
+        const trT = (l.title && (l.title[getLang()] || l.title.en)) || "";
+        const done = opened.includes(`${l.unit}.${l.lesson}`);
         row.innerHTML = `
-          <div class="lesson-num" style="background:${color}">${l.unit}.${lessonNum}</div>
+          <div class="lesson-num" style="background:${color}">${l.unit}.${l.lesson}</div>
           <div class="lesson-titles">
             <div class="lesson-zh">${zh}</div>
-            <div class="lesson-tr">${trTitle}</div>
+            <div class="lesson-tr">${trT}</div>
           </div>
-          <div class="card-chevron">›</div>
-        `;
-        // FIX: используем l.lesson
-        row.addEventListener("click", () => navigate(`lesson/${l.unit}/${lessonNum}`));
-        unitBlock.appendChild(row);
+          <div class="card-chevron">${done ? "✓" : "›"}</div>`;
+        row.addEventListener("click", () => navigate(`lesson/${l.unit}/${l.lesson}`));
+        block.appendChild(row);
       }
-
-      cont.appendChild(unitBlock);
+      cont.appendChild(block);
     }
   } catch (e) {
     document.getElementById("lessons-content").innerHTML =
-      `<div style="color:#FF6B6B">Ошибка загрузки: ${e.message}</div>`;
+      `<div style="color:#FF6B6B">Ошибка: ${e.message}</div>`;
   }
 }
 
 // ============================================================
-// ЭКРАН УРОКА
+// Хелпер: фильтр по юнитам
+// ============================================================
+function makeUnitFilter(container, onPick) {
+  const units = ["all", 1, 2, 3, 4, 5, 6];
+  let cur = "all";
+  function draw() {
+    container.innerHTML = "";
+    for (const u of units) {
+      const b = document.createElement("button");
+      const label = u === "all" ? tU("unit_all") : `Unit ${u}`;
+      const active = u === cur;
+      b.textContent = label;
+      b.style.cssText =
+        `padding:6px 14px;border-radius:8px;font-size:13px;cursor:pointer;` +
+        `border:1px solid ${active ? "#66B2FF" : "#444"};` +
+        `background:${active ? "#4a9eff" : "transparent"};color:#fff`;
+      b.addEventListener("click", () => { cur = u; draw(); onPick(cur); });
+      container.appendChild(b);
+    }
+  }
+  draw();
+  return () => cur;
+}
+
+// ============================================================
+// СЛОВАРЬ
+// ============================================================
+let vocabCache = null;
+
+async function renderVocab() {
+  app.innerHTML = `
+    <button class="back-btn" id="back">‹ ${t("back")}</button>
+    <div class="header"><span class="app-name">📓 ${t("menu_vocab").replace(/^[^\s]+\s*/, "")}</span></div>
+    <div class="version">${t("vocab_sub")}</div>
+    <div class="content-card" style="margin-top:14px">
+      <input id="search" type="text" placeholder="${tU("vocab_search_ph")}"
+             style="width:100%;padding:10px;border-radius:8px;border:1px solid #444;background:#0e1620;color:#fff;font-size:15px;box-sizing:border-box">
+      <div id="filters" style="display:flex;gap:8px;margin-top:12px;flex-wrap:wrap"></div>
+      <div id="status" style="margin-top:12px;font-size:13px;color:#8B9AAB"></div>
+    </div>
+    <div id="table-wrap" style="margin-top:12px"></div>`;
+  document.getElementById("back").addEventListener("click", () => navigate("menu"));
+  if (!vocabCache) {
+    try { vocabCache = await (await fetch("/api/vocab")).json(); }
+    catch (e) { vocabCache = []; }
+  }
+  let query = "", unit = "all";
+  const getUnit = makeUnitFilter(document.getElementById("filters"), (u) => { unit = u; table(); });
+  function table() {
+    unit = getUnit();
+    const lang = getLang();
+    const items = vocabCache.filter(w => {
+      if (unit !== "all" && w.unit !== unit) return false;
+      if (!query) return true;
+      const q = query.toLowerCase();
+      const m = w.meaning || {};
+      return (w.hanzi || "").includes(q)
+          || (w.pinyin || "").toLowerCase().includes(q)
+          || ((m[lang] || m.en || "").toLowerCase().includes(q));
+    });
+    document.getElementById("status").textContent =
+      `${items.length} / ${vocabCache.length} · ${t("vocab_words")}`;
+    const wrap = document.getElementById("table-wrap");
+    if (!items.length) {
+      wrap.innerHTML = `<div class="loading" style="padding:30px">${tU("empty")}</div>`;
+      return;
+    }
+    let html = `<div class="content-card"><table class="vocab-table"><thead><tr>
+      <th style="width:70px">${tU("col_lesson")}</th>
+      <th style="width:80px">${tU("col_hanzi")}</th>
+      <th style="width:120px">${tU("col_pinyin")}</th>
+      <th style="width:55px">${tU("col_pos")}</th>
+      <th>${tU("col_trans")}</th>
+    </tr></thead><tbody>`;
+    for (const w of items) {
+      const m = w.meaning || {};
+      const tr = m[lang] || m.en || "";
+      html += `<tr>
+        <td style="color:#8B9AAB;font-size:13px">${w.unit}.${w.lesson}</td>
+        <td class="cell-hanzi">${escapeHtml(w.hanzi)}</td>
+        <td class="cell-pinyin">${escapeHtml(w.pinyin)}</td>
+        <td class="cell-pos">${escapeHtml(w.pos)}</td>
+        <td>${escapeHtml(tr)}</td></tr>`;
+    }
+    wrap.innerHTML = html + "</tbody></table></div>";
+  }
+  document.getElementById("search").addEventListener("input", e => {
+    query = e.target.value.trim(); table();
+  });
+  table();
+}
+
+// ============================================================
+// ГРАММАТИКА
+// ============================================================
+let grammarCache = null;
+
+async function renderGrammar() {
+  app.innerHTML = `
+    <button class="back-btn" id="back">‹ ${t("back")}</button>
+    <div class="header"><span class="app-name">📝 ${t("menu_grammar").replace(/^[^\s]+\s*/, "")}</span></div>
+    <div class="version">${t("grammar_sub")}</div>
+    <div class="content-card" style="margin-top:14px">
+      <input id="search" type="text" placeholder="${tU("grammar_search_ph")}"
+             style="width:100%;padding:10px;border-radius:8px;border:1px solid #444;background:#0e1620;color:#fff;font-size:15px;box-sizing:border-box">
+      <div id="filters" style="display:flex;gap:8px;margin-top:12px;flex-wrap:wrap"></div>
+      <div id="status" style="margin-top:12px;font-size:13px;color:#8B9AAB"></div>
+    </div>
+    <div id="list" style="margin-top:12px"></div>`;
+  document.getElementById("back").addEventListener("click", () => navigate("menu"));
+  if (!grammarCache) {
+    try { grammarCache = await (await fetch("/api/grammar")).json(); }
+    catch (e) { grammarCache = []; }
+  }
+  let query = "", unit = "all";
+  const getUnit = makeUnitFilter(document.getElementById("filters"), (u) => { unit = u; draw(); });
+  function draw() {
+    unit = getUnit();
+    const lang = getLang();
+    const items = grammarCache.filter(g => {
+      if (unit !== "all" && g.unit !== unit) return false;
+      if (!query) return true;
+      const q = query.toLowerCase();
+      const ex = (g.explanation || {})[lang] || (g.explanation || {}).en || "";
+      return (g.word || "").toLowerCase().includes(q) || ex.toLowerCase().includes(q);
+    });
+    document.getElementById("status").textContent =
+      `${items.length} / ${grammarCache.length} · ${tU("grammar_total")}`;
+    const wrap = document.getElementById("list");
+    if (!items.length) {
+      wrap.innerHTML = `<div class="loading" style="padding:30px">${tU("empty")}</div>`;
+      return;
+    }
+    wrap.innerHTML = "";
+    for (const g of items) {
+      const card = document.createElement("div");
+      card.className = "grammar-card";
+      const expl = (g.explanation && (g.explanation[lang] || g.explanation.en)) || "";
+      let exs = "";
+      for (let i = 0; i < (g.examples || []).length; i++) {
+        const e = g.examples[i];
+        const eTr = e[lang] || e.en || "";
+        exs += `<div class="grammar-example">
+          <div class="ex-zh">${i + 1}. ${escapeHtml(e.zh || "")}</div>
+          <div class="ex-tr">${escapeHtml(eTr)}</div></div>`;
+      }
+      card.innerHTML = `
+        <div class="grammar-head">
+          <span class="grammar-word">${escapeHtml(g.word || "")}</span>
+          <span class="grammar-pos" style="margin-left:10px;color:#8B9AAB;font-size:13px">
+            ${g.unit}.${g.lesson} · ${escapeHtml(g.pos || "")}</span>
+        </div>
+        <div class="grammar-expl">${escapeHtml(expl)}</div>
+        ${exs}`;
+      wrap.appendChild(card);
+    }
+  }
+  document.getElementById("search").addEventListener("input", e => {
+    query = e.target.value.trim(); draw();
+  });
+  draw();
+}
+
+// ============================================================
+// СРАВНЕНИЕ СЛОВ
+// ============================================================
+let compareCache = null;
+
+async function renderCompare() {
+  app.innerHTML = `
+    <button class="back-btn" id="back">‹ ${t("back")}</button>
+    <div class="header"><span class="app-name">⚖ ${t("menu_compare").replace(/^[^\s]+\s*/, "")}</span></div>
+    <div class="version">${t("compare_sub")}</div>
+    <div class="content-card" style="margin-top:14px">
+      <input id="search" type="text" placeholder="${tU("compare_search_ph")}"
+             style="width:100%;padding:10px;border-radius:8px;border:1px solid #444;background:#0e1620;color:#fff;font-size:15px;box-sizing:border-box">
+      <div id="filters" style="display:flex;gap:8px;margin-top:12px;flex-wrap:wrap"></div>
+      <div id="status" style="margin-top:12px;font-size:13px;color:#8B9AAB"></div>
+    </div>
+    <div id="list" style="margin-top:12px"></div>`;
+  document.getElementById("back").addEventListener("click", () => navigate("menu"));
+  if (!compareCache) {
+    try { compareCache = await (await fetch("/api/compare")).json(); }
+    catch (e) { compareCache = []; }
+  }
+  let query = "", unit = "all";
+  const getUnit = makeUnitFilter(document.getElementById("filters"), (u) => { unit = u; draw(); });
+  function draw() {
+    unit = getUnit();
+    const lang = getLang();
+    const items = compareCache.filter(c => {
+      if (unit !== "all" && c.unit !== unit) return false;
+      if (!query) return true;
+      const q = query.toLowerCase();
+      const cm = (c.common || {})[lang] || (c.common || {}).en || "";
+      return (c.word_a || "").toLowerCase().includes(q)
+          || (c.word_b || "").toLowerCase().includes(q)
+          || cm.toLowerCase().includes(q);
+    });
+    document.getElementById("status").textContent = `${items.length} / ${compareCache.length}`;
+    const wrap = document.getElementById("list");
+    if (!items.length) {
+      wrap.innerHTML = `<div class="loading" style="padding:30px">${tU("empty")}</div>`;
+      return;
+    }
+    wrap.innerHTML = "";
+    for (const c of items) {
+      const card = document.createElement("div");
+      card.className = "compare-card";
+      const cm = (c.common && (c.common[lang] || c.common.en)) || "";
+      let diffs = "";
+      for (const d of (c.differences || [])) {
+        const dt = d[lang] || d.en || "";
+        diffs += `<div class="compare-diff-item">${escapeHtml(dt)}</div>`;
+      }
+      card.innerHTML = `
+        <div class="compare-head">${escapeHtml(c.word_a || "")}
+          <span style="color:#8B9AAB;font-weight:400;font-size:13px;margin-left:8px">
+            ${c.unit}.${c.lesson}</span>
+        </div>
+        <div class="compare-common">≈ ${tU("compare_common")}</div>
+        <div class="compare-common-text">${escapeHtml(cm)}</div>
+        <div class="compare-diff-title">≠ ${tU("compare_diff")}</div>
+        ${diffs}`;
+      wrap.appendChild(card);
+    }
+  }
+  document.getElementById("search").addEventListener("input", e => {
+    query = e.target.value.trim(); draw();
+  });
+  draw();
+}
+
+// ============================================================
+// АНАЛИЗАТОР ИЕРОГЛИФОВ
+// ============================================================
+async function renderAnalyzer() {
+  app.innerHTML = `
+    <button class="back-btn" id="back">‹ ${t("back")}</button>
+    <div class="header"><span class="app-name">🔍 ${tU("analyzer_title")}</span></div>
+    <div class="version">${tU("analyzer_hint")}</div>
+    <div class="content-card" style="margin-top:14px">
+      <input id="q" type="text" placeholder="${tU("analyzer_ph")}" autofocus
+             style="width:100%;padding:12px;border-radius:8px;border:1px solid #444;background:#0e1620;color:#fff;font-size:20px;box-sizing:border-box">
+    </div>
+    <div id="result" style="margin-top:14px"></div>`;
+  document.getElementById("back").addEventListener("click", () => navigate("menu"));
+  if (!vocabCache) {
+    try { vocabCache = await (await fetch("/api/vocab")).json(); }
+    catch (e) { vocabCache = []; }
+  }
+  const lang = getLang();
+  function draw() {
+    const q = document.getElementById("q").value.trim();
+    const wrap = document.getElementById("result");
+    if (!q) { wrap.innerHTML = ""; return; }
+    const matches = vocabCache.filter(w =>
+      (w.hanzi || "").includes(q) || (w.pinyin || "").toLowerCase().includes(q.toLowerCase()));
+    if (!matches.length) {
+      wrap.innerHTML = `<div class="loading" style="padding:30px">${tU("analyzer_nothing")}</div>`;
+      return;
+    }
+    wrap.innerHTML = "";
+    for (const w of matches) {
+      const m = w.meaning || {};
+      const tr = m[lang] || m.en || "";
+      const card = document.createElement("div");
+      card.className = "content-card";
+      card.style.marginBottom = "10px";
+      card.innerHTML = `
+        <div style="display:flex;align-items:baseline;gap:16px;flex-wrap:wrap">
+          <div class="cell-hanzi" style="font-size:44px;font-weight:700">${escapeHtml(w.hanzi)}</div>
+          <div class="cell-pinyin" style="font-size:18px;color:#8B9AAB">${escapeHtml(w.pinyin)}</div>
+          <div style="font-size:13px;color:#8B9AAB">${escapeHtml(w.pos)}</div>
+          <div style="font-size:18px;margin-left:auto;color:#66B2FF">${escapeHtml(tr)}</div>
+        </div>
+        <div style="margin-top:8px;font-size:13px;color:#8B9AAB">${tU("analyzer_found_in")}: ${w.unit}.${w.lesson}</div>`;
+      wrap.appendChild(card);
+    }
+  }
+  document.getElementById("q").addEventListener("input", draw);
+}
+
+// ============================================================
+// ACTIVITY (heatmap 365 дней)
+// ============================================================
+function renderActivity() {
+  app.innerHTML = `
+    <button class="back-btn" id="back">‹ ${t("back")}</button>
+    <div class="header"><span class="app-name">📊 ${tU("act_title")}</span></div>
+    <div id="content" class="loading">${t("loading")}</div>`;
+  document.getElementById("back").addEventListener("click", () => navigate("menu"));
+
+  const act = lsGet(LS.activity, {});
+  const content = document.getElementById("content");
+  content.classList.remove("loading");
+
+  // Статистика
+  let total = 0, activeDays = 0, bestDay = 0, bestDate = "";
+  for (const [d, c] of Object.entries(act)) {
+    total += c;
+    if (c > 0) activeDays++;
+    if (c > bestDay) { bestDay = c; bestDate = d; }
+  }
+  let streak = 0;
+  const dd = new Date();
+  while (true) {
+    const s = `${dd.getFullYear()}-${String(dd.getMonth() + 1).padStart(2, "0")}-${String(dd.getDate()).padStart(2, "0")}`;
+    if (act[s]) { streak++; dd.setDate(dd.getDate() - 1); } else break;
+  }
+
+  // Heatmap 53 недели × 7 дней
+  const WEEKS = 53, CELL = 14, GAP = 3;
+  const totalW = WEEKS * (CELL + GAP);
+  const totalH = 7 * (CELL + GAP);
+
+  // находим начало — понедельник 52 недели назад
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+  const start = new Date(today);
+  start.setDate(start.getDate() - (WEEKS * 7 - 1));
+  // выравниваем на понедельник
+  const dow = (start.getDay() + 6) % 7;
+  start.setDate(start.getDate() - dow);
+
+  const cellsByWeek = [];
+  const cur = new Date(start);
+  for (let w = 0; w < WEEKS; w++) {
+    const week = [];
+    for (let d = 0; d < 7; d++) {
+      const s = `${cur.getFullYear()}-${String(cur.getMonth() + 1).padStart(2, "0")}-${String(cur.getDate()).padStart(2, "0")}`;
+      const future = cur > today;
+      week.push({ date: s, count: future ? -1 : (act[s] || 0) });
+      cur.setDate(cur.getDate() + 1);
+    }
+    cellsByWeek.push(week);
+  }
+
+  function level(c) {
+    if (c < 0) return -1;
+    if (c === 0) return 0;
+    if (c <= 2) return 1;
+    if (c <= 5) return 2;
+    if (c <= 10) return 3;
+    return 4;
+  }
+  function color(lv) {
+    return ["#1a2430", "#0e4429", "#006d32", "#26a641", "#39d353"][lv + 1] || "#1a2430";
+  }
+
+  let svg = `<svg width="${totalW}" height="${totalH}" style="display:block;max-width:100%">`;
+  for (let w = 0; w < WEEKS; w++) {
+    for (let d = 0; d < 7; d++) {
+      const { date, count } = cellsByWeek[w][d];
+      const lv = level(count);
+      if (lv < 0) continue;
+      const x = w * (CELL + GAP), y = d * (CELL + GAP);
+      svg += `<rect x="${x}" y="${y}" width="${CELL}" height="${CELL}" rx="2" fill="${color(lv)}"><title>${date}: ${count}</title></rect>`;
+    }
+  }
+  svg += "</svg>";
+
+  content.innerHTML = `
+    <div class="content-card" style="margin-top:14px">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:14px;margin-bottom:14px">
+        <div>
+          <div style="font-size:24px;font-weight:700;color:#66B2FF">${total}</div>
+          <div style="font-size:12px;color:#8B9AAB">${tU("act_total")}</div>
+        </div>
+        <div>
+          <div style="font-size:24px;font-weight:700;color:#66B2FF">${activeDays}</div>
+          <div style="font-size:12px;color:#8B9AAB">${tU("act_active")}</div>
+        </div>
+        <div>
+          <div style="font-size:24px;font-weight:700;color:#66B2FF">${streak} ${tU("act_days")}</div>
+          <div style="font-size:12px;color:#8B9AAB">${tU("act_streak")}</div>
+        </div>
+        <div>
+          <div style="font-size:24px;font-weight:700;color:#66B2FF">${bestDay}</div>
+          <div style="font-size:12px;color:#8B9AAB">${tU("act_best")}${bestDate ? " · " + bestDate : ""}</div>
+        </div>
+      </div>
+      <div style="overflow-x:auto;padding-bottom:8px">${svg}</div>
+      <div style="display:flex;align-items:center;gap:6px;margin-top:10px;font-size:12px;color:#8B9AAB">
+        <span>${tU("act_less")}</span>
+        <span style="display:inline-block;width:14px;height:14px;background:#1a2430;border-radius:2px"></span>
+        <span style="display:inline-block;width:14px;height:14px;background:#0e4429;border-radius:2px"></span>
+        <span style="display:inline-block;width:14px;height:14px;background:#006d32;border-radius:2px"></span>
+        <span style="display:inline-block;width:14px;height:14px;background:#26a641;border-radius:2px"></span>
+        <span style="display:inline-block;width:14px;height:14px;background:#39d353;border-radius:2px"></span>
+        <span>${tU("act_more")}</span>
+      </div>
+    </div>`;
+}
+
+// ============================================================
+// PROGRESS
+// ============================================================
+function renderProgress() {
+  app.innerHTML = `
+    <button class="back-btn" id="back">‹ ${t("back")}</button>
+    <div class="header"><span class="app-name">📈 ${tU("prg_title")}</span></div>
+    <div id="content" class="loading">${t("loading")}</div>`;
+  document.getElementById("back").addEventListener("click", () => navigate("menu"));
+
+  const act = lsGet(LS.activity, {});
+  const lessons = lsGet(LS.lessons, []);
+  const srs = lsGet(LS.srs, {});
+
+  let total = 0, activeDays = 0;
+  for (const c of Object.values(act)) { total += c; if (c > 0) activeDays++; }
+
+  let streak = 0;
+  const dd = new Date();
+  while (true) {
+    const s = `${dd.getFullYear()}-${String(dd.getMonth() + 1).padStart(2, "0")}-${String(dd.getDate()).padStart(2, "0")}`;
+    if (act[s]) { streak++; dd.setDate(dd.getDate() - 1); } else break;
+  }
+
+  const today = act[todayStr()] || 0;
+  let week = 0, month = 0;
+  const now = new Date();
+  for (let i = 0; i < 30; i++) {
+    const d = new Date(now); d.setDate(d.getDate() - i);
+    const s = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+    const c = act[s] || 0;
+    if (i < 7) week += c;
+    month += c;
+  }
+
+  const srsWords = Object.keys(srs).length;
+  const srsLearned = Object.values(srs).filter(r => r.reps >= 3).length;
+
+  const content = document.getElementById("content");
+  content.classList.remove("loading");
+  content.innerHTML = `
+    <div class="content-card" style="margin-top:14px">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:18px">
+        <div>
+          <div style="font-size:28px;font-weight:700;color:#66B2FF">${lessons.length} / 18</div>
+          <div style="font-size:12px;color:#8B9AAB;margin-top:4px">${tU("prg_lessons_done")}</div>
+          <div class="progress-bar" style="margin-top:8px">
+            <div class="progress-fill" style="width: ${Math.round(lessons.length / 18 * 100)}%"></div>
+          </div>
+        </div>
+        <div>
+          <div style="font-size:28px;font-weight:700;color:#66B2FF">${srsWords}</div>
+          <div style="font-size:12px;color:#8B9AAB;margin-top:4px">${tU("prg_words_studied")}</div>
+          ${srsWords ? `<div style="font-size:12px;color:#5CD68E;margin-top:4px">${tU("srs_known")}: ${srsLearned}</div>` : ""}
+        </div>
+        <div>
+          <div style="font-size:28px;font-weight:700;color:#FFB84D">${streak} 🔥</div>
+          <div style="font-size:12px;color:#8B9AAB;margin-top:4px">${tU("prg_streak")}</div>
+        </div>
+        <div>
+          <div style="font-size:28px;font-weight:700;color:#5CD68E">${today}</div>
+          <div style="font-size:12px;color:#8B9AAB;margin-top:4px">${tU("prg_today")}</div>
+        </div>
+        <div>
+          <div style="font-size:28px;font-weight:700;color:#8B9AAB">${week}</div>
+          <div style="font-size:12px;color:#8B9AAB;margin-top:4px">${tU("prg_week")}</div>
+        </div>
+        <div>
+          <div style="font-size:28px;font-weight:700;color:#8B9AAB">${month}</div>
+          <div style="font-size:12px;color:#8B9AAB;margin-top:4px">${tU("prg_month")}</div>
+        </div>
+        <div>
+          <div style="font-size:28px;font-weight:700;color:#8B9AAB">${total}</div>
+          <div style="font-size:12px;color:#8B9AAB;margin-top:4px">${tU("prg_total")} · ${activeDays} ${tU("act_days")}</div>
+        </div>
+      </div>
+      <button id="reset" style="margin-top:20px;padding:10px 20px;border-radius:8px;background:transparent;color:#FF6B6B;border:1px solid #FF6B6B;cursor:pointer;font-size:14px">
+        ${tU("prg_reset")}
+      </button>
+    </div>`;
+
+  document.getElementById("reset").addEventListener("click", () => {
+    if (!confirm(tU("prg_reset_confirm"))) return;
+    localStorage.removeItem(LS.activity);
+    localStorage.removeItem(LS.lessons);
+    localStorage.removeItem(LS.srs);
+    alert(tU("prg_reset_ok"));
+    renderProgress();
+  });
+}
+
+// ============================================================
+// SRS
+// ============================================================
+let srsSession = null;
+
+function srsLoad() { return lsGet(LS.srs, {}); }
+function srsSave(data) { lsSet(LS.srs, data); }
+
+function srsReview(hanzi, rating) {
+  const db = srsLoad();
+  let r = db[hanzi] || { ease: 2.5, interval: 0, reps: 0, lapses: 0, due: 0 };
+  // rating: 1=again 2=hard 3=good 4=easy
+  if (rating === 1) {
+    r.interval = 0;
+    r.reps = 0;
+    r.lapses = (r.lapses || 0) + 1;
+    r.ease = Math.max(1.3, r.ease - 0.2);
+  } else {
+    if (rating === 2) {
+      r.interval = r.reps === 0 ? 1 : Math.max(1, Math.round(r.interval * 1.2));
+      r.ease = Math.max(1.3, r.ease - 0.15);
+    } else if (rating === 3) {
+      r.interval = r.reps === 0 ? 1 : (r.reps === 1 ? 3 : Math.round(r.interval * r.ease));
+      r.reps += 1;
+    } else if (rating === 4) {
+      r.interval = r.reps === 0 ? 2 : (r.reps === 1 ? 5 : Math.round(r.interval * r.ease * 1.3));
+      r.ease = Math.min(3.0, r.ease + 0.15);
+      r.reps += 1;
+    }
+    r.reps = r.reps || 1;
+  }
+  const now = Date.now();
+  r.due = now + r.interval * 24 * 60 * 60 * 1000;
+  db[hanzi] = r;
+  srsSave(db);
+  return r;
+}
+
+function srsDueCards() {
+  const db = srsLoad();
+  const now = Date.now();
+  return Object.entries(db).filter(([_, r]) => (r.due || 0) <= now);
+}
+
+async function renderSrs() {
+  app.innerHTML = `
+    <button class="back-btn" id="back">‹ ${t("back")}</button>
+    <div class="header"><span class="app-name">🔁 ${tU("srs_title")}</span></div>
+    <div id="content" class="loading">${t("loading")}</div>`;
+  document.getElementById("back").addEventListener("click", () => navigate("menu"));
+
+  if (!vocabCache) {
+    try { vocabCache = await (await fetch("/api/vocab")).json(); }
+    catch (e) { vocabCache = []; }
+  }
+
+  const db = srsLoad();
+  const known = Object.keys(db).length;
+  const due = srsDueCards().length;
+
+  const content = document.getElementById("content");
+  content.classList.remove("loading");
+
+  if (srsSession) { srsRenderCard(); return; }
+
+  content.innerHTML = `
+    <div class="content-card" style="margin-top:14px">
+      <div style="display:flex;gap:18px;flex-wrap:wrap;align-items:center;margin-bottom:16px">
+        <div>
+          <div style="font-size:28px;font-weight:700;color:#66B2FF">${due}</div>
+          <div style="font-size:12px;color:#8B9AAB">${tU("srs_due")}</div>
+        </div>
+        <div>
+          <div style="font-size:28px;font-weight:700;color:#8B9AAB">${known}</div>
+          <div style="font-size:12px;color:#8B9AAB">${tU("srs_total")}</div>
+        </div>
+      </div>
+      <div style="font-size:13px;color:#8B9AAB;margin-bottom:8px">${tU("srs_size")}</div>
+      <div id="size-btns" style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px"></div>
+      <button id="start" style="padding:12px 24px;border-radius:10px;background:#4a9eff;color:#fff;border:0;font-size:16px;cursor:pointer;font-weight:600">
+        ${tU("srs_start")}
+      </button>
+    </div>`;
+
+  let size = lsGet(LS.settings, {}).sessionSize || 20;
+  function drawSize() {
+    const wrap = document.getElementById("size-btns");
+    wrap.innerHTML = "";
+    for (const n of [10, 20, 30, 50]) {
+      const b = document.createElement("button");
+      const active = n === size;
+      b.textContent = n;
+      b.style.cssText =
+        `padding:8px 18px;border-radius:8px;cursor:pointer;font-size:14px;` +
+        `border:1px solid ${active ? "#66B2FF" : "#444"};` +
+        `background:${active ? "#4a9eff" : "transparent"};color:#fff`;
+      b.addEventListener("click", () => {
+        size = n;
+        const s = lsGet(LS.settings, {}); s.sessionSize = n; lsSet(LS.settings, s);
+        drawSize();
+      });
+      wrap.appendChild(b);
+    }
+  }
+  drawSize();
+
+  document.getElementById("start").addEventListener("click", () => {
+    srsStartSession(size);
+  });
+}
+
+function srsStartSession(size) {
+  const db = srsLoad();
+  const now = Date.now();
+  // 1) сначала due-карточки
+  let candidates = Object.entries(db)
+    .filter(([_, r]) => (r.due || 0) <= now)
+    .map(([h]) => h);
+  // 2) если мало — добавляем новые слова
+  const need = size - candidates.length;
+  if (need > 0) {
+    const all = vocabCache.map(w => w.hanzi).filter(Boolean);
+    const fresh = all.filter(h => !db[h]);
+    // перемешаем
+    for (let i = fresh.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [fresh[i], fresh[j]] = [fresh[j], fresh[i]];
+    }
+    candidates = candidates.concat(fresh.slice(0, need));
+  }
+  candidates = candidates.slice(0, size);
+  if (!candidates.length) {
+    alert(tU("srs_all_done"));
+    return;
+  }
+  srsSession = { queue: candidates, done: 0, total: candidates.length, revealed: false };
+  srsRenderCard();
+}
+
+function srsRenderCard() {
+  if (!srsSession || !srsSession.queue.length) {
+    const total = srsSession ? srsSession.total : 0;
+    srsSession = null;
+    markActivity(1);
+    app.innerHTML = `
+      <button class="back-btn" id="back">‹ ${t("back")}</button>
+      <div class="header"><span class="app-name">🔁 ${tU("srs_title")}</span></div>
+      <div class="content-card" style="margin-top:30px;text-align:center;padding:40px">
+        <div style="font-size:48px">🎉</div>
+        <div style="font-size:20px;margin-top:12px">${tU("srs_finish")}</div>
+        <div style="color:#8B9AAB;margin-top:8px">${total}</div>
+        <button id="ok" style="margin-top:24px;padding:12px 24px;border-radius:10px;background:#4a9eff;color:#fff;border:0;font-size:16px;cursor:pointer">
+          OK</button>
+      </div>`;
+    document.getElementById("back").addEventListener("click", () => navigate("menu"));
+    document.getElementById("ok").addEventListener("click", () => navigate("menu"));
+    return;
+  }
+
+  const hanzi = srsSession.queue[0];
+  const word = vocabCache.find(w => w.hanzi === hanzi) || { hanzi, pinyin: "", pos: "", meaning: {} };
+  const lang = getLang();
+  const meaning = (word.meaning && (word.meaning[lang] || word.meaning.en)) || "";
+  const revealed = srsSession.revealed;
+
+  app.innerHTML = `
+    <button class="back-btn" id="back">‹ ${t("back")}</button>
+    <div class="header"><span class="app-name">🔁 ${tU("srs_title")}</span></div>
+    <div style="color:#8B9AAB;font-size:13px;margin-top:8px;text-align:center">
+      ${srsSession.done} / ${srsSession.total}
+    </div>
+    <div class="content-card" style="margin-top:20px;text-align:center;padding:40px 20px;min-height:280px">
+      <div style="font-size:64px;font-weight:700;letter-spacing:4px">${escapeHtml(word.hanzi)}</div>
+      ${revealed ? `
+        <div style="font-size:22px;color:#8B9AAB;margin-top:12px">${escapeHtml(word.pinyin)}</div>
+        <div style="font-size:14px;color:#8B9AAB;margin-top:4px">${escapeHtml(word.pos)}</div>
+        <div style="font-size:22px;color:#66B2FF;margin-top:16px">${escapeHtml(meaning)}</div>
+      ` : ""}
+    </div>
+    <div id="actions" style="margin-top:20px"></div>`;
+
+  document.getElementById("back").addEventListener("click", () => {
+    srsSession = null;
+    navigate("menu");
+  });
+
+  const actions = document.getElementById("actions");
+  if (!revealed) {
+    const b = document.createElement("button");
+    b.textContent = tU("srs_reveal");
+    b.style.cssText = "width:100%;padding:16px;border-radius:12px;background:#4a9eff;color:#fff;border:0;font-size:16px;cursor:pointer;font-weight:600";
+    b.addEventListener("click", () => { srsSession.revealed = true; srsRenderCard(); });
+    actions.appendChild(b);
+  } else {
+    const row = document.createElement("div");
+    row.style.cssText = "display:grid;grid-template-columns:repeat(4,1fr);gap:8px";
+    const btnData = [
+      { label: tU("srs_again"), color: "#FF6B6B", r: 1 },
+      { label: tU("srs_hard"),  color: "#FFB84D", r: 2 },
+      { label: tU("srs_good"),  color: "#5CD68E", r: 3 },
+      { label: tU("srs_easy"),  color: "#4a9eff", r: 4 },
+    ];
+    for (const { label, color, r } of btnData) {
+      const b = document.createElement("button");
+      b.textContent = label;
+      b.style.cssText =
+        `padding:14px 8px;border-radius:10px;border:1px solid ${color};` +
+        `background:${color}22;color:${color};font-size:14px;cursor:pointer;font-weight:600`;
+      b.addEventListener("click", () => {
+        srsReview(hanzi, r);
+        markActivity(1);
+        if (r === 1) {
+          // опять — в конец очереди
+          srsSession.queue.push(hanzi);
+        } else {
+          srsSession.done++;
+        }
+        srsSession.queue.shift();
+        srsSession.revealed = false;
+        srsRenderCard();
+      });
+      row.appendChild(b);
+    }
+    actions.appendChild(row);
+  }
+}
+
+// ============================================================
+// Экран урока
 // ============================================================
 const TABS = [
-  { key: "tab_text",     id: "text" },
-  { key: "tab_vocab",    id: "vocab" },
-  { key: "tab_grammar",  id: "grammar" },
-  { key: "tab_phrases",  id: "phrases" },
-  { key: "tab_compare",  id: "compare" },
-  { key: "tab_exercise", id: "exercise" },
-  { key: "tab_extend",   id: "extend" },
-  { key: "tab_apply",    id: "apply" },
+  { key: "tab_text", id: "text" }, { key: "tab_vocab", id: "vocab" },
+  { key: "tab_grammar", id: "grammar" }, { key: "tab_phrases", id: "phrases" },
+  { key: "tab_compare", id: "compare" }, { key: "tab_exercise", id: "exercise" },
+  { key: "tab_extend", id: "extend" }, { key: "tab_apply", id: "apply" },
 ];
-
-let currentLesson = null;
-let currentTab = "text";
+let currentLesson = null, currentTab = "text";
 
 async function renderLesson(unit, index) {
   app.innerHTML = `
     <button class="back-btn" id="back">‹ ${t("back")}</button>
-    <div id="lesson-content" class="loading">${t("loading")}</div>
-  `;
+    <div id="lesson-content" class="loading">${t("loading")}</div>`;
   document.getElementById("back").addEventListener("click", () => navigate("lessons"));
-
   try {
     const r = await fetch(`/api/lessons/${unit}/${index}`);
     if (!r.ok) throw new Error("Урок не найден");
     currentLesson = await r.json();
+    currentLesson.unit = unit;
+    currentLesson.index = index;
     currentTab = "text";
+    markLessonOpened(unit, index);
     drawLesson();
   } catch (e) {
     document.getElementById("lesson-content").innerHTML =
@@ -268,248 +1185,245 @@ function drawLesson() {
   const color = UNIT_COLORS[L.unit] || "#3A6088";
   const zh = (L.title && L.title.zh) || "";
   const tr = (L.title && (L.title[getLang()] || L.title.en)) || "";
-
   const cont = document.getElementById("lesson-content");
   cont.classList.remove("loading");
-
   cont.innerHTML = `
     <div class="lesson-header">
-      <div class="lesson-badge" style="background:${color}">${L.unit}.${L.index || L.lesson || ""}</div>
+      <div class="lesson-badge" style="background:${color}">${L.unit}.${L.index}</div>
       <div class="lesson-titles-block">
         <div class="lesson-zh-big">${zh}</div>
         <div class="lesson-tr-big">${tr}</div>
       </div>
     </div>
-
     <div class="tabs-bar" id="tabs-bar"></div>
-    <div class="tab-content" id="tab-content"></div>
-  `;
-
-  const tabsBar = document.getElementById("tabs-bar");
+    <div class="tab-content" id="tab-content"></div>`;
+  const tb = document.getElementById("tabs-bar");
   for (const tab of TABS) {
-    const btn = document.createElement("button");
-    btn.className = "tab-btn" + (tab.id === currentTab ? " active" : "");
-    btn.textContent = t(tab.key);
-    btn.addEventListener("click", () => {
-      currentTab = tab.id;
-      drawLesson();
-    });
-    tabsBar.appendChild(btn);
+    const b = document.createElement("button");
+    b.className = "tab-btn" + (tab.id === currentTab ? " active" : "");
+    b.textContent = t(tab.key);
+    b.addEventListener("click", () => { currentTab = tab.id; drawLesson(); });
+    tb.appendChild(b);
   }
-
-  const content = document.getElementById("tab-content");
-  content.innerHTML = "";
-
-  const renderer = {
-    text: renderTabText,
-    vocab: renderTabVocab,
-    grammar: renderTabGrammar,
-    phrases: renderTabPhrases,
-    compare: renderTabCompare,
-    exercise: renderTabExercise,
-    extend: renderTabExtend,
-    apply: renderTabApply,
-  }[currentTab];
-
-  if (renderer) renderer(content);
+  const c = document.getElementById("tab-content");
+  const fn = { text: tabText, vocab: tabVocab, grammar: tabGrammar, phrases: tabPhrases,
+    compare: tabCompare, exercise: tabExercise, extend: tabExtend, apply: tabApply }[currentTab];
+  if (fn) fn(c);
 }
 
-function renderTabText(cont) {
-  const L = currentLesson;
-  const lang = getLang();
+let currentAudio = null;
+
+function tabText(c) {
+  const L = currentLesson, lang = getLang();
   const tr = (L.text_translation && L.text_translation[lang]) || "";
-
-  const wrapper = document.createElement("div");
-  wrapper.className = "content-card";
-  wrapper.innerHTML = `
-    <button class="audio-btn" disabled>${t("translate_audio")}</button>
+  const w = document.createElement("div");
+  w.className = "content-card";
+  w.innerHTML = `
+    <button class="play-btn" id="play-btn"
+            style="padding:12px 22px;border-radius:12px;background:#4a9eff;color:#fff;border:0;cursor:pointer;font-size:16px;font-weight:600;margin-bottom:16px;display:flex;align-items:center;gap:8px">
+      <span id="play-icon" style="font-size:20px">▶</span>
+      <span id="play-label">Play audio</span>
+    </button>
     <div class="text-zh">${escapeHtml(L.text_zh || "")}</div>
-    <div class="text-tr">${escapeHtml(tr)}</div>
-  `;
-  cont.appendChild(wrapper);
+    <div class="text-tr">${escapeHtml(tr)}</div>`;
+  c.appendChild(w);
+
+  const audioUrl = `/audio/unit${L.unit}/lesson${String(L.index).padStart(2, "0")}/textbook_1.mp3`;
+  const btn = document.getElementById("play-btn");
+  const icon = document.getElementById("play-icon");
+  const label = document.getElementById("play-label");
+
+  if (currentAudio) { currentAudio.pause(); currentAudio = null; icon.textContent = "▶"; label.textContent = "Play audio"; }
+
+  btn.addEventListener("click", () => {
+    if (currentAudio && !currentAudio.paused) {
+      currentAudio.pause();
+      icon.textContent = "▶";
+      label.textContent = "Play audio";
+      return;
+    }
+    if (!currentAudio) {
+      currentAudio = new Audio(audioUrl);
+      currentAudio.addEventListener("ended", () => {
+        icon.textContent = "▶";
+        label.textContent = "Play audio";
+      });
+      currentAudio.addEventListener("error", () => {
+        icon.textContent = "⚠";
+        label.textContent = "Audio not available";
+      });
+    }
+    currentAudio.play().then(() => {
+      icon.textContent = "⏸";
+      label.textContent = "Pause";
+    }).catch(err => {
+      icon.textContent = "⚠";
+      label.textContent = "Cannot play audio";
+      console.error("audio error:", err);
+    });
+  });
 }
-
-function renderTabVocab(cont) {
-  const L = currentLesson;
-  const lang = getLang();
-  const words = L.vocabulary || [];
-
-  const card = document.createElement("div");
-  card.className = "content-card";
-  card.innerHTML = `
-    <div class="content-card-title">生词 · ${words.length} ${t("vocab_words")}</div>
-    <table class="vocab-table">
-      <thead>
-        <tr>
-          <th style="width:90px">${t("vocab_col_hanzi")}</th>
-          <th style="width:130px">${t("vocab_col_pinyin")}</th>
-          <th style="width:70px">${t("vocab_col_pos")}</th>
-          <th>${t("vocab_col_trans")}</th>
-        </tr>
-      </thead>
-      <tbody></tbody>
-    </table>
-  `;
-  const tbody = card.querySelector("tbody");
-
-  for (const w of words) {
-    const tr = (w.meaning && (w.meaning[lang] || w.meaning.en)) || "";
+function tabVocab(c) {
+  const L = currentLesson, lang = getLang(), words = L.vocabulary || [];
+  const w = document.createElement("div");
+  w.className = "content-card";
+  w.innerHTML = `<div class="content-card-title">生词 · ${words.length} ${t("vocab_words")}</div>
+    <table class="vocab-table"><thead><tr>
+      <th style="width:90px">${t("vocab_col_hanzi")}</th>
+      <th style="width:130px">${t("vocab_col_pinyin")}</th>
+      <th style="width:70px">${t("vocab_col_pos")}</th>
+      <th>${t("vocab_col_trans")}</th></tr></thead><tbody></tbody></table>`;
+  const tbody = w.querySelector("tbody");
+  for (const v of words) {
+    const tr = (v.meaning && (v.meaning[lang] || v.meaning.en)) || "";
     const row = document.createElement("tr");
-    row.innerHTML = `
-      <td class="cell-hanzi">${escapeHtml(w.hanzi || "")}</td>
-      <td class="cell-pinyin">${escapeHtml(w.pinyin || "")}</td>
-      <td class="cell-pos">${escapeHtml(w.pos || "")}</td>
-      <td>${escapeHtml(tr)}</td>
-    `;
+    row.innerHTML = `<td class="cell-hanzi">${escapeHtml(v.hanzi)}</td>
+      <td class="cell-pinyin">${escapeHtml(v.pinyin)}</td>
+      <td class="cell-pos">${escapeHtml(v.pos)}</td>
+      <td>${escapeHtml(tr)}</td>`;
     tbody.appendChild(row);
   }
-  cont.appendChild(card);
+  c.appendChild(w);
 }
-
-function renderTabGrammar(cont) {
-  const L = currentLesson;
-  const lang = getLang();
-  const grammars = L.grammar || [];
-
-  for (const g of grammars) {
+function tabGrammar(c) {
+  const L = currentLesson, lang = getLang();
+  for (const g of (L.grammar || [])) {
     const card = document.createElement("div");
     card.className = "grammar-card";
-    const expl = (g.explanation && (g.explanation[lang] || g.explanation.en)) || "";
-
-    let examplesHtml = "";
+    const ex = (g.explanation && (g.explanation[lang] || g.explanation.en)) || "";
+    let exs = "";
     for (let i = 0; i < (g.examples || []).length; i++) {
-      const ex = g.examples[i];
-      const exTr = ex[lang] || ex.en || "";
-      examplesHtml += `
-        <div class="grammar-example">
-          <div class="ex-zh">${i + 1}. ${escapeHtml(ex.zh || "")}</div>
-          <div class="ex-tr">${escapeHtml(exTr)}</div>
-        </div>
-      `;
+      const e = g.examples[i], eTr = e[lang] || e.en || "";
+      exs += `<div class="grammar-example">
+        <div class="ex-zh">${i + 1}. ${escapeHtml(e.zh || "")}</div>
+        <div class="ex-tr">${escapeHtml(eTr)}</div></div>`;
     }
-
-    card.innerHTML = `
-      <div class="grammar-head">
+    card.innerHTML = `<div class="grammar-head">
         <span class="grammar-word">${escapeHtml(g.word || "")}</span>
-        <span class="grammar-pos">${escapeHtml(g.pos || "")}</span>
-      </div>
-      <div class="grammar-expl">${escapeHtml(expl)}</div>
-      ${examplesHtml}
-    `;
-    cont.appendChild(card);
+        <span class="grammar-pos">${escapeHtml(g.pos || "")}</span></div>
+      <div class="grammar-expl">${escapeHtml(ex)}</div>${exs}`;
+    c.appendChild(card);
   }
 }
-
-function renderTabPhrases(cont) {
+function tabPhrases(c) {
   const L = currentLesson;
   for (const col of (L.collocations || [])) {
-    const card = document.createElement("div");
-    card.className = "phrases-card";
-    let itemsHtml = "";
-    for (const item of (col.items || [])) {
-      itemsHtml += `<div class="phrase-item">${escapeHtml(item)}</div>`;
-    }
-    card.innerHTML = `
-      <div class="phrases-pattern">${escapeHtml(col.pattern || "")}</div>
-      ${itemsHtml}
-    `;
-    cont.appendChild(card);
+    const w = document.createElement("div");
+    w.className = "phrases-card";
+    let it = "";
+    for (const i of (col.items || [])) it += `<div class="phrase-item">${escapeHtml(i)}</div>`;
+    w.innerHTML = `<div class="phrases-pattern">${escapeHtml(col.pattern || "")}</div>${it}`;
+    c.appendChild(w);
   }
 }
-
-function renderTabCompare(cont) {
-  const L = currentLesson;
-  const lang = getLang();
+function tabCompare(c) {
+  const L = currentLesson, lang = getLang();
   for (const cp of (L.comparisons || [])) {
-    const card = document.createElement("div");
-    card.className = "compare-card";
-    const common = (cp.common && (cp.common[lang] || cp.common.en)) || "";
-
-    let diffsHtml = "";
-    for (const d of (cp.differences || [])) {
-      const dText = d[lang] || d.en || "";
-      diffsHtml += `<div class="compare-diff-item">${escapeHtml(dText)}</div>`;
+    const w = document.createElement("div");
+    w.className = "compare-card";
+    const cm = (cp.common && (cp.common[lang] || cp.common.en)) || "";
+    let d = "";
+    for (const x of (cp.differences || [])) {
+      d += `<div class="compare-diff-item">${escapeHtml(x[lang] || x.en || "")}</div>`;
     }
-
-    card.innerHTML = `
-      <div class="compare-head">${escapeHtml(cp.word_a || "")} vs ${escapeHtml(cp.word_b || "")}</div>
+    w.innerHTML = `<div class="compare-head">${escapeHtml(cp.word_a || "")} vs ${escapeHtml(cp.word_b || "")}</div>
       <div class="compare-common">≈ ${t("common")}</div>
-      <div class="compare-common-text">${escapeHtml(common)}</div>
-      <div class="compare-diff-title">≠ ${t("differences")}</div>
-      ${diffsHtml}
-    `;
-    cont.appendChild(card);
+      <div class="compare-common-text">${escapeHtml(cm)}</div>
+      <div class="compare-diff-title">≠ ${t("differences")}</div>${d}`;
+    c.appendChild(w);
   }
 }
-
-function renderTabExercise(cont) {
+function tabExercise(c) {
   const L = currentLesson;
   const items = [
-    { icon: "🎧", title: t("listen"),
-      sub: `${(L.workbook && L.workbook.listening || []).length} ${t("questions")}` },
-    { icon: "📖", title: t("reading"),
-      sub: `${(L.workbook && L.workbook.reading || []).length} ${t("questions")}` },
-    { icon: "✍", title: t("writing"),
-      sub: `${(L.workbook && L.workbook.writing || []).length} ${t("tasks")}` },
+    { i: "🎧", t: t("listen"), s: `${(L.workbook && L.workbook.listening || []).length} ${t("questions")}` },
+    { i: "📖", t: t("reading"), s: `${(L.workbook && L.workbook.reading || []).length} ${t("questions")}` },
+    { i: "✍", t: t("writing"), s: `${(L.workbook && L.workbook.writing || []).length} ${t("tasks")}` },
   ];
-
-  for (const item of items) {
-    const el = document.createElement("div");
-    el.className = "exercise-item";
-    el.innerHTML = `
-      <div class="exercise-icon">${item.icon}</div>
-      <div>
-        <div class="exercise-title">${item.title}</div>
-        <div class="exercise-sub">${item.sub}</div>
-      </div>
-      <div class="card-chevron" style="margin-left:auto">›</div>
-    `;
-    el.addEventListener("click", () => alert("Появится в Итерации 3"));
-    cont.appendChild(el);
+  for (const x of items) {
+    const e = document.createElement("div");
+    e.className = "exercise-item";
+    e.innerHTML = `<div class="exercise-icon">${x.i}</div>
+      <div><div class="exercise-title">${x.t}</div>
+      <div class="exercise-sub">${x.s}</div></div>
+      <div class="card-chevron" style="margin-left:auto">›</div>`;
+    e.addEventListener("click", () => alert("Появится в следующих итерациях"));
+    c.appendChild(e);
   }
 }
-
-function renderTabExtend(cont) {
-  const L = currentLesson;
-  const lang = getLang();
+function tabExtend(c) {
+  const L = currentLesson, lang = getLang();
   const exp = L.expansion || {};
   if (!exp.words || !exp.words.length) {
-    cont.innerHTML = `<div class="loading">—</div>`;
-    return;
+    c.innerHTML = `<div class="loading">—</div>`; return;
   }
-
-  const card = document.createElement("div");
-  card.className = "content-card";
+  const w = document.createElement("div");
+  w.className = "content-card";
   const topic = (exp.topic && (exp.topic[lang] || exp.topic.en)) || "";
-  let html = topic ? `<div class="extend-topic">${escapeHtml(topic)}</div>` : "";
-
-  for (const w of exp.words) {
-    const m = (w.meaning && (w.meaning[lang] || w.meaning.en)) || "";
-    html += `
-      <div class="extend-word">
-        <div class="extend-hanzi">${escapeHtml(w.hanzi || "")}</div>
-        <div class="extend-pinyin">${escapeHtml(w.pinyin || "")}</div>
-        <div class="extend-meaning">${escapeHtml(m)}</div>
-      </div>
-    `;
+  let h = topic ? `<div class="extend-topic">${escapeHtml(topic)}</div>` : "";
+  for (const x of exp.words) {
+    const m = (x.meaning && (x.meaning[lang] || x.meaning.en)) || "";
+    h += `<div class="extend-word">
+      <div class="extend-hanzi">${escapeHtml(x.hanzi || "")}</div>
+      <div class="extend-pinyin">${escapeHtml(x.pinyin || "")}</div>
+      <div class="extend-meaning">${escapeHtml(m)}</div></div>`;
   }
-  card.innerHTML = html;
-  cont.appendChild(card);
+  w.innerHTML = h;
+  c.appendChild(w);
+}
+function tabApply(c) {
+  const L = currentLesson, lang = getLang();
+  const a = L.application || {};
+  const d = (a.discussion && (a.discussion[lang] || a.discussion.en)) || "";
+  const w = document.createElement("div");
+  w.className = "content-card";
+  w.innerHTML = `<div class="content-card-title">🎓 ${t("tab_apply").replace(/^[^\s]+\s*/, "")}</div>
+    <div class="apply-question">${escapeHtml(d)}</div>`;
+  c.appendChild(w);
 }
 
-function renderTabApply(cont) {
-  const L = currentLesson;
-  const lang = getLang();
-  const app_ = L.application || {};
-  const disc = (app_.discussion && (app_.discussion[lang] || app_.discussion.en)) || "";
-
-  const card = document.createElement("div");
-  card.className = "content-card";
-  card.innerHTML = `
-    <div class="content-card-title">🎓 ${t("tab_apply").replace(/^[^\s]+\s*/, "")}</div>
-    <div class="apply-question">${escapeHtml(disc)}</div>
-  `;
-  cont.appendChild(card);
+// ============================================================
+// Обратная связь
+// ============================================================
+function renderFeedback() {
+  app.innerHTML = `
+    <button class="back-btn" id="back">‹ ${t("back")}</button>
+    <div class="header"><span class="app-name">✉ ${tFb("page_title")}</span></div>
+    <div class="version">${tFb("hint")}</div>
+    <div class="content-card" style="max-width:640px;margin:20px auto">
+      <div class="content-card-title">${tFb("name")}</div>
+      <input id="fb-name" type="text" placeholder="${tFb("name_ph")}"
+             style="width:100%;padding:10px;border-radius:8px;border:1px solid #444;background:#0e1620;color:#fff;font-size:15px;margin-bottom:14px;box-sizing:border-box">
+      <div class="content-card-title">${tFb("message")}</div>
+      <textarea id="fb-message" rows="6" placeholder="${tFb("message_ph")}"
+                style="width:100%;padding:10px;border-radius:8px;border:1px solid #444;background:#0e1620;color:#fff;font-size:15px;resize:vertical;box-sizing:border-box"></textarea>
+      <button id="fb-send"
+              style="margin-top:14px;padding:12px 24px;border-radius:10px;background:#4a9eff;color:#fff;border:0;font-size:16px;cursor:pointer;font-weight:600">
+        ${tFb("send")}</button>
+      <div id="fb-status" style="margin-top:12px;font-size:14px"></div>
+    </div>`;
+  document.getElementById("back").addEventListener("click", () => navigate("menu"));
+  document.getElementById("fb-send").addEventListener("click", async () => {
+    const n = document.getElementById("fb-name").value;
+    const m = document.getElementById("fb-message").value;
+    const s = document.getElementById("fb-status");
+    if (!m.trim()) { s.style.color = "#FF6B6B"; s.textContent = tFb("empty"); return; }
+    s.style.color = "#8B9AAB"; s.textContent = tFb("sending");
+    try {
+      const r = await fetch("/api/feedback", {
+        method: "POST", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ name: n, message: m }),
+      });
+      if (r.ok) {
+        s.style.color = "#5CD68E"; s.textContent = tFb("sent");
+        document.getElementById("fb-message").value = "";
+      } else {
+        s.style.color = "#FF6B6B"; s.textContent = tFb("error");
+      }
+    } catch (e) {
+      s.style.color = "#FF6B6B"; s.textContent = tFb("error");
+    }
+  });
 }
 
 // ============================================================
@@ -518,13 +1432,9 @@ function renderTabApply(cont) {
 function renderPlaceholder(title) {
   app.innerHTML = `
     <button class="back-btn" id="back">‹ ${t("back")}</button>
-    <div class="header">
-      <span class="app-name">${title}</span>
-    </div>
+    <div class="header"><span class="app-name">${title}</span></div>
     <div class="loading" style="font-size:18px; padding-top:80px;">
-      🚧 Этот раздел появится в следующих итерациях
-    </div>
-  `;
+      🚧 Этот раздел появится в следующих итерациях</div>`;
   document.getElementById("back").addEventListener("click", () => navigate("menu"));
 }
 
@@ -532,79 +1442,51 @@ function renderPlaceholder(title) {
 // Роутер
 // ============================================================
 function navigate(path) {
-  const parts = path.split("/");
-  if (path === "menu" || path === "") {
-    renderMainMenu();
-  } else if (parts[0] === "lessons") {
-    renderLessons();
-  } else if (parts[0] === "lesson" && parts.length === 3) {
-    // FIX: защита от NaN / undefined
-    const u = parseInt(parts[1], 10);
-    const i = parseInt(parts[2], 10);
-    if (Number.isFinite(u) && Number.isFinite(i)) {
-      renderLesson(u, i);
-    } else {
-      // если пришли по битой ссылке #lesson/1/undefined — уводим к списку
-      renderLessons();
-      window.location.hash = "lessons";
-      return;
-    }
-  } else if (parts[0] === "vocab") {
-    renderPlaceholder("📓 " + t("menu_vocab").replace(/^[^\s]+\s*/, ""));
-  } else if (parts[0] === "srs") {
-    renderPlaceholder("🔁 " + t("menu_srs").replace(/^[^\s]+\s*/, ""));
-  } else if (parts[0] === "activity") {
-    renderPlaceholder("📊 " + t("menu_activity").replace(/^[^\s]+\s*/, ""));
-  } else if (parts[0] === "progress") {
-    renderPlaceholder("📈 " + t("menu_progress").replace(/^[^\s]+\s*/, ""));
-  } else if (parts[0] === "analyzer") {
-    renderPlaceholder("🔍 " + t("menu_analyzer").replace(/^[^\s]+\s*/, ""));
-  } else if (parts[0] === "grammar") {
-    renderPlaceholder("📚 " + t("menu_grammar").replace(/^[^\s]+\s*/, ""));
-  } else if (parts[0] === "compare") {
-    renderPlaceholder("⚖ " + t("menu_compare").replace(/^[^\s]+\s*/, ""));
-  } else if (parts[0] === "achievements") {
-    renderPlaceholder("🏆 " + t("menu_achievements").replace(/^[^\s]+\s*/, ""));
-  } else if (parts[0] === "settings") {
-    renderPlaceholder("⚙ " + t("menu_settings").replace(/^[^\s]+\s*/, ""));
-  } else {
-    renderPlaceholder("? " + path);
+  const p = path.split("/");
+  if (path === "menu" || path === "") renderMainMenu();
+  else if (p[0] === "lessons") renderLessons();
+  else if (p[0] === "lesson" && p.length === 3) {
+    const u = parseInt(p[1], 10), i = parseInt(p[2], 10);
+    if (Number.isFinite(u) && Number.isFinite(i)) renderLesson(u, i);
+    else { renderLessons(); window.location.hash = "lessons"; return; }
   }
+  else if (p[0] === "vocab") renderVocab();
+  else if (p[0] === "grammar") renderGrammar();
+  else if (p[0] === "compare") renderCompare();
+  else if (p[0] === "analyzer") renderAnalyzer();
+  else if (p[0] === "activity") renderActivity();
+  else if (p[0] === "progress") renderProgress();
+  else if (p[0] === "srs") renderSrs();
+  else if (p[0] === "feedback") renderFeedback();
+  else if (p[0] === "achievements") renderAchievements();
+  else if (p[0] === "settings") renderSettings();
+  else renderPlaceholder("? " + path);
   window.location.hash = path;
 }
 
 // ============================================================
-// Хелперы
+// Хелпер
 // ============================================================
 function escapeHtml(s) {
   if (!s) return "";
-  return String(s)
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;");
+  return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
 
 // ============================================================
 // Старт
 // ============================================================
 drawBackgroundPattern();
-
-const initial = window.location.hash.slice(1) || "menu";
-navigate(initial);
+navigate(window.location.hash.slice(1) || "menu");
 
 window.addEventListener("lang_changed", () => {
-  const route = window.location.hash.slice(1) || "menu";
-  navigate(route);
+  navigate(window.location.hash.slice(1) || "menu");
 });
-
 window.addEventListener("resize", () => {
   const c = document.getElementById("bg-pattern");
   if (c) { c.innerHTML = ""; c.dataset.drawn = "0"; }
   drawBackgroundPattern();
 });
-
 window.addEventListener("hashchange", () => {
-  const route = window.location.hash.slice(1) || "menu";
-  navigate(route);
+  navigate(window.location.hash.slice(1) || "menu");
 });

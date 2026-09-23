@@ -43,3 +43,6 @@ srs_by_lesson.py
 translate_lessons.py
 missing_keys.txt
 project_report.txt
+_patch_*.py
+copy_audio.py
+run_local.bat
