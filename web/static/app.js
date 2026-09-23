@@ -1219,34 +1219,86 @@ function tabText(c) {
   const w = document.createElement("div");
   w.className = "content-card";
   w.innerHTML = `
-    <button class="play-btn" id="play-btn"
-            style="padding:12px 22px;border-radius:12px;background:#4a9eff;color:#fff;border:0;cursor:pointer;font-size:16px;font-weight:600;margin-bottom:16px;display:flex;align-items:center;gap:8px">
-      <span id="play-icon" style="font-size:20px">▶</span>
-      <span id="play-label">Play audio</span>
-    </button>
+    <div class="audio-controls" style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:18px">
+      <button id="btn-play"
+              style="padding:10px 20px;border-radius:10px;background:#4a9eff;color:#fff;border:0;cursor:pointer;font-size:16px;font-weight:600;display:flex;align-items:center;gap:8px">
+        <span id="play-icon" style="font-size:18px">▶</span>
+        <span id="play-label">Play</span>
+      </button>
+
+      <button id="btn-back"
+              style="padding:10px 16px;border-radius:10px;background:#2a3f5a;color:#fff;border:0;cursor:pointer;font-size:14px;font-weight:600">
+        ⟲ 5s
+      </button>
+      <button id="btn-fwd"
+              style="padding:10px 16px;border-radius:10px;background:#2a3f5a;color:#fff;border:0;cursor:pointer;font-size:14px;font-weight:600">
+        5s ⟳
+      </button>
+
+      <div style="margin-left:auto;display:flex;gap:6px;align-items:center">
+        <span style="font-size:13px;color:#8B9AAB;margin-right:4px">Speed:</span>
+        <span id="speed-btns" style="display:flex;gap:4px"></span>
+      </div>
+    </div>
+
     <div class="text-zh">${escapeHtml(L.text_zh || "")}</div>
     <div class="text-tr">${escapeHtml(tr)}</div>`;
   c.appendChild(w);
 
   const audioUrl = `/audio/unit${L.unit}/lesson${String(L.index).padStart(2, "0")}/textbook_1.mp3`;
-  const btn = document.getElementById("play-btn");
+  const btnPlay = document.getElementById("btn-play");
   const icon = document.getElementById("play-icon");
   const label = document.getElementById("play-label");
+  const btnBack = document.getElementById("btn-back");
+  const btnFwd = document.getElementById("btn-fwd");
+  const speedWrap = document.getElementById("speed-btns");
 
-  if (currentAudio) { currentAudio.pause(); currentAudio = null; icon.textContent = "▶"; label.textContent = "Play audio"; }
+  // останавливаем предыдущий
+  if (currentAudio) {
+    currentAudio.pause();
+    currentAudio = null;
+  }
+  icon.textContent = "▶";
+  label.textContent = "Play";
 
-  btn.addEventListener("click", () => {
+  // скорость — из localStorage
+  let speed = parseFloat(localStorage.getItem("hsk5_audio_speed") || "1.0");
+  if (![0.5, 1.0, 1.5, 2.0].includes(speed)) speed = 1.0;
+
+  function drawSpeeds() {
+    speedWrap.innerHTML = "";
+    for (const s of [0.5, 1.0, 1.5, 2.0]) {
+      const b = document.createElement("button");
+      b.textContent = s.toFixed(1) + "x";
+      const active = Math.abs(s - speed) < 0.001;
+      b.style.cssText =
+        `padding:6px 10px;border-radius:8px;font-size:13px;cursor:pointer;` +
+        `border:1px solid ${active ? "#66B2FF" : "#444"};` +
+        `background:${active ? "#4a9eff" : "transparent"};color:#fff`;
+      b.addEventListener("click", () => {
+        speed = s;
+        localStorage.setItem("hsk5_audio_speed", String(speed));
+        if (currentAudio) currentAudio.playbackRate = speed;
+        drawSpeeds();
+      });
+      speedWrap.appendChild(b);
+    }
+  }
+  drawSpeeds();
+
+  btnPlay.addEventListener("click", () => {
     if (currentAudio && !currentAudio.paused) {
       currentAudio.pause();
       icon.textContent = "▶";
-      label.textContent = "Play audio";
+      label.textContent = "Play";
       return;
     }
     if (!currentAudio) {
       currentAudio = new Audio(audioUrl);
+      currentAudio.playbackRate = speed;
       currentAudio.addEventListener("ended", () => {
         icon.textContent = "▶";
-        label.textContent = "Play audio";
+        label.textContent = "Play";
       });
       currentAudio.addEventListener("error", () => {
         icon.textContent = "⚠";
@@ -1261,6 +1313,17 @@ function tabText(c) {
       label.textContent = "Cannot play audio";
       console.error("audio error:", err);
     });
+  });
+
+  btnBack.addEventListener("click", () => {
+    if (!currentAudio) return;
+    currentAudio.currentTime = Math.max(0, currentAudio.currentTime - 5);
+  });
+
+  btnFwd.addEventListener("click", () => {
+    if (!currentAudio) return;
+    const dur = currentAudio.duration || 1e9;
+    currentAudio.currentTime = Math.min(dur, currentAudio.currentTime + 5);
   });
 }
 function tabVocab(c) {
