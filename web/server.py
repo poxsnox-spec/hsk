@@ -9,6 +9,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from flask import (Flask, send_from_directory, jsonify, request, session)
+from werkzeug.middleware.proxy_fix import ProxyFix
 
 import auth
 
@@ -20,6 +21,7 @@ STATIC = BASE / "static"
 
 app = Flask(__name__, static_folder=str(STATIC), static_url_path="/static")
 app.secret_key = auth.get_or_create_secret()
+app.wsgi_app = ProxyFix(app.wsgi_app, x_for=1, x_proto=1, x_host=1, x_prefix=1)
 app.config.update(
     SESSION_COOKIE_HTTPONLY=True,
     SESSION_COOKIE_SAMESITE="Lax",
