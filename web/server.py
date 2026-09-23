@@ -3,6 +3,9 @@
 import json
 import logging
 import os
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from pathlib import Path
 
 from flask import (Flask, send_from_directory, jsonify, request,
