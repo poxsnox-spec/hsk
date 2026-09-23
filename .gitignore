@@ -46,3 +46,7 @@ project_report.txt
 _patch_*.py
 copy_audio.py
 run_local.bat
+data/users.db
+data/secret.key
+_patch_*.py
+run_local.bat

@@ -19,6 +19,9 @@ function lsGet(key, def) {
 }
 function lsSet(key, val) {
   try { localStorage.setItem(key, JSON.stringify(val)); } catch (e) {}
+  if (typeof HSKAuth !== "undefined" && HSKAuth.syncKey) {
+    HSKAuth.syncKey(key, val);
+  }
 }
 
 function todayStr() {
@@ -341,6 +344,14 @@ function renderMainMenu() {
       <span style="font-size:18px">🌐</span>
       <span>${langName()}</span>
     </button>
+    <button class="side-btn" id="btn-profile">
+      <span style="font-size:18px">${(window.HSK_USER && window.HSK_USER.avatar) || "👤"}</span>
+      <span>${(window.HSK_USER && window.HSK_USER.name) || "Профиль"}</span>
+    </button>
+    <button class="side-btn" id="btn-logout" style="color:#FF6B6B">
+      <span style="font-size:18px">⎋</span>
+      <span>Выйти</span>
+    </button>
     <div class="streak-card">
       <div style="font-size:28px">🔥</div>
       <div>
@@ -362,6 +373,14 @@ function renderMainMenu() {
     </div>`;
   document.getElementById("btn-continue").addEventListener("click", () => navigate("lessons"));
   document.getElementById("btn-lang").addEventListener("click", () => cycleLang());
+  const btnProf = document.getElementById("btn-profile");
+  const btnOut = document.getElementById("btn-logout");
+  if (btnProf) btnProf.addEventListener("click", () => navigate("profile"));
+  if (btnOut) btnOut.addEventListener("click", () => {
+    if (confirm("Выйти из аккаунта? Прогресс сохранён на сервере.")) {
+      HSKAuth.logout();
+    }
+  });
 }
 function langName() {
   return { ru: "Сменить язык", tk: "Dili çalyş", en: "Change language" }[getLang()];
@@ -1489,6 +1508,84 @@ function renderFeedback() {
   });
 }
 
+
+// ============================================================
+// ПРОФИЛЬ
+// ============================================================
+function renderProfile() {
+  const u = window.HSK_USER || {};
+  const s = lsGet(LS.settings, {});
+  const act = lsGet(LS.activity, {});
+  const lessons = lsGet(LS.lessons, []);
+  const srs = lsGet(LS.srs, {});
+
+  let actions = 0;
+  for (const c of Object.values(act)) actions += c;
+  let streak = 0;
+  const d = new Date();
+  while (true) {
+    const s2 = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
+    if (act[s2]) { streak++; d.setDate(d.getDate()-1); } else break;
+  }
+
+  const created = u.created_at ? u.created_at.slice(0, 10) : "—";
+
+  app.innerHTML = `
+    <button class="back-btn" id="back">‹ ${t("back")}</button>
+    <div class="header"><span class="app-name">👤 Профиль</span></div>
+    <div class="content-card" style="max-width:600px;margin:20px auto;padding:30px">
+      <div style="display:flex;align-items:center;gap:20px;margin-bottom:26px">
+        <div style="width:76px;height:76px;border-radius:50%;background:linear-gradient(135deg,#4a9eff,#66B2FF);display:flex;align-items:center;justify-content:center;font-size:40px">
+          ${u.avatar || "👤"}
+        </div>
+        <div>
+          <div style="font-size:24px;font-weight:700">${escapeHtml(u.name || "")}</div>
+          <div style="color:#8B9AAB;font-size:14px;margin-top:4px">${escapeHtml(u.email || "")}</div>
+          ${u.is_admin ? '<div style="color:#FFB84D;font-size:12px;margin-top:4px">👑 Администратор</div>' : ''}
+        </div>
+      </div>
+
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:14px">
+        <div>
+          <div style="font-size:22px;font-weight:700;color:#66B2FF">${lessons.length} / 18</div>
+          <div style="font-size:12px;color:#8B9AAB">Уроков открыто</div>
+        </div>
+        <div>
+          <div style="font-size:22px;font-weight:700;color:#66B2FF">${Object.keys(srs).length}</div>
+          <div style="font-size:12px;color:#8B9AAB">Слов в SRS</div>
+        </div>
+        <div>
+          <div style="font-size:22px;font-weight:700;color:#FFB84D">${streak} 🔥</div>
+          <div style="font-size:12px;color:#8B9AAB">Стрик</div>
+        </div>
+        <div>
+          <div style="font-size:22px;font-weight:700;color:#5CD68E">${actions}</div>
+          <div style="font-size:12px;color:#8B9AAB">Всего действий</div>
+        </div>
+      </div>
+
+      <div style="margin-top:26px;font-size:13px;color:#8B9AAB">
+        Зарегистрирован: ${created}
+      </div>
+
+      <button id="p-edit" style="margin-top:20px;padding:10px 20px;border-radius:8px;background:transparent;color:#66B2FF;border:1px solid #66B2FF;cursor:pointer;font-size:14px">
+        Редактировать профиль
+      </button>
+
+      <button id="p-out" style="margin-top:12px;margin-left:8px;padding:10px 20px;border-radius:8px;background:transparent;color:#FF6B6B;border:1px solid #FF6B6B;cursor:pointer;font-size:14px">
+        Выйти
+      </button>
+    </div>`;
+
+  document.getElementById("back").addEventListener("click", () => navigate("menu"));
+  document.getElementById("p-out").addEventListener("click", () => {
+    if (confirm("Выйти из аккаунта?")) HSKAuth.logout();
+  });
+  document.getElementById("p-edit").addEventListener("click", () => {
+    alert("Редактирование появится позже");
+  });
+}
+
 // ============================================================
 // Заглушка
 // ============================================================
@@ -1521,6 +1618,7 @@ function navigate(path) {
   else if (p[0] === "progress") renderProgress();
   else if (p[0] === "srs") renderSrs();
   else if (p[0] === "feedback") renderFeedback();
+  else if (p[0] === "profile") renderProfile();
   else if (p[0] === "achievements") renderAchievements();
   else if (p[0] === "settings") renderSettings();
   else renderPlaceholder("? " + path);
@@ -1693,5 +1791,29 @@ window.addEventListener("resize", () => {
   drawBackgroundPattern();
 });
 window.addEventListener("hashchange", () => {
-  navigate(window.location.hash.slice(1) || "menu");
+async function bootApp() {
+  const h = window.location.hash || "";
+  if (h.startsWith("#activate/")) {
+    const token = h.slice("#activate/".length);
+    if (typeof HSKAuth !== "undefined") {
+      await HSKAuth.doActivate(token);
+      return;
+    }
+  }
+  try {
+    const r = await fetch("/api/auth/me", { credentials: "same-origin" });
+    const j = await r.json();
+    if (!j.user) {
+      if (typeof HSKAuth !== "undefined") HSKAuth.showAuthScreen("login");
+      return;
+    }
+    window.HSK_USER = j.user;
+    if (typeof HSKAuth !== "undefined") await HSKAuth.loadProgress();
+    navigate(window.location.hash.slice(1) || "menu");
+  } catch (e) {
+    document.getElementById("app").innerHTML =
+      `<div style="padding:40px;color:#FF6B6B;font-size:14px">Ошибка соединения: ${e.message}</div>`;
+  }
+}
+bootApp();
 });
