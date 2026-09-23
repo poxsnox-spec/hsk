@@ -1,0 +1,1199 @@
+{
+  "title": {
+    "zh": "闹钟的危害",
+    "ru": "Вред будильника",
+    "tk": "Jaňly sagadyň zyýany",
+    "en": "Harm of Alarm Clocks",
+    "uz": "Budilnikning zarari",
+    "tg": "Зарари соати зангӣ"
+  },
+  "audio_files": {
+    "textbook_1": "textbook_1.mp3",
+    "textbook_2": "textbook_2.mp3",
+    "vocab": "vocab.mp3",
+    "workbook_42_1": "workbook_42-1.mp3",
+    "workbook_42_2": "workbook_42-2.mp3"
+  },
+  "warmup": {
+    "question": {
+      "ru": "Как вы обычно просыпаетесь: по будильнику, от света, от шума?",
+      "tk": "Adatça jaňly sagatdanmy, ýagtylykdanmy, sesdenmi oýanýarsyňyz?",
+      "en": "How do you usually wake up: alarm, light, sound?"
+    },
+    "answers": [
+      "闹钟",
+      "光线",
+      "自然醒",
+      "生物钟"
+    ]
+  },
+  "text_zh": "医学研究证明，人类睡眠有其特定的机制，自然醒是最符合人体生物钟规律的。光线是自然醒的必要条件，是人体内的生物闹钟。早晨，人体感受到逐渐变强的太阳光线，新陈代谢随之加快，人逐渐从熟睡过渡到浅睡，直到醒来。这就是阴雨天人们往往喜欢睡懒觉的原因。紧张的现代生活，使很多上班的人无法享受轻松舒适的睡眠、自然地醒来，闹钟的用途就显得格外重要了。但实验研究证明，人们对自然醒与被闹钟铃声叫醒这两种方式所产生的反应是很不相同的。从睡眠状态过渡到清醒状态时，人的呼吸会从16次/分钟提高到24次/分钟，心跳每分钟加快10次。如果突然被闹钟叫醒，将在心理上使人产生心慌、情绪低落、感觉没睡醒等不适。如果是从深度睡眠中被突然叫醒，那么，人的短期记忆能力、计算技能都会受到影响，这些能力最多为正常状态的65%，与醉酒者相当。出于自我保护，被闹钟叫醒时我们的身体会提高体内的肾上腺素水平。这种状态如果持续数天、数周、数月，将导致高血压、失眠和一些精神问题等。研究发现，突然被闹铃惊醒的人比自然醒的人血压更高、心跳更快。对此，专家解释说，人在睡眠时，身体会发生一些变化，因此人们在早上醒来时更容易发病，而闹铃则会使发病的可能性变得更大。如果你必须定个闹钟，应采用柔和的声音或音乐。各种醒来方式中，当然是自然醒最符合我们的愿望。可谁能替你拉开窗帘让阳光照进来呢？近年来，市场上出现了一种新的电子产品，名为「光闹钟」。它能在室内模仿早晨自然光线的变化，通过光线的作用使人在设定的时间里自然地醒来，可避免传统闹钟突然惊醒对人体健康的伤害。希望这样能向真正的「自然醒」走近一点，再走近一点。",
+  "text_translation": {
+    "ru": "Медицинские исследования показывают: у сна человека есть свои механизмы, и естественное пробуждение наиболее соответствует биологическим часам. Свет — необходимое условие. Утром, ощущая усиливающийся солнечный свет, метаболизм ускоряется, и человек постепенно переходит из глубокого сна в лёгкий, а потом просыпается. Поэтому в пасмурные дни мы любим подольше поспать. Из-за напряжённой современной жизни многие работающие люди не могут позволить себе естественное пробуждение — тут и важен будильник. Но эксперименты показывают: реакция на естественное пробуждение и на будильник совершенно разные. При переходе из сна в бодрствование дыхание учащается с 16 до 24 раз в минуту, пульс — на 10 ударов. Резкое пробуждение от будильника вызывает тревожность, плохое настроение, ощущение недосыпа. А если разбудили в глубоком сне — краткосрочная память и счётные навыки падают до 65% от нормы, как при опьянении. Организм выделяет адреналин. Если это повторяется много дней, недель, месяцев — приводит к гипертонии, бессоннице, психическим проблемам. Исследование показало: разбуженные будильником люди имеют более высокое давление и частый пульс, чем проснувшиеся естественно. Если будильник всё же нужен — используйте мягкий звук или музыку. Сегодня на рынке есть «световой будильник»: имитирует утренний естественный свет и мягко будит в нужное время, избегая вреда от традиционного будильника.",
+    "tk": "Lukmançylyk barlaglary görkezýär: adamyň ukusynyň öz mehanizmi bar — tebigy oýanmak biologik sagada iň laýyk. Ýagtylyk tebigy oýanmagyň şertidir. Irden gün şöhlesi güýçlenip başlanda, metabolizm çaltlanýar — adam çuň ukudan ýeňil ukuda geçýär. Şol sebäpden bulutly günde uzak ýatmagy halaýarys. Häzirki dartgynly durmuşda köp adamlar tebigy oýanyp bilmeýär — jaňly sagat möhüm bolýar. Emma synaglar görkezýär: tebigy oýanmak bilen jaňly sagadyň oýandyrýan täsiri düýbünden tapawutly. Çuň ukudan bada-bat oýanan adamda ýatkeşlik, lapykeçlik, ukusyzlyk ýüze çykýar. Birnäçe gün, hepde, aý dowam etse — gipertoniýa, uky tutmazlyk we ruhy näsazlyklara eltýär. Barlaglar görkezýär: jaň bilen oýanan adamyň gan basyşy we ýürek urgusy tebigy oýanandan ýokary. Eger-de jaňly sagat zerur bolsa — ýumşak sesi ýa-da sazy saýlaň. Häzir bazarda «Ýagtylyk jaňly sagady» bar — ol irdenki tebigy ýagtylygy öýde janlandyrýar we sagatlaýyn ýumşak oýandyrýar.",
+    "en": "Medical research proves that human sleep has its own specific mechanisms, and natural waking best matches the body's biological clock. Light is the necessary condition for natural waking — the body's internal biological alarm. In the morning, as the body senses gradually strengthening sunlight, metabolism speeds up, and the person transitions from deep to light sleep until waking. That's why people tend to sleep in on cloudy and rainy days. The tense modern life makes it impossible for many working people to enjoy relaxed, comfortable sleep and wake naturally — so the alarm clock's use becomes especially important. But experimental research proves: people's responses to natural waking versus alarm-clock waking are very different. Transitioning from sleep to wakefulness, respiration rises from 16/min to 24/min, heart rate increases by 10/min. If abruptly awakened by an alarm, one feels flustered, low-spirited, and unrested. If awakened from deep sleep, short-term memory and calculation skills are affected, dropping to at most 65% of normal — like a drunk person. For self-protection, the body raises adrenaline levels when awakened by alarm. If this state lasts days, weeks, months, it leads to hypertension, insomnia and some psychological problems. Research finds: those abruptly awakened by alarms have higher blood pressure and faster heart rate than natural wakers. Experts explain: the body changes during sleep, so people are more prone to illness when waking — and an alarm increases that possibility. If you must set an alarm, use a soft sound or music. Of all waking methods, natural waking best suits our wishes. But who can pull the curtain and let the sunlight in for you? In recent years, a new electronic product has appeared on the market called a 'light alarm clock'. It can imitate the changes of morning natural light indoors, gently waking the person at a set time through the effect of light, avoiding the harm to health that traditional alarms cause by abrupt awakening. Hopefully this brings us a step, and another step, closer to true 'natural waking'."
+  },
+  "vocabulary": [
+    {
+      "hanzi": "闹钟",
+      "pinyin": "nàozhōng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "будильник",
+        "tk": "jaňly sagat",
+        "en": "alarm clock"
+      }
+    },
+    {
+      "hanzi": "危害",
+      "pinyin": "wēihài",
+      "pos": "v.",
+      "meaning": {
+        "ru": "вредить",
+        "tk": "zyýan ýetirmek",
+        "en": "to harm"
+      }
+    },
+    {
+      "hanzi": "人类",
+      "pinyin": "rénlèi",
+      "pos": "n.",
+      "meaning": {
+        "ru": "человечество",
+        "tk": "adamzat",
+        "en": "humankind"
+      }
+    },
+    {
+      "hanzi": "机制",
+      "pinyin": "jīzhì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "механизм",
+        "tk": "mehanizm",
+        "en": "mechanism"
+      }
+    },
+    {
+      "hanzi": "生物",
+      "pinyin": "shēngwù",
+      "pos": "n.",
+      "meaning": {
+        "ru": "живой организм",
+        "tk": "janly organizm",
+        "en": "living thing"
+      }
+    },
+    {
+      "hanzi": "规律",
+      "pinyin": "guīlǜ",
+      "pos": "n./adj.",
+      "meaning": {
+        "ru": "закономерность",
+        "tk": "kanunalaýyklyk",
+        "en": "law, pattern"
+      }
+    },
+    {
+      "hanzi": "光线",
+      "pinyin": "guāngxiàn",
+      "pos": "n.",
+      "meaning": {
+        "ru": "свет, луч",
+        "tk": "ýagtylyk",
+        "en": "light, ray"
+      }
+    },
+    {
+      "hanzi": "必要",
+      "pinyin": "bìyào",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "необходимый",
+        "tk": "zerur",
+        "en": "necessary"
+      }
+    },
+    {
+      "hanzi": "过渡",
+      "pinyin": "guòdù",
+      "pos": "v.",
+      "meaning": {
+        "ru": "переходить",
+        "tk": "geçmek",
+        "en": "to transit"
+      }
+    },
+    {
+      "hanzi": "浅",
+      "pinyin": "qiǎn",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "мелкий, поверхностный",
+        "tk": "ýalpak",
+        "en": "shallow"
+      }
+    },
+    {
+      "hanzi": "现代",
+      "pinyin": "xiàndài",
+      "pos": "n./adj.",
+      "meaning": {
+        "ru": "современный",
+        "tk": "häzirki",
+        "en": "modern"
+      }
+    },
+    {
+      "hanzi": "享受",
+      "pinyin": "xiǎngshòu",
+      "pos": "v.",
+      "meaning": {
+        "ru": "наслаждаться",
+        "tk": "lezzet almak",
+        "en": "to enjoy"
+      }
+    },
+    {
+      "hanzi": "用途",
+      "pinyin": "yòngtú",
+      "pos": "n.",
+      "meaning": {
+        "ru": "применение",
+        "tk": "ulanylyş",
+        "en": "use"
+      }
+    },
+    {
+      "hanzi": "实验",
+      "pinyin": "shíyàn",
+      "pos": "n./v.",
+      "meaning": {
+        "ru": "эксперимент",
+        "tk": "synag",
+        "en": "experiment"
+      }
+    },
+    {
+      "hanzi": "铃",
+      "pinyin": "líng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "звонок",
+        "tk": "jaň",
+        "en": "bell"
+      }
+    },
+    {
+      "hanzi": "所",
+      "pinyin": "suǒ",
+      "pos": "частица",
+      "meaning": {
+        "ru": "частица (книжн.)",
+        "tk": "bölekçe",
+        "en": "particle"
+      }
+    },
+    {
+      "hanzi": "状态",
+      "pinyin": "zhuàngtài",
+      "pos": "n.",
+      "meaning": {
+        "ru": "состояние",
+        "tk": "ýagdaý",
+        "en": "state"
+      }
+    },
+    {
+      "hanzi": "清醒",
+      "pinyin": "qīngxǐng",
+      "pos": "adj./v.",
+      "meaning": {
+        "ru": "бодрый",
+        "tk": "huşly",
+        "en": "sober, alert"
+      }
+    },
+    {
+      "hanzi": "呼吸",
+      "pinyin": "hūxī",
+      "pos": "v.",
+      "meaning": {
+        "ru": "дышать",
+        "tk": "dem almak",
+        "en": "to breathe"
+      }
+    },
+    {
+      "hanzi": "心理",
+      "pinyin": "xīnli",
+      "pos": "n.",
+      "meaning": {
+        "ru": "психика",
+        "tk": "psihika",
+        "en": "psychology"
+      }
+    },
+    {
+      "hanzi": "慌(张)",
+      "pinyin": "huāng(zhāng)",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "тревожный, растерянный",
+        "tk": "howatyrly",
+        "en": "flurried"
+      }
+    },
+    {
+      "hanzi": "情绪",
+      "pinyin": "qíngxù",
+      "pos": "n.",
+      "meaning": {
+        "ru": "настроение",
+        "tk": "keýp",
+        "en": "emotion, mood"
+      }
+    },
+    {
+      "hanzi": "低落",
+      "pinyin": "dīluò",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "подавленный",
+        "tk": "gamlı",
+        "en": "depressed"
+      }
+    },
+    {
+      "hanzi": "记忆",
+      "pinyin": "jìyì",
+      "pos": "v./n.",
+      "meaning": {
+        "ru": "память",
+        "tk": "ýat",
+        "en": "memory"
+      }
+    },
+    {
+      "hanzi": "计算",
+      "pinyin": "jìsuàn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "считать",
+        "tk": "hasaplamak",
+        "en": "to calculate"
+      }
+    },
+    {
+      "hanzi": "相当",
+      "pinyin": "xiāngdāng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "быть равным",
+        "tk": "deň bolmak",
+        "en": "to be equal"
+      }
+    },
+    {
+      "hanzi": "持续",
+      "pinyin": "chíxù",
+      "pos": "v.",
+      "meaning": {
+        "ru": "продолжаться",
+        "tk": "dowam etmek",
+        "en": "to continue"
+      }
+    },
+    {
+      "hanzi": "数",
+      "pinyin": "shù",
+      "pos": "num.",
+      "meaning": {
+        "ru": "несколько",
+        "tk": "birnäçe",
+        "en": "several"
+      }
+    },
+    {
+      "hanzi": "导致",
+      "pinyin": "dǎozhì",
+      "pos": "v.",
+      "meaning": {
+        "ru": "приводить к",
+        "tk": "eltmek",
+        "en": "to lead to"
+      }
+    },
+    {
+      "hanzi": "失眠",
+      "pinyin": "shīmián",
+      "pos": "v.",
+      "meaning": {
+        "ru": "страдать бессонницей",
+        "tk": "uky tutmazlyk",
+        "en": "insomnia"
+      }
+    },
+    {
+      "hanzi": "精神",
+      "pinyin": "jīngshén",
+      "pos": "n./adj.",
+      "meaning": {
+        "ru": "дух, психика",
+        "tk": "ruh",
+        "en": "spirit, mind"
+      }
+    },
+    {
+      "hanzi": "专家",
+      "pinyin": "zhuānjiā",
+      "pos": "n.",
+      "meaning": {
+        "ru": "эксперт",
+        "tk": "hünärmen",
+        "en": "expert"
+      }
+    },
+    {
+      "hanzi": "采用",
+      "pinyin": "cǎiyòng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "применять",
+        "tk": "ulanmak",
+        "en": "to use"
+      }
+    },
+    {
+      "hanzi": "柔和",
+      "pinyin": "róuhé",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "мягкий",
+        "tk": "ýumşak",
+        "en": "gentle, soft"
+      }
+    },
+    {
+      "hanzi": "愿望",
+      "pinyin": "yuànwàng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "желание",
+        "tk": "arzuw",
+        "en": "wish"
+      }
+    },
+    {
+      "hanzi": "窗帘",
+      "pinyin": "chuānglián",
+      "pos": "n.",
+      "meaning": {
+        "ru": "занавеска",
+        "tk": "perde",
+        "en": "curtain"
+      }
+    },
+    {
+      "hanzi": "市场",
+      "pinyin": "shìchǎng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "рынок",
+        "tk": "bazar",
+        "en": "market"
+      }
+    },
+    {
+      "hanzi": "产品",
+      "pinyin": "chǎnpǐn",
+      "pos": "n.",
+      "meaning": {
+        "ru": "продукт",
+        "tk": "önüm",
+        "en": "product"
+      }
+    },
+    {
+      "hanzi": "模仿",
+      "pinyin": "mófǎng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "имитировать",
+        "tk": "meňzetmek",
+        "en": "to imitate"
+      }
+    },
+    {
+      "hanzi": "避免",
+      "pinyin": "bìmiǎn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "избегать",
+        "tk": "gutulmak",
+        "en": "to avoid"
+      }
+    },
+    {
+      "hanzi": "传统",
+      "pinyin": "chuántǒng",
+      "pos": "n./adj.",
+      "meaning": {
+        "ru": "традиция; традиционный",
+        "tk": "däp; däp bolan",
+        "en": "tradition"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "来/过来",
+      "pos": "глагол направления",
+      "explanation": {
+        "ru": "«动词+来 / 过来» — от сна к бодрствованию; также возвращение к нормальному состоянию.",
+        "tk": "«动词+来 / 过来» — ukudan oýanmak; kadaly ýagdaýa dolanmak.",
+        "en": "'Verb + 来/过来' means waking up, or returning to a normal state."
+      },
+      "examples": [
+        {
+          "zh": "人逐渐从熟睡过渡到浅睡，直到醒来。",
+          "ru": "Человек постепенно переходит из глубокого сна в лёгкий, пока не проснётся.",
+          "tk": "Adam çuň ukudan ýeňil ukuda geçip, ahyrynda oýanýar.",
+          "en": "One gradually shifts from deep to light sleep until waking."
+        },
+        {
+          "zh": "早晨醒来，我发现窗外正下着大雪。",
+          "ru": "Проснувшись утром, я увидел, что на улице идёт большой снег.",
+          "tk": "Irden oýanymda, daşarda güýçli gar ýagýandygyny gördüm.",
+          "en": "Waking up in the morning, I saw it was snowing heavily."
+        },
+        {
+          "zh": "我被一阵吵闹声突然惊醒，过了半天，脑子才清醒过来。",
+          "ru": "Меня разбудил шум, и лишь через некоторое время сознание прояснилось.",
+          "tk": "Meni gykylyk oýardy, birazdan aňym aýyldy.",
+          "en": "I was awakened by noise, and it took a while to come to my senses."
+        },
+        {
+          "zh": "天上的星星那么多，谁数得过来呀？",
+          "ru": "На небе столько звёзд — кто их пересчитает?",
+          "tk": "Asmanda şonça ýyldyz bar — kim hasaplap ýetişer?",
+          "en": "There are so many stars — who can count them all?"
+        },
+        {
+          "zh": "最近手头的工作太多了，我都忙不过来了。",
+          "ru": "В последнее время столько работы — я не успеваю.",
+          "tk": "Soňky wagtlarda iş köp — ýetişip bilemok.",
+          "en": "There's too much work lately — I can't keep up."
+        },
+        {
+          "zh": "天慢慢地亮起来了。",
+          "ru": "Небо постепенно светлело.",
+          "tk": "Asman kem-kemden ýagtyldy.",
+          "en": "The sky gradually brightened."
+        },
+        {
+          "zh": "他醒过来了，第一句话就是问妈妈。",
+          "ru": "Он пришёл в себя и первым делом спросил о маме.",
+          "tk": "Ol huşuna gelip, ilkinji soragy ejesi barada boldy.",
+          "en": "Coming to, his first question was about his mother."
+        },
+        {
+          "zh": "我从睡梦中惊醒过来。",
+          "ru": "Я внезапно проснулся от сна.",
+          "tk": "Men birden ukudan oýandym.",
+          "en": "I suddenly woke up from a dream."
+        },
+        {
+          "zh": "喝了杯咖啡，我才慢慢清醒过来。",
+          "ru": "Выпив чашку кофе, я постепенно пришёл в себя.",
+          "tk": "Bir käse kofe içip, men kem-kemden özüme geldim.",
+          "en": "After a cup of coffee, I gradually came to."
+        },
+        {
+          "zh": "忙不过来的话，可以请个帮手。",
+          "ru": "Если не успеваешь — найми помощника.",
+          "tk": "Ýetişip bilmeseň — kömekçi tut.",
+          "en": "If you can't manage, hire a helper."
+        }
+      ]
+    },
+    {
+      "word": "所",
+      "pos": "частица",
+      "explanation": {
+        "ru": "«所» перед глаголом — субстантивирует конструкцию; также «有/无+所+动词».",
+        "tk": "«所» işlikden öň — gurluşy atlaşdyrýar.",
+        "en": "'所' before verbs nominalizes; also '有/无 + 所 + verb'."
+      },
+      "examples": [
+        {
+          "zh": "山水画所表现的是人与自然的关系。",
+          "ru": "Пейзажная живопись выражает отношение человека к природе.",
+          "tk": "Peýzaž suraty adamyň tebigat bilen gatnaşygyny beýan edýär.",
+          "en": "Landscape painting expresses the relationship of humans to nature."
+        },
+        {
+          "zh": "人们对自然醒与被闹钟铃声叫醒所产生的反应是很不相同的。",
+          "ru": "Реакции на естественное пробуждение и на будильник сильно различаются.",
+          "tk": "Tebigy oýanmak we jaňly sagat bilen oýanmak täsirleri düýbünden tapawutly.",
+          "en": "Reactions to natural waking vs alarm waking are very different."
+        },
+        {
+          "zh": "调查显示，随着年龄的增大，女性的职场幸福感有所提高。",
+          "ru": "Исследование показывает: с возрастом ощущение счастья у работающих женщин растёт.",
+          "tk": "Barlag görkezýär: ýaş ulaldykça işleýän aýallaryň bagtlylyk duýgusy ýokarlanýar.",
+          "en": "Research shows women's workplace happiness rises with age."
+        },
+        {
+          "zh": "我和李阳是无所不谈的好朋友。",
+          "ru": "Мы с Ли Яном друзья — говорим обо всём.",
+          "tk": "Men Li Ýan bilen dost — hemme zat barada gürleşýäris.",
+          "en": "Li Yang and I are friends who talk about everything."
+        },
+        {
+          "zh": "来自北京一所大学的学生做了关于这个问题的实验。",
+          "ru": "Студенты одного пекинского вуза провели эксперимент по этому вопросу.",
+          "tk": "Pekiniň bir uniwersitetiniň okuwçylary bu meselede synag geçirdiler.",
+          "en": "Students from a Beijing university conducted an experiment on this."
+        },
+        {
+          "zh": "学校附近就有一所幼儿园。",
+          "ru": "Рядом со школой есть детский сад.",
+          "tk": "Mekdebiň golaýynda bir çagalar bagy bar.",
+          "en": "There's a kindergarten near the school."
+        },
+        {
+          "zh": "我所知道的就是这些。",
+          "ru": "Это всё, что я знаю.",
+          "tk": "Bilýän zadym şulardan ybarat.",
+          "en": "That's all I know."
+        },
+        {
+          "zh": "有所准备，才不至于慌张。",
+          "ru": "Подготовишься — не растеряешься.",
+          "tk": "Taýýarlykly bolsaň, howsala düşmersiň.",
+          "en": "Be prepared, and you won't panic."
+        },
+        {
+          "zh": "他这个人真是无所不能。",
+          "ru": "Он действительно умеет всё.",
+          "tk": "Ol hakykatdan hemme zady başarýar.",
+          "en": "He really can do anything."
+        },
+        {
+          "zh": "这所学校有三千多名学生。",
+          "ru": "В этой школе более трёх тысяч учеников.",
+          "tk": "Bu mekdepde üç müňden gowrak okuwçy bar.",
+          "en": "This school has over three thousand students."
+        }
+      ]
+    },
+    {
+      "word": "相当",
+      "pos": "v./adv.",
+      "explanation": {
+        "ru": "«相当» — «равняться»; как наречие — «довольно, значительно».",
+        "tk": "«相当» — «deň bolmak»; hal hökmünde «birneme, gaty».",
+        "en": "'相当' — 'to be equal'; adv. 'quite, fairly'."
+      },
+      "examples": [
+        {
+          "zh": "这些能力最多为正常状态的65%，与醉酒者相当。",
+          "ru": "Эти способности — максимум 65% от нормы, как у пьяного.",
+          "tk": "Bu ukyplar kadalyň 65%-i — serhoş ýaly.",
+          "en": "These abilities at most reach 65% of normal — like a drunk person."
+        },
+        {
+          "zh": "这种鸟一天所食的害虫相当于自己的体重。",
+          "ru": "Эта птица съедает за день вредителей, равных по весу ей самой.",
+          "tk": "Bu guş bir günde öz agramyna deň zyýankeş iýýär.",
+          "en": "This bird eats pests equal to its own body weight daily."
+        },
+        {
+          "zh": "菜的味道好极了，服务也挺周到，我相当满意。",
+          "ru": "Еда превосходна, обслуживание внимательное — я вполне доволен.",
+          "tk": "Naharlar örän gowy, hyzmaty hem ünsli — men gaty kanagatlandym.",
+          "en": "The food is great, service attentive — I'm quite satisfied."
+        },
+        {
+          "zh": "如果要问人们选择职业时主要考虑的是什么，有相当一部分人会以收入多少作为标准。",
+          "ru": "Если спросить, что главное при выборе профессии, значительная часть назовёт доход.",
+          "tk": "Kär saýlanyňda iň möhüm zat näme diýip sorasaň, köpler girdejäni aýdarlar.",
+          "en": "Asked what's key in choosing a career, quite a few cite income."
+        },
+        {
+          "zh": "这里的学习压力相当大。",
+          "ru": "Здесь учебная нагрузка довольно большая.",
+          "tk": "Bu ýerdäki okuw basyşy birneme güýçli.",
+          "en": "The academic pressure here is quite high."
+        },
+        {
+          "zh": "他汉语说得相当流利。",
+          "ru": "Он говорит по-китайски довольно бегло.",
+          "tk": "Ol hytaýça birneme suwara gürleýär.",
+          "en": "He speaks Chinese quite fluently."
+        },
+        {
+          "zh": "这两个城市面积相当。",
+          "ru": "Эти два города по площади равны.",
+          "tk": "Bu iki şäheriň meýdany deň.",
+          "en": "The two cities are equal in area."
+        },
+        {
+          "zh": "水平相当的两个队比赛最精彩。",
+          "ru": "Самые зрелищные матчи — между равными командами.",
+          "tk": "Deň derejeli iki toparyň oýny iň gyzykly.",
+          "en": "Matches between equal teams are most exciting."
+        },
+        {
+          "zh": "这次活动的规模相当大。",
+          "ru": "Масштаб этого мероприятия довольно большой.",
+          "tk": "Bu çäräniň gerimi birneme uly.",
+          "en": "This event is fairly large-scale."
+        },
+        {
+          "zh": "他的病相当严重，得住院。",
+          "ru": "Он довольно серьёзно болен — нужно лечь в больницу.",
+          "tk": "Onuň keseli birneme agyr — hassahanada ýatmaly.",
+          "en": "He's quite seriously ill — needs hospitalization."
+        }
+      ]
+    },
+    {
+      "word": "数",
+      "pos": "v./num.",
+      "explanation": {
+        "ru": "«数» — «считать»; «数(shù)» — «несколько»; «数一数二» — «один из лучших».",
+        "tk": "«数» — «sanamak»; «数(shù)» — «birnäçe».",
+        "en": "'数(shǔ)' — 'to count'; '数(shù)' — 'several'."
+      },
+      "examples": [
+        {
+          "zh": "我大概数了一下，车上有32个学生。",
+          "ru": "Я примерно посчитал — в автобусе 32 студента.",
+          "tk": "Men takmynan sanadym — awtobusda 32 okuwçy bar.",
+          "en": "I roughly counted — 32 students on the bus."
+        },
+        {
+          "zh": "先生，这是找您的钱，58块6，您数数。",
+          "ru": "Господин, ваша сдача — 58 юаней 60, посчитайте.",
+          "tk": "Jenap, gaýtargy pulyňyz — 58 ýuwan 60, sanap al.",
+          "en": "Sir, your change — 58.6 yuan, please count."
+        },
+        {
+          "zh": "我觉得北京最美、最有名气的公园要数颐和园了。",
+          "ru": "Самый красивый и известный пекинский парк — Ихэюань.",
+          "tk": "Pekiniň iň owadan we meşhur seýilgähi — Iheýuan.",
+          "en": "Beijing's most beautiful and famous park is the Summer Palace."
+        },
+        {
+          "zh": "要说我们班跑得最快的，那就数李阳了。",
+          "ru": "Самый быстрый бегун в нашем классе — Ли Ян.",
+          "tk": "Synpymyzda iň çalt ylgayan — Li Ýan.",
+          "en": "The fastest runner in our class is Li Yang."
+        },
+        {
+          "zh": "这里夏季的雷阵雨一般可持续数小时。",
+          "ru": "Летние грозы здесь обычно идут несколько часов.",
+          "tk": "Bu ýerde tomus ýyldyrymly ýagyşlar birnäçe sagat dowam edýär.",
+          "en": "Summer thunderstorms here typically last several hours."
+        },
+        {
+          "zh": "这种状态如果持续数天、数周、数月，将导致高血压。",
+          "ru": "Если это состояние длится дни, недели, месяцы — приводит к гипертонии.",
+          "tk": "Bu ýagdaý birnäçe gün, hepde, aý dowam etse — gipertoniýa eltýär.",
+          "en": "If this state lasts days, weeks, months, it leads to hypertension."
+        },
+        {
+          "zh": "他数不清天上到底有多少星星。",
+          "ru": "Он не мог сосчитать, сколько на небе звёзд.",
+          "tk": "Ol asmanda näçe ýyldyz bar — sanap bilmedi.",
+          "en": "He couldn't count how many stars were in the sky."
+        },
+        {
+          "zh": "这个孩子能从一数到一百。",
+          "ru": "Этот ребёнок может считать от одного до ста.",
+          "tk": "Bu çaga birden ýüze çenli sanap bilýär.",
+          "en": "This child can count from one to a hundred."
+        },
+        {
+          "zh": "他是我们学校数一数二的好学生。",
+          "ru": "Он один из лучших учеников нашей школы.",
+          "tk": "Ol mekdebimiziň iň gowy okuwçylaryndan biri.",
+          "en": "He's one of the best students in our school."
+        },
+        {
+          "zh": "数一数，一共几个。",
+          "ru": "Посчитай, сколько всего.",
+          "tk": "Sanap gör, jemi näçe.",
+          "en": "Count them — how many in total?"
+        }
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "pattern": "动词 + 宾语",
+      "items": [
+        "享受自由 / 艺术 / 人生 / 美酒 / 幸福 / 快乐",
+        "导致错误 / 失败 / 失眠 / 危险"
+      ]
+    },
+    {
+      "pattern": "定语 + 中心语",
+      "items": [
+        "稳定的 / 不满的 / 紧张的 情绪",
+        "（关于）家的 / 童年的 / 难忘的 记忆"
+      ]
+    },
+    {
+      "pattern": "状语 + 中心语",
+      "items": [
+        "努力 / 尽量 / 主动 / 故意 / 完全 / 永远 避免",
+        "准确地 / 成功地 / 专门 / 故意 模仿"
+      ]
+    },
+    {
+      "pattern": "中心语 + 补语",
+      "items": [
+        "计算出来 / 计算出",
+        "改 / 救 / 清醒 / 明白 / 反应 过来"
+      ]
+    },
+    {
+      "pattern": "主语 + 谓语",
+      "items": [
+        "精神愉快 / 放松 / 饱满",
+        "光线昏暗 / 明亮"
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "持续",
+      "word_b": "继续",
+      "common": {
+        "ru": "Оба — «продолжаться».",
+        "tk": "Ikisi hem «dowam etmek».",
+        "en": "Both mean 'to continue'."
+      },
+      "differences": [
+        {
+          "ru": "«持续» — без остановки: 这场雨持续下了两个多小时。",
+          "tk": "«持续» — arakesmesiz.",
+          "en": "'持续' — no interruption: the rain lasted over 2 hours."
+        },
+        {
+          "ru": "«继续» — можно с паузами: 对不起，你们继续学习吧。",
+          "tk": "«继续» — arakesme bilen.",
+          "en": "'继续' — can have pauses: 'Sorry — continue your studies.'"
+        },
+        {
+          "ru": "«持续» + 时段-дополнение: 发烧持续三天了.",
+          "tk": "«持续» + wagt doldurgyjy.",
+          "en": "'持续' can take duration complement: 发烧持续三天了."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "ru": "Дом и предметы быта",
+      "tk": "Jaý we gündelik zatlar",
+      "en": "Home items"
+    },
+    "words": [
+      {
+        "hanzi": "抽屉",
+        "pinyin": "chōuti",
+        "meaning": {
+          "ru": "выдвижной ящик",
+          "tk": "çekme",
+          "en": "drawer"
+        }
+      },
+      {
+        "hanzi": "书架",
+        "pinyin": "shūjià",
+        "meaning": {
+          "ru": "книжная полка",
+          "tk": "kitap tekjesi",
+          "en": "bookshelf"
+        }
+      },
+      {
+        "hanzi": "窗帘",
+        "pinyin": "chuānglián",
+        "meaning": {
+          "ru": "занавеска",
+          "tk": "perde",
+          "en": "curtain"
+        }
+      },
+      {
+        "hanzi": "地毯",
+        "pinyin": "dìtǎn",
+        "meaning": {
+          "ru": "ковёр",
+          "tk": "haly",
+          "en": "carpet"
+        }
+      },
+      {
+        "hanzi": "被子",
+        "pinyin": "bèizi",
+        "meaning": {
+          "ru": "одеяло",
+          "tk": "ýorgan",
+          "en": "quilt"
+        }
+      },
+      {
+        "hanzi": "玩具",
+        "pinyin": "wánjù",
+        "meaning": {
+          "ru": "игрушка",
+          "tk": "oýunjak",
+          "en": "toy"
+        }
+      },
+      {
+        "hanzi": "日历",
+        "pinyin": "rìlì",
+        "meaning": {
+          "ru": "календарь",
+          "tk": "senenama",
+          "en": "calendar"
+        }
+      },
+      {
+        "hanzi": "包裹",
+        "pinyin": "bāoguǒ",
+        "meaning": {
+          "ru": "посылка",
+          "tk": "bukja",
+          "en": "package"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "ru": "Как вы думаете, нужен ли будильник? Как улучшить качество сна?",
+      "tk": "Jaňly sagat zerurmy? Ukynyň hilini nähili gowulandyrmaly?",
+      "en": "Do you think alarm clocks are necessary? How to improve sleep quality?"
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что такое «自然醒»?",
+          "tk": "«Tebigy oýanmak» näme?",
+          "en": "What is 'natural waking'?"
+        },
+        "options": [
+          "От будильника",
+          "От света",
+          "От шума",
+          "От телефона"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что влияет на биологические часы?",
+          "tk": "Biologik sagada näme täsir edýär?",
+          "en": "What affects biological clock?"
+        },
+        "options": [
+          "Свет",
+          "Еда",
+          "Музыка",
+          "Спорт"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что происходит при резком пробуждении?",
+          "tk": "Birden oýananda näme bolýar?",
+          "en": "What happens on abrupt waking?"
+        },
+        "options": [
+          "Радость",
+          "Тревожность",
+          "Смех",
+          "Голод"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "До какого уровня падает память?",
+          "tk": "Ýat näçe göterime düşýär?",
+          "en": "Memory drops to what level?"
+        },
+        "options": [
+          "95%",
+          "80%",
+          "65%",
+          "50%"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что рекомендуют эксперты?",
+          "tk": "Hünärmenler näme maslahat berýär?",
+          "en": "What do experts recommend?"
+        },
+        "options": [
+          "Громкий звук",
+          "Мягкий звук или музыка",
+          "Не спать",
+          "Больше кофе"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что такое «光闹钟»?",
+          "tk": "«Ýagtylyk jaňly sagady» näme?",
+          "en": "What is a 'light alarm clock'?"
+        },
+        "options": [
+          "Обычный будильник",
+          "Имитирует утренний свет",
+          "Играет музыку",
+          "Вибрация"
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«危害» означает:",
+          "tk": "«危害» nämäni aňladýar?",
+          "en": "'危害' means:"
+        },
+        "options": [
+          "Польза",
+          "Вред",
+          "Помощь",
+          "Сон"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«机制» — это:",
+          "tk": "«机制» näme?",
+          "en": "'机制' means:"
+        },
+        "options": [
+          "Машина",
+          "Механизм",
+          "Завод",
+          "Прибор"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«规律» означает:",
+          "tk": "«规律» nämäni aňladýar?",
+          "en": "'规律' means:"
+        },
+        "options": [
+          "Случайность",
+          "Закономерность",
+          "Ошибка",
+          "Опыт"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«必要» означает:",
+          "tk": "«必要» nämäni aňladýar?",
+          "en": "'必要' means:"
+        },
+        "options": [
+          "Лишний",
+          "Необходимый",
+          "Скучный",
+          "Простой"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«清醒» — это:",
+          "tk": "«清醒» nämäni aňladýar?",
+          "en": "'清醒' means:"
+        },
+        "options": [
+          "Сонный",
+          "Бодрый",
+          "Голодный",
+          "Грустный"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«失眠» — это:",
+          "tk": "«失眠» näme?",
+          "en": "'失眠' means:"
+        },
+        "options": [
+          "Много спать",
+          "Плохо спать",
+          "Храпеть",
+          "Сниться"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«柔和» означает:",
+          "tk": "«柔和» nämäni aňladýar?",
+          "en": "'柔和' means:"
+        },
+        "options": [
+          "Резкий",
+          "Мягкий",
+          "Тихий",
+          "Яркий"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«模仿» — это:",
+          "tk": "«模仿» nämäni aňladýar?",
+          "en": "'模仿' means:"
+        },
+        "options": [
+          "Отличаться",
+          "Подражать",
+          "Забывать",
+          "Отрицать"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что означает «避免»?",
+          "tk": "«避免» nämäni aňladýar?",
+          "en": "What does '避免' mean?"
+        },
+        "options": [
+          "Приблизить",
+          "Избегать",
+          "Поймать",
+          "Создать"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«传统» — это:",
+          "tk": "«传统» näme?",
+          "en": "'传统' means:"
+        },
+        "options": [
+          "Новшество",
+          "Традиция",
+          "Ошибка",
+          "Сказка"
+        ],
+        "answer": 1
+      }
+    ],
+    "writing": [
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "脚步",
+          "享受生活",
+          "为了",
+          "是",
+          "放慢"
+        ],
+        "answer": "放慢脚步是为了享受生活"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "是",
+          "很",
+          "人偶尔",
+          "正常的",
+          "情绪低落"
+        ],
+        "answer": "人偶尔情绪低落是很正常的"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "一般",
+          "都",
+          "持续的时间",
+          "雷阵雨",
+          "较短"
+        ],
+        "answer": "雷阵雨持续的时间一般都较短"
+      },
+      {
+        "type": "essay",
+        "prompt": {
+          "ru": "Сочинение 80+ иероглифов: 失眠、精神、危害、规律、避免",
+          "tk": "80+ iýeroglif: 失眠、精神、危害、规律、避免",
+          "en": "Essay 80+ chars: 失眠、精神、危害、规律、避免"
+        },
+        "min_length": 80,
+        "required_words": [
+          "失眠",
+          "精神",
+          "危害",
+          "规律",
+          "避免"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1084 @@
+{
+  "title": {
+    "zh": "争论的奇迹",
+    "ru": "Чудо спора",
+    "tk": "Jedeliň gudraty",
+    "en": "Miracle of Debate",
+    "uz": "Bahs mo'jizasi",
+    "tg": "Мӯъҷизаи баҳс"
+  },
+  "audio_files": {
+    "textbook_1": "textbook_1.mp3",
+    "textbook_2": "textbook_2.mp3",
+    "vocab": "vocab.mp3",
+    "workbook_41_1": "workbook_41-1.mp3",
+    "workbook_41_2": "workbook_41-2.mp3"
+  },
+  "warmup": {
+    "question": {
+      "ru": "Как вы думаете, как появилось кино?",
+      "tk": "Kino nähili döredi öýdýärsiňiz?",
+      "en": "How do you think cinema was invented?"
+    },
+    "answers": [
+      "争论",
+      "摄影师",
+      "相片",
+      "电影",
+      "奇迹"
+    ]
+  },
+  "text_zh": "1872年的一天，在美国加利福尼亚州的一个酒店里，斯坦福与科恩围绕「马奔跑时蹄子是否着地」进行了辩论。斯坦福认为，马奔跑得那么快，在跳起时四蹄应该都是不落地的；而科恩认为，马要是四蹄都不着地，那不是成了青蛙啦？应该是始终有一端着地。两人各执一词，争论得脸红脖子粗，谁也说服不了谁。于是他们就请英国摄影师麦布里奇来判断，可麦布里奇也弄不清楚。不过摄影师毕竟是摄影师，主意还是有的。他们一起来到一个操场，在一条跑道的一边等距离放上24个照相机，照相机对准跑道；在跑道另一边打24个洞，分别插进24根木棍，木棍上系着细线，细线穿过跑道，接上相机快门。一切都准备好了，麦布里奇让一匹马从跑道的一头飞奔到另一头，马一边跑，一边按顺序撞断拦路的24根细线，相机连续拍下了24张相片，相邻两张相片的差距都很小。相片显示：马奔跑时始终有一端着地，科恩赢了。事后，有人无意识地快速地拉动那一长串相片，「奇迹」出现了：各张相片中静止的马连成了一匹运动的马，相片「活」了。这就是电影最早的样子。经过艰苦的试验，电影拍摄技术逐渐改进、成熟。1895年12月28日，法国人卢米埃尔兄弟在巴黎第一次向公众播放了短片《火车到站》，这一天后来成为电影产生的纪念日，兄弟俩也成为历史上最早的电影导演。留心生活的每一瞬间，并为之争论，适时请求帮助、认真研究，或许重大发现就在你的眼前。",
+  "text_translation": {
+    "ru": "Однажды в 1872 году в отеле в Калифорнии Стэнфорд и Кон спорили: касается ли лошадь копытами земли во время галопа? Стэнфорд утверждал, что все четыре копыта бывают в воздухе; Кон возражал: если все четыре в воздухе — это уже не лошадь, а лягушка. Они попросили фотографа Майбриджа рассудить. Тот придумал хитрый способ: вдоль беговой дорожки поставил 24 фотоаппарата, а на другой стороне — 24 колышка с верёвками, соединёнными с затворами. Лошадь, пробегая, разрывала верёвки одну за другой, и камеры делали снимки с минимальной задержкой. Результат показал: касание всегда есть — Кон победил. А потом кто-то случайно быстро пролистал длинную ленту фотографий — и статичные кадры ожили, превратились в движение. Так родилось кино. После долгих экспериментов технология улучшалась. 28 декабря 1895 года братья Люмьер впервые публично показали короткометражку «Прибытие поезда» — этот день стал днём рождения кино. Будь внимателен к каждой мелочи, спорь, проси помощи, исследуй — и, возможно, великое открытие рядом.",
+    "tk": "1872-nji ýylda Kaliforniýadaky myhmanhanada Stenford we Kon atyň ylganda aýaklarynyň ýere degýändigi barada jedelleşdiler. Stenford: «At bütin dört aýagyny howada saklaýar» diýdi. Kon: «Şeýle bolsa at däl-de, gurbaga bolmaly» diýip garşy çykdy. Olar fotograf Maýbrijden soradylar. Ol 24 kamera we 24 ýüp ulanyp synag geçirdi: at ylgap barşyna ýüpleri üzdi, kameralar surat çekdi. Netije: at hemişe bir aýagyny ýere degirýär. Kon ýeňdi. Soň biri suratlary çalt görkezip başlady — hereketsiz suratlar janlandy. Kinonyň döreýşi şeýle boldy. 1895-nji ýylyň 28-nji dekabrynda doganlar Lýumýer Parižde ilkinji gezek gysga metražly filmi görkezdiler — şol gün kinonyň doglan güni boldy.",
+    "en": "One day in 1872, in a hotel in California, Stanford and Cohen debated whether a galloping horse's hooves touch the ground. Stanford argued: at such speed, all four hooves must be off the ground; Cohen countered: if all four are off, isn't it a frog? There must always be one hoof on the ground. Neither convinced the other — red-faced and neck-swollen, they argued. They asked British photographer Muybridge to judge, but he wasn't sure. Still, a photographer is a photographer — he had an idea. They went to a field: on one side of the track, 24 cameras at equal distances, aimed at the track; on the other side, 24 holes with sticks tied by thin threads crossing the track, connected to the shutters. When everything was ready, Muybridge had a horse gallop from one end; as it ran it broke the threads one by one, and the cameras took 24 photos in sequence — each very close to the next. The photos showed: the horse always had one hoof on the ground — Cohen won. Afterward, someone unconsciously flipped through the long strip of photos quickly — and a 'miracle' appeared: the still horses connected into a moving horse — the photos 'came alive'. This was the earliest form of cinema. Through arduous experiments, film technology gradually improved and matured. On 28 December 1895, the French Lumière brothers first publicly screened the short film 'Arrival of a Train' in Paris — that day became the commemorative date of cinema's birth, and the brothers became the earliest film directors in history. Pay attention to every moment of life, argue for it, seek help in time, study carefully — perhaps a great discovery is right before your eyes."
+  },
+  "vocabulary": [
+    {
+      "hanzi": "争论",
+      "pinyin": "zhēnglùn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "спорить",
+        "tk": "jedelleşmek",
+        "en": "to argue"
+      }
+    },
+    {
+      "hanzi": "奇迹",
+      "pinyin": "qíjì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "чудо",
+        "tk": "gudrat",
+        "en": "miracle"
+      }
+    },
+    {
+      "hanzi": "围绕",
+      "pinyin": "wéirào",
+      "pos": "v.",
+      "meaning": {
+        "ru": "вокруг, касательно",
+        "tk": "daşynda",
+        "en": "around, concerning"
+      }
+    },
+    {
+      "hanzi": "奔跑",
+      "pinyin": "bēnpǎo",
+      "pos": "v.",
+      "meaning": {
+        "ru": "бежать",
+        "tk": "ylgamak",
+        "en": "to run, gallop"
+      }
+    },
+    {
+      "hanzi": "蹄(子)",
+      "pinyin": "tí(zi)",
+      "pos": "n.",
+      "meaning": {
+        "ru": "копыто",
+        "tk": "tuyak",
+        "en": "hoof"
+      }
+    },
+    {
+      "hanzi": "辩论",
+      "pinyin": "biànlùn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "дискутировать",
+        "tk": "jedel etmek",
+        "en": "to debate"
+      }
+    },
+    {
+      "hanzi": "青蛙",
+      "pinyin": "qīngwā",
+      "pos": "n.",
+      "meaning": {
+        "ru": "лягушка",
+        "tk": "gurbaga",
+        "en": "frog"
+      }
+    },
+    {
+      "hanzi": "始终",
+      "pinyin": "shǐzhōng",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "всегда, с начала до конца",
+        "tk": "hemişe",
+        "en": "always, throughout"
+      }
+    },
+    {
+      "hanzi": "脖子",
+      "pinyin": "bózi",
+      "pos": "n.",
+      "meaning": {
+        "ru": "шея",
+        "tk": "boýun",
+        "en": "neck"
+      }
+    },
+    {
+      "hanzi": "说服",
+      "pinyin": "shuōfú",
+      "pos": "v.",
+      "meaning": {
+        "ru": "убедить",
+        "tk": "ynandyrmak",
+        "en": "to persuade"
+      }
+    },
+    {
+      "hanzi": "摄影师",
+      "pinyin": "shèyǐngshī",
+      "pos": "n.",
+      "meaning": {
+        "ru": "фотограф",
+        "tk": "fotograf",
+        "en": "photographer"
+      }
+    },
+    {
+      "hanzi": "毕竟",
+      "pinyin": "bìjìng",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "в конце концов",
+        "tk": "ahyrynda",
+        "en": "after all"
+      }
+    },
+    {
+      "hanzi": "操场",
+      "pinyin": "cāochǎng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "спортплощадка",
+        "tk": "sport meýdançasy",
+        "en": "playground"
+      }
+    },
+    {
+      "hanzi": "洞",
+      "pinyin": "dòng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "дыра, отверстие",
+        "tk": "çukur",
+        "en": "hole"
+      }
+    },
+    {
+      "hanzi": "插",
+      "pinyin": "chā",
+      "pos": "v.",
+      "meaning": {
+        "ru": "вставлять",
+        "tk": "sokmak",
+        "en": "to insert"
+      }
+    },
+    {
+      "hanzi": "棍",
+      "pinyin": "gùn",
+      "pos": "n.",
+      "meaning": {
+        "ru": "палка",
+        "tk": "taýak",
+        "en": "stick"
+      }
+    },
+    {
+      "hanzi": "系",
+      "pinyin": "jì",
+      "pos": "v.",
+      "meaning": {
+        "ru": "привязывать",
+        "tk": "baglamak",
+        "en": "to tie"
+      }
+    },
+    {
+      "hanzi": "匹",
+      "pinyin": "pǐ",
+      "pos": "m.",
+      "meaning": {
+        "ru": "счётное слово для лошадей",
+        "tk": "at üçin san sözi",
+        "en": "MW for horses"
+      }
+    },
+    {
+      "hanzi": "拦",
+      "pinyin": "lán",
+      "pos": "v.",
+      "meaning": {
+        "ru": "преграждать",
+        "tk": "päsgel bermek",
+        "en": "to block"
+      }
+    },
+    {
+      "hanzi": "拍",
+      "pinyin": "pāi",
+      "pos": "v.",
+      "meaning": {
+        "ru": "фотографировать",
+        "tk": "surat çekmek",
+        "en": "to photograph"
+      }
+    },
+    {
+      "hanzi": "差距",
+      "pinyin": "chājù",
+      "pos": "n.",
+      "meaning": {
+        "ru": "разница, разрыв",
+        "tk": "tapawut",
+        "en": "gap, difference"
+      }
+    },
+    {
+      "hanzi": "显示",
+      "pinyin": "xiǎnshì",
+      "pos": "v.",
+      "meaning": {
+        "ru": "показывать",
+        "tk": "görkezmek",
+        "en": "to show"
+      }
+    },
+    {
+      "hanzi": "意识",
+      "pinyin": "yìshi",
+      "pos": "n./v.",
+      "meaning": {
+        "ru": "сознание; осознавать",
+        "tk": "aň; duýmak",
+        "en": "consciousness; to realize"
+      }
+    },
+    {
+      "hanzi": "艰苦",
+      "pinyin": "jiānkǔ",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "тяжёлый, трудный",
+        "tk": "kyn",
+        "en": "arduous"
+      }
+    },
+    {
+      "hanzi": "试验",
+      "pinyin": "shìyàn",
+      "pos": "n./v.",
+      "meaning": {
+        "ru": "эксперимент",
+        "tk": "synag",
+        "en": "trial, test"
+      }
+    },
+    {
+      "hanzi": "逐渐",
+      "pinyin": "zhújiàn",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "постепенно",
+        "tk": "kem-kemden",
+        "en": "gradually"
+      }
+    },
+    {
+      "hanzi": "改进",
+      "pinyin": "gǎijìn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "улучшать",
+        "tk": "gowulandyrmak",
+        "en": "to improve"
+      }
+    },
+    {
+      "hanzi": "成熟",
+      "pinyin": "chéngshú",
+      "pos": "v./adj.",
+      "meaning": {
+        "ru": "созревать; зрелый",
+        "tk": "ýetişmek",
+        "en": "to mature"
+      }
+    },
+    {
+      "hanzi": "兄弟",
+      "pinyin": "xiōngdì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "братья",
+        "tk": "doganlar",
+        "en": "brothers"
+      }
+    },
+    {
+      "hanzi": "播放",
+      "pinyin": "bōfàng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "транслировать",
+        "tk": "goýbermek",
+        "en": "to broadcast"
+      }
+    },
+    {
+      "hanzi": "纪念",
+      "pinyin": "jìniàn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "в память",
+        "tk": "ýatlamak",
+        "en": "to commemorate"
+      }
+    },
+    {
+      "hanzi": "导演",
+      "pinyin": "dǎoyǎn",
+      "pos": "n./v.",
+      "meaning": {
+        "ru": "режиссёр",
+        "tk": "režissýor",
+        "en": "director"
+      }
+    },
+    {
+      "hanzi": "瞬间",
+      "pinyin": "shùnjiān",
+      "pos": "n.",
+      "meaning": {
+        "ru": "мгновение",
+        "tk": "pursat",
+        "en": "instant"
+      }
+    },
+    {
+      "hanzi": "请求",
+      "pinyin": "qǐngqiú",
+      "pos": "v./n.",
+      "meaning": {
+        "ru": "просить; просьба",
+        "tk": "haýyş etmek",
+        "en": "to request"
+      }
+    },
+    {
+      "hanzi": "或许",
+      "pinyin": "huòxǔ",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "может быть",
+        "tk": "belki",
+        "en": "perhaps"
+      }
+    },
+    {
+      "hanzi": "重大",
+      "pinyin": "zhòngdà",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "важный, значительный",
+        "tk": "möhüm",
+        "en": "major"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "毕竟",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«毕竟» — «всё-таки, в конце концов».",
+        "tk": "«毕竟» — «ahyrynda, şeýle-de bolsa».",
+        "en": "'毕竟' means 'after all, in the end'."
+      },
+      "examples": [
+        {
+          "zh": "虽然我们遇到了很多困难，但毕竟完成了任务。",
+          "ru": "Хотя было много трудностей, мы всё же выполнили задачу.",
+          "tk": "Köp kynçylyga duşsak-da, ahyrynda işi gutardyk.",
+          "en": "Though we faced many difficulties, we finished after all."
+        },
+        {
+          "zh": "不过摄影师毕竟是摄影师，主意还是有的。",
+          "ru": "Но фотограф есть фотограф — идея у него нашлась.",
+          "tk": "Emma fotograf fotografdyr — pikir tapdy.",
+          "en": "But a photographer is a photographer — he had an idea."
+        },
+        {
+          "zh": "生活中总有无法解决的问题，毕竟不是所有的对错都能讲清楚。",
+          "ru": "В жизни всегда есть неразрешимые вопросы — не всё правильно и неправильно поддаётся объяснению.",
+          "tk": "Durmuşda hemişe çözülmeýän meseleler bar — hemme zadyň dogry-ýalňyşdygyny aýdyp bolmaýar.",
+          "en": "Life always has unsolvable problems — after all, not everything right or wrong is clear."
+        },
+        {
+          "zh": "他不高兴是正常的，毕竟没有人能在摔得头破血流时还高兴。",
+          "ru": "Его недовольство нормально — никто не радуется, разбив голову в кровь.",
+          "tk": "Onuň nägileligi adaty — hiç kim kellesi ganaýyp begenmez.",
+          "en": "It's normal he's unhappy — after all, no one is happy bleeding from the head."
+        },
+        {
+          "zh": "你们毕竟是好朋友，别为这点事吵架。",
+          "ru": "Вы всё-таки хорошие друзья — не ссорьтесь из-за таких мелочей.",
+          "tk": "Siz ahyrynda gowy dostlar — beýle ownuk üçin uruşmaň.",
+          "en": "You're good friends after all — don't quarrel over such trifles."
+        },
+        {
+          "zh": "他还是个孩子，毕竟不太懂事。",
+          "ru": "Он ещё ребёнок — всё-таки не совсем понимает.",
+          "tk": "Ol çaga — ahyrynda doly düşünmeýär.",
+          "en": "He's still a kid — after all, doesn't fully understand."
+        },
+        {
+          "zh": "人毕竟不是机器，需要休息。",
+          "ru": "Человек — не машина, ему нужен отдых.",
+          "tk": "Adam maşyn däl, dynç almaly.",
+          "en": "People aren't machines — they need rest."
+        },
+        {
+          "zh": "他毕竟经验丰富，遇到问题很冷静。",
+          "ru": "У него всё-таки большой опыт — в трудной ситуации он спокоен.",
+          "tk": "Onuň tejribesi köp — kynçylykda arkaýyn.",
+          "en": "He has rich experience — stays calm in trouble."
+        },
+        {
+          "zh": "这毕竟是你的选择，要自己承担。",
+          "ru": "Это всё-таки твой выбор — сам и отвечай.",
+          "tk": "Bu ahyrynda seniň saýlawyň — jogapkärçiligi özüň çek.",
+          "en": "It's your choice after all — you must bear it."
+        },
+        {
+          "zh": "虽然贵，但质量毕竟好。",
+          "ru": "Хотя дорого, зато качество действительно хорошее.",
+          "tk": "Gymmat bolsa-da, hili hakykatdan gowy.",
+          "en": "It's expensive, but the quality is after all good."
+        }
+      ]
+    },
+    {
+      "word": "逐渐",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«逐渐» — «постепенно». Обозначает медленное изменение.",
+        "tk": "«逐渐» — «kem-kemden».",
+        "en": "'逐渐' means 'gradually'."
+      },
+      "examples": [
+        {
+          "zh": "食物越来越少，老人不得不逐渐限制猴子的食量。",
+          "ru": "Еды становилось меньше — старик постепенно ограничивал обезьянам питание.",
+          "tk": "Azyk azalýardy — goja meýmynleriň iýmitini kem-kemden çäklendirdi.",
+          "en": "Food dwindled — the old man gradually limited the monkeys' portions."
+        },
+        {
+          "zh": "这项运动首先在亚太地区流行，并逐渐受到世界各地人们的欢迎。",
+          "ru": "Этот вид спорта сначала распространился в АТР и постепенно завоевал мир.",
+          "tk": "Bu sport görnüşi ilki Aziýa-Tyhýan sebitinde ýaýrap, kem-kemden bütin dünýäde meşhur boldy.",
+          "en": "This sport first spread in Asia-Pacific, gradually becoming popular worldwide."
+        },
+        {
+          "zh": "经过艰苦的试验，电影拍摄技术逐渐改进、成熟。",
+          "ru": "После долгих экспериментов технология киносъёмки постепенно улучшалась и зрела.",
+          "tk": "Uzak synaglardan soň kino çekiş tehnologiýasy kem-kemden gowulandy we ýetişdi.",
+          "en": "After arduous trials, film technology gradually improved and matured."
+        },
+        {
+          "zh": "天气逐渐变冷了。",
+          "ru": "Погода постепенно становится холоднее.",
+          "tk": "Howa kem-kemden sowuklaşýar.",
+          "en": "The weather is gradually getting colder."
+        },
+        {
+          "zh": "他逐渐适应了新的工作环境。",
+          "ru": "Он постепенно адаптировался к новой работе.",
+          "tk": "Ol täze iş gurşawyna kem-kemden öwrenişdi.",
+          "en": "He gradually adapted to the new workplace."
+        },
+        {
+          "zh": "汉语水平逐渐提高了。",
+          "ru": "Уровень китайского постепенно повышался.",
+          "tk": "Hytaý dili derejesi kem-kemden ýokarlandy.",
+          "en": "My Chinese level gradually improved."
+        },
+        {
+          "zh": "他逐渐明白父母的苦心。",
+          "ru": "Он постепенно понял заботу родителей.",
+          "tk": "Ol ene-atasynyň aladasyna kem-kemden düşündi.",
+          "en": "He gradually understood his parents' concerns."
+        },
+        {
+          "zh": "随着时间推移，伤痛会逐渐消失。",
+          "ru": "Со временем боль постепенно утихнет.",
+          "tk": "Wagtyň geçmegi bilen agyry kem-kemden ýitýär.",
+          "en": "As time passes, the pain gradually fades."
+        },
+        {
+          "zh": "他的汉语逐渐流利起来了。",
+          "ru": "Его китайский постепенно становился беглым.",
+          "tk": "Onuň hytaý dili kem-kemden suwara boldy.",
+          "en": "His Chinese gradually became fluent."
+        },
+        {
+          "zh": "夜色逐渐降临。",
+          "ru": "Постепенно опускалась ночь.",
+          "tk": "Gije kem-kemden ýagtylykdan örtüldi.",
+          "en": "Night gradually fell."
+        }
+      ]
+    },
+    {
+      "word": "或许",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«或许» — «возможно, может быть».",
+        "tk": "«或许» — «belki».",
+        "en": "'或许' means 'perhaps, maybe'."
+      },
+      "examples": [
+        {
+          "zh": "虽然以前她不支持你，但或许这次会有变化。",
+          "ru": "Раньше она тебя не поддерживала, но, может, сейчас всё изменится.",
+          "tk": "Öň ol seni goldamady, ýöne belki häzir üýtgär.",
+          "en": "She didn't support you before, but perhaps things have changed now."
+        },
+        {
+          "zh": "或许正是因为这一点一滴的努力，你就会走在别人的前面。",
+          "ru": "Может, именно благодаря этим маленьким усилиям ты окажешься впереди.",
+          "tk": "Belki hut şu ownuk tagallalar bilen sen başgalardan öňe geçersiň.",
+          "en": "Perhaps these tiny efforts put you ahead of others."
+        },
+        {
+          "zh": "留心生活的每一瞬间，并为之争论，适时请求帮助、认真研究，或许重大发现就在你的眼前。",
+          "ru": "Замечай каждое мгновение, спорь, проси помощи, исследуй — и, может, великое открытие рядом.",
+          "tk": "Her pursata üns ber, jedelleş, kömek sora, öwren — belki uly açyş ýakyn.",
+          "en": "Notice each moment, argue, ask for help, research — perhaps the great discovery is near."
+        },
+        {
+          "zh": "他今天没来，或许是生病了。",
+          "ru": "Он не пришёл — может, заболел.",
+          "tk": "Ol gelmedi — belki kesel.",
+          "en": "He didn't come — maybe sick."
+        },
+        {
+          "zh": "或许明天会下雨。",
+          "ru": "Может, завтра будет дождь.",
+          "tk": "Belki ertir ýagar.",
+          "en": "Perhaps it'll rain tomorrow."
+        },
+        {
+          "zh": "或许他已经知道了。",
+          "ru": "Может, он уже знает.",
+          "tk": "Belki ol eýýäm bilýär.",
+          "en": "Perhaps he already knows."
+        },
+        {
+          "zh": "或许换个方法会更好。",
+          "ru": "Может, попробовать другой способ.",
+          "tk": "Belki başga usul gowy bolar.",
+          "en": "Perhaps a different approach would be better."
+        },
+        {
+          "zh": "或许他不是故意的。",
+          "ru": "Может, он не нарочно.",
+          "tk": "Belki ol bilgeşlemedik.",
+          "en": "Perhaps he didn't mean it."
+        },
+        {
+          "zh": "或许我们该早点儿出发。",
+          "ru": "Может, стоит выехать пораньше.",
+          "tk": "Belki irräk ýola düşmeli.",
+          "en": "Perhaps we should leave earlier."
+        },
+        {
+          "zh": "或许他会同意的。",
+          "ru": "Может, он согласится.",
+          "tk": "Belki ol razy bolar.",
+          "en": "Perhaps he'll agree."
+        }
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "pattern": "动词 + 宾语",
+      "items": [
+        "拍手 / 桌子 / 照片 / 电影",
+        "改进工作 / 方法 / 态度"
+      ]
+    },
+    {
+      "pattern": "定语 + 中心语",
+      "items": [
+        "艰苦（的）条件 / 生活",
+        "成熟（的）瓜果 / 人 / 经验 / 看法 / 条件"
+      ]
+    },
+    {
+      "pattern": "状语 + 中心语",
+      "items": [
+        "围绕（着）重点进行讨论",
+        "始终坚持 / 保持"
+      ]
+    },
+    {
+      "pattern": "中心语 + 补语",
+      "items": [
+        "插进（去）/ 插到 / 插在",
+        "拦住 / 拦在"
+      ]
+    },
+    {
+      "pattern": "数量词 + 名词",
+      "items": [
+        "一匹马",
+        "一场争论 / 辩论"
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "显示",
+      "word_b": "显得",
+      "common": {
+        "ru": "Оба — «показывать, проявлять», но по-разному.",
+        "tk": "Ikisi hem «görkezmek», ýöne dürli.",
+        "en": "Both mean 'to show', but differently."
+      },
+      "differences": [
+        {
+          "ru": "«显示» — «демонстрирует факт»: 相片显示… ",
+          "tk": "«显示» — «delil görkezýär»: surat görkezýär.",
+          "en": "'显示' shows a fact: the photo shows…"
+        },
+        {
+          "ru": "«显得» — «кажется, выглядит»: 他显得更成熟了。",
+          "tk": "«显得» — «görünýär»: ol has kämilläp görünýär.",
+          "en": "'显得' means 'seems, looks': he seems more mature."
+        },
+        {
+          "ru": "«显示» + существительное / целая фраза.",
+          "tk": "«显示» + at ýa-da sözlem.",
+          "en": "'显示' + noun or full clause."
+        },
+        {
+          "ru": "«显得» + прилагательное.",
+          "tk": "«显得» + sypat.",
+          "en": "'显得' + adjective."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "ru": "Одежда и аксессуары",
+      "tk": "Egin-eşik we şaý-sepler",
+      "en": "Clothing and accessories"
+    },
+    "words": [
+      {
+        "hanzi": "围巾",
+        "pinyin": "wéijīn",
+        "meaning": {
+          "ru": "шарф",
+          "tk": "şarf",
+          "en": "scarf"
+        }
+      },
+      {
+        "hanzi": "领带",
+        "pinyin": "lǐngdài",
+        "meaning": {
+          "ru": "галстук",
+          "tk": "galstuk",
+          "en": "tie"
+        }
+      },
+      {
+        "hanzi": "手套",
+        "pinyin": "shǒutào",
+        "meaning": {
+          "ru": "перчатки",
+          "tk": "ellik",
+          "en": "gloves"
+        }
+      },
+      {
+        "hanzi": "牛仔裤",
+        "pinyin": "niúzǎikù",
+        "meaning": {
+          "ru": "джинсы",
+          "tk": "jinsi",
+          "en": "jeans"
+        }
+      },
+      {
+        "hanzi": "丝绸",
+        "pinyin": "sīchóu",
+        "meaning": {
+          "ru": "шёлк",
+          "tk": "ýüpek",
+          "en": "silk"
+        }
+      },
+      {
+        "hanzi": "布",
+        "pinyin": "bù",
+        "meaning": {
+          "ru": "ткань",
+          "tk": "mata",
+          "en": "cloth"
+        }
+      },
+      {
+        "hanzi": "耳环",
+        "pinyin": "ěrhuán",
+        "meaning": {
+          "ru": "серьги",
+          "tk": "gulakhalka",
+          "en": "earrings"
+        }
+      },
+      {
+        "hanzi": "戒指",
+        "pinyin": "jièzhǐ",
+        "meaning": {
+          "ru": "кольцо",
+          "tk": "ýüzük",
+          "en": "ring"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "ru": "Какое изобретение вас больше всего восхищает? Как оно изменило мир?",
+      "tk": "Haýsy oýlap tapyş siziň üçin ajaýyp? Ol dünýäni nähili üýtgetdi?",
+      "en": "Which invention impresses you most? How has it changed the world?"
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "О чём спорили Стэнфорд и Кон?",
+          "tk": "Stenford we Kon näme barada jedelleşdiler?",
+          "en": "What did Stanford and Cohen argue about?"
+        },
+        "options": [
+          "О беге лошади",
+          "О фотографии",
+          "О фильме",
+          "О лягушке"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Кто выиграл спор?",
+          "tk": "Jedeli kim ýeňdi?",
+          "en": "Who won the debate?"
+        },
+        "options": [
+          "Стэнфорд",
+          "Кон",
+          "Майбридж",
+          "Никто"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Сколько фотоаппаратов использовали?",
+          "tk": "Näçe fotoapparat ulanyldy?",
+          "en": "How many cameras were used?"
+        },
+        "options": [
+          "12",
+          "24",
+          "36",
+          "48"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Кто первым показал кино?",
+          "tk": "Kinony ilkinji kim görkezdi?",
+          "en": "Who first showed films?"
+        },
+        "options": [
+          "Люмьер",
+          "Майбридж",
+          "Эдисон",
+          "Стэнфорд"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что произошло в 1895 году?",
+          "tk": "1895-nji ýylda näme boldy?",
+          "en": "What happened in 1895?"
+        },
+        "options": [
+          "Появилось кино",
+          "Родился Кон",
+          "Умер Люмьер",
+          "Изобрели фотоаппарат"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что советует автор в конце?",
+          "tk": "Awtoryň soňunda bermiş maslahaty näme?",
+          "en": "What advice does the author give?"
+        },
+        "options": [
+          "Спать больше",
+          "Быть внимательным к деталям",
+          "Не спорить",
+          "Меньше работать"
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«奇迹» — это:",
+          "tk": "«奇迹» näme?",
+          "en": "'奇迹' means:"
+        },
+        "options": [
+          "Обычное",
+          "Чудо",
+          "Сказка",
+          "Мечта"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«围绕» означает:",
+          "tk": "«围绕» nämäni aňladýar?",
+          "en": "'围绕' means:"
+        },
+        "options": [
+          "Внутри",
+          "Вокруг",
+          "Далеко",
+          "Около"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«辩论» — это:",
+          "tk": "«辩论» näme?",
+          "en": "'辩论' means:"
+        },
+        "options": [
+          "Молчание",
+          "Спор",
+          "Согласие",
+          "Крик"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что такое «蹄子»?",
+          "tk": "«蹄子» näme?",
+          "en": "What is '蹄子'?"
+        },
+        "options": [
+          "Копыто",
+          "Рог",
+          "Хвост",
+          "Ухо"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«摄影师» — это:",
+          "tk": "«摄影师» kim?",
+          "en": "'摄影师' means:"
+        },
+        "options": [
+          "Художник",
+          "Фотограф",
+          "Режиссёр",
+          "Актёр"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«毕竟» означает:",
+          "tk": "«毕竟» nämäni aňladýar?",
+          "en": "'毕竟' means:"
+        },
+        "options": [
+          "Возможно",
+          "В конце концов",
+          "Никогда",
+          "Всегда"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«显示» означает:",
+          "tk": "«显示» nämäni aňladýar?",
+          "en": "'显示' means:"
+        },
+        "options": [
+          "Скрывать",
+          "Показывать",
+          "Спрашивать",
+          "Забывать"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«试验» — это:",
+          "tk": "«试验» näme?",
+          "en": "'试验' means:"
+        },
+        "options": [
+          "Игра",
+          "Эксперимент",
+          "Урок",
+          "Ошибка"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«逐渐» означает:",
+          "tk": "«逐渐» nämäni aňladýar?",
+          "en": "'逐渐' means:"
+        },
+        "options": [
+          "Быстро",
+          "Постепенно",
+          "Никогда",
+          "Внезапно"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«或许» означает:",
+          "tk": "«或许» nämäni aňladýar?",
+          "en": "'或许' means:"
+        },
+        "options": [
+          "Обязательно",
+          "Возможно",
+          "Никогда",
+          "Всегда"
+        ],
+        "answer": 1
+      }
+    ],
+    "writing": [
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "由此",
+          "或许",
+          "将",
+          "走向精彩",
+          "你的人生"
+        ],
+        "answer": "或许你的人生将由此走向精彩"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "都是",
+          "进行的",
+          "整个讨论",
+          "围绕",
+          "去留问题"
+        ],
+        "answer": "整个讨论都是围绕去留问题进行的"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "始终表现",
+          "很稳定",
+          "得",
+          "这位",
+          "年轻人"
+        ],
+        "answer": "这位年轻人始终表现得很稳定"
+      },
+      {
+        "type": "essay",
+        "prompt": {
+          "ru": "Сочинение 80+ иероглифов: 争论、差距、成熟、逐渐、改进",
+          "tk": "80+ iýeroglif: 争论、差距、成熟、逐渐、改进",
+          "en": "Essay 80+ chars: 争论、差距、成熟、逐渐、改进"
+        },
+        "min_length": 80,
+        "required_words": [
+          "争论",
+          "差距",
+          "成熟",
+          "逐渐",
+          "改进"
+        ]
+      }
+    ]
+  }
+}

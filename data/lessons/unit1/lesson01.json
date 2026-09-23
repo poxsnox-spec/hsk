@@ -1,0 +1,1537 @@
+{
+  "title": {
+    "zh": "爱的细节",
+    "ru": "Детали любви",
+    "tk": "Söýginiň jikme-jiklikleri",
+    "en": "Details of Love",
+    "uz": "Sevgi tafsilotlari",
+    "tg": "Тафсилоти муҳаббат"
+  },
+  "audio_files": {
+    "textbook_1": "textbook_1.mp3",
+    "textbook_2": "textbook_2.mp3",
+    "vocab": "vocab.mp3",
+    "workbook_01_1": "workbook_01-1.mp3",
+    "workbook_01_2": "workbook_01-2.mp3"
+  },
+  "warmup": {
+    "question": {
+      "ru": "Как по-китайски называются части тела? Заполните.",
+      "tk": "Bedeniň bölekleri hytaýça nähili aýdylýar?",
+      "en": "How are body parts called in Chinese? Fill in.",
+      "uz": "Xitoy tilida tana a'zolari qanday ataladi? To'ldiring.",
+      "tg": "Дар забони чинӣ узвҳои бадан чӣ гуна ном бурда мешаванд? Пур кунед."
+    },
+    "answers": [
+      "头",
+      "眼睛",
+      "耳朵",
+      "嘴",
+      "手",
+      "手指",
+      "胳膊",
+      "肩膀",
+      "腰",
+      "腿",
+      "脚"
+    ]
+  },
+  "text_zh": "电台要选出一对最恩爱的夫妻。对比后，有三对夫妻入围。评委叫第一对夫妻说说他俩是如何恩爱的。妻子说，前几年她全身瘫痪了，医生说她站起来的可能性很小。别人都觉得她的丈夫会跟她离婚，她也想过要自杀。但丈夫一直鼓励她，为她不找了多少家医院，并且几年如一日地照顾她，从不抱怨。在丈夫的爱护和努力下，她终于又站了起来。她的故事十分感人，评委们听了都很感动。随后进来的是第二对夫妻，他俩说，十几年的婚姻生活中，他们从来没为任何事红过脸、吵过架，一直相亲相爱、相敬如宾。评委们听了暗暗点头。轮到第三对夫妻了，却很长时间不见人。评委们等得有些不耐烦，就走出来看个究竟。只见第三对夫妻仍然坐在门口，男人的头靠在女人的肩膀上，睡着了。一个评委要上前喊醒那个男的，女的却伸出手指做了个小声的动作，然后小心地从包里拿出纸笔，用左手歪歪扭扭写下一行字递给评委，而她的右肩一直让丈夫的脑袋靠着。评委们看那纸条上面写着：别出声，他昨晚没睡好。一个评委提起笔在后面续写了一句话：但是女士，我们得听你们夫妻俩的叙述啊！女人又写：那我们就不参加了。大家很吃惊，这个女人为了不影响丈夫睡觉，居然放弃这次机会！但评委们还是决定先不催他们，而是再等待一段时间。过了一会儿，男人醒了。评委们问他怎么那么累。男人不好意思地笑笑说：\"我家住一楼，蚊子多。昨晚半夜我被蚊子叮醒了，我怕我老婆再被吵醒，所以后半夜就在为她赶蚊子。\"最后的结果是，电台增加了两项奖项，将第一对夫妻评为\"患难与共夫妻\"，将第二对夫妻评为\"相敬如宾夫妻\"，而真正的\"最恩爱夫妻\"奖，却给了第三对夫妻。",
+  "text_translation": {
+    "ru": "Радиостанция решила выбрать самую любящую пару. После сравнения в шорт-лист попали три пары. Жюри попросило первую пару рассказать, как они любят друг друга. Жена сказала: несколько лет назад её тело было полностью парализовано, врачи говорили, что шанс встать очень мал. Все думали, что муж с ней разведётся, и она сама думала о самоубийстве. Но муж постоянно подбадривал её, нашёл для неё множество больниц и годами ухаживал за ней, ни разу не пожаловшись. С любовью и усилиями мужа она наконец снова встала. Её история была очень трогательной. Вторая пара рассказала, что за десять с лишним лет брака они ни разу не поссорились, относятся друг к другу с уважением, как к дорогим гостям. Третья пара долго не появлялась. Мужчина спал, положив голову на плечо женщины. Женщина знаком показала жюри не шуметь — муж не выспался. Один из судей написал в ответ: «Но нам нужно услышать ваш рассказ». Женщина написала: «Тогда мы не участвуем». Все были поражены — она отказалась от шанса, чтобы дать мужу поспать. Позже мужчина проснулся и объяснил: он живёт на первом этаже, много комаров, ночью его покусали, и он отгонял комаров от жены. В итоге радиостанция учредила две дополнительные награды: «Пара в горе и в радости» — первой паре, «Пара, уважающая друг друга» — второй. А главный приз «Самая любящая пара» достался третьей паре.",
+    "tk": "Radio stantsiýa iň söýgili jübüti saýlamak kararyna geldi. Deňeşdirmäden soň üç jübit sanawa girdi. Emin agzalary birinji jübütiň nähili söýüşýändiklerini sorady. Aýal şeýle diýdi: birnäçe ýyl öň onuň bedeni ysmaz boldy, lukmanlar aýaga galmak mümkinçiliginiň azdygyny aýtdylar. Adam onuň bilen aýrylyşar öýdüp, ol hem özüni öldürmegi pikir etdi. Emma är ony yzygiderlik bilen goldady, köp hassahanalara ýol görkezdi we ýyllap bejerip, hiç zeýrenmedi. Äriň söýgüsi bilen ol ýene aýaga galdy. Ikinji jübit on ýyldan gowrak nikada hiç uruşmandyklar. Üçünji jübit egninde kellesi bilen uklaýardy. Aýal emin agzalaryna \"ses etmäň, ol ýaramaz ýatdy\" diýip ýazdy. Ahyrynda radio stantsiýa goşmaça baýraklary döretdi: \"Hasratda hem şatlykda bile\" — birinji jübit, \"Biri-birine hormat\" — ikinji jübit, \"Iň söýgili jübit\" — üçünji jübit.",
+    "en": "A radio station decided to choose the most loving couple. After comparing, three couples made the shortlist. The judges asked the first couple to tell how they loved each other. The wife said: a few years ago her body was completely paralyzed; doctors said her chances of standing up were slim. Everyone thought her husband would divorce her, and she herself considered suicide. But her husband constantly encouraged her, found countless hospitals, and cared for her for years without a single complaint. Through his love and effort, she finally stood up again. Her story was deeply moving — the judges were touched. The second couple said that in over ten years of marriage they had never once argued or quarreled; they treated each other like honored guests. The judges nodded quietly. When it was the third couple's turn, they were long absent. Growing impatient, the judges went out to see why. The third couple was still sitting at the door — the man's head resting on the woman's shoulder, fast asleep. A judge stepped forward to wake him, but the woman raised a finger to shush, took out paper and pen, and wrote in crooked strokes: 'Please be quiet — he didn't sleep well last night.' Her right shoulder kept supporting his head. One judge added below: 'But madam, we need to hear your story.' She wrote: 'Then we won't take part.' Everyone was astonished — she gave up this chance just so her husband could sleep! The judges decided to wait a while instead of pressing them. Later the man woke. Asked why he was so tired, he said shyly: 'I live on the first floor — lots of mosquitoes. Last night I was bitten awake, and I didn't want my wife woken too, so I spent the rest of the night chasing them away for her.' In the end, the radio station created two extra awards: 'Couple sharing weal and woe' for the first pair, 'Couple respecting each other like guests' for the second — and the true 'Most Loving Couple' award went to the third.",
+    "uz": "Bir radiostantsiya eng mehribon juftlikni tanlashga qaror qildi. Taqqoslashdan so'ng uch juftlik saralashdan o'tdi. Hakamlar birinchi juftlikdan qanday qilib bir-birlarini sevishlarini aytib berishlarini so'rashdi. Xotin dedi: bir necha yil oldin uning tanasi butunlay falaj bo'lgan; shifokorlar uning oyoqqa turish imkoniyati juda kamligini aytishgan. Hamma eri undan ajrashadi deb o'ylagan, o'zi ham o'z joniga qasd qilishni o'ylagan. Ammo eri uni doimiy ravishda dalda bergan, son-sanoqsiz shifoxonalarni topgan va yillar davomida bir marta ham shikoyat qilmasdan unga g'amxo'rlik qilgan. Uning sevgisi va mehnati tufayli u nihoyat yana oyoqqa turdi. Uning hikoyasi juda ta'sirli edi — hakamlar ta'sirlandi. Ikkinchi juftlik o'n yildan ortiq nikohda bir marta ham janjallashmaganliklarini aytdi; ular bir-birlariga mehmonlardek hurmat ko'rsatishgan. Hakamlar jimgina bosh irg'ashdi. Uchinchi juftlikning navbati kelganda, ular uzoq vaqt yo'q edilar. Sabrsizlanib, hakamlar nima bo'lganini bilish uchun tashqariga chiqishdi. Uchinchi juftlik hali ham eshik oldida o'tirgan edi — erkakning boshi ayolning yelkasiga suyanib, qattiq uxlab yotardi. Bir hakam uni uyg'otish uchun oldinga qadam tashladi, ammo ayol jim bo'lishni buyurib barmog'ini ko'tardi, qog'oz va qalam chiqarib, qiyshiq chiziqlar bilan yozdi: 'Iltimos, jim bo'ling — u kecha yaxshi uxlamadi.' Uning o'ng yelkasi erining boshini ushlab turdi. Bir hakam pastga qo'shib qo'ydi: 'Ammo xonim, biz sizning hikoyangizni eshitishimiz kerak.' U yozdi: 'Unda biz qatnashmaymiz.' Hamma hayron bo'ldi — u eri uxlashi uchun bu imkoniyatdan voz kechdi! Hakamlar ularni bosish o'rniga biroz kutishga qaror qilishdi. Keyinroq erkak uyg'ondi. Nega bunchalik charchaganini so'rashganda, u uyatchanlik bilan dedi: 'Men birinchi qavatda yashayman — chivinlar ko'p. Kecha tunda chivinlar meni tishlab uyg'otdi, xotinim ham uyg'onishini xohlamadim, shuning uchun tunning qolgan qismini uning uchun ularni quvish bilan o'tkazdim.' Oxir-oqibat, radiostantsiya ikkita qo'shimcha mukofot ta'sis etdi: birinchi juftlik uchun 'Qiyinchilik va quvonchni baham ko'ruvchi juftlik', ikkinchi juftlik uchun 'Bir-birini mehmonlardek hurmat qiluvchi juftlik' — va haqiqiy 'Eng mehribon juftlik' mukofoti uchinchi juftlikka berildi.",
+    "tg": "Як радиostantsiya қарор кард, ки меҳрубонтарин ҷуфтро интихоб кунад. Пас аз муқоиса, се ҷуфт ба рӯйхат дохил шуданд. Доварон аз ҷуфти аввал хоҳиш карданд, ки чӣ гуна якдигарро дӯст медоранд. Зан гуфт: чанд сол пеш бадани вай пурра фалаҷ шуд; духтурон гуфтанд, ки эҳтимоли ба по хестани вай хеле кам аст. Ҳама фикр мекарданд, ки шавҳараш аз вай ҷудо мешавад, худаш низ худкушӣ карданро фикр мекард. Аммо шавҳараш пайваста ӯро ташвиқ мекард, беморхонаҳои бешуморро меёфт ва солҳо бидуни як шикоят ба ӯ ғамхорӣ мекард. Бо ишқ ва кӯшиши ӯ, вай ниҳоят боз ба по хест. Ҳикояи вай бисёр таъсирбахш буд — доварон таъсир карданд. Ҷуфти дуюм гуфт, ки дар зиёда аз даҳ соли издивоҷ ҳеҷ гоҳ ҷанҷол накардаанд; онҳо ба якдигар мисли меҳмонони эҳтиромӣ муносибат мекарданд. Доварон хомӯшона сар ҷунбониданд. Вақте ки навбати ҷуфти сеюм расид, онҳо муддати тӯлонӣ ғоиб буданд. Аз сабр берун шуда, доварон ба берун баромаданд, то бибинанд, ки чӣ шуд. Ҷуфти сеюм ҳанӯз назди дар нишаста буданд — сари мард ба китфи зан такя карда, хобида буд. Як довор ба пеш қадам гузошт, то ӯро бедор кунад, аммо зан ангушт бардошта, хомӯш буданро фармуд, коғаз ва қалам бароварда, бо хатҳои каҷ навишт: 'Лутфан хомӯш бошед — вай шаби гузашта хуб хоб накард.' Китфи рости вай сари шавҳарашро нигоҳ медошт. Як довор дар поён илова кард: 'Аммо хонум, мо бояд ҳикояи шуморо шунавем.' Вай навишт: 'Пас мо иштирок намекунем.' Ҳама ҳайрон шуданд — вай ин имкониятро танҳо барои он рад кард, ки шавҳараш хоб кунад! Доварон қарор карданд, ки ба ҷои фишор овардан, каме интизор шаванд. Баъдтар мард бедор шуд. Вақте пурсиданд, ки чаро ин қадар хаста аст, вай бо шарм гуфт: 'Ман дар ошёнаи якум зиндагӣ мекунам — пашшаҳо бисёранд. Шаби гузашта пашшаҳо маро газида бедор карданд, намехостам занам ҳам бедор шавад, бинобар ин боқимондаи шабро барои вай аз худ дур кардани онҳо гузаронидам.' Дар охир, радиostantsiya ду ҷоизаи иловагӣ таъсис дод: барои ҷуфти аввал 'Ҷуфти ғаму шодиро якҷоя кашида', барои ҷуфти дуюм 'Ҷуфти якдигарро мисли меҳмонон эҳтиромкунанда' — ва ҷоизаи ҳақиқии 'Меҳрубонтарин ҷуфт' ба ҷуфти сеюм дода шуд."
+  },
+  "vocabulary": [
+    {
+      "hanzi": "细节",
+      "pinyin": "xìjié",
+      "pos": "n.",
+      "meaning": {
+        "ru": "деталь, подробность",
+        "tk": "jikme-jiklik",
+        "en": "detail",
+        "uz": "tafsilot",
+        "tg": "тафсилот"
+      }
+    },
+    {
+      "hanzi": "电台",
+      "pinyin": "diàntái",
+      "pos": "n.",
+      "meaning": {
+        "ru": "радиостанция",
+        "tk": "radio stantsiýa",
+        "en": "radio station",
+        "uz": "radiostantsiya",
+        "tg": "радиostantsiya"
+      }
+    },
+    {
+      "hanzi": "恩爱",
+      "pinyin": "ēn'ài",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "любящие (о паре)",
+        "tk": "söýgili",
+        "en": "loving (of a couple)",
+        "uz": "mehribon (juftlik haqida)",
+        "tg": "меҳрубон (дар бораи ҷуфт)"
+      }
+    },
+    {
+      "hanzi": "对比",
+      "pinyin": "duìbǐ",
+      "pos": "v.",
+      "meaning": {
+        "ru": "сравнивать",
+        "tk": "deňeşdirmek",
+        "en": "to compare",
+        "uz": "taqqoslamoq",
+        "tg": "муқоиса кардан"
+      }
+    },
+    {
+      "hanzi": "入围",
+      "pinyin": "rùwéi",
+      "pos": "v.",
+      "meaning": {
+        "ru": "попасть в шорт-лист",
+        "tk": "sanawa girmek",
+        "en": "to be shortlisted",
+        "uz": "saralashdan o'tmoq",
+        "tg": "ба рӯйхат дохил шудан"
+      }
+    },
+    {
+      "hanzi": "评委",
+      "pinyin": "píngwěi",
+      "pos": "n.",
+      "meaning": {
+        "ru": "член жюри",
+        "tk": "emin agzasy",
+        "en": "judge",
+        "uz": "hakam",
+        "tg": "довор"
+      }
+    },
+    {
+      "hanzi": "如何",
+      "pinyin": "rúhé",
+      "pos": "pron.",
+      "meaning": {
+        "ru": "как, каким образом",
+        "tk": "nähili",
+        "en": "how",
+        "uz": "qanday",
+        "tg": "чӣ гуна"
+      }
+    },
+    {
+      "hanzi": "瘫痪",
+      "pinyin": "tānhuàn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "быть парализованным",
+        "tk": "ysmaz bolmak",
+        "en": "to be paralyzed",
+        "uz": "falaj bo'lmoq",
+        "tg": "фалаҷ шудан"
+      }
+    },
+    {
+      "hanzi": "离婚",
+      "pinyin": "líhūn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "развестись",
+        "tk": "aýrylyşmak",
+        "en": "to divorce",
+        "uz": "ajrashmoq",
+        "tg": "ҷудо шудан"
+      }
+    },
+    {
+      "hanzi": "自杀",
+      "pinyin": "zìshā",
+      "pos": "v.",
+      "meaning": {
+        "ru": "покончить с собой",
+        "tk": "özüni öldürmek",
+        "en": "to commit suicide",
+        "uz": "o'z joniga qasd qilmoq",
+        "tg": "худкушӣ кардан"
+      }
+    },
+    {
+      "hanzi": "抱怨",
+      "pinyin": "bàoyuàn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "жаловаться",
+        "tk": "zeýrenmek",
+        "en": "to complain",
+        "uz": "shikoyat qilmoq",
+        "tg": "шикоят кардан"
+      }
+    },
+    {
+      "hanzi": "爱护",
+      "pinyin": "àihù",
+      "pos": "v.",
+      "meaning": {
+        "ru": "заботиться, беречь",
+        "tk": "goramak, gaýrat etmek",
+        "en": "to take care of",
+        "uz": "g'amxo'rlik qilmoq",
+        "tg": "ғамхорӣ кардан"
+      }
+    },
+    {
+      "hanzi": "婚姻",
+      "pinyin": "hūnyīn",
+      "pos": "n.",
+      "meaning": {
+        "ru": "брак",
+        "tk": "nika",
+        "en": "marriage",
+        "uz": "nikoh",
+        "tg": "издивоҷ"
+      }
+    },
+    {
+      "hanzi": "吵架",
+      "pinyin": "chǎojià",
+      "pos": "v.",
+      "meaning": {
+        "ru": "ссориться",
+        "tk": "uruşmak",
+        "en": "to quarrel",
+        "uz": "janjallashmoq",
+        "tg": "ҷанҷол кардан"
+      }
+    },
+    {
+      "hanzi": "相敬如宾",
+      "pinyin": "xiāngjìng rúbīn",
+      "pos": "идиом",
+      "meaning": {
+        "ru": "уважать друг друга как гостей",
+        "tk": "myhman ýaly hormatlamak",
+        "en": "to respect like guests",
+        "uz": "mehmonlardek hurmat qilmoq",
+        "tg": "мисли меҳмонон эҳтиром кардан"
+      }
+    },
+    {
+      "hanzi": "暗暗",
+      "pinyin": "àn'àn",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "про себя",
+        "tk": "içinden",
+        "en": "secretly",
+        "uz": "yashirincha",
+        "tg": "пинҳонӣ"
+      }
+    },
+    {
+      "hanzi": "轮",
+      "pinyin": "lún",
+      "pos": "v.",
+      "meaning": {
+        "ru": "доходить по очереди",
+        "tk": "nobata gelmek",
+        "en": "to take turns",
+        "uz": "navbatlashmoq",
+        "tg": "навбатӣ кардан"
+      }
+    },
+    {
+      "hanzi": "不耐烦",
+      "pinyin": "bú nàifán",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "нетерпеливый",
+        "tk": "sabyrsyz",
+        "en": "impatient",
+        "uz": "sabrsiz",
+        "tg": "бесабр"
+      }
+    },
+    {
+      "hanzi": "靠",
+      "pinyin": "kào",
+      "pos": "v.",
+      "meaning": {
+        "ru": "прислоняться, опираться",
+        "tk": "daýanmak",
+        "en": "to lean against",
+        "uz": "suyanmoq",
+        "tg": "такя кардан"
+      }
+    },
+    {
+      "hanzi": "肩膀",
+      "pinyin": "jiānbǎng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "плечо",
+        "tk": "egin",
+        "en": "shoulder",
+        "uz": "yelka",
+        "tg": "китф"
+      }
+    },
+    {
+      "hanzi": "喊",
+      "pinyin": "hǎn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "кричать, звать",
+        "tk": "gygyrmak",
+        "en": "to shout",
+        "uz": "baqirmoq",
+        "tg": "дод задан"
+      }
+    },
+    {
+      "hanzi": "伸",
+      "pinyin": "shēn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "протягивать",
+        "tk": "uzatmak",
+        "en": "to stretch",
+        "uz": "cho'zmoq",
+        "tg": "дароз кардан"
+      }
+    },
+    {
+      "hanzi": "手指",
+      "pinyin": "shǒuzhǐ",
+      "pos": "n.",
+      "meaning": {
+        "ru": "палец",
+        "tk": "barmak",
+        "en": "finger",
+        "uz": "barmoq",
+        "tg": "ангушт"
+      }
+    },
+    {
+      "hanzi": "歪歪扭扭",
+      "pinyin": "wāiwāiniǔniǔ",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "кривой, корявый",
+        "tk": "eğri-büğri",
+        "en": "crooked",
+        "uz": "qiyshiq",
+        "tg": "каҷ"
+      }
+    },
+    {
+      "hanzi": "递",
+      "pinyin": "dì",
+      "pos": "v.",
+      "meaning": {
+        "ru": "передавать",
+        "tk": "uzatmak",
+        "en": "to hand over",
+        "uz": "uzatmoq",
+        "tg": "додан, супоридан"
+      }
+    },
+    {
+      "hanzi": "脑袋",
+      "pinyin": "nǎodai",
+      "pos": "n.",
+      "meaning": {
+        "ru": "голова",
+        "tk": "kelle",
+        "en": "head",
+        "uz": "bosh",
+        "tg": "сар"
+      }
+    },
+    {
+      "hanzi": "女士",
+      "pinyin": "nǚshì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "дама, госпожа",
+        "tk": "hanym",
+        "en": "lady",
+        "uz": "xonim",
+        "tg": "хонум"
+      }
+    },
+    {
+      "hanzi": "叙述",
+      "pinyin": "xùshù",
+      "pos": "v.",
+      "meaning": {
+        "ru": "рассказывать",
+        "tk": "beýan etmek",
+        "en": "to narrate",
+        "uz": "hikoya qilmoq",
+        "tg": "ҳикоя кардан"
+      }
+    },
+    {
+      "hanzi": "居然",
+      "pinyin": "jūrán",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "оказывается, вопреки ожиданиям",
+        "tk": "garaşylmadyk ýagdaýda",
+        "en": "unexpectedly",
+        "uz": "kutilmaganda",
+        "tg": "ногаҳон"
+      }
+    },
+    {
+      "hanzi": "催",
+      "pinyin": "cuī",
+      "pos": "v.",
+      "meaning": {
+        "ru": "торопить",
+        "tk": "howlukdyrmak",
+        "en": "to urge",
+        "uz": "undamoq",
+        "tg": "ташвиқ кардан"
+      }
+    },
+    {
+      "hanzi": "等待",
+      "pinyin": "děngdài",
+      "pos": "v.",
+      "meaning": {
+        "ru": "ждать",
+        "tk": "garaşmak",
+        "en": "to wait",
+        "uz": "kutmoq",
+        "tg": "интизор шудан"
+      }
+    },
+    {
+      "hanzi": "蚊子",
+      "pinyin": "wénzi",
+      "pos": "n.",
+      "meaning": {
+        "ru": "комар",
+        "tk": "çiwe",
+        "en": "mosquito",
+        "uz": "chivin",
+        "tg": "пашша"
+      }
+    },
+    {
+      "hanzi": "半夜",
+      "pinyin": "bànyè",
+      "pos": "n.",
+      "meaning": {
+        "ru": "полночь",
+        "tk": "ýary gije",
+        "en": "midnight",
+        "uz": "yarim tun",
+        "tg": "нимишабӣ"
+      }
+    },
+    {
+      "hanzi": "叮",
+      "pinyin": "dīng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "кусать (о насекомом)",
+        "tk": "çakmak",
+        "en": "to bite",
+        "uz": "tishlamoq",
+        "tg": "газидан"
+      }
+    },
+    {
+      "hanzi": "老婆",
+      "pinyin": "lǎopo",
+      "pos": "n.",
+      "meaning": {
+        "ru": "жена (разг.)",
+        "tk": "aýal",
+        "en": "wife (coll.)",
+        "uz": "xotin (so'zlashuv)",
+        "tg": "зан (гуфтугӯӣ)"
+      }
+    },
+    {
+      "hanzi": "吵",
+      "pinyin": "chǎo",
+      "pos": "v./adj.",
+      "meaning": {
+        "ru": "шуметь; шумный",
+        "tk": "gykylyk etmek; gykylykly",
+        "en": "to make noise; noisy",
+        "uz": "shovqin qilmoq; shovqinli",
+        "tg": "ғавғо кардан; ғавғоӣ"
+      }
+    },
+    {
+      "hanzi": "项",
+      "pinyin": "xiàng",
+      "pos": "m.",
+      "meaning": {
+        "ru": "счётное слово (для пунктов, наград)",
+        "tk": "san sözi (maddalar üçin)",
+        "en": "measure word (for items, awards)",
+        "uz": "miqdor so'zi (narsalar, mukofotlar uchun)",
+        "tg": "вожаи миқдор (барои чизҳо, ҷоизаҳо)"
+      }
+    },
+    {
+      "hanzi": "患难与共",
+      "pinyin": "huàn nàn yǔ gòng",
+      "pos": "идиом",
+      "meaning": {
+        "ru": "делить горе и радость",
+        "tk": "gama-gatlygy paýlaşmak",
+        "en": "to share weal and woe",
+        "uz": "qiyinchilik va quvonchni baham ko'rmoq",
+        "tg": "ғаму шодиро якҷоя кашидан"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "如何",
+      "pos": "pron.",
+      "explanation": {
+        "ru": "«如何» — местоимение, используется для вопроса о способе действия. Может стоять в конце предложения для выяснения состояния или мнения.",
+        "tk": "«如何» — hereket usulyny soramak üçin ulanylýan çalyşma. Sözlemiň soňunda hem bolup bilner.",
+        "en": "'如何' is a pronoun used to ask about manner. Can also be sentence-final.",
+        "uz": "'如何' — 'qanday qilib' ma'nosini so'rash uchun ishlatiladigan olmosh. Gap oxirida ham kelishi mumkin.",
+        "tg": "'如何' — ҷонишине, ки барои пурсидани тарз истифода мешавад. Дар охири ҷумла ҳам омада метавонад."
+      },
+      "examples": [
+        {
+          "zh": "我们明天举行会议，讨论这个问题该如何解决。",
+          "ru": "Завтра обсудим, как решить этот вопрос.",
+          "tk": "Ertir bu meseläni nähili çözmelidigini maslahatlaşarys.",
+          "en": "Tomorrow we'll discuss how to solve this problem.",
+          "uz": "Ertaga bu muammoni qanday hal qilishni muhokama qilamiz.",
+          "tg": "Фардо муҳокима мекунем, ки ин масъаларо чӣ гуна ҳал кунем."
+        },
+        {
+          "zh": "评委叫第一对夫妻说说他俩是如何恩爱的。",
+          "ru": "Жюри попросило первую пару рассказать, как они любят друг друга.",
+          "tk": "Emin agzalary birinji jübüti nähili söýüşýändiklerini aýtmaga çagyrdy.",
+          "en": "The judges asked the first couple how they loved each other.",
+          "uz": "Hakamlar birinchi juftlikdan bir-birlarini qanday sevishlarini so'rashdi.",
+          "tg": "Доварон аз ҷуфти аввал пурсиданд, ки чӣ гуна якдигарро дӯст медоранд."
+        },
+        {
+          "zh": "我们希望由你来负责解决这个问题，如何？",
+          "ru": "Хотим, чтобы ты взялся за решение, как тебе?",
+          "tk": "Bu meseläni çözmegi öz üstüňe almagyňy isleýäris, nähili?",
+          "en": "We'd like you to take charge, how about it?",
+          "uz": "Siz mas'ul bo'lishingizni istaymiz, rozimisiz?",
+          "tg": "Мо мехоҳем, ки шумо масъул шавед, розӣ ҳастед?"
+        },
+        {
+          "zh": "你知道这个汉字如何读吗？",
+          "ru": "Ты знаешь, как читается этот иероглиф?",
+          "tk": "Bu iýeroglifiň nähili okalýandygyny bilýärsiňmi?",
+          "en": "Do you know how to read this character?",
+          "uz": "Bu ieroglifni qanday o'qishni bilasizmi?",
+          "tg": "Шумо медонед, ки ин иероглифро чӣ гуна хонед?"
+        },
+        {
+          "zh": "请你告诉我，如何才能在短期内提高听力。",
+          "ru": "Пожалуйста, скажи, как можно быстро улучшить восприятие на слух.",
+          "tk": "Haýyş, aýdyň, eşitmek ukybyny nähili gysga wagtda ýokarlandyryp bolar.",
+          "en": "Please tell me how to improve listening in a short time.",
+          "uz": "Iltimos, qisqa vaqt ichida tinglashni qanday yaxshilashni ayting.",
+          "tg": "Лутфан ба ман гӯед, ки дар вақти кӯтоҳ шуниданро чӣ гуна беҳтар кунам."
+        },
+        {
+          "zh": "现在的年轻人该如何处理工作和生活的关系？",
+          "ru": "Как современной молодёжи совмещать работу и личную жизнь?",
+          "tk": "Häzirki ýaşlar iş bilen şahsy durmuşyň gatnaşygyny nähili çözmeli?",
+          "en": "How should today's youth balance work and personal life?",
+          "uz": "Bugungi yoshlar ish va shaxsiy hayotni qanday muvozanatlashi kerak?",
+          "tg": "Ҷавонони имрӯз бояд кор ва ҳаёти шахсиро чӣ гуна мувозинат кунанд?"
+        },
+        {
+          "zh": "他最近身体如何？",
+          "ru": "Как у него в последнее время со здоровьем?",
+          "tk": "Onuň saglygy soňky wagtlarda nähili?",
+          "en": "How is his health lately?",
+          "uz": "Uning sog'lig'i yaqinda qanday?",
+          "tg": "Саломатии вай охирҳо чӣ гуна аст?"
+        },
+        {
+          "zh": "情况如何？能按期完成任务吗？",
+          "ru": "Как обстановка? Сможем выполнить задачу в срок?",
+          "tk": "Ýagdaý nähili? Işi wagtynda ýerine ýetirip bilerismi?",
+          "en": "How's the situation? Can we finish the task on time?",
+          "uz": "Vaziyat qanday? Vazifani o'z vaqtida tugata olamizmi?",
+          "tg": "Вазъият чӣ гуна аст? Вазифаро сари вақт иҷро карда метавонем?"
+        },
+        {
+          "zh": "这道题如何做，你能给我讲讲吗？",
+          "ru": "Не объяснишь, как решать эту задачу?",
+          "tk": "Bu meseläni nähili çözmelidigini düşündirip bilermisiň?",
+          "en": "Can you explain how to do this exercise?",
+          "uz": "Bu mashqni qanday bajarishni tushuntira olasizmi?",
+          "tg": "Шумо метавонед шарҳ диҳед, ки ин машқро чӣ гуна иҷро кунам?"
+        },
+        {
+          "zh": "如何学习一门外语，每个人都有自己的方法。",
+          "ru": "У каждого свой способ учить иностранный язык.",
+          "tk": "Daşary ýurt dilini nähili öwrenmelidigi barada her kimiň öz usuly bar.",
+          "en": "Everyone has their own way of learning a foreign language.",
+          "uz": "Har kimning chet tilini o'rganishda o'z usuli bor.",
+          "tg": "Ҳар кас дар омӯзиши забони хориҷӣ тарзи худиро дорад."
+        }
+      ]
+    },
+    {
+      "word": "靠",
+      "pos": "v.",
+      "explanation": {
+        "ru": "«靠» — глагол: «прислоняться, опираться», «полагаться на», «находиться рядом».",
+        "tk": "«靠» — işlik: «daýanmak», «bil baglamak», «ýakyn durmak».",
+        "en": "'靠' means 'to lean against', 'to rely on', 'to be near'.",
+        "uz": "'靠' — 'suyanmoq', 'tayanmoq', 'yaqin bo'lmoq' ma'nolarini bildiradi.",
+        "tg": "'靠' — 'такя кардан', 'умед бастан', 'наздик будан' маъноҳоро дорад."
+      },
+      "examples": [
+        {
+          "zh": "王老师喜欢靠着桌子讲课。",
+          "ru": "Учитель Ван любит читать лекции, опираясь на стол.",
+          "tk": "Wan mugallym stola daýanyp sapak bermegi halaýar.",
+          "en": "Teacher Wang likes to lean on the desk while lecturing.",
+          "uz": "Ustoz Vang ma'ruza o'qiyotganda stolga suyanishni yaxshi ko'radi.",
+          "tg": "Устод Ванг ҳангоми дарс гуфтан ба миз такя карданро дӯст медорад."
+        },
+        {
+          "zh": "男人的头靠在女人的肩膀上，睡着了。",
+          "ru": "Голова мужчины лежала на плече женщины, он заснул.",
+          "tk": "Erkegiň kellesi aýalyň egnine daýanyp, uklap galypdyr.",
+          "en": "The man's head leaned on the woman's shoulder, and he fell asleep.",
+          "uz": "Erkakning boshi ayolning yelkasiga suyandi va u uxlab qoldi.",
+          "tg": "Сари мард ба китфи зан такя кард ва вай хоб рафт."
+        },
+        {
+          "zh": "在家靠父母，出门靠朋友。",
+          "ru": "Дома опираешься на родителей, вдали от дома — на друзей.",
+          "tk": "Öýde ene-ataňa daýan, daşarda dostlaryňa.",
+          "en": "At home rely on parents; away from home, on friends.",
+          "uz": "Uyda ota-onaga tayanasan, uydan tashqarida — do'stlarga.",
+          "tg": "Дар хона ба волидон такя мекунӣ; берун аз хона — ба дӯстон."
+        },
+        {
+          "zh": "我的座位是靠窗的，可以看到外面的风景。",
+          "ru": "Моё место — у окна, можно смотреть на пейзаж.",
+          "tk": "Menim ornum penjiräniň ýanynda, daşardaky görnüşi görüp bolýar.",
+          "en": "My seat is by the window — you can see the view.",
+          "uz": "Mening joyim deraza yonida — manzarani ko'rish mumkin.",
+          "tg": "Ҷои ман дар паҳлӯи тиреза аст — манзараро дидан мумкин аст."
+        },
+        {
+          "zh": "想成功不能光靠运气，还要靠努力。",
+          "ru": "Чтобы добиться успеха, нельзя полагаться только на удачу — нужны усилия.",
+          "tk": "Üstünlik gazanmak üçin diňe bagta bil baglap bolmaýar — tagalla hem gerek.",
+          "en": "To succeed you can't rely on luck alone — you need effort.",
+          "uz": "Muvaffaqiyatga erishish uchun faqat omadga tayanib bo'lmaydi — harakat kerak.",
+          "tg": "Барои муваффақ шудан танҳо ба бахт такя кардан мумкин нест — кӯшиш лозим аст."
+        },
+        {
+          "zh": "这家饭店靠着地铁站，交通很方便。",
+          "ru": "Этот ресторан рядом с метро, очень удобно добираться.",
+          "tk": "Bu restoran metronyň ýanynda, gitmek aňsat.",
+          "en": "This restaurant is near the subway — very convenient.",
+          "uz": "Bu restoran metro yonida — juda qulay.",
+          "tg": "Ин тарабхона назди метро аст — хеле қулай."
+        },
+        {
+          "zh": "他靠着墙站着，一言不发。",
+          "ru": "Он стоял, прислонившись к стене, и молчал.",
+          "tk": "Ol diwara daýanyp, hiç zat aýtman durdy.",
+          "en": "He stood leaning against the wall, saying nothing.",
+          "uz": "U devorga suyanib, hech narsa demasdan turdi.",
+          "tg": "Вай ба девор такя карда, чизе нагуфта истод."
+        },
+        {
+          "zh": "现在找工作，光靠学历是不够的。",
+          "ru": "Сейчас при поиске работы одного диплома недостаточно.",
+          "tk": "Häzir iş gözläninde diňe diplom ýeterlik däl.",
+          "en": "Nowadays a diploma alone isn't enough to find a job.",
+          "uz": "Hozirgi kunda faqat diplom ish topish uchun yetarli emas.",
+          "tg": "Дар замони имрӯз танҳо диплом барои ёфтани кор кофӣ нест."
+        },
+        {
+          "zh": "公司的发展靠的是大家共同的努力。",
+          "ru": "Развитие компании зависит от общих усилий.",
+          "tk": "Kompaniýanyň ösüşi hemmeleriň bilelikdäki tagallasyna bagly.",
+          "en": "The company's growth relies on everyone's joint effort.",
+          "uz": "Kompaniyaning o'sishi barchaning birgalikdagi harakatiga tayanadi.",
+          "tg": "Рушди ширкат ба кӯшиши якҷояи ҳама такя мекунад."
+        },
+        {
+          "zh": "她一个人靠在沙发上，静静地看书。",
+          "ru": "Она сидела одна на диване, тихо читая книгу.",
+          "tk": "Ol diwanda ýeke özi oturyp, sessiz kitap okaýardy.",
+          "en": "She sat alone on the sofa, quietly reading a book.",
+          "uz": "U divanda yolg'iz o'tirib, jimgina kitob o'qidi.",
+          "tg": "Вай танҳо дар диван нишаста, хомӯшона китоб хонд."
+        }
+      ]
+    },
+    {
+      "word": "居然",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«居然» — наречие, выражает удивление: «оказывается», «вопреки ожиданиям».",
+        "tk": "«居然» — hal, geň galmaklygy bildirýär: «garaşylmadyk ýagdaýda».",
+        "en": "'居然' indicates surprise: 'unexpectedly'.",
+        "uz": "'居然' — hayratni bildiradi: 'kutilmaganda'.",
+        "tg": "'居然' — ҳайратро ифода мекунад: 'ногаҳон'."
+      },
+      "examples": [
+        {
+          "zh": "这么简单的题，你居然也不会做？",
+          "ru": "Такую простую задачу ты, оказывается, тоже не можешь решить?",
+          "tk": "Beýle ýönekeý meseläni hem çözüp bilmeýärsiňmi?",
+          "en": "Such a simple problem — and you can't solve it either?",
+          "uz": "Bunchalik oddiy muammo — siz ham hal qila olmaysizmi?",
+          "tg": "Масъалаи ин қадар оддӣ — шумо ҳам ҳал карда наметавонед?"
+        },
+        {
+          "zh": "没想到居然在这儿碰到你！",
+          "ru": "Не думал, что встречу тебя именно здесь!",
+          "tk": "Seni şu ýerde duşjak boljakdygymy pikir hem etmedim!",
+          "en": "Didn't expect to run into you here!",
+          "uz": "Sizni bu yerda uchratamiz deb o'ylamagan edim!",
+          "tg": "Шуморо дар ин ҷо вохӯрам гумон намекардам!"
+        },
+        {
+          "zh": "这个女人居然放弃这次机会！",
+          "ru": "Эта женщина, оказывается, отказалась от такой возможности!",
+          "tk": "Bu aýal bu mümkinçilikden ýüz öwürdi!",
+          "en": "This woman actually gave up such an opportunity!",
+          "uz": "Bu ayol haqiqatan ham bunday imkoniyatdan voz kechdi!",
+          "tg": "Ин зан воқеан аз чунин имконият даст кашид!"
+        },
+        {
+          "zh": "他居然真的通过了考试，太让人意外了。",
+          "ru": "Он, оказывается, действительно сдал экзамен — очень неожиданно.",
+          "tk": "Ol hakykatdan hem ekzamenden geçdi — garaşylmadyk zat.",
+          "en": "He actually passed the exam — how surprising.",
+          "uz": "U imtihondan o'tdi — qanday hayratlanarli.",
+          "tg": "Вай имтиҳонро супорид — чӣ ҳайратовар."
+        },
+        {
+          "zh": "昨天我们找了一整天，他居然一直在家里。",
+          "ru": "Вчера мы искали его весь день, а он, оказывается, всё время был дома.",
+          "tk": "Düýn biz ony bütin gün gözledik, ol bolsa öýde eken.",
+          "en": "Yesterday we searched all day — and he was home the whole time.",
+          "uz": "Kecha kun bo'yi qidirdik — u esa uyda edi.",
+          "tg": "Дирӯз тамоми рӯз ҷустем — вай дар хона буд."
+        },
+        {
+          "zh": "这次比赛他居然得了第一名。",
+          "ru": "В этом соревновании он, оказывается, занял первое место.",
+          "tk": "Bu ýaryşda ol birinji orny eýeledi.",
+          "en": "In this competition, he unexpectedly took first place.",
+          "uz": "Bu musobaqada u kutilmaganda birinchi o'rinni egalladi.",
+          "tg": "Дар ин мусобиқа вай ногаҳон ҷои аввалро гирифт."
+        },
+        {
+          "zh": "我昨天买了一张彩票，居然中了！",
+          "ru": "Вчера купил лотерейный билет — и, оказывается, выиграл!",
+          "tk": "Düýn bir lotereýa bileti satyn aldym — ýeňiş gazandym!",
+          "en": "I bought a lottery ticket yesterday — and actually won!",
+          "uz": "Kecha lotereya chiptasi sotib oldim — va yutdim!",
+          "tg": "Дирӯз чиптаи лотерея харидам — ва бурдам!"
+        },
+        {
+          "zh": "他看起来很年轻，居然已经五十多岁了。",
+          "ru": "Он выглядит молодо, а ему, оказывается, уже за пятьдесят.",
+          "tk": "Ol ýaş görünýär, emma eýýäm elliden geçen eken.",
+          "en": "He looks young, but he's surprisingly over fifty.",
+          "uz": "U yosh ko'rinadi, lekin ellikdan oshgan — hayratlanarli.",
+          "tg": "Вай ҷавон менамояд, аммо аз панҷоҳ гузаштааст — ҳайратовар."
+        },
+        {
+          "zh": "这么重要的事，他居然忘了。",
+          "ru": "Такое важное дело он, оказывается, забыл.",
+          "tk": "Beýle möhüm zady ol ýatdan çykarypdyr.",
+          "en": "Such an important matter — and he forgot it.",
+          "uz": "Bunchalik muhim ish — u esa uni unutdi.",
+          "tg": "Кори ин қадар муҳим — вай онро фаромӯш кард."
+        },
+        {
+          "zh": "你居然还记得我的生日，我太感动了！",
+          "ru": "Ты, оказывается, ещё помнишь мой день рождения — как трогательно!",
+          "tk": "Sen meniň doglan günümi henizem ýatda saklaýarsyň — örän täsirli!",
+          "en": "You still remember my birthday — I'm so touched!",
+          "uz": "Siz hali ham tug'ilgan kunimni eslaysiz — juda ta'sirlandim!",
+          "tg": "Шумо ҳанӯз рӯзи таваллуди маро дар ёд доред — хеле таъсир кардам!"
+        }
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "pattern": "动词 + 宾语",
+      "items": [
+        "抱怨别人 / 妻子 / 餐厅的菜不好吃",
+        "爱护环境 / 花草树木 / 公物 / 学生"
+      ]
+    },
+    {
+      "pattern": "定语 + 中心语",
+      "items": [
+        "电影(的)细节 / 小说(的)细节 / 生活(的)细节",
+        "电台(的)记者 / 广播 / 新闻"
+      ]
+    },
+    {
+      "pattern": "状语 + 中心语",
+      "items": [
+        "简单(地)对比 / 详细(地)对比",
+        "大声(地)喊 / 兴奋地喊"
+      ]
+    },
+    {
+      "pattern": "中心语 + 补语",
+      "items": [
+        "伸出来 / 伸进去 / 伸开 / 伸到…",
+        "吵醒 / 吵死了"
+      ]
+    },
+    {
+      "pattern": "数量词 + 名词",
+      "items": [
+        "一项运动 / 工作 / 任务 / 计划",
+        "一项奖项"
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "如何",
+      "word_b": "怎么",
+      "common": {
+        "ru": "Оба — местоимения, могут использоваться для вопроса о способе.",
+        "tk": "Ikisi hem çalyşma, usul soramak üçin ulanylýar.",
+        "en": "Both are pronouns asking about manner.",
+        "uz": "Ikkalasi ham usul haqida so'raydigan olmosh.",
+        "tg": "Ҳар ду ҷонишине, ки дар бораи тарз мепурсанд."
+      },
+      "differences": [
+        {
+          "ru": "«如何» — книжный стиль. «怎么» — разговорный.",
+          "tk": "«如何» — ýazuw stili. «怎么» — gepleşik stili.",
+          "en": "'如何' formal; '怎么' colloquial.",
+          "uz": "'如何' — rasmiy; '怎么' — so'zlashuv.",
+          "tg": "'如何' — расмӣ; '怎么' — гуфтугӯӣ."
+        },
+        {
+          "ru": "«如何» не используется для вопроса о причине.",
+          "tk": "«如何» sebäp soramak üçin ulanylmaýar.",
+          "en": "'如何' not used to ask cause.",
+          "uz": "'如何' sabab so'rash uchun ishlatilmaydi.",
+          "tg": "'如何' барои пурсидани сабаб истифода намешавад."
+        },
+        {
+          "ru": "«如何» может стоять в конце предложения: 最近身体如何？",
+          "tk": "«如何» sözlemiň soňunda gelip bilner.",
+          "en": "'如何' can be sentence-final: 最近身体如何？",
+          "uz": "'如何' gap oxirida kelishi mumkin: 最近身体如何？",
+          "tg": "'如何' дар охири ҷумла омада метавонад: 最近身体如何？"
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "ru": "Слова по теме «Родственники и общение»",
+      "tk": "«Garyndaşlar we aragatnaşyk»",
+      "en": "Vocabulary: relatives and social life",
+      "uz": "Lug'at: qarindoshlar va ijtimoiy hayot",
+      "tg": "Луғат: хешу табор ва ҳаёти иҷтимоӣ"
+    },
+    "words": [
+      {
+        "hanzi": "外公",
+        "pinyin": "wàigōng",
+        "meaning": {
+          "ru": "дедушка по матери",
+          "tk": "mamanyň kakasy",
+          "en": "maternal grandfather",
+          "uz": "ona tomondan bobo",
+          "tg": "бобои модарӣ"
+        }
+      },
+      {
+        "hanzi": "姥姥",
+        "pinyin": "lǎolao",
+        "meaning": {
+          "ru": "бабушка по матери",
+          "tk": "mamanyň ejesi",
+          "en": "maternal grandmother",
+          "uz": "ona tomondan buvi",
+          "tg": "бибии модарӣ"
+        }
+      },
+      {
+        "hanzi": "姑姑",
+        "pinyin": "gūgu",
+        "meaning": {
+          "ru": "тётя (сестра отца)",
+          "tk": "kakanyň aýal dogany",
+          "en": "paternal aunt",
+          "uz": "ota tomondan xola",
+          "tg": "холаи падарӣ"
+        }
+      },
+      {
+        "hanzi": "舅舅",
+        "pinyin": "jiùjiu",
+        "meaning": {
+          "ru": "дядя (брат матери)",
+          "tk": "mamanyň erkek dogany",
+          "en": "maternal uncle",
+          "uz": "ona tomondan tog'a",
+          "tg": "тағои модарӣ"
+        }
+      },
+      {
+        "hanzi": "太太",
+        "pinyin": "tàitai",
+        "meaning": {
+          "ru": "супруга (уваж.)",
+          "tk": "aýal (hormatly)",
+          "en": "wife (respectful)",
+          "uz": "xotin (hurmat bilan)",
+          "tg": "зан (бо эҳтиром)"
+        }
+      },
+      {
+        "hanzi": "小气",
+        "pinyin": "xiǎoqi",
+        "meaning": {
+          "ru": "мелочный, жадный",
+          "tk": "gaýrym",
+          "en": "stingy",
+          "uz": "qizg'anchiq",
+          "tg": "хасис"
+        }
+      },
+      {
+        "hanzi": "周到",
+        "pinyin": "zhōudào",
+        "meaning": {
+          "ru": "внимательный",
+          "tk": "ünsli",
+          "en": "thoughtful",
+          "uz": "e'tiborli",
+          "tg": "диққатнок"
+        }
+      },
+      {
+        "hanzi": "坦率",
+        "pinyin": "tǎnshuài",
+        "meaning": {
+          "ru": "откровенный",
+          "tk": "açyk",
+          "en": "frank",
+          "uz": "samimiy",
+          "tg": "самимӣ"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "ru": "Согласны ли вы, что «родительская любовь бескорыстна и велика»? Приведите пример.",
+      "tk": "«Ene-atanyň söýgüsi beýik» diýen pikire ylalaşýarsyňyzmy?",
+      "en": "Do you agree 'parental love is selfless and great'? Give an example.",
+      "uz": "«Ota-ona sevgisi fidoyi va buyukdir» degan fikrga qo'shilasizmi? Misol keltiring.",
+      "tg": "Оё бо фикри «муҳаббати волидон беғараз ва бузург аст» розӣ ҳастед? Мисол оред."
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "audio": "workbook_01_1.mp3",
+        "prompt": {
+          "ru": "Почему мужчина устал?",
+          "tk": "Mäti näme üçin ýadady?",
+          "en": "Why is the man tired?",
+          "uz": "Nega erkak charchagan?",
+          "tg": "Чаро мард хаста аст?"
+        },
+        "options": [
+          "太累了",
+          "太热了",
+          "和老婆吵架了",
+          "为老婆赶蚊子"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_01_1.mp3",
+        "prompt": {
+          "ru": "Где происходит разговор?",
+          "tk": "Söhbet nirede bolýar?",
+          "en": "Where does the conversation take place?",
+          "uz": "Suhbat qayerda bo'lib o'tmoqda?",
+          "tg": "Гуфтугӯ дар куҷо сурат мегирад?"
+        },
+        "options": [
+          "家",
+          "公司",
+          "餐厅",
+          "钟表店"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_01_1.mp3",
+        "prompt": {
+          "ru": "Какие отношения между говорящими?",
+          "tk": "Gepleşýänleriň arasyndaky gatnaşyk?",
+          "en": "What is the relationship?",
+          "uz": "Ularning munosabati qanday?",
+          "tg": "Муносибати онҳо чӣ гуна аст?"
+        },
+        "options": [
+          "以前同事",
+          "中学同学",
+          "现在是夫妻",
+          "以前是夫妻"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_01_1.mp3",
+        "prompt": {
+          "ru": "Что чувствует говорящий?",
+          "tk": "Gepleýän nähili duýgy bildirýär?",
+          "en": "What does the speaker feel?",
+          "uz": "Ma'ruzachi nimani his qilmoqda?",
+          "tg": "Гӯянда чӣ ҳис мекунад?"
+        },
+        "options": [
+          "感谢",
+          "担心",
+          "抱怨",
+          "后悔"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_01_1.mp3",
+        "prompt": {
+          "ru": "О какой части тела говорят?",
+          "tk": "Haýsy beden bölegi barada aýdylýar?",
+          "en": "Which body part is mentioned?",
+          "uz": "Qaysi tana a'zosi tilga olinadi?",
+          "tg": "Кадом узви бадан зикр шудааст?"
+        },
+        "options": [
+          "手指",
+          "肩膀",
+          "胳膊",
+          "脑袋"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_01_1.mp3",
+        "prompt": {
+          "ru": "Куда идёт говорящий?",
+          "tk": "Gepleýän nirä barýar?",
+          "en": "Where is the speaker going?",
+          "uz": "Ma'ruzachi qayerga ketmoqda?",
+          "tg": "Гӯянда ба куҷо меравад?"
+        },
+        "options": [
+          "聚会",
+          "面试",
+          "聊天儿",
+          "谈生意"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_01_2.mp3",
+        "prompt": {
+          "ru": "Что случилось с мужчиной?",
+          "tk": "Mäti bilen näme boldy?",
+          "en": "What happened to the man?",
+          "uz": "Erkakka nima bo'ldi?",
+          "tg": "Ба мард чӣ шуд?"
+        },
+        "options": [
+          "他忘了开会",
+          "他没有戴表",
+          "他开会迟到了",
+          "他记错时间了"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_01_2.mp3",
+        "prompt": {
+          "ru": "О чём говорит женщина про две награды?",
+          "tk": "Aýal iki baýrak barada näme diýýär?",
+          "en": "What does the woman say about two awards?",
+          "uz": "Ayol ikkita mukofot haqida nima deydi?",
+          "tg": "Зан дар бораи ду ҷоиза чӣ мегӯяд?"
+        },
+        "options": [
+          "可惜只有一个奖",
+          "两个都应该得奖",
+          "有一个比另一个好",
+          "哪一个都不该得奖"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_01_2.mp3",
+        "prompt": {
+          "ru": "Что говорящие думают о знакомстве до брака?",
+          "tk": "Nika öňürti tanyşmak barada näme pikir?",
+          "en": "What do they think about pre-marital understanding?",
+          "uz": "Ular nikohdan oldingi tanishuv haqida nima o'ylaydi?",
+          "tg": "Онҳо дар бораи шиносоӣ пеш аз издивоҷ чӣ фикр мекунанд?"
+        },
+        "options": [
+          "他们认识很久了",
+          "他们可以婚后了解",
+          "结婚后一定会有变化",
+          "是否了解与时间没有关系"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_01_2.mp3",
+        "prompt": {
+          "ru": "Где происходит разговор?",
+          "tk": "Söhbet nirede bolýar?",
+          "en": "Where does the conversation take place?",
+          "uz": "Suhbat qayerda bo'lib o'tmoqda?",
+          "tg": "Гуфтугӯ дар куҷо сурат мегирад?"
+        },
+        "options": [
+          "公司里",
+          "餐厅里",
+          "火车上",
+          "超市里"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_01_2.mp3",
+        "prompt": {
+          "ru": "Какие отношения между говорящими?",
+          "tk": "Olaryň arasyndaky gatnaşyk?",
+          "en": "What's their relationship?",
+          "uz": "Ularning munosabati qanday?",
+          "tg": "Муносибати онҳо чӣ гуна аст?"
+        },
+        "options": [
+          "恋人",
+          "夫妻",
+          "同事",
+          "同学"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_01_2.mp3",
+        "prompt": {
+          "ru": "Что верно про мужчину?",
+          "tk": "Mäti barada näme dogry?",
+          "en": "What is true about the man?",
+          "uz": "Erkak haqida nima to'g'ri?",
+          "tg": "Дар бораи мард чӣ дуруст аст?"
+        },
+        "options": [
+          "他有别的女朋友",
+          "他父母知道他们的关系",
+          "他准备带女朋友回去见父母",
+          "他不想让父母知道他们的关系"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_01_2.mp3",
+        "prompt": {
+          "ru": "Какие требования к партнёру?",
+          "tk": "Ýoldaşa näme talap edilýär?",
+          "en": "What requirements for a partner?",
+          "uz": "Sherikga qanday talablar?",
+          "tg": "Ба шарики ҳаёт чӣ талабҳо?"
+        },
+        "options": [
+          "对方是公司的经理",
+          "对方的生活条件好",
+          "对方喜爱阅读和音乐",
+          "对方唱歌唱得很好听"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_01_2.mp3",
+        "prompt": {
+          "ru": "Какое отношение у говорящего?",
+          "tk": "Gepleýäniň garaýşy nähili?",
+          "en": "What is the speaker's attitude?",
+          "uz": "Ma'ruzachining munosabati qanday?",
+          "tg": "Муносибати гӯянда чӣ гуна аст?"
+        },
+        "options": [
+          "支持",
+          "反对",
+          "怀疑",
+          "同情"
+        ],
+        "answer": 0
+      }
+    ],
+    "reading": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "我和丈夫 ___ 15年了。",
+          "tk": "Men är bilen 15 ýyl ___.",
+          "en": "I've been ___ to my husband for 15 years.",
+          "uz": "Men 15 yildan beri erimga ___.",
+          "tg": "Ман 15 сол аст, ки ба шавҳарам ___."
+        },
+        "options": [
+          "婚姻",
+          "结婚",
+          "离婚",
+          "婚礼"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "但是，昨晚我们却大 ___ 了一架。",
+          "tk": "Emma düýn agşam biz gaty ___.",
+          "en": "But last night we ___ loudly.",
+          "uz": "Ammo kecha kechqurun biz baland ovozda ___.",
+          "tg": "Аммо шаби гузашта мо бо овози баланд ___."
+        },
+        "options": [
+          "说",
+          "喊",
+          "叫",
+          "吵"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "工资虽然高一点儿，但是要换一个完全陌生的环境；___ 我们的孩子这么小。",
+          "tk": "Aýlyk azajyk ýokary, ýöne doly nätanyş gurşaw; ___ çagamyz beýle kiçi.",
+          "en": "Salary is a bit higher but it's a totally new environment; ___ our child is so young.",
+          "uz": "Maosh biroz yuqori, lekin bu butunlay yangi muhit; ___ farzandimiz juda kichik.",
+          "tg": "Маош каме баландтар аст, аммо ин муҳити тамоман нав аст; ___ фарзанди мо хеле хурд аст."
+        },
+        "options": [
+          "不过",
+          "然而",
+          "而且",
+          "否则"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "现在，这个问题要 ___ 解决，我们还没有想好。",
+          "tk": "Häzir bu meseläni ___ çözmelidigini heniz pikir etmedik.",
+          "en": "Now we haven't figured out ___ to solve this problem.",
+          "uz": "Hozir biz bu muammoni ___ hal qilishni o'ylab topmadik.",
+          "tg": "Ҳоло мо фикр накардаем, ки ин масъаларо ___ ҳал кунем."
+        },
+        "options": [
+          "如果",
+          "如何",
+          "比如",
+          "例如"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что верно про мужа героини?",
+          "tk": "Gahrymanyň äri barada näme dogry?",
+          "en": "What is true about the heroine's husband?",
+          "uz": "Qahramonning eri haqida nima to'g'ri?",
+          "tg": "Дар бораи шавҳари қаҳрамон чӣ дуруст аст?"
+        },
+        "options": [
+          "丈夫要跟妻子离婚",
+          "丈夫对妻子非常好",
+          "妻子因为瘫痪自杀了",
+          "医生的判断是错误的"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Кто лучше всех знает, счастлив ли брак?",
+          "tk": "Nika bagtlymy — muny kim has gowy bilýär?",
+          "en": "Who knows best if a marriage is happy?",
+          "uz": "Nikoh baxtli ekanligini kim eng yaxshi biladi?",
+          "tg": "Издивоҷ хушбахт буданиро кӣ беҳтар медонад?"
+        },
+        "options": [
+          "婚姻是否幸福，谁都很清楚",
+          "婚姻是否幸福，谁都不清楚",
+          "婚姻是否幸福，自己最清楚",
+          "婚姻是否幸福，别人更清楚"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что собираются сделать супруги?",
+          "tk": "Är-aýal näme etmegi meýilleşdirýärler?",
+          "en": "What are the spouses planning?",
+          "uz": "Turmush o'rtoqlar nima rejalashtirmoqda?",
+          "tg": "Ҳамсарон чӣ нақша мекашанд?"
+        },
+        "options": [
+          "结婚后他们的生活很幸福",
+          "他们结婚已经很长时间了",
+          "他们俩吵架都是因为钱",
+          "他们俩打算离婚"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что верно про причины женитьбы?",
+          "tk": "Öýlenmek sebäpleri barada näme dogry?",
+          "en": "What's true about reasons for marriage?",
+          "uz": "Nikoh sabablari haqida nima to'g'ri?",
+          "tg": "Дар бораи сабабҳои издивоҷ чӣ дуруст аст?"
+        },
+        "options": [
+          "人们选择结婚的原因是一样的",
+          "有一部分婚姻的基础是爱情",
+          "大家都觉得谈恋爱浪费钱",
+          "人人都希望拥有婚姻"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "23. Где работали муж и жена?",
+          "tk": "23. Är-aýal nirede işleýärdi?",
+          "en": "23. Where did the husband and wife work?",
+          "uz": "23. Er va xotin qayerda ishlagan?",
+          "tg": "23. Шавҳар ва зан дар куҷо кор мекарданд?"
+        },
+        "options": [
+          "医院",
+          "银行",
+          "商店",
+          "航空公司"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "24. Что случилось с ними?",
+          "tk": "24. Olara näme boldy?",
+          "en": "24. What happened to them?",
+          "uz": "24. Ularga nima bo'ldi?",
+          "tg": "24. Ба онҳо чӣ шуд?"
+        },
+        "options": [
+          "失去工作了",
+          "妻子生病了",
+          "丈夫痴呆了",
+          "儿子摔伤了"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "25. Лучшее название текста:",
+          "tk": "25. Tekstiň iň gowy ady:",
+          "en": "25. Best title for the text:",
+          "uz": "25. Matn uchun eng yaxshi sarlavha:",
+          "tg": "25. Беҳтарин сарлавҳа барои матн:"
+        },
+        "options": [
+          "幸福的退休生活",
+          "跟着我",
+          "我忘了全世界",
+          "我和妻子"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "26. Что НЕВЕРНО по тексту о разводах?",
+          "tk": "26. Aýrylyşmak barada NÄDOGRY?",
+          "en": "26. What is INCORRECT about divorces?",
+          "uz": "26. Ajralishlar haqida nima NOTO'G'RI?",
+          "tg": "26. Дар бораи ҷудоиҳо чӣ НОДУРУСТ аст?"
+        },
+        "options": [
+          "2013年的离婚率是2004年的十倍",
+          "十年来，离婚率一直在增长",
+          "过去的人多数不愿意离婚",
+          "80后不太在乎是否离婚"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "27. Как автор оценивает рост разводов?",
+          "tk": "27. Awtoryň aýrylyşyşyň ösüşine bahasy?",
+          "en": "27. How does the author evaluate rising divorce rate?",
+          "uz": "27. Muallif ajralishlar sonining o'sishini qanday baholaydi?",
+          "tg": "27. Муаллиф афзоиши ҷудоиро чӣ гуна баҳо медиҳад?"
+        },
+        "options": [
+          "是因为金钱",
+          "是因为吵架误会",
+          "说明人们越来越不愿结婚",
+          "可以从正反两个方面看待"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "28. Каково отношение автора к браку-игре?",
+          "tk": "28. Awtoryň oýna öýlenmek barada garaýşy?",
+          "en": "28. Author's attitude to marriage-as-game?",
+          "uz": "28. Muallifning nikohni o'yin sifatida ko'rishga munosabati?",
+          "tg": "28. Муносибати муаллиф ба издивоҷ ҳамчун бозӣ?"
+        },
+        "options": [
+          "高兴的",
+          "赞同的",
+          "批评的",
+          "后悔的"
+        ],
+        "answer": 2
+      }
+    ],
+    "writing": [
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence",
+          "uz": "Gap tuzing",
+          "tg": "Ҷумла созед"
+        },
+        "words": [
+          "她",
+          "这次的",
+          "放弃了",
+          "居然",
+          "机会"
+        ],
+        "answer": "她居然放弃了这次的机会"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence",
+          "uz": "Gap tuzing",
+          "tg": "Ҷумла созед"
+        },
+        "words": [
+          "从来没",
+          "他们",
+          "吵过架",
+          "为",
+          "任何事"
+        ],
+        "answer": "他们从来没为任何事吵过架"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence",
+          "uz": "Gap tuzing",
+          "tg": "Ҷумла созед"
+        },
+        "words": [
+          "肩膀上",
+          "我",
+          "吧",
+          "靠在",
+          "睡一会儿"
+        ],
+        "answer": "我靠在肩膀上睡一会儿吧"
+      },
+      {
+        "type": "essay",
+        "prompt": {
+          "ru": "Напишите рассказ (80+ иероглифов), используя ВСЕ слова: 等待、抱怨、对比、如何、不耐烦",
+          "tk": "80+ sözli hekaýa ýazyň, ähli sözleri ulanyň: 等待、抱怨、对比、如何、不耐烦",
+          "en": "Write 80+ character essay using ALL: 等待、抱怨、对比、如何、不耐烦",
+          "uz": "80+ belgili insho yozing, BARCHA so'zlarni ishlatib: 等待、抱怨、对比、如何、不耐烦",
+          "tg": "Иншои 80+ аломатӣ нависед, ҲАМАИ калимаҳоро истифода бурда: 等待、抱怨、对比、如何、不耐烦"
+        },
+        "min_length": 80,
+        "required_words": [
+          "等待",
+          "抱怨",
+          "对比",
+          "如何",
+          "不耐烦"
+        ]
+      }
+    ]
+  }
+}

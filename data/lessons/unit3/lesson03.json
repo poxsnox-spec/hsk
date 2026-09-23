@@ -1,0 +1,1187 @@
+{
+  "title": {
+    "zh": "别样鲁迅",
+    "ru": "Другой Лу Синь",
+    "tk": "Başgaça Lu Sýun",
+    "en": "The Lu Xun You Don't Know",
+    "uz": "Boshqacha Lu Sin",
+    "tg": "Лу Син дигар"
+  },
+  "audio_files": {
+    "textbook_1": "textbook_1.mp3",
+    "textbook_2": "textbook_2.mp3",
+    "vocab": "vocab.mp3",
+    "workbook_33_1": "workbook_33-1.mp3",
+    "workbook_33_2": "workbook_33-2.mp3"
+  },
+  "warmup": {
+    "question": {
+      "ru": "Кто такой Лу Синь? Что вы о нём знаете?",
+      "tk": "Lu Sýun kim? Onuň barada näme bilýärsiňiz?",
+      "en": "Who was Lu Xun? What do you know about him?"
+    },
+    "answers": [
+      "鲁迅",
+      "作家",
+      "文学家",
+      "呐喊",
+      "彷徨"
+    ]
+  },
+  "text_zh": "美食很大一部分是靠名人推动的，这一点在民国时期表现得尤其突出。例如著名的文学家鲁迅，在吃喝这件事上，就算是个地道的行家，不但会吃，还会亲自动手做，对许多美食都有独特的见解。这是近代新时尚。北京是鲁迅长期生活过的城市，仅从这一时期鲁迅写作的日记中，我们发现他去过的知名餐馆就有65家，另外，他还很爱吃稻香村的点心。作为大作家、大学问家，鲁迅对吃很讲究，吃的内容在他的日记里占了很大一部分。在众多餐馆里，鲁迅去得最多、最喜欢的是广和居，平均每周都要去一次。鲁迅经常到这家店的一个重要原因是距离近，广和居的大门就在他当时住的胡同的斜对面。位于菜市口附近的广和居是北京「八大居」之首，在民国时期非常出名。广和居算不上豪华，但却很适合朋友在这里聚会、热闹。这里特别欢迎文人的光临，为他们的聚会创造了很好的条件。广和居院里分成大小不同的各种房间，有一个人的，有三五人小聚的，也有十多个人大聚会的。这大大满足了鲁迅爱和朋友吃饭的要求。他爱好交际，大方好客，常呼朋唤友，多数是三五个人一起吃，有时甚至会直接让广和居送外卖到家里，在家招待朋友。当然最重要的还是因为广和居有鲁迅喜欢的菜。那里的菜既有高档的，也有适合普通百姓的，样样都让人有胃口。鲁迅也爱喝酒，虽然明明知道自己有胃病，不应该喝酒，但却很难戒掉。他是每顿饭必喝酒的人。现在保存的历史资料记载，他和郁达夫一起喝酒的次数最多。鲁迅酒量不大，经常喝醉，而且在喝酒的过程中烟不离手。郁达夫在1933年曾经作诗形容他：「醉眼蒙陇上酒楼，彷徨呐喊两悠悠」，描写得十分形象。",
+  "text_translation": {
+    "ru": "Гастрономия во многом движима знаменитостями — особенно это проявилось в эпоху Республики. Например, известный писатель Лу Синь был настоящим знатоком еды и питья: не только умел есть, но и сам готовил, имел собственные взгляды на многие блюда. Это стало новой модой. Пекин — город, где Лу Синь долго жил. Судя по его дневникам того периода, он посетил 65 известных ресторанов, а ещё очень любил сладости из «Даосянцунь». Как большой писатель и учёный, Лу Синь был придирчив к еде — еда занимала значительную часть его дневников. Чаще всего он ходил в «Гуанхэцзюй», в среднем раз в неделю. Причина — близость: ресторан был прямо через переулок от его дома. Расположенный у Цайшикоу «Гуанхэцзюй» был первым из «восьми великих ресторанов» Пекина и славился в эпоху Республики. Он не был роскошным, но отлично подходил для встреч и веселья. Особенно радушно принимали литераторов. Внутри были разные комнаты — для одного, для трёх-пяти, для десяти с лишним человек. Это очень устраивало Лу Синя, любившего есть с друзьями. Он был общителен, щедр и гостеприимен, часто звал друзей; обычно ели втроём-впятером, а иногда он заказывал доставку из «Гуанхэцзюй» домой и угощал гостей. Разумеется, главное — там были его любимые блюда: и изысканные, и простые, но всё возбуждало аппетит. Лу Синь также любил выпить. Зная, что у него гастрит, он всё же не мог бросить. Он пил за каждой трапезой. Сохранившиеся исторические материалы говорят, что чаще всего он пил с Юй Дафу. Лу Синь пил немного, но часто напивался, а во время выпивки не выпускал сигарету. Юй Дафу в 1933 году написал стихотворные строки, очень точно описывающие его: «С пьяными глазами поднимается в винный терем, „Скитания“ и „Клич“ — оба вдалеке».",
+    "tk": "Azyk-owkat köplenç meşhurlar arkaly ösdürilýär — bu Respublika döwründe aýratyn tapawutly ýüze çykdy. Mysal üçin meşhur ýazyjy Lu Sýun nahar-içgi meselesinde hakyky bilermen bolup, diňe iýmegi bilmän, öz elleri bilen hem bişirýärdi, köp naharlar barada özboluşly pikirleri bardy. Bu şol döwrüň täze modasydy. Pekin — Lu Sýunyň uzak wagtlap ýaşan şäheri. Diňe şol döwürdäki gündeliklerine görä, ol 65 sany meşhur restorana gidipdir, üstesine-de, ol «Dao Sýansun» -yň süýjüligini gaty halaýardy. Uly ýazyjy we alym hökmünde, Lu Sýun iýmit meselesine üns berýärdi — iýmit onuň gündeliginiň aglaba bölegini tutýardy. Ähli restoranlaryň arasynda ol iň köp we iň halap «Guanhoczýuý» -a gidýärdi — ortaça hepdede bir gezek. Lu Sýunyň bu restorana ýygy-ýygydan gitmeginiň esasy sebäbi ýakynlykdy — «Guanhoczýuý» -nyň gapysy hut şol wagtky öýüniň göni garşysyndaky hutunda ýerleşýärdi. Çaişikou töwereginde ýerleşen «Guanhoczýuý» Pekiniň «Sekiz uly restoranynyň» birinjisi bolup, Respublika döwründe gaty meşhurdy. «Guanhoczýuý» haşamly hasaplanmasa-da, dostlaryň ýygnanyp şatlanmagy üçin gaty laýykdy. Ol bu ýerde edebiýatçylary aýratyn mähir bilen garşylaýardy we olaryň ýygnanyşmagy üçin gowy şert döredýärdi. «Guanhoczýuý» -nyň howlusy dürli ululykdaky otaglara bölünipdi — bir adamlyk, üç-bäş adamlyk kiçi ýygnanyşyklar we on adamdan gowrak uly ýygnanyşyklar üçin. Bu Lu Sýunyň dostlary bilen nahar iýmek islegini doly kanagatlandyrýardy. Ol aragatnaşygy söýýärdi, saýy we myhmansöýer bolup, köplenç dostlaryny çagyrýardy — esasan üç-bäş adam bilelikde iýýärdi, käte «Guanhoczýuý» -dan öýüne nahar ýetirip, öýünde dostlaryny myhmançylyk edýärdi. Elbetde, iň möhümi — ol ýerde Lu Sýunyň halaýan naharlary bardy. Ol ýerdäki naharlaryň arasynda ýokary derejeli hem, adaty halk üçin hem bar boldy — hemmesi işdäni açýardy. Lu Sýun hem içmegi halaýardy — aşgazan keseli bardygyny aňk bolup, içmeli däldigini bilse-de, taşlap bilmedi. Ol her naharda içýärdi. Häzir saklanýan taryhy maglumatlara görä, ol iň köp Ýuý Dafu bilen içipdir. Lu Sýun köp içmeýärdi, ýöne ýygy-ýygydan serhoş bolýardy we içen wagty çilimi elinden goýbermeýärdi. Ýuý Dafu 1933-nji ýylda ony beýan edip goşgy ýazdy: «Serhoş gözler bilen meýhanä çykýar, Sargyt we Gygyryk ikisi hem uzakda» — bu gaty şekilli suratlandyryş boldy.",
+    "en": "Gastronomy is largely driven by celebrities — this was especially prominent in the Republican era. For example, the famous writer Lu Xun was a genuine connoisseur of food and drink: not only a gourmet, but a hands-on cook with distinctive views on many dishes. This was a new fashion of the era. Beijing was a city where Lu Xun lived for a long time — from his diaries of that period we see he visited 65 famous restaurants, and he especially loved pastries from 'Daoxiangcun'. As a great writer and scholar, Lu Xun was particular about food — eating filled much of his diaries. Of all the restaurants, he went most often and most fondly to 'Guangheju' — on average once a week. A key reason was proximity: Guangheju was diagonally across the hutong from where he lived. Located near Caishikou, it was the first of Beijing's 'Eight Great Restaurants' and very famous in the Republican era. It wasn't luxurious, but perfectly suited for friends to gather and enjoy. It especially welcomed literati and created fine conditions for their gatherings. The courtyard had rooms of all sizes — for one person, for three to five small gatherings, for ten or more. This fully satisfied Lu Xun's love of dining with friends. Sociable, generous and hospitable, he often called friends together — usually three to five; sometimes he had Guangheju deliver to his home and hosted there. Most importantly, they had his favorite dishes — both high-grade and popular, all appetizing. Lu Xun also loved to drink — though he knew he had a stomach ailment and shouldn't, he couldn't quit. He drank with every meal. Surviving historical records show he drank most often with Yu Dafu. He didn't hold his drink, often got drunk, and kept a cigarette in hand while drinking. Yu Dafu in 1933 described him in verse: 'With drunken, misty eyes he climbs the tavern; Wandering and Call to Arms both drift in the distance' — a very vivid portrait."
+  },
+  "vocabulary": [
+    {
+      "hanzi": "表现",
+      "pinyin": "biǎoxiàn",
+      "pos": "v./n.",
+      "meaning": {
+        "ru": "проявлять; проявление",
+        "tk": "görkezmek",
+        "en": "to display"
+      }
+    },
+    {
+      "hanzi": "突出",
+      "pinyin": "tūchū",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "выдающийся, заметный",
+        "tk": "tapawutly",
+        "en": "prominent"
+      }
+    },
+    {
+      "hanzi": "文学家",
+      "pinyin": "wénxuéjiā",
+      "pos": "n.",
+      "meaning": {
+        "ru": "литератор",
+        "tk": "edebiýatçy",
+        "en": "writer"
+      }
+    },
+    {
+      "hanzi": "算",
+      "pinyin": "suàn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "считать(ся)",
+        "tk": "hasaplamak",
+        "en": "to count as"
+      }
+    },
+    {
+      "hanzi": "地道",
+      "pinyin": "dìdao",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "настоящий, подлинный",
+        "tk": "hakyky",
+        "en": "genuine"
+      }
+    },
+    {
+      "hanzi": "行家",
+      "pinyin": "hángjiā",
+      "pos": "n.",
+      "meaning": {
+        "ru": "эксперт, знаток",
+        "tk": "bilermen",
+        "en": "expert"
+      }
+    },
+    {
+      "hanzi": "亲自",
+      "pinyin": "qīnzì",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "лично",
+        "tk": "özüň",
+        "en": "personally"
+      }
+    },
+    {
+      "hanzi": "见解",
+      "pinyin": "jiànjiě",
+      "pos": "n.",
+      "meaning": {
+        "ru": "мнение, взгляд",
+        "tk": "pikir",
+        "en": "opinion"
+      }
+    },
+    {
+      "hanzi": "近代",
+      "pinyin": "jìndài",
+      "pos": "n.",
+      "meaning": {
+        "ru": "новая история",
+        "tk": "häzirki döwür",
+        "en": "modern times"
+      }
+    },
+    {
+      "hanzi": "时尚",
+      "pinyin": "shíshàng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "мода",
+        "tk": "moda",
+        "en": "fashion"
+      }
+    },
+    {
+      "hanzi": "写作",
+      "pinyin": "xiězuò",
+      "pos": "v.",
+      "meaning": {
+        "ru": "писать",
+        "tk": "ýazmak",
+        "en": "to write"
+      }
+    },
+    {
+      "hanzi": "点心",
+      "pinyin": "diǎnxin",
+      "pos": "n.",
+      "meaning": {
+        "ru": "закуска, десерт",
+        "tk": "süýjülik",
+        "en": "dessert"
+      }
+    },
+    {
+      "hanzi": "作为",
+      "pinyin": "zuòwéi",
+      "pos": "v./prep.",
+      "meaning": {
+        "ru": "быть, как",
+        "tk": "hökmünde",
+        "en": "as, being"
+      }
+    },
+    {
+      "hanzi": "学问",
+      "pinyin": "xuéwèn",
+      "pos": "n.",
+      "meaning": {
+        "ru": "эрудиция, знания",
+        "tk": "bilim",
+        "en": "knowledge"
+      }
+    },
+    {
+      "hanzi": "讲究",
+      "pinyin": "jiǎngjiu",
+      "pos": "v./adj.",
+      "meaning": {
+        "ru": "разбираться, придавать значение",
+        "tk": "üns bermek",
+        "en": "to be particular about"
+      }
+    },
+    {
+      "hanzi": "平均",
+      "pinyin": "píngjūn",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "в среднем",
+        "tk": "ortaça",
+        "en": "average"
+      }
+    },
+    {
+      "hanzi": "胡同",
+      "pinyin": "hútòng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "хутун, переулок",
+        "tk": "hutun (köçe)",
+        "en": "alley"
+      }
+    },
+    {
+      "hanzi": "位于",
+      "pinyin": "wèiyú",
+      "pos": "v.",
+      "meaning": {
+        "ru": "находиться",
+        "tk": "ýerleşmek",
+        "en": "to be located"
+      }
+    },
+    {
+      "hanzi": "首",
+      "pinyin": "shǒu",
+      "pos": "n./m.",
+      "meaning": {
+        "ru": "первый; счётное слово для песен/стихов",
+        "tk": "birinji; goşgy üçin san sözi",
+        "en": "first; MW for songs/poems"
+      }
+    },
+    {
+      "hanzi": "豪华",
+      "pinyin": "háohuá",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "роскошный",
+        "tk": "haşamly",
+        "en": "luxurious"
+      }
+    },
+    {
+      "hanzi": "光临",
+      "pinyin": "guānglín",
+      "pos": "v.",
+      "meaning": {
+        "ru": "посещать (вежл.)",
+        "tk": "gulmek",
+        "en": "to visit"
+      }
+    },
+    {
+      "hanzi": "交际",
+      "pinyin": "jiāojì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "общение",
+        "tk": "aragatnaşyk",
+        "en": "social contact"
+      }
+    },
+    {
+      "hanzi": "大方",
+      "pinyin": "dàfang",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "щедрый",
+        "tk": "saýy",
+        "en": "generous"
+      }
+    },
+    {
+      "hanzi": "好客",
+      "pinyin": "hàokè",
+      "pos": "v.",
+      "meaning": {
+        "ru": "гостеприимный",
+        "tk": "myhmansöýer",
+        "en": "hospitable"
+      }
+    },
+    {
+      "hanzi": "呼朋唤友",
+      "pinyin": "hūpéng huànyǒu",
+      "pos": "идиом",
+      "meaning": {
+        "ru": "созывать друзей",
+        "tk": "dostlary çagyrmak",
+        "en": "to call friends together"
+      }
+    },
+    {
+      "hanzi": "招待",
+      "pinyin": "zhāodài",
+      "pos": "v.",
+      "meaning": {
+        "ru": "угощать, принимать",
+        "tk": "kabul etmek",
+        "en": "to entertain"
+      }
+    },
+    {
+      "hanzi": "高档",
+      "pinyin": "gāodàng",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "высококлассный",
+        "tk": "ýokary derejeli",
+        "en": "high-grade"
+      }
+    },
+    {
+      "hanzi": "胃口",
+      "pinyin": "wèikǒu",
+      "pos": "n.",
+      "meaning": {
+        "ru": "аппетит",
+        "tk": "işdä",
+        "en": "appetite"
+      }
+    },
+    {
+      "hanzi": "明明",
+      "pinyin": "míngmíng",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "явно, совершенно точно",
+        "tk": "elbetde",
+        "en": "obviously"
+      }
+    },
+    {
+      "hanzi": "胃",
+      "pinyin": "wèi",
+      "pos": "n.",
+      "meaning": {
+        "ru": "желудок",
+        "tk": "aşgazan",
+        "en": "stomach"
+      }
+    },
+    {
+      "hanzi": "戒",
+      "pinyin": "jiè",
+      "pos": "v.",
+      "meaning": {
+        "ru": "бросить (привычку)",
+        "tk": "taşlamak",
+        "en": "to give up"
+      }
+    },
+    {
+      "hanzi": "保存",
+      "pinyin": "bǎocún",
+      "pos": "v.",
+      "meaning": {
+        "ru": "хранить, сохранять",
+        "tk": "saklamak",
+        "en": "to keep"
+      }
+    },
+    {
+      "hanzi": "资料",
+      "pinyin": "zīliào",
+      "pos": "n.",
+      "meaning": {
+        "ru": "материалы, данные",
+        "tk": "maglumat",
+        "en": "data, material"
+      }
+    },
+    {
+      "hanzi": "曾经",
+      "pinyin": "céngjīng",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "когда-то, раньше",
+        "tk": "bir wagtlar",
+        "en": "once, in the past"
+      }
+    },
+    {
+      "hanzi": "形容",
+      "pinyin": "xíngróng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "описывать",
+        "tk": "suratlandyrmak",
+        "en": "to describe"
+      }
+    },
+    {
+      "hanzi": "蒙胧",
+      "pinyin": "ménglóng",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "сонный, затуманенный",
+        "tk": "ukuly",
+        "en": "drowsy"
+      }
+    },
+    {
+      "hanzi": "悠悠",
+      "pinyin": "yōuyōu",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "неторопливый, отдалённый",
+        "tk": "haýallyk",
+        "en": "leisurely"
+      }
+    },
+    {
+      "hanzi": "形象",
+      "pinyin": "xíngxiàng",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "образный, яркий",
+        "tk": "şekilli",
+        "en": "vivid"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "算",
+      "pos": "v.",
+      "explanation": {
+        "ru": "«算» — «считать(ся), признавать». «算了» — «ладно, хватит».",
+        "tk": "«算» — «hasaplamak». «算了» — «bolýar, ýeter».",
+        "en": "'算' — 'to count as, regard as'. '算了' — 'never mind, forget it'."
+      },
+      "examples": [
+        {
+          "zh": "例如著名的文学家鲁迅，在吃喝这件事上，就算是个地道的行家。",
+          "ru": "Например, известный писатель Лу Синь в еде и питье был настоящим знатоком.",
+          "tk": "Mysal üçin meşhur ýazyjy Lu Sýun nahar-içgi boýunça hakyky bilermen boldy.",
+          "en": "For example, famous writer Lu Xun was a true gourmet."
+        },
+        {
+          "zh": "这钱就算我借给你的，将来你有了的时候再还我。",
+          "ru": "Считай, что я тебе одолжил — вернёшь, когда будут деньги.",
+          "tk": "Bu puly saňa karz beren hasapla — puluň bolanda yzyna ber.",
+          "en": "Consider it a loan — pay me back when you can."
+        },
+        {
+          "zh": "不就是一个空瓶子吗？扔掉算了。",
+          "ru": "Подумаешь, пустая бутылка — выброси и всё.",
+          "tk": "Bir boş çüýşe-ä — zyňyber, gutardy.",
+          "en": "Just an empty bottle — throw it away."
+        },
+        {
+          "zh": "算了吧，你跑得再快，也追不上会飞的鸟啊。",
+          "ru": "Да брось, как бы быстро ты ни бежал, летящую птицу не догонишь.",
+          "tk": "Goý, näçe çalt ylgasaň-da, uçýan guşy kowup ýetmersiň.",
+          "en": "Forget it — no matter how fast you run, you can't catch a flying bird."
+        },
+        {
+          "zh": "从我家去公司，坐几站地铁就到了，算很方便。",
+          "ru": "Из дома на работу — несколько станций метро, считается очень удобно.",
+          "tk": "Öýden işe metro birnäçe duralga — amatly hasaplanýar.",
+          "en": "From home to the office is a few subway stops — quite convenient."
+        },
+        {
+          "zh": "这事就当没发生过，算了。",
+          "ru": "Считай, этого не было — забудь.",
+          "tk": "Bu zat bolmadyk ýaly hasapla — goý.",
+          "en": "Consider it never happened — forget it."
+        },
+        {
+          "zh": "他算得上是个好朋友。",
+          "ru": "Его можно считать хорошим другом.",
+          "tk": "Ony gowy dost hasaplap bolar.",
+          "en": "He can be considered a good friend."
+        },
+        {
+          "zh": "这次就算我请客吧。",
+          "ru": "Считай, что в этот раз угощаю я.",
+          "tk": "Bu gezek men myhmançylyk edýärin hasapla.",
+          "en": "Let's count this as my treat."
+        },
+        {
+          "zh": "他算是个什么人？",
+          "ru": "Что он вообще за человек?",
+          "tk": "Ol nähili adam?",
+          "en": "What kind of person is he?"
+        },
+        {
+          "zh": "算了，别争了。",
+          "ru": "Ладно, хватит спорить.",
+          "tk": "Bolýar, jedelleşmäň.",
+          "en": "Alright — stop arguing."
+        }
+      ]
+    },
+    {
+      "word": "作为",
+      "pos": "v./prep.",
+      "explanation": {
+        "ru": "«作为» — «использовать как»; как предлог — «в качестве».",
+        "tk": "«作为» — «hökmünde ulanmak»; goşma söz hökmünde «-hökmünde».",
+        "en": "'作为' — 'to use as'; prep. 'as, being'."
+      },
+      "examples": [
+        {
+          "zh": "作为大作家、大学问家，鲁迅对吃很讲究。",
+          "ru": "Как большой писатель и учёный, Лу Синь был придирчив к еде.",
+          "tk": "Uly ýazyjy we alym hökmünde Lu Sýun iýmit meselesine üns berýärdi.",
+          "en": "As a great writer and scholar, Lu Xun was particular about food."
+        },
+        {
+          "zh": "北海公园离家最近，所以我把那儿作为每晚散步的去处。",
+          "ru": "Парк Бэйхай ближе всего — я сделал его местом вечерних прогулок.",
+          "tk": "Beýhai seýilgähi öýe iň ýakyn — men ony agşam gezelenji üçin ýer etdim.",
+          "en": "Beihai Park is closest — I made it my evening walk spot."
+        },
+        {
+          "zh": "经理要请我去吃顿饭，说是作为我加班的表扬。",
+          "ru": "Менеджер пригласил поесть — в знак благодарности за переработку.",
+          "tk": "Menejer nahar çagyrdy — iş wagtyndan soň zähmetimiň sylagy hökmünde.",
+          "en": "The manager invited me for a meal as praise for overtime."
+        },
+        {
+          "zh": "西红柿是世界上种植非常普遍的蔬菜，中国作为主要生产国之一也在扩大种植面积。",
+          "ru": "Томат — самая распространённая овощная культура, и Китай как один из основных производителей расширяет посевы.",
+          "tk": "Pomidor iň ýaýran gök önüm, Hytaý esasy öndürijileriň biri hökmünde ekin meýdanyny giňeldýär.",
+          "en": "Tomato is a widely grown vegetable, and China as a major producer is expanding its fields."
+        },
+        {
+          "zh": "作为一名教师，治病救人不是我的职责。",
+          "ru": "Как учитель, лечить людей — не моя обязанность.",
+          "tk": "Mugallym hökmünde adamlary bejermek meniň borjum däl.",
+          "en": "As a teacher, treating the sick isn't my job."
+        },
+        {
+          "zh": "他作为公司的代表参加了会议。",
+          "ru": "Он присутствовал на совещании как представитель компании.",
+          "tk": "Ol kompaniýanyň wekili hökmünde maslahata gatnaşdy.",
+          "en": "He attended as the company's representative."
+        },
+        {
+          "zh": "他把这本书作为生日礼物送给了我。",
+          "ru": "Он подарил мне эту книгу как подарок на день рождения.",
+          "tk": "Ol maňa bu kitaby doglan gün sowgady hökmünde berdi.",
+          "en": "He gave me this book as a birthday gift."
+        },
+        {
+          "zh": "作为父母，应该多关心孩子。",
+          "ru": "Как родители, должны больше заботиться о детях.",
+          "tk": "Ene-ata hökmünde çagalara has köp üns bermeli.",
+          "en": "As parents, we should care more for children."
+        },
+        {
+          "zh": "我们把这座桥作为城市的标志。",
+          "ru": "Мы используем этот мост как символ города.",
+          "tk": "Biz bu köprüni şäheriň nyşany hökmünde ulanýarys.",
+          "en": "We use this bridge as the city's symbol."
+        },
+        {
+          "zh": "他作为一名医生，非常有责任心。",
+          "ru": "Как врач, он очень ответственный.",
+          "tk": "Lukman hökmünde ol örän jogapkärli.",
+          "en": "As a doctor, he's very responsible."
+        }
+      ]
+    },
+    {
+      "word": "曾经",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«曾经» — «когда-то, ранее». О прошлом опыте, часто с «过».",
+        "tk": "«曾经» — «bir wagtlar». Geçmiş tejribe barada.",
+        "en": "'曾经' — 'once, formerly'. For past experience, often with '过'."
+      },
+      "examples": [
+        {
+          "zh": "郁达夫在1933年曾经作诗形容他。",
+          "ru": "Юй Дафу в 1933 году написал о нём стихи.",
+          "tk": "Ýuý Dafu 1933-nji ýylda ony beýan edip goşgy ýazdy.",
+          "en": "Yu Dafu once wrote a poem describing him in 1933."
+        },
+        {
+          "zh": "鲁迅曾经说他是将别人喝牛奶、咖啡的时间用来学习。",
+          "ru": "Лу Синь говорил, что использовал время, пока другие пили молоко и кофе, для учёбы.",
+          "tk": "Lu Sýun başgalar süýt we kofe içen wagtyny okamak üçin ulanýandygyny aýdardy.",
+          "en": "Lu Xun said he used others' coffee-break time for study."
+        },
+        {
+          "zh": "孔子曾经带着学生周游各国14年，传播他的思想。",
+          "ru": "Конфуций 14 лет путешествовал со своими учениками, распространяя своё учение.",
+          "tk": "Konfusiý 14 ýyl okuwçylary bilen syýahat edip, öz taglymatyny ýaýratdy.",
+          "en": "Confucius once traveled with his students for 14 years, spreading his ideas."
+        },
+        {
+          "zh": "我曾经和他一起工作过两年。",
+          "ru": "Я когда-то работал с ним два года.",
+          "tk": "Men bir wagtlar onuň bilen iki ýyl işledim.",
+          "en": "I once worked with him for two years."
+        },
+        {
+          "zh": "对，我曾经和他一起工作过两年。",
+          "ru": "Да, я когда-то работал с ним два года.",
+          "tk": "Hawa, men bir wagtlar onuň bilen iki ýyl işledim.",
+          "en": "Yes, I once worked with him for two years."
+        },
+        {
+          "zh": "我曾经去过日本留学。",
+          "ru": "Я когда-то ездил учиться в Японию.",
+          "tk": "Men bir wagtlar Ýaponiýada okaýardym.",
+          "en": "I once studied in Japan."
+        },
+        {
+          "zh": "这里曾经是一片森林。",
+          "ru": "Здесь когда-то был лес.",
+          "tk": "Bu ýer bir wagtlar tokaýdy.",
+          "en": "This place was once a forest."
+        },
+        {
+          "zh": "我曾经迷过一阵子摄影。",
+          "ru": "Я когда-то увлекался фотографией.",
+          "tk": "Men bir wagtlar fotografiýa bilen gyzyklandym.",
+          "en": "I was once into photography."
+        },
+        {
+          "zh": "她曾经是我的同屋。",
+          "ru": "Она когда-то была моей соседкой по комнате.",
+          "tk": "Ol bir wagtlar meniň otagdaşymdy.",
+          "en": "She was once my roommate."
+        },
+        {
+          "zh": "我曾经看过这部电影，非常感人。",
+          "ru": "Я когда-то видел этот фильм — очень трогательный.",
+          "tk": "Men bir wagtlar bu filmi gördüm — örän täsirli.",
+          "en": "I once saw this film — very moving."
+        }
+      ]
+    },
+    {
+      "word": "亲自",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«亲自» — «лично, сам». Подчёркивает, что действие выполняет сам субъект, а не через других.",
+        "tk": "«亲自» — «özüň, hut özüň».",
+        "en": "'亲自' — 'personally, in person'. Emphasizes the subject does it themselves."
+      },
+      "examples": [
+        {
+          "zh": "鲁迅不但会吃，还会亲自动手做。",
+          "ru": "Лу Синь не только умел есть, но и сам готовил.",
+          "tk": "Lu Sýun diňe iýmegi bilmän, özi hem bişirýärdi.",
+          "en": "Lu Xun not only ate well but cooked himself."
+        },
+        {
+          "zh": "老人总是亲自喂养他的猴子。",
+          "ru": "Старик всегда сам кормил своих обезьян.",
+          "tk": "Goja hemişe öz meýmynlerini özi iýmitlendirýärdi.",
+          "en": "The old man always fed his monkeys himself."
+        },
+        {
+          "zh": "这份礼物是市长亲自为生病的小女孩儿做的。",
+          "ru": "Этот подарок мэр лично сделал для больной девочки.",
+          "tk": "Bu sowgady mer şahsyýet syrkaw gyzjagaz üçin ýasady.",
+          "en": "The mayor personally made this gift for the sick girl."
+        },
+        {
+          "zh": "今年我的业绩全公司第一，新年晚会上，总裁亲自给我发了奖金。",
+          "ru": "В этом году я лучший по показателям — на новогоднем вечере сам президент вручил мне премию.",
+          "tk": "Bu ýyl görkezijim boýunça iň gowy — Täze ýyl agşamynda prezident özi maňa sylag berdi.",
+          "en": "This year I topped the company — the president personally gave me the bonus at the New Year gala."
+        },
+        {
+          "zh": "希望您能亲自来参加这次活动。",
+          "ru": "Надеемся, вы лично придёте на это мероприятие.",
+          "tk": "Bu çärä özüňiz gelmegiňize umyt edýäris.",
+          "en": "We hope you'll attend the event in person."
+        },
+        {
+          "zh": "老师亲自批改我们的作业。",
+          "ru": "Учитель сам проверяет наши работы.",
+          "tk": "Mugallym biziň işlerimizi özi barlaýar.",
+          "en": "The teacher personally grades our homework."
+        },
+        {
+          "zh": "我亲自去机场接他。",
+          "ru": "Я лично поеду за ним в аэропорт.",
+          "tk": "Men ony howa menzilinden özüm garşylaýaryn.",
+          "en": "I'll pick him up at the airport myself."
+        },
+        {
+          "zh": "他亲自下厨做了几道菜。",
+          "ru": "Он сам приготовил несколько блюд.",
+          "tk": "Ol özi birnäçe nahar bişirdi.",
+          "en": "He personally cooked a few dishes."
+        },
+        {
+          "zh": "经理亲自打电话道歉。",
+          "ru": "Менеджер лично позвонил и извинился.",
+          "tk": "Menejer hut özi jaň edip ötünç sorady.",
+          "en": "The manager personally called to apologize."
+        },
+        {
+          "zh": "这事儿必须你亲自去办。",
+          "ru": "Это дело должны сделать именно вы лично.",
+          "tk": "Bu işi hut özüňiz etmeli.",
+          "en": "You must handle this yourself."
+        }
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "pattern": "动词 + 宾语",
+      "items": [
+        "讲究吃 / 穿 / 卫生 / 方法",
+        "戒烟 / 戒酒"
+      ]
+    },
+    {
+      "pattern": "定语 + 中心语",
+      "items": [
+        "地道的普通话 / 北京小吃",
+        "高档（的）礼品 / 家具 / 服装"
+      ]
+    },
+    {
+      "pattern": "中心语 + 补语",
+      "items": [
+        "算得上 / 算得上",
+        "保存几百年 / 保存完好 / 保存至今"
+      ]
+    },
+    {
+      "pattern": "数量词 + 名词",
+      "items": [
+        "一条 / 个胡同",
+        "一首歌 / 诗"
+      ]
+    },
+    {
+      "pattern": "主语 + 谓语",
+      "items": [
+        "表现（很）好 / 突出 / 稳定",
+        "描写（很）形象"
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "亲自",
+      "word_b": "自己",
+      "common": {
+        "ru": "Оба означают «сам, лично».",
+        "tk": "Ikisi hem «öz».",
+        "en": "Both mean 'self, personally'."
+      },
+      "differences": [
+        {
+          "ru": "«亲自» — наречие, между подлежащим и глаголом, часто для людей высокого статуса.",
+          "tk": "«亲自» — hal, ýokary derejeli adamlar üçin.",
+          "en": "'亲自' is an adverb, often for high-status people."
+        },
+        {
+          "ru": "«自己» — местоимение, может быть подлежащим, дополнением, определением.",
+          "tk": "«自己» — çalyşma, eýe, doldurgyç bolup bilýär.",
+          "en": "'自己' is a pronoun — subject, object, attributive."
+        },
+        {
+          "ru": "«自己» подчёркивает «я, а не кто-то другой».",
+          "tk": "«自己» «men, başga däl» nygtaýar.",
+          "en": "'自己' emphasizes 'I, not someone else'."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "ru": "Общество и культура",
+      "tk": "Jemgyýet we medeniýet",
+      "en": "Society and culture"
+    },
+    "words": [
+      {
+        "hanzi": "道德",
+        "pinyin": "dàodé",
+        "meaning": {
+          "ru": "мораль",
+          "tk": "ahlak",
+          "en": "morality"
+        }
+      },
+      {
+        "hanzi": "传统",
+        "pinyin": "chuántǒng",
+        "meaning": {
+          "ru": "традиция",
+          "tk": "däp",
+          "en": "tradition"
+        }
+      },
+      {
+        "hanzi": "风俗",
+        "pinyin": "fēngsú",
+        "meaning": {
+          "ru": "обычай",
+          "tk": "urp-adat",
+          "en": "custom"
+        }
+      },
+      {
+        "hanzi": "制度",
+        "pinyin": "zhìdù",
+        "meaning": {
+          "ru": "система",
+          "tk": "ulgam",
+          "en": "system"
+        }
+      },
+      {
+        "hanzi": "秩序",
+        "pinyin": "zhìxù",
+        "meaning": {
+          "ru": "порядок",
+          "tk": "tertibi",
+          "en": "order"
+        }
+      },
+      {
+        "hanzi": "权力",
+        "pinyin": "quánlì",
+        "meaning": {
+          "ru": "власть",
+          "tk": "häkimiýet",
+          "en": "power"
+        }
+      },
+      {
+        "hanzi": "权利",
+        "pinyin": "quánlì",
+        "meaning": {
+          "ru": "право",
+          "tk": "hukuk",
+          "en": "right"
+        }
+      },
+      {
+        "hanzi": "义务",
+        "pinyin": "yìwù",
+        "meaning": {
+          "ru": "обязанность",
+          "tk": "borç",
+          "en": "duty"
+        }
+      },
+      {
+        "hanzi": "文明",
+        "pinyin": "wénmíng",
+        "meaning": {
+          "ru": "цивилизация",
+          "tk": "siwilizasiýa",
+          "en": "civilization"
+        }
+      },
+      {
+        "hanzi": "人口",
+        "pinyin": "rénkǒu",
+        "meaning": {
+          "ru": "население",
+          "tk": "ilat",
+          "en": "population"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "ru": "Какой известный человек вам нравится? Расскажите о нём и о его влиянии.",
+      "tk": "Haýsy meşhur adam size ýaraýar? Onuň barada we täsiri barada gürrüň beriň.",
+      "en": "Which famous person do you like? Talk about him/her and their influence."
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что Лу Синь любил делать?",
+          "tk": "Lu Sýun näme etmegi halaýardy?",
+          "en": "What did Lu Xun like to do?"
+        },
+        "options": [
+          "Готовить",
+          "Петь",
+          "Танцевать",
+          "Рисовать"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Сколько ресторанов посетил Лу Синь по дневникам?",
+          "tk": "Gündeliklerine görä Lu Sýun näçe restorana gidipdir?",
+          "en": "How many restaurants did Lu Xun visit per his diaries?"
+        },
+        "options": [
+          "15",
+          "65",
+          "150",
+          "650"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Как часто Лу Синь ходил в «Гуанхэцзюй»?",
+          "tk": "Lu Sýun «Guanhoczýuý» -a näçe gezek gidýärdi?",
+          "en": "How often did Lu Xun go to 'Guangheju'?"
+        },
+        "options": [
+          "Каждый день",
+          "Раз в неделю",
+          "Раз в месяц",
+          "Раз в год"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что Лу Синь не мог бросить?",
+          "tk": "Lu Sýun nämäni taşlap bilmedi?",
+          "en": "What couldn't Lu Xun quit?"
+        },
+        "options": [
+          "Кофе",
+          "Алкоголь",
+          "Чай",
+          "Сладости"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Кто часто пил с Лу Синем?",
+          "tk": "Lu Sýun bilen köplenç kim içýärdi?",
+          "en": "Who often drank with Lu Xun?"
+        },
+        "options": [
+          "Мао Дунь",
+          "Юй Дафу",
+          "Го Можо",
+          "Ба Цзинь"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что у Лу Синя было больное?",
+          "tk": "Lu Sýunyň nämesi agyryýardy?",
+          "en": "What was wrong with Lu Xun?"
+        },
+        "options": [
+          "Голова",
+          "Желудок",
+          "Сердце",
+          "Печень"
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«文学家» — это:",
+          "tk": "«文学家» kim?",
+          "en": "'文学家' means:"
+        },
+        "options": [
+          "Художник",
+          "Литератор",
+          "Учёный",
+          "Философ"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«地道» означает:",
+          "tk": "«地道» nämäni aňladýar?",
+          "en": "'地道' means:"
+        },
+        "options": [
+          "Фальшивый",
+          "Настоящий",
+          "Смешной",
+          "Скучный"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«行家» — это:",
+          "tk": "«行家» kim?",
+          "en": "'行家' means:"
+        },
+        "options": [
+          "Новичок",
+          "Знаток",
+          "Учитель",
+          "Критик"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«讲究» означает:",
+          "tk": "«讲究» nämäni aňladýar?",
+          "en": "'讲究' means:"
+        },
+        "options": [
+          "Пренебрегать",
+          "Разбираться / придавать значение",
+          "Изучать",
+          "Забывать"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что такое «胡同»?",
+          "tk": "«胡同» näme?",
+          "en": "What is '胡同'?"
+        },
+        "options": [
+          "Площадь",
+          "Переулок",
+          "Дом",
+          "Парк"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«豪华» означает:",
+          "tk": "«豪华» nämäni aňladýar?",
+          "en": "'豪华' means:"
+        },
+        "options": [
+          "Простой",
+          "Роскошный",
+          "Старый",
+          "Тесный"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«大方» — это:",
+          "tk": "«大方» nämäni aňladýar?",
+          "en": "'大方' means:"
+        },
+        "options": [
+          "Жадный",
+          "Щедрый",
+          "Застенчивый",
+          "Серьёзный"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«好客» означает:",
+          "tk": "«好客» nämäni aňladýar?",
+          "en": "'好客' means:"
+        },
+        "options": [
+          "Любить гостей",
+          "Любить клиентов",
+          "Любить одиночество",
+          "Любить шум"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что значит «胃口»?",
+          "tk": "«胃口» näme?",
+          "en": "What does '胃口' mean?"
+        },
+        "options": [
+          "Живот",
+          "Аппетит",
+          "Пища",
+          "Голод"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«曾经» означает:",
+          "tk": "«曾经» nämäni aňladýar?",
+          "en": "'曾经' means:"
+        },
+        "options": [
+          "Сейчас",
+          "Когда-то",
+          "Никогда",
+          "Всегда"
+        ],
+        "answer": 1
+      }
+    ],
+    "writing": [
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "因为",
+          "而",
+          "他",
+          "戒了酒",
+          "胃病"
+        ],
+        "answer": "他因为胃病而戒了酒"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "地道的",
+          "你这",
+          "快尝尝",
+          "传统点心"
+        ],
+        "answer": "你这快尝尝地道的传统点心"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "他",
+          "平均",
+          "要",
+          "招待一次客人",
+          "每两个星期"
+        ],
+        "answer": "他平均每两个星期要招待一次客人"
+      },
+      {
+        "type": "essay",
+        "prompt": {
+          "ru": "Сочинение 80+ иероглифов: 表现、大方、形象、作为、曾经",
+          "tk": "80+ iýeroglif: 表现、大方、形象、作为、曾经",
+          "en": "Essay 80+ chars: 表现、大方、形象、作为、曾经"
+        },
+        "min_length": 80,
+        "required_words": [
+          "表现",
+          "大方",
+          "形象",
+          "作为",
+          "曾经"
+        ]
+      }
+    ]
+  }
+}

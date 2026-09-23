@@ -1,0 +1,1171 @@
+{
+  "title": {
+    "zh": "纸上谈兵",
+    "ru": "Битва на бумаге",
+    "tk": "Kagyzda söweşmek",
+    "en": "Being an Armchair Strategist",
+    "uz": "Qog'ozda jang",
+    "tg": "Ҷанг дар коғаз"
+  },
+  "audio_files": {
+    "textbook_1": "textbook_1.mp3",
+    "textbook_2": "textbook_2.mp3",
+    "vocab": "vocab.mp3",
+    "workbook_53_1": "workbook_53-1.mp3",
+    "workbook_53_2": "workbook_53-2.mp3"
+  },
+  "warmup": {
+    "question": {
+      "ru": "Знаете ли вы историю периода Сражающихся царств?",
+      "tk": "Uruşýan patyşalyklar döwrüniň taryhyny bilýärsiňizmi?",
+      "en": "Do you know the history of the Warring States period?"
+    },
+    "answers": [
+      "战国",
+      "秦国",
+      "赵国",
+      "纸上谈兵",
+      "赵括"
+    ]
+  },
+  "text_zh": "两千七百多年前的战国末期，赵国名将赵奢有个儿子叫赵括，他从小读了不少兵书，跟别人谈论起军事来，没有人说得过他，就是父亲赵奢也难不住他。赵括因此很骄傲，自以为天下无敌，连父亲也不放在眼里。但是赵奢心里明白，自己的儿子虽然对军事理论都很了解，但是没有实际作战的经验，想法很不符合实际。他曾经偷偷对妻子说：「儿子的毛病是只会讲大道理，缺乏实际锻炼，不能当大将。如果让他当了大将，迟早会害了赵国。」几年后，赵奢去世了。这一年正好秦国军队来打赵国，赵国派老将廉颇带20万大军迎战。廉颇根据敌强我弱的形势，命令士兵们坚守阵地，绝对不可主动出战。秦军多次挑战，骂他是胆小鬼，他还是不出兵。这个办法果然非常有效，成功地把秦军拦在了国门之外。渐渐地，秦军无法快速取得胜利，粮食也快没了，有些坚持不住了。秦人深知廉颇善于用兵，如果想在短期内打败赵国，必须想办法叫赵国把廉颇调回去。于是，他们在赵国四处散布谣言，说秦军最怕赵括，别的人都不放在眼里。这时，赵王正因廉颇闭门不战而生气呢，听到外面的那些谣言，果然上当了，他派赵括去换回廉颇。赵括的母亲再三阻止赵王任命儿子为大将，说他还没有独立带兵作战的资格。可是，糊涂的赵王哪里听得进去！公元前260年，赵括带兵出战。一直盲目自信、轻视秦军的他完全改变了廉颇的作战方案，死搬兵书上的理论，主动进攻秦军，结果数十万赵军全部被杀，丢掉了宝贵的生命。这就是成语「纸上谈兵」的故事。现在常用这个成语讽刺那些只会空谈理论的人，提醒大家做事一定要灵活，要注意理论联系实际。",
+  "text_translation": {
+    "ru": "Более 2700 лет назад, в конце эпохи Сражающихся царств, у известного полководца царства Чжао Чжао Шэ был сын Чжао Ко. Он с детства читал военные трактаты и в разговорах о военном деле не знал равных — даже отец не мог его сбить. Чжао Ко возгордился, решил, что непобедим. Но Чжао Шэ понимал: сын знает теорию, но не имеет боевого опыта — мысли его оторваны от реальности. Он тайно сказал жене: «У сына недостаток — он говорит красиво, но лишён практики. Если он станет генералом, погубит Чжао». Через несколько лет Чжао Шэ умер. Как раз в это время царство Цинь напало на Чжао. Чжао послало старого генерала Лянь По с 200-тысячным войском. Лянь По, учитывая превосходство противника, приказал держать оборону и ни в коем случае не атаковать первым. Циньцы вызывали на бой, обзывали трусом — он не выходил. Это сработало: циньцев остановили у границы. Постепенно Цинь не могло быстро победить, припасы кончались. Циньцы понимали, что Лянь По — искусный военачальник, и чтобы победить Чжао, надо добиться его отзыва. Они распустили по Чжао слух: циньцы боятся Чжао Ко, остальных не ставят ни в грош. Чжаоский ван, раздосадованный, что Лянь По не выходит, поверил слуху и послал Чжао Ко на замену. Мать Чжао Ко умоляла вана не назначать сына главнокомандующим, но тщетно. В 260 году до н.э. Чжао Ко выступил. Ослеплённый самоуверенностью и презрением к Цинь, он полностью изменил план Лянь По, слепо следовал трактатам, сам пошёл в наступление — и сотни тысяч чжаоских солдат погибли. Так родился идиом «бумажный стратег» — о тех, кто только говорит о теории. Сейчас его используют в ироничном смысле, напоминая: надо быть гибким и связывать теорию с практикой.",
+    "en": "Over 2,700 years ago, at the end of the Warring States period, the famous general of Zhao, Zhao She, had a son named Zhao Kuo. He read many military books from childhood; no one could out-talk him about military affairs — even his father couldn't stump him. Zhao Kuo grew proud, thinking himself invincible, even dismissing his father. But Zhao She understood: his son knew military theory but had no real combat experience — his ideas didn't fit reality. He once secretly told his wife: 'The boy's weakness is talking big — he lacks practical training and cannot be a general. If he becomes one, sooner or later he'll harm Zhao.' Years later Zhao She died. That year Qin attacked Zhao; Zhao sent veteran general Lian Po with 200,000 troops. Given the enemy's strength and Zhao's weakness, Lian Po ordered strict defense — absolutely no proactive attack. Qin repeatedly challenged him, calling him a coward — he still didn't send troops. This worked very well, blocking Qin at the border. Gradually, Qin couldn't win quickly; supplies ran short. The Qin people knew Lian Po was skilled at warfare; to defeat Zhao quickly, they needed him recalled. So they spread rumors throughout Zhao: Qin feared Zhao Kuo most; others were nothing to them. The King of Zhao, already angry at Lian Po's refusal to fight, fell for it and sent Zhao Kuo to replace him. Zhao Kuo's mother repeatedly tried to stop the king from appointing her son, saying he had no qualification to command independently. But the muddleheaded king wouldn't listen! In 260 BC, Zhao Kuo led troops out. Blindly self-confident and contemptuous of Qin, he completely changed Lian Po's plan, rigidly followed the books, and proactively attacked — hundreds of thousands of Zhao soldiers died, precious lives lost. This is the origin of the idiom 'paper-talk on war'. Today it satirizes those who merely talk empty theory, reminding us: act flexibly and connect theory with practice.",
+    "tk": "2700 ýyldan has öň, Uruşýan patyşalyklar döwrüniň ahyrynda, Çžaonyň meşhur serkerdesi Çžao Şäniň Çžao Ko atly ogly bardy. Ol çagalykdan köp harby kitap okap, harby iş barada hiç kim ondan öňe geçip bilmedi — hatda kakasy hem ony bökdüp bilmedi. Çžao Ko şeýlelik bilen buýsanyp, özüni ýeňilmez hasaplady, hatda kakasyna hem üns bermedi. Emma Çžao Şä düşünýärdi: ogly harby teoriýany bilse-de, hakyky söweş tejribesi ýokdy — pikirleri hakykatdan daşdydy. Bir gezek gizlin aýalyna: «Oglanyň kemçiligi diňe uly geplemek — hakyky tejribesi ýok, serkerde bolup bilmez. Eger serkerde bolsa, ir-hem-giç Çžaoga zyýan ýetirer» diýdi. Birnäçe ýyldan Çžao Şä aradan çykdy. Şol ýyl hut Tsin goşuny Çžaoga hüjüm etdi; Çžao goşuna garşy 200 müň esger bilen garry serkerde Lýan Pony iberdi. Lýan Po duşmanyň güýçli, özleriniň gowşak bolany sebäpli berk goranyşy buýurdy — asla öňe hüjüm etmeli däldi. Tsin birnäçe gezek çagyryş berdi, ony gorkak diýip sögdi — ol goşun çykarmady. Bu usul örän netijeli boldy, Tsin goşunyny serhetde saklady. Kem-kemden Tsin çalt ýeňiş gazanyp bilmedi, azygy gutuldy. Tsinliler Lýan Ponyň harby ussatdygyny bilip, Çžaony çalt ýeňmek üçin Lýan Pony yzyna çagyrmagyň ýoluny gözlediler. Şeýlelikde Çžaonyň hemme ýerinde myş-myş ýaýratdylar: Tsin iň köp Çžao Kodan gorkýar, beýlekileri hasaplamaýar. Çžaonyň patyşasy Lýan Ponyň uruşman oturmagyna gaharlanyp, myş-myşlara ynanyp, Çžao Kony çalyşmaga iberdi. Çžao Konyň ejesi patyşany ogluny serkerde bellemekden gaýta-gaýta saklady, oglunyň özbaşdak goşun dolandırmaga hünäri ýokdugyny aýtdy. Emma akylsyz patyşa gulak asmady! Miladydan öň 260-njy ýylda Çžao Ko goşun bilen çykdy. Kör özüne ynanýan we Tsin goşunyny pes hasaplaýan ol Lýan Ponyň meýilnamasyny doly üýtgedip, kitaplara berk ýapyşyp, Tsin goşunyna özbaşdak hüjüm etdi — ýüz müňlerçe Çžao esgeri öldi, gymmatly durmuşlar ýitdi. Bu «kagyzda söweşmek» idiomynyň gelip çykyşy. Häzir bu idiom diňe boş teoriýa gepleýänleri ýaňsylaýar we bize aýdýar: işiňde çeýe bolmaly, teoriýany praktika bilen baglanyşdyrmaly."
+  },
+  "vocabulary": [
+    {
+      "hanzi": "纸上谈兵",
+      "pinyin": "zhǐshàng tánbīng",
+      "pos": "идиом",
+      "meaning": {
+        "ru": "бумажный стратег",
+        "tk": "kagyzda söweşiji",
+        "en": "armchair strategist"
+      }
+    },
+    {
+      "hanzi": "军事",
+      "pinyin": "jūnshì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "военное дело",
+        "tk": "harby iş",
+        "en": "military affairs"
+      }
+    },
+    {
+      "hanzi": "敌(人)",
+      "pinyin": "dí(rén)",
+      "pos": "n.",
+      "meaning": {
+        "ru": "враг",
+        "tk": "duşman",
+        "en": "enemy"
+      }
+    },
+    {
+      "hanzi": "理论",
+      "pinyin": "lǐlùn",
+      "pos": "n.",
+      "meaning": {
+        "ru": "теория",
+        "tk": "teoriýa",
+        "en": "theory"
+      }
+    },
+    {
+      "hanzi": "作战",
+      "pinyin": "zuòzhàn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "воевать",
+        "tk": "söweşmek",
+        "en": "to fight a battle"
+      }
+    },
+    {
+      "hanzi": "毛病",
+      "pinyin": "máobìng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "недостаток, изъян",
+        "tk": "kemçilik",
+        "en": "shortcoming"
+      }
+    },
+    {
+      "hanzi": "道理",
+      "pinyin": "dàolǐ",
+      "pos": "n.",
+      "meaning": {
+        "ru": "принцип, разум",
+        "tk": "pikir, esas",
+        "en": "principle"
+      }
+    },
+    {
+      "hanzi": "迟早",
+      "pinyin": "chízǎo",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "рано или поздно",
+        "tk": "ir-hem-giç",
+        "en": "sooner or later"
+      }
+    },
+    {
+      "hanzi": "军队",
+      "pinyin": "jūnduì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "армия",
+        "tk": "goşun",
+        "en": "army"
+      }
+    },
+    {
+      "hanzi": "派",
+      "pinyin": "pài",
+      "pos": "v.",
+      "meaning": {
+        "ru": "посылать",
+        "tk": "ibermek",
+        "en": "to send"
+      }
+    },
+    {
+      "hanzi": "弱",
+      "pinyin": "ruò",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "слабый",
+        "tk": "güýçsüz",
+        "en": "weak"
+      }
+    },
+    {
+      "hanzi": "形势",
+      "pinyin": "xíngshì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "ситуация",
+        "tk": "ýagdaý",
+        "en": "situation"
+      }
+    },
+    {
+      "hanzi": "命令",
+      "pinyin": "mìnglìng",
+      "pos": "v./n.",
+      "meaning": {
+        "ru": "приказывать; приказ",
+        "tk": "buýurmak; buýruk",
+        "en": "to command"
+      }
+    },
+    {
+      "hanzi": "守",
+      "pinyin": "shǒu",
+      "pos": "v.",
+      "meaning": {
+        "ru": "оборонять",
+        "tk": "goramak",
+        "en": "to guard"
+      }
+    },
+    {
+      "hanzi": "阵地",
+      "pinyin": "zhèndì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "позиция",
+        "tk": "pozisiýa",
+        "en": "position"
+      }
+    },
+    {
+      "hanzi": "绝对",
+      "pinyin": "juéduì",
+      "pos": "adj./adv.",
+      "meaning": {
+        "ru": "абсолютный; абсолютно",
+        "tk": "mutlak; asla",
+        "en": "absolute"
+      }
+    },
+    {
+      "hanzi": "主动",
+      "pinyin": "zhǔdòng",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "инициативный",
+        "tk": "işjen",
+        "en": "on one's initiative"
+      }
+    },
+    {
+      "hanzi": "挑战",
+      "pinyin": "tiǎozhàn",
+      "pos": "v./n.",
+      "meaning": {
+        "ru": "бросать вызов",
+        "tk": "çagyryş",
+        "en": "to challenge"
+      }
+    },
+    {
+      "hanzi": "骂",
+      "pinyin": "mà",
+      "pos": "v.",
+      "meaning": {
+        "ru": "ругать",
+        "tk": "sögmek",
+        "en": "to curse"
+      }
+    },
+    {
+      "hanzi": "胆小鬼",
+      "pinyin": "dǎnxiǎoguǐ",
+      "pos": "n.",
+      "meaning": {
+        "ru": "трус",
+        "tk": "gorkak",
+        "en": "coward"
+      }
+    },
+    {
+      "hanzi": "胜利",
+      "pinyin": "shènglì",
+      "pos": "v.",
+      "meaning": {
+        "ru": "победить",
+        "tk": "ýeňmek",
+        "en": "to win"
+      }
+    },
+    {
+      "hanzi": "调(动)",
+      "pinyin": "diào(dòng)",
+      "pos": "v.",
+      "meaning": {
+        "ru": "переводить, отзывать",
+        "tk": "çagyryp almak",
+        "en": "to transfer"
+      }
+    },
+    {
+      "hanzi": "散布",
+      "pinyin": "sànbù",
+      "pos": "v.",
+      "meaning": {
+        "ru": "распускать",
+        "tk": "ýaýratmak",
+        "en": "to spread"
+      }
+    },
+    {
+      "hanzi": "谣言",
+      "pinyin": "yáoyán",
+      "pos": "n.",
+      "meaning": {
+        "ru": "слух",
+        "tk": "myş-myş",
+        "en": "rumor"
+      }
+    },
+    {
+      "hanzi": "上当",
+      "pinyin": "shàngdàng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "попасться",
+        "tk": "aldanmak",
+        "en": "to be taken in"
+      }
+    },
+    {
+      "hanzi": "再三",
+      "pinyin": "zàisān",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "неоднократно",
+        "tk": "gaýta-gaýta",
+        "en": "again and again"
+      }
+    },
+    {
+      "hanzi": "阻止",
+      "pinyin": "zǔzhǐ",
+      "pos": "v.",
+      "meaning": {
+        "ru": "останавливать",
+        "tk": "päsgel bermek",
+        "en": "to stop"
+      }
+    },
+    {
+      "hanzi": "任命",
+      "pinyin": "rènmìng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "назначать",
+        "tk": "belilemek",
+        "en": "to appoint"
+      }
+    },
+    {
+      "hanzi": "独立",
+      "pinyin": "dúlì",
+      "pos": "v.",
+      "meaning": {
+        "ru": "самостоятельный",
+        "tk": "özbaşdak",
+        "en": "independent"
+      }
+    },
+    {
+      "hanzi": "资格",
+      "pinyin": "zīgé",
+      "pos": "n.",
+      "meaning": {
+        "ru": "квалификация",
+        "tk": "hünär derejesi",
+        "en": "qualification"
+      }
+    },
+    {
+      "hanzi": "糊涂",
+      "pinyin": "hútú",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "глупый, бестолковый",
+        "tk": "akylsyz",
+        "en": "muddleheaded"
+      }
+    },
+    {
+      "hanzi": "公元",
+      "pinyin": "gōngyuán",
+      "pos": "n.",
+      "meaning": {
+        "ru": "наша эра",
+        "tk": "bizim eramyz",
+        "en": "Christian era"
+      }
+    },
+    {
+      "hanzi": "盲目",
+      "pinyin": "mángmù",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "слепой",
+        "tk": "kör",
+        "en": "blind"
+      }
+    },
+    {
+      "hanzi": "轻视",
+      "pinyin": "qīngshì",
+      "pos": "v.",
+      "meaning": {
+        "ru": "пренебрегать",
+        "tk": "äsgermezlik etmek",
+        "en": "to look down upon"
+      }
+    },
+    {
+      "hanzi": "方案",
+      "pinyin": "fāng'àn",
+      "pos": "n.",
+      "meaning": {
+        "ru": "план, схема",
+        "tk": "meýilnama",
+        "en": "plan"
+      }
+    },
+    {
+      "hanzi": "进攻",
+      "pinyin": "jìngōng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "наступать",
+        "tk": "hüjüm etmek",
+        "en": "to attack"
+      }
+    },
+    {
+      "hanzi": "宝贵",
+      "pinyin": "bǎoguì",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "драгоценный",
+        "tk": "gymmatly",
+        "en": "precious"
+      }
+    },
+    {
+      "hanzi": "讽刺",
+      "pinyin": "fěngcì",
+      "pos": "v.",
+      "meaning": {
+        "ru": "высмеивать",
+        "tk": "ýaňsylamak",
+        "en": "to satirize"
+      }
+    },
+    {
+      "hanzi": "灵活",
+      "pinyin": "línghuó",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "гибкий",
+        "tk": "çeýe",
+        "en": "flexible"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "过",
+      "pos": "глагол направления",
+      "explanation": {
+        "ru": "«动词+得过/不过» — «превосходить / уступать».",
+        "tk": "«动词+得过/不过» — «ýeňmek / ýeňilmek».",
+        "en": "'V + 得过/不过' — 'to surpass / to fall short'."
+      },
+      "examples": [
+        {
+          "zh": "跟别人谈论起军事来，没有人说得过他。",
+          "ru": "В разговорах о военном деле никто не мог его превзойти.",
+          "tk": "Harby iş barada gürrüňde hiç kim ondan öňe geçip bilmedi.",
+          "en": "In military talk, no one could outdo him."
+        },
+        {
+          "zh": "年轻人记忆力好，这一点我比不过你们。",
+          "ru": "У молодых память лучше — в этом я вам уступаю.",
+          "tk": "Ýaşlaryň ýady gowy — bu meselede men size ýetip bilemok.",
+          "en": "Young people have better memory — I can't match you in this."
+        },
+        {
+          "zh": "我们的原材料贵，人工费用高，产品在价格上肯定竞争不过他们。",
+          "ru": "Наше сырьё дороже, оплата труда выше — в цене мы точно не потягаемся.",
+          "tk": "Çig malymyz gymmat, zähmet haky ýokary — bahada bäsdeşlik edip bilemzok.",
+          "en": "Our materials are pricier, labor costs higher — we can't compete on price."
+        },
+        {
+          "zh": "李阳受过专业训练，一般人比不过他。",
+          "ru": "Ли Ян прошёл профессиональную подготовку — обычному не сравниться.",
+          "tk": "Li Ýan hünär taýýarlygyny geçdi — adaty adam ýetip bilmez.",
+          "en": "Li Yang had professional training — ordinary people can't compare."
+        },
+        {
+          "zh": "虽然他已经五十多岁了，但干起活儿来，谁也累不过他。",
+          "ru": "Хотя ему за пятьдесят, в работе никто его не переработает.",
+          "tk": "Ol elliden geçen bolsa-da, işde hiç kim ondan ýadamaz.",
+          "en": "Though over fifty, no one can outwork him."
+        },
+        {
+          "zh": "这道题太难了，我做不过。",
+          "ru": "Задача слишком сложная — я не справлюсь.",
+          "tk": "Bu mesele gaty kyn — men başaryp bilemok.",
+          "en": "This problem is too hard — I can't do it."
+        },
+        {
+          "zh": "他跑得比我快，我追不过。",
+          "ru": "Он бегает быстрее меня — мне не догнать.",
+          "tk": "Ol menden çalt ylgýar — men kowup bilemok.",
+          "en": "He runs faster — I can't catch him."
+        },
+        {
+          "zh": "我说不过他，就先听他说吧。",
+          "ru": "Мне его не переубедить — послушаю.",
+          "tk": "Men onyň bilen jedelleşip bilemok — gulak asaýyn.",
+          "en": "I can't out-argue him — let's listen first."
+        },
+        {
+          "zh": "他力气大得惊人，谁也扳不过他。",
+          "ru": "Он невероятно силён — никто его не переборет.",
+          "tk": "Onuň güýji haýran galdyryjy — hiç kim ony ýeňip bilmez.",
+          "en": "He's incredibly strong — no one can overpower him."
+        },
+        {
+          "zh": "这个小孩很聪明，大人也说不过他。",
+          "ru": "Этот ребёнок очень умён — даже взрослые не могут его переспорить.",
+          "tk": "Bu çaga örän akylly — hatda ulular hem oňa garşy aýdyp bilemez.",
+          "en": "This child is very smart — even adults can't out-argue him."
+        }
+      ]
+    },
+    {
+      "word": "迟早",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«迟早» — «рано или поздно».",
+        "tk": "«迟早» — «ir-hem-giç».",
+        "en": "'迟早' means 'sooner or later'."
+      },
+      "examples": [
+        {
+          "zh": "如果让他当了大将，迟早会害了赵国。",
+          "ru": "Если он станет генералом, рано или поздно это погубит Чжао.",
+          "tk": "Ol serkerde bolsa, ir-hem-giç Çžaoguo-ny zaýalar.",
+          "en": "If he becomes a general, sooner or later he'll ruin Zhao."
+        },
+        {
+          "zh": "随着网络技术的发展，这些问题迟早都会得到解决。",
+          "ru": "С развитием сетевых технологий эти проблемы рано или поздно решатся.",
+          "tk": "Tor tehnologiýalarynyň ösmegi bilen bu meseleler ir-hem-giç çözüler.",
+          "en": "With network tech, these problems will be solved sooner or later."
+        },
+        {
+          "zh": "如果不重视技术研究和产品开发，我们迟早会被别人挤出市场。",
+          "ru": "Если не重视 НИОКР, нас рано или поздно вытеснят с рынка.",
+          "tk": "Tehnologiýa we önüm işläp çykmaga üns bermesek, bizi ir-hem-giç bazardan gysarlar.",
+          "en": "If we neglect R&D, we'll be pushed out of the market sooner or later."
+        },
+        {
+          "zh": "你要认真学习，否则迟早会后悔。",
+          "ru": "Учись серьёзно, иначе рано или поздно пожалеешь.",
+          "tk": "Çynlakaý oka, ýogsam ir-hem-giç puşman edersiň.",
+          "en": "Study hard, or you'll regret it sooner or later."
+        },
+        {
+          "zh": "真相迟早会大白的。",
+          "ru": "Правда рано или поздно раскроется.",
+          "tk": "Hakykat ir-hem-giç aýan bolar.",
+          "en": "The truth will come out sooner or later."
+        },
+        {
+          "zh": "这种坏习惯迟早要改。",
+          "ru": "Эту дурную привычку рано или поздно придётся бросить.",
+          "tk": "Bu erbet endigi ir-hem-giç taşlamaly.",
+          "en": "This bad habit must be dropped sooner or later."
+        },
+        {
+          "zh": "迟到的人迟早会被批评。",
+          "ru": "Тот, кто опаздывает, рано или поздно получит выговор.",
+          "tk": "Gijä galýan ir-hem-giç käýilýär.",
+          "en": "Those who are late will be criticized sooner or later."
+        },
+        {
+          "zh": "谎言迟早会被识破。",
+          "ru": "Ложь рано или поздно раскроется.",
+          "tk": "Ýalan ir-hem-giç aýan bolar.",
+          "en": "Lies will be exposed sooner or later."
+        },
+        {
+          "zh": "努力迟早会有回报的。",
+          "ru": "Усилия рано или поздно воздадутся.",
+          "tk": "Tagallalar ir-hem-giç öwezini dolýar.",
+          "en": "Efforts will pay off sooner or later."
+        },
+        {
+          "zh": "迟早你得自己做决定。",
+          "ru": "Рано или поздно тебе придётся решить самому.",
+          "tk": "Ir-hem-giç özüň karar bermeli bolarsyň.",
+          "en": "Sooner or later you'll have to decide yourself."
+        }
+      ]
+    },
+    {
+      "word": "再三",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«再三» — «неоднократно». Может стоять и перед, и после глагола.",
+        "tk": "«再三» — «gaýta-gaýta».",
+        "en": "'再三' means 'again and again'. Can come before or after verb."
+      },
+      "examples": [
+        {
+          "zh": "赵括的母亲再三阻止赵王任命儿子为大将。",
+          "ru": "Мать Чжао Ко неоднократно отговаривала вана назначать сына генералом.",
+          "tk": "Çžao Konyň ejesi wanyň ogly serkerde bellemegini gaýta-gaýta saklady.",
+          "en": "Zhao Kuo's mother repeatedly stopped the king from appointing her son."
+        },
+        {
+          "zh": "我最近这段时间特别忙，实在没时间参加小王的活动，可他再三邀请，出于礼貌，我只好答应了。",
+          "ru": "Я очень занят — не до мероприятия Сяо Вана, но он трижды приглашал — из вежливости пришлось согласиться.",
+          "tk": "Men gaty meşgul — Sýao Wanyň çäresine wagt ýok, ýöne ol gaýta-gaýta çagyrdy — edeplik üçin razy boldum.",
+          "en": "I'm swamped, but he invited me repeatedly — out of politeness I agreed."
+        },
+        {
+          "zh": "朋友请他做公司的总经理，他考虑再三，最后还是客气地拒绝了。",
+          "ru": "Друг предложил ему пост генерального директора — подумав много раз, он вежливо отказался.",
+          "tk": "Dosty oňa baş direktor wezipesini teklip etdi — ol köp oýlanyp, sypaýylyk bilen ret etdi.",
+          "en": "A friend offered him the GM position — after much thought, he politely declined."
+        },
+        {
+          "zh": "他再三道歉，我才原谅了他。",
+          "ru": "Он много раз извинялся — только тогда я его простил.",
+          "tk": "Ol gaýta-gaýta ötünç sorady — şonda men ony bagyşladym.",
+          "en": "He apologized repeatedly before I forgave him."
+        },
+        {
+          "zh": "医生再三叮嘱他要按时吃药。",
+          "ru": "Врач неоднократно напоминал принимать лекарство вовремя.",
+          "tk": "Lukman oňa dermany wagtynda içmegi gaýta-gaýta aýtdy.",
+          "en": "The doctor repeatedly reminded him to take medicine on time."
+        },
+        {
+          "zh": "妈妈再三嘱咐我路上小心。",
+          "ru": "Мама неоднократно напоминала мне быть осторожным в пути.",
+          "tk": "Ejem ýolda seresap bolmagy gaýta-gaýta aýtdy.",
+          "en": "Mom repeatedly reminded me to be careful on the road."
+        },
+        {
+          "zh": "我再三考虑，还是决定不去。",
+          "ru": "Я много раз думал и всё же решил не идти.",
+          "tk": "Men köp oýlandym, gitmezlik kararyna geldim.",
+          "en": "I thought it over repeatedly and decided not to go."
+        },
+        {
+          "zh": "领导再三强调安全问题。",
+          "ru": "Руководитель неоднократно подчёркивал вопросы безопасности.",
+          "tk": "Ýolbaşçy howpsuzlyk meselesini gaýta-gaýta nygtady.",
+          "en": "The leader repeatedly stressed safety."
+        },
+        {
+          "zh": "他再三请求，我才答应帮他。",
+          "ru": "Он много раз просил — я согласился помочь.",
+          "tk": "Ol gaýta-gaýta haýyş etdi — men kömek etmäge razy boldum.",
+          "en": "He begged repeatedly — I agreed to help."
+        },
+        {
+          "zh": "这道题我再三检查，还是有错。",
+          "ru": "Эту задачу я проверял несколько раз — всё равно есть ошибка.",
+          "tk": "Bu meseläni birnäçe gezek barladym — ýene ýalňyş bar.",
+          "en": "I checked this exercise several times — still an error."
+        }
+      ]
+    },
+    {
+      "word": "糊涂",
+      "pos": "adj.",
+      "explanation": {
+        "ru": "«糊涂» — «глупый, бестолковый; спутанный в мыслях».",
+        "tk": "«糊涂» — «akylsyz, kellesi garışyk».",
+        "en": "'糊涂' means 'muddleheaded, confused'."
+      },
+      "examples": [
+        {
+          "zh": "可是，糊涂的赵王哪里听得进去！",
+          "ru": "Но бестолковый ван Чжао куда там — не стал слушать!",
+          "tk": "Emma akylsyz Çžao wany gulak asmady!",
+          "en": "But the muddleheaded King of Zhao wouldn't listen!"
+        },
+        {
+          "zh": "你这脑子可真糊涂，银行卡的密码怎么能忘了呢？",
+          "ru": "Ну и голова — как можно забыть пароль от карты?",
+          "tk": "Kelläň gaty garışyk — bank kartynyň parolyny nähili ýatdan çykaryp bolar?",
+          "en": "How muddled — how can you forget your bank PIN?"
+        },
+        {
+          "zh": "人老了，有时会糊涂。",
+          "ru": "С возрастом люди становятся забывчивыми.",
+          "tk": "Adam garraýança käte kellesi garışýar.",
+          "en": "As people age, they sometimes get confused."
+        },
+        {
+          "zh": "他一时糊涂，做了错事。",
+          "ru": "Он по глупости совершил ошибку.",
+          "tk": "Ol akylsyzlyk edip, ýalňyş iş etdi.",
+          "en": "He made a mistake in a moment of foolishness."
+        },
+        {
+          "zh": "别装糊涂了，你明明知道。",
+          "ru": "Не прикидывайся дурачком — ты прекрасно знаешь.",
+          "tk": "Akylsyz görünme — sen gowy bilýärsiň.",
+          "en": "Don't play dumb — you clearly know."
+        },
+        {
+          "zh": "年龄大了，脑子糊涂也正常。",
+          "ru": "С возрастом быть забывчивым — нормально.",
+          "tk": "Ýaş uly bolanda kelläniň garışmagy adaty.",
+          "en": "As you age, getting confused is normal."
+        },
+        {
+          "zh": "这事把我搞糊涂了。",
+          "ru": "Это дело меня запутало.",
+          "tk": "Bu iş meni bulaşdyrdy.",
+          "en": "This has muddled me."
+        },
+        {
+          "zh": "他糊涂了一辈子，老了反而明白事理了。",
+          "ru": "Он всю жизнь был несообразительным, а к старости вдруг поумнел.",
+          "tk": "Ol bütin ömrüni kellesi garışyk geçirdi, garraansoň akylly boldy.",
+          "en": "He was muddleheaded all his life — but in old age he became wise."
+        },
+        {
+          "zh": "你在学习上不能糊涂，要认真。",
+          "ru": "В учёбе нельзя быть рассеянным — надо серьёзно.",
+          "tk": "Okuwda kelläň garışyk bolmaly däl — çynlakaý bolmaly.",
+          "en": "In studies, you can't be confused — you must be serious."
+        },
+        {
+          "zh": "最近事情太多，我都有点儿糊涂了。",
+          "ru": "В последнее время столько дел — я совсем запутался.",
+          "tk": "Soňky wagtlarda iş köp — men bulaşdym.",
+          "en": "So much has been going on — I'm muddled."
+        }
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "pattern": "动词 + 宾语",
+      "items": [
+        "轻视对方 / 科学 / 成果 / 工作 / 知识",
+        "善于学习 / 发现 / 总结 / 表达 / 分析"
+      ]
+    },
+    {
+      "pattern": "定语 + 中心语",
+      "items": [
+        "糊涂（的）孩子 / 领导 / 话 / 看法 / 脑子",
+        "宝贵（的）机会 / 生命 / 经验 / 意见 / 时间"
+      ]
+    },
+    {
+      "pattern": "状语 + 中心语",
+      "items": [
+        "独立（地）生活 / 分析 / 工作 / 完成 / 发展",
+        "主动（地）表示 / 提出 / 建议 / 反映 / 帮助"
+      ]
+    },
+    {
+      "pattern": "主语 + 谓语",
+      "items": [
+        "形势好转 / 乐观 / 危险 / 严重 / 紧张",
+        "毛病多 / （被）克服"
+      ]
+    },
+    {
+      "pattern": "数量词 + 名词",
+      "items": [
+        "一支军队",
+        "一场战争 / 战斗"
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "胜利",
+      "word_b": "成功",
+      "common": {
+        "ru": "Оба — «добиться цели».",
+        "tk": "Ikisi hem «maksada ýetmek».",
+        "en": "Both mean 'to reach the goal'."
+      },
+      "differences": [
+        {
+          "ru": "«胜利» — «победить кого-то»: 谁坚持到最后，谁就是这场比赛的胜利者。",
+          "tk": "«胜利» — «birini ýeňmek».",
+          "en": "'胜利' means 'to defeat someone': whoever lasts to the end wins."
+        },
+        {
+          "ru": "«成功» — «получить результат»: 实验成功了。",
+          "tk": "«成功» — «netije almak».",
+          "en": "'成功' means 'to get a result': the experiment succeeded."
+        },
+        {
+          "ru": "«成功» как прилагательное: 他成功了。",
+          "tk": "«成功» sypat hökmünde hem gelýär.",
+          "en": "'成功' can be adjective: he succeeded."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "ru": "Военное дело",
+      "tk": "Harby iş",
+      "en": "Military"
+    },
+    "words": [
+      {
+        "hanzi": "枪",
+        "pinyin": "qiāng",
+        "meaning": {
+          "ru": "винтовка",
+          "tk": "tüpeň",
+          "en": "gun"
+        }
+      },
+      {
+        "hanzi": "射击",
+        "pinyin": "shèjī",
+        "meaning": {
+          "ru": "стрельба",
+          "tk": "atylgy",
+          "en": "shooting"
+        }
+      },
+      {
+        "hanzi": "英雄",
+        "pinyin": "yīngxióng",
+        "meaning": {
+          "ru": "герой",
+          "tk": "gahryman",
+          "en": "hero"
+        }
+      },
+      {
+        "hanzi": "士兵",
+        "pinyin": "shìbīng",
+        "meaning": {
+          "ru": "солдат",
+          "tk": "esger",
+          "en": "soldier"
+        }
+      },
+      {
+        "hanzi": "敌人",
+        "pinyin": "dírén",
+        "meaning": {
+          "ru": "враг",
+          "tk": "duşman",
+          "en": "enemy"
+        }
+      },
+      {
+        "hanzi": "战争",
+        "pinyin": "zhànzhēng",
+        "meaning": {
+          "ru": "война",
+          "tk": "uruş",
+          "en": "war"
+        }
+      },
+      {
+        "hanzi": "胜利",
+        "pinyin": "shènglì",
+        "meaning": {
+          "ru": "победа",
+          "tk": "ýeňiş",
+          "en": "victory"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "ru": "Как связать теорию с практикой? Приведите пример из жизни.",
+      "tk": "Teoriýany praktika bilen nähili baglanyşdyrmaly? Durmuşdan mysal getiriň.",
+      "en": "How do you connect theory with practice? Give an example."
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Кем был Чжао Ко?",
+          "tk": "Çžao Ko kim boldy?",
+          "en": "Who was Zhao Kuo?"
+        },
+        "options": [
+          "Крестьянином",
+          "Сыном полководца",
+          "Царём",
+          "Писцом"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Как он знал военную теорию?",
+          "tk": "Harby teoriýany nähili bilýärdi?",
+          "en": "How well did he know military theory?"
+        },
+        "options": [
+          "Плохо",
+          "Хорошо, но без опыта",
+          "Не знал",
+          "Забыл"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Кто вел оборону?",
+          "tk": "Goranyşa kim ýolbaşçylyk etdi?",
+          "en": "Who led the defense?"
+        },
+        "options": [
+          "Чжао Ко",
+          "Лянь По",
+          "Царь",
+          "Мать"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Как циньцы победили?",
+          "tk": "Tsinliler nähili ýeňdiler?",
+          "en": "How did Qin win?"
+        },
+        "options": [
+          "Прямо",
+          "Распустив слух",
+          "Осадив город",
+          "Ночной атакой"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что сделал Чжао Ко?",
+          "tk": "Çžao Ko näme etdi?",
+          "en": "What did Zhao Kuo do?"
+        },
+        "options": [
+          "Сохранил план",
+          "Изменил план и атаковал",
+          "Сдался",
+          "Уехал"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что означает «纸上谈兵»?",
+          "tk": "«Kagyzda söweşmek» nämäni aňladýar?",
+          "en": "What does '纸上谈兵' mean?"
+        },
+        "options": [
+          "Битва на карте",
+          "Пустая теория",
+          "Письмо военному",
+          "Бумажная война"
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«军事» — это:",
+          "tk": "«军事» näme?",
+          "en": "'军事' means:"
+        },
+        "options": [
+          "Школа",
+          "Военное дело",
+          "Книга",
+          "Игра"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«理论» означает:",
+          "tk": "«理论» nämäni aňladýar?",
+          "en": "'理论' means:"
+        },
+        "options": [
+          "Практика",
+          "Теория",
+          "Опыт",
+          "Работа"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«毛病» — это:",
+          "tk": "«毛病» näme?",
+          "en": "'毛病' means:"
+        },
+        "options": [
+          "Лекарство",
+          "Недостаток",
+          "Умение",
+          "Характер"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«迟早» означает:",
+          "tk": "«迟早» nämäni aňladýar?",
+          "en": "'迟早' means:"
+        },
+        "options": [
+          "Никогда",
+          "Рано или поздно",
+          "Только сейчас",
+          "Всегда"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«命令» — это:",
+          "tk": "«命令» näme?",
+          "en": "'命令' means:"
+        },
+        "options": [
+          "Просьба",
+          "Приказ",
+          "Совет",
+          "Вопрос"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«主动» означает:",
+          "tk": "«主动» nämäni aňladýar?",
+          "en": "'主动' means:"
+        },
+        "options": [
+          "Пассивный",
+          "Инициативный",
+          "Ленивый",
+          "Слабый"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«谣言» — это:",
+          "tk": "«谣言» näme?",
+          "en": "'谣言' means:"
+        },
+        "options": [
+          "Правда",
+          "Слух",
+          "Новость",
+          "Письмо"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«再三» означает:",
+          "tk": "«再三» nämäni aňladýar?",
+          "en": "'再三' means:"
+        },
+        "options": [
+          "Однажды",
+          "Неоднократно",
+          "Всегда",
+          "Никогда"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что значит «糊涂»?",
+          "tk": "«糊涂» nämäni aňladýar?",
+          "en": "What does '糊涂' mean?"
+        },
+        "options": [
+          "Умный",
+          "Бестолковый",
+          "Хитрый",
+          "Серьёзный"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«灵活» означает:",
+          "tk": "«灵活» nämäni aňladýar?",
+          "en": "'灵活' means:"
+        },
+        "options": [
+          "Жёсткий",
+          "Гибкий",
+          "Слабый",
+          "Медленный"
+        ],
+        "answer": 1
+      }
+    ],
+    "writing": [
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "他对",
+          "很深的",
+          "这种军事理论",
+          "理解",
+          "有"
+        ],
+        "answer": "他对这种军事理论有很深的理解"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "都",
+          "谁",
+          "轻视",
+          "别人",
+          "没有资格"
+        ],
+        "answer": "谁都没有资格轻视别人"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "这个故事",
+          "那些",
+          "讽刺的是",
+          "不懂得",
+          "灵活变通的人"
+        ],
+        "answer": "这个故事讽刺的是那些不懂得灵活变通的人"
+      },
+      {
+        "type": "essay",
+        "prompt": {
+          "ru": "Сочинение 80+ иероглифов: 毛病、道理、阻止、独立、宝贵",
+          "tk": "80+ iýeroglif: 毛病、道理、阻止、独立、宝贵",
+          "en": "Essay 80+ chars: 毛病、道理、阻止、独立、宝贵"
+        },
+        "min_length": 80,
+        "required_words": [
+          "毛病",
+          "道理",
+          "阻止",
+          "独立",
+          "宝贵"
+        ]
+      }
+    ]
+  }
+}

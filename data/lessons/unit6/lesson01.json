@@ -1,0 +1,1147 @@
+{
+  "title": {
+    "zh": "体重与节食",
+    "ru": "Вес и диета",
+    "tk": "Agram we iýmit çäklendirmesi",
+    "en": "Weight and Diet",
+    "uz": "Vazn va parhez",
+    "tg": "Вазн ва парҳез"
+  },
+  "audio_files": {
+    "textbook_1": "textbook_1.mp3",
+    "textbook_2": "textbook_2.mp3",
+    "vocab": "vocab.mp3",
+    "workbook_61_1": "workbook_61-1.mp3",
+    "workbook_61_2": "workbook_61-2.mp3"
+  },
+  "warmup": {
+    "question": {
+      "ru": "Знаете ли вы эффективные способы похудеть?",
+      "tk": "Arryklamagyň täsirli usullaryny bilýärsiňizmi?",
+      "en": "Do you know effective ways to lose weight?"
+    },
+    "answers": [
+      "体重",
+      "节食",
+      "减肥",
+      "营养",
+      "苗条"
+    ]
+  },
+  "text_zh": "据报道，医学专家进行了一项新研究，研究发现：由于人们在一周内的营养摄入和饮食模式会影响到他们的体重变化，因此节食者的体重会在一周内上下波动。总共有80名年龄在25-62岁之间的成年人参与了这项研究。研究人员根据他们的相对体重变化将其分为三种类型：体重减轻者、体重增加者和体重保持者。这些成年人在每天起床之后、早餐之前称一下自己的体重，为了保证可靠性，只有那些至少连续7天以上称过体重的人才会被纳入分析。对这些志愿者的跟踪调查时间最短为15天，最长为330天。研究成果显示：这些人的体重变化表现出清晰的模式，即周末之后体重升高，在工作日体重减轻（周五达到最低点）。研究人员还意外地发现，体重减轻者和体重增加者在体重波动模式上存在着明显不同。体重减轻者会表现出较强的补偿模式，即在周末之后体重立即下降，这一下降趋势直至周五结束；而体重增加者每天的体重都会存在差异，他们在工作日的体重并无明显减轻。这项联合多所医学院校所做的研究发现，除了个别人以外，多数人体重的增加会从周六开始，而体重减轻则会从周二开始，特别是对于那些体重减轻者和体重保持者来说更是如此。它表明人们的体重变化在一周内会显示出一种明显的规律，工作日和周末体重的临时变化应该被视为正常现象，而非真正的体重增加，这是由于人们在周末会有更多的时间外出就餐。周末对饮食稍微有些放纵影响不大，但为了能成功减轻体重，想要变苗条的节食者应注意到这种变化规律，周末之后不要再找任何吃美食的借口，应及时采取措施阻止这一上升趋势。",
+  "text_translation": {
+    "ru": "Согласно сообщениям, медицинские эксперты провели новое исследование: питание и режим еды в течение недели влияют на изменение веса — у соблюдающих диету вес колеблется в пределах недели. Участвовало 80 взрослых в возрасте 25–62 лет. Их разделили по типу изменения веса: теряющие, набирающие и сохраняющие. Каждый день после пробуждения, до завтрака, они взвешивались; для надёжности анализировались только те, кто взвешивался минимум 7 дней подряд. Наблюдение — от 15 до 330 дней. Результат: чёткий паттерн — после выходных вес выше, в рабочие дни падает (минимум к пятнице). Обнаружено: теряющие вес после выходных резко его сбрасывают, тренд идёт вниз до пятницы; набирающие же каждый день колеблются, и в рабочие дни вес особо не снижается. Вывод: у большинства вес растёт с субботы и падает со вторника; колебания в течение недели — норма, не реальный набор. В выходные больше едят вне дома. Небольшое послабление в еде на выходных не критично, но чтобы действительно похудеть, соблюдающие диету должны учитывать эту закономерность: после выходных не искать повода для вкусной еды и вовремя принимать меры против роста веса.",
+    "tk": "Habarlara görä, lukmançylyk hünärmenleri täze gözleg geçirdiler: bir hepdäniň dowamynda iýmit we nahar tertibi agramyň üýtgemegine täsir edýär — berhiz tutýanlaryň agramy bir hepdäniň dowamynda üýtgeýär. 25–62 ýaş aralygyndaky 80 adam gatnaşdy. Olar agram üýtgemegine görä üç topara bölündi: arryklaýanlar, semreýänler we saklaýanlar. Her gün irden turandan soň, ertirlik naharyndan öň özlerini çekdiler. Netije: hepdäniň dowamynda anyk tertip bar — dynç günlerinden soň agram ýokary, iş günlerinde aşak (iň pes nokat anna güni). Arryklaýanlar dynç günlerinden soň agramy derrew aşak düşürýärler; semreýänlerde bolsa her gün üýtgeşme bar we iş günlerinde agram aşak düşmeýär. Netije: köp adamda agram şenbe güni ösüp başlaýar we sişenbe güni aşak düşýär. Hepdäniň dowamyndaky üýtgeşmeler kadaly — hakyky semizlik däl. Dynç günlerinde naharlary azajyk goýbermek zyýanly däl, ýöne hakykatdan arryklamak üçin bu kanunalaýyklyga üns bermeli.",
+    "en": "According to reports, medical experts conducted a new study: since people's weekly nutrient intake and dietary patterns affect their weight change, dieters' weight fluctuates within a week. In total, 80 adults aged 25–62 participated. Researchers divided them into three types based on relative weight change: weight losers, weight gainers, and weight maintainers. Each weighed themselves daily after waking and before breakfast; for reliability, only those who weighed at least 7 consecutive days were included. Tracking ranged from 15 to 330 days. Results showed a clear pattern: weight rises after weekends and falls on workdays (lowest on Friday). Researchers were surprised to find that losers and gainers differ markedly in their fluctuation patterns. Weight losers show a stronger compensatory pattern — weight drops immediately after the weekend, declining until Friday; gainers fluctuate daily with no clear workday decline. This joint study by several medical schools found that, except for a few, most people's weight gain starts on Saturday and weight loss starts on Tuesday — especially for weight losers and maintainers. It shows that weight change within a week reveals an obvious regularity; temporary weekday/weekend fluctuations should be regarded as normal, not real weight gain — because people spend more time eating out on weekends. A slight indulgence in food on the weekend doesn't have much effect, but to successfully lose weight, dieters wanting to be slim should note this regularity: after weekends, don't look for any excuse to eat good food and take timely measures to stop this upward trend."
+  },
+  "vocabulary": [
+    {
+      "hanzi": "节食",
+      "pinyin": "jiéshí",
+      "pos": "v.",
+      "meaning": {
+        "ru": "соблюдать диету",
+        "tk": "berhiz tutmak",
+        "en": "to go on a diet"
+      }
+    },
+    {
+      "hanzi": "报道",
+      "pinyin": "bàodào",
+      "pos": "n./v.",
+      "meaning": {
+        "ru": "сообщение; сообщать",
+        "tk": "habar; habar bermek",
+        "en": "report"
+      }
+    },
+    {
+      "hanzi": "营养",
+      "pinyin": "yíngyǎng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "питание",
+        "tk": "iýmitleniş",
+        "en": "nutrition"
+      }
+    },
+    {
+      "hanzi": "摄入",
+      "pinyin": "shèrù",
+      "pos": "v.",
+      "meaning": {
+        "ru": "потреблять",
+        "tk": "kabul etmek",
+        "en": "to ingest"
+      }
+    },
+    {
+      "hanzi": "模式",
+      "pinyin": "móshì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "модель, паттерн",
+        "tk": "nusga",
+        "en": "pattern"
+      }
+    },
+    {
+      "hanzi": "波动",
+      "pinyin": "bōdòng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "колебаться",
+        "tk": "üýtgemek",
+        "en": "to fluctuate"
+      }
+    },
+    {
+      "hanzi": "总共",
+      "pinyin": "zǒnggòng",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "всего",
+        "tk": "jemi",
+        "en": "in total"
+      }
+    },
+    {
+      "hanzi": "参与",
+      "pinyin": "cānyù",
+      "pos": "v.",
+      "meaning": {
+        "ru": "участвовать",
+        "tk": "gatnaşmak",
+        "en": "to participate"
+      }
+    },
+    {
+      "hanzi": "人员",
+      "pinyin": "rényuán",
+      "pos": "n.",
+      "meaning": {
+        "ru": "сотрудники, персонал",
+        "tk": "işgärler",
+        "en": "personnel"
+      }
+    },
+    {
+      "hanzi": "相对",
+      "pinyin": "xiāngduì",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "относительный",
+        "tk": "deňeşdirmeli",
+        "en": "relative"
+      }
+    },
+    {
+      "hanzi": "类型",
+      "pinyin": "lèixíng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "тип",
+        "tk": "görnüş",
+        "en": "type"
+      }
+    },
+    {
+      "hanzi": "称",
+      "pinyin": "chēng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "взвешивать(ся)",
+        "tk": "agramyny ölçemek",
+        "en": "to weigh"
+      }
+    },
+    {
+      "hanzi": "可靠",
+      "pinyin": "kěkào",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "надёжный",
+        "tk": "ynamly",
+        "en": "reliable"
+      }
+    },
+    {
+      "hanzi": "纳入",
+      "pinyin": "nàrù",
+      "pos": "v.",
+      "meaning": {
+        "ru": "включать",
+        "tk": "girizmek",
+        "en": "to include"
+      }
+    },
+    {
+      "hanzi": "分析",
+      "pinyin": "fēnxī",
+      "pos": "v.",
+      "meaning": {
+        "ru": "анализ",
+        "tk": "seljermek",
+        "en": "to analyze"
+      }
+    },
+    {
+      "hanzi": "志愿者",
+      "pinyin": "zhìyuànzhě",
+      "pos": "n.",
+      "meaning": {
+        "ru": "волонтёр",
+        "tk": "meýletinçi",
+        "en": "volunteer"
+      }
+    },
+    {
+      "hanzi": "跟踪",
+      "pinyin": "gēnzōng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "отслеживать",
+        "tk": "yzygider gözegçilik",
+        "en": "to track"
+      }
+    },
+    {
+      "hanzi": "成果",
+      "pinyin": "chéngguǒ",
+      "pos": "n.",
+      "meaning": {
+        "ru": "результат, достижение",
+        "tk": "netije",
+        "en": "achievement"
+      }
+    },
+    {
+      "hanzi": "清晰",
+      "pinyin": "qīngxī",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "чёткий",
+        "tk": "düşnükli",
+        "en": "clear"
+      }
+    },
+    {
+      "hanzi": "即",
+      "pinyin": "jí",
+      "pos": "v./adv.",
+      "meaning": {
+        "ru": "то есть",
+        "tk": "ýagny",
+        "en": "namely"
+      }
+    },
+    {
+      "hanzi": "升",
+      "pinyin": "shēng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "подниматься",
+        "tk": "göterilmek",
+        "en": "to rise"
+      }
+    },
+    {
+      "hanzi": "达到",
+      "pinyin": "dádào",
+      "pos": "v.",
+      "meaning": {
+        "ru": "достигать",
+        "tk": "ýetmek",
+        "en": "to reach"
+      }
+    },
+    {
+      "hanzi": "意外",
+      "pinyin": "yìwài",
+      "pos": "adj./n.",
+      "meaning": {
+        "ru": "неожиданный; случайность",
+        "tk": "garaşylmadyk; hadysa",
+        "en": "unexpected"
+      }
+    },
+    {
+      "hanzi": "存在",
+      "pinyin": "cúnzài",
+      "pos": "v.",
+      "meaning": {
+        "ru": "существовать",
+        "tk": "bar bolmak",
+        "en": "to exist"
+      }
+    },
+    {
+      "hanzi": "明显",
+      "pinyin": "míngxiǎn",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "очевидный",
+        "tk": "aç-açan",
+        "en": "obvious"
+      }
+    },
+    {
+      "hanzi": "补偿",
+      "pinyin": "bǔcháng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "компенсировать",
+        "tk": "öwezini dolmak",
+        "en": "to compensate"
+      }
+    },
+    {
+      "hanzi": "立即",
+      "pinyin": "lìjí",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "немедленно",
+        "tk": "derrew",
+        "en": "immediately"
+      }
+    },
+    {
+      "hanzi": "趋势",
+      "pinyin": "qūshì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "тенденция",
+        "tk": "tendensiýa",
+        "en": "trend"
+      }
+    },
+    {
+      "hanzi": "差异",
+      "pinyin": "chāyì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "различие",
+        "tk": "tapawut",
+        "en": "difference"
+      }
+    },
+    {
+      "hanzi": "联合",
+      "pinyin": "liánhé",
+      "pos": "v.",
+      "meaning": {
+        "ru": "объединять(ся)",
+        "tk": "birleşmek",
+        "en": "to unite"
+      }
+    },
+    {
+      "hanzi": "个别",
+      "pinyin": "gèbié",
+      "pos": "adv./adj.",
+      "meaning": {
+        "ru": "индивидуальный, единичный",
+        "tk": "ayratyn",
+        "en": "individual, exceptional"
+      }
+    },
+    {
+      "hanzi": "表明",
+      "pinyin": "biǎomíng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "показывать",
+        "tk": "görkezmek",
+        "en": "to indicate"
+      }
+    },
+    {
+      "hanzi": "临时",
+      "pinyin": "línshí",
+      "pos": "adv./adj.",
+      "meaning": {
+        "ru": "временный",
+        "tk": "wagtlaýyn",
+        "en": "temporary"
+      }
+    },
+    {
+      "hanzi": "现象",
+      "pinyin": "xiànxiàng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "явление",
+        "tk": "hadysa",
+        "en": "phenomenon"
+      }
+    },
+    {
+      "hanzi": "非",
+      "pinyin": "fēi",
+      "pos": "v.",
+      "meaning": {
+        "ru": "не быть",
+        "tk": "däl",
+        "en": "to be not"
+      }
+    },
+    {
+      "hanzi": "就餐",
+      "pinyin": "jiùcān",
+      "pos": "v.",
+      "meaning": {
+        "ru": "принимать пищу",
+        "tk": "nahar iýmek",
+        "en": "to have a meal"
+      }
+    },
+    {
+      "hanzi": "放纵",
+      "pinyin": "fàngzòng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "распускаться, давать волю",
+        "tk": "goýbermek",
+        "en": "to indulge"
+      }
+    },
+    {
+      "hanzi": "苗条",
+      "pinyin": "miáotiáo",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "стройный",
+        "tk": "inçe boýly",
+        "en": "slim"
+      }
+    },
+    {
+      "hanzi": "借口",
+      "pinyin": "jièkǒu",
+      "pos": "n./v.",
+      "meaning": {
+        "ru": "отговорка",
+        "tk": "bahana",
+        "en": "excuse"
+      }
+    },
+    {
+      "hanzi": "采取",
+      "pinyin": "cǎiqǔ",
+      "pos": "v.",
+      "meaning": {
+        "ru": "принимать (меры)",
+        "tk": "çäre görmek",
+        "en": "to take (measures)"
+      }
+    },
+    {
+      "hanzi": "措施",
+      "pinyin": "cuòshī",
+      "pos": "n.",
+      "meaning": {
+        "ru": "меры",
+        "tk": "çäreler",
+        "en": "measures"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "即",
+      "pos": "v./adv.",
+      "explanation": {
+        "ru": "«即» — книжное «то есть, а именно». Также наречие «сразу, тотчас».",
+        "tk": "«即» — kitaby «ýagny». Hal hökmünde «derrew».",
+        "en": "'即' — formal 'namely, that is'. Adv. 'immediately'."
+      },
+      "examples": [
+        {
+          "zh": "「旦」是象形字，即太阳从地平线上升起。",
+          "ru": "«Дань» — пиктограмма: солнце поднимается над горизонтом.",
+          "tk": "«Dan» — iýeroglif: gün gözýetimden çykýar.",
+          "en": "'旦' is a pictograph — the sun rises above the horizon."
+        },
+        {
+          "zh": "这些人的体重变化表现出清晰的模式，即周末之后体重升高，在工作日体重减轻。",
+          "ru": "Их вес показывает чёткий паттерн: после выходных — выше, в рабочие дни — ниже.",
+          "tk": "Olaryň agramynda anyk nusga bar: dynç günlerinden soň ýokary, iş günlerinde aşak.",
+          "en": "Their weight shows a clear pattern: higher after weekends, lower on workdays."
+        },
+        {
+          "zh": "不懂即问是他最大的优点。",
+          "ru": "Не понимаешь — сразу спрашивай: это его большое достоинство.",
+          "tk": "Düşünmeseň — derrew soramak onuň iň uly artykmaçlygy.",
+          "en": "Asking when you don't understand is his biggest strength."
+        },
+        {
+          "zh": "汉字「字」代表上下四方，即所有的空间。",
+          "ru": "Иероглиф «цзы» означает верх-низ и четыре стороны — то есть всё пространство.",
+          "tk": "«Tszy» iýeroglifi ýokary-aşak we dört tarapy aňladýar — ýagny ähli giňişlik.",
+          "en": "'Zi' means up-down and four directions — i.e., all space."
+        },
+        {
+          "zh": "会议定于下周一上午九点，即北京时间九点召开。",
+          "ru": "Совещание назначено на понедельник, 9:00 по пекинскому времени.",
+          "tk": "Maslahat duşenbe güni, Pekin wagty bilen sagat 9:00-de bellenildi.",
+          "en": "The meeting is set for Monday, 9:00 Beijing time."
+        },
+        {
+          "zh": "即日起，公司调整工作时间。",
+          "ru": "С сегодняшнего дня компания меняет график.",
+          "tk": "Şu günden başlap, kompaniýa iş wagtyny üýtgedýär.",
+          "en": "Starting today, the company changes work hours."
+        },
+        {
+          "zh": "会议定于下周一下午三点即15点召开。",
+          "ru": "Совещание назначено на понедельник, 15:00.",
+          "tk": "Maslahat duşenbe güni sagat 15:00-de bellenildi.",
+          "en": "The meeting is set for Monday at 15:00."
+        },
+        {
+          "zh": "即学即用，是学习外语的好方法。",
+          "ru": "Учиться и сразу использовать — хороший метод для иностранного языка.",
+          "tk": "Öwrenmek we derrew ulanmak — daşary ýurt dili üçin gowy usul.",
+          "en": "Learn and immediately use — a good way to study a foreign language."
+        },
+        {
+          "zh": "他即兴表演了一段舞蹈。",
+          "ru": "Он импровизированно станцевал.",
+          "tk": "Ol tötänleýin tans etdi.",
+          "en": "He improvised a dance."
+        },
+        {
+          "zh": "即日生效。",
+          "ru": "Вступает в силу с сегодняшнего дня.",
+          "tk": "Şu günden güýje girýär.",
+          "en": "Takes effect from today."
+        }
+      ]
+    },
+    {
+      "word": "个别",
+      "pos": "adj./adv.",
+      "explanation": {
+        "ru": "«个别» — «единичный, отдельный». О людях: «поговорить с каждым отдельно».",
+        "tk": "«个别» — «ayratyn, aýry-aýry».",
+        "en": "'个别' — 'individual, one by one'."
+      },
+      "examples": [
+        {
+          "zh": "除了个别人以外，多数人体重的增加会从周六开始。",
+          "ru": "Кроме отдельных людей, у большинства вес начинает расти с субботы.",
+          "tk": "Aýry-aýry adamlardan başga, köp adamda agram şenbe gününden ösüp başlaýar.",
+          "en": "Except for a few, most people's weight starts rising on Saturday."
+        },
+        {
+          "zh": "他经常采取个别谈话的方式了解情况和解决问题。",
+          "ru": "Он часто прибегает к индивидуальным беседам для выяснения и решения вопросов.",
+          "tk": "Ol köplenç ýagdaýy öwrenmek we meseleleri çözmek üçin aýry-aýry söhbetdeşlik ulanýar.",
+          "en": "He often uses individual conversations to understand and solve problems."
+        },
+        {
+          "zh": "教练针对他的技术特点进行了个别训练。",
+          "ru": "Тренер провёл индивидуальную тренировку с учётом его навыков.",
+          "tk": "Tälimçi onuň tehniki aýratynlyklaryna görä aýratyn maşk geçirdi.",
+          "en": "The coach did individual training tailored to his technique."
+        },
+        {
+          "zh": "天气预报说今晚有小到中雨，个别地区可能有大雨。",
+          "ru": "Прогноз: сегодня вечером небольшой дождь, местами возможен сильный.",
+          "tk": "Howa çaklamasy: bu gün agşam az ýagar, aýry-aýry ýerlerde güýçli bolup biler.",
+          "en": "Forecast: light to moderate rain tonight, possibly heavy in some areas."
+        },
+        {
+          "zh": "个别同学还没有交作业，请尽快交。",
+          "ru": "Отдельные студенты ещё не сдали работу — сдайте как можно скорее.",
+          "tk": "Aýry-aýry okuwçylar işini tabşyrmady — dessine tabşyryň.",
+          "en": "A few students haven't submitted homework — please do so soon."
+        },
+        {
+          "zh": "个别问题需要单独解决。",
+          "ru": "Отдельные вопросы нужно решать индивидуально.",
+          "tk": "Aýry meseleleri aýratyn çözmeli.",
+          "en": "Certain issues need separate solutions."
+        },
+        {
+          "zh": "老师对个别学生进行了辅导。",
+          "ru": "Учитель позанимался с отдельными учениками.",
+          "tk": "Mugallym aýry okuwçylar bilen sapak geçdi.",
+          "en": "The teacher tutored a few students individually."
+        },
+        {
+          "zh": "个别情况下可以例外。",
+          "ru": "В отдельных случаях возможны исключения.",
+          "tk": "Aýry ýagdaýlarda kadadan çykmak mümkin.",
+          "en": "In exceptional cases, exceptions can be made."
+        },
+        {
+          "zh": "只有个别人反对这个方案。",
+          "ru": "Только единицы против этого плана.",
+          "tk": "Diňe bir-iki adam bu meýilnama garşy.",
+          "en": "Only a handful oppose this plan."
+        },
+        {
+          "zh": "个别人可能对海鲜过敏。",
+          "ru": "У отдельных людей может быть аллергия на морепродукты.",
+          "tk": "Aýry adamlarda deňiz önümlerine allergiýa bolup biler.",
+          "en": "Some individuals may be allergic to seafood."
+        }
+      ]
+    },
+    {
+      "word": "非",
+      "pos": "v./prefix",
+      "explanation": {
+        "ru": "«非» — «не быть, не». Пишется как префикс или в конструкции «非……不可» («обязательно»).",
+        "tk": "«非» — «däl». Prefiks ýa-da «非……不可» («hökman») gurluşynda.",
+        "en": "'非' — 'not'. Also in '非……不可' meaning 'must'."
+      },
+      "examples": [
+        {
+          "zh": "在非语言的交流中，眼睛起着重要的作用。",
+          "ru": "В невербальном общении глаза играют важную роль.",
+          "tk": "Dil däl aragatnaşykda gözler möhüm rol oýnaýar.",
+          "en": "In nonverbal communication, eyes play a key role."
+        },
+        {
+          "zh": "我们公司的技术部门都是专业人员，非专业人员做服务工作。",
+          "ru": "В техническом отделе — профессионалы, непрофессионалы занимаются обслуживанием.",
+          "tk": "Tehniki bölümde hünärmenler, hünärmen däller bolsa hyzmat işi bilen meşgullanýar.",
+          "en": "Our tech team is professionals; non-professionals handle service."
+        },
+        {
+          "zh": "工作日和周末体重的临时变化应该被视为正常现象，而非真正的体重增加。",
+          "ru": "Временные колебания веса в рабочие дни и выходные — норма, а не настоящий набор веса.",
+          "tk": "Iş günlerinde we dynç günlerinde agramyň wagtlaýyn üýtgemegi kadaly — hakyky semizlik däl.",
+          "en": "Temporary weekday/weekend weight change is normal, not real weight gain."
+        },
+        {
+          "zh": "成功有时候并非想象中那么难。",
+          "ru": "Успех иногда не так труден, как кажется.",
+          "tk": "Üstünlik käte pikir edişiň ýaly kyn däl.",
+          "en": "Success is sometimes not as hard as imagined."
+        },
+        {
+          "zh": "他非要离婚，我们谁也拦不住。",
+          "ru": "Он во что бы то ни стало хочет развестись — мы не можем его остановить.",
+          "tk": "Ol hökman aýrylyşmak isleýär — hiç birimiz saklap bilemzok.",
+          "en": "He insists on divorcing — we can't stop him."
+        },
+        {
+          "zh": "我本不想提这件事，你又何必非要我说出来呢？",
+          "ru": "Я не хотел об этом говорить — зачем вынуждаешь?",
+          "tk": "Men bu barada aýtmak islemädim — näme üçin hökman aýtdyrýarsyň?",
+          "en": "I didn't want to mention it — why force me?"
+        },
+        {
+          "zh": "有些家长已经习惯了这种竞争，非让自家的孩子考第一名不可。",
+          "ru": "Некоторые родители настаивают, чтобы ребёнок был первым.",
+          "tk": "Käbir ene-atalar çagasynyň birinji bolmagyny hökman isleýärler.",
+          "en": "Some parents insist their child rank first."
+        },
+        {
+          "zh": "补办学生证的事非你本人去不可。",
+          "ru": "За дубликатом студенческого должен прийти именно ты.",
+          "tk": "Talyplar şahadatnamasynyň nusgasyny hut özüň almaly.",
+          "en": "You must personally go for the student ID reissue."
+        },
+        {
+          "zh": "这个地方非去不可，太美了。",
+          "ru": "Сюда обязательно надо попасть — очень красиво.",
+          "tk": "Bu ýere hökman gitmeli — örän owadan.",
+          "en": "You must visit this place — it's stunning."
+        },
+        {
+          "zh": "非工作人员请勿入内。",
+          "ru": "Посторонним вход воспрещён.",
+          "tk": "Işgär däller girmesin.",
+          "en": "Staff only."
+        }
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "pattern": "动词 + 宾语",
+      "items": [
+        "达到水平 / 程度 / 规模 / 目的 / 要求",
+        "分析情况 / 问题 / 心理 / 原因 / 语法 / 病句"
+      ]
+    },
+    {
+      "pattern": "定语 + 中心语",
+      "items": [
+        "意外的礼物 / 消息 / 机会 / 结果 / 发现",
+        "可靠的 朋友 / 质量 / 材料 / 报道 / 消息 / 结论"
+      ]
+    },
+    {
+      "pattern": "状语 + 中心语",
+      "items": [
+        "主动 / 充分 / 直接 / 清楚地 表明",
+        "部分 / 共同 / 正式 / 积极 参与"
+      ]
+    },
+    {
+      "pattern": "定语 + 中心语",
+      "items": [
+        "战争的 / 上升的 / 好的 / 健康的 趋势",
+        "自然 / 表面 / 怪 / 不良 / 个别（的）现象"
+      ]
+    },
+    {
+      "pattern": "主语 + 谓语",
+      "items": [
+        "问题 严重 / 复杂 / 突出",
+        "数据 可靠 / 准确 / 全面"
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "临时",
+      "word_b": "暂时",
+      "common": {
+        "ru": "Оба — «на короткий срок».",
+        "tk": "Ikisi hem «gysga wagt üçin».",
+        "en": "Both mean 'for a short time'."
+      },
+      "differences": [
+        {
+          "ru": "«临时» — «к моменту, когда что-то происходит»: 我临时决定去。",
+          "tk": "«临时» — «şol pursatda»: men şol pursatda gitmek kararyna geldim.",
+          "en": "'临时' — at the moment something happens: I decided on the spot."
+        },
+        {
+          "ru": "«暂时» — «на некоторое время»: 暂时住在朋友家。",
+          "tk": "«暂时» — «biraz wagt üçin»: dostuň öýünde wagtlaýyn ýaşaýaryn.",
+          "en": "'暂时' — for a while: temporarily stay at a friend's."
+        },
+        {
+          "ru": "«临时» — как прилагательное: временная работа. «暂时» — нет.",
+          "tk": "«临时» — sypat hökmünde: wagtlaýyn iş. «暂时» — ýok.",
+          "en": "'临时' can be adjective: temp work. '暂时' — no."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "ru": "Медицина — часть 1",
+      "tk": "Lukmançylyk — 1-nji bölüm",
+      "en": "Medicine — part 1"
+    },
+    "words": [
+      {
+        "hanzi": "挂号",
+        "pinyin": "guàhào",
+        "meaning": {
+          "ru": "записаться к врачу",
+          "tk": "hat ýazmak",
+          "en": "to register (at hospital)"
+        }
+      },
+      {
+        "hanzi": "急诊",
+        "pinyin": "jízhěn",
+        "meaning": {
+          "ru": "скорая помощь",
+          "tk": "gyssagly kömek",
+          "en": "emergency"
+        }
+      },
+      {
+        "hanzi": "救护车",
+        "pinyin": "jiùhùchē",
+        "meaning": {
+          "ru": "скорая",
+          "tk": "tiz kömek maşyny",
+          "en": "ambulance"
+        }
+      },
+      {
+        "hanzi": "内科",
+        "pinyin": "nèikē",
+        "meaning": {
+          "ru": "терапия",
+          "tk": "iç keseller bölümi",
+          "en": "internal medicine"
+        }
+      },
+      {
+        "hanzi": "过敏",
+        "pinyin": "guòmǐn",
+        "meaning": {
+          "ru": "аллергия",
+          "tk": "allergiýa",
+          "en": "allergy"
+        }
+      },
+      {
+        "hanzi": "打喷嚏",
+        "pinyin": "dǎpēntì",
+        "meaning": {
+          "ru": "чихать",
+          "tk": "asgyrmak",
+          "en": "to sneeze"
+        }
+      },
+      {
+        "hanzi": "着凉",
+        "pinyin": "zháoliáng",
+        "meaning": {
+          "ru": "простудиться",
+          "tk": "üşemek",
+          "en": "to catch cold"
+        }
+      },
+      {
+        "hanzi": "消化",
+        "pinyin": "xiāohuà",
+        "meaning": {
+          "ru": "пищеварение",
+          "tk": "iýmit siňdirmek",
+          "en": "digestion"
+        }
+      },
+      {
+        "hanzi": "痒",
+        "pinyin": "yǎng",
+        "meaning": {
+          "ru": "чесаться",
+          "tk": "gyjyklamak",
+          "en": "itchy"
+        }
+      },
+      {
+        "hanzi": "吐",
+        "pinyin": "tù",
+        "meaning": {
+          "ru": "рвать",
+          "tk": "gussmak",
+          "en": "to vomit"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "ru": "Согласны ли вы с фразой «похудеть можно только через диету»? Что эффективнее?",
+      "tk": "«Arryklamak diňe berhiz arkaly bolýar» diýen pikire ylalaşýarsyňyzmy?",
+      "en": "Do you agree that weight loss requires dieting? What's more effective?"
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Сколько людей участвовало в исследовании?",
+          "tk": "Gözlege näçe adam gatnaşdy?",
+          "en": "How many participated in the study?"
+        },
+        "options": [
+          "50",
+          "80",
+          "100",
+          "120"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Какой возраст участников?",
+          "tk": "Gatnaşyjylaryň ýaşy näçe?",
+          "en": "Participants' age range?"
+        },
+        "options": [
+          "18-30",
+          "25-62",
+          "30-70",
+          "40-80"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Когда вес начинает расти?",
+          "tk": "Agram haçan ösüp başlaýar?",
+          "en": "When does weight start rising?"
+        },
+        "options": [
+          "С понедельника",
+          "С пятницы",
+          "С субботы",
+          "Со вторника"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Когда вес снижается?",
+          "tk": "Agram haçan aşak düşýär?",
+          "en": "When does weight drop?"
+        },
+        "options": [
+          "С воскресенья",
+          "С понедельника",
+          "Со вторника",
+          "Со среды"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что делать, чтобы похудеть?",
+          "tk": "Arryklamak üçin näme etmeli?",
+          "en": "What should dieters do?"
+        },
+        "options": [
+          "Меньше есть",
+          "Не искать оправданий после выходных",
+          "Спать больше",
+          "Пить больше воды"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что считать нормальным явлением?",
+          "tk": "Nämäni kadaly hasaplamaly?",
+          "en": "What is considered normal?"
+        },
+        "options": [
+          "Резкое снижение",
+          "Колебание веса в течение недели",
+          "Постоянный рост",
+          "Полное отсутствие изменений"
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«营养» — это:",
+          "tk": "«营养» näme?",
+          "en": "'营养' means:"
+        },
+        "options": [
+          "Спорт",
+          "Питание",
+          "Сон",
+          "Отдых"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«波动» означает:",
+          "tk": "«波动» nämäni aňladýar?",
+          "en": "'波动' means:"
+        },
+        "options": [
+          "Постоянство",
+          "Колебание",
+          "Рост",
+          "Падение"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«可靠» — это:",
+          "tk": "«可靠» nämäni aňladýar?",
+          "en": "'可靠' means:"
+        },
+        "options": [
+          "Слабый",
+          "Надёжный",
+          "Быстрый",
+          "Скучный"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«分析» означает:",
+          "tk": "«分析» nämäni aňladýar?",
+          "en": "'分析' means:"
+        },
+        "options": [
+          "Изучать",
+          "Анализировать",
+          "Играть",
+          "Забывать"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«跟踪» — это:",
+          "tk": "«跟踪» nämäni aňladýar?",
+          "en": "'跟踪' means:"
+        },
+        "options": [
+          "Убегать",
+          "Отслеживать",
+          "Ждать",
+          "Искать"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«成果» — это:",
+          "tk": "«成果» näme?",
+          "en": "'成果' means:"
+        },
+        "options": [
+          "Проблема",
+          "Результат",
+          "Ошибка",
+          "План"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«清晰» означает:",
+          "tk": "«清晰» nämäni aňladýar?",
+          "en": "'清晰' means:"
+        },
+        "options": [
+          "Размытый",
+          "Чёткий",
+          "Яркий",
+          "Слабый"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«意外» — это:",
+          "tk": "«意外» nämäni aňladýar?",
+          "en": "'意外' means:"
+        },
+        "options": [
+          "Обычный",
+          "Неожиданный",
+          "Радостный",
+          "Скучный"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«趋势» — это:",
+          "tk": "«趋势» näme?",
+          "en": "'趋势' means:"
+        },
+        "options": [
+          "Случай",
+          "Тенденция",
+          "Ошибка",
+          "Удача"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«苗条» означает:",
+          "tk": "«苗条» nämäni aňladýar?",
+          "en": "'苗条' means:"
+        },
+        "options": [
+          "Толстый",
+          "Стройный",
+          "Высокий",
+          "Низкий"
+        ],
+        "answer": 1
+      }
+    ],
+    "writing": [
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "有",
+          "来报名",
+          "总共",
+          "这次",
+          "两百多人"
+        ],
+        "answer": "这次来报名总共有两百多人"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "采取",
+          "治疗方法",
+          "医生",
+          "中医的",
+          "决定"
+        ],
+        "answer": "医生决定采取中医的治疗方法"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "小刘",
+          "可靠",
+          "不太",
+          "办事",
+          "经理觉得"
+        ],
+        "answer": "经理觉得小刘办事不太可靠"
+      },
+      {
+        "type": "essay",
+        "prompt": {
+          "ru": "Сочинение 80+ иероглифов: 营养、措施、苗条、明显、趋势",
+          "tk": "80+ iýeroglif: 营养、措施、苗条、明显、趋势",
+          "en": "Essay 80+ chars: 营养、措施、苗条、明显、趋势"
+        },
+        "min_length": 80,
+        "required_words": [
+          "营养",
+          "措施",
+          "苗条",
+          "明显",
+          "趋势"
+        ]
+      }
+    ]
+  }
+}

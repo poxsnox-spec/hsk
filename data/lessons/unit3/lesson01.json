@@ -1,0 +1,1257 @@
+{
+  "title": {
+    "zh": "成语故事两则",
+    "ru": "Две истории об идиомах",
+    "tk": "Iki idiom hekaýasy",
+    "en": "Two Idiom Stories",
+    "uz": "Ikkita ibora haqidagi hikoya",
+    "tg": "Ду ҳикояи идиом"
+  },
+  "audio_files": {
+    "textbook_1": "textbook_1.mp3",
+    "textbook_2": "textbook_2.mp3",
+    "vocab": "vocab.mp3",
+    "workbook_31_1": "workbook_31-1.mp3",
+    "workbook_31_2": "workbook_31-2.mp3"
+  },
+  "warmup": {
+    "question": {
+      "ru": "Что вы знаете об идиомах 盲人摸象 и 精诚所至，金石为开?",
+      "tk": "«盲人摸象» we «精诚所至，金石为开» idiomlary barada näme bilýärsiňiz?",
+      "en": "What do you know about the idioms 盲人摸象 and 精诚所至，金石为开?"
+    },
+    "answers": [
+      "盲人摸象",
+      "精诚所至，金石为开",
+      "成语",
+      "智慧"
+    ]
+  },
+  "text_zh": "成语是汉语中非常有特点的一部分词汇。成语有固定的结构，不能随便更改；意义是整体性的，不是每个字意思的简单相加，而是综合起来表达一个完整的意思。盲人摸象：很久以前，有一个很有智慧的国王。一天，他让士兵们去找一头大象和一些出生时眼睛就瞎了的人回来。士兵们分别去不同地方寻找，把找到的大象和盲人带到他面前。国王叫盲人们去摸一摸大象，问他们：「你们觉得大象是什么样的呢？」摸到牙齿的盲人说：「我觉得像一个角。」「胡说！」摸到尾巴的盲人说，「它像一条绳子。」摸到大象身子的盲人说：「我觉得像一面又高又平的墙。」「不，你们都错了，应该是像一把扇子。」这个盲人摸到了大象的耳朵。国王笑了起来：「你们每个人都只摸到了一点，就认为自己了解全部了吗？只有片面的认识是不能下结论的。」精诚所至，金石为开：西汉时期有一位著名的将军叫李广，他善于骑马射箭，作战勇敢，被称为「飞将军」。一天傍晚，他正带着士兵们在山中打猎，忽然发现远处蹲着一只大老虎。士兵们都紧张地围了上来，想要保护他。李广摇摇头，表示不要紧。只见他从箭袋里取出一支箭，摆好姿势，全神贯注，用尽全力向老虎射去。过了一会儿，老虎没什么反应，士兵们小心地走上前去，想确定它是不是死了。没想到仔细一看，被射中的竟不是老虎，而是一块形状很像老虎的大石头，而且一整支箭几乎全都射到石头中去了！大家都很吃惊，连李广自己都不相信他能有这么大的力气，于是他想再试试。可是，这次他连续换了几根箭，都没能再射进去，有的箭头碎了，有的箭杆断了，而大石头一点儿变化也没有。「哎，怎么会这样？」士兵奇怪地你看我，我看你。「唉！大概是我不够用心了吧！」李广也无奈地说。人们对这件事情感到很不解，就去问当时最有影响力的学者扬雄。扬雄回答说：「如果诚心实意，即使像金属和石头那样硬的东西也会被打动。」「精诚所至，金石为开」这一成语也便由此流传下来。",
+  "text_translation": {
+    "ru": "«Слепые трогают слона»: Давным-давно жил мудрый царь. Однажды он велел солдатам привести слона и нескольких слепых от рождения. Царь попросил слепых потрогать слона и сказать, на что он похож. Один, потрогав бивни, сказал: «Как рог». Другой, ощупав хвост: «Как верёвка». Третий, коснувшись тела: «Как высокая стена». «Нет, — сказал слепой у уха, — как веер». Царь рассмеялся: «Каждый из вас ощутил лишь часть — как можно судить обо всём?» Одностороннее знание не даёт права делать вывод. «Абсолютная искренность тронет даже металл и камень»: В эпоху Западная Хань жил знаменитый генерал Ли Гуан — отличный наездник и стрелок, прозванный «Летучим генералом». Однажды вечером на охоте он увидел вдалеке тигра, натянул лук и выстрелил изо всех сил. Подойдя, солдаты увидели — это был не тигр, а большая скала, похожая на тигра, и стрела почти полностью вошла в камень! Все поразились. Ли Гуан попробовал снова — но ни одна стрела больше не входила. «Наверное, я недостаточно вложил душу», — вздохнул он. Учёный Ян Сюн объяснил: «Если сердце искренне, даже металл и камень поддадутся». Так родился идиом.",
+    "tk": "«Körleriň pili sypalamagy»: Gadymda bir parasatly patyşa bardy. Ol körleri pili sypalap, onuň nähilidigini sorady. Biri: «Şahy ýaly», beýlekisi: «Ýüp ýaly», üçünjisi: «Beýik diwar ýaly». Gulakda duran kör: «Ýelpik ýaly» diýdi. Patyşa güldi: «Her biriňiz diňe bir bölegini duýduňyz, nähili hemme zady bilip bolýar?» Bir taraply bilim netije çykarmaga ýaramaz. «Ak ýürek hem metaly, hem daşy ýumşadar»: Günbatar Han döwründe Li Guan atly meşhur serkerde bardy. Bir agşam awda ol uzakda bir gaplaňy görüp, gaty güýç bilen ok atdy. Emma bu gaplaň däl-de, gaplaňa meňzeş ullakan gaýa boldy — ok gaýanyň içine girdi! Soň ýene synanyşdy — netije ýok. «Ýüregimi goýbermedim öýdýän» diýdi. Alym Ýan Sýun: «Ýürek ak bolsa, metal we daş hem boýun eger» diýip düşündirdi. Şeýlelikde idiom döredi.",
+    "en": "'The Blind Men and the Elephant': long ago there lived a wise king. One day he had his soldiers bring an elephant and several people blind from birth. When they had gathered, he asked the blind men to touch the elephant and say what it was like. The one who touched the tusks said: 'Like a horn.' 'Nonsense!' said the one who touched the tail — 'It's like a rope.' The one who touched the body said: 'Like a tall, flat wall.' 'No, you're all wrong — it's like a fan,' said the man who found the ear. The king laughed: 'Each of you touched only one part and thought you understood the whole? One-sided knowledge cannot yield a conclusion.' 'Absolute Sincerity Moves Even Metal and Stone': in the Western Han lived a famous general named Li Guang — skilled at riding and archery, brave in battle, called the 'Flying General'. One evening, hunting in the mountains with soldiers, he suddenly spotted a crouching tiger in the distance. The soldiers surrounded him nervously. Li Guang shook his head — no need. He drew an arrow, took his stance, focused completely, and shot with all his might. After a while the tiger didn't move. Soldiers crept forward to check whether it was dead — and saw it wasn't a tiger at all, but a large stone shaped like one; the entire arrow had almost sunk into it! Everyone was stunned — even Li Guang couldn't believe his strength. He tried again, shot several more arrows; some tips shattered, some shafts broke, but the stone didn't change at all. 'Sigh — why is this?' — 'Perhaps I wasn't wholehearted enough,' Li Guang said helplessly. Perplexed, people asked the influential scholar Yang Xiong. He replied: 'If one is truly sincere, even things hard as metal and stone can be moved.' And so the idiom 'absolute sincerity moves even metal and stone' was passed down."
+  },
+  "vocabulary": [
+    {
+      "hanzi": "成语",
+      "pinyin": "chéngyǔ",
+      "pos": "n.",
+      "meaning": {
+        "ru": "идиом, чэнъюй",
+        "tk": "idiom",
+        "en": "idiom"
+      }
+    },
+    {
+      "hanzi": "则",
+      "pinyin": "zé",
+      "pos": "m.",
+      "meaning": {
+        "ru": "счётное слово для текстов",
+        "tk": "tekst üçin san sözi",
+        "en": "MW for texts"
+      }
+    },
+    {
+      "hanzi": "盲人",
+      "pinyin": "mángrén",
+      "pos": "n.",
+      "meaning": {
+        "ru": "слепой",
+        "tk": "kör",
+        "en": "blind person"
+      }
+    },
+    {
+      "hanzi": "摸",
+      "pinyin": "mō",
+      "pos": "v.",
+      "meaning": {
+        "ru": "щупать, трогать",
+        "tk": "sypalamak",
+        "en": "to touch"
+      }
+    },
+    {
+      "hanzi": "(大)象",
+      "pinyin": "(dà)xiàng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "слон",
+        "tk": "pil",
+        "en": "elephant"
+      }
+    },
+    {
+      "hanzi": "智慧",
+      "pinyin": "zhìhuì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "мудрость",
+        "tk": "pahym",
+        "en": "wisdom"
+      }
+    },
+    {
+      "hanzi": "士兵",
+      "pinyin": "shìbīng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "солдат",
+        "tk": "esger",
+        "en": "soldier"
+      }
+    },
+    {
+      "hanzi": "瞎",
+      "pinyin": "xiā",
+      "pos": "v./adv.",
+      "meaning": {
+        "ru": "быть слепым; зря",
+        "tk": "kör; biderek",
+        "en": "blind; blindly"
+      }
+    },
+    {
+      "hanzi": "分别",
+      "pinyin": "fēnbié",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "по отдельности, соответственно",
+        "tk": "aýry-aýry",
+        "en": "respectively"
+      }
+    },
+    {
+      "hanzi": "寻找",
+      "pinyin": "xúnzhǎo",
+      "pos": "v.",
+      "meaning": {
+        "ru": "искать",
+        "tk": "gözlemek",
+        "en": "to seek"
+      }
+    },
+    {
+      "hanzi": "牙齿",
+      "pinyin": "yáchǐ",
+      "pos": "n.",
+      "meaning": {
+        "ru": "зуб",
+        "tk": "diş",
+        "en": "tooth"
+      }
+    },
+    {
+      "hanzi": "胡说",
+      "pinyin": "húshuō",
+      "pos": "v.",
+      "meaning": {
+        "ru": "говорить чепуху",
+        "tk": "biderek geplemek",
+        "en": "to talk nonsense"
+      }
+    },
+    {
+      "hanzi": "尾巴",
+      "pinyin": "wěiba",
+      "pos": "n.",
+      "meaning": {
+        "ru": "хвост",
+        "tk": "guýruk",
+        "en": "tail"
+      }
+    },
+    {
+      "hanzi": "绳子",
+      "pinyin": "shéngzi",
+      "pos": "n.",
+      "meaning": {
+        "ru": "верёвка",
+        "tk": "ýüp",
+        "en": "rope"
+      }
+    },
+    {
+      "hanzi": "平",
+      "pinyin": "píng",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "плоский, ровный",
+        "tk": "tekiz",
+        "en": "flat"
+      }
+    },
+    {
+      "hanzi": "墙",
+      "pinyin": "qiáng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "стена",
+        "tk": "diwar",
+        "en": "wall"
+      }
+    },
+    {
+      "hanzi": "扇子",
+      "pinyin": "shànzi",
+      "pos": "n.",
+      "meaning": {
+        "ru": "веер",
+        "tk": "ýelpik",
+        "en": "fan"
+      }
+    },
+    {
+      "hanzi": "片面",
+      "pinyin": "piànmiàn",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "односторонний",
+        "tk": "bir taraply",
+        "en": "one-sided"
+      }
+    },
+    {
+      "hanzi": "结论",
+      "pinyin": "jiélùn",
+      "pos": "n.",
+      "meaning": {
+        "ru": "вывод",
+        "tk": "netije",
+        "en": "conclusion"
+      }
+    },
+    {
+      "hanzi": "精诚所至，金石为开",
+      "pinyin": "jīngchéng suǒzhì, jīnshí wéikāi",
+      "pos": "идиом",
+      "meaning": {
+        "ru": "искренность откроет и камень",
+        "tk": "ak ýürek daşy hem açýar",
+        "en": "absolute sincerity moves even stone"
+      }
+    },
+    {
+      "hanzi": "将军",
+      "pinyin": "jiāngjūn",
+      "pos": "n.",
+      "meaning": {
+        "ru": "генерал",
+        "tk": "serkerde",
+        "en": "general"
+      }
+    },
+    {
+      "hanzi": "善于",
+      "pinyin": "shànyú",
+      "pos": "v.",
+      "meaning": {
+        "ru": "быть искусным в",
+        "tk": "başarmak",
+        "en": "to be good at"
+      }
+    },
+    {
+      "hanzi": "称",
+      "pinyin": "chēng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "называть",
+        "tk": "atlandyrmak",
+        "en": "to call"
+      }
+    },
+    {
+      "hanzi": "打猎",
+      "pinyin": "dǎliè",
+      "pos": "v.",
+      "meaning": {
+        "ru": "охотиться",
+        "tk": "awlamak",
+        "en": "to hunt"
+      }
+    },
+    {
+      "hanzi": "忽然",
+      "pinyin": "hūrán",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "внезапно",
+        "tk": "birden",
+        "en": "suddenly"
+      }
+    },
+    {
+      "hanzi": "蹲",
+      "pinyin": "dūn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "присесть, сидеть на корточках",
+        "tk": "çökelenmek",
+        "en": "to squat"
+      }
+    },
+    {
+      "hanzi": "摇",
+      "pinyin": "yáo",
+      "pos": "v.",
+      "meaning": {
+        "ru": "качать, махать",
+        "tk": "yrmak",
+        "en": "to shake"
+      }
+    },
+    {
+      "hanzi": "不要紧",
+      "pinyin": "búyàojǐn",
+      "pos": "выражение",
+      "meaning": {
+        "ru": "не важно, ничего страшного",
+        "tk": "zyýany ýok",
+        "en": "never mind"
+      }
+    },
+    {
+      "hanzi": "支",
+      "pinyin": "zhī",
+      "pos": "m.",
+      "meaning": {
+        "ru": "счётное слово для стрел",
+        "tk": "ok üçin san sözi",
+        "en": "MW for arrows"
+      }
+    },
+    {
+      "hanzi": "摆",
+      "pinyin": "bǎi",
+      "pos": "v.",
+      "meaning": {
+        "ru": "ставить, располагать",
+        "tk": "goýmak",
+        "en": "to place"
+      }
+    },
+    {
+      "hanzi": "姿势",
+      "pinyin": "zīshì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "поза",
+        "tk": "durmuş",
+        "en": "pose"
+      }
+    },
+    {
+      "hanzi": "全神贯注",
+      "pinyin": "quánshénguànzhù",
+      "pos": "идиом",
+      "meaning": {
+        "ru": "полностью сосредоточиться",
+        "tk": "bütin üns bilen",
+        "en": "absorbed"
+      }
+    },
+    {
+      "hanzi": "尽(力)",
+      "pinyin": "jìn(lì)",
+      "pos": "v.",
+      "meaning": {
+        "ru": "прилагать все силы",
+        "tk": "tagalla etmek",
+        "en": "to try one's best"
+      }
+    },
+    {
+      "hanzi": "反应",
+      "pinyin": "fǎnyìng",
+      "pos": "v./n.",
+      "meaning": {
+        "ru": "реагировать; реакция",
+        "tk": "jogap bermek",
+        "en": "to react; reaction"
+      }
+    },
+    {
+      "hanzi": "确定",
+      "pinyin": "quèdìng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "убедиться",
+        "tk": "anyklamak",
+        "en": "to confirm"
+      }
+    },
+    {
+      "hanzi": "石头",
+      "pinyin": "shítou",
+      "pos": "n.",
+      "meaning": {
+        "ru": "камень",
+        "tk": "daş",
+        "en": "stone"
+      }
+    },
+    {
+      "hanzi": "连续",
+      "pinyin": "liánxù",
+      "pos": "v.",
+      "meaning": {
+        "ru": "непрерывный",
+        "tk": "yzygiderli",
+        "en": "continuous"
+      }
+    },
+    {
+      "hanzi": "根",
+      "pinyin": "gēn",
+      "pos": "n./m.",
+      "meaning": {
+        "ru": "корень; счётное слово",
+        "tk": "kök; san sözi",
+        "en": "root; MW"
+      }
+    },
+    {
+      "hanzi": "碎",
+      "pinyin": "suì",
+      "pos": "v./adj.",
+      "meaning": {
+        "ru": "разбиваться; разбитый",
+        "tk": "döwülmek",
+        "en": "to break into pieces"
+      }
+    },
+    {
+      "hanzi": "杆",
+      "pinyin": "gān",
+      "pos": "n.",
+      "meaning": {
+        "ru": "стержень, древко",
+        "tk": "sap",
+        "en": "pole"
+      }
+    },
+    {
+      "hanzi": "哎",
+      "pinyin": "āi",
+      "pos": "int.",
+      "meaning": {
+        "ru": "ах! (воскл.)",
+        "tk": "ah!",
+        "en": "ah! (surprise)"
+      }
+    },
+    {
+      "hanzi": "唉",
+      "pinyin": "ài",
+      "pos": "int.",
+      "meaning": {
+        "ru": "эх (вздох)",
+        "tk": "ah (gynanç)",
+        "en": "sigh"
+      }
+    },
+    {
+      "hanzi": "金属",
+      "pinyin": "jīnshǔ",
+      "pos": "n.",
+      "meaning": {
+        "ru": "металл",
+        "tk": "metal",
+        "en": "metal"
+      }
+    },
+    {
+      "hanzi": "硬",
+      "pinyin": "yìng",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "твёрдый",
+        "tk": "gaty",
+        "en": "hard"
+      }
+    },
+    {
+      "hanzi": "便",
+      "pinyin": "biàn",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "тогда, же (книжн.)",
+        "tk": "şeýdip",
+        "en": "then (formal)"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "瞎",
+      "pos": "v./adv.",
+      "explanation": {
+        "ru": "«瞎» — «быть слепым», а как наречие — «зря, без оснований».",
+        "tk": "«瞎» — «kör bolmak», hal hökmünde «biderek».",
+        "en": "'瞎' is 'blind'; as adverb — 'blindly, for no reason'."
+      },
+      "examples": [
+        {
+          "zh": "一天，他让士兵们去找一头大象和一些出生时眼睛就瞎了的人回来。",
+          "ru": "Однажды он велел солдатам привести слона и слепых от рождения.",
+          "tk": "Bir gün esgerlere pil we dogabitdi körleri getirmegi buýurdy.",
+          "en": "One day he ordered soldiers to bring an elephant and some people blind from birth."
+        },
+        {
+          "zh": "别听他瞎说，不用害怕。",
+          "ru": "Не слушай его глупости, не бойся.",
+          "tk": "Onuň biderek gepleýşine gulak asma, gorkma.",
+          "en": "Don't listen to his nonsense — don't be afraid."
+        },
+        {
+          "zh": "他自己的问题，他会想办法的，你就别替他瞎担心了。",
+          "ru": "Он сам решит свою проблему — не волнуйся за него зря.",
+          "tk": "Ol öz meselesini özi çözer — biderek alada etme.",
+          "en": "He'll handle his own problem — don't worry unnecessarily."
+        },
+        {
+          "zh": "聪明人用双手挡住了马的双眼，对那个人说：「要是这马真是你的，你一定知道马的哪只眼睛是瞎的。」",
+          "ru": "Умный человек закрыл лошади оба глаза руками и сказал: «Если это правда твоя лошадь, ты знаешь, какой глаз у неё слепой».",
+          "tk": "Akyldar atyň iki gözüni elleri bilen ýapyp: «Bu at hakykatdan seniňki bolsa, haýsy gözüniň kördugyny bilersiň» diýdi.",
+          "en": "The wise man covered the horse's eyes and said: 'If this horse is truly yours, you know which eye is blind.'"
+        },
+        {
+          "zh": "你别瞎猜了，事情不是你想的那样。",
+          "ru": "Не гадай зря — всё не так, как ты думаешь.",
+          "tk": "Biderek çaklama, iş seniň pikir edişiň ýaly däl.",
+          "en": "Stop guessing wildly — it's not as you imagine."
+        },
+        {
+          "zh": "别瞎花钱，要节省一点。",
+          "ru": "Не трать деньги зря, экономь.",
+          "tk": "Biderek pul harçlama, tygşytla.",
+          "en": "Don't waste money — economize."
+        },
+        {
+          "zh": "他瞎忙了一天，什么都没做成。",
+          "ru": "Он целый день суетился без толку и ничего не сделал.",
+          "tk": "Ol günüň dowamynda biderek howlukdy, hiç zat etmedi.",
+          "en": "He bustled around all day for nothing."
+        },
+        {
+          "zh": "你别瞎说，小心得罪人。",
+          "ru": "Не говори глупостей, как бы не обидеть кого.",
+          "tk": "Biderek gepleme, biriniň göwnüne degmez ýaly.",
+          "en": "Don't talk nonsense — you might offend someone."
+        },
+        {
+          "zh": "他是瞎编的故事，你别信。",
+          "ru": "Это он выдумал — не верь.",
+          "tk": "Bu onuň toslap düzen hekaýasy — ynama.",
+          "en": "He made it up — don't believe it."
+        },
+        {
+          "zh": "你瞎操心什么，一切都安排好了。",
+          "ru": "Чего зря переживаешь — всё уже организовано.",
+          "tk": "Biderek näme alada edýärsiň, hemme zat taýýar.",
+          "en": "Why worry unnecessarily — everything's arranged."
+        }
+      ]
+    },
+    {
+      "word": "分别",
+      "pos": "v./adv./n.",
+      "explanation": {
+        "ru": "«分别» — «прощаться»; как наречие — «по отдельности, соответственно»; как существительное — «различие».",
+        "tk": "«分别» — «hoşlaşmak»; hal hökmünde «aýry-aýry»; at hökmünde «tapawut».",
+        "en": "'分别' — 'to part'; adv. 'separately, respectively'; n. 'difference'."
+      },
+      "examples": [
+        {
+          "zh": "士兵们分别去不同地方寻找，把找到的大象和盲人带到他面前。",
+          "ru": "Солдаты разошлись по разным местам, и привели найденных слона и слепых к нему.",
+          "tk": "Esgerler aýry-aýry ýerlere gözläp, tapylan pili we körleri onuň öňüne getirdiler.",
+          "en": "Soldiers went to different places and brought the elephant and blind men before him."
+        },
+        {
+          "zh": "我分别找两个人打听了这件事，他们的说法都是一样的。",
+          "ru": "Я по отдельности расспросил двух человек — рассказы совпадают.",
+          "tk": "Men iki adamdan aýry-aýry soradym — gürrüňleri birmeňzeş.",
+          "en": "I asked two people separately — their accounts match."
+        },
+        {
+          "zh": "一张桌子上放着三瓶饮料，分别是茶、可乐和咖啡。",
+          "ru": "На столе три бутылки напитков: чай, кола и кофе соответственно.",
+          "tk": "Stol üstünde üç çüýşe içgi: çaý, kola we kofe.",
+          "en": "On the table are three drinks: tea, cola, and coffee respectively."
+        },
+        {
+          "zh": "从毕业到现在，我们已经分别20年了。",
+          "ru": "Со времени выпуска мы в разлуке уже 20 лет.",
+          "tk": "Okuw gutarandan bäri biz 20 ýyl aýry ýaşaýarys.",
+          "en": "Since graduation we've been apart for 20 years."
+        },
+        {
+          "zh": "我不知道这两种做法有什么分别。",
+          "ru": "Не знаю, в чём разница между этими двумя подходами.",
+          "tk": "Bu iki usulyň tapawudyny bilemok.",
+          "en": "I don't know the difference between these two approaches."
+        },
+        {
+          "zh": "谈到对目前工作最不满意的地方，39.1%的被调查者认为休息时间太少，发展慢、工资太低分别占20.3%和20%。",
+          "ru": "О недовольстве работой: 39,1% опрошенных недовольны малым отдыхом; медленный рост и низкая зарплата — 20,3% и 20% соответственно.",
+          "tk": "Işiň kanagatlanmazlygy barada: 39,1% dynç wagtynyň azlygyna, ösüşiň haýallygy we pes aýlyk degişlilikde 20,3% we 20%.",
+          "en": "About job dissatisfaction: 39.1% cite short rest time; slow growth and low salary at 20.3% and 20% respectively."
+        },
+        {
+          "zh": "这两张照片的分别是一眼就看得出来的。",
+          "ru": "Разницу между этими фотографиями видно с первого взгляда.",
+          "tk": "Bu iki suratyň tapawudy bir seretmekde bildir.",
+          "en": "The difference between these two photos is obvious at a glance."
+        },
+        {
+          "zh": "他们分别代表了不同的观点。",
+          "ru": "Они соответственно представляют разные точки зрения.",
+          "tk": "Olar aýry-aýry garaýyşlary görkezýärler.",
+          "en": "They respectively represent different views."
+        },
+        {
+          "zh": "分别之后，我们再也没有见过面。",
+          "ru": "После расставания мы больше не встречались.",
+          "tk": "Aýrylyşandan soň biz mundan beýläk duşuşmadyk.",
+          "en": "After parting, we never met again."
+        },
+        {
+          "zh": "这三种颜色分别代表红、黄、蓝。",
+          "ru": "Эти три цвета обозначают красный, жёлтый, синий соответственно.",
+          "tk": "Bu üç reňk gyzyl, sary we gögi aňladýar.",
+          "en": "These three colors represent red, yellow, and blue respectively."
+        }
+      ]
+    },
+    {
+      "word": "根",
+      "pos": "n./m.",
+      "explanation": {
+        "ru": "«根» — «корень»; как счётное слово — для длинных предметов (палки, стрелы, нитки).",
+        "tk": "«根» — «kök»; san sözi hökmünde uzyn zatlar üçin.",
+        "en": "'根' — 'root'; MW for long thin objects (sticks, arrows, threads)."
+      },
+      "examples": [
+        {
+          "zh": "摸到尾巴的盲人说大象像一根绳子。",
+          "ru": "Слепой, потрогавший хвост, сказал: «Слон похож на верёвку».",
+          "tk": "Guýrugy sypalan kör: «Pil ýüpe meňzeýär» diýdi.",
+          "en": "The blind man who touched the tail said: 'The elephant is like a rope.'"
+        },
+        {
+          "zh": "这次他连续换了几根箭，都没能再射进去。",
+          "ru": "Он подряд сменил несколько стрел — больше не смог пронзить камень.",
+          "tk": "Ol nobat bilen birnäçe oky çalyşdy — mundan beýläk geçirip bilmedi.",
+          "en": "He changed several arrows in a row — none pierced the stone again."
+        },
+        {
+          "zh": "这棵树的根又粗又长。",
+          "ru": "Корень этого дерева толстый и длинный.",
+          "tk": "Bu agajyň köki galyň we uzyn.",
+          "en": "This tree's root is thick and long."
+        },
+        {
+          "zh": "这种植物的根下雨时会大量吸水，从而满足自身的需要。",
+          "ru": "Корень этого растения в дождь впитывает много воды и тем самым удовлетворяет свои нужды.",
+          "tk": "Bu ösümligiň köki ýagyşda köp suw siňdirip, öz zerurlygyny kanagatlandyrýar.",
+          "en": "This plant's roots absorb lots of water in the rain, meeting its needs."
+        },
+        {
+          "zh": "你这颗牙连牙根都坏了，平时难道不疼吗？",
+          "ru": "У этого зуба даже корень повреждён — неужели не болит?",
+          "tk": "Bu dişiň köki hem zaýalanan — agyrmaýarmy?",
+          "en": "This tooth's root is damaged — doesn't it hurt?"
+        },
+        {
+          "zh": "这件事还是得从根上解决，只解决表面问题是不行的。",
+          "ru": "Этот вопрос надо решать в корне — поверхностное решение не поможет.",
+          "tk": "Bu meseläni düýbünden çözmeli — ýüzleý çözgüt peýdaly däl.",
+          "en": "This issue must be solved at the root — superficial fixes won't help."
+        },
+        {
+          "zh": "第一次用筷子的时候，两根筷子怎么也拿不稳。",
+          "ru": "Когда я впервые взял палочки, две палочки никак не держались.",
+          "tk": "Ilkinji gezek taýajyklary ulananymda, iki taýajyk saklanmady.",
+          "en": "When I first used chopsticks, the two couldn't stay steady."
+        },
+        {
+          "zh": "花园里种着几根竹子。",
+          "ru": "В саду посажено несколько стеблей бамбука.",
+          "tk": "Bagda birnäçe bambuk ösdürilýär.",
+          "en": "A few bamboo plants grow in the garden."
+        },
+        {
+          "zh": "他手里拿着一根香烟。",
+          "ru": "У него в руке сигарета.",
+          "tk": "Onuň elinde bir çilim bar.",
+          "en": "He holds a cigarette in his hand."
+        },
+        {
+          "zh": "给婴儿买一根玩具棒吧。",
+          "ru": "Купи ребёнку одну игрушечную палочку.",
+          "tk": "Çaga bir oýunjak taýajyk satyn al.",
+          "en": "Buy the baby a toy stick."
+        }
+      ]
+    },
+    {
+      "word": "便",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«便» — книжное «就». Часто в письменной речи.",
+        "tk": "«便» — kitaby «şeýdip, soň».",
+        "en": "'便' — formal 'then, so'. Common in written language."
+      },
+      "examples": [
+        {
+          "zh": "「精诚所至，金石为开」这一成语也便由此流传下来。",
+          "ru": "Идиом «Искренность откроет и камень» так и передался из поколения в поколение.",
+          "tk": "«Ak ýürek daşy hem açýar» idiomy şeýlelikde nesilden-nesle geçdi.",
+          "en": "Thus the idiom 'absolute sincerity moves even stone' was passed down."
+        },
+        {
+          "zh": "楼上新买了一架钢琴，我们家便多了一些不安静。",
+          "ru": "Наверху купили пианино — у нас стало меньше тишины.",
+          "tk": "Ýokarda täze pianino satyn aldy — biziň öýümizde-de ses köpeldi.",
+          "en": "Neighbors upstairs bought a piano — our home got noisier."
+        },
+        {
+          "zh": "很多时候，仅仅是换一种心情，换一个角度，便可以从困境中走出来。",
+          "ru": "Часто достаточно сменить настроение и угол зрения — и выйдешь из тупика.",
+          "tk": "Köplenç keýpi we garaýşy üýtgetmek — kynçylykdan çykmak üçin ýeterlik.",
+          "en": "Often simply changing mood and perspective can get you out of a deadlock."
+        },
+        {
+          "zh": "他刚出门，发现没带钥匙，便转身回去拿。",
+          "ru": "Он только вышел, обнаружил, что забыл ключи, и вернулся.",
+          "tk": "Ol diňe çykyp, açaryň ýokdugyny bildi we dolanyp aldy.",
+          "en": "He'd just left, noticed he forgot the keys, and turned back."
+        },
+        {
+          "zh": "朋友不停地给她介绍男朋友，但是每次不是她不喜欢别人，便是别人不喜欢她。",
+          "ru": "Друзья всё время знакомили её с молодыми людьми, но каждый раз либо он ей не нравился, либо он её не любил.",
+          "tk": "Dostlar oňa hemişe ýigit tanyşdyrýardylar, emma her gezek ýa ol halamady, ýa ol ony söýmedi.",
+          "en": "Friends kept introducing boyfriends, but each time either she didn't like him or he didn't like her."
+        },
+        {
+          "zh": "如果我们坚持原来的想法，这个工作便不可能完成。",
+          "ru": "Если мы будем держаться прежних идей, эту работу не завершить.",
+          "tk": "Öňki pikirimizi saklasak, bu işi gutaryp bolmaz.",
+          "en": "If we stick to our original ideas, this task can't be finished."
+        },
+        {
+          "zh": "他一点头，事情便定了下来。",
+          "ru": "Он кивнул — и дело было решено.",
+          "tk": "Ol kellesini sandy — iş çözüldi.",
+          "en": "He nodded, and the matter was settled."
+        },
+        {
+          "zh": "春天一到，花便开了。",
+          "ru": "Как только пришла весна — цветы расцвели.",
+          "tk": "Bahar gelen badyna güller açyldy.",
+          "en": "As soon as spring came, flowers bloomed."
+        },
+        {
+          "zh": "听了这话，他便不再多说。",
+          "ru": "Услышав это, он больше не стал говорить.",
+          "tk": "Bu sözleri eşidip, ol mundan beýläk gürlemedi.",
+          "en": "Upon hearing this, he said no more."
+        },
+        {
+          "zh": "他一到家，便给我打了电话。",
+          "ru": "Как только он добрался домой, сразу мне позвонил.",
+          "tk": "Öýe ýeten badyna maňa jaň etdi.",
+          "en": "As soon as he got home, he called me."
+        }
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "pattern": "动词 + 宾语",
+      "items": [
+        "寻找机会 / 信息 / 亲人 / 人才",
+        "确定时间 / 地点 / 人选"
+      ]
+    },
+    {
+      "pattern": "状语 + 中心语",
+      "items": [
+        "片面（地）看 / 认为",
+        "连续工作 / 驾驶 / 发生 / 演出"
+      ]
+    },
+    {
+      "pattern": "中心语 + 补语",
+      "items": [
+        "摸到 / 摸出（来）",
+        "打 / 撞 / 撕碎"
+      ]
+    },
+    {
+      "pattern": "数量词 + 名词",
+      "items": [
+        "一支笔 / 花 / 烟",
+        "一根 / 一条尾巴 / 绳子 / 皮带"
+      ]
+    },
+    {
+      "pattern": "主语 + 谓语",
+      "items": [
+        "这件事情 / 他的伤不要紧",
+        "反应很快"
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "忽然",
+      "word_b": "突然",
+      "common": {
+        "ru": "Оба — «вдруг, внезапно».",
+        "tk": "Ikisi hem «birden, garaşylmadyk».",
+        "en": "Both mean 'suddenly'."
+      },
+      "differences": [
+        {
+          "ru": "«忽然» — наречие, только перед глаголом или в начале фразы.",
+          "tk": "«忽然» — hal, diňe işlikden öň.",
+          "en": "'忽然' is only an adverb, before verbs or clauses."
+        },
+        {
+          "ru": "«突然» — и наречие, и прилагательное (можно сказать 这件事太突然了).",
+          "tk": "«突然» — hal we sypat.",
+          "en": "'突然' is both adverb and adjective."
+        },
+        {
+          "ru": "«突然» можно как определение: 这突然的一声喊叫吓了我一跳。",
+          "tk": "«突然» kesgitleme bolup bilýär.",
+          "en": "'突然' can be an attributive: 这突然的一声喊叫吓了我一跳。"
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "ru": "Язык и письменность",
+      "tk": "Dil we ýazuw",
+      "en": "Language and writing"
+    },
+    "words": [
+      {
+        "hanzi": "文字",
+        "pinyin": "wénzì",
+        "meaning": {
+          "ru": "письменность",
+          "tk": "ýazuw",
+          "en": "writing"
+        }
+      },
+      {
+        "hanzi": "词汇",
+        "pinyin": "cíhuì",
+        "meaning": {
+          "ru": "лексика",
+          "tk": "leksika",
+          "en": "vocabulary"
+        }
+      },
+      {
+        "hanzi": "成语",
+        "pinyin": "chéngyǔ",
+        "meaning": {
+          "ru": "идиом",
+          "tk": "idiom",
+          "en": "idiom"
+        }
+      },
+      {
+        "hanzi": "字母",
+        "pinyin": "zìmǔ",
+        "meaning": {
+          "ru": "буква",
+          "tk": "harp",
+          "en": "letter"
+        }
+      },
+      {
+        "hanzi": "声调",
+        "pinyin": "shēngdiào",
+        "meaning": {
+          "ru": "тон",
+          "tk": "ton",
+          "en": "tone"
+        }
+      },
+      {
+        "hanzi": "拼音",
+        "pinyin": "pīnyīn",
+        "meaning": {
+          "ru": "пиньинь",
+          "tk": "pinýin",
+          "en": "pinyin"
+        }
+      },
+      {
+        "hanzi": "语气",
+        "pinyin": "yǔqì",
+        "meaning": {
+          "ru": "интонация",
+          "tk": "äheň",
+          "en": "tone of voice"
+        }
+      },
+      {
+        "hanzi": "疑问",
+        "pinyin": "yíwèn",
+        "meaning": {
+          "ru": "вопрос",
+          "tk": "sorag",
+          "en": "question"
+        }
+      },
+      {
+        "hanzi": "否定",
+        "pinyin": "fǒudìng",
+        "meaning": {
+          "ru": "отрицание",
+          "tk": "inkär",
+          "en": "negation"
+        }
+      },
+      {
+        "hanzi": "省略",
+        "pinyin": "shěnglüè",
+        "meaning": {
+          "ru": "пропускать",
+          "tk": "goýbermek",
+          "en": "to omit"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "ru": "Что означает «凡事要有的放矢»? Почему важно иметь цель?",
+      "tk": "«Hemme işde nyşana almak» näme aňladýar? Maksatly bolmak näme üçin möhüm?",
+      "en": "What does 'aim before you shoot' mean? Why is having a goal important?"
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Кто такой Ли Гуан?",
+          "tk": "Li Guan kim boldy?",
+          "en": "Who was Li Guang?"
+        },
+        "options": [
+          "Учитель",
+          "Генерал",
+          "Царь",
+          "Крестьянин"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что он принял за тигра?",
+          "tk": "Ol nämä gaplaň hasaplady?",
+          "en": "What did he mistake for a tiger?"
+        },
+        "options": [
+          "Дерево",
+          "Скалу",
+          "Человека",
+          "Овцу"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что значит «精诚所至，金石为开»?",
+          "tk": "«精诚所至，金石为开» nämäni aňladýar?",
+          "en": "What does the idiom mean?"
+        },
+        "options": [
+          "Легко ломать камни",
+          "Искренность тронет камень",
+          "Металл дороже камня",
+          "Не бойся трудностей"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Почему слепые спорили?",
+          "tk": "Körler näme üçin jedelleşdiler?",
+          "en": "Why did the blind men argue?"
+        },
+        "options": [
+          "Каждый знал часть",
+          "Каждый видел всё",
+          "Каждый слышал",
+          "Каждый был прав"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Какой вывод сделал царь?",
+          "tk": "Patyşa nähili netije çykardy?",
+          "en": "What conclusion did the king draw?"
+        },
+        "options": [
+          "Все слепые",
+          "Односторонний взгляд не даёт вывода",
+          "Слон огромный",
+          "Спорить плохо"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Кто такой Ян Сюн?",
+          "tk": "Ýan Sýun kim?",
+          "en": "Who was Yang Xiong?"
+        },
+        "options": [
+          "Генерал",
+          "Учёный",
+          "Царь",
+          "Солдат"
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«成语» — это:",
+          "tk": "«成语» näme?",
+          "en": "'成语' means:"
+        },
+        "options": [
+          "Слово",
+          "Идиом",
+          "Предложение",
+          "Буква"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«盲人» — это:",
+          "tk": "«盲人» kim?",
+          "en": "'盲人' means:"
+        },
+        "options": [
+          "Глухой",
+          "Немой",
+          "Слепой",
+          "Хромой"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«胡说» означает:",
+          "tk": "«胡说» nämäni aňladýar?",
+          "en": "'胡说' means:"
+        },
+        "options": [
+          "Говорить правду",
+          "Говорить чепуху",
+          "Петь",
+          "Молчать"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что такое «尾巴»?",
+          "tk": "«尾巴» näme?",
+          "en": "What is '尾巴'?"
+        },
+        "options": [
+          "Голова",
+          "Хвост",
+          "Ухо",
+          "Лапа"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«片面» означает:",
+          "tk": "«片面» nämäni aňladýar?",
+          "en": "'片面' means:"
+        },
+        "options": [
+          "Полный",
+          "Односторонний",
+          "Простой",
+          "Сложный"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«结论» — это:",
+          "tk": "«结论» näme?",
+          "en": "'结论' means:"
+        },
+        "options": [
+          "Вопрос",
+          "Вывод",
+          "Ошибка",
+          "Ответ"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Кто такой «将军»?",
+          "tk": "«将军» kim?",
+          "en": "'将军' means:"
+        },
+        "options": [
+          "Солдат",
+          "Генерал",
+          "Царь",
+          "Учитель"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«善于» означает:",
+          "tk": "«善于» nämäni aňladýar?",
+          "en": "'善于' means:"
+        },
+        "options": [
+          "Не уметь",
+          "Хорошо уметь",
+          "Пытаться",
+          "Учиться"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что значит «全神贯注»?",
+          "tk": "«全神贯注» nämäni aňladýar?",
+          "en": "What does '全神贯注' mean?"
+        },
+        "options": [
+          "Спать",
+          "Полностью сосредоточиться",
+          "Смеяться",
+          "Плакать"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«石头» — это:",
+          "tk": "«石头» näme?",
+          "en": "'石头' means:"
+        },
+        "options": [
+          "Металл",
+          "Камень",
+          "Дерево",
+          "Песок"
+        ],
+        "answer": 1
+      }
+    ],
+    "writing": [
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "我",
+          "了",
+          "五六支箭",
+          "连续",
+          "射"
+        ],
+        "answer": "我连续射了五六支箭"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "一定能",
+          "寻找到",
+          "相信",
+          "你",
+          "最终的结论"
+        ],
+        "answer": "相信你一定能寻找到最终的结论"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "他说这话",
+          "反应过来",
+          "我",
+          "完全没有",
+          "的时候"
+        ],
+        "answer": "他说这话的时候我完全没有反应过来"
+      },
+      {
+        "type": "essay",
+        "prompt": {
+          "ru": "Сочинение 80+ иероглифов: 智慧、尽力、善于、反应、分别",
+          "tk": "80+ iýeroglif: 智慧、尽力、善于、反应、分别",
+          "en": "Essay 80+ chars: 智慧、尽力、善于、反应、分别"
+        },
+        "min_length": 80,
+        "required_words": [
+          "智慧",
+          "尽力",
+          "善于",
+          "反应",
+          "分别"
+        ]
+      }
+    ]
+  }
+}

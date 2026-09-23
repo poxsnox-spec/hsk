@@ -1,0 +1,1237 @@
+{
+  "title": {
+    "zh": "「朝三暮四」的古今义",
+    "ru": "«Утром три, вечером четыре» — прошлое и настоящее",
+    "tk": "«Irden üç, agşam dört» — geçmiş we häzirki",
+    "en": "Three at Dawn and Four at Dusk",
+    "uz": "«Ertalab uch, kechqurun to'rt» ma'nosi",
+    "tg": "«Субҳ се, шом чор»"
+  },
+  "audio_files": {
+    "textbook_1": "textbook_1.mp3",
+    "textbook_2": "textbook_2.mp3",
+    "vocab": "vocab.mp3",
+    "workbook_32_1": "workbook_32-1.mp3",
+    "workbook_32_2": "workbook_32-2.mp3"
+  },
+  "warmup": {
+    "question": {
+      "ru": "Что означает идиом «朝三暮四» сейчас? А раньше?",
+      "tk": "«朝三暮四» idiomy häzir nämäni aňladýar? Öňler näme aňladýardy?",
+      "en": "What does the idiom '朝三暮四' mean now? What did it mean before?"
+    },
+    "answers": [
+      "朝三暮四",
+      "古代",
+      "现代",
+      "词汇"
+    ]
+  },
+  "text_zh": "成语是汉语中非常有特点的一部分词汇。成语有固定的结构，不能随便更改；意义是整体性的，不是每个字意思的简单相加，而是综合起来表达一个完整的意思。一般来说，成语的意义也是稳定的，很少发生变化，比如我们学过的「盲人摸象」和「精诚所至，金石为开」。但也有古今不同的，像我们今天要学习的「朝三暮四」。中国古代有一位哲学家，在他的书中讲了这样一个寓言故事：从前有位老人，喂养了一群猴子当宠物。相处久了，彼此居然可以从表情、声音和行为举止中了解对方的意思。猴子太多，每天要吃大量的瓜果、蔬菜和粮食。然而，一个普通的家庭，财产不多，哪有那么大的财力满足一群猴子对食物的长期需要呢？老人甚至必须减少家人的消费，好节省些食物拿去喂养猴子。他注意到该限制猴子的食量了。问题是，猴子不像猪、狗，吃不饱时仅仅只是叫叫，它们如果得不到好的待遇，就会像一群调皮的孩子，经常跟人淘气。老人的朋友送给他很多橡子，这是一种猴子爱吃的果实。在其他粮食不足的情况下，用橡子喂猴子倒是个办法。于是老人对猴子们说：「今后你们除了吃馒头，还可以再吃一些橡子。我早上给你们三颗，晚上给四颗。」猴子们似乎只弄懂了主人前面说的一个「三」，觉得自己吃了亏，一个个立起身子跳来跳去，对着老人大喊大叫地发脾气。老人见猴子们不接受，就换了一种方式，安慰它们说道：「要不这样吧，既然你们觉得少，那就改成每天早上四颗，晚上三颗，这样总够了吧？」猴子把主人前面说的一个「四」当成全天多得了的橡子，所以马上安静下来，显得格外开心。老人看着这情景，哈哈地笑了。哲学家用这个故事告诉人们，不要太关心生死、得失，因为到最后我们会发现没有失去什么，也没有得到什么。不过，发展到今天，「朝三暮四」这个成语的意义已经完全改变了。你知道它现在是什么意思吗？",
+  "text_translation": {
+    "ru": "Идиомы — уникальная часть китайской лексики. Они имеют фиксированную структуру и цельное значение. Обычно их значение стабильно, но бывают и изменения во времени — как у «朝三暮四». Древний философ рассказал притчу: жил старик, который держал стаю обезьян. Они так сдружились, что понимали друг друга по выражению лица, звукам, поведению. Обезьян было много — прокормить их было тяжело. Старик даже вынужден был урезать расходы семьи. Он решил ограничить питание обезьян. Но обезьяны — не свиньи и не собаки: не поев, они начинали шуметь, как непослушные дети. Друг подарил старику жёлуди — любимое лакомство обезьян. Тогда старик сказал: «Теперь помимо паровых булочек вы будете получать ещё и жёлуди. Утром я даю три, вечером — четыре». Обезьяны услышали «три» — им показалось мало; они повскакивали и стали кричать на старика. Тогда он сказал: «Хорошо, тогда утром — четыре, вечером — три. Так достаточно?» Обезьяны услышали «четыре» и успокоились, чрезвычайно довольные. Философ учил: не придавайте слишком много значения жизни и смерти, приобретениям и потерям. Однако сегодня значение идиома полностью изменилось — ты знаешь, что оно значит сейчас?",
+    "tk": "Idiomlar hytaý leksikasynyň aýratyn bölegi. Olaryň gurluşy berk we many bütewi. Adatça many durnukly, ýöne wagtyň geçmegi bilen üýtgäp biler — «朝三暮四» ýaly. Bir gadymy filosof hekaýa gürrüň berdi: bir goja meýmynleri saklaýardy. Olar bir-birine şeýle öwrenişdiler welin, ýüz keşbinden, sesden, hereketden bir-birini düşünýärdiler. Meýmynler köpdi — olary iýmitlendirmek kyn boldy. Goja hatda maşgalasynyň çykdajylaryny azaltmaly boldy. Ol meýmynleriň iýmitini çäklendirmek kararyna geldi. Emma meýmynler doňuz ýa it däl — aç galanlarynda gygyryp başlaýardylar. Dosty oňa pisse berdi — meýmynleriň halaýan iýmiti. Şonda goja: «Mundan beýläk manty bilen birlikde pisse hem iýersiňiz. Irden üç, agşam dört bererin» diýdi. Meýmynler «üç» diýenini eşidip, azlyk hasapladylar we gygyryp başladylar. Goja: «Bolýar, irden dört, agşam üç. Şeýle ýeterlikmi?» diýdi. Meýmynler «dört» diýenini eşidip, rahat boldular. Filosof öwredýärdi: durmuşa we ölüme, gazanç we ýitgä aşa üns bermäň. Emma bu gün idiomuň many düýbünden üýtdi — häzir nämäni aňladýandygyny bilýärsiňizmi?",
+    "en": "Idioms are a very distinctive part of Chinese vocabulary. They have fixed structures that cannot be casually changed; their meanings are holistic — not the simple sum of each character's sense but a complete meaning formed together. Generally, idiom meanings are also stable and rarely change — for example, 'blind men and the elephant' or 'absolute sincerity moves even metal and stone.' But some have differed across time, like 'three at dawn, four at dusk' which we study today. A philosopher in ancient China told this fable: long ago an old man kept a troop of monkeys as pets. Living together long, they could even read each other from expression, voice and behavior. Too many monkeys — every day they ate great quantities of fruit, vegetables and grain. A common household had no wealth for such long-term needs. The old man even had to cut his family's spending to save food for the monkeys. He realized he must limit their rations. Problem: monkeys aren't pigs or dogs — when hungry they don't just bark, they make trouble like naughty children. A friend gave him many acorns — a fruit monkeys love. When other food was short, feeding acorns was an idea. So the old man said: 'From now on, besides steamed buns, you'll get acorns. In the morning I'll give three, in the evening four.' The monkeys only caught the 'three' and felt cheated — jumping up and down, screaming at the old man. Seeing they wouldn't accept it, he said instead: 'Alright, since you feel it's too little, let's change to four in the morning, three in the evening. Enough?' The monkeys took the 'four' as extra, calmed down, and looked delighted. The old man laughed. The philosopher used this to say: don't cling to life and death, gain and loss — in the end we find we lost nothing and gained nothing. However, today the idiom's meaning has completely changed. Do you know what it means now?"
+  },
+  "vocabulary": [
+    {
+      "hanzi": "朝三暮四",
+      "pinyin": "zhāosān mùsì",
+      "pos": "идиом",
+      "meaning": {
+        "ru": "утром три, вечером четыре; непостоянный",
+        "tk": "irden üç, agşam dört; ygtysyz",
+        "en": "to chop and change; fickle"
+      }
+    },
+    {
+      "hanzi": "词汇",
+      "pinyin": "cíhuì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "лексика",
+        "tk": "leksika",
+        "en": "vocabulary"
+      }
+    },
+    {
+      "hanzi": "固定",
+      "pinyin": "gùdìng",
+      "pos": "adj./v.",
+      "meaning": {
+        "ru": "фиксированный; закреплять",
+        "tk": "berk; berkitmek",
+        "en": "fixed; to fix"
+      }
+    },
+    {
+      "hanzi": "结构",
+      "pinyin": "jiégòu",
+      "pos": "n.",
+      "meaning": {
+        "ru": "структура",
+        "tk": "gurluş",
+        "en": "structure"
+      }
+    },
+    {
+      "hanzi": "整体",
+      "pinyin": "zhěngtǐ",
+      "pos": "n.",
+      "meaning": {
+        "ru": "целое",
+        "tk": "bitewi",
+        "en": "whole"
+      }
+    },
+    {
+      "hanzi": "综合",
+      "pinyin": "zōnghé",
+      "pos": "v.",
+      "meaning": {
+        "ru": "объединять, синтезировать",
+        "tk": "birleşdirmek",
+        "en": "to synthesize"
+      }
+    },
+    {
+      "hanzi": "完整",
+      "pinyin": "wánzhěng",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "полный, целостный",
+        "tk": "doly",
+        "en": "complete"
+      }
+    },
+    {
+      "hanzi": "哲学家",
+      "pinyin": "zhéxuéjiā",
+      "pos": "n.",
+      "meaning": {
+        "ru": "философ",
+        "tk": "filosof",
+        "en": "philosopher"
+      }
+    },
+    {
+      "hanzi": "寓言",
+      "pinyin": "yùyán",
+      "pos": "n.",
+      "meaning": {
+        "ru": "басня, притча",
+        "tk": "pritça",
+        "en": "fable"
+      }
+    },
+    {
+      "hanzi": "喂养",
+      "pinyin": "wèiyǎng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "кормить, выращивать",
+        "tk": "iýmitlendirmek",
+        "en": "to feed"
+      }
+    },
+    {
+      "hanzi": "群",
+      "pinyin": "qún",
+      "pos": "m.",
+      "meaning": {
+        "ru": "стая, группа",
+        "tk": "süri",
+        "en": "group, flock"
+      }
+    },
+    {
+      "hanzi": "猴子",
+      "pinyin": "hóuzi",
+      "pos": "n.",
+      "meaning": {
+        "ru": "обезьяна",
+        "tk": "meýmyn",
+        "en": "monkey"
+      }
+    },
+    {
+      "hanzi": "宠物",
+      "pinyin": "chǒngwù",
+      "pos": "n.",
+      "meaning": {
+        "ru": "питомец",
+        "tk": "haýwan (öý)",
+        "en": "pet"
+      }
+    },
+    {
+      "hanzi": "相处",
+      "pinyin": "xiāngchǔ",
+      "pos": "v.",
+      "meaning": {
+        "ru": "ладить, общаться",
+        "tk": "aragatnaşyk etmek",
+        "en": "to get along"
+      }
+    },
+    {
+      "hanzi": "彼此",
+      "pinyin": "bǐcǐ",
+      "pos": "pron.",
+      "meaning": {
+        "ru": "друг друга",
+        "tk": "biri-birini",
+        "en": "each other"
+      }
+    },
+    {
+      "hanzi": "表情",
+      "pinyin": "biǎoqíng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "выражение лица",
+        "tk": "ýüz keşbi",
+        "en": "expression"
+      }
+    },
+    {
+      "hanzi": "行为",
+      "pinyin": "xíngwéi",
+      "pos": "n.",
+      "meaning": {
+        "ru": "поведение",
+        "tk": "hereket",
+        "en": "behavior"
+      }
+    },
+    {
+      "hanzi": "对方",
+      "pinyin": "duìfāng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "другая сторона",
+        "tk": "beýleki tarap",
+        "en": "the other party"
+      }
+    },
+    {
+      "hanzi": "蔬菜",
+      "pinyin": "shūcài",
+      "pos": "n.",
+      "meaning": {
+        "ru": "овощи",
+        "tk": "gök önümler",
+        "en": "vegetables"
+      }
+    },
+    {
+      "hanzi": "粮食",
+      "pinyin": "liángshi",
+      "pos": "n.",
+      "meaning": {
+        "ru": "зерно, продовольствие",
+        "tk": "azyk",
+        "en": "grain, food"
+      }
+    },
+    {
+      "hanzi": "家庭",
+      "pinyin": "jiātíng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "семья",
+        "tk": "maşgala",
+        "en": "family"
+      }
+    },
+    {
+      "hanzi": "财产",
+      "pinyin": "cáichǎn",
+      "pos": "n.",
+      "meaning": {
+        "ru": "имущество",
+        "tk": "emläk",
+        "en": "property"
+      }
+    },
+    {
+      "hanzi": "消费",
+      "pinyin": "xiāofèi",
+      "pos": "v.",
+      "meaning": {
+        "ru": "потреблять",
+        "tk": "sarp etmek",
+        "en": "to consume"
+      }
+    },
+    {
+      "hanzi": "节省",
+      "pinyin": "jiéshěng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "экономить",
+        "tk": "tygşytlamak",
+        "en": "to save"
+      }
+    },
+    {
+      "hanzi": "限制",
+      "pinyin": "xiànzhì",
+      "pos": "v.",
+      "meaning": {
+        "ru": "ограничивать",
+        "tk": "çäklendirmek",
+        "en": "to limit"
+      }
+    },
+    {
+      "hanzi": "猪",
+      "pinyin": "zhū",
+      "pos": "n.",
+      "meaning": {
+        "ru": "свинья",
+        "tk": "doňuz",
+        "en": "pig"
+      }
+    },
+    {
+      "hanzi": "调皮",
+      "pinyin": "tiáopí",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "озорной",
+        "tk": "biçak",
+        "en": "naughty"
+      }
+    },
+    {
+      "hanzi": "淘气",
+      "pinyin": "táoqì",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "шаловливый",
+        "tk": "biçak",
+        "en": "mischievous"
+      }
+    },
+    {
+      "hanzi": "橡子",
+      "pinyin": "xiàngzi",
+      "pos": "n.",
+      "meaning": {
+        "ru": "жёлудь",
+        "tk": "pisse",
+        "en": "acorn"
+      }
+    },
+    {
+      "hanzi": "果实",
+      "pinyin": "guǒshí",
+      "pos": "n.",
+      "meaning": {
+        "ru": "плод",
+        "tk": "miwe",
+        "en": "fruit"
+      }
+    },
+    {
+      "hanzi": "不足",
+      "pinyin": "bùzú",
+      "pos": "adj./v.",
+      "meaning": {
+        "ru": "недостаточный",
+        "tk": "ýetmezçilik",
+        "en": "insufficient"
+      }
+    },
+    {
+      "hanzi": "倒",
+      "pinyin": "dào",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "наоборот, напротив",
+        "tk": "tersine",
+        "en": "rather, on the contrary"
+      }
+    },
+    {
+      "hanzi": "馒头",
+      "pinyin": "mántou",
+      "pos": "n.",
+      "meaning": {
+        "ru": "паровая булочка",
+        "tk": "manty",
+        "en": "steamed bun"
+      }
+    },
+    {
+      "hanzi": "颗",
+      "pinyin": "kē",
+      "pos": "m.",
+      "meaning": {
+        "ru": "счётное слово (для мелких круглых)",
+        "tk": "körpe zatlar üçin san sözi",
+        "en": "MW for small round things"
+      }
+    },
+    {
+      "hanzi": "似乎",
+      "pinyin": "sìhū",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "по-видимому, кажется",
+        "tk": "görnüşine",
+        "en": "seemingly"
+      }
+    },
+    {
+      "hanzi": "吃亏",
+      "pinyin": "chīkuī",
+      "pos": "v.",
+      "meaning": {
+        "ru": "терпеть убыток",
+        "tk": "zyýan çekmek",
+        "en": "to suffer losses"
+      }
+    },
+    {
+      "hanzi": "方式",
+      "pinyin": "fāngshì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "способ",
+        "tk": "usul",
+        "en": "way, method"
+      }
+    },
+    {
+      "hanzi": "安慰",
+      "pinyin": "ānwèi",
+      "pos": "v.",
+      "meaning": {
+        "ru": "утешать",
+        "tk": "teselli bermek",
+        "en": "to comfort"
+      }
+    },
+    {
+      "hanzi": "要不",
+      "pinyin": "yàobù",
+      "pos": "conj.",
+      "meaning": {
+        "ru": "или же, иначе",
+        "tk": "ýa-da",
+        "en": "otherwise, or else"
+      }
+    },
+    {
+      "hanzi": "显得",
+      "pinyin": "xiǎnde",
+      "pos": "v.",
+      "meaning": {
+        "ru": "выглядеть, казаться",
+        "tk": "görünmek",
+        "en": "to seem"
+      }
+    },
+    {
+      "hanzi": "格外",
+      "pinyin": "géwài",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "особенно",
+        "tk": "ayratyn",
+        "en": "especially"
+      }
+    },
+    {
+      "hanzi": "情景",
+      "pinyin": "qíngjǐng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "сцена, картина",
+        "tk": "manzara",
+        "en": "scene"
+      }
+    },
+    {
+      "hanzi": "哈",
+      "pinyin": "hā",
+      "pos": "onom.",
+      "meaning": {
+        "ru": "ха (смех)",
+        "tk": "ha (gülki)",
+        "en": "ha (laughter)"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "倒",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«倒» — «наоборот, вопреки ожиданиям»; также для уступки и для нетерпеливого вопроса.",
+        "tk": "«倒» — «tersine»; hem boýun egmek, hem sabyrsyz sorag üçin.",
+        "en": "'倒' — 'on the contrary, unexpectedly'; also for concession and impatient questioning."
+      },
+      "examples": [
+        {
+          "zh": "在其他粮食不足的情况下，用橡子喂猴子倒是个办法。",
+          "ru": "Когда другой еды не хватает, кормить обезьян жёлудями — наоборот, выход.",
+          "tk": "Beýleki azyk ýetmese, meýmynleri pisse bilen iýmitlendirmek tersine çözgüt.",
+          "en": "When other food runs short, feeding the monkeys acorns is actually a solution."
+        },
+        {
+          "zh": "少年不解地问：「怎么勇敢反倒成为缺点了？」",
+          "ru": "Юноша не понял: «Как храбрость вдруг стала недостатком?»",
+          "tk": "Ýigit düşünmän sorady: «Batyrlyk nähili kemçilige öwrüldi?»",
+          "en": "The youth asked in confusion: 'How did bravery become a flaw?'"
+        },
+        {
+          "zh": "有这样的人？我倒要认识认识。",
+          "ru": "Есть такой человек? Интересно было бы познакомиться.",
+          "tk": "Şeýle adam barmy? Tanyşmak islärin.",
+          "en": "There's such a person? I'd like to meet him."
+        },
+        {
+          "zh": "质量倒是挺好，就是价格太贵了。",
+          "ru": "Качество-то хорошее, только цена слишком высокая.",
+          "tk": "Hil gowy, diňe bahasy gaty gymmat.",
+          "en": "Quality is fine — only the price is too high."
+        },
+        {
+          "zh": "你究竟去还是不去？倒是说句话呀！",
+          "ru": "Ты идёшь или нет? Скажи хоть слово!",
+          "tk": "Sen barýarsyňmy ýa ýok? Aýt bir zat!",
+          "en": "Are you going or not? Say something!"
+        },
+        {
+          "zh": "我倒是很愿意参加，就是暂时没时间。",
+          "ru": "Я, наоборот, очень хотел бы участвовать, только пока нет времени.",
+          "tk": "Men tersine gatnaşmak isleýärin, diňe häzir wagtym ýok.",
+          "en": "I'd actually like to attend — just no time now."
+        },
+        {
+          "zh": "这件衣服样子倒是好看，就是太贵了。",
+          "ru": "У этой одежды, наоборот, вид красивый — только слишком дорого.",
+          "tk": "Bu egin-eşigiň görnüşi tersine owadan — diňe gaty gymmat.",
+          "en": "This clothing's look is actually nice — just too expensive."
+        },
+        {
+          "zh": "我们倒是不饿，就是有点儿累。",
+          "ru": "Мы-то, наоборот, не голодны — только устали.",
+          "tk": "Biz tersine aç däl, diňe ýadadyk.",
+          "en": "We're not hungry — just tired."
+        },
+        {
+          "zh": "你倒是快点儿啊！",
+          "ru": "Да поторапливайся же!",
+          "tk": "Çaltrak hereket et!",
+          "en": "Hurry up already!"
+        },
+        {
+          "zh": "对方确实厉害，一上场就先赢了他两局，但最后反倒是他赢了。",
+          "ru": "Соперник сильный — сразу выиграл две партии, но в итоге, наоборот, победил он.",
+          "tk": "Garşydaş güýçli — iki tapgyry derrew ýeňdi, ýöne ahyrynda tersine ol ýeňdi.",
+          "en": "The opponent was strong, won two rounds — but in the end, he won instead."
+        }
+      ]
+    },
+    {
+      "word": "来/去 (重复动作)",
+      "pos": "конструкция",
+      "explanation": {
+        "ru": "«动词 + 来 + 动词 + 去» — повторяющееся действие («туда-сюда»).",
+        "tk": "«动词 + 来 + 动词 + 去» — gaýtalanýan hereket.",
+        "en": "'V+来 + V+去' — repeated action ('back and forth')."
+      },
+      "examples": [
+        {
+          "zh": "猴子们似乎只弄懂了主人前面说的一个「三」，觉得自己吃了亏，一个个立起身子跳来跳去。",
+          "ru": "Обезьяны поняли только «три» и, чувствуя себя обделёнными, прыгали туда-сюда.",
+          "tk": "Meýmynler diňe «üç» düşündiler we zyýan çekendigini duýup, bäri-ä gidip bökdüler.",
+          "en": "The monkeys only grasped 'three' and, feeling cheated, jumped back and forth."
+        },
+        {
+          "zh": "小狗追着自己的尾巴，在草地上跑来跑去。",
+          "ru": "Щенок гонялся за своим хвостом и бегал по траве туда-сюда.",
+          "tk": "Güjük öz guýrugyny kowalap, otlaryň üstünde ylgap ýördi.",
+          "en": "The puppy chased its tail, running back and forth on the grass."
+        },
+        {
+          "zh": "他们研究来讨论去，还是没找出原因。",
+          "ru": "Они изучали и обсуждали-обсуждали, но так и не нашли причину.",
+          "tk": "Olar öwrenip-pikirleşdiler, ýöne sebäbini tapmadylar.",
+          "en": "They studied and discussed, but still couldn't find the reason."
+        },
+        {
+          "zh": "他在房间里走来走去，好像在等谁。",
+          "ru": "Он ходил туда-сюда по комнате, будто кого-то ждал.",
+          "tk": "Ol otagda bäri-ä gidip ýördi, kimdir birine garaşýan ýaly.",
+          "en": "He paced back and forth in the room, as if waiting for someone."
+        },
+        {
+          "zh": "孩子们在院子里跑来跑去，非常开心。",
+          "ru": "Дети бегали туда-сюда по двору, очень счастливые.",
+          "tk": "Çagalar howluda bäri-ä ylgadylar, örän begençli.",
+          "en": "Kids ran back and forth in the yard, very happy."
+        },
+        {
+          "zh": "我想来想去，还是觉得这个方案最好。",
+          "ru": "Я думал-думал и всё же считаю этот план лучшим.",
+          "tk": "Men oýlanyp-oýlanyp, iň gowy meýilnama diýip pikir etdim.",
+          "en": "I thought it over and still think this plan is best."
+        },
+        {
+          "zh": "翻来翻去，终于找到了那本书。",
+          "ru": "Перелистывал-перелистывал и наконец нашёл ту книгу.",
+          "tk": "Agtar-a agtar, ahyrynda şol kitaby tapdym.",
+          "en": "Flipping back and forth, I finally found that book."
+        },
+        {
+          "zh": "两个人商量来商量去，还是没结果。",
+          "ru": "Двое совещались-совещались, но без результата.",
+          "tk": "Iki adam maslahatlaşyp-maslahatlaşyp, netije çykmady.",
+          "en": "The two discussed back and forth, but to no result."
+        },
+        {
+          "zh": "他看来看去，也挑不出什么毛病。",
+          "ru": "Он смотрел-смотрел, но так и не нашёл недостатков.",
+          "tk": "Ol seretdi-seretdi, ýöne kemçilik tapmady.",
+          "en": "He looked and looked, but couldn't find any flaw."
+        },
+        {
+          "zh": "写来写去，还是觉得第一版最好。",
+          "ru": "Писал-писал и всё же считаю первую версию лучшей.",
+          "tk": "Ýazdym-ýazdym, ýöne birinji warianty iň gowy hasapladym.",
+          "en": "Wrote and rewrote, but still think the first draft is best."
+        }
+      ]
+    },
+    {
+      "word": "要不",
+      "pos": "conj.",
+      "explanation": {
+        "ru": "«要不» — «иначе, а то»; также «или же» (альтернатива).",
+        "tk": "«要不» — «ýogsam»; hem «ýa-da» (alternatiwa).",
+        "en": "'要不' means 'otherwise' or 'or else' (alternative)."
+      },
+      "examples": [
+        {
+          "zh": "要不这样吧，既然你们觉得少，那就改成每天早上四颗，晚上三颗。",
+          "ru": "Давайте так: раз вам мало, пусть утром будет четыре, вечером — три.",
+          "tk": "Şeýle edeliň: az diýseňiz, irden dört, agşam üç bolsun.",
+          "en": "How about this: since you find it few, make it four in the morning, three in the evening."
+        },
+        {
+          "zh": "老太太说：「4块，要不我不买。」",
+          "ru": "Старушка сказала: «4 юаня, иначе не куплю».",
+          "tk": "Goja aýal: «4 ýuwan, ýogsam almam» diýdi.",
+          "en": "The old lady said: 'Four yuan, or I won't buy it.'"
+        },
+        {
+          "zh": "还好碰见你了，要不然我今天肯定要迟到了。",
+          "ru": "Хорошо, что тебя встретил — иначе точно опоздал бы.",
+          "tk": "Seni duşanym gowy boldy — ýogsam gijä galardym.",
+          "en": "Good thing I ran into you — otherwise I'd be late."
+        },
+        {
+          "zh": "今天太晚了，要不你明天再走吧。",
+          "ru": "Сегодня уже поздно — может, уедешь завтра?",
+          "tk": "Bu gün gaty giç — belki ertir gidersiň?",
+          "en": "It's too late today — maybe leave tomorrow."
+        },
+        {
+          "zh": "要不我们先去吃饭，再去看电影？",
+          "ru": "Может, сначала поедим, потом пойдём в кино?",
+          "tk": "Belki ilki nahar iýip, soň kinony göreris?",
+          "en": "How about we eat first, then see a movie?"
+        },
+        {
+          "zh": "要不我们打电话问问吧。",
+          "ru": "Может, позвоним и спросим?",
+          "tk": "Belki jaň edip sorarys?",
+          "en": "Shall we call and ask?"
+        },
+        {
+          "zh": "快点儿，要不赶不上火车了。",
+          "ru": "Быстрее, иначе опоздаем на поезд.",
+          "tk": "Çaltrak, ýogsam otla gijä galarys.",
+          "en": "Hurry — otherwise we'll miss the train."
+        },
+        {
+          "zh": "要不你坐地铁去，比开车快。",
+          "ru": "Может, поедешь на метро — быстрее, чем на машине.",
+          "tk": "Belki metroda gidersiň — maşyndan çalt.",
+          "en": "How about taking the subway — faster than driving."
+        },
+        {
+          "zh": "要不我来帮你吧。",
+          "ru": "Может, я тебе помогу?",
+          "tk": "Belki men saňa kömek ederin?",
+          "en": "Shall I help you?"
+        },
+        {
+          "zh": "要不改天再约？",
+          "ru": "Может, встретимся в другой день?",
+          "tk": "Belki başga gün duşuşarys?",
+          "en": "Shall we meet another day?"
+        }
+      ]
+    },
+    {
+      "word": "彼此",
+      "pos": "pron.",
+      "explanation": {
+        "ru": "«彼此» — «друг друга, взаимно». Может быть подлежащим, дополнением, определением; может удваиваться.",
+        "tk": "«彼此» — «biri-birini, özara». Gaýtalanýar.",
+        "en": "'彼此' — 'each other'. Can be subject, object, attributive; can be reduplicated."
+      },
+      "examples": [
+        {
+          "zh": "相处久了，彼此居然可以从表情、声音和行为举止中了解对方的意思。",
+          "ru": "Пожив вместе, они стали понимать друг друга по выражению лица, голосу и поведению.",
+          "tk": "Uzak wagtlap bile ýaşap, biri-biriniň ýüz keşbinden, sesinden we hereketinden manyny düşündiler.",
+          "en": "After living together long, they could understand each other via expression, voice, and behavior."
+        },
+        {
+          "zh": "我们彼此/互相都很了解对方。",
+          "ru": "Мы хорошо понимаем друг друга.",
+          "tk": "Biz biri-birimizi gowy düşünýäris.",
+          "en": "We understand each other well."
+        },
+        {
+          "zh": "相处久了，彼此之间的感情越来越深。",
+          "ru": "Прожив долго вместе, они всё сильнее привязывались друг к другу.",
+          "tk": "Uzak wagtlap bile ýaşap, biri-birine bolan söýgüsi barha güýçlendi.",
+          "en": "Living together for a long time, their mutual affection deepened."
+        },
+        {
+          "zh": "我们是最好的朋友，不分彼此。",
+          "ru": "Мы лучшие друзья, между нами нет разделения.",
+          "tk": "Biz iň gowy dostlar, aramyzda tapawut ýok.",
+          "en": "We're best friends — nothing is 'mine' or 'yours'."
+        },
+        {
+          "zh": "我们彼此的爱好相同。",
+          "ru": "У нас взаимно похожие увлечения.",
+          "tk": "Biziň gyzyklanmalarymyz birmeňzeş.",
+          "en": "Our hobbies are similar."
+        },
+        {
+          "zh": "咱们俩彼此彼此，我画得比你好不了多少。",
+          "ru": "Мы с тобой одинаковы: я рисую не намного лучше.",
+          "tk": "Biz ikimiz deň: men senden kän gowy çezemok.",
+          "en": "We're the same — I don't draw much better than you."
+        },
+        {
+          "zh": "我们是老同学，彼此之间非常了解。",
+          "ru": "Мы старые однокурсники и отлично знаем друг друга.",
+          "tk": "Biz köne klasdaşlar, biri-birimizi gaty gowy bilýäris.",
+          "en": "We're old classmates and know each other very well."
+        },
+        {
+          "zh": "对同一个问题，彼此的认识不同，是很正常的事情。",
+          "ru": "По одному и тому же вопросу понимания друг друга могут различаться — это нормально.",
+          "tk": "Bir meselede biri-biriniň düşünişi tapawutlanýar — bu adaty.",
+          "en": "Different understandings of the same issue are normal."
+        },
+        {
+          "zh": "朋友之间应该彼此信任。",
+          "ru": "Друзья должны доверять друг другу.",
+          "tk": "Dostlar biri-birine ynam etmeli.",
+          "en": "Friends should trust each other."
+        },
+        {
+          "zh": "他们在工作中彼此支持。",
+          "ru": "Они поддерживают друг друга в работе.",
+          "tk": "Olar işde biri-birini goldaýarlar.",
+          "en": "They support each other at work."
+        }
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "pattern": "动词 + 宾语",
+      "items": [
+        "限制数量 / 年龄 / 发展",
+        "显得很健康 / 格外高兴 / 更加美丽"
+      ]
+    },
+    {
+      "pattern": "定语 + 中心语",
+      "items": [
+        "固定（的）结构 / 职业 / 收入 / 座位 / 地点",
+        "消费群体 / 消费量 / 消费习惯 / 消费水平 / 消费标准"
+      ]
+    },
+    {
+      "pattern": "状语 + 中心语",
+      "items": [
+        "完整地叙述 / 取出来 / 保留下来",
+        "跟朋友 / 家人相处"
+      ]
+    },
+    {
+      "pattern": "中心语 + 补语",
+      "items": [
+        "固定一下 / 下来 / 在……",
+        "节省一点儿 / 出来 / 下来"
+      ]
+    },
+    {
+      "pattern": "数量词 + 名词",
+      "items": [
+        "一群猴子 / 鸟 / 牛 / 羊 / 马 / 人 / 学生",
+        "一颗葡萄 / 牙齿"
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "彼此",
+      "word_b": "互相",
+      "common": {
+        "ru": "Оба — «взаимно, друг друга».",
+        "tk": "Ikisi hem «özara».",
+        "en": "Both mean 'mutually, each other'."
+      },
+      "differences": [
+        {
+          "ru": "«彼此» — местоимение, может быть подлежащим и дополнением.",
+          "tk": "«彼此» — çalyşma, eýe we doldurgyç bolup bilýär.",
+          "en": "'彼此' is a pronoun — subject or object."
+        },
+        {
+          "ru": "«互相» — наречие, всегда перед глаголом и с подлежащим.",
+          "tk": "«互相» — hal, hemişe işlikden öň.",
+          "en": "'互相' is an adverb, always before verb with subject."
+        },
+        {
+          "ru": "«彼此» может удваиваться: 彼此彼此.",
+          "tk": "«彼此» gaýtalanýar.",
+          "en": "'彼此' can reduplicate: 彼此彼此."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "ru": "Еда и напитки",
+      "tk": "Iýmit we içgiler",
+      "en": "Food and drinks"
+    },
+    "words": [
+      {
+        "hanzi": "食物",
+        "pinyin": "shíwù",
+        "meaning": {
+          "ru": "еда",
+          "tk": "azyk",
+          "en": "food"
+        }
+      },
+      {
+        "hanzi": "粮食",
+        "pinyin": "liángshi",
+        "meaning": {
+          "ru": "зерно",
+          "tk": "däne",
+          "en": "grain"
+        }
+      },
+      {
+        "hanzi": "蔬菜",
+        "pinyin": "shūcài",
+        "meaning": {
+          "ru": "овощи",
+          "tk": "gök önüm",
+          "en": "vegetables"
+        }
+      },
+      {
+        "hanzi": "豆腐",
+        "pinyin": "dòufu",
+        "meaning": {
+          "ru": "тофу",
+          "tk": "doňuz (tofu)",
+          "en": "tofu"
+        }
+      },
+      {
+        "hanzi": "辣椒",
+        "pinyin": "làjiāo",
+        "meaning": {
+          "ru": "острый перец",
+          "tk": "ajy burç",
+          "en": "chili pepper"
+        }
+      },
+      {
+        "hanzi": "花生",
+        "pinyin": "huāshēng",
+        "meaning": {
+          "ru": "арахис",
+          "tk": "ýer hozy",
+          "en": "peanut"
+        }
+      },
+      {
+        "hanzi": "土豆",
+        "pinyin": "tǔdòu",
+        "meaning": {
+          "ru": "картошка",
+          "tk": "kartoşka",
+          "en": "potato"
+        }
+      },
+      {
+        "hanzi": "玉米",
+        "pinyin": "yùmǐ",
+        "meaning": {
+          "ru": "кукуруза",
+          "tk": "mekgejöwen",
+          "en": "corn"
+        }
+      },
+      {
+        "hanzi": "馒头",
+        "pinyin": "mántou",
+        "meaning": {
+          "ru": "паровая булочка",
+          "tk": "manty",
+          "en": "steamed bun"
+        }
+      },
+      {
+        "hanzi": "海鲜",
+        "pinyin": "hǎixiān",
+        "meaning": {
+          "ru": "морепродукты",
+          "tk": "deňiz önümleri",
+          "en": "seafood"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "ru": "Приведите пример, как значение слова в вашем языке изменилось со временем.",
+      "tk": "Diliňizdäki bir sözüň wagtyň geçmegi bilen many taýdan üýtgändigine mysal getiriň.",
+      "en": "Give an example of a word whose meaning changed over time in your language."
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Почему старику было трудно?",
+          "tk": "Goja näme üçin kyn boldy?",
+          "en": "Why was the old man struggling?"
+        },
+        "options": [
+          "Много работы",
+          "Много обезьян",
+          "Мало денег на еду",
+          "Плохая погода"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что ели обезьяны?",
+          "tk": "Meýmynler näme iýýärdi?",
+          "en": "What did the monkeys eat?"
+        },
+        "options": [
+          "Только мясо",
+          "Фрукты, овощи, зерно",
+          "Только рис",
+          "Только рыбу"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что подарил старику друг?",
+          "tk": "Dosty goja näme sowgat etdi?",
+          "en": "What did the friend gift?"
+        },
+        "options": [
+          "Яблоки",
+          "Жёлуди",
+          "Рис",
+          "Мясо"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что сначала предложил старик?",
+          "tk": "Goja ilki näme teklip etdi?",
+          "en": "What did the old man offer first?"
+        },
+        "options": [
+          "Утром 4, вечером 3",
+          "Утром 3, вечером 4",
+          "Утром 5, вечером 5",
+          "Утром 3, вечером 3"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что сделали обезьяны?",
+          "tk": "Meýmynler näme etdiler?",
+          "en": "What did the monkeys do?"
+        },
+        "options": [
+          "Успокоились",
+          "Зашумели",
+          "Ушли",
+          "Спали"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что хотел сказать философ?",
+          "tk": "Filosof näme aýtmak isledi?",
+          "en": "What did the philosopher mean?"
+        },
+        "options": [
+          "Не бойся",
+          "Не переживай о приобретениях и потерях",
+          "Торопись",
+          "Работай больше"
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«固定» означает:",
+          "tk": "«固定» nämäni aňladýar?",
+          "en": "'固定' means:"
+        },
+        "options": [
+          "Меняющийся",
+          "Постоянный",
+          "Гибкий",
+          "Свободный"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«结构» — это:",
+          "tk": "«结构» näme?",
+          "en": "'结构' means:"
+        },
+        "options": [
+          "Форма",
+          "Структура",
+          "Цвет",
+          "Звук"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«哲学» изучает:",
+          "tk": "«哲学» nämäni öwrenýär?",
+          "en": "'哲学' studies:"
+        },
+        "options": [
+          "Язык",
+          "Философию",
+          "Историю",
+          "Науку"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«寓言» — это:",
+          "tk": "«寓言» näme?",
+          "en": "'寓言' means:"
+        },
+        "options": [
+          "Стих",
+          "Притча",
+          "Песня",
+          "Роман"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«宠物» — это:",
+          "tk": "«宠物» näme?",
+          "en": "'宠物' means:"
+        },
+        "options": [
+          "Дикое животное",
+          "Домашний питомец",
+          "Растение",
+          "Ребёнок"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«相处» означает:",
+          "tk": "«相处» nämäni aňladýar?",
+          "en": "'相处' means:"
+        },
+        "options": [
+          "Ссориться",
+          "Ладить",
+          "Драться",
+          "Прощаться"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что такое «行为»?",
+          "tk": "«行为» näme?",
+          "en": "What is '行为'?"
+        },
+        "options": [
+          "Мысль",
+          "Поведение",
+          "Слово",
+          "Чувство"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«对方» означает:",
+          "tk": "«对方» nämäni aňladýar?",
+          "en": "'对方' means:"
+        },
+        "options": [
+          "Своя сторона",
+          "Другая сторона",
+          "Никто",
+          "Все"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что значит «节约»?",
+          "tk": "«节约» nämäni aňladýar?",
+          "en": "What does '节约' mean?"
+        },
+        "options": [
+          "Тратить",
+          "Экономить",
+          "Покупать",
+          "Продавать"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«限制» — это:",
+          "tk": "«限制» näme?",
+          "en": "'限制' means:"
+        },
+        "options": [
+          "Увеличивать",
+          "Ограничивать",
+          "Свобода",
+          "Помощь"
+        ],
+        "answer": 1
+      }
+    ],
+    "writing": [
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "固定的",
+          "产品",
+          "有",
+          "这种",
+          "消费群体"
+        ],
+        "answer": "这种产品有固定的消费群体"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "把",
+          "完整地",
+          "请你",
+          "昨晚的经历",
+          "叙述一遍"
+        ],
+        "answer": "请你把昨晚的经历完整地叙述一遍"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "不",
+          "家庭的财力",
+          "他的需要",
+          "满足",
+          "能"
+        ],
+        "answer": "家庭的财力不能满足他的需要"
+      },
+      {
+        "type": "essay",
+        "prompt": {
+          "ru": "Сочинение 80+ иероглифов: 相处、对方、调皮、行为、似乎",
+          "tk": "80+ iýeroglif: 相处、对方、调皮、行为、似乎",
+          "en": "Essay 80+ chars: 相处、对方、调皮、行为、似乎"
+        },
+        "min_length": 80,
+        "required_words": [
+          "相处",
+          "对方",
+          "调皮",
+          "行为",
+          "似乎"
+        ]
+      }
+    ]
+  }
+}

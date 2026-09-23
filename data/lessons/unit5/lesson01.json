@@ -1,0 +1,1098 @@
+{
+  "title": {
+    "zh": "锯掉生活的「筐底」",
+    "ru": "Отпилить «дно корзины» в жизни",
+    "tk": "Durmuşyň «sebet düýbüni» byçgy bilen kesmek",
+    "en": "Cutting Off the 'Bottom of the Basket'",
+    "uz": "Hayot savatining «tubini» arralash",
+    "tg": "Буридани «тахти сабад»-и ҳаёт"
+  },
+  "audio_files": {
+    "textbook_1": "textbook_1.mp3",
+    "textbook_2": "textbook_2.mp3",
+    "vocab": "vocab.mp3",
+    "workbook_51_1": "workbook_51-1.mp3",
+    "workbook_51_2": "workbook_51-2.mp3"
+  },
+  "warmup": {
+    "question": {
+      "ru": "Любите ли вы баскетбол? Знаете, как он появился?",
+      "tk": "Basketboly halaýarsyňyzmy? Onuň nähili dörändigini bilýärsiňizmi?",
+      "en": "Do you like basketball? Do you know how it began?"
+    },
+    "answers": [
+      "篮球",
+      "篮板",
+      "篮筐",
+      "教练",
+      "训练"
+    ]
+  },
+  "text_zh": "篮球运动是1891年由美国马萨诸塞州的体育教师詹姆士·奈史密斯博士发明的。那年的冬天特别冷，奈史密斯所在的训练学校缺乏在室内进行的球类比赛项目，他从当地人把球扔进桃子筐（当地产桃子，各家各户都备有装桃子的专用篮筐）的游戏中得到启发，将两只篮筐分别安装在体育馆两边看台的栏杆上，学生分为甲乙两队，以足球为比赛工具向篮内投，按得分多少决定输赢。这项运动很快流行起来。不过，由于栏杆上固定的是真正的筐，每当球投进时，就得有一个人踩着梯子上去把球取出来。这样的行为必须一再地重复，为此，比赛不得不断断续续地进行，缺少了激烈紧张的气氛，连运动员都不满意，更何况看比赛的球迷呢？为了解决这个问题，大家纷纷出主意，想出了很多取球的办法。有一位工程师甚至专门制造出一种机器，在下面一拉篮筐就能把球弹出来。可是，这些办法都没能让比赛顺畅起来。几年后的一天，一个上幼儿园的小男孩跟着父亲从一群正在进行篮球比赛的人旁边经过。看到大人们一次次辛苦地取球，小男孩好奇地问父亲：「何必这么麻烦呢？把篮筐的底去掉不就行了吗？」多亏了他这句话，人们如梦初醒，一位球员连忙找来一把锯子把篮筐的底锯掉。你瞧，困扰人们很长时间的取球问题就这样被一个小孩子解决了。去掉篮筐的底，本是一件简单的事，可为什么那么多人都没有想到呢？说白了，因为我们的思维像篮球一样被篮筐的底挡在了半空中。于是，我们呆呆地去搬梯子、造机器……其实，世界上本来就没有太复杂的事，复杂都是我们自己造成的。生活仿佛篮筐，许多时候，我们需要的只不过是一把锯子，来锯掉那些阻碍我们的「筐底」。",
+  "text_translation": {
+    "ru": "Баскетбол изобрёл в 1891 году американский учитель физкультуры Джеймс Нейсмит из Массачусетса. Зима была очень холодной, в школе не хватало игр для помещения — и он подсмотрел идею у местных, которые бросали мяч в корзины из-под персиков. Он прикрепил две корзины к перилам на трибунах, разделил учеников на две команды, и они бросали футбольный мяч — побеждал тот, у кого больше очков. Игра быстро стала популярной. Но корзины имели дно — после каждого попадания кто-то лез по лестнице доставать мяч. Приходилось повторять снова и снова — игра шла с перерывами, терялось напряжение. Даже игроки были недовольны, что уж говорить о болельщиках. Придумывали разные способы: один инженер даже сделал машину, которая выталкивала мяч. Но игра всё равно шла негладко. Через несколько лет один мальчик из детского сада, проходя с отцом мимо игроков, спросил: «А зачем так мучиться? Почему бы просто не отпилить дно у корзины?» Игроки словно очнулись, кто-то тут же принёс пилу. Проблема, мучившая всех долго, решилась одним ребёнком. Отпилить дно — так просто! Почему же никто не догадался? Потому что наше мышление, как мяч, застряло на дне корзины. Мы бессмысленно таскаем лестницы, строим машины… На самом деле мир не так уж сложен — сложность создаём мы сами. Жизнь — как корзина. Часто нам нужна лишь пила, чтобы отпилить «дно», что мешает нам.",
+    "tk": "Basketbol 1891-nji ýylda Massaçusets ştatyndan sport mugallymy Jeýms Neýsmit tarapyndan oýlanyp tapyldy. Gyş gaty sowuk boldy — mekdepde otagda oýnalýan oýun ýetmezçilik edýärdi. Ol ýerli adamlaryň şetdaly sebedine top atmagyndan ylham alyp, iki sebedi tribýanyň germewine dakdy, okuwçylary iki topara böldi — uly top bilen oýnadylar, kim köp utuk toplasa, şol ýeňdi. Oýun çalt ýaýrady. Ýöne sebetleriň düýbi bardy — her utukdan soň kimdir biri basgançak bilen çykyp topy almalydy. Bu iş gaýta-gaýta gaýtalanmalydy — oýun arakesmeler bilen dowam edýärdi, dartgynlygy ýitirýärdi. Hatda oýunçylar hem nägile boldular, janköýerler barada aýtsaň näme diýersiň. Dürli usullary oýlap tapdylar: bir inžener hatda topy özi çykarýan maşyn ýasady. Emma oýun heniz gowy gitmedi. Birnäçe ýyldan soň çagalar bagyndan bir oglan kakasy bilen oýunçylaryň gapdalyndan geçip: «Beýle kynçylyk näme üçin? Sebediň düýbüni byçgy bilen kesip taşlasa bolmaýarmy?» diýip sorady. Oýunçylar huşuna geldiler, biri dessine byçgy getirdi. Uzak wagtlap alada eden mesele bir çaga arkaly çözüldi. Düýbüni kesmek aňsat-ä! Näme üçin hiç kim düşünmedi? Sebäbi biziň pikirlenişimiz, top ýaly, sebediň düýbünde galypdyr. Biz biderek basgançak göterýäris, maşyn ýasaýarys… Aslynda dünýä beýle çylşyrymly däl — çylşyrymlylygy özümiz döredýäris. Durmuş — sebediň özi. Köplenç bize diňe bir byçgy gerek — bize päsgel berýän «düýbüni» kesmek üçin.",
+    "en": "Basketball was invented in 1891 by American physical education teacher Dr. James Naismith of Massachusetts. That winter was particularly cold; Naismith's training school lacked indoor ball-game events. He drew inspiration from locals throwing balls into peach baskets (peaches were local; every household had baskets for them), mounted two baskets on the railings of the gym's side stands, split the students into Team A and Team B, and used a soccer ball to shoot into the baskets — the score decided the winner. The sport quickly became popular. However, since actual baskets were fixed to the railings, every time the ball went in, someone had to climb a ladder to retrieve it. This had to be repeated over and over, so the match continued intermittently, losing tension and intensity — even the players were unhappy, let alone the fans. To solve this, people offered many retrieval methods. One engineer even invented a machine that ejected the ball when a lever was pulled. But none made the game flow smoothly. Years later, one day, a kindergarten boy passing with his father by a group of basketball players saw the adults repeatedly and laboriously retrieving the ball and asked his father curiously: 'Why so much trouble? Why not just cut the bottom off the basket?' Thanks to that remark, people woke as if from a dream; a player quickly found a saw and cut off the basket's bottom. See — a problem that troubled people for so long was solved by a small boy. Removing the basket's bottom was so simple — why had nobody thought of it? Because our thinking was, like the ball, blocked halfway by the basket's bottom. So we foolishly carried ladders and built machines... In fact, the world is not so complicated — we create the complexity ourselves. Life is like a basket; often all we need is a saw, to cut off the 'bottom' that blocks us."
+  },
+  "vocabulary": [
+    {
+      "hanzi": "锯(子)",
+      "pinyin": "jù(zi)",
+      "pos": "v./n.",
+      "meaning": {
+        "ru": "пилить; пила",
+        "tk": "byçgy bilen kesmek; byçgy",
+        "en": "to saw; saw"
+      }
+    },
+    {
+      "hanzi": "筐",
+      "pinyin": "kuāng",
+      "pos": "n.",
+      "meaning": {
+        "ru": "корзина",
+        "tk": "sebet",
+        "en": "basket"
+      }
+    },
+    {
+      "hanzi": "训练",
+      "pinyin": "xùnliàn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "тренировать(ся)",
+        "tk": "maşk etmek",
+        "en": "to train"
+      }
+    },
+    {
+      "hanzi": "缺乏",
+      "pinyin": "quēfá",
+      "pos": "v.",
+      "meaning": {
+        "ru": "не хватать",
+        "tk": "ýetmezçilik etmek",
+        "en": "to lack"
+      }
+    },
+    {
+      "hanzi": "项目",
+      "pinyin": "xiàngmù",
+      "pos": "n.",
+      "meaning": {
+        "ru": "пункт, проект",
+        "tk": "bölüm, taslama",
+        "en": "item, project"
+      }
+    },
+    {
+      "hanzi": "桃",
+      "pinyin": "táo",
+      "pos": "n.",
+      "meaning": {
+        "ru": "персик",
+        "tk": "şetdaly",
+        "en": "peach"
+      }
+    },
+    {
+      "hanzi": "装",
+      "pinyin": "zhuāng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "класть, помещать",
+        "tk": "goýmak",
+        "en": "to load"
+      }
+    },
+    {
+      "hanzi": "启发",
+      "pinyin": "qǐfā",
+      "pos": "v.",
+      "meaning": {
+        "ru": "вдохновлять",
+        "tk": "ylham bermek",
+        "en": "to inspire"
+      }
+    },
+    {
+      "hanzi": "安装",
+      "pinyin": "ānzhuāng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "устанавливать",
+        "tk": "gurnamak",
+        "en": "to install"
+      }
+    },
+    {
+      "hanzi": "栏杆",
+      "pinyin": "lángān",
+      "pos": "n.",
+      "meaning": {
+        "ru": "перила",
+        "tk": "germew",
+        "en": "railing"
+      }
+    },
+    {
+      "hanzi": "甲",
+      "pinyin": "jiǎ",
+      "pos": "n.",
+      "meaning": {
+        "ru": "первый (А)",
+        "tk": "birinji (A)",
+        "en": "first (A)"
+      }
+    },
+    {
+      "hanzi": "乙",
+      "pinyin": "yǐ",
+      "pos": "n.",
+      "meaning": {
+        "ru": "второй (Б)",
+        "tk": "ikinji (B)",
+        "en": "second (B)"
+      }
+    },
+    {
+      "hanzi": "工具",
+      "pinyin": "gōngjù",
+      "pos": "n.",
+      "meaning": {
+        "ru": "инструмент",
+        "tk": "gural",
+        "en": "tool"
+      }
+    },
+    {
+      "hanzi": "投篮",
+      "pinyin": "tóulán",
+      "pos": "v.",
+      "meaning": {
+        "ru": "бросать в кольцо",
+        "tk": "sebede top atmak",
+        "en": "to shoot (a basket)"
+      }
+    },
+    {
+      "hanzi": "踩",
+      "pinyin": "cǎi",
+      "pos": "v.",
+      "meaning": {
+        "ru": "наступать",
+        "tk": "basmak",
+        "en": "to step on"
+      }
+    },
+    {
+      "hanzi": "一再",
+      "pinyin": "yízài",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "снова и снова",
+        "tk": "gaýta-gaýta",
+        "en": "over and over"
+      }
+    },
+    {
+      "hanzi": "重复",
+      "pinyin": "chóngfù",
+      "pos": "v.",
+      "meaning": {
+        "ru": "повторять",
+        "tk": "gaýtalamak",
+        "en": "to repeat"
+      }
+    },
+    {
+      "hanzi": "断断续续",
+      "pinyin": "duànduànxùxù",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "с перерывами",
+        "tk": "arakesmeli",
+        "en": "intermittent"
+      }
+    },
+    {
+      "hanzi": "激烈",
+      "pinyin": "jīliè",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "ожесточённый",
+        "tk": "güýçli",
+        "en": "intense"
+      }
+    },
+    {
+      "hanzi": "气氛",
+      "pinyin": "qìfēn",
+      "pos": "n.",
+      "meaning": {
+        "ru": "атмосфера",
+        "tk": "atmosfera",
+        "en": "atmosphere"
+      }
+    },
+    {
+      "hanzi": "何况",
+      "pinyin": "hékuàng",
+      "pos": "conj.",
+      "meaning": {
+        "ru": "тем более",
+        "tk": "hatda",
+        "en": "let alone"
+      }
+    },
+    {
+      "hanzi": "球迷",
+      "pinyin": "qiúmí",
+      "pos": "n.",
+      "meaning": {
+        "ru": "болельщик",
+        "tk": "janköýer",
+        "en": "ball-game fan"
+      }
+    },
+    {
+      "hanzi": "工程师",
+      "pinyin": "gōngchéngshī",
+      "pos": "n.",
+      "meaning": {
+        "ru": "инженер",
+        "tk": "inžener",
+        "en": "engineer"
+      }
+    },
+    {
+      "hanzi": "机器",
+      "pinyin": "jīqì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "машина",
+        "tk": "maşyn",
+        "en": "machine"
+      }
+    },
+    {
+      "hanzi": "顺畅",
+      "pinyin": "shùnchàng",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "гладкий",
+        "tk": "rowan",
+        "en": "smooth"
+      }
+    },
+    {
+      "hanzi": "幼儿园",
+      "pinyin": "yòu'éryuán",
+      "pos": "n.",
+      "meaning": {
+        "ru": "детский сад",
+        "tk": "çagalar bagy",
+        "en": "kindergarten"
+      }
+    },
+    {
+      "hanzi": "好奇",
+      "pinyin": "hàoqí",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "любопытный",
+        "tk": "bilesigeliji",
+        "en": "curious"
+      }
+    },
+    {
+      "hanzi": "何必",
+      "pinyin": "hébì",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "зачем, к чему",
+        "tk": "näme üçin, näme gerek",
+        "en": "why bother"
+      }
+    },
+    {
+      "hanzi": "多亏",
+      "pinyin": "duōkuī",
+      "pos": "v.",
+      "meaning": {
+        "ru": "благодаря",
+        "tk": "sagbolsun",
+        "en": "thanks to"
+      }
+    },
+    {
+      "hanzi": "连忙",
+      "pinyin": "liánmáng",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "поспешно",
+        "tk": "desse",
+        "en": "promptly"
+      }
+    },
+    {
+      "hanzi": "瞧",
+      "pinyin": "qiáo",
+      "pos": "v.",
+      "meaning": {
+        "ru": "глядеть",
+        "tk": "seretmek",
+        "en": "to look"
+      }
+    },
+    {
+      "hanzi": "困扰",
+      "pinyin": "kùnrǎo",
+      "pos": "v.",
+      "meaning": {
+        "ru": "мучить, донимать",
+        "tk": "alada goýmak",
+        "en": "to trouble"
+      }
+    },
+    {
+      "hanzi": "思维",
+      "pinyin": "sīwéi",
+      "pos": "n./v.",
+      "meaning": {
+        "ru": "мышление",
+        "tk": "pikirleniş",
+        "en": "thinking"
+      }
+    },
+    {
+      "hanzi": "呆",
+      "pinyin": "dāi",
+      "pos": "adj./v.",
+      "meaning": {
+        "ru": "тупой, остолбенелый",
+        "tk": "haýran",
+        "en": "dull; to stagnate"
+      }
+    },
+    {
+      "hanzi": "造成",
+      "pinyin": "zàochéng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "вызывать",
+        "tk": "döretmek",
+        "en": "to cause"
+      }
+    },
+    {
+      "hanzi": "仿佛",
+      "pinyin": "fǎngfú",
+      "pos": "adv./v.",
+      "meaning": {
+        "ru": "словно",
+        "tk": "ýaly",
+        "en": "as if"
+      }
+    },
+    {
+      "hanzi": "阻碍",
+      "pinyin": "zǔ'ài",
+      "pos": "v.",
+      "meaning": {
+        "ru": "мешать",
+        "tk": "päsgel bermek",
+        "en": "to hinder"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "何况",
+      "pos": "conj.",
+      "explanation": {
+        "ru": "«何况» — «тем более, что уж говорить о…». Усиливает во второй части.",
+        "tk": "«何况» — «hatda,... barada aýtsaň».",
+        "en": "'何况' means 'let alone, what's more'."
+      },
+      "examples": [
+        {
+          "zh": "缺少了激烈紧张的气氛，连运动员都不满意，更何况看比赛的球迷呢？",
+          "ru": "Не хватало напряжения — даже игроки были недовольны, что уж говорить о болельщиках!",
+          "tk": "Dartgynlyk ýok boldy — hatda oýunçylar nägile boldular, janköýerler barada aýtsaň näme!",
+          "en": "Without tension, even the players were unhappy, let alone the fans!"
+        },
+        {
+          "zh": "北京的发展变化太快，我这个土生土长的老北京还常迷路呢，何况你一个外地人。",
+          "ru": "Пекин меняется так быстро, что я, коренной житель, часто теряюсь, что уж говорить о приезжем.",
+          "tk": "Pekin şeýle çalt üýtgeýär welin, men ýerli bolsam-da ýitirip galýaryn, gelen adamy aýtsaň näme.",
+          "en": "Beijing changes so fast that even I, a native, often get lost — let alone a visitor."
+        },
+        {
+          "zh": "这辆车外观漂亮，安全性高，又何况价钱也就比上次看的那辆贵了几千块，小王有点儿动心了。",
+          "ru": "Машина красивая, безопасная, да и цена всего на пару тысяч выше — Сяо Ван заинтересовался.",
+          "tk": "Maşyn owadan, howpsuz, hem-de bahasy öňki görenimizden birnäçe müň gymmat — Sýao Wan gyzyklandy.",
+          "en": "The car is nice and safe — and only a few thousand pricier — Xiao Wang became interested."
+        },
+        {
+          "zh": "上海冬天没有暖气，屋子里冷得让人伸不出手，何况李阳还是病人，自然是受不了的。",
+          "ru": "В Шанхае зимой нет отопления — холодно, руки не вытащишь, а Ли Ян ещё и больной — ему особенно тяжело.",
+          "tk": "Şanhaýda gyşyn ýyladyş ýok — elleriňi çykaryp bolmaýar, Li Ýan hem syrkaw — oňa aýratyn agyr.",
+          "en": "Shanghai has no central heating in winter — freezing cold, and Li Yang is sick — especially hard."
+        },
+        {
+          "zh": "这段山路比较危险，何况天快黑了，还是让我来开吧。",
+          "ru": "Эта горная дорога опасна, и темнеет — давай я поведу.",
+          "tk": "Bu dag ýoly howply, hem garaňky düşýär — men sürerin.",
+          "en": "This mountain road is dangerous, and it's getting dark — let me drive."
+        },
+        {
+          "zh": "大人都容易犯错，何况是孩子呢？",
+          "ru": "Даже взрослые легко ошибаются — что уж о детях.",
+          "tk": "Ulylar hem aňsat ýalňyşýar — çagalar barada aýtsaň näme.",
+          "en": "Even adults easily make mistakes — let alone children."
+        },
+        {
+          "zh": "妈妈都劝不动他，更何况我呢？",
+          "ru": "Даже мама его не уговорила — что уж говорить обо мне.",
+          "tk": "Ejesi-de ynandyryp bilmedi — men barada aýtsaň näme.",
+          "en": "Even his mother couldn't persuade him — let alone me."
+        },
+        {
+          "zh": "这么难的题，老师都要想半天，何况我们呢。",
+          "ru": "Такая сложная задача — даже учитель думает долго, что уж говорить о нас.",
+          "tk": "Şeýle kyn mesele — mugallym hem uzak oýlanýar, biz barada aýtsaň näme.",
+          "en": "Such a hard problem — even the teacher ponders long, let alone us."
+        },
+        {
+          "zh": "大人都会犯错，何况孩子。",
+          "ru": "Даже взрослые ошибаются — что уж о детях.",
+          "tk": "Ulylar hem ýalňyşýar — çagalar barada aýtsaň näme.",
+          "en": "Even adults make mistakes — let alone children."
+        },
+        {
+          "zh": "这么远的路我走不动，何况还下着雨。",
+          "ru": "Такой путь мне не осилить, тем более под дождём.",
+          "tk": "Beýle uzak ýoly men ýöräp bilemok, hem ýagýar.",
+          "en": "I can't walk such a distance — especially in the rain."
+        }
+      ]
+    },
+    {
+      "word": "何必",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«何必» — «зачем, к чему». В риторическом вопросе — «не стоит».",
+        "tk": "«何必» — «näme gerek, näme üçin». Ritoriki soragda «zerur däl».",
+        "en": "'何必' means 'why bother'. Rhetorical — 'no need'."
+      },
+      "examples": [
+        {
+          "zh": "何必这么麻烦呢？把篮筐的底去掉不就行了吗？",
+          "ru": "Зачем так мучиться? Разве нельзя просто отпилить дно корзины?",
+          "tk": "Beýle kynçylyk näme üçin? Sebediň düýbüni kesip taşlasa bolmaýarmy?",
+          "en": "Why bother? Can't you just saw off the bottom?"
+        },
+        {
+          "zh": "食堂楼下就有个小超市，何必去学校外边呢？",
+          "ru": "Под столовой есть магазин — зачем идти за пределы школы?",
+          "tk": "Naharhananyň aşagynda dükan bar — mekdebiň daşyna gitmek näme üçin?",
+          "en": "There's a store under the cafeteria — why go off campus?"
+        },
+        {
+          "zh": "你何必亲自送一趟呢？叫个快递不就行了？",
+          "ru": "Зачем самому ехать? Вызови курьера.",
+          "tk": "Näme üçin özüň ýöreýärsiň? Kýurýer çagyr.",
+          "en": "Why go yourself? Call a courier."
+        },
+        {
+          "zh": "早知道你就有这本书，我何必去买呢。",
+          "ru": "Знал бы, что у тебя есть эта книга — зачем бы покупал.",
+          "tk": "Bu kitapyň bardygyny bilenimde, näme üçin satyn alardym.",
+          "en": "Had I known you had this book, I wouldn't have bought it."
+        },
+        {
+          "zh": "既然她已经拒绝了你，你何必再追呢？",
+          "ru": "Раз она тебе отказала — зачем навязываться?",
+          "tk": "Ol saňa ret berensoň, yzyndan gitmegiň näme gerek?",
+          "en": "Since she turned you down, why keep chasing?"
+        },
+        {
+          "zh": "为这点小事儿生气，何必呢？",
+          "ru": "Из-за такой мелочи злиться — к чему?",
+          "tk": "Beýle ownuk üçin gaharlanmak — näme gerek?",
+          "en": "Getting angry over such a trifle — why bother?"
+        },
+        {
+          "zh": "你何必跟他一般见识？",
+          "ru": "Зачем с ним связываться?",
+          "tk": "Onuň bilen näme üçin işiň bar?",
+          "en": "Why stoop to his level?"
+        },
+        {
+          "zh": "事情都过去了，何必再提？",
+          "ru": "Всё прошло — к чему вспоминать?",
+          "tk": "Iş geçdi — ýatlamagyň näme gerek?",
+          "en": "It's over — why bring it up?"
+        },
+        {
+          "zh": "这么近，何必打车呢，走路就行。",
+          "ru": "Так близко — зачем такси, пешком.",
+          "tk": "Şeýle ýakyn — taksiniň näme gerek, pyýada git.",
+          "en": "So close — why take a taxi, just walk."
+        },
+        {
+          "zh": "你已经道歉了，又何必自责呢？",
+          "ru": "Ты уже извинился — к чему себя винить?",
+          "tk": "Ötünç soradyň — özüňi näme üçin günäkärleýärsiň?",
+          "en": "You already apologized — why blame yourself?"
+        }
+      ]
+    },
+    {
+      "word": "多亏",
+      "pos": "v.",
+      "explanation": {
+        "ru": "«多亏» — «благодаря кому-то/чему-то». Подчёркивает удачное стечение обстоятельств.",
+        "tk": "«多亏» — «sagbolsun».",
+        "en": "'多亏' means 'thanks to (sb/sth)'."
+      },
+      "examples": [
+        {
+          "zh": "多亏了他这句话，人们如梦初醒。",
+          "ru": "Благодаря его словам люди словно очнулись.",
+          "tk": "Onuň bu sözi sagbolsun, adamlar huşuna geldiler.",
+          "en": "Thanks to his words, people woke up."
+        },
+        {
+          "zh": "赵老师，谢谢您，多亏您给我那瓶药，很管用。",
+          "ru": "Учитель Чжао, спасибо — благодаря вашему лекарству мне стало лучше.",
+          "tk": "Çžao mugallym, sag boluň — beren dermanyňyz sagbolsun, gaty peýdaly boldy.",
+          "en": "Teacher Zhao, thanks — that medicine really helped."
+        },
+        {
+          "zh": "今天搬家多亏有你在，你可帮我大忙了。",
+          "ru": "Сегодня с переездом благодаря тебе — ты очень помог.",
+          "tk": "Bu gün göçmekde seniň bardygyň sagbolsun — köp kömek etdiň.",
+          "en": "Thanks to you being here for the move today — you were a huge help."
+        },
+        {
+          "zh": "多亏你提醒，要不然我就忘了。",
+          "ru": "Спасибо, что напомнил — иначе бы забыл.",
+          "tk": "Ýatladanyň sagbolsun — ýogsam ýatdan çykarardym.",
+          "en": "Thanks for the reminder — otherwise I'd forget."
+        },
+        {
+          "zh": "多亏带伞了，否则会被淋湿。",
+          "ru": "Хорошо, что взял зонт — иначе промок бы.",
+          "tk": "Saýawan alanym gowy boldy — ýogsam öl-ýagyp galardym.",
+          "en": "Good thing I brought an umbrella — otherwise I'd be soaked."
+        },
+        {
+          "zh": "多亏医生及时抢救，他才脱离了危险。",
+          "ru": "Благодаря своевременной помощи врачей он избежал опасности.",
+          "tk": "Lukmanlaryň dessine kömegi sagbolsun, ol howpdan gutuldy.",
+          "en": "Thanks to the doctors' timely help, he escaped danger."
+        },
+        {
+          "zh": "多亏你告诉我这件事，否则我会上当。",
+          "ru": "Хорошо, что ты сказал — иначе я бы попался.",
+          "tk": "Bu zady maňa aýdanyň gowy boldy — ýogsam aldanyp galardym.",
+          "en": "Good you told me — I'd have been cheated."
+        },
+        {
+          "zh": "多亏邻居帮忙，我们才搬完家。",
+          "ru": "Только благодаря помощи соседей мы переехали.",
+          "tk": "Goňşularyň kömegi sagbolsun, biz göçüp gutardyk.",
+          "en": "Thanks to the neighbors' help, we finished moving."
+        },
+        {
+          "zh": "多亏有网络，我们才能随时联系。",
+          "ru": "Только благодаря интернету мы всегда на связи.",
+          "tk": "Internet sagbolsun, biz hemişe habarlaşyp bilýäris.",
+          "en": "Thanks to the internet, we can always stay in touch."
+        },
+        {
+          "zh": "多亏老师耐心讲解，我才听懂。",
+          "ru": "Благодаря терпеливому объяснению учителя я понял.",
+          "tk": "Mugallymyň sabyrly düşündirişi sagbolsun, düşündim.",
+          "en": "Thanks to the teacher's patience, I understood."
+        }
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "pattern": "动词 + 宾语",
+      "items": [
+        "缺乏人才 / 教师 / 材料 / 知识 / 工具 / 勇气 / 信心",
+        "造成困难 / 印象 / 影响 / 浪费 / 危害 / 失眠 / 紧张"
+      ]
+    },
+    {
+      "pattern": "定语 + 中心语",
+      "items": [
+        "激烈（的）比赛 / 争吵 / 战争 / 运动",
+        "家庭的 / 政治的 / 节日的 / 学习的 / 谈话的 气氛"
+      ]
+    },
+    {
+      "pattern": "状语 + 中心语",
+      "items": [
+        "认真地 / 紧张地 / 艰苦地 / 严格地 训练",
+        "简单地 / 完全 / 准确地 重复"
+      ]
+    },
+    {
+      "pattern": "中心语 + 补语",
+      "items": [
+        "踩破 / 踩伤 / 踩断 / 踩碎",
+        "瞧见 / 瞧得起 / 瞧不起 / 瞧得上 / 瞧不上"
+      ]
+    },
+    {
+      "pattern": "数量词 + 名词",
+      "items": [
+        "一项运动 / 工作 / 任务",
+        "一场比赛 / 电影 / 梦"
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "激烈",
+      "word_b": "强烈",
+      "common": {
+        "ru": "Оба — «сильный, интенсивный».",
+        "tk": "Ikisi hem «güýçli».",
+        "en": "Both mean 'strong, intense'."
+      },
+      "differences": [
+        {
+          "ru": "«激烈» — про действия: 激烈运动, 激烈争论.",
+          "tk": "«激烈» — hereketler barada.",
+          "en": "'激烈' is about actions: intense sports, fierce debate."
+        },
+        {
+          "ru": "«强烈» — про чувства, свет, запах: 强烈的阳光, 强烈的愿望.",
+          "tk": "«强烈» — duýgular, ýagtylyk, ys barada.",
+          "en": "'强烈' is about feelings, light, smell: strong sunlight, strong desire."
+        },
+        {
+          "ru": "«激烈» — соревнования/споры. «强烈» — чувства/требования.",
+          "tk": "«激烈» — ýaryş/jedel. «强烈» — duýgy/talap.",
+          "en": "'激烈' — competitions/arguments. '强烈' — feelings/demands."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "ru": "Спорт",
+      "tk": "Sport",
+      "en": "Sports"
+    },
+    "words": [
+      {
+        "hanzi": "太极拳",
+        "pinyin": "tàijíquán",
+        "meaning": {
+          "ru": "тайцзицюань",
+          "tk": "taýtsziçýuan",
+          "en": "Tai Chi"
+        }
+      },
+      {
+        "hanzi": "球迷",
+        "pinyin": "qiúmí",
+        "meaning": {
+          "ru": "болельщик",
+          "tk": "janköýer",
+          "en": "fan"
+        }
+      },
+      {
+        "hanzi": "武术",
+        "pinyin": "wǔshù",
+        "meaning": {
+          "ru": "ушу",
+          "tk": "uşu",
+          "en": "martial arts"
+        }
+      },
+      {
+        "hanzi": "纪录",
+        "pinyin": "jìlù",
+        "meaning": {
+          "ru": "рекорд",
+          "tk": "rekord",
+          "en": "record"
+        }
+      },
+      {
+        "hanzi": "象棋",
+        "pinyin": "xiàngqí",
+        "meaning": {
+          "ru": "шахматы (китайские)",
+          "tk": "şaňmat",
+          "en": "Chinese chess"
+        }
+      },
+      {
+        "hanzi": "教练",
+        "pinyin": "jiàoliàn",
+        "meaning": {
+          "ru": "тренер",
+          "tk": "tälimçi",
+          "en": "coach"
+        }
+      },
+      {
+        "hanzi": "对手",
+        "pinyin": "duìshǒu",
+        "meaning": {
+          "ru": "соперник",
+          "tk": "garşydaş",
+          "en": "opponent"
+        }
+      },
+      {
+        "hanzi": "冠军",
+        "pinyin": "guànjūn",
+        "meaning": {
+          "ru": "чемпион",
+          "tk": "çempion",
+          "en": "champion"
+        }
+      },
+      {
+        "hanzi": "决赛",
+        "pinyin": "juésài",
+        "meaning": {
+          "ru": "финал",
+          "tk": "final",
+          "en": "final"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "ru": "Каким спортом вы занимаетесь? Что он даёт вам?",
+      "tk": "Haýsy sport bilen meşgullanýarsyňyz? Size näme berýär?",
+      "en": "What sport do you do? What does it give you?"
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Кто изобрёл баскетбол?",
+          "tk": "Basketboly kim oýlap tapdy?",
+          "en": "Who invented basketball?"
+        },
+        "options": [
+          "Американец",
+          "Англичанин",
+          "Француз",
+          "Немец"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Как играли сначала?",
+          "tk": "Ilki nähili oýnadylar?",
+          "en": "How was it played at first?"
+        },
+        "options": [
+          "Мячом в корзины с дном",
+          "Мячом в кольца",
+          "Мячом в ведро",
+          "Руками"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что придумал мальчик?",
+          "tk": "Oglan näme oýlap tapdy?",
+          "en": "What did the boy suggest?"
+        },
+        "options": [
+          "Сделать корзину",
+          "Отпилить дно",
+          "Купить мяч",
+          "Нанять игроков"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Кто был мальчик?",
+          "tk": "Oglan kim boldy?",
+          "en": "Who was the boy?"
+        },
+        "options": [
+          "Игрок",
+          "Ребёнок из сада",
+          "Ученик школы",
+          "Инженер"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что значит «筐底» в переносном смысле?",
+          "tk": "«Sebediň düýbi» göçme manyda nämäni aňladýar?",
+          "en": "What does 'basket bottom' mean figuratively?"
+        },
+        "options": [
+          "Мусор",
+          "Препятствие в мышлении",
+          "Дно жизни",
+          "Ошибка"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что советует автор?",
+          "tk": "Awtoryň maslahaty näme?",
+          "en": "What does the author advise?"
+        },
+        "options": [
+          "Больше работать",
+          "Упрощать сложное",
+          "Покупать инструменты",
+          "Играть в спорт"
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«缺乏» означает:",
+          "tk": "«缺乏» nämäni aňladýar?",
+          "en": "'缺乏' means:"
+        },
+        "options": [
+          "Много",
+          "Не хватать",
+          "Достаточно",
+          "Дарить"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«启发» — это:",
+          "tk": "«启发» nämäni aňladýar?",
+          "en": "'启发' means:"
+        },
+        "options": [
+          "Критика",
+          "Вдохновение",
+          "Наказание",
+          "Хвала"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«安装» означает:",
+          "tk": "«安装» nämäni aňladýar?",
+          "en": "'安装' means:"
+        },
+        "options": [
+          "Разбирать",
+          "Устанавливать",
+          "Покупать",
+          "Продавать"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«激烈» — это:",
+          "tk": "«激烈» nämäni aňladýar?",
+          "en": "'激烈' means:"
+        },
+        "options": [
+          "Спокойный",
+          "Ожесточённый",
+          "Слабый",
+          "Тихий"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«何况» означает:",
+          "tk": "«何况» nämäni aňladýar?",
+          "en": "'何况' means:"
+        },
+        "options": [
+          "Тем более",
+          "Но",
+          "Однако",
+          "Никогда"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«何必» — это:",
+          "tk": "«何必» nämäni aňladýar?",
+          "en": "'何必' means:"
+        },
+        "options": [
+          "Зачем",
+          "Всегда",
+          "Обязательно",
+          "Никогда"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«多亏» означает:",
+          "tk": "«多亏» nämäni aňladýar?",
+          "en": "'多亏' means:"
+        },
+        "options": [
+          "К сожалению",
+          "Благодаря",
+          "Однако",
+          "Никогда"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«困扰» — это:",
+          "tk": "«困扰» nämäni aňladýar?",
+          "en": "'困扰' means:"
+        },
+        "options": [
+          "Радость",
+          "Мучение",
+          "Скука",
+          "Смех"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«思维» — это:",
+          "tk": "«思维» näme?",
+          "en": "'思维' means:"
+        },
+        "options": [
+          "Тело",
+          "Мышление",
+          "Речь",
+          "Память"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«阻碍» означает:",
+          "tk": "«阻碍» nämäni aňladýar?",
+          "en": "'阻碍' means:"
+        },
+        "options": [
+          "Помогать",
+          "Мешать",
+          "Хвалить",
+          "Смеяться"
+        ],
+        "answer": 1
+      }
+    ],
+    "writing": [
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "我们的",
+          "运动项目",
+          "缺乏",
+          "在室内进行的",
+          "训练学校"
+        ],
+        "answer": "我们的训练学校缺乏在室内进行的运动项目"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "影响了",
+          "的",
+          "暂停行为",
+          "一再重复",
+          "比赛的气氛"
+        ],
+        "answer": "一再重复的暂停行为影响了比赛的气氛"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "受",
+          "宣传推广活动",
+          "这次的",
+          "是",
+          "他们公司的启发"
+        ],
+        "answer": "这次宣传推广活动是受他们公司的启发"
+      },
+      {
+        "type": "essay",
+        "prompt": {
+          "ru": "Сочинение 80+ иероглифов: 训练、重复、缺乏、造成、何况",
+          "tk": "80+ iýeroglif: 训练、重复、缺乏、造成、何况",
+          "en": "Essay 80+ chars: 训练、重复、缺乏、造成、何况"
+        },
+        "min_length": 80,
+        "required_words": [
+          "训练",
+          "重复",
+          "缺乏",
+          "造成",
+          "何况"
+        ]
+      }
+    ]
+  }
+}

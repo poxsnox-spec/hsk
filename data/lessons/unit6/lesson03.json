@@ -1,0 +1,1137 @@
+{
+  "title": {
+    "zh": "抽象艺术美不美",
+    "ru": "Красиво ли абстрактное искусство?",
+    "tk": "Abstrakt sungat owadanmy?",
+    "en": "Abstract Art: Beautiful or Not?",
+    "uz": "Mavhum san'at go'zalmi?",
+    "tg": "Санъати абстракт зебост?"
+  },
+  "audio_files": {
+    "textbook_1": "textbook_1.mp3",
+    "textbook_2": "textbook_2.mp3",
+    "vocab": "vocab.mp3",
+    "workbook_63_1": "workbook_63-1.mp3",
+    "workbook_63_2": "workbook_63-2.mp3"
+  },
+  "warmup": {
+    "question": {
+      "ru": "Какая картина — абстрактная, какая — классическая?",
+      "tk": "Haýsy surat abstrakt, haýsysy klassik?",
+      "en": "Which painting is abstract, which is classical?"
+    },
+    "answers": [
+      "抽象",
+      "古典",
+      "艺术",
+      "画家",
+      "作品"
+    ]
+  },
+  "text_zh": "对有些人来说，抽象艺术没有古典艺术那么容易欣赏，画布上那些不规则的色块、线条，实在看不出有什么意义。抽象派画家的作品中经常见到好像随便洒上颜料而形成的画作，在有人看来极其神秘甚至丑陋，有人却从中感受到对自由、对生命的赞美。研究者设计了一个有趣的实验。志愿者的任务很简单，每个人会看到两两一组出现的一些图画，每组中一幅出自著名抽象艺术家之手，另一幅是业余爱好者、婴儿、黑猩猩或者大象的涂鸦。志愿者必须判断每一组画作中自己更喜欢哪一幅。其中三分之一的画作作者没有签名，而其余的则标明了身份。令人头疼的是，一些签名被故意弄错了，志愿者无法确认作者到底是谁，所以有可能志愿者认为自己看到的是黑猩猩的随手涂鸦，实际则是著名抽象艺术家的大作。也许有人认为，在这种情况下根本不可能分辨出来。然而在每一次测试中，志愿者普遍更喜欢的作品都是由人类艺术家挥笔完成的。由此可见，志愿者能够从画作中感知艺术家的用心，哪怕他们不能够解释原因。另一个实验是这样，志愿者同时欣赏原作和画面元素被调整后的画作，包括静物画和抽象画。结果，几乎每个人都更喜欢原作。研究者发现，当看到画上物体位置变化后，大脑中有关含意和解释的区域活跃性下降了。这表明，我们的大脑注意到了原作的布局，并且可以感知其背后的用意，即使我们还没有清楚地感受到这个事实。至少目前可以这么说，没有证据表明黑猩猩或儿童可以这样做。我们的大脑究竟如何感知抽象艺术，是一个有趣的话题。每个人对抽象艺术可以有不同的解读，这既是挑战，也是自由。",
+  "text_translation": {
+    "ru": "Для некоторых абстрактное искусство сложнее для восприятия, чем классическое: нерегулярные пятна цвета и линии на холсте — где тут смысл? В работах абстракционистов часто встречаются вещи, будто бы сделанные случайными брызгами краски: для кого-то они загадочны и даже уродливы, а кто-то чувствует в них воспевание свободы и жизни. Исследователи провели интересный эксперимент. Задача добровольцев была проста: им показывали картины парами — одна от известного абстракциониста, другая — от любителя, ребёнка, шимпанзе или слона. Нужно было выбрать, какая больше нравится. У трети картин авторов не было подписи, у остальных — была. Хитрость в том, что некоторые подписи были умышленно неверны, и добровольцы не могли точно определить автора: случалось, они считали, что видят каракули шимпанзе, а на самом деле это был шедевр абстракциониста. Кто-то решит, что в такой ситуации отличить невозможно. Но в каждом тесте участники в среднем предпочитали работы, сделанные человеческими художниками. Это показывает, что добровольцы способны ощутить вложенную душу художника, даже если не могут объяснить почему. В другом эксперименте добровольцы одновременно рассматривали оригинал и картину с изменёнными элементами — натюрморты и абстракции. Почти все предпочитали оригинал. Исследователи выяснили: когда видят изменённое положение объектов, активность области мозга, отвечающей за смысл и интерпретацию, снижается. Это означает: наш мозг замечает композицию оригинала и чувствует замысел за ней — даже если мы не осознаём этого. По крайней мере сейчас можно сказать: нет доказательств, что шимпанзе или дети способны на это. Как именно мозг воспринимает абстрактное искусство — интересная тема. Каждый может прочесть абстрактное искусство по-своему — это и вызов, и свобода.",
+    "tk": "Käbir adamlar üçin abstrakt sungat klassik sungatdan has kyn: holstda düzgünsiz reňk bölekleri we çyzyklar — manyny görmek kyn. Abstrakt suratkeşleriň eserlerinde tötänleýin syrylan reňkden döran zatlar köp duş gelýär — kimdir bir zat üçin olar syrly ýa-da hatda ýigrenji, kimdir bir zat üçin bolsa azatlygyň we durmuşyň öwgüsini duýýar. Barlagçylar gyzykly synag geçirdiler. Meýletinçileriň işi ýönekeýdi: suratlar jübüt-jübüt görkezilýär — biri meşhur abstrakt suratkeşden, beýlekisi höwesjeň, çaga, şimpanze ýa-da pilden. Haýsysynyň has ýaraýandygyny saýlamaly. Suratlaryň üçden birinde awtoryň goly ýokdy, beýlekilerinde bardy. Kynçylyk: käbir gollar bilgeşleýin nädogry ýazylandy — meýletinçiler hakyky awtory anyklap bilmediler: käte şimpanzeniň çyzmaklary hasaplap, aslynda meşhur abstrakt suratkeşiň eseri bolup çykdy. Kimdir bir zat şeýle ýagdaýda tapawudy anyklamak mümkin däl diýip pikir edýär. Emma her synagda meýletinçiler ortaça adam suratkeşleriň eserlerini has gowy görýärdiler. Bu şuny görkezýär: meýletinçiler suratkeşiň goýan ruhuny duýup bilýärler, hatda sebäbini düşündirip bilmeseler-de. Başga bir synagda meýletinçiler asyl nusgany we üýtgedilen elementleri bolan suratlary bir wagtda synlaýarlar — natýurmortlar we abstraksiýalar. Netijede, hemmeler diýen ýaly asyl nusgany has gowy görýärler. Barlagçylar şuny anykladylar: suratdaky zatlaryň ýeriniň üýtgändigini görenlerinde, beýniniň many we düşündiriş bilen bagly bölüminiň işjeňligi peselýär. Bu şuny aňladýar: beýnimiz asyl eseriň kompozisiýasyna üns berýär we arkasyndaky maksady duýýar — hatda biz muny aç-açan duýmasak-da. Iň bolmanda häzir şeýle diýip bolar: şimpanzeleriň ýa-da çagalaryň muny edip bilýändigine hiç hili subutnama ýok. Beýnimiziň abstrakt sungaty nähili kabul edýändigi — gyzykly tema. Her kim abstrakt sungaty dürli manyda düşündirip biler — bu hem kynçylyk, hem azatlyk.",
+    "en": "For some, abstract art isn't as easy to appreciate as classical art — those irregular color patches and lines on the canvas seem to carry no meaning. Abstract painters' works often include canvases that look as if paint were casually splashed on — to some extremely mysterious or even ugly, while others sense in them a praise of freedom and life. Researchers designed an interesting experiment. The volunteers' task was simple: each would see pictures in pairs — one by a famous abstract artist, the other a doodle by an amateur, an infant, a chimpanzee or an elephant. Volunteers had to say which they preferred in each pair. For one-third of the paintings, no signature was present; the rest were labeled. The tricky part: some signatures were deliberately wrong, so volunteers couldn't confirm the author — they might think they were looking at a chimpanzee's doodle when it was actually a great work by a famous abstract artist. Some might think in such a case it's impossible to tell. Yet in every test, volunteers on average preferred the works done by human artists. This shows volunteers can sense the artist's intent from the painting, even if they can't explain why. In another experiment, volunteers simultaneously appreciated the original and a version with adjusted pictorial elements — including still lifes and abstract paintings. Almost everyone preferred the original. Researchers found that when seeing the changed positions of objects on the canvas, the activity in the brain region related to meaning and interpretation decreased. This shows our brain notices the original's composition and senses the intent behind it — even if we haven't clearly felt this fact. At least for now, we can say there's no evidence that chimpanzees or children can do this. How exactly our brain perceives abstract art is an interesting topic. Everyone can interpret abstract art differently — this is both a challenge and a freedom."
+  },
+  "vocabulary": [
+    {
+      "hanzi": "抽象",
+      "pinyin": "chōuxiàng",
+      "pos": "adj./v.",
+      "meaning": {
+        "ru": "абстрактный",
+        "tk": "abstrakt",
+        "en": "abstract"
+      }
+    },
+    {
+      "hanzi": "古典",
+      "pinyin": "gǔdiǎn",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "классический",
+        "tk": "klassik",
+        "en": "classical"
+      }
+    },
+    {
+      "hanzi": "欣赏",
+      "pinyin": "xīnshǎng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "ценить, любоваться",
+        "tk": "lezzet almak",
+        "en": "to appreciate"
+      }
+    },
+    {
+      "hanzi": "布",
+      "pinyin": "bù",
+      "pos": "n.",
+      "meaning": {
+        "ru": "ткань, холст",
+        "tk": "mata",
+        "en": "cloth"
+      }
+    },
+    {
+      "hanzi": "规则",
+      "pinyin": "guīzé",
+      "pos": "n./adj.",
+      "meaning": {
+        "ru": "правило; ровный",
+        "tk": "düzgün",
+        "en": "rule; regular"
+      }
+    },
+    {
+      "hanzi": "派",
+      "pinyin": "pài",
+      "pos": "n.",
+      "meaning": {
+        "ru": "школа, направление",
+        "tk": "ugur",
+        "en": "school, faction"
+      }
+    },
+    {
+      "hanzi": "作品",
+      "pinyin": "zuòpǐn",
+      "pos": "n.",
+      "meaning": {
+        "ru": "произведение",
+        "tk": "eser",
+        "en": "work (of art)"
+      }
+    },
+    {
+      "hanzi": "洒",
+      "pinyin": "sǎ",
+      "pos": "v.",
+      "meaning": {
+        "ru": "разбрызгивать",
+        "tk": "sepmek",
+        "en": "to sprinkle"
+      }
+    },
+    {
+      "hanzi": "极其",
+      "pinyin": "jíqí",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "чрезвычайно",
+        "tk": "örän",
+        "en": "extremely"
+      }
+    },
+    {
+      "hanzi": "神秘",
+      "pinyin": "shénmì",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "таинственный",
+        "tk": "syrly",
+        "en": "mysterious"
+      }
+    },
+    {
+      "hanzi": "丑(陋)",
+      "pinyin": "chǒu(lòu)",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "уродливый",
+        "tk": "haýasat",
+        "en": "ugly"
+      }
+    },
+    {
+      "hanzi": "自由",
+      "pinyin": "zìyóu",
+      "pos": "n./adj.",
+      "meaning": {
+        "ru": "свобода",
+        "tk": "azatlyk",
+        "en": "freedom"
+      }
+    },
+    {
+      "hanzi": "设计",
+      "pinyin": "shèjì",
+      "pos": "v./n.",
+      "meaning": {
+        "ru": "проектировать, дизайн",
+        "tk": "taslamak",
+        "en": "to design"
+      }
+    },
+    {
+      "hanzi": "组",
+      "pinyin": "zǔ",
+      "pos": "n./m.",
+      "meaning": {
+        "ru": "группа",
+        "tk": "topar",
+        "en": "group"
+      }
+    },
+    {
+      "hanzi": "幅",
+      "pinyin": "fú",
+      "pos": "m.",
+      "meaning": {
+        "ru": "счётное слово для картин",
+        "tk": "surat üçin san sözi",
+        "en": "MW for paintings"
+      }
+    },
+    {
+      "hanzi": "出自",
+      "pinyin": "chūzì",
+      "pos": "v.",
+      "meaning": {
+        "ru": "исходить из",
+        "tk": "gelip çykmak",
+        "en": "to come from"
+      }
+    },
+    {
+      "hanzi": "业余",
+      "pinyin": "yèyú",
+      "pos": "adj.",
+      "meaning": {
+        "ru": "любительский",
+        "tk": "höwesjeň",
+        "en": "amateur"
+      }
+    },
+    {
+      "hanzi": "婴儿",
+      "pinyin": "yīng'ér",
+      "pos": "n.",
+      "meaning": {
+        "ru": "младенец",
+        "tk": "bäbek",
+        "en": "infant"
+      }
+    },
+    {
+      "hanzi": "猩猩",
+      "pinyin": "xīngxing",
+      "pos": "n.",
+      "meaning": {
+        "ru": "шимпанзе",
+        "tk": "şimpanze",
+        "en": "chimpanzee"
+      }
+    },
+    {
+      "hanzi": "涂鸦",
+      "pinyin": "túyā",
+      "pos": "v.",
+      "meaning": {
+        "ru": "каракули",
+        "tk": "çyzgy",
+        "en": "to scrawl"
+      }
+    },
+    {
+      "hanzi": "签",
+      "pinyin": "qiān",
+      "pos": "v.",
+      "meaning": {
+        "ru": "подписывать",
+        "tk": "gol çekmek",
+        "en": "to sign"
+      }
+    },
+    {
+      "hanzi": "其余",
+      "pinyin": "qíyú",
+      "pos": "pron.",
+      "meaning": {
+        "ru": "остальные",
+        "tk": "galany",
+        "en": "the rest"
+      }
+    },
+    {
+      "hanzi": "身份",
+      "pinyin": "shēnfèn",
+      "pos": "n.",
+      "meaning": {
+        "ru": "личность, статус",
+        "tk": "şahsyýet",
+        "en": "identity"
+      }
+    },
+    {
+      "hanzi": "确认",
+      "pinyin": "quèrèn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "подтвердить",
+        "tk": "tassyklamak",
+        "en": "to confirm"
+      }
+    },
+    {
+      "hanzi": "随手",
+      "pinyin": "suíshǒu",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "небрежно, попутно",
+        "tk": "biderek",
+        "en": "randomly"
+      }
+    },
+    {
+      "hanzi": "分辨",
+      "pinyin": "fēnbiàn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "различать",
+        "tk": "tapawutlandyrmak",
+        "en": "to distinguish"
+      }
+    },
+    {
+      "hanzi": "挥",
+      "pinyin": "huī",
+      "pos": "v.",
+      "meaning": {
+        "ru": "взмахнуть (кистью)",
+        "tk": "bulamak",
+        "en": "to wield (a brush)"
+      }
+    },
+    {
+      "hanzi": "可见",
+      "pinyin": "kějiàn",
+      "pos": "conj.",
+      "meaning": {
+        "ru": "отсюда видно",
+        "tk": "şondan görünýär",
+        "en": "it can be seen that"
+      }
+    },
+    {
+      "hanzi": "哪怕",
+      "pinyin": "nǎpà",
+      "pos": "conj.",
+      "meaning": {
+        "ru": "даже если",
+        "tk": "hatda",
+        "en": "even if"
+      }
+    },
+    {
+      "hanzi": "元素",
+      "pinyin": "yuánsù",
+      "pos": "n.",
+      "meaning": {
+        "ru": "элемент",
+        "tk": "element",
+        "en": "element"
+      }
+    },
+    {
+      "hanzi": "调整",
+      "pinyin": "tiáozhěng",
+      "pos": "v./n.",
+      "meaning": {
+        "ru": "корректировать",
+        "tk": "sazlamak",
+        "en": "to adjust"
+      }
+    },
+    {
+      "hanzi": "位置",
+      "pinyin": "wèizhì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "положение",
+        "tk": "ýerleşýän ýeri",
+        "en": "position"
+      }
+    },
+    {
+      "hanzi": "含意",
+      "pinyin": "hányì",
+      "pos": "n.",
+      "meaning": {
+        "ru": "подтекст, смысл",
+        "tk": "mana",
+        "en": "implication"
+      }
+    },
+    {
+      "hanzi": "区域",
+      "pinyin": "qūyù",
+      "pos": "n.",
+      "meaning": {
+        "ru": "область, зона",
+        "tk": "sebit",
+        "en": "region"
+      }
+    },
+    {
+      "hanzi": "活跃",
+      "pinyin": "huóyuè",
+      "pos": "adj./v.",
+      "meaning": {
+        "ru": "активный",
+        "tk": "işjeň",
+        "en": "active"
+      }
+    },
+    {
+      "hanzi": "布局",
+      "pinyin": "bùjú",
+      "pos": "n.",
+      "meaning": {
+        "ru": "композиция",
+        "tk": "kompozisiýa",
+        "en": "composition"
+      }
+    },
+    {
+      "hanzi": "事实",
+      "pinyin": "shìshí",
+      "pos": "n.",
+      "meaning": {
+        "ru": "факт",
+        "tk": "hakykat",
+        "en": "fact"
+      }
+    },
+    {
+      "hanzi": "目前",
+      "pinyin": "mùqián",
+      "pos": "n.",
+      "meaning": {
+        "ru": "сейчас",
+        "tk": "häzir",
+        "en": "now, present"
+      }
+    },
+    {
+      "hanzi": "证据",
+      "pinyin": "zhèngjù",
+      "pos": "n.",
+      "meaning": {
+        "ru": "доказательство",
+        "tk": "subutnama",
+        "en": "proof"
+      }
+    },
+    {
+      "hanzi": "话题",
+      "pinyin": "huàtí",
+      "pos": "n.",
+      "meaning": {
+        "ru": "тема",
+        "tk": "tema",
+        "en": "topic"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "极其",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«极其» — книжное «чрезвычайно». Только с двусложными прилагательными.",
+        "tk": "«极其» — kitaby «örän». Diňe iki bogunly sypatlar bilen.",
+        "en": "'极其' — formal 'extremely'. Only before two-syllable adjectives."
+      },
+      "examples": [
+        {
+          "zh": "在中国，餐桌上放一把刀是极其少见的现象。",
+          "ru": "В Китае нож на обеденном столе — крайне редкое явление.",
+          "tk": "Hytaýda nahar stolunda pyçak goýmak örän seýrek hadysa.",
+          "en": "In China, a knife on the dining table is extremely rare."
+        },
+        {
+          "zh": "这次考试的题目极其简单，我十分钟就做完了。",
+          "ru": "Задания на этом экзамене были чрезвычайно просты — я справился за десять минут.",
+          "tk": "Bu ekzamenyň soraglary örän ýönekeý boldy — men on minudyň içinde gutardym.",
+          "en": "The exam questions were extremely easy — I finished in ten minutes."
+        },
+        {
+          "zh": "抽象派画家的作品中经常见到好像随便洒上颜料而形成的画作，在有人看来极其神秘甚至丑陋。",
+          "ru": "В работах абстракционистов часто встречаются как будто случайные брызги краски — для кого-то загадочные и даже уродливые.",
+          "tk": "Abstrakt suratkeşleriň eserlerinde tötänleýin syrylan reňkden döran zatlar köp — kimdir bir zat üçin syrly ýa-da haýasat.",
+          "en": "In abstract works, there are pieces looking like random splashes — for some, mysterious or even ugly."
+        },
+        {
+          "zh": "这个项目是我们用了三年时间才谈下来的，极其不容易。",
+          "ru": "Этот проект мы согласовывали три года — крайне непросто.",
+          "tk": "Bu taslamany üç ýyl ylalaşdyk — örän kyn boldy.",
+          "en": "This project took three years to negotiate — extremely hard."
+        },
+        {
+          "zh": "教室里极其安静，谁也不说话。",
+          "ru": "В классе чрезвычайно тихо — все молчат.",
+          "tk": "Synpda örän sessiz — hiç kim gürlemeýär.",
+          "en": "The classroom is extremely quiet — no one speaks."
+        },
+        {
+          "zh": "孔子在中国是极其重要的人物。",
+          "ru": "Конфуций — чрезвычайно важная фигура в Китае.",
+          "tk": "Konfusiý Hytaýda örän möhüm şahs.",
+          "en": "Confucius is an extremely important figure in China."
+        },
+        {
+          "zh": "他的意见极其宝贵。",
+          "ru": "Его мнение чрезвычайно ценно.",
+          "tk": "Onuň pikiri örän gymmatly.",
+          "en": "His opinion is extremely valuable."
+        },
+        {
+          "zh": "这天天气极其寒冷。",
+          "ru": "В тот день было крайне холодно.",
+          "tk": "Şol gün howa örän sowuk boldy.",
+          "en": "That day was extremely cold."
+        },
+        {
+          "zh": "他对这个问题极其感兴趣。",
+          "ru": "Он чрезвычайно заинтересован в этом вопросе.",
+          "tk": "Ol bu meselä örän gyzyklanýar.",
+          "en": "He's extremely interested in this issue."
+        },
+        {
+          "zh": "这个任务极其复杂，需要认真对待。",
+          "ru": "Задача чрезвычайно сложная — нужно отнестись серьёзно.",
+          "tk": "Bu wezipe örän çylşyrymly — çynlakaý çemeleşmeli.",
+          "en": "This task is extremely complex — must be taken seriously."
+        }
+      ]
+    },
+    {
+      "word": "其余",
+      "pos": "pron.",
+      "explanation": {
+        "ru": "«其余» — «остальное, остальные».",
+        "tk": "«其余» — «galany, galanlar».",
+        "en": "'其余' means 'the rest, the others'."
+      },
+      "examples": [
+        {
+          "zh": "其中三分之一的画作作者没有签名，而其余的则标明了身份。",
+          "ru": "У трети картин подписи не было, а у остальных авторы указаны.",
+          "tk": "Suratlaryň üçden birinde goly ýokdy, galanlarynda awtorlar görkezildi.",
+          "en": "One third had no signature; the rest showed the author."
+        },
+        {
+          "zh": "怎么只有你们两个人？其余的同学呢？",
+          "ru": "Почему только вы двое? А остальные?",
+          "tk": "Näme üçin diňe ikiňiz? Galan okuwçylar nirede?",
+          "en": "Why only you two? Where are the others?"
+        },
+        {
+          "zh": "只有一个房间亮着灯，其余窗户都是黑的。",
+          "ru": "Свет только в одном окне, остальные тёмные.",
+          "tk": "Diňe bir otagda çyra ýanyp dur, galan penjireler garaňky.",
+          "en": "Only one room has a light on; the rest are dark."
+        },
+        {
+          "zh": "这些行李怎么拿？其余的交给我。",
+          "ru": "Как нести багаж? Остальное дай мне.",
+          "tk": "Bu goşlary nähili götereris? Galanlaryny maňa ber.",
+          "en": "How to carry this luggage? Give me the rest."
+        },
+        {
+          "zh": "你看过哪些中国的传统体育表演？其余的呢？",
+          "ru": "Какие китайские традиционные спортивные шоу ты видел? А остальные?",
+          "tk": "Hytaýyň haýsy däp bolan sport görkezişlerini gördüň? Galanlaryny näme?",
+          "en": "Which Chinese traditional sports shows have you seen? What about the rest?"
+        },
+        {
+          "zh": "你们几个负责新产品的宣传，其余的人做客户调研。",
+          "ru": "Вы занимаетесь рекламой нового продукта, остальные — исследованием клиентов.",
+          "tk": "Sizler täze önümiň mahabatlandyrylmagy bilen meşgullanýarsyňyz, galanlar müşderi gözlegi bilen.",
+          "en": "You handle new product publicity; the rest do customer research."
+        },
+        {
+          "zh": "其余的话，我不想多说了。",
+          "ru": "Об остальном говорить не буду.",
+          "tk": "Galan zatlary aýtmak islämok.",
+          "en": "I won't say anything more."
+        },
+        {
+          "zh": "其余问题我们下次再讨论。",
+          "ru": "Остальные вопросы обсудим в следующий раз.",
+          "tk": "Galan meseleleri indiki gezek maslahatlaşarys.",
+          "en": "We'll discuss the rest next time."
+        },
+        {
+          "zh": "只有他一个人明白，其余人都不知道。",
+          "ru": "Только он понимает — остальные не знают.",
+          "tk": "Diňe ol düşünýär — galanlar bilemeýär.",
+          "en": "Only he understands — the rest don't know."
+        },
+        {
+          "zh": "我把一本书拿走了，其余的都留在这里。",
+          "ru": "Я взял одну книгу, остальные оставил здесь.",
+          "tk": "Men bir kitap aldym, galanlaryny şu ýerde goýdym.",
+          "en": "I took one book, left the rest here."
+        }
+      ]
+    },
+    {
+      "word": "可见",
+      "pos": "conj.",
+      "explanation": {
+        "ru": "«可见» — «отсюда видно, что». Часто «由此可见».",
+        "tk": "«可见» — «şondan görünýär welin». Köplenç «由此可见».",
+        "en": "'可见' — 'it can be seen that'. Often '由此可见'."
+      },
+      "examples": [
+        {
+          "zh": "他已经住院好几天了，一直诊断不出是什么问题，可见情况不太好。",
+          "ru": "Он уже несколько дней в больнице, диагноз не ставят — видно, дело серьёзно.",
+          "tk": "Ol birnäçe günden hassahanada, diagnoz goýulmaýar — görnüşine ýagdaý gowy däl.",
+          "en": "He's been hospitalized for days without diagnosis — the situation seems serious."
+        },
+        {
+          "zh": "汉语中有个成语叫「自知之明」，把「自知」称为「明」，可见「自知」是一种智慧。",
+          "ru": "В китайском есть идиом «знать себя» — «свет» — видно, самопознание есть мудрость.",
+          "tk": "Hytaýda «özüňi bilmek» idiom bar — «ýagtylyk» — görnüşine özüňi bilmek pähimdir.",
+          "en": "Chinese has the idiom 'self-knowledge' as 'light' — so self-knowledge is wisdom."
+        },
+        {
+          "zh": "由此可见，志愿者能够从画作中感知艺术家的用心，哪怕他们不能够解释原因。",
+          "ru": "Отсюда видно, что добровольцы ощущают душу художника, даже если не могут объяснить.",
+          "tk": "Şondan görünýär welin, meýletinçiler suratkeşiň ruhuny duýup bilýärler — sebäbini düşündirip bilmeseler-de.",
+          "en": "Thus volunteers perceive the artist's intent, even if they can't explain why."
+        },
+        {
+          "zh": "连这么简单的题你都不会，可见平时没好好学习。",
+          "ru": "Даже такую простую задачу не решаешь — видно, плохо учился.",
+          "tk": "Şeýle ýönekeý meseläni hem çözüp bilmeýärsiň — görnüşine oňat okamadyň.",
+          "en": "You can't even solve such a simple problem — clearly you haven't studied well."
+        },
+        {
+          "zh": "他连饭都没吃就赶来了，可见很重视这件事。",
+          "ru": "Он приехал даже не поев — видно, дело для него важно.",
+          "tk": "Ol nahar iýmänem geldi — görnüşine bu iş oňa möhüm.",
+          "en": "He came without eating — the matter is clearly important to him."
+        },
+        {
+          "zh": "他的话没有人反对，可见大家都很信任他。",
+          "ru": "Никто не возразил ему — видно, ему доверяют.",
+          "tk": "Hiç kim oňa garşy çykmady — görnüşine hemmeler oňa ynanýar.",
+          "en": "No one opposed him — everyone clearly trusts him."
+        },
+        {
+          "zh": "看他的表情，可见他对这个结果不满意。",
+          "ru": "По его лицу видно — результатом он недоволен.",
+          "tk": "Onuň ýüz keşbinden görünýär — netijeden kanagatlanmaýar.",
+          "en": "From his expression, he's clearly dissatisfied with the result."
+        },
+        {
+          "zh": "他写了三本书，可见很有经验。",
+          "ru": "Он написал три книги — видно, очень опытный.",
+          "tk": "Ol üç kitap ýazdy — görnüşine tejribesi köp.",
+          "en": "He's written three books — clearly very experienced."
+        },
+        {
+          "zh": "这件事他都没有告诉我，可见我们之间关系一般。",
+          "ru": "Он мне об этом не сказал — видно, отношения у нас средние.",
+          "tk": "Ol maňa bu barada aýtmady — görnüşine gatnaşygymyz adaty.",
+          "en": "He didn't tell me about this — our relationship is clearly ordinary."
+        },
+        {
+          "zh": "他能考上这么好的大学，可见平时非常努力。",
+          "ru": "Он поступил в такой хороший университет — видно, усердно занимался.",
+          "tk": "Ol şeýle gowy uniwersitete girdi — görnüşine örän zähmetsöýer boldy.",
+          "en": "He got into such a good university — clearly very hardworking."
+        }
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "pattern": "动词 + 宾语",
+      "items": [
+        "调整时间 / 价格 / 计划 / 结构 / 市场",
+        "活跃气氛 / 市场 / 经济"
+      ]
+    },
+    {
+      "pattern": "定语 + 中心语",
+      "items": [
+        "古典 文学 / 小说 / 戏剧 / 音乐",
+        "交通 / 比赛（的）/ 游戏（的）规则"
+      ]
+    },
+    {
+      "pattern": "定语 + 中心语",
+      "items": [
+        "设计的 图 / 作品 / 方案",
+        "业余的 时间 / 爱好 / 水平 / 合唱团"
+      ]
+    },
+    {
+      "pattern": "数量词 + 名词",
+      "items": [
+        "一组 学生 / 照片 / 服装 / 工具",
+        "一幅 画儿 / 作品"
+      ]
+    },
+    {
+      "pattern": "主语 + 谓语",
+      "items": [
+        "话题 / 讨论 有趣 / 严肃 / 复杂",
+        "大脑 / 语言 活跃 / 平静"
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "目前",
+      "word_b": "现在",
+      "common": {
+        "ru": "Оба — «сейчас, в настоящее время».",
+        "tk": "Ikisi hem «häzir».",
+        "en": "Both mean 'now'."
+      },
+      "differences": [
+        {
+          "ru": "«目前» — от прошлого до настоящего: 到目前为止。",
+          "tk": "«目前» — geçmişden häzirki wagta: häzirki wagta çenli.",
+          "en": "'目前' — from past to present: up to now."
+        },
+        {
+          "ru": "«现在» — момент речи или противопоставление с прошлым: 我现在就去。",
+          "tk": "«现在» — gürrüň pursaty: men häzir gidýärin.",
+          "en": "'现在' — moment of speech: I'm going now."
+        },
+        {
+          "ru": "«现在» можно с конкретным временем: 现在三点。 «目前» — нет.",
+          "tk": "«现在» anyk wagt bilen: häzir sagat üç. «目前» — ýok.",
+          "en": "'现在' can pair with a time: it's 3 now. '目前' — no."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "ru": "Кино и искусство",
+      "tk": "Kino we sungat",
+      "en": "Cinema and art"
+    },
+    "words": [
+      {
+        "hanzi": "导演",
+        "pinyin": "dǎoyǎn",
+        "meaning": {
+          "ru": "режиссёр",
+          "tk": "režissýor",
+          "en": "director"
+        }
+      },
+      {
+        "hanzi": "角色",
+        "pinyin": "juésè",
+        "meaning": {
+          "ru": "роль",
+          "tk": "rol",
+          "en": "role"
+        }
+      },
+      {
+        "hanzi": "明星",
+        "pinyin": "míngxīng",
+        "meaning": {
+          "ru": "звезда",
+          "tk": "ýyldyz",
+          "en": "star"
+        }
+      },
+      {
+        "hanzi": "动画片",
+        "pinyin": "dònghuàpiàn",
+        "meaning": {
+          "ru": "мультфильм",
+          "tk": "animasion film",
+          "en": "animation"
+        }
+      },
+      {
+        "hanzi": "娱乐",
+        "pinyin": "yúlè",
+        "meaning": {
+          "ru": "развлечение",
+          "tk": "güýmenje",
+          "en": "entertainment"
+        }
+      },
+      {
+        "hanzi": "录音",
+        "pinyin": "lùyīn",
+        "meaning": {
+          "ru": "запись звука",
+          "tk": "ses ýazgysy",
+          "en": "audio recording"
+        }
+      },
+      {
+        "hanzi": "麦克风",
+        "pinyin": "màikèfēng",
+        "meaning": {
+          "ru": "микрофон",
+          "tk": "mikrofon",
+          "en": "microphone"
+        }
+      },
+      {
+        "hanzi": "频道",
+        "pinyin": "píndào",
+        "meaning": {
+          "ru": "канал",
+          "tk": "kanal",
+          "en": "channel"
+        }
+      },
+      {
+        "hanzi": "字幕",
+        "pinyin": "zìmù",
+        "meaning": {
+          "ru": "субтитры",
+          "tk": "subtitr",
+          "en": "subtitles"
+        }
+      },
+      {
+        "hanzi": "乐器",
+        "pinyin": "yuèqì",
+        "meaning": {
+          "ru": "инструмент (муз.)",
+          "tk": "saz guraly",
+          "en": "instrument"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "ru": "Любите ли вы абстрактное искусство? Что для вас «красиво»?",
+      "tk": "Abstrakt sungaty halaýarsyňyzmy? Size näme «owadan»?",
+      "en": "Do you like abstract art? What is 'beautiful' to you?"
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Кто участвовал в эксперименте?",
+          "tk": "Synaga kim gatnaşdy?",
+          "en": "Who participated in the experiment?"
+        },
+        "options": [
+          "Дети",
+          "Волонтёры",
+          "Художники",
+          "Учёные"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что показывали в парах?",
+          "tk": "Jübüt-jübüt näme görkezildi?",
+          "en": "What was shown in pairs?"
+        },
+        "options": [
+          "Две фотографии",
+          "Картины художника и не-художника",
+          "Два скульптуры",
+          "Две книги"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что делали с подписями?",
+          "tk": "Gollar bilen näme edildi?",
+          "en": "What was done with signatures?"
+        },
+        "options": [
+          "Убирали все",
+          "Иногда путали",
+          "Все были верные",
+          "Все были авторские"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что предпочитали волонтёры?",
+          "tk": "Meýletinçiler nämäni saýlaýardylar?",
+          "en": "What did volunteers prefer?"
+        },
+        "options": [
+          "Работы художников",
+          "Рисунки животных",
+          "Свои рисунки",
+          "Все одинаково"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что показал второй эксперимент?",
+          "tk": "Ikinji synag näme görkezdi?",
+          "en": "What did the second experiment show?"
+        },
+        "options": [
+          "Все любят копии",
+          "Оригиналы предпочитают",
+          "Не различают",
+          "Случайный выбор"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "Что общего делает мозг?",
+          "tk": "Beýni näme edýär?",
+          "en": "What does the brain do?"
+        },
+        "options": [
+          "Запоминает всё",
+          "Замечает композицию",
+          "Спит",
+          "Игнорирует"
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": [
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«抽象» означает:",
+          "tk": "«抽象» nämäni aňladýar?",
+          "en": "'抽象' means:"
+        },
+        "options": [
+          "Конкретный",
+          "Абстрактный",
+          "Простой",
+          "Сложный"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«欣赏» — это:",
+          "tk": "«欣赏» nämäni aňladýar?",
+          "en": "'欣赏' means:"
+        },
+        "options": [
+          "Игнорировать",
+          "Ценить",
+          "Критиковать",
+          "Покупать"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«极其» означает:",
+          "tk": "«极其» nämäni aňladýar?",
+          "en": "'极其' means:"
+        },
+        "options": [
+          "Немного",
+          "Чрезвычайно",
+          "Редко",
+          "Никогда"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«神秘» — это:",
+          "tk": "«神秘» nämäni aňladýar?",
+          "en": "'神秘' means:"
+        },
+        "options": [
+          "Понятный",
+          "Таинственный",
+          "Открытый",
+          "Скучный"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«业余» означает:",
+          "tk": "«业余» nämäni aňladýar?",
+          "en": "'业余' means:"
+        },
+        "options": [
+          "Профессиональный",
+          "Любительский",
+          "Платный",
+          "Дорогой"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«涂鸦» — это:",
+          "tk": "«涂鸦» näme?",
+          "en": "'涂鸦' means:"
+        },
+        "options": [
+          "Рисунок",
+          "Каракули",
+          "Скульптура",
+          "Фотография"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«其余» означает:",
+          "tk": "«其余» nämäni aňladýar?",
+          "en": "'其余' means:"
+        },
+        "options": [
+          "Все",
+          "Остальные",
+          "Никто",
+          "Первый"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«确认» — это:",
+          "tk": "«确认» nämäni aňladýar?",
+          "en": "'确认' means:"
+        },
+        "options": [
+          "Сомневаться",
+          "Подтвердить",
+          "Забыть",
+          "Спросить"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«哪怕» означает:",
+          "tk": "«哪怕» nämäni aňladýar?",
+          "en": "'哪怕' means:"
+        },
+        "options": [
+          "Хотя",
+          "Даже если",
+          "Потому что",
+          "Однако"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": {
+          "ru": "«可见» — это:",
+          "tk": "«可见» nämäni aňladýar?",
+          "en": "'可见' means:"
+        },
+        "options": [
+          "Незаметно",
+          "Отсюда видно",
+          "Скрытно",
+          "Напротив"
+        ],
+        "answer": 1
+      }
+    ],
+    "writing": [
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "印象",
+          "给我",
+          "上海",
+          "留下了",
+          "极其深刻的"
+        ],
+        "answer": "上海给我留下了极其深刻的印象"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "他也",
+          "再等了",
+          "一分钟",
+          "哪怕是",
+          "不愿意"
+        ],
+        "answer": "他哪怕是一分钟也不愿意再等了"
+      },
+      {
+        "type": "order",
+        "prompt": {
+          "ru": "Составьте предложение",
+          "tk": "Sözlem düzüň",
+          "en": "Make a sentence"
+        },
+        "words": [
+          "便",
+          "成语",
+          "出自",
+          "「画龙点睛」",
+          "关于他的传说"
+        ],
+        "answer": "成语「画龙点睛」便出自关于他的传说"
+      },
+      {
+        "type": "essay",
+        "prompt": {
+          "ru": "Сочинение 80+ иероглифов: 作品、欣赏、业余、自由、活跃",
+          "tk": "80+ iýeroglif: 作品、欣赏、业余、自由、活跃",
+          "en": "Essay 80+ chars: 作品、欣赏、业余、自由、活跃"
+        },
+        "min_length": 80,
+        "required_words": [
+          "作品",
+          "欣赏",
+          "业余",
+          "自由",
+          "活跃"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,801 @@
+/* HSK 5 Learner — Liquid Glass для веба */
+:root {
+  --bg:           #0A1018;
+  --bg-top:       #0D1724;
+  --bg-bot:       #060B12;
+  --card:         rgba(24, 37, 51, 0.75);
+  --card-hover:   rgba(34, 56, 78, 0.85);
+  --card-border:  rgba(120, 160, 200, 0.28);
+  --card-border-hover: #66B2FF;
+  --sidebar:      rgba(16, 27, 40, 0.75);
+  --text:         #F0F4F8;
+  --text-muted:   #8B9AAB;
+  --accent:       #66B2FF;
+  --accent-dark:  #4A8FCC;
+  --success:      #5CD68E;
+  --warn:         #FFB84D;
+  --error:        #FF6B6B;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: linear-gradient(180deg, var(--bg-top), var(--bg-bot));
+  color: var(--text);
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-size: 15px;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---- Фоновый паттерн ---- */
+#bg-pattern {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  overflow: hidden;
+}
+
+#bg-pattern span {
+  position: absolute;
+  color: rgba(80, 120, 160, 0.10);
+  font-family: "Microsoft YaHei UI", "SimHei", sans-serif;
+  font-weight: bold;
+  user-select: none;
+}
+
+#bg-pattern span.math {
+  font-family: Consolas, monospace;
+  color: rgba(100, 140, 180, 0.08);
+}
+
+/* ---- App container ---- */
+#app {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  padding: 24px 48px;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+/* ---- Header ---- */
+.header {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  margin-bottom: 8px;
+}
+
+.logo {
+  font-family: "Microsoft YaHei UI", "SimHei", sans-serif;
+  font-size: 44px;
+  font-weight: bold;
+  color: var(--text);
+}
+
+.dot {
+  color: var(--text-muted);
+  font-size: 32px;
+}
+
+.app-name {
+  font-size: 30px;
+  font-weight: bold;
+  color: var(--text);
+}
+
+.version {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-bottom: 24px;
+}
+
+/* ---- Двухколоночный layout ---- */
+.main-layout {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 24px;
+  flex: 1;
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .main-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---- Карточки ---- */
+.menu-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 14px 22px;
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-decoration: none;
+  color: var(--text);
+}
+
+.card:hover {
+  background: var(--card-hover);
+  border-color: var(--card-border-hover);
+  transform: translateY(-1px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+}
+
+.card-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  flex-shrink: 0;
+}
+
+.card-icon.blue   { background: rgba(74, 158, 255, 0.20); border: 1px solid rgba(120, 180, 255, 0.35); }
+.card-icon.green  { background: rgba(92, 214, 142, 0.20); border: 1px solid rgba(140, 235, 180, 0.35); }
+.card-icon.orange { background: rgba(245, 184, 73, 0.20); border: 1px solid rgba(255, 210, 120, 0.35); }
+.card-icon.purple { background: rgba(155, 126, 232, 0.20); border: 1px solid rgba(190, 165, 255, 0.35); }
+.card-icon.teal   { background: rgba(77, 212, 200, 0.20); border: 1px solid rgba(130, 230, 220, 0.35); }
+.card-icon.pink   { background: rgba(240, 108, 154, 0.20); border: 1px solid rgba(255, 150, 190, 0.35); }
+
+.card-text {
+  flex: 1;
+}
+
+.card-title {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+
+.card-sub {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.card-chevron {
+  font-size: 20px;
+  color: rgba(140, 180, 220, 0.55);
+  transition: color 0.2s;
+}
+
+.card:hover .card-chevron {
+  color: var(--accent);
+}
+
+/* ---- Сайдбар ---- */
+.sidebar {
+  background: var(--sidebar);
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.continue-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 16px;
+  background: linear-gradient(180deg, rgba(74, 158, 255, 0.35), rgba(45, 100, 180, 0.40));
+  border: 1px solid rgba(140, 190, 240, 0.45);
+  border-radius: 14px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.continue-card:hover {
+  background: linear-gradient(180deg, rgba(100, 180, 255, 0.45), rgba(60, 120, 200, 0.50));
+}
+
+.continue-icon { font-size: 28px; }
+.continue-title { font-weight: bold; font-size: 15px; }
+.continue-sub { font-size: 12px; color: rgba(255,255,255,0.75); }
+
+.streak-card {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 14px 16px;
+  background: linear-gradient(180deg, rgba(255, 140, 60, 0.30), rgba(200, 90, 40, 0.35));
+  border: 1px solid rgba(255, 180, 100, 0.45);
+  border-radius: 14px;
+}
+
+.streak-num { font-size: 28px; font-weight: bold; }
+.streak-label { font-size: 12px; color: rgba(255,255,255,0.75); }
+
+.progress-bar-container {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0 4px;
+}
+
+.progress-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.progress-bar {
+  width: 100%;
+  height: 6px;
+  background: rgba(80, 120, 160, 0.30);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: var(--accent);
+  transition: width 0.4s ease;
+}
+
+/* ---- Side buttons ---- */
+.side-btn {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  background: transparent;
+  border: none;
+  border-radius: 10px;
+  color: var(--text);
+  font-size: 14px;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all 0.15s;
+  text-align: left;
+  width: 100%;
+}
+
+.side-btn:hover {
+  background: rgba(120, 170, 220, 0.18);
+}
+
+/* ---- Loading ---- */
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 20px;
+  color: var(--text-muted);
+  font-size: 14px;
+}
+
+.loading::after {
+  content: "";
+  width: 16px;
+  height: 16px;
+  border: 2px solid var(--accent);
+  border-top-color: transparent;
+  border-radius: 50%;
+  margin-left: 12px;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ---- Back button ---- */
+.back-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  background: rgba(40, 60, 84, 0.65);
+  border: 1px solid rgba(140, 180, 220, 0.30);
+  border-radius: 10px;
+  color: var(--text);
+  font-family: inherit;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.15s;
+  margin-bottom: 16px;
+}
+
+.back-btn:hover {
+  background: rgba(60, 90, 120, 0.85);
+  border-color: var(--accent);
+}
+
+/* ---- Lessons list ---- */
+.unit-block {
+  margin-bottom: 20px;
+}
+
+.unit-header {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 10px;
+  padding: 0 4px;
+}
+
+.unit-label {
+  font-size: 11px;
+  font-weight: bold;
+  color: var(--accent);
+  letter-spacing: 1px;
+}
+
+.unit-name {
+  font-size: 15px;
+  color: var(--text);
+}
+
+.lesson-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 12px 18px;
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 14px;
+  margin-bottom: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.lesson-row:hover {
+  background: var(--card-hover);
+  border-color: var(--card-border-hover);
+}
+
+.lesson-num {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 14px;
+  color: white;
+  flex-shrink: 0;
+}
+
+.lesson-titles { flex: 1; }
+.lesson-zh { font-size: 15px; font-weight: bold; color: var(--accent); margin-bottom: 2px; }
+.lesson-tr { font-size: 12px; color: var(--text-muted); }
+
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: rgba(40, 60, 84, 0.30); border-radius: 5px; }
+::-webkit-scrollbar-thumb { background: rgba(120, 160, 200, 0.45); border-radius: 5px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(150, 190, 230, 0.65); }
+
+
+/* ============================================================
+   ЭКРАН УРОКА
+   ============================================================ */
+.lesson-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.lesson-badge {
+  width: 56px;
+  height: 56px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+  flex-shrink: 0;
+}
+
+.lesson-titles-block {
+  flex: 1;
+}
+
+.lesson-zh-big {
+  font-family: "Microsoft YaHei UI", "SimHei", sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: var(--accent);
+  margin-bottom: 2px;
+}
+
+.lesson-tr-big {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+/* ---- Вкладки ---- */
+.tabs-bar {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.tab-btn {
+  padding: 8px 16px;
+  background: rgba(40, 60, 84, 0.55);
+  border: 1px solid rgba(120, 160, 200, 0.20);
+  border-radius: 10px;
+  color: var(--text-muted);
+  font-family: inherit;
+  font-size: 13px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+
+.tab-btn:hover {
+  background: rgba(60, 90, 120, 0.75);
+  border-color: rgba(140, 180, 220, 0.50);
+  color: var(--text);
+}
+
+.tab-btn.active {
+  background: rgba(74, 158, 255, 0.35);
+  border-color: var(--accent);
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+/* ---- Контент вкладки ---- */
+.tab-content {
+  animation: fadeIn 0.25s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.content-card {
+  background: rgba(24, 37, 51, 0.75);
+  border: 1px solid rgba(120, 160, 200, 0.28);
+  border-radius: 16px;
+  padding: 22px 26px;
+  margin-bottom: 14px;
+}
+
+.content-card-title {
+  font-size: 16px;
+  font-weight: bold;
+  color: var(--accent);
+  margin-bottom: 12px;
+}
+
+/* ---- Текст урока ---- */
+.text-zh {
+  font-family: "Microsoft YaHei UI", "SimHei", sans-serif;
+  font-size: 16px;
+  line-height: 2;
+  color: var(--text);
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  margin-bottom: 16px;
+}
+
+.text-tr {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--text-muted);
+  background: rgba(30, 46, 62, 0.60);
+  border: 1px solid rgba(120, 160, 200, 0.18);
+  border-radius: 12px;
+  padding: 16px 20px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.audio-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  background: rgba(74, 158, 255, 0.25);
+  border: 1px solid rgba(120, 160, 200, 0.35);
+  border-radius: 10px;
+  color: var(--text);
+  font-family: inherit;
+  font-size: 13px;
+  cursor: pointer;
+  margin-bottom: 12px;
+  transition: all 0.15s;
+}
+
+.audio-btn:hover {
+  background: rgba(74, 158, 255, 0.45);
+}
+
+.audio-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* ---- Таблица слов ---- */
+.vocab-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.vocab-table thead {
+  background: rgba(30, 46, 64, 0.90);
+}
+
+.vocab-table th {
+  padding: 12px 10px;
+  text-align: left;
+  color: var(--text);
+  font-weight: bold;
+  border-bottom: 1px solid rgba(140, 180, 220, 0.35);
+}
+
+.vocab-table td {
+  padding: 10px;
+  border-bottom: 1px solid rgba(120, 160, 200, 0.12);
+  color: var(--text);
+}
+
+.vocab-table tbody tr:hover {
+  background: rgba(74, 158, 255, 0.10);
+}
+
+.vocab-table .cell-hanzi {
+  font-family: "Microsoft YaHei UI", "SimHei", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: var(--accent);
+}
+
+.vocab-table .cell-pinyin {
+  color: var(--text-muted);
+}
+
+.vocab-table .cell-pos {
+  color: var(--text-muted);
+}
+
+/* ---- Карточка грамматики ---- */
+.grammar-card {
+  background: rgba(24, 37, 51, 0.75);
+  border: 1px solid rgba(120, 160, 200, 0.28);
+  border-radius: 16px;
+  padding: 20px 24px;
+  margin-bottom: 16px;
+}
+
+.grammar-head {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.grammar-word {
+  font-family: "Microsoft YaHei UI", "SimHei", sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: var(--accent);
+}
+
+.grammar-pos {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.grammar-expl {
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--text);
+  margin-bottom: 14px;
+}
+
+.grammar-example {
+  background: rgba(30, 46, 62, 0.65);
+  border: 1px solid rgba(120, 160, 200, 0.20);
+  border-radius: 10px;
+  padding: 10px 14px;
+  margin-bottom: 8px;
+}
+
+.grammar-example .ex-zh {
+  font-family: "Microsoft YaHei UI", "SimHei", sans-serif;
+  font-size: 13px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.grammar-example .ex-tr {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+/* ---- Сравнения ---- */
+.compare-card {
+  background: rgba(24, 37, 51, 0.75);
+  border: 1px solid rgba(120, 160, 200, 0.28);
+  border-radius: 16px;
+  padding: 20px 24px;
+  margin-bottom: 16px;
+}
+
+.compare-head {
+  text-align: center;
+  font-family: "Microsoft YaHei UI", "SimHei", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: var(--accent);
+  margin-bottom: 14px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(120, 160, 200, 0.20);
+}
+
+.compare-common {
+  color: var(--success);
+  font-weight: bold;
+  font-size: 12px;
+  margin-bottom: 6px;
+}
+
+.compare-common-text {
+  font-size: 14px;
+  color: var(--text);
+  margin-bottom: 14px;
+}
+
+.compare-diff-title {
+  color: var(--error);
+  font-weight: bold;
+  font-size: 12px;
+  margin-bottom: 6px;
+}
+
+.compare-diff-item {
+  font-size: 13px;
+  color: var(--text-muted);
+  padding: 6px 0 6px 12px;
+  border-left: 2px solid rgba(255, 107, 107, 0.45);
+  margin-bottom: 6px;
+}
+
+/* ---- Словосочетания ---- */
+.phrases-card {
+  background: rgba(24, 37, 51, 0.75);
+  border: 1px solid rgba(120, 160, 200, 0.28);
+  border-radius: 16px;
+  padding: 18px 22px;
+  margin-bottom: 14px;
+}
+
+.phrases-pattern {
+  font-size: 15px;
+  font-weight: bold;
+  color: var(--accent);
+  margin-bottom: 10px;
+}
+
+.phrase-item {
+  font-family: "Microsoft YaHei UI", "SimHei", sans-serif;
+  font-size: 13px;
+  color: var(--text);
+  padding: 5px 0 5px 20px;
+  position: relative;
+}
+
+.phrase-item::before {
+  content: "·";
+  position: absolute;
+  left: 6px;
+  color: var(--accent);
+  font-weight: bold;
+}
+
+/* ---- Расширение ---- */
+.extend-topic {
+  font-size: 15px;
+  font-weight: bold;
+  color: var(--text);
+  margin-bottom: 12px;
+}
+
+.extend-word {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  background: rgba(30, 46, 62, 0.65);
+  border: 1px solid rgba(120, 160, 200, 0.20);
+  border-radius: 10px;
+  padding: 10px 16px;
+  margin-bottom: 6px;
+}
+
+.extend-hanzi {
+  font-family: "Microsoft YaHei UI", "SimHei", sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  color: var(--accent);
+  min-width: 80px;
+}
+
+.extend-pinyin {
+  font-size: 13px;
+  color: var(--text-muted);
+  min-width: 120px;
+}
+
+.extend-meaning {
+  font-size: 14px;
+  color: var(--text);
+  flex: 1;
+}
+
+/* ---- Применение ---- */
+.apply-question {
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--text);
+}
+
+/* ---- Упражнения ---- */
+.exercise-item {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  background: rgba(24, 37, 51, 0.75);
+  border: 1px solid rgba(120, 160, 200, 0.28);
+  border-radius: 16px;
+  padding: 18px 22px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.exercise-item:hover {
+  background: rgba(34, 56, 78, 0.85);
+  border-color: var(--card-border-hover);
+}
+
+.exercise-icon {
+  font-size: 32px;
+  width: 56px;
+  text-align: center;
+}
+
+.exercise-title {
+  font-size: 16px;
+  font-weight: bold;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.exercise-sub {
+  font-size: 12px;
+  color: var(--text-muted);
+}
