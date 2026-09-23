@@ -348,6 +348,11 @@ function renderMainMenu() {
       <span style="font-size:18px">${(window.HSK_USER && window.HSK_USER.avatar) || "👤"}</span>
       <span>${(window.HSK_USER && window.HSK_USER.name) || "Профиль"}</span>
     </button>
+    ${(window.HSK_USER && window.HSK_USER.is_admin) ? `
+    <button class="side-btn" id="btn-admin" style="color:#FFB84D">
+      <span style="font-size:18px">👑</span>
+      <span>Админка</span>
+    </button>` : ""}
     <button class="side-btn" id="btn-logout" style="color:#FF6B6B">
       <span style="font-size:18px">⎋</span>
       <span>Выйти</span>
@@ -375,6 +380,8 @@ function renderMainMenu() {
   document.getElementById("btn-lang").addEventListener("click", () => cycleLang());
   const btnProf = document.getElementById("btn-profile");
   const btnOut = document.getElementById("btn-logout");
+  const btnAdmin = document.getElementById("btn-admin");
+  if (btnAdmin) btnAdmin.addEventListener("click", () => navigate("admin"));
   if (btnProf) btnProf.addEventListener("click", () => navigate("profile"));
   if (btnOut) btnOut.addEventListener("click", () => {
     if (confirm("Выйти из аккаунта? Прогресс сохранён на сервере.")) {
@@ -1582,8 +1589,265 @@ function renderProfile() {
     if (confirm("Выйти из аккаунта?")) HSKAuth.logout();
   });
   document.getElementById("p-edit").addEventListener("click", () => {
-    alert("Редактирование появится позже");
+    if (typeof showEditProfile === "function") showEditProfile();
   });
+}
+
+
+// ============================================================
+// АДМИН-ПАНЕЛЬ
+// ============================================================
+async function renderAdmin() {
+  const u = window.HSK_USER || {};
+  if (!u.is_admin) {
+    app.innerHTML = `<div class="content-card" style="margin:40px auto;max-width:500px;text-align:center">
+      <div style="font-size:48px">🔒</div>
+      <div style="margin-top:14px">Доступ только для администратора</div></div>`;
+    return;
+  }
+  app.innerHTML = `
+    <button class="back-btn" id="back">‹ ${t("back")}</button>
+    <div class="header"><span class="app-name">👑 Пользователи</span></div>
+    <div id="content" class="loading">${t("loading")}</div>`;
+  document.getElementById("back").addEventListener("click", () => navigate("menu"));
+
+  const r = await fetch("/api/admin/users", { credentials: "same-origin" });
+  if (!r.ok) {
+    document.getElementById("content").innerHTML =
+      `<div style="color:#FF6B6B;padding:20px">Не удалось загрузить</div>`;
+    return;
+  }
+  const j = await r.json();
+  const users = j.users || [];
+  const content = document.getElementById("content");
+  content.classList.remove("loading");
+
+  const totalUsers = users.length;
+  const activeUsers = users.filter(x => x.activated).length;
+  const admins = users.filter(x => x.is_admin).length;
+
+  content.innerHTML = `
+    <div class="content-card" style="margin-top:14px">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:14px;margin-bottom:20px">
+        <div><div style="font-size:26px;font-weight:700;color:#66B2FF">${totalUsers}</div>
+             <div style="font-size:12px;color:#8B9AAB">Всего</div></div>
+        <div><div style="font-size:26px;font-weight:700;color:#5CD68E">${activeUsers}</div>
+             <div style="font-size:12px;color:#8B9AAB">Активировано</div></div>
+        <div><div style="font-size:26px;font-weight:700;color:#FFB84D">${admins}</div>
+             <div style="font-size:12px;color:#8B9AAB">Админов</div></div>
+      </div>
+      <table class="vocab-table" id="users-table">
+        <thead><tr>
+          <th>Пользователь</th>
+          <th>Email</th>
+          <th style="width:100px">Дата</th>
+          <th style="width:70px">Ключей</th>
+          <th style="width:90px">Статус</th>
+          <th style="width:70px"></th>
+        </tr></thead><tbody></tbody>
+      </table>
+    </div>`;
+
+  const tbody = content.querySelector("tbody");
+  for (const x of users) {
+    const tr = document.createElement("tr");
+    const created = (x.created_at || "").slice(0, 10);
+    const seen = x.last_seen ? x.last_seen.slice(0, 10) : "—";
+    tr.innerHTML = `
+      <td>
+        <span style="font-size:20px;margin-right:6px">${x.avatar || "👤"}</span>
+        <b>${escapeHtml(x.name)}</b>
+        ${x.is_admin ? '<span style="color:#FFB84D;font-size:11px;margin-left:6px">👑</span>' : ''}
+      </td>
+      <td style="font-size:13px;color:#8B9AAB">${escapeHtml(x.email)}</td>
+      <td style="font-size:12px;color:#8B9AAB">${created}</td>
+      <td style="font-size:12px;color:#8B9AAB">${x.progress_keys || 0}</td>
+      <td style="font-size:12px;color:${x.activated ? "#5CD68E" : "#FFB84D"}">
+        ${x.activated ? "✓ активен" : "⏳ не активирован"}</td>
+      <td>
+        ${!x.is_admin ? `<button class="del-user" data-id="${x.id}" data-name="${escapeHtml(x.name)}"
+          style="padding:4px 10px;border-radius:6px;background:transparent;color:#FF6B6B;
+                 border:1px solid #FF6B6B;cursor:pointer;font-size:12px">Удалить</button>` : ""}
+      </td>`;
+    tbody.appendChild(tr);
+  }
+
+  content.querySelectorAll(".del-user").forEach(btn => {
+    btn.addEventListener("click", async () => {
+      const id = btn.dataset.id;
+      const nm = btn.dataset.name;
+      if (!confirm(`Удалить пользователя "${nm}" и весь его прогресс?`)) return;
+      const r = await fetch(`/api/admin/users/${id}`, {
+        method: "DELETE", credentials: "same-origin",
+      });
+      if (r.ok) {
+        btn.closest("tr").remove();
+      } else {
+        const j = await r.json();
+        alert(j.error || "Не удалось");
+      }
+    });
+  });
+}
+
+// ============================================================
+// ЗАБЫЛИ ПАРОЛЬ
+// ============================================================
+function renderForgot() {
+  app.innerHTML = `
+    <div class="auth-wrap">
+      <div class="auth-logo">Сброс пароля</div>
+      <div class="auth-sub">Введи email — пришлём ссылку для сброса</div>
+      <label class="auth-label">Email</label>
+      <input id="fp-email" class="auth-input" type="email">
+      <button id="fp-btn" class="auth-btn">Отправить ссылку</button>
+      <button id="fp-back" class="auth-btn" style="background:transparent;color:#8B9AAB;font-weight:400;font-size:14px;padding:10px">
+        ← Ко входу
+      </button>
+      <div id="fp-msg" class="auth-msg"></div>
+    </div>`;
+  const msg = document.getElementById("fp-msg");
+  const email = document.getElementById("fp-email");
+  const btn = document.getElementById("fp-btn");
+  document.getElementById("fp-back").onclick = () => {
+    window.location.hash = "";
+    if (window.HSKAuth) window.HSKAuth.showAuthScreen("login");
+  };
+  btn.onclick = async () => {
+    const e = email.value.trim();
+    if (!e) return setAuthMsg(msg, "Введите email", "error");
+    btn.disabled = true;
+    setAuthMsg(msg, "Отправляю...", "info");
+    const r = await fetch("/api/auth/forgot", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ email: e }),
+    });
+    btn.disabled = false;
+    const j = await r.json().catch(() => ({}));
+    if (r.ok) setAuthMsg(msg, "Письмо отправлено. Проверьте почту.", "ok");
+    else setAuthMsg(msg, j.error || "Ошибка", "error");
+  };
+}
+
+function setAuthMsg(el, text, kind) {
+  if (!el) return;
+  el.className = "auth-msg " + (kind || "");
+  el.textContent = text || "";
+}
+
+// ============================================================
+// НОВЫЙ ПАРОЛЬ ПО ТОКЕНУ
+// ============================================================
+async function renderReset(token) {
+  app.innerHTML = `
+    <div class="auth-wrap">
+      <div class="auth-logo">Новый пароль</div>
+      <div class="auth-sub">Введи новый пароль для своего аккаунта</div>
+      <label class="auth-label">Новый пароль (минимум 6 символов)</label>
+      <input id="rs-pass" class="auth-input" type="password">
+      <label class="auth-label">Повторите</label>
+      <input id="rs-pass2" class="auth-input" type="password">
+      <button id="rs-btn" class="auth-btn">Установить пароль</button>
+      <div id="rs-msg" class="auth-msg"></div>
+    </div>`;
+  const msg = document.getElementById("rs-msg");
+  const p1 = document.getElementById("rs-pass");
+  const p2 = document.getElementById("rs-pass2");
+  const btn = document.getElementById("rs-btn");
+  btn.onclick = async () => {
+    if (p1.value.length < 6) return setAuthMsg(msg, "Минимум 6 символов", "error");
+    if (p1.value !== p2.value) return setAuthMsg(msg, "Пароли не совпадают", "error");
+    btn.disabled = true;
+    setAuthMsg(msg, "Сохраняю...", "info");
+    const r = await fetch(`/api/auth/reset/${encodeURIComponent(token)}`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ password: p1.value }),
+    });
+    btn.disabled = false;
+    const j = await r.json().catch(() => ({}));
+    if (r.ok) {
+      setAuthMsg(msg, "Пароль обновлён. Открываю...", "ok");
+      window.HSK_USER = j.user;
+      setTimeout(() => {
+        window.location.hash = "menu";
+        window.location.reload();
+      }, 900);
+    } else {
+      setAuthMsg(msg, j.error || "Ошибка", "error");
+    }
+  };
+}
+
+// ============================================================
+// РЕДАКТИРОВАНИЕ ПРОФИЛЯ
+// ============================================================
+const AVATAR_CHOICES = ["👤","🐱","🐼","🦊","🐯","🦁","🐸","🐧","🦉","🦄","🐲","👩","👨","🧑","👧","👦","🧠","📚","🎓","⭐"];
+let editAvatar = null;
+
+function showEditProfile() {
+  const u = window.HSK_USER || {};
+  editAvatar = u.avatar || "👤";
+  const html = `
+    <div id="edit-modal" style="position:fixed;inset:0;background:rgba(0,0,0,0.7);z-index:9999;display:flex;align-items:center;justify-content:center;padding:20px">
+      <div style="background:#0e1620;border-radius:16px;padding:26px;max-width:440px;width:100%;max-height:90vh;overflow-y:auto;color:#F0F4F8">
+        <h3 style="margin:0 0 20px;color:#66B2FF">Редактировать профиль</h3>
+        <label class="auth-label">Имя</label>
+        <input id="ep-name" class="auth-input" type="text" value="${escapeHtml(u.name || "")}" maxlength="60">
+        <label class="auth-label" style="margin-top:14px;display:block">Аватар</label>
+        <div id="ep-avatars" style="display:flex;flex-wrap:wrap;gap:6px;margin-top:8px"></div>
+        <div id="ep-msg" class="auth-msg"></div>
+        <div style="display:flex;gap:10px;margin-top:22px">
+          <button id="ep-save" class="auth-btn" style="margin-top:0">Сохранить</button>
+          <button id="ep-cancel" class="auth-btn" style="margin-top:0;background:#2a3f5a">Отмена</button>
+        </div>
+      </div>
+    </div>`;
+  document.body.insertAdjacentHTML("beforeend", html);
+
+  const avatarWrap = document.getElementById("ep-avatars");
+  function drawAvatars() {
+    avatarWrap.innerHTML = "";
+    for (const a of AVATAR_CHOICES) {
+      const b = document.createElement("button");
+      b.textContent = a;
+      const active = a === editAvatar;
+      b.style.cssText = `font-size:24px;padding:6px;width:44px;height:44px;cursor:pointer;` +
+        `border-radius:10px;border:1px solid ${active ? "#66B2FF" : "#333"};` +
+        `background:${active ? "rgba(74,158,255,0.2)" : "transparent"};color:#fff`;
+      b.onclick = () => { editAvatar = a; drawAvatars(); };
+      avatarWrap.appendChild(b);
+    }
+  }
+  drawAvatars();
+
+  const msg = document.getElementById("ep-msg");
+  document.getElementById("ep-cancel").onclick = () => {
+    document.getElementById("edit-modal").remove();
+  };
+  document.getElementById("ep-save").onclick = async () => {
+    const nm = document.getElementById("ep-name").value.trim();
+    if (!nm) return setAuthMsg(msg, "Имя не может быть пустым", "error");
+    const btn = document.getElementById("ep-save");
+    btn.disabled = true;
+    setAuthMsg(msg, "Сохраняю...", "info");
+    const r = await fetch("/api/auth/profile", {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      credentials: "same-origin",
+      body: JSON.stringify({ name: nm, avatar: editAvatar }),
+    });
+    const j = await r.json().catch(() => ({}));
+    btn.disabled = false;
+    if (r.ok) {
+      window.HSK_USER = j.user;
+      document.getElementById("edit-modal").remove();
+      navigate("profile");
+    } else {
+      setAuthMsg(msg, j.error || "Ошибка", "error");
+    }
+  };
 }
 
 // ============================================================
@@ -1619,6 +1883,8 @@ function navigate(path) {
   else if (p[0] === "srs") renderSrs();
   else if (p[0] === "feedback") renderFeedback();
   else if (p[0] === "profile") renderProfile();
+  else if (p[0] === "admin") renderAdmin();
+  else if (p[0] === "forgot") renderForgot();
   else if (p[0] === "achievements") renderAchievements();
   else if (p[0] === "settings") renderSettings();
   else renderPlaceholder("? " + path);

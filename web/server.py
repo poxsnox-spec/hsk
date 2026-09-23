@@ -5,11 +5,10 @@ import logging
 import os
 import sys
 from pathlib import Path
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-from pathlib import Path
 
-from flask import (Flask, send_from_directory, jsonify, request,
-                   session, redirect)
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from flask import (Flask, send_from_directory, jsonify, request, session)
 
 import auth
 
@@ -24,8 +23,8 @@ app.secret_key = auth.get_or_create_secret()
 app.config.update(
     SESSION_COOKIE_HTTPONLY=True,
     SESSION_COOKIE_SAMESITE="Lax",
-    SESSION_COOKIE_SECURE=False,   # True на HTTPS
-    PERMANENT_SESSION_LIFETIME=60 * 60 * 24 * 30,  # 30 дней
+    SESSION_COOKIE_SECURE=False,
+    PERMANENT_SESSION_LIFETIME=60 * 60 * 24 * 30,
 )
 
 
@@ -127,40 +126,47 @@ def require_login(fn):
     return wrapper
 
 
-def _activation_email(name, link):
-    subject = "HSK 5 Learner — подтвердите email"
-    text = (
-        f"Здравствуйте, {name}!\n\n"
-        f"Для активации аккаунта перейдите по ссылке:\n{link}\n\n"
-        f"Ссылка действует 24 часа.\n\n"
-        f"— HSK 5 Learner"
-    )
-    html = f"""
+def require_admin(fn):
+    from functools import wraps
+    @wraps(fn)
+    def wrapper(*a, **kw):
+        if not session.get("uid"):
+            return jsonify({"error": "unauthorized"}), 401
+        u = current_user()
+        if not u or not u.get("is_admin"):
+            return jsonify({"error": "forbidden"}), 403
+        return fn(*a, **kw)
+    return wrapper
+
+
+def _email_layout(title, subtitle, body_html, button_text=None, button_link=None):
+    btn = ""
+    if button_text and button_link:
+        btn = f"""
+        <p style="margin:26px 0">
+          <a href="{button_link}"
+             style="display:inline-block;padding:14px 28px;background:#4a9eff;
+                    color:#fff;text-decoration:none;border-radius:10px;font-weight:600">
+            {button_text}
+          </a>
+        </p>
+        <p style="font-size:13px;color:#8B9AAB">
+          Если кнопка не работает, скопируйте ссылку:<br>
+          <span style="color:#66B2FF;word-break:break-all">{button_link}</span>
+        </p>"""
+    return f"""
     <div style="font-family:Arial,sans-serif;max-width:560px;margin:0 auto;
                 padding:28px;background:#0e1620;color:#F0F4F8;border-radius:14px">
       <h2 style="color:#66B2FF;margin:0 0 8px">HSK 5 Learner</h2>
-      <p style="color:#8B9AAB;font-size:13px;margin:0 0 24px">
-        Подтверждение email</p>
-      <p>Здравствуйте, <b>{name}</b>!</p>
-      <p>Нажмите кнопку, чтобы активировать аккаунт:</p>
-      <p style="margin:26px 0">
-        <a href="{link}"
-           style="display:inline-block;padding:14px 28px;background:#4a9eff;
-                  color:#fff;text-decoration:none;border-radius:10px;
-                  font-weight:600">
-          Активировать аккаунт
-        </a>
-      </p>
-      <p style="font-size:13px;color:#8B9AAB">
-        Ссылка действует 24 часа. Если кнопка не работает, скопируйте ссылку:<br>
-        <span style="color:#66B2FF;word-break:break-all">{link}</span>
-      </p>
+      <p style="color:#8B9AAB;font-size:13px;margin:0 0 24px">{subtitle}</p>
+      <h3 style="margin:0 0 12px">{title}</h3>
+      <div>{body_html}</div>
+      {btn}
     </div>"""
-    return subject, text, html
 
 
 # ============================================================
-# Статика / аудио
+# Статика / аудио / favicon
 # ============================================================
 @app.route("/")
 def index():
@@ -170,6 +176,12 @@ def index():
 @app.route("/static/<path:fname>")
 def static_files(fname):
     return send_from_directory(str(STATIC), fname)
+
+
+@app.route("/favicon.ico")
+@app.route("/favicon.svg")
+def favicon():
+    return send_from_directory(str(STATIC), "favicon.svg", mimetype="image/svg+xml")
 
 
 @app.route("/audio/<path:fname>")
@@ -189,21 +201,24 @@ def auth_register():
     if not res["ok"]:
         return jsonify({"error": res["error"]}), 400
 
-    # для админа — сразу логиним
     if res["user"]["is_admin"]:
         session.permanent = True
         session["uid"] = res["user"]["id"]
         return jsonify({"ok": True, "user": res["user"], "is_admin": True})
 
-    # шлём письмо
     link = f"{request.host_url.rstrip('/')}/#activate/{res['token']}"
-    subj, text, html = _activation_email(res["user"]["name"], link)
-    send_brevo(subj, text, to_email=res["user"]["email"], html=html)
-    return jsonify({
-        "ok": True,
-        "need_activation": True,
-        "email": res["user"]["email"],
-    })
+    html = _email_layout(
+        "Подтверждение email",
+        "Подтверждение адреса",
+        f"<p>Здравствуйте, <b>{res['user']['name']}</b>!</p>"
+        f"<p>Нажмите кнопку ниже, чтобы активировать аккаунт.</p>"
+        f"<p style='font-size:13px;color:#8B9AAB'>Ссылка действует 24 часа.</p>",
+        "Активировать аккаунт", link,
+    )
+    text = f"Здравствуйте, {res['user']['name']}!\n\nСсылка активации (24 ч):\n{link}"
+    send_brevo("HSK 5 Learner — подтвердите email",
+               text, to_email=res["user"]["email"], html=html)
+    return jsonify({"ok": True, "need_activation": True, "email": res["user"]["email"]})
 
 
 @app.route("/api/auth/activate/<token>")
@@ -223,8 +238,16 @@ def auth_resend():
     if not res["ok"]:
         return jsonify({"error": res["error"]}), 400
     link = f"{request.host_url.rstrip('/')}/#activate/{res['token']}"
-    subj, text, html = _activation_email(res["name"], link)
-    send_brevo(subj, text, to_email=res["email"], html=html)
+    html = _email_layout(
+        "Подтверждение email", "Повторная отправка",
+        f"<p>Здравствуйте, <b>{res['name']}</b>!</p>"
+        f"<p>Ссылка для активации аккаунта:</p>"
+        f"<p style='font-size:13px;color:#8B9AAB'>Действует 24 часа.</p>",
+        "Активировать аккаунт", link,
+    )
+    text = f"Ссылка активации (24 ч):\n{link}"
+    send_brevo("HSK 5 Learner — подтвердите email",
+               text, to_email=res["email"], html=html)
     return jsonify({"ok": True})
 
 
@@ -251,6 +274,48 @@ def auth_me():
     if not u:
         return jsonify({"user": None})
     return jsonify({"user": u})
+
+
+@app.route("/api/auth/forgot", methods=["POST"])
+def auth_forgot():
+    d = request.get_json(silent=True) or {}
+    res = auth.create_reset_token(d.get("email"))
+    if not res["ok"]:
+        return jsonify({"error": res["error"]}), 400
+    link = f"{request.host_url.rstrip('/')}/#reset/{res['token']}"
+    html = _email_layout(
+        "Сброс пароля", "Восстановление доступа",
+        f"<p>Здравствуйте, <b>{res['name']}</b>!</p>"
+        f"<p>Вы запросили сброс пароля. Нажмите кнопку ниже:</p>"
+        f"<p style='font-size:13px;color:#8B9AAB'>Ссылка действует 1 час. "
+        f"Если это были не вы — просто проигнорируйте письмо.</p>",
+        "Сбросить пароль", link,
+    )
+    text = f"Ссылка для сброса пароля (1 час):\n{link}"
+    send_brevo("HSK 5 Learner — сброс пароля",
+               text, to_email=res["email"], html=html)
+    return jsonify({"ok": True})
+
+
+@app.route("/api/auth/reset/<token>", methods=["POST"])
+def auth_reset(token):
+    d = request.get_json(silent=True) or {}
+    res = auth.reset_password(token, d.get("password"))
+    if not res["ok"]:
+        return jsonify({"error": res["error"]}), 400
+    session.permanent = True
+    session["uid"] = res["user"]["id"]
+    return jsonify({"ok": True, "user": res["user"]})
+
+
+@app.route("/api/auth/profile", methods=["PUT"])
+@require_login
+def auth_profile_update():
+    d = request.get_json(silent=True) or {}
+    res = auth.update_profile(session["uid"], d.get("name"), d.get("avatar"))
+    if not res["ok"]:
+        return jsonify({"error": res["error"]}), 400
+    return jsonify({"ok": True, "user": res["user"]})
 
 
 # ============================================================
@@ -280,7 +345,7 @@ def progress_reset():
 
 
 # ============================================================
-# Уроки / слова / грамматика (публичные, но можно требовать логин)
+# Уроки / слова / грамматика
 # ============================================================
 @app.route("/api/lessons")
 @require_login
@@ -314,10 +379,8 @@ def api_vocab():
             if not isinstance(w, dict):
                 continue
             out.append({
-                "hanzi": w.get("hanzi", ""),
-                "pinyin": w.get("pinyin", ""),
-                "pos": w.get("pos", ""),
-                "meaning": w.get("meaning", {}) or {},
+                "hanzi": w.get("hanzi", ""), "pinyin": w.get("pinyin", ""),
+                "pos": w.get("pos", ""), "meaning": w.get("meaning", {}) or {},
                 "unit": u, "lesson": l,
             })
     return jsonify(out)
@@ -332,8 +395,7 @@ def api_grammar():
             if not isinstance(g, dict):
                 continue
             out.append({
-                "word": g.get("word", ""),
-                "pos": g.get("pos", ""),
+                "word": g.get("word", ""), "pos": g.get("pos", ""),
                 "explanation": g.get("explanation", {}) or {},
                 "examples": g.get("examples", []) or [],
                 "unit": u, "lesson": l,
@@ -350,8 +412,7 @@ def api_compare():
             if not isinstance(cp, dict):
                 continue
             out.append({
-                "word_a": cp.get("word_a", ""),
-                "word_b": cp.get("word_b", ""),
+                "word_a": cp.get("word_a", ""), "word_b": cp.get("word_b", ""),
                 "common": cp.get("common", {}) or {},
                 "differences": cp.get("differences", []) or [],
                 "unit": u, "lesson": l,
@@ -371,10 +432,7 @@ def api_feedback():
     if not message:
         return jsonify({"error": "empty"}), 400
     u = current_user()
-    body = (
-        f"От: {name or u['name']}\n"
-        f"Email: {u['email']}\n\n{message}"
-    )
+    body = f"От: {name or u['name']}\nEmail: {u['email']}\n\n{message}"
     ok = send_brevo("[HSK5] Сообщение от друга", body)
     return jsonify({"ok": ok}), (200 if ok else 500)
 
@@ -383,12 +441,24 @@ def api_feedback():
 # ADMIN
 # ============================================================
 @app.route("/api/admin/users")
-@require_login
+@require_admin
 def admin_users():
-    u = current_user()
-    if not u or not u["is_admin"]:
-        return jsonify({"error": "forbidden"}), 403
     return jsonify({"users": auth.list_users()})
+
+
+@app.route("/api/admin/users/<int:uid>/progress")
+@require_admin
+def admin_user_progress(uid):
+    return jsonify(auth.get_user_progress_summary(uid))
+
+
+@app.route("/api/admin/users/<int:uid>", methods=["DELETE"])
+@require_admin
+def admin_delete_user(uid):
+    if uid == session.get("uid"):
+        return jsonify({"error": "Нельзя удалить себя"}), 400
+    auth.delete_user(uid)
+    return jsonify({"ok": True})
 
 
 @app.route("/api/health")

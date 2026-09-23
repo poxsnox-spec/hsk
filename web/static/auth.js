@@ -184,7 +184,12 @@
       <input id="li-email" class="auth-input" type="email" autocomplete="email">
       <label class="auth-label">Пароль</label>
       <input id="li-pass" class="auth-input" type="password" autocomplete="current-password">
-      <button id="li-btn" class="auth-btn">Войти</button>`;
+      <button id="li-btn" class="auth-btn">Войти</button>
+      <div style="text-align:center;margin-top:14px">
+        <a href="#forgot" id="li-forgot" style="color:#8B9AAB;font-size:13px;text-decoration:none">
+          Забыли пароль?
+        </a>
+      </div>`;
 
     const msg = document.getElementById("auth-msg");
     const email = document.getElementById("li-email");

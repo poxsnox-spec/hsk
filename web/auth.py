@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Аутентификация, регистрация, активация, прогресс. SQLite."""
+"""Аутентификация, регистрация, активация, прогресс, профиль, сброс пароля."""
 import json
 import secrets
 import sqlite3
@@ -16,11 +16,9 @@ SECRET_FILE = DATA / "secret.key"
 
 ADMIN_EMAIL = "poxsnox@gmail.com"
 ACTIVATION_HOURS = 24
+RESET_HOURS = 1
 
 
-# ============================================================
-# SECRET_KEY (для подписи cookies)
-# ============================================================
 def get_or_create_secret() -> str:
     if SECRET_FILE.exists():
         return SECRET_FILE.read_text(encoding="utf-8").strip()
@@ -29,9 +27,6 @@ def get_or_create_secret() -> str:
     return key
 
 
-# ============================================================
-# БД
-# ============================================================
 def _conn():
     c = sqlite3.connect(DB_FILE)
     c.row_factory = sqlite3.Row
@@ -53,6 +48,8 @@ def init_db():
                 activated INTEGER DEFAULT 0,
                 activate_token TEXT,
                 activate_expires TEXT,
+                reset_token TEXT,
+                reset_expires TEXT,
                 is_admin INTEGER DEFAULT 0
             );
 
@@ -67,11 +64,15 @@ def init_db():
 
             CREATE INDEX IF NOT EXISTS idx_progress_user ON progress(user_id);
         """)
+        # миграция: добавить новые колонки, если база старая
+        cols = {r["name"] for r in c.execute("PRAGMA table_info(users)").fetchall()}
+        for col, typ in (("reset_token", "TEXT"), ("reset_expires", "TEXT"),
+                         ("hsk_level", "TEXT")):
+            if col not in cols:
+                c.execute(f"ALTER TABLE users ADD COLUMN {col} {typ}")
+        c.commit()
 
 
-# ============================================================
-# Хелперы
-# ============================================================
 def _now() -> str:
     return datetime.utcnow().isoformat()
 
@@ -84,7 +85,7 @@ def _user_to_dict(row) -> dict:
         "email": row["email"],
         "name": row["name"],
         "avatar": row["avatar"],
-        "hsk_level": row["hsk_level"],
+        "hsk_level": row["hsk_level"] if "hsk_level" in row.keys() else "HSK5",
         "created_at": row["created_at"],
         "activated": bool(row["activated"]),
         "is_admin": bool(row["is_admin"]),
@@ -95,7 +96,6 @@ def _user_to_dict(row) -> dict:
 # Регистрация
 # ============================================================
 def register(name: str, email: str, password: str) -> dict:
-    """Возвращает {ok, user?, token?, error?, need_activation}."""
     name = (name or "").strip()[:60]
     email = (email or "").strip().lower()
     password = password or ""
@@ -142,14 +142,11 @@ def activate(token: str) -> dict:
     if not token:
         return {"ok": False, "error": "Токен отсутствует"}
     with _conn() as c:
-        row = c.execute(
-            "SELECT * FROM users WHERE activate_token = ?", (token,)
-        ).fetchone()
+        row = c.execute("SELECT * FROM users WHERE activate_token = ?", (token,)).fetchone()
         if not row:
             return {"ok": False, "error": "Неверная ссылка активации"}
         if row["activated"]:
             return {"ok": True, "user": _user_to_dict(row), "already": True}
-        # проверяем срок
         try:
             exp = datetime.fromisoformat(row["activate_expires"])
             if datetime.utcnow() > exp:
@@ -185,6 +182,52 @@ def resend_activation(email: str) -> dict:
 
 
 # ============================================================
+# Сброс пароля
+# ============================================================
+def create_reset_token(email: str) -> dict:
+    email = (email or "").strip().lower()
+    with _conn() as c:
+        row = c.execute("SELECT * FROM users WHERE email = ?", (email,)).fetchone()
+        if not row:
+            return {"ok": False, "error": "Email не найден"}
+        if not row["activated"]:
+            return {"ok": False, "error": "Аккаунт ещё не активирован"}
+        token = secrets.token_urlsafe(32)
+        expires = (datetime.utcnow() + timedelta(hours=RESET_HOURS)).isoformat()
+        c.execute(
+            "UPDATE users SET reset_token = ?, reset_expires = ? WHERE id = ?",
+            (token, expires, row["id"]),
+        )
+        c.commit()
+    return {"ok": True, "token": token, "email": row["email"], "name": row["name"]}
+
+
+def reset_password(token: str, new_password: str) -> dict:
+    if not token:
+        return {"ok": False, "error": "Токен отсутствует"}
+    if not new_password or len(new_password) < 6:
+        return {"ok": False, "error": "Пароль минимум 6 символов"}
+    with _conn() as c:
+        row = c.execute("SELECT * FROM users WHERE reset_token = ?", (token,)).fetchone()
+        if not row:
+            return {"ok": False, "error": "Неверная ссылка"}
+        try:
+            exp = datetime.fromisoformat(row["reset_expires"])
+            if datetime.utcnow() > exp:
+                return {"ok": False, "error": "Срок ссылки истёк. Запросите новую."}
+        except Exception:
+            pass
+        c.execute(
+            "UPDATE users SET password_hash = ?, reset_token = NULL,"
+            " reset_expires = NULL WHERE id = ?",
+            (generate_password_hash(new_password), row["id"]),
+        )
+        c.commit()
+        row2 = c.execute("SELECT * FROM users WHERE id = ?", (row["id"],)).fetchone()
+    return {"ok": True, "user": _user_to_dict(row2)}
+
+
+# ============================================================
 # Логин
 # ============================================================
 def login(email: str, password: str) -> dict:
@@ -206,6 +249,25 @@ def get_user(user_id: int):
 
 
 # ============================================================
+# Профиль
+# ============================================================
+def update_profile(user_id: int, name=None, avatar=None) -> dict:
+    with _conn() as c:
+        if name is not None:
+            n = (name or "").strip()[:60]
+            if not n:
+                return {"ok": False, "error": "Имя не может быть пустым"}
+            c.execute("UPDATE users SET name = ? WHERE id = ?", (n, user_id))
+        if avatar is not None:
+            a = (avatar or "").strip()[:8]
+            if a:
+                c.execute("UPDATE users SET avatar = ? WHERE id = ?", (a, user_id))
+        c.commit()
+        row = c.execute("SELECT * FROM users WHERE id = ?", (user_id,)).fetchone()
+    return {"ok": True, "user": _user_to_dict(row)}
+
+
+# ============================================================
 # Прогресс
 # ============================================================
 def progress_get_all(user_id: int) -> dict:
@@ -223,7 +285,7 @@ def progress_set(user_id: int, key: str, value) -> bool:
         raw = json.dumps(value, ensure_ascii=False)
     except Exception:
         return False
-    if len(raw) > 200_000:  # 200 КБ на ключ
+    if len(raw) > 200_000:
         return False
     with _conn() as c:
         c.execute(
@@ -256,19 +318,53 @@ def _safe_json(s: str):
 # ============================================================
 def list_users() -> list:
     with _conn() as c:
-        rows = c.execute(
-            "SELECT * FROM users ORDER BY created_at DESC"
-        ).fetchall()
+        rows = c.execute("SELECT * FROM users ORDER BY created_at DESC").fetchall()
     out = []
     for r in rows:
-        d = _user_to_dict(r)
         with _conn() as c2:
             cnt = c2.execute(
                 "SELECT COUNT(*) AS n FROM progress WHERE user_id = ?", (r["id"],)
             ).fetchone()["n"]
+            last = c2.execute(
+                "SELECT MAX(updated_at) AS m FROM progress WHERE user_id = ?", (r["id"],)
+            ).fetchone()["m"]
+        d = _user_to_dict(r)
         d["progress_keys"] = cnt
+        d["last_seen"] = last
         out.append(d)
     return out
+
+
+def get_user_progress_summary(user_id: int) -> dict:
+    """Сводка прогресса для админки."""
+    with _conn() as c:
+        rows = c.execute(
+            "SELECT key, value, updated_at FROM progress WHERE user_id = ?",
+            (user_id,),
+        ).fetchall()
+    raw = {}
+    for r in rows:
+        raw[r["key"]] = _safe_json(r["value"])
+    # вытащим сводку из известных ключей
+    lessons = raw.get("hsk5_lessons_opened", []) or []
+    srs = raw.get("hsk5_srs", {}) or {}
+    activity = raw.get("hsk5_activity", {}) or {}
+    actions = sum(activity.values()) if isinstance(activity, dict) else 0
+    return {
+        "lessons_count": len(lessons),
+        "srs_words": len(srs),
+        "actions_total": actions,
+        "activity_days": len([v for v in activity.values() if v > 0]) if isinstance(activity, dict) else 0,
+        "raw_keys": list(raw.keys()),
+        "activity": activity,
+    }
+
+
+def delete_user(user_id: int) -> dict:
+    with _conn() as c:
+        c.execute("DELETE FROM users WHERE id = ?", (user_id,))
+        c.commit()
+    return {"ok": True}
 
 
 init_db()
