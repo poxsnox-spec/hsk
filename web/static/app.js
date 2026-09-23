@@ -1537,10 +1537,152 @@ function escapeHtml(s) {
 }
 
 // ============================================================
+// Объявление при входе (туркменский, 5 сек, лимит 30 часов)
+// ============================================================
+function ensureAnnouncementStyles() {
+  if (document.getElementById("hsk-announce-styles")) return;
+  const st = document.createElement("style");
+  st.id = "hsk-announce-styles";
+  st.textContent = `
+    #hsk-announcement {
+      position: fixed;
+      top: 24px;
+      left: 50%;
+      transform: translate(-50%, -160%);
+      z-index: 9999;
+      transition: transform 0.55s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.45s ease;
+      opacity: 0;
+      pointer-events: none;
+    }
+    #hsk-announcement.show {
+      transform: translate(-50%, 0);
+      opacity: 1;
+    }
+    #hsk-announcement .announce-inner {
+      position: relative;
+      display: flex;
+      gap: 16px;
+      align-items: center;
+      padding: 18px 26px;
+      border-radius: 16px;
+      background: rgba(20, 32, 48, 0.94);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      box-shadow:
+        0 12px 40px rgba(74, 158, 255, 0.35),
+        0 0 0 1px rgba(102, 178, 255, 0.18) inset,
+        0 1px 0 rgba(255, 255, 255, 0.06) inset;
+      max-width: min(600px, calc(100vw - 40px));
+      color: #F0F4F8;
+      font-family: inherit;
+      box-sizing: border-box;
+    }
+    #hsk-announcement .announce-inner::before {
+      content: "";
+      position: absolute;
+      inset: -1px;
+      border-radius: 17px;
+      padding: 1.5px;
+      background: linear-gradient(135deg, #66B2FF, #5CD68E, #A56BFF, #66B2FF);
+      background-size: 300% 300%;
+      -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+      -webkit-mask-composite: xor;
+      mask-composite: exclude;
+      pointer-events: none;
+      animation: hsk-border-flow 4s linear infinite;
+    }
+    @keyframes hsk-border-flow {
+      0%   { background-position:   0% 50%; }
+      50%  { background-position: 100% 50%; }
+      100% { background-position:   0% 50%; }
+    }
+    #hsk-announcement .announce-icon {
+      font-size: 38px;
+      line-height: 1;
+      flex-shrink: 0;
+      animation: hsk-bounce 1.3s ease-in-out infinite;
+      filter: drop-shadow(0 0 10px rgba(102, 178, 255, 0.6));
+    }
+    @keyframes hsk-bounce {
+      0%, 100% { transform: scale(1) rotate(0); }
+      50%      { transform: scale(1.18) rotate(-10deg); }
+    }
+    #hsk-announcement .announce-text {
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+    }
+    #hsk-announcement .announce-title {
+      font-weight: 700;
+      font-size: 16px;
+      letter-spacing: 0.3px;
+      background: linear-gradient(90deg, #66B2FF 0%, #5CD68E 100%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      color: #66B2FF;
+    }
+    #hsk-announcement .announce-body {
+      font-size: 14.5px;
+      line-height: 1.5;
+      color: #E4EDF5;
+    }
+    @media (max-width: 500px) {
+      #hsk-announcement { top: 14px; }
+      #hsk-announcement .announce-inner { padding: 14px 18px; gap: 12px; }
+      #hsk-announcement .announce-icon { font-size: 30px; }
+      #hsk-announcement .announce-title { font-size: 15px; }
+      #hsk-announcement .announce-body { font-size: 13.5px; }
+    }
+  `;
+  document.head.appendChild(st);
+}
+
+function showAnnouncement() {
+  ensureAnnouncementStyles();
+  const el = document.createElement("div");
+  el.id = "hsk-announcement";
+  el.innerHTML = `
+    <div class="announce-inner">
+      <div class="announce-icon">🎉</div>
+      <div class="announce-text">
+        <div class="announce-title">Täze mümkinçilikler!</div>
+        <div class="announce-body">
+          Ähli bölümler işleýär — islendik dersiň tekstini diňläp bilersiňiz!
+        </div>
+      </div>
+    </div>`;
+  document.body.appendChild(el);
+  // плавное появление
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => el.classList.add("show"));
+  });
+  // автоскрытие через 5 секунд
+  setTimeout(() => {
+    el.classList.remove("show");
+    setTimeout(() => el.remove(), 700);
+  }, 5000);
+}
+
+function maybeShowAnnouncement() {
+  const KEY = "hsk5_announcement_start";
+  const LIMIT_MS = 30 * 60 * 60 * 1000;  // 30 часов
+  const now = Date.now();
+  let start = parseInt(localStorage.getItem(KEY) || "0", 10);
+  if (!start || start <= 0) {
+    start = now;
+    try { localStorage.setItem(KEY, String(start)); } catch (e) {}
+  }
+  if (now - start > LIMIT_MS) return;  // лимит истёк — больше не показываем
+  showAnnouncement();
+}
+
+// ============================================================
 // Старт
 // ============================================================
 drawBackgroundPattern();
 navigate(window.location.hash.slice(1) || "menu");
+setTimeout(maybeShowAnnouncement, 350);
 
 window.addEventListener("lang_changed", () => {
   navigate(window.location.hash.slice(1) || "menu");
