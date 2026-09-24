@@ -566,6 +566,90 @@
           "tk": "Okuwçylary gurap, bile maslahatlaşyň.",
           "en": "Organize the students and discuss together."
         }
+      ],
+      "formula": {
+        "ru": "① глагол + 起来  (начало действия: 笑起来, 下起雨来)  ② глагол + 起来 + 补语 (оценка)  ③ 看起来 / 听起来 / 想起来",
+        "en": "① verb + 起来 (start of action: 笑起来, 下起雨来)  ② verb + 起来 + complement  ③ 看起来 / 听起来 / 想起来",
+        "uz": "① fe'l + 起来 (harakat boshlanishi)  ② fe'l + 起来 + to'ldiruvchi  ③ 看起来 / 听起来 / 想起来",
+        "tg": "① феъл + 起来 (оғози амал)  ② феъл + 起来 + мукаммил  ③ 看起来 / 听起来 / 想起来",
+        "tk": "① işlik + 起来 (hereketiň başlangyjy)  ② işlik + 起来 + doldurgyç  ③ 看起来 / 听起来 / 想起来"
+      },
+      "when_to_use": {
+        "ru": [
+          "Начало действия: 笑起来 (засмеялся), 下起雨来 (пошёл дождь).",
+          "Оценка «на вид/на слух»: 看起来不错, 听起来很有意思.",
+          "«Вспомнить» при переносе: 想起来 (вспомнил, очнулся).",
+          "В конструкции «глагол + 起来 + прилагательное»: 做起来很难 (трудно сделать)."
+        ],
+        "en": [
+          "Start of action: 笑起来 (started laughing), 下起雨来 (started raining).",
+          "Evaluation 'by look/sound': 看起来不错, 听起来很有意思.",
+          "Mental 'recall': 想起来 (recall, wake up).",
+          "Pattern 'verb + 起来 + adj': 做起来很难 (hard to do)."
+        ],
+        "uz": [
+          "Harakat boshlanishi: 笑起来, 下起雨来.",
+          "Ko'rinish/eshitish bo'yicha baho: 看起来不错, 听起来很有意思.",
+          "Xotirlash: 想起来.",
+          "Qolip: 'fe'l + 起来 + sifat': 做起来很难."
+        ],
+        "tg": [
+          "Оғози амал: 笑起来, 下起雨来.",
+          "Баҳо аз рӯи намуд/шунидан: 看起来不错.",
+          "Ба ёд овардан: 想起来."
+        ],
+        "tk": [
+          "Hereketiň başlangyjy: 笑起来, 下起雨来.",
+          "Görnüş/eşidiş boýunça baha: 看起来不错.",
+          "Ýatlamak: 想起来."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他起来笑了。",
+          "right": "他笑了起来。 / 他笑起来了。",
+          "why": {
+            "ru": "起来 идёт ПОСЛЕ глагола как модификатор, а не перед ним. Также 起来 = «вставать» отдельно, не путать с модификатором начала действия.",
+            "en": "起来 goes AFTER the verb as a modifier, not before. Also, 起来 as 'get up' is separate — don't confuse with the inceptive modifier.",
+            "uz": "起来 fe'ldan KEYIN keladi. Shuningdek, 起来 = 'turmoq' alohida — boshlanish modifikatori bilan aralashtirmang."
+          }
+        },
+        {
+          "wrong": "看起来他好。",
+          "right": "看起来他很好。",
+          "why": {
+            "ru": "В конструкции «看起来 + прилагательное» прилагательное обычно с наречием степени (很好, 很累).",
+            "en": "In '看起来 + adj' the adjective is usually modified (很好, 很累).",
+            "uz": "'看起来 + sifat' da sifat odatda daraja ravishi bilan (很好, 很累)."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "开始 / 下来 / 下去",
+          "difference": {
+            "ru": "起来 — «начать и продолжать» (появилось чувство/движение). 开始 — «начать» (нейтрально, с 了/无). 下来 — «продолжаться после начала» (安静下来). 下去 — «продолжаться в будущее» (说下去).",
+            "en": "起来 = 'start (and continue)' — feeling/motion. 开始 = 'begin' (neutral). 下来 = 'continue after beginning' (安静下来). 下去 = 'continue into future' (说下去).",
+            "uz": "起来 — 'boshlanib davom etmoq'. 开始 — 'boshlamoq' (neytral). 下来 — 'boshlangandan keyin davom'. 下去 — 'kelajakda davom'."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "大家听了他的话，都笑了___。",
+          "answer": "起来"
+        },
+        {
+          "type": "fill_blank",
+          "question": "这件衣服___来很漂亮。",
+          "answer": "看"
+        },
+        {
+          "type": "translate",
+          "question": "Я вдруг вспомнил его имя.",
+          "answer": "我突然想起来他的名字了。"
+        }
       ]
     },
     {
@@ -636,6 +720,81 @@
           "ru": "Он окончил Пекинский университет.",
           "tk": "Ol Pekin uniwersitetini gutardy.",
           "en": "He graduated from Peking University."
+        }
+      ],
+      "formula": {
+        "ru": "① A + 于 + B  (книжное: в/на/к/от)  ② прилаг. + 于  (сравнение: больше/меньше чем)  ③ глагол + 于  (来源于, 生于)",
+        "en": "① A + 于 + B (literary: in/at/to/from)  ② adj + 于 (comparison)  ③ verb + 于 (来源于, 生于)",
+        "uz": "① A + 于 + B (kitobiy: -da/-ga/-dan)  ② sifat + 于 (taqqoslash)  ③ fe'l + 于 (来源于, 生于)",
+        "tg": "① A + 于 + B  ② сифат + 于 (муқоиса)  ③ феъл + 于",
+        "tk": "① A + 于 + B  ② sypat + 于 (deňeşdirme)  ③ işlik + 于"
+      },
+      "when_to_use": {
+        "ru": [
+          "Книжный предлог места/времени: 位于 (находиться в), 出生于 (родился в).",
+          "Сравнение: 大于, 小于, 多于, 少于, 等于 (больше/меньше/больше чем... равно).",
+          "Источник/причина: 来源于 (происходить из).",
+          "В современном разговорном часто заменяется на 在/比/从."
+        ],
+        "en": [
+          "Literary preposition of place/time: 位于, 出生于.",
+          "Comparison: 大于, 小于, 多于, 少于, 等于.",
+          "Source/cause: 来源于.",
+          "In modern speech replaced by 在/比/从."
+        ],
+        "uz": [
+          "Joy/vaqt predlogi (kitobiy): 位于, 出生于.",
+          "Taqqoslash: 大于, 小于, 多于, 少于, 等于.",
+          "Manba/sabab: 来源于.",
+          "Zamonaviy so'zlashuvda 在/比/从 bilan almashtiriladi."
+        ],
+        "tg": [
+          "Пешояндҳои китобии ҷой/вақт: 位于, 出生于.",
+          "Муқоиса: 大于, 小于, 等于.",
+          "Сарчашма: 来源于."
+        ],
+        "tk": [
+          "Ýer/wagt predlogy (kitaby): 位于, 出生于.",
+          "Deňeşdirme: 大于, 小于, 等于.",
+          "Çeşme: 来源于."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我家于北京。",
+          "right": "我家在北京。 / 我出生于北京。",
+          "why": {
+            "ru": "于 не работает как «обычное 在» с простыми существительными места — это книжный предлог в составе сложных глаголов (位于, 在于) или сравнений (大于).",
+            "en": "于 is not a plain '在' — it's a literary preposition in fixed verbs (位于, 在于) or comparisons (大于).",
+            "uz": "于 oddiy '在' emas — bu kitobiy predlog, qo'shma fe'llar (位于) yoki taqqoslash (大于) tarkibida."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "在 / 比 / 从",
+          "difference": {
+            "ru": "于 — книжный/формальный вариант 在/比/从. 在 — нейтральное место. 比 — сравнение. 从 — источник/отправная точка. 于 очень редко в разговорной речи.",
+            "en": "于 is a literary/formal variant of 在/比/从. 在 = neutral place. 比 = comparison. 从 = source. 于 is rare in speech.",
+            "uz": "于 — 在/比/从 ning kitobiy varianti. 在 — neytral joy. 比 — taqqoslash. 从 — manba. 于 so'zlashuvda kam."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他___1980年出生在一个小城市。",
+          "answer": "于"
+        },
+        {
+          "type": "fill_blank",
+          "question": "三个___五个。",
+          "answer": "小于"
+        },
+        {
+          "type": "translate",
+          "question": "Этот вуз расположен в Пекине.",
+          "answer": "这所大学位于北京。"
         }
       ]
     },
@@ -708,6 +867,84 @@
           "tk": "Köp maşk et, şeýlelikde ussatlyga ýet.",
           "en": "Practice more, thus achieving mastery."
         }
+      ],
+      "formula": {
+        "ru": "A + ……, 从而 + B  (в результате A — B; благодаря чему)",
+        "en": "A + ..., 从而 + B (as a result of A — B; thereby)",
+        "uz": "A + ..., 从而 + B (A natijasida B; shu bilan)",
+        "tg": "A + ..., 从而 + B (дар натиҷаи A — B)",
+        "tk": "A + ..., 从而 + B (A netijesinde B)"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Таким образом, тем самым, в результате чего» — B как следствие A.",
+          "Связка между двумя глагольными частями; часто книжное.",
+          "Ставится во второй части, перед глаголом.",
+          "Часто с 使/让 в B: 从而使他明白了.",
+          "Логическая связь причина-следствие, а не просто последовательность."
+        ],
+        "en": [
+          "'Thereby, thus, as a result' — B as a consequence of A.",
+          "Connects two verb clauses; often literary.",
+          "Goes in the second clause, before the verb.",
+          "Often with 使/让 in B: 从而使他明白了.",
+          "Cause-effect link, not just sequence."
+        ],
+        "uz": [
+          "'Shu bilan, natijada' — B A ning natijasi.",
+          "Ikki fe'l qismini bog'laydi; ko'pincha kitobiy.",
+          "Ikkinchi qismda, fe'ldan oldin.",
+          "Ko'pincha B da 使/让: 从而使他明白了.",
+          "Sabab-natija aloqasi."
+        ],
+        "tg": [
+          "«Ҳамин тавр, дар натиҷа» — B ҳамчун натиҷаи A.",
+          "Пайвандгари ду қисми феълӣ; китобӣ.",
+          "Дар қисми дуюм, пеш аз феъл."
+        ],
+        "tk": [
+          "'Şeýdip, netijede' — B A-nyň netijesi.",
+          "Iki işlik bölegini baglanyşdyrýar; kitaby.",
+          "Ikinji bölegde, işlikden öň."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他每天锻炼，从而很健康。",
+          "right": "他每天锻炼，从而保持了健康。 / 他每天锻炼，因此很健康。",
+          "why": {
+            "ru": "从而 связывает два ДЕЙСТВИЯ/СОБЫТИЯ, а не состояние напрямую. «因此» подходит лучше, если хочется просто «поэтому».",
+            "en": "从而 links two ACTIONS/EVENTS, not a state directly. '因此' fits better for plain 'therefore'.",
+            "uz": "从而 ikki HARAKAT/VOQEA ni bog'laydi, holatni emas. '因此' oddiy 'shuning uchun' uchun yaxshiroq."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "因此 / 所以 / 因而",
+          "difference": {
+            "ru": "因此 — «поэтому, следовательно» (нейтральное). 所以 — «поэтому» (разговорное). 因而 — «вследствие этого» (книжное). 从而 — «тем самым, в результате чего» (подчёркивает логическую связь, часто с 使/让).",
+            "en": "因此 = 'therefore' (neutral). 所以 = 'so' (colloquial). 因而 = 'as a result' (literary). 从而 = 'thereby' (cause-effect link, often with 使/让).",
+            "uz": "因此 — 'shuning uchun' (neytral). 所以 — 'shuning uchun' (so'zlashuv). 因而 — 'natijada' (kitobiy). 从而 — 'shu bilan' (sabab-natija, ko'pincha 使/让 bilan)."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他努力学习，___考上了理想的大学。",
+          "answer": "从而"
+        },
+        {
+          "type": "fill_blank",
+          "question": "公司改进了管理，___提高了效率。",
+          "answer": "从而"
+        },
+        {
+          "type": "translate",
+          "question": "Он много практиковался, тем самым улучшил свой китайский.",
+          "answer": "他做了很多练习，从而提高了汉语水平。"
+        }
       ]
     },
     {
@@ -778,6 +1015,90 @@
           "ru": "Эта история стала притчей во языцех (прекрасной историей).",
           "tk": "Bu waka gowy rowaýata öwrüldi.",
           "en": "This story became a legend."
+        }
+      ],
+      "formula": {
+        "ru": "① A 为 B  (A является/служит B)  ② 认为 / 以为 + ...  ③ 为 + сущ. (для, ради)",
+        "en": "① A 为 B (A is/serves as B)  ② 认为 / 以为 ...  ③ 为 + noun (for, for the sake of)",
+        "uz": "① A 为 B (A — B bo'lib xizmat qiladi)  ② 认为 / 以为 ...  ③ 为 + ot (uchun)",
+        "tg": "① A 为 B  ② 认为 / 以为 ...  ③ 为 + исм",
+        "tk": "① A 为 B  ② 认为 / 以为 ...  ③ 为 + at"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Быть, являться, служить чем-то»: 他为人和善 (он человек добрый).",
+          "В составе глаголов: 认为 (считать), 以为 (ошибочно полагать), 成为 (стать).",
+          "В книжной речи: 为 + сущ. = «для, ради»: 为人民服务.",
+          "Различай wéi (есть, являться, служить) и wèi (для, ради, из-за)."
+        ],
+        "en": [
+          "'To be, serve as': 他为人和善.",
+          "In verbs: 认为, 以为, 成为.",
+          "Literary: 为 + noun = 'for, for the sake of': 为人民服务.",
+          "Distinguish wéi (be/serve) vs wèi (for/for the sake of)."
+        ],
+        "uz": [
+          "'Bo'lmoq, xizmat qilmoq': 他为人和善.",
+          "Fe'llar tarkibida: 认为, 以为, 成为.",
+          "Kitobiy: 为 + ot = 'uchun': 为人民服务.",
+          "wéi (bo'lmoq) va wèi (uchun) ni farqlang."
+        ],
+        "tg": [
+          "«Будан, хизмат кардан»: 他为人和善.",
+          "Дар феълҳо: 认为, 以为, 成为.",
+          "Китобӣ: 为 + исм = «барои»."
+        ],
+        "tk": [
+          "'Bolmak, hyzmat etmek': 他为人和善.",
+          "Işliklerde: 认为, 以为, 成为.",
+          "Kitaby: 为 + at = 'üçin'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我为他是一个医生。",
+          "right": "他是一个医生。 / 我认为他是一个医生。",
+          "why": {
+            "ru": "为 не используется как связка «быть кем-то» так же свободно, как 是. Как связка 为 в основном в письменных оборотах (他为人正直) или в составе 认为/以为.",
+            "en": "为 is not a free copula like 是. As a copula, 为 mostly appears in written phrases (他为人正直) or inside 认为/以为.",
+            "uz": "为 是 kabi erkin bog'lovchi emas. Asosan yozma iboralarda (他为人正直) yoki 认为/以为 tarkibida."
+          }
+        },
+        {
+          "wrong": "为了你，我做什么都可以 (в смысле wéi — неверное чтение).",
+          "right": "为了你，我做什么都可以 (wèi le nǐ).",
+          "why": {
+            "ru": "Слово 为 как «ради» читается wèi, а не wéi. Это разные тона и разные значения.",
+            "en": "为 meaning 'for the sake of' reads wèi, not wéi. Different tones, different meanings.",
+            "uz": "'Uchun' ma'nosidagi 为 wèi deb o'qiladi, wéi emas."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "是 / 成为 / 认为",
+          "difference": {
+            "ru": "是 — нейтральная связка. 为 (wéi) — книжная, «являться/служить». 成为 — «стать (кем-то)». 认为 — «считать, полагать» (осознанно). 以为 — «полагать ошибочно».",
+            "en": "是 = neutral copula. 为 (wéi) = literary 'serve as'. 成为 = 'become'. 认为 = 'believe, consider'. 以为 = 'mistakenly think'.",
+            "uz": "是 — neytral. 为 (wéi) — kitobiy 'xizmat qilmoq'. 成为 — 'bo'lmoq'. 认为 — 'hisoblamoq'. 以为 — 'xato o'ylamoq'."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他___人诚恳，大家都喜欢他。",
+          "answer": "为"
+        },
+        {
+          "type": "fill_blank",
+          "question": "很多人___他是中国人，其实他是日本人。",
+          "answer": "以为"
+        },
+        {
+          "type": "translate",
+          "question": "Он считает, что это правильно.",
+          "answer": "他认为这是对的。"
         }
       ]
     }

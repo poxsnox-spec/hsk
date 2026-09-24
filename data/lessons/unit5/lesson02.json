@@ -516,6 +516,67 @@
           "tk": "Atlandyrylýan üstünlik — yzygiderli tagallalaryň netijesi.",
           "en": "So-called success is the result of continuous effort."
         }
+      ],
+      "formula": {
+        "ru": "所谓 + сущ.  ……  = «так называемый»",
+        "en": "所谓 + noun = so-called",
+        "uz": "所谓 + ot",
+        "tg": "所谓 + исм",
+        "tk": "所谓 + at"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Так называемый» (книжное, часто с оттенком сомнения).",
+          "所谓的朋友，就是这样.",
+          "В начале определения."
+        ],
+        "en": [
+          "'So-called' (literary, often skeptical).",
+          "所谓的朋友.",
+          "Start of phrase."
+        ],
+        "uz": [
+          "'Aytilishicha, so-called'."
+        ],
+        "tg": [
+          "«Ба ном»."
+        ],
+        "tk": [
+          "'Atlandyrylýan'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "所谓是你说的。",
+          "right": "所谓“友谊”并不容易。",
+          "why": {
+            "ru": "所谓 + существительное в кавычках.",
+            "en": "所谓 + noun (often in quotes).",
+            "uz": "所谓 + ot."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "叫做 / 称为",
+          "difference": {
+            "ru": "所谓 — «так называемый» (оценочно). 叫做/称为 — «называется».",
+            "en": "所谓 so-called. 叫做/称为 called.",
+            "uz": "所谓 — shunday nomlangan. 叫做 — deyiladi."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "___“成功”并不意味着有钱。",
+          "answer": "所谓"
+        },
+        {
+          "type": "translate",
+          "question": "Так называемая «свобода» — не для всех.",
+          "answer": "所谓的“自由”不是对每个人都有的。"
+        }
       ]
     },
     {
@@ -586,6 +647,67 @@
           "ru": "«Поспешишь — людей насмешишь» — не надо спешить.",
           "tk": "«Howlukmak — işi bozmak» — howlukmaly däl.",
           "en": "'Haste makes waste' — don't rush things."
+        }
+      ],
+      "formula": {
+        "ru": "① A, B 则 ……  (а что касается B)  ② 一…… 则 …… (книжное)",
+        "en": "① A, B 则 ...  ② 一... 则 ...",
+        "uz": "① A, B 则 ...",
+        "tg": "① A, B 则 ...",
+        "tk": "① A, B 则 ..."
+      },
+      "when_to_use": {
+        "ru": [
+          "Книжное «а что касается, то» — параллель/контраст.",
+          "则 также как счётное слово для параграфов: 一则新闻.",
+          "Книжно-нейтральное."
+        ],
+        "en": [
+          "Literary 'as for' — parallel/contrast.",
+          "Also MW for news: 一则新闻.",
+          "Literary/neutral."
+        ],
+        "uz": [
+          "Kitobiy 'nima bo'lsa'."
+        ],
+        "tg": [
+          "«Аммо, дар сурати»."
+        ],
+        "tk": [
+          "'Bolan ýagdaýda'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我则你去。",
+          "right": "他去，我则留在家里。",
+          "why": {
+            "ru": "则 связывает две части с контрастом.",
+            "en": "则 links two contrastive parts.",
+            "uz": "则 ikki qismni bog'laydi."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "而 / 就",
+          "difference": {
+            "ru": "则 — книжное «а, же». 而 — «а, но» (нейтральное). 就 — «тогда, сразу».",
+            "en": "则 literary. 而 neutral. 就 then.",
+            "uz": "则 kitobiy. 而 neytral."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "南方多雨，北方___干燥。",
+          "answer": "则"
+        },
+        {
+          "type": "translate",
+          "question": "Он врач, а я учитель.",
+          "answer": "他是医生，我则是老师。"
         }
       ]
     },
@@ -658,6 +780,67 @@
           "tk": "Şeýle durmuş ýöretmegi ol ýokary tutýar.",
           "en": "He advocates this way of life."
         }
+      ],
+      "formula": {
+        "ru": "A + 为 + B + 所 + 动词  (пассив, книжный)",
+        "en": "A + 为 + B + 所 + verb (literary passive)",
+        "uz": "A + 为 + B + 所 + fe'l",
+        "tg": "A + 为 + B + 所 + феъл",
+        "tk": "A + 为 + B + 所 + işlik"
+      },
+      "when_to_use": {
+        "ru": [
+          "Книжный пассив: «быть сделанным кем-то».",
+          "为…… 所 固定 оборот.",
+          "Например: 为人们所喜爱."
+        ],
+        "en": [
+          "Literary passive.",
+          "Fixed pattern 为…所….",
+          "E.g. 为人们所喜爱."
+        ],
+        "uz": [
+          "Kitobiy passiv."
+        ],
+        "tg": [
+          "Маҷҳули китобӣ."
+        ],
+        "tk": [
+          "Kitaby passiw."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "这本书为喜欢所人们。",
+          "right": "这本书为人们所喜爱。",
+          "why": {
+            "ru": "Порядок: 为 + агенс + 所 + глагол.",
+            "en": "Order: 为 + agent + 所 + verb.",
+            "uz": "Tartib: 为 + agent + 所 + fe'l."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "被",
+          "difference": {
+            "ru": "被 — обычный пассив (разговорный). 为…所… — книжный.",
+            "en": "被 common passive. 为…所… literary.",
+            "uz": "被 — oddiy. 为…所… — kitobiy."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他的作品为读者___喜爱。",
+          "answer": "所"
+        },
+        {
+          "type": "translate",
+          "question": "Этот фильм любим всеми.",
+          "answer": "这部电影为所有人所喜爱。"
+        }
       ]
     },
     {
@@ -728,6 +911,67 @@
           "ru": "Он закурил сигарету.",
           "tk": "Ol çilim tutady.",
           "en": "He lit a cigarette."
+        }
+      ],
+      "formula": {
+        "ru": "① 动词 + 起 (начало, подъём)  ② 动词 + 起 + 来 (начало и продолжение)  ③ 一起",
+        "en": "① verb + 起  ② verb + 起 + 来  ③ 一起",
+        "uz": "① fe'l + 起  ② fe'l + 起 + 来",
+        "tg": "① феъл + 起  ② феъл + 起 + 来",
+        "tk": "① işlik + 起  ② işlik + 起 + 来"
+      },
+      "when_to_use": {
+        "ru": [
+          "Начало действия: 想起, 说起.",
+          "«Поднимать»: 拿起, 举起.",
+          "С 来 — начало и продолжение."
+        ],
+        "en": [
+          "Start: 想起.",
+          "'Lift': 拿起.",
+          "With 来 — start and continue."
+        ],
+        "uz": [
+          "Boshlanish: 想起."
+        ],
+        "tg": [
+          "Оғоз."
+        ],
+        "tk": [
+          "Başlangyç."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我起想起来。",
+          "right": "我想起来了。",
+          "why": {
+            "ru": "起 — суффикс, после глагола.",
+            "en": "起 is suffix after verb.",
+            "uz": "起 fe'ldan keyin."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "起来 / 下去",
+          "difference": {
+            "ru": "起 — подъём/начало. 起来 — начало + продолжение. 下去 — продолжение в будущее.",
+            "en": "起 lift/start. 起来 start+continue. 下去 continue.",
+            "uz": "起 — ko'tarilish. 起来 — boshlanish."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他突然想___一件事。",
+          "answer": "起"
+        },
+        {
+          "type": "translate",
+          "question": "Он поднял руку.",
+          "answer": "他举起了手。"
         }
       ]
     }

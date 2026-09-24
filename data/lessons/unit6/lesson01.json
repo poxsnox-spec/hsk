@@ -516,6 +516,67 @@
           "tk": "Şu günden güýje girýär.",
           "en": "Takes effect from today."
         }
+      ],
+      "formula": {
+        "ru": "① 即 + сущ./глагол  (то есть, немедленно)  ② A 即 B  (A — это B)",
+        "en": "① 即 + noun/verb (namely, immediately)  ② A 即 B",
+        "uz": "① 即 + ot/fe'l",
+        "tg": "① 即 + исм",
+        "tk": "① 即 + at"
+      },
+      "when_to_use": {
+        "ru": [
+          "«То есть, а именно» (книжное): 北京，即中国的首都.",
+          "«Тотчас, сразу»: 立即.",
+          "В формулах и документах."
+        ],
+        "en": [
+          "'Namely' (literary): 即中国的首都.",
+          "'Immediately': 立即.",
+          "Formal writing."
+        ],
+        "uz": [
+          "'Ya'ni' (kitobiy): 即中国的首都."
+        ],
+        "tg": [
+          "«Яъне»."
+        ],
+        "tk": [
+          "'Ýagny'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他即是好人。",
+          "right": "他是个好人。 / 他即为好人（книжн.）.",
+          "why": {
+            "ru": "即 в разговорной речи почти не используется как связка.",
+            "en": "即 is rarely used as copula in speech.",
+            "uz": "即 so'zlashuvda kam."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "就是 / 即",
+          "difference": {
+            "ru": "就是 — нейтральное «то есть». 即 — книжное.",
+            "en": "就是 neutral. 即 literary.",
+            "uz": "就是 — neytral. 即 — kitobiy."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "联合国，___United Nations，成立于1945年。",
+          "answer": "即"
+        },
+        {
+          "type": "translate",
+          "question": "Пекин — то есть столица Китая.",
+          "answer": "北京，即中国的首都。"
+        }
       ]
     },
     {
@@ -587,6 +648,67 @@
           "tk": "Aýry adamlarda deňiz önümlerine allergiýa bolup biler.",
           "en": "Some individuals may be allergic to seafood."
         }
+      ],
+      "formula": {
+        "ru": "① 个别 + сущ.  (отдельный, единичный)  ② 个别 + 情况/问题",
+        "en": "① 个别 + noun (individual, a few)  ② 个别 + 情况/问题",
+        "uz": "① 个别 + ot",
+        "tg": "① 个别 + исм",
+        "tk": "① 个别 + at"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Отдельный, единичный» (не «каждый»): 个别情况.",
+          "Также наречие «отдельно, лично»: 个别谈话.",
+          "Нейтральное."
+        ],
+        "en": [
+          "'Individual, a few': 个别情况.",
+          "Adverb 'individually': 个别谈话.",
+          "Neutral."
+        ],
+        "uz": [
+          "'Ayrim, alohida': 个别情况."
+        ],
+        "tg": [
+          "«Алоҳида»."
+        ],
+        "tk": [
+          "'Aýratyn'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "个别的人都来了。",
+          "right": "所有人都来了。 / 个别人来了。",
+          "why": {
+            "ru": "个别 — «отдельные», не «все». С 都 обычно 所有/大家.",
+            "en": "个别 = 'a few, some', not 'all'. With 都 use 所有/大家.",
+            "uz": "个别 — 'ba'zilar', hamma emas."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "各个 / 每个",
+          "difference": {
+            "ru": "个别 — «отдельные, единичные». 各个 — «каждый из…». 每个 — «каждый».",
+            "en": "个别 a few. 各个 each of. 每个 every.",
+            "uz": "个别 — ba'zi. 各个 — har biri. 每个 — har bir."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "大多数同学都同意，只有___人反对。",
+          "answer": "个别"
+        },
+        {
+          "type": "translate",
+          "question": "Есть отдельные проблемы.",
+          "answer": "有个别问题。"
+        }
       ]
     },
     {
@@ -657,6 +779,68 @@
           "ru": "Посторонним вход воспрещён.",
           "tk": "Işgär däller girmesin.",
           "en": "Staff only."
+        }
+      ],
+      "formula": {
+        "ru": "① 非 + сущ.  (не-, книжное)  ② 非……不可 / 非……才",
+        "en": "① 非 + noun (non-, literary)  ② 非...不可",
+        "uz": "① 非 + ot  ② 非...不可",
+        "tg": "① 非 + исм  ② 非...不可",
+        "tk": "① 非 + at  ② 非...不可"
+      },
+      "when_to_use": {
+        "ru": [
+          "Префикс «не-»: 非正式, 非会员.",
+          "«Обязательно, во что бы то ни стало»: 非去不可.",
+          "Книжное."
+        ],
+        "en": [
+          "Prefix 'non-': 非正式.",
+          "'Must, absolutely': 非去不可.",
+          "Literary."
+        ],
+        "uz": [
+          "Prefiks 'no-': 非正式.",
+          "'Albatta': 非去不可."
+        ],
+        "tg": [
+          "Пешванди «ғайри-»."
+        ],
+        "tk": [
+          "'Däl-' prefiksi."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我非去。",
+          "right": "我非去不可。 / 我不去。",
+          "why": {
+            "ru": "Одиночное 非 редко; для «обязательно» нужна рамка 非…不可.",
+            "en": "Single 非 is rare; for 'must' use 非…不可.",
+            "uz": "Yolg'iz 非 kam; 非…不可 kerak."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "不 / 非 / 没",
+          "difference": {
+            "ru": "不 — обычное отрицание. 非 — книжное «не-» / «обязательно». 没 — отрицание для 有/прошлого.",
+            "en": "不 standard. 非 literary. 没 for 有/past.",
+            "uz": "不 — oddiy. 非 — kitobiy. 没 — o'tmish/有 uchun."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "这是___正式会议，不用穿西装。",
+          "answer": "非"
+        },
+        {
+          "type": "translate",
+          "question": "Он обязательно хочет пойти.",
+          "answer": "他非去不可。"
         }
       ]
     }

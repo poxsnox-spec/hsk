@@ -436,6 +436,66 @@
           "tk": "Bu bilen buýsanýarys.",
           "en": "We're proud of this."
         }
+      ],
+      "formula": {
+        "ru": "① 以 + сущ. + 为……  (считать за, использовать как)  ② 以…… 为主 / 为中心",
+        "en": "① 以 + noun + 为 ...  ② 以...为主",
+        "uz": "① 以 + ot + 为 ...",
+        "tg": "① 以 + исм + 为 ...",
+        "tk": "① 以 + at + 为 ..."
+      },
+      "when_to_use": {
+        "ru": [
+          "Книжное «рассматривать как, использовать в качестве»: 以人为本.",
+          "«Основываясь на»: 以事实为依据.",
+          "Нейтрально-книжное."
+        ],
+        "en": [
+          "'Take as, use as': 以人为本.",
+          "'Based on': 以事实为依据.",
+          "Neutral/literary."
+        ],
+        "uz": [
+          "'Asos qilib olmoq': 以人为本."
+        ],
+        "tg": [
+          "«Бар асоси»."
+        ],
+        "tk": [
+          "'Esasy edip almak'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我以为他是老师 (в смысле wéi — неверное чтение).",
+          "right": "我以为他是老师 (wéi).",
+          "why": {
+            "ru": "以…为… — фиксированная рамка. 以为 — отдельный глагол «ошибочно полагать».",
+            "en": "以…为… is a fixed frame. 以为 is a separate verb."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "用 / 把",
+          "difference": {
+            "ru": "以…为… — «использовать как» (книжное). 用 — «использовать» (разговорное). 把 — конструкция с дополнением.",
+            "en": "以…为… literary. 用 everyday. 把 object marker.",
+            "uz": "以…为… kitobiy. 用 oddiy."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "我们公司的管理___人为中心。",
+          "answer": "以"
+        },
+        {
+          "type": "translate",
+          "question": "Основываясь на фактах.",
+          "answer": "以事实为依据。"
+        }
       ]
     },
     {
@@ -507,6 +567,67 @@
           "tk": "Bu biziň ýerimizde adaty zat.",
           "en": "It's a common thing here."
         }
+      ],
+      "formula": {
+        "ru": "① 平常 + 动词 (обычно)  ② 很 平常 (обычный, заурядный)",
+        "en": "① 平常 + verb (usually)  ② 很平常 (ordinary)",
+        "uz": "① 平常 + fe'l",
+        "tg": "① 平常 + феъл",
+        "tk": "① 平常 + işlik"
+      },
+      "when_to_use": {
+        "ru": [
+          "Наречие «обычно, как правило»: 他平常六点起床.",
+          "Прилагательное «обычный, заурядный»: 这很平常.",
+          "Нейтральное."
+        ],
+        "en": [
+          "Adverb 'usually': 他平常六点起床.",
+          "Adjective 'ordinary': 这很平常.",
+          "Neutral."
+        ],
+        "uz": [
+          "'Odatda': 他平常六点起床."
+        ],
+        "tg": [
+          "«Одатан»."
+        ],
+        "tk": [
+          "'Adatça'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "平常的我起床早。",
+          "right": "我平常起床很早。",
+          "why": {
+            "ru": "平常-наречие идёт после подлежащего.",
+            "en": "平常 adverb goes after subject.",
+            "uz": "平常 ega keyin."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "平时 / 一般",
+          "difference": {
+            "ru": "平常/平时 — «обычно, в будни». 一般 — «вообще, как правило» (более нейтральное).",
+            "en": "平常/平时 usually. 一般 generally.",
+            "uz": "平常 — odatda. 一般 — umuman."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他___很少迟到，今天是个例外。",
+          "answer": "平常"
+        },
+        {
+          "type": "translate",
+          "question": "Обычно я встаю рано.",
+          "answer": "我平常起床很早。"
+        }
       ]
     },
     {
@@ -577,6 +698,67 @@
           "ru": "Лучше помедленнее, но тщательно.",
           "tk": "Haýal, ýöne ünsli etmeli.",
           "en": "Better slow but careful."
+        }
+      ],
+      "formula": {
+        "ru": "宁可 + A + 也不/也要 + B  (лучше A, чем B)",
+        "en": "宁可 + A + 也不/也要 + B",
+        "uz": "宁可 + A + 也不 + B",
+        "tg": "宁可 + A + 也不 + B",
+        "tk": "宁可 + A + 也不 + B"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Лучше… чем…» (сравнение выбора): 我宁可走路，也不坐公交车.",
+          "Часто с 也不 для отрицательной альтернативы.",
+          "Нейтральное."
+        ],
+        "en": [
+          "'Rather... than...': 我宁可走路，也不坐公交车.",
+          "Often with 也不.",
+          "Neutral."
+        ],
+        "uz": [
+          "'Yaxshiroq...' — 也不 bilan."
+        ],
+        "tg": [
+          "«Беҳтар аст»."
+        ],
+        "tk": [
+          "'Gowusy'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我宁可走路也不坐公交车 (без 也不 — тоже ок, но с паузой после 走路).",
+          "right": "我宁可走路，也不坐公交车。",
+          "why": {
+            "ru": "Часто ставится запятая перед 也.",
+            "en": "Comma before 也 is common.",
+            "uz": "也 oldidan vergul qo'yiladi."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "宁愿 / 宁可 / 宁愿…也不",
+          "difference": {
+            "ru": "宁可/宁愿 — синонимы, «лучше уж». 宁可 чуть более разговорное.",
+            "en": "宁可/宁愿 synonyms. 宁可 more colloquial.",
+            "uz": "宁可/宁愿 — sinonim."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他___自己吃亏，也不让别人受委屈。",
+          "answer": "宁可"
+        },
+        {
+          "type": "translate",
+          "question": "Я лучше останусь дома.",
+          "answer": "我宁可待在家里。"
         }
       ]
     }

@@ -496,6 +496,68 @@
           "tk": "Bu çaga örän akylly — hatda ulular hem oňa garşy aýdyp bilemez.",
           "en": "This child is very smart — even adults can't out-argue him."
         }
+      ],
+      "formula": {
+        "ru": "① 动词 + 过 (опыт в прошлом)  ② 动词 + 过 + 了  ③ 过 (guò) — «пройти, перейти»",
+        "en": "① verb + 过 (past experience)  ② verb + 过 + 了  ③ 过 guò — 'to cross, pass'",
+        "uz": "① fe'l + 过 (o'tmish tajribasi)  ② fe'l + 过 + 了",
+        "tg": "① феъл + 过",
+        "tk": "① işlik + 过"
+      },
+      "when_to_use": {
+        "ru": [
+          "Опыт: 我去过中国 (я бывал в Китае).",
+          "Отрицание 没…过.",
+          "Не путать с глаголом направления 过 = «пересекать»."
+        ],
+        "en": [
+          "Experience: 我去过中国.",
+          "Negation: 没…过.",
+          "Don't confuse with directional 过 = 'cross'."
+        ],
+        "uz": [
+          "Tajriba: 我去过中国.",
+          "Inkor: 没…过."
+        ],
+        "tg": [
+          "Таҷриба."
+        ],
+        "tk": [
+          "Tejribe."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我去过中国了。",
+          "right": "我去过中国。 / 我去了中国。",
+          "why": {
+            "ru": "过 (опыт) и 了 (завершение) не сочетаются как «опыт + завершение».",
+            "en": "过 (experience) and 了 (completion) don't combine as experience + completion.",
+            "uz": "过 va 了 birga 'tajriba + tugallanish' bo'lmaydi."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "了 / 着",
+          "difference": {
+            "ru": "过 — опыт (когда-то). 了 — завершённость. 着 — длительность/состояние.",
+            "en": "过 experience. 了 completion. 着 duration.",
+            "uz": "过 — tajriba. 了 — tugallanish. 着 — davomiylik."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "你吃___北京烤鸭吗？",
+          "answer": "过"
+        },
+        {
+          "type": "translate",
+          "question": "Я бывал в Японии.",
+          "answer": "我去过日本。"
+        }
       ]
     },
     {
@@ -566,6 +628,67 @@
           "ru": "Рано или поздно тебе придётся решить самому.",
           "tk": "Ir-hem-giç özüň karar bermeli bolarsyň.",
           "en": "Sooner or later you'll have to decide yourself."
+        }
+      ],
+      "formula": {
+        "ru": "主语 + 迟早 + 会/要 + 动词  (рано или поздно)",
+        "en": "Subject + 迟早 + 会/要 + verb (sooner or later)",
+        "uz": "Ega + 迟早 + fe'l",
+        "tg": "Мубтадо + 迟早 + феъл",
+        "tk": "Eýe + 迟早 + işlik"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Рано или поздно» — о неизбежном будущем.",
+          "Часто с 会/要.",
+          "Нейтральное."
+        ],
+        "en": [
+          "'Sooner or later' — inevitable future.",
+          "Often with 会/要.",
+          "Neutral."
+        ],
+        "uz": [
+          "'Erta-mi kech'."
+        ],
+        "tg": [
+          "«Дер ё зуд»."
+        ],
+        "tk": [
+          "'Irden-kiç'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "迟早他已经来了。",
+          "right": "他迟早会来的。",
+          "why": {
+            "ru": "迟早 — про будущее, не про прошедшее.",
+            "en": "迟早 is future-oriented.",
+            "uz": "迟早 kelajak haqida."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "早晚 / 总有一天",
+          "difference": {
+            "ru": "迟早/早晚 — «рано или поздно». 总有一天 — «однажды (в будущем)».",
+            "en": "迟早/早晚 sooner or later. 总有一天 one day.",
+            "uz": "迟早 — erta-mi kech. 总有一天 — bir kun."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他___会明白的。",
+          "answer": "迟早"
+        },
+        {
+          "type": "translate",
+          "question": "Рано или поздно всё выяснится.",
+          "answer": "迟早真相会大白的。"
         }
       ]
     },
@@ -638,6 +761,67 @@
           "tk": "Bu meseläni birnäçe gezek barladym — ýene ýalňyş bar.",
           "en": "I checked this exercise several times — still an error."
         }
+      ],
+      "formula": {
+        "ru": "再三 + 动词  (неоднократно, снова и снова)",
+        "en": "再三 + verb (repeatedly)",
+        "uz": "再三 + fe'l",
+        "tg": "再三 + феъл",
+        "tk": "再三 + işlik"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Неоднократно, много раз»: 再三请求.",
+          "Перед глаголом.",
+          "Нейтрально-книжное."
+        ],
+        "en": [
+          "'Repeatedly': 再三请求.",
+          "Before verb.",
+          "Neutral/literary."
+        ],
+        "uz": [
+          "'Qayta-qayta'."
+        ],
+        "tg": [
+          "«Такрору такрор»."
+        ],
+        "tk": [
+          "'Gaýta-gaýta'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "再三我求你。",
+          "right": "我再三求你。",
+          "why": {
+            "ru": "再三 после подлежащего, перед глаголом.",
+            "en": "再三 after subject, before verb.",
+            "uz": "再三 ega keyin, fe'ldan oldin."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "反复 / 一再",
+          "difference": {
+            "ru": "再三 — «не раз прося/говоря» (эмоционально). 反复 — «неоднократно» (нейтральное). 一再 — книжное «снова и снова».",
+            "en": "再三 repeatedly (asking). 反复 neutral. 一再 literary.",
+            "uz": "再三 — qayta-qayta. 反复 — neytral."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "我___告诉他，他还是忘了。",
+          "answer": "再三"
+        },
+        {
+          "type": "translate",
+          "question": "Он неоднократно просил прощения.",
+          "answer": "他再三请求原谅。"
+        }
       ]
     },
     {
@@ -708,6 +892,67 @@
           "ru": "В последнее время столько дел — я совсем запутался.",
           "tk": "Soňky wagtlarda iş köp — men bulaşdym.",
           "en": "So much has been going on — I'm muddled."
+        }
+      ],
+      "formula": {
+        "ru": "① 糊涂 (прилаг. состояние)  ② 装糊涂 / 犯糊涂",
+        "en": "① 糊涂 (adj)  ② 装糊涂 / 犯糊涂",
+        "uz": "① 糊涂 (sifat)  ② 装糊涂",
+        "tg": "① 糊涂  ② 装糊涂",
+        "tk": "① 糊涂  ② 装糊涂"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Спутанный, не соображающий»: 我老了，越来越糊涂了.",
+          "Предикатив: 他糊涂了.",
+          "В устойчивых: 难得糊涂."
+        ],
+        "en": [
+          "'Confused, muddled': 我越来越糊涂了.",
+          "Predicate: 他糊涂了.",
+          "In idioms."
+        ],
+        "uz": [
+          "'Chalkash, es-hushini yo'qotgan'."
+        ],
+        "tg": [
+          "«Ошуфта, гумроҳ»."
+        ],
+        "tk": [
+          "'Çalşyk, aljyraňňy'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他是糊涂的人。",
+          "right": "他是个糊涂人。 / 他很糊涂。",
+          "why": {
+            "ru": "糊涂 как предикат: 很糊涂 или 糊涂人 без 的.",
+            "en": "As predicate: 很糊涂 or 糊涂人 (no 的).",
+            "uz": "Predikat: 很糊涂 yoki 糊涂人 (的 siz)."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "糊涂 / 迷糊 / 疑惑",
+          "difference": {
+            "ru": "糊涂 — «не соображающий» (в голове путаница). 迷糊 — «сонный, вялый». 疑惑 — «сомневающийся».",
+            "en": "糊涂 muddled. 迷糊 sleepy. 疑惑 doubtful.",
+            "uz": "糊涂 — chalkash. 迷糊 — uyquchan."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他年纪大了，有点___。",
+          "answer": "糊涂"
+        },
+        {
+          "type": "translate",
+          "question": "Я совсем запутался.",
+          "answer": "我完全糊涂了。"
         }
       ]
     }

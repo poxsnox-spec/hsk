@@ -486,6 +486,71 @@
           "tk": "Bolýar, jedelleşmäň.",
           "en": "Alright — stop arguing."
         }
+      ],
+      "formula": {
+        "ru": "① 算 + 是/作 (считаться)  ② 算了 (ладно, всё)  ③ 算 我 一份",
+        "en": "① 算 是/作 ② 算了 ③ 算 我 一份",
+        "uz": "① 算 是/作 ② 算了 ③ 算 我 一份",
+        "tg": "① 算 是/作 ② 算了",
+        "tk": "① 算 是/作 ② 算了"
+      },
+      "when_to_use": {
+        "ru": [
+          "Считать, считаться: 他算是个专家.",
+          "算了 — «ладно, всё, хватит».",
+          "算我一份 — «и меня посчитай»."
+        ],
+        "en": [
+          "Count as: 他算是个专家.",
+          "算了 = 'forget it'.",
+          "算我一份 = 'count me in'."
+        ],
+        "uz": [
+          "Hisoblamoq: 他算是个专家.",
+          "算了 = 'qo'y, bo'ldi'.",
+          "算我一份 = 'meni ham qo'sh'."
+        ],
+        "tg": [
+          "Ҳисоб кардан.",
+          "算了 = «гузаштем»."
+        ],
+        "tk": [
+          "Hasaplamak.",
+          "算了 = 'goý, bolýar'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他算得好人。",
+          "right": "他算是个好人。",
+          "why": {
+            "ru": "Требует 是/作 перед существительным.",
+            "en": "Needs 是/作 before noun.",
+            "uz": "Ot oldidan 是/作 kerak."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "认为 / 算是",
+          "difference": {
+            "ru": "认为 — «считать (мнение)». 算是 — «можно считать (не в полной мере)».",
+            "en": "认为 = consider. 算是 = can be counted as.",
+            "uz": "认为 — hisoblamoq. 算是 — 'deb hisoblash mumkin'."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他___是我们班最好的学生。",
+          "answer": "算"
+        },
+        {
+          "type": "translate",
+          "question": "Ладно, забудь.",
+          "answer": "算了，别想了。"
+        }
       ]
     },
     {
@@ -556,6 +621,68 @@
           "ru": "Как врач, он очень ответственный.",
           "tk": "Lukman hökmünde ol örän jogapkärli.",
           "en": "As a doctor, he's very responsible."
+        }
+      ],
+      "formula": {
+        "ru": "① 作为 + сущ.  (в качестве кого/чего)  ② 作为 + сущ. + 来说",
+        "en": "① 作为 + noun (as)  ② 作为 + noun + 来说",
+        "uz": "① 作为 + ot",
+        "tg": "① 作为 + исм",
+        "tk": "① 作为 + at"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Как, в качестве»: 作为一名医生，他很有责任心.",
+          "В начале предложения.",
+          "Книжное; в разговоре 当……."
+        ],
+        "en": [
+          "'As': 作为一名医生.",
+          "Sentence-initial.",
+          "Literary; in speech 当……."
+        ],
+        "uz": [
+          "'Sifatida': 作为一名医生.",
+          "Gap boshida."
+        ],
+        "tg": [
+          "«Ҳамчун»."
+        ],
+        "tk": [
+          "'Hökmünde'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我作为是学生。",
+          "right": "我作为学生。 / 我是学生。",
+          "why": {
+            "ru": "作为 уже содержит «как», не нужно 是.",
+            "en": "作为 already means 'as', don't add 是.",
+            "uz": "作为 da 'sifatida' bor, 是 kerak emas."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "当 / 是",
+          "difference": {
+            "ru": "作为 — «в роли, в качестве». 当 — «когда, в роли» (разг.). 是 — просто «быть».",
+            "en": "作为 role. 当 when/as (colloq.). 是 = be.",
+            "uz": "作为 — rol. 当 — rol (so'zl.). 是 — 'bo'lmoq'."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "___一个老师，他非常认真。",
+          "answer": "作为"
+        },
+        {
+          "type": "translate",
+          "question": "Как студент, я должен учиться.",
+          "answer": "作为学生，我应该好好学习。"
         }
       ]
     },
@@ -628,6 +755,68 @@
           "tk": "Men bir wagtlar bu filmi gördüm — örän täsirli.",
           "en": "I once saw this film — very moving."
         }
+      ],
+      "formula": {
+        "ru": "主语 + 曾经 + 动词 + 过  (когда-то, раньше)",
+        "en": "Subject + 曾经 + verb + 过",
+        "uz": "Ega + 曾经 + fe'l + 过",
+        "tg": "Мубтадо + 曾经 + феъл + 过",
+        "tk": "Eýe + 曾经 + işlik + 过"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Когда-то, раньше» — опыт из прошлого, уже неактуальный.",
+          "Обязательно с 过.",
+          "Книжное; в разговоре 以前, 以前…过."
+        ],
+        "en": [
+          "'Once, formerly' — past experience.",
+          "Must combine with 过.",
+          "Literary; in speech 以前."
+        ],
+        "uz": [
+          "'Bir paytlar' — o'tmish tajribasi.",
+          "过 bilan shart."
+        ],
+        "tg": [
+          "«Соле пеш»."
+        ],
+        "tk": [
+          "'Bir wagtlar'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我曾经在北京工作。",
+          "right": "我曾经在北京工作过。",
+          "why": {
+            "ru": "曾经 требует 过. Без 过 — прошедшее время не подчёркнуто.",
+            "en": "曾经 requires 过. Without it, past isn't emphasized.",
+            "uz": "曾经 过 ni talab qiladi."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "已经 / 以前",
+          "difference": {
+            "ru": "曾经 — «когда-то в прошлом» (опыт). 已经 — «уже». 以前 — «раньше, до» (нейтральное).",
+            "en": "曾经 = ever/once. 已经 = already. 以前 = before.",
+            "uz": "曾经 — bir paytlar. 已经 — allaqachon. 以前 — oldin."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "我___去过长城。",
+          "answer": "曾经"
+        },
+        {
+          "type": "translate",
+          "question": "Когда-то он был врачом.",
+          "answer": "他曾经是个医生。"
+        }
       ]
     },
     {
@@ -698,6 +887,68 @@
           "ru": "Это дело должны сделать именно вы лично.",
           "tk": "Bu işi hut özüňiz etmeli.",
           "en": "You must handle this yourself."
+        }
+      ],
+      "formula": {
+        "ru": "主语 + 亲自 + 动词  (лично, сам)",
+        "en": "Subject + 亲自 + verb (personally)",
+        "uz": "Ega + 亲自 + fe'l",
+        "tg": "Мубтадо + 亲自 + феъл",
+        "tk": "Eýe + 亲自 + işlik"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Лично, собственной персоной» (подчёркивает, что сам, а не через другого).",
+          "Перед глаголом.",
+          "Письменно-нейтральное."
+        ],
+        "en": [
+          "'Personally, in person'.",
+          "Before verb.",
+          "Neutral/literary."
+        ],
+        "uz": [
+          "'Shaxsan o'zi'.",
+          "Fe'ldan oldin."
+        ],
+        "tg": [
+          "«Худаш»."
+        ],
+        "tk": [
+          "'Şahsy özi'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他亲自的我来了。",
+          "right": "他亲自来了。",
+          "why": {
+            "ru": "亲自 — наречие, не прилагательное.",
+            "en": "亲自 is adverb.",
+            "uz": "亲自 ravish."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "自己 / 亲手",
+          "difference": {
+            "ru": "亲自 — «сам (по статусу)». 自己 — «сам» (местоимение). 亲手 — «своими руками».",
+            "en": "亲自 personally (by status). 自己 oneself. 亲手 with own hands.",
+            "uz": "亲自 — shaxsan. 自己 — o'zi. 亲手 — o'z qo'li bilan."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "校长___为毕业生颁发了证书。",
+          "answer": "亲自"
+        },
+        {
+          "type": "translate",
+          "question": "Директор пришёл лично.",
+          "answer": "经理亲自来了。"
         }
       ]
     }

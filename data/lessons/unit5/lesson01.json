@@ -476,6 +476,69 @@
           "tk": "Beýle uzak ýoly men ýöräp bilemok, hem ýagýar.",
           "en": "I can't walk such a distance — especially in the rain."
         }
+      ],
+      "formula": {
+        "ru": "A, 何况 B  (тем более, к тому же)",
+        "en": "A, 何况 B (let alone, moreover)",
+        "uz": "A, 何况 B",
+        "tg": "A, 何况 B",
+        "tk": "A, 何况 B"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Тем более, к тому же» — усиление аргумента.",
+          "После общего, перед частным: 大家都不会，何况我呢?",
+          "С риторическим вопросом — «где уж».",
+          "Книжно-нейтральное."
+        ],
+        "en": [
+          "'Moreover, let alone' — strengthening.",
+          "General then specific.",
+          "Often rhetorical.",
+          "Neutral/literary."
+        ],
+        "uz": [
+          "'Bundan tashqari, qolaversa'."
+        ],
+        "tg": [
+          "«Зиёда аз ин»."
+        ],
+        "tk": [
+          "'Üstesine-de'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "何况他不会来。",
+          "right": "他都不会来，何况我呢？",
+          "why": {
+            "ru": "何况 связывает две части: общее утверждение + вопрос/вывод.",
+            "en": "何况 links two parts: general + conclusion.",
+            "uz": "何况 ikki qismni bog'laydi."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "而且 / 再说",
+          "difference": {
+            "ru": "何况 — «тем более» (сильный аргумент). 而且 — «и к тому же» (нейтральное добавление). 再说 — разговорное «к тому же».",
+            "en": "何况 stronger. 而且 also. 再说 colloquial.",
+            "uz": "何况 kuchliroq. 而且 neytral. 再说 so'zl."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "大人都搬不动，___孩子呢？",
+          "answer": "何况"
+        },
+        {
+          "type": "translate",
+          "question": "Он даже по-английски не говорит, тем более по-китайски.",
+          "answer": "他连英语都不会，何况汉语。"
+        }
       ]
     },
     {
@@ -547,6 +610,67 @@
           "tk": "Ötünç soradyň — özüňi näme üçin günäkärleýärsiň?",
           "en": "You already apologized — why blame yourself?"
         }
+      ],
+      "formula": {
+        "ru": "① 何必 + 动词 (+ 呢)  = «зачем?»  ② 何必 呢?",
+        "en": "① 何必 + verb (+ 呢) = why bother  ② 何必 呢?",
+        "uz": "① 何必 + fe'l (+ 呢)",
+        "tg": "① 何必 + феъл",
+        "tk": "① 何必 + işlik"
+      },
+      "when_to_use": {
+        "ru": [
+          "Риторический вопрос «зачем, к чему»: 何必生气呢?",
+          "Обычно с 呢 на конце.",
+          "Совет «не стоит»."
+        ],
+        "en": [
+          "Rhetorical 'why bother': 何必生气呢?",
+          "Often ends with 呢.",
+          "Advice against."
+        ],
+        "uz": [
+          "Ritorik 'nega kerak': 何必生气呢?"
+        ],
+        "tg": [
+          "«Чаро, барои чӣ»."
+        ],
+        "tk": [
+          "'Näme üçin?'"
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "何必你去？",
+          "right": "你何必去呢？",
+          "why": {
+            "ru": "何必 обычно после подлежащего, с 呢 в конце.",
+            "en": "何必 after subject, with 呢 at end.",
+            "uz": "何必 ega keyin, 呢 oxirida."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "为什么 / 何必",
+          "difference": {
+            "ru": "为什么 — «почему» (нейтральный вопрос). 何必 — риторическое «зачем, не стоит».",
+            "en": "为什么 neutral why. 何必 rhetorical why bother.",
+            "uz": "为什么 — neytral. 何必 — ritorik."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "这么小的事，你___生气呢？",
+          "answer": "何必"
+        },
+        {
+          "type": "translate",
+          "question": "Зачем так беспокоиться?",
+          "answer": "何必这么担心呢？"
+        }
       ]
     },
     {
@@ -617,6 +741,67 @@
           "ru": "Благодаря терпеливому объяснению учителя я понял.",
           "tk": "Mugallymyň sabyrly düşündirişi sagbolsun, düşündim.",
           "en": "Thanks to the teacher's patience, I understood."
+        }
+      ],
+      "formula": {
+        "ru": "多亏 + кто/что + 才 ……  (благодаря)",
+        "en": "多亏 + person/thing + 才 ...",
+        "uz": "多亏 + kim/nima + 才 ...",
+        "tg": "多亏 + кас/чиз + 才 ...",
+        "tk": "多亏 + kim/näme + 才 ..."
+      },
+      "when_to_use": {
+        "ru": [
+          "«Благодаря, спасибо (кому-то)» — часто с 才 в главной части.",
+          "多亏了你，我才通过考试.",
+          "Устно-нейтральное, эмоционально."
+        ],
+        "en": [
+          "'Thanks to' — often with 才 in main clause.",
+          "多亏了你，我才通过考试.",
+          "Colloquial, emotional."
+        ],
+        "uz": [
+          "'Tufayli' — ko'pincha 才 bilan."
+        ],
+        "tg": [
+          "«Ба шарофати»."
+        ],
+        "tk": [
+          "'Saýesinde'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "多亏我，成功了。",
+          "right": "多亏了我，我们才成功了。",
+          "why": {
+            "ru": "Нужно указать кого именно и часто 才 в главной части.",
+            "en": "Specify whom; often 才 in main clause.",
+            "uz": "Kimni ko'rsatish kerak, ko'pincha 才."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "因为 / 由于",
+          "difference": {
+            "ru": "多亏 — «благодаря» (положительный оттенок). 因为/由于 — «из-за» (нейтральные, могут быть и отрицательные).",
+            "en": "多亏 positive thanks to. 因为/由于 neutral because.",
+            "uz": "多亏 — ijobiy. 因为/由于 — neytral."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "___你帮忙，我才找到工作。",
+          "answer": "多亏"
+        },
+        {
+          "type": "translate",
+          "question": "Благодаря тебе всё прошло хорошо.",
+          "answer": "多亏了你，事情才办得好。"
         }
       ]
     }

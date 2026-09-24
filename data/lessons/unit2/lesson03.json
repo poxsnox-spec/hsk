@@ -516,6 +516,81 @@
           "tk": "Syrymy saklanyň üçin sag bol.",
           "en": "Thanks for keeping my secret."
         }
+      ],
+      "formula": {
+        "ru": "① 替 + кто + 动词  (делать что-то за кого-то)  ② 替 + кто + 担心/高兴/着急 (чувство за кого-то)",
+        "en": "① 替 + person + verb (do sth for sb)  ② 替 + person + 担心/高兴/着急 (feel for sb)",
+        "uz": "① 替 + kim + fe'l (kimningdir o'rniga)  ② 替 + kim + 担心/高兴/着急",
+        "tg": "① 替 + кас + феъл  ② 替 + кас + 担心/高兴/着急",
+        "tk": "① 替 + kim + işlik  ② 替 + kim + 担心/高兴/着急"
+      },
+      "when_to_use": {
+        "ru": [
+          "«За кого-то, вместо кого-то» (действие за другого): 我替你写.",
+          "Чувства «за кого-то»: 我替你高兴 (рад за тебя), 我替你担心.",
+          "Как глагол: 代替 — «заменить».",
+          "Часто с 你/他/她 — местоимение обязательно."
+        ],
+        "en": [
+          "'For/in place of someone': 我替你写.",
+          "Feelings 'for someone': 我替你高兴, 我替你担心.",
+          "As verb: 代替 = 'to replace'.",
+          "Often with 你/他/她 — pronoun required."
+        ],
+        "uz": [
+          "'Kimningdir o'rniga/uchun': 我替你写.",
+          "Kim uchun his: 我替你高兴, 我替你担心.",
+          "Fe'l sifatida: 代替 = 'almashtirmoq'.",
+          "Ko'pincha 你/他/她 bilan."
+        ],
+        "tg": [
+          "«Ба ҷои касе»: 我替你写.",
+          "Эҳсос барои касе: 我替你高兴.",
+          "Ҳамчун феъл: 代替."
+        ],
+        "tk": [
+          "'Kimdir üçin/ýerine': 我替你写.",
+          "Duýgy: 我替你高兴.",
+          "Işlik hökmünde: 代替."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我替他的书买了。",
+          "right": "我替他买了书。",
+          "why": {
+            "ru": "替 ставится ПЕРЕД глаголом, а не после объекта. Порядок: 替 + кто + глагол.",
+            "en": "替 goes BEFORE the verb, not after the object. Order: 替 + person + verb.",
+            "uz": "替 fe'ldan OLDIN. Tartib: 替 + kim + fe'l."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "为 / 给 / 帮",
+          "difference": {
+            "ru": "替 — «вместо, за» (заменить кого-то). 为 (wèi) — «для, ради» (в интересах). 给 — «дать, для» (адресат). 帮 — «помочь» (содействие).",
+            "en": "替 = 'instead of' (replace). 为 (wèi) = 'for, on behalf of'. 给 = 'give, for' (recipient). 帮 = 'help'.",
+            "uz": "替 — 'o'rniga'. 为 (wèi) — 'uchun'. 给 — 'bermoq, uchun'. 帮 — 'yordam bermoq'."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "你今天生病了，我___你上课吧。",
+          "answer": "替"
+        },
+        {
+          "type": "fill_blank",
+          "question": "听说你考上大学了，我真___你高兴。",
+          "answer": "替"
+        },
+        {
+          "type": "translate",
+          "question": "Он купил билеты за меня.",
+          "answer": "他替我买了票。"
+        }
       ]
     },
     {
@@ -586,6 +661,81 @@
           "ru": "Сходи спроси — может, есть ответ.",
           "tk": "Gidip sora — belki jogap bar.",
           "en": "Go ask — maybe there's an answer."
+        }
+      ],
+      "formula": {
+        "ru": "主语 + 说不定 + 动词/прилаг.  (возможно, может быть, не исключено)",
+        "en": "Subject + 说不定 + verb/adj (maybe, perhaps)",
+        "uz": "Ega + 说不定 + fe'l/sifat (balki, ehtimol)",
+        "tg": "Мубтадо + 说不定 + феъл/сифат",
+        "tk": "Eýe + 说不定 + işlik/sypat"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Может быть, вполне возможно» — вероятность события.",
+          "Часто со 会/能: 说不定会下雨.",
+          "Разговорное, живое; может быть наречием или вводным словом.",
+          "Также буквально как глагол: 说不定的 (нельзя точно сказать)."
+        ],
+        "en": [
+          "'Perhaps, maybe' — probability of an event.",
+          "Often with 会/能: 说不定会下雨.",
+          "Colloquial; can be adverb or introductory.",
+          "Also literal: 说不定的 (can't be certain)."
+        ],
+        "uz": [
+          "'Balki, ehtimol' — voqea ehtimoli.",
+          "Ko'pincha 会/能 bilan: 说不定会下雨.",
+          "So'zlashuv; ravish yoki kirish so'zi.",
+          "So'zma-so'z fe'l sifatida ham: 说不定的."
+        ],
+        "tg": [
+          "«Эҳтимол, шояд».",
+          "Аксар бо 会/能: 说不定会下雨.",
+          "Дар гуфтугӯ."
+        ],
+        "tk": [
+          "'Belki, ähtimal'.",
+          "Köplenç 会/能 bilen: 说不定会下雨.",
+          "Gepleşikde."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "说不定他明天来不来。",
+          "right": "说不定他明天来。 / 他明天来不来还不一定。",
+          "why": {
+            "ru": "说不定 сам по себе = «может быть». Не сочетается с конструкцией «A不A» (выбор), для неё — 不一定 / 还不一定.",
+            "en": "说不定 alone = 'maybe'. Doesn't combine with 'A不A' pattern; for that use 不一定 / 还不一定.",
+            "uz": "说不定 yolg'iz 'balki' demakdir. 'A不A' bilan ishlamaydi — u uchun 不一定."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "也许 / 大概 / 可能 / 不一定",
+          "difference": {
+            "ru": "说不定 — разговорное «может статься» (иногда неожиданный исход). 也许 — «может быть» (нейтральное). 大概 — «вероятно» (оценка). 可能 — «возможно» (нейтральное, самое частое). 不一定 — «не обязательно».",
+            "en": "说不定 = colloquial 'maybe, you never know'. 也许 = 'perhaps' (neutral). 大概 = 'probably'. 可能 = 'possibly' (most common). 不一定 = 'not necessarily'.",
+            "uz": "说不定 — so'zlashuv 'balki, kim biladi'. 也许 — 'ehtimol'. 大概 — 'ehtimol'. 可能 — 'mumkin'. 不一定 — 'shart emas'."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "天阴了，___会下雨。",
+          "answer": "说不定"
+        },
+        {
+          "type": "fill_blank",
+          "question": "他现在还没来，___路上堵车了。",
+          "answer": "说不定"
+        },
+        {
+          "type": "translate",
+          "question": "Возможно, он уже дома.",
+          "answer": "说不定他已经到家了。"
         }
       ]
     },
@@ -658,6 +808,81 @@
           "tk": "Ol örän bagtly.",
           "en": "She's incredibly happy."
         }
+      ],
+      "formula": {
+        "ru": "① A + 像/好像 + B + 似的  (A похож на B)  ② глагол/прилаг. + 得 + 像…似的",
+        "en": "① A + 像/好像 + B + 似的 (A is like B)  ② verb/adj + 得 + 像…似的",
+        "uz": "① A + 像/好像 + B + 似的 (A B ga o'xshaydi)  ② fe'l/sifat + 得 + 像…似的",
+        "tg": "① A + 像/好像 + B + 似的  ② феъл/сифат + 得 + 像…似的",
+        "tk": "① A + 像/好像 + B + 似的  ② işlik/sypat + 得 + 像…似的"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Как будто, словно, похоже на» — сравнение. 他像疯了似的.",
+          "Часто с 像 / 好像 / 仿佛 для усиления.",
+          "Ставится В КОНЦЕ сравнительного оборота.",
+          "В разговорной речи может опускаться: 他像疯了 (то же, что ...似的)."
+        ],
+        "en": [
+          "'As if, like' — simile. 他像疯了似的.",
+          "Often with 像 / 好像 / 仿佛 for emphasis.",
+          "Placed AT THE END of the comparison phrase.",
+          "In speech may be dropped: 他像疯了."
+        ],
+        "uz": [
+          "'Go'yo, xuddi' — o'xshatish. 他像疯了似的.",
+          "Ko'pincha 像 / 好像 / 仿佛 bilan.",
+          "Taqqoslash iborasining OXIRIDA.",
+          "So'zlashuvda tushib qolishi mumkin."
+        ],
+        "tg": [
+          "«Гӯё, мисли» — муқоиса.",
+          "Аксар бо 像 / 好像 / 仿佛.",
+          "Дар охири ибораи муқоиса."
+        ],
+        "tk": [
+          "'Ýaly, göýä' — deňeşdirme.",
+          "Köplenç 像 / 好像 / 仿佛 bilen.",
+          "Deňeşdirme jümlesiniň soňunda."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他似的疯了。",
+          "right": "他像疯了似的。",
+          "why": {
+            "ru": "似的 идёт В КОНЦЕ сравнения, а не перед ним. Нужен ещё 像/好像 в начале.",
+            "en": "似的 goes at the END of the comparison, not before. Need 像/好像 at the start too.",
+            "uz": "似的 taqqoslash OXIRIDA, oldin emas. Boshida 像/好像 kerak."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "一样 / 如同",
+          "difference": {
+            "ru": "似的 — «словно, будто» (акцент на воображаемом сходстве). 一样 — «такой же как» (реальное сходство). 如同 — «подобно» (книжное).",
+            "en": "似的 = 'as if' (imagined similarity). 一样 = 'same as' (real similarity). 如同 = 'like' (literary).",
+            "uz": "似的 — 'go'yo'. 一样 — 'xuddi shunday'. 如同 — 'kabi' (kitobiy)."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他跑得飞快，像一阵风___。",
+          "answer": "似的"
+        },
+        {
+          "type": "fill_blank",
+          "question": "她对我很冷淡，好像不认识我___。",
+          "answer": "似的"
+        },
+        {
+          "type": "translate",
+          "question": "Он говорил так, будто всё знал.",
+          "answer": "他说话的样子，好像什么都知道似的。"
+        }
       ]
     },
     {
@@ -728,6 +953,81 @@
           "ru": "Фанаты один за другим оставляли в интернете слова поддержки.",
           "tk": "Janköýerler ony goldamak üçin internetde biri-birinden ýazdylar.",
           "en": "Fans posted messages of support online."
+        }
+      ],
+      "formula": {
+        "ru": "主语 (мн.ч.) + 纷纷 + 动词  (один за другим, все подряд)",
+        "en": "Plural subject + 纷纷 + verb (one after another, in droves)",
+        "uz": "Ko'plik ega + 纷纷 + fe'l (biridan keyin biri)",
+        "tg": "Мубтадои ҷамъ + 纷纷 + феъл",
+        "tk": "Köpük eýe + 纷纷 + işlik"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Один за другим, все разом, валом» — о многих действующих лицах.",
+          "Обычно перед глаголом: 大家纷纷举手.",
+          "Книжное/нейтральное; в разговоре может быть 都, 一个个.",
+          "Не используется с одним человеком."
+        ],
+        "en": [
+          "'One after another, in droves' — many actors.",
+          "Usually before verb: 大家纷纷举手.",
+          "Literary/neutral; in speech 都, 一个个.",
+          "Not used with a single person."
+        ],
+        "uz": [
+          "'Biridan keyin biri, hamma birdan' — ko'p shaxslar.",
+          "Odatda fe'ldan oldin: 大家纷纷举手.",
+          "Kitobiy/neytral; so'zlashuvda 都, 一个个.",
+          "Bir kishi bilan ishlatilmaydi."
+        ],
+        "tg": [
+          "«Як аз паси як, ҳама якбора».",
+          "Одатан пеш аз феъл: 大家纷纷举手.",
+          "Китобӣ/нейтралӣ."
+        ],
+        "tk": [
+          "'Bir-biriniň yzyndan, hemmesi birden'.",
+          "Adatça işlikden öň: 大家纷纷举手.",
+          "Kitaby/bitarap."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他纷纷来了。",
+          "right": "他们纷纷来了。 / 大家都纷纷来了。",
+          "why": {
+            "ru": "纷纷 требует множественного подлежащего (2+ человека).",
+            "en": "纷纷 requires a plural subject (2+ people).",
+            "uz": "纷纷 ko'plik ega talab qiladi (2+ kishi)."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "一个个 / 陆续 / 都",
+          "difference": {
+            "ru": "纷纷 — «все подряд, один за другим» (много разом). 一个个 — «по одному, по очереди». 陆续 — «постепенно, время от времени» (о прибытии, событиях). 都 — «все» (просто все).",
+            "en": "纷纷 = 'one after another, in droves'. 一个个 = 'one by one'. 陆续 = 'gradually, one after another (arrivals)'. 都 = 'all'.",
+            "uz": "纷纷 — 'birdan, biridan keyin biri'. 一个个 — 'bittalab'. 陆续 — 'asta-sekin'. 都 — 'hamma'."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "听到消息，同学们___表示祝贺。",
+          "answer": "纷纷"
+        },
+        {
+          "type": "fill_blank",
+          "question": "秋天到了，树叶___落下来。",
+          "answer": "纷纷"
+        },
+        {
+          "type": "translate",
+          "question": "Все один за другим задавали вопросы.",
+          "answer": "大家纷纷提出问题。"
         }
       ]
     }

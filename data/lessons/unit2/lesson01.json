@@ -505,6 +505,81 @@
           "tk": "Biz henizem aragatnaşygy saklaýarys.",
           "en": "We still keep in touch."
         }
+      ],
+      "formula": {
+        "ru": "① 至今 + 还/仍/都 + 动词  ② 从…至今  (с … и до сих пор)",
+        "en": "① 至今 + 还/仍/都 + verb  ② 从…至今 (from ... until now)",
+        "uz": "① 至今 + 还/仍/都 + fe'l  ② 从…至今",
+        "tg": "① 至今 + 还/仍/都 + феъл  ② 从…至今",
+        "tk": "① 至今 + 还/仍/都 + işlik  ② 从…至今"
+      },
+      "when_to_use": {
+        "ru": [
+          "«До сих пор, по сей день» — состояние/действие, которое длится с прошлого момента в настоящее.",
+          "Обычно с 还/仍/都 (всё ещё).",
+          "Книжное; в разговоре чаще 到现在 / 一直.",
+          "Может стоять в начале или в середине: 至今我还记得."
+        ],
+        "en": [
+          "'Until now, to this day' — state/action ongoing from a past point to present.",
+          "Usually with 还/仍/都 ('still').",
+          "Literary; in speech 到现在 / 一直.",
+          "Can be at start or middle: 至今我还记得."
+        ],
+        "uz": [
+          "'Hozirgacha, shu kungacha' — o'tmishdan hozirgacha davom etayotgan holat.",
+          "Odatda 还/仍/都 bilan.",
+          "Kitobiy; so'zlashuvda 到现在 / 一直.",
+          "Boshida yoki o'rtasida: 至今我还记得."
+        ],
+        "tg": [
+          "«То ҳол, то имрӯз» — ҳолат аз гузашта то ҳозир.",
+          "Одатан бо 还/仍/都.",
+          "Китобӣ; дар гуфтугӯ 到现在 / 一直."
+        ],
+        "tk": [
+          "'Häzire çenli, şu güne çenli' — geçmişden häzire dowam edýän ýagdaý.",
+          "Adatça 还/仍/都 bilen.",
+          "Kitaby; gepleşikde 到现在 / 一直."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "至今他来了。",
+          "right": "至今他还没有来。 / 他到现在还没来。",
+          "why": {
+            "ru": "至今 подчёркивает длительность до сих пор — обычно отрицание или «всё ещё». Просто «он пришёл» + 至今 не сочетается.",
+            "en": "至今 emphasises the stretch until now — usually with negation or 'still'. Plain 'he came' + 至今 doesn't work.",
+            "uz": "至今 hozirgacha cho'zilishni ta'kidlaydi — odatda inkor yoki 'hali ham'. 'U keldi' + 至今 mos kelmaydi."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "现在 / 到现在 / 直到现在",
+          "difference": {
+            "ru": "至今 — «до сих пор» (книжное). 到现在 — то же, но нейтральнее. 直到现在 — «вплоть до настоящего момента» (с акцентом на длительность).",
+            "en": "至今 = 'to this day' (literary). 到现在 = same, more neutral. 直到现在 = 'right up to now' (emphasis on duration).",
+            "uz": "至今 — 'shu kungacha' (kitobiy). 到现在 — neytralroq. 直到现在 — 'aynan hozirgi paytgacha' (davomiylikni ta'kidlaydi)."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "那件事___我还记得很清楚。",
+          "answer": "至今"
+        },
+        {
+          "type": "fill_blank",
+          "question": "他离开家乡___，已经十年了。",
+          "answer": "至今"
+        },
+        {
+          "type": "translate",
+          "question": "До сих пор я не получил его письма.",
+          "answer": "至今我还没有收到他的信。"
+        }
       ]
     },
     {
@@ -575,6 +650,81 @@
           "ru": "Только тот добьётся успеха, кто выдержит давление.",
           "tk": "Basyşa çydap bilýän adam üstünlik gazanyp biler.",
           "en": "Only those who can withstand pressure succeed."
+        }
+      ],
+      "formula": {
+        "ru": "① 顶 + сущ. (головой) — нести на голове  ② 顶 + сущ. — держать/подпирать  ③ 一顶 + сущ. (счётное слово для головных уборов)",
+        "en": "① 顶 + noun (with head) — carry on head  ② 顶 + noun — prop up  ③ 一顶 + noun (MW for hats)",
+        "uz": "① 顶 + ot (boshda ko'tarmoq)  ② 顶 + ot — tirgak qilmoq  ③ 一顶 + ot (bosh kiyimi uchun)",
+        "tg": "① 顶 + исм (бар сар)  ② 顶 + исм — такя кардан  ③ 一顶 + исм (барои кулоҳ)",
+        "tk": "① 顶 + at (başda götermek)  ② 顶 + at — diremek  ③ 一顶 + at (telpek üçin)"
+      },
+      "when_to_use": {
+        "ru": [
+          "Физическое действие: держать/нести на голове или подпирать сверху (头顶着书).",
+          "Счётное слово для головных уборов: 一顶帽子 (одна шляпа).",
+          "Переносно: «противостоять, выдерживать» — 顶住压力.",
+          "В разговоре: 顶 = «очень, крайне» — 顶好, 顶多."
+        ],
+        "en": [
+          "Physical: carry on the head or support from above (头顶着书).",
+          "Measure word for hats: 一顶帽子 (one hat).",
+          "Figurative: 'to withstand, hold up' — 顶住压力.",
+          "Colloquially 顶 = 'very, at most' — 顶好, 顶多."
+        ],
+        "uz": [
+          "Jismoniy: boshda ko'tarish yoki yuqoridan tirgak qilish.",
+          "Bosh kiyimi uchun miqdor so'zi: 一顶帽子.",
+          "Ko'chma ma'no: 'bardosh bermoq' — 顶住压力.",
+          "So'zlashuvda 顶 = 'juda, ko'pi bilan' — 顶好, 顶多."
+        ],
+        "tg": [
+          "Ҷисмонӣ: бар сар бардоштан ё такя кардан.",
+          "Миқдор барои кулоҳ: 一顶帽子.",
+          "Маҷозӣ: «тоб овардан» — 顶住压力."
+        ],
+        "tk": [
+          "Fiziki: başda götermek ýa-da diremek.",
+          "Telpek üçin san sözi: 一顶帽子.",
+          "Göçme manyda: 'döz gelmek' — 顶住压力."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他买了一帽子。",
+          "right": "他买了一顶帽子。",
+          "why": {
+            "ru": "Для головных уборов обязательно счётное слово 顶 (только для шляп, кепок и т.п.).",
+            "en": "Hats/headwear require the MW 顶 (only for hats, caps, etc.).",
+            "uz": "Bosh kiyimlar uchun 顶 miqdor so'zi shart."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "拿 / 举 / 撑",
+          "difference": {
+            "ru": "顶 — нести/подпирать сверху (головой). 拿 — держать в руках (общее). 举 — поднимать вверх (руками). 撑 — подпирать (палкой, руками — снизу).",
+            "en": "顶 = carry/prop on top (with head). 拿 = hold in hand (general). 举 = raise up (with hands). 撑 = prop from below (with stick/hand).",
+            "uz": "顶 — boshda ko'tarish. 拿 — qo'lda ushlash. 举 — yuqoriga ko'tarish (qo'l bilan). 撑 — pastdan tirgak qilish."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "她___着一把伞走在雨中。",
+          "answer": "顶"
+        },
+        {
+          "type": "fill_blank",
+          "question": "我买了一___新帽子。",
+          "answer": "顶"
+        },
+        {
+          "type": "translate",
+          "question": "Он несёт коробку на голове.",
+          "answer": "他头顶着一个箱子。"
         }
       ]
     },
@@ -647,6 +797,90 @@
           "tk": "Ol iti görüp, gaty gorkdy.",
           "en": "Seeing that dog, she got terribly scared."
         }
+      ],
+      "formula": {
+        "ru": "① прилаг./глагол + 得 + 不行  (крайняя степень)  ② ……得不行 — «ужасно, до невозможности»",
+        "en": "① adj/verb + 得 + 不行  (extreme degree)  ② ... 得不行 — 'terribly, unbearably'",
+        "uz": "① sifat/fe'l + 得 + 不行  (o'ta daraja)  ② ... 得不行 — 'juda, chidab bo'lmas'",
+        "tg": "① сифат/феъл + 得 + 不行  ② ... 得不行 — «хеле, то ҳадди имкон»",
+        "tk": "① sypat/işlik + 得 + 不行  ② ... 得不行 — 'örän, çydap bolmajak'"
+      },
+      "when_to_use": {
+        "ru": [
+          "Конструкция для крайней степени признака: «очень-очень», «ужасно».",
+          "Обычно с прилагательными состояния/эмоции: 累得不行, 饿得不行, 高兴得不行.",
+          "В разговорной речи; звучит эмоционально и живо.",
+          "Синонимично 极了 / 死了, но 不行 звучит неформальнее."
+        ],
+        "en": [
+          "Construction for extreme degree: 'terribly', 'unbearably'.",
+          "Usually with state/emotion adjectives: 累得不行, 饿得不行, 高兴得不行.",
+          "Colloquial; sounds emotional and lively.",
+          "Synonymous with 极了 / 死了, but 不行 sounds more casual."
+        ],
+        "uz": [
+          "O'ta daraja uchun konstruksiya: 'juda-juda', 'chidab bo'lmas'.",
+          "Odatda holat/his sifatlari bilan: 累得不行, 饿得不行, 高兴得不行.",
+          "So'zlashuv; emotsional va jonli.",
+          "极了 / 死了 bilan sinonim, lekin 不行 norasmiyroq."
+        ],
+        "tg": [
+          "Конструксия барои дараҷаи ниҳоӣ: «хеле, то ҳадди имкон».",
+          "Одатан бо сифатҳои ҳолат/эҳсос.",
+          "Дар гуфтугӯ; эмотсионалӣ."
+        ],
+        "tk": [
+          "Aşa daraja üçin gurluş: 'örän, çydap bolmajak'.",
+          "Adatça ýagdaý/duýgy sypatlary bilen.",
+          "Gepleşikde; emosional."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我累得不行了。",
+          "right": "我累得不行。 / 我累得不行了。 (оба ок, но 了 не обязательно)",
+          "why": {
+            "ru": "Здесь 了 не обязательно, но допустимо. Главное — не терять 得: нельзя сказать *我累不行.",
+            "en": "了 is optional here. Key: don't drop 得 — *我累不行 is wrong.",
+            "uz": "了 ixtiyoriy. Asosiysi — 得 ni tushirmaslik: *我累不行 noto'g'ri."
+          }
+        },
+        {
+          "wrong": "天气热得不行吗？",
+          "right": "天气热得不行。",
+          "why": {
+            "ru": "Эта конструкция — утверждение, не вопрос. Для вопроса «очень жарко?» — 天气热吗？热不热？",
+            "en": "This construction is a statement, not a question. For 'is it very hot?' use 热吗？热不热？",
+            "uz": "Bu konstruksiya tasdiq, savol emas. Savol uchun 热吗？热不热？"
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "极了 / 死了 / 不得了",
+          "difference": {
+            "ru": "……极了 — «крайне» (нейтрально-книжное): 好极了. ……死了 — разговорное, часто негатив: 累死了. ……得不行 — разговорное, любая окраска: 累得不行, 高兴得不行.",
+            "en": "……极了 = 'extremely' (neutral/literary): 好极了. ……死了 = colloquial, often negative: 累死了. ……得不行 = colloquial, any colour.",
+            "uz": "……极了 — 'nihoyatda' (neytral): 好极了. ……死了 — so'zlashuv, ko'pincha salbiy: 累死了. ……得不行 — so'zlashuv, har qanday: 累得不行."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "我一天没吃饭，饿___。",
+          "answer": "得不行"
+        },
+        {
+          "type": "fill_blank",
+          "question": "听说儿子考上大学，她高兴___。",
+          "answer": "得不行"
+        },
+        {
+          "type": "translate",
+          "question": "После работы я ужасно устал.",
+          "answer": "下班后我累得不行。"
+        }
       ]
     },
     {
@@ -717,6 +951,81 @@
           "ru": "Он не потерпел неудачу, а, наоборот, добился успеха.",
           "tk": "Ol şowsuzlyga duçar bolmady, tersine, üstünlik gazandy.",
           "en": "He didn't fail — on the contrary, he succeeded."
+        }
+      ],
+      "formula": {
+        "ru": "① A + (不但不/没) + 反而 + B  (вместо A — B)  ② ……不但……，反而……  (не только... наоборот...)",
+        "en": "① A + (不但不/没) + 反而 + B  ② ... 不但 ..., 反而 ...",
+        "uz": "① A + (不但不/没) + 反而 + B  ② ... 不但 ..., 反而 ...",
+        "tg": "① A + (不但不/没) + 反而 + B  ② ... 不但 ..., 反而 ...",
+        "tk": "① A + (不但不/没) + 反而 + B  ② ... 不但 ..., 反而 ..."
+      },
+      "when_to_use": {
+        "ru": [
+          "«Наоборот, вопреки ожиданию» — результат противоположен тому, что ожидалось.",
+          "Часто после 不但不 / 不但没: не сделал X, а наоборот — Y.",
+          "Ставится после подлежащего, перед глагольным сказуемым второй части.",
+          "Книжное/нейтральное; в разговоре также 反倒是, 却."
+        ],
+        "en": [
+          "'On the contrary, contrary to expectation' — result is opposite to what was expected.",
+          "Often after 不但不 / 不但没: didn't do X, on the contrary Y.",
+          "Goes after subject, before the second clause's verb.",
+          "Formal/neutral; in speech also 反倒是, 却."
+        ],
+        "uz": [
+          "'Aksincha, kutilgandan farqli' — natija kutilganga zid.",
+          "Ko'pincha 不但不 / 不但没 dan keyin.",
+          "Ega keyin, ikkinchi qism fe'lidan oldin.",
+          "Rasmiy/neytral; so'zlashuvda 反倒是, 却."
+        ],
+        "tg": [
+          "«Баръакс, хилофи интизорӣ» — натиҷа мухолифи интизорӣ.",
+          "Аксар баъд аз 不但不 / 不但没.",
+          "Баъд аз мубтадо, пеш аз феъли қисми дуюм."
+        ],
+        "tk": [
+          "'Tersine, garaşylyşa ters' — netije garaşylana ters.",
+          "Köplenç 不但不 / 不但没 soň.",
+          "Eýeden soň, ikinji bölegiň işliginden öň."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他病了，反而去了学校。",
+          "right": "他病了，反而还去了学校。 / 他不但没休息，反而去了学校。",
+          "why": {
+            "ru": "反而 требует противопоставления ожиданию. Просто «он заболел и наоборот пошёл в школу» логически пусто — нужен контраст (хотя должен был остаться дома).",
+            "en": "反而 requires contrast with expectation. 'He got sick and went to school' alone is logically empty — need contrast (should have stayed home).",
+            "uz": "反而 kutilganga qarama-qarshilik talab qiladi. Faqat 'u kasal bo'lib maktabga ketdi' mantiqan bo'sh — kontrast kerak."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "却 / 反倒 / 相反",
+          "difference": {
+            "ru": "反而 — «наоборот, вопреки ожиданию» (акцент на контрасте с ожиданием). 却 — «однако» (общий контраст, книжное). 反倒 — разговорное, то же что 反而. 相反 — «напротив» (сильнее, часто в начале предложения).",
+            "en": "反而 = 'on the contrary' (contrast with expectation). 却 = 'however' (general contrast, literary). 反倒 = colloquial, same as 反而. 相反 = 'on the contrary' (stronger, often sentence-initial).",
+            "uz": "反而 — 'aksincha'. 却 — 'biroq'. 反倒 — so'zlashuv, 反而 bilan bir xil. 相反 — 'aksincha' (kuchliroq)."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "吃了药以后，他的病___更严重了。",
+          "answer": "反而"
+        },
+        {
+          "type": "fill_blank",
+          "question": "他不但没生气，___笑了起来。",
+          "answer": "反而"
+        },
+        {
+          "type": "translate",
+          "question": "Я попросил его помочь, а он, наоборот, ушёл.",
+          "answer": "我请他帮忙，他反而走了。"
         }
       ]
     }

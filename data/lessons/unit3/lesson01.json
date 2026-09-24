@@ -555,6 +555,81 @@
           "tk": "Biderek näme alada edýärsiň, hemme zat taýýar.",
           "en": "Why worry unnecessarily — everything's arranged."
         }
+      ],
+      "formula": {
+        "ru": "① 瞎 + 动词  (делать что-то зря, наугад)  ② 瞎 + 说/猜/忙/写  (говорить/угадывать наугад)  ③ 瞎 (слепой, разг.)",
+        "en": "① 瞎 + verb (do sth blindly/randomly)  ② 瞎 + 说/猜/忙/写  ③ 瞎 (blind, colloq.)",
+        "uz": "① 瞎 + fe'l (ko'r-ko'rona)  ② 瞎 + 说/猜/忙/写  ③ 瞎 (ko'r, so'zl.)",
+        "tg": "① 瞎 + феъл  ② 瞎 + 说/猜/忙/写  ③ 瞎 (кӯр)",
+        "tk": "① 瞎 + işlik  ② 瞎 + 说/猜/忙/写  ③ 瞎 (ker, gepleşik)"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Зря, наугад, без толку»: 你别瞎说 (не говори ерунды).",
+          "Наречие перед глаголом; чаще всего с 说/猜/忙/写.",
+          "В разговоре также буквально «слепой» (瞎眼).",
+          "Эмоционально-негативный оттенок: 瞎忙 = «крутиться без толку»."
+        ],
+        "en": [
+          "'Blindly, at random, without reason': 你别瞎说.",
+          "Adverb before verb; mostly with 说/猜/忙/写.",
+          "Colloquially 'blind' literal (瞎眼).",
+          "Slightly negative: 瞎忙 = 'busy with nothing'."
+        ],
+        "uz": [
+          "'Ko'r-ko'rona, behuda': 你别瞎说.",
+          "Ravish, fe'ldan oldin; ko'pincha 说/猜/忙/写.",
+          "So'zlashuvda 'ko'r' (瞎眼).",
+          "Salbiy ma'no: 瞎忙 = 'behuda ovora'."
+        ],
+        "tg": [
+          "«Кӯрона, беҳуда»: 你别瞎说.",
+          "Зарф, пеш аз феъл.",
+          "Дар гуфтугӯ «кӯр»."
+        ],
+        "tk": [
+          "'Körlerçe, biderek': 你别瞎说.",
+          "Rawiş, işlikden öň.",
+          "Gepleşikde 'ker'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他瞎地说了。",
+          "right": "他瞎说了。",
+          "why": {
+            "ru": "瞎 — наречие и присоединяется к глаголу напрямую, без 地. Не путать с прилагательными, требующими 地.",
+            "en": "瞎 is an adverb and attaches to the verb directly, no 地.",
+            "uz": "瞎 — ravish, fe'lga to'g'ridan-to'g'ri qo'shiladi, 地 siz."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "乱 / 胡乱 / 随便",
+          "difference": {
+            "ru": "瞎 — «зря, не подумав, вслепую» (с упрёком). 乱 — «беспорядочно, как попало». 胡乱 — «как попало, наспех» (книжное). 随便 — «как угодно, без стеснения» (нейтральное, без осуждения).",
+            "en": "瞎 = 'blindly, without thinking' (reproachful). 乱 = 'messily, at random'. 胡乱 = 'carelessly' (literary). 随便 = 'as you like' (neutral).",
+            "uz": "瞎 — 'ko'r-ko'rona' (ta'na). 乱 — 'tartibsiz'. 胡乱 — 'pala-partish' (kitobiy). 随便 — 'xohlagancha' (neytral)."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "你不知道就别___说。",
+          "answer": "瞎"
+        },
+        {
+          "type": "fill_blank",
+          "question": "他每天都___忙，却什么也没做成。",
+          "answer": "瞎"
+        },
+        {
+          "type": "translate",
+          "question": "Не угадывай вслепую, подумай хорошенько.",
+          "answer": "别瞎猜，好好想想。"
+        }
       ]
     },
     {
@@ -625,6 +700,71 @@
           "ru": "Эти три цвета обозначают красный, жёлтый, синий соответственно.",
           "tk": "Bu üç reňk gyzyl, sary we gögi aňladýar.",
           "en": "These three colors represent red, yellow, and blue respectively."
+        }
+      ],
+      "formula": {
+        "ru": "① 分别 + 动词 (делать по отдельности) ② 分别 + 是/在/属于",
+        "en": "① 分别 + verb ② 分别 + 是/在/属于",
+        "uz": "① 分别 + fe'l ② 分别 + 是/在/属于",
+        "tg": "① 分别 + феъл",
+        "tk": "① 分别 + işlik"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Отдельно, по отдельности» (о группе).",
+          "Перед глаголом: 我们分别去了不同的地方.",
+          "Также как глагол 分别 = «различать»."
+        ],
+        "en": [
+          "'Separately, respectively'.",
+          "Before verb.",
+          "Also as verb 'to distinguish'."
+        ],
+        "uz": [
+          "'Alohida-alohida'.",
+          "Fe'ldan oldin.",
+          "'Farqlamoq' ma'nosida ham."
+        ],
+        "tg": [
+          "«Алоҳида-алоҳида».",
+          "Пеш аз феъл."
+        ],
+        "tk": [
+          "'Aýry-aýry'.",
+          "Işlikden öň."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他分别走了。",
+          "right": "他们分别走了。",
+          "why": {
+            "ru": "Требует мн.ч.",
+            "en": "Needs plural.",
+            "uz": "Ko'plik kerak."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "各自 / 分别 / 一个个",
+          "difference": {
+            "ru": "各自 — «каждый по-своему». 分别 — «по отдельности, соответственно». 一个个 — «по одному».",
+            "en": "各自 = each in own way. 分别 = separately. 一个个 = one by one.",
+            "uz": "各自 — har kim o'zicha. 分别 — alohida. 一个个 — bittalab."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他们___来自不同的国家。",
+          "answer": "分别"
+        },
+        {
+          "type": "translate",
+          "question": "Мы пошли каждый своей дорогой.",
+          "answer": "我们分别走了不同的路。"
         }
       ]
     },
@@ -697,6 +837,71 @@
           "tk": "Çaga bir oýunjak taýajyk satyn al.",
           "en": "Buy the baby a toy stick."
         }
+      ],
+      "formula": {
+        "ru": "① 一 + 根 + сущ. (для длинных предметов)  ② 根 + сущ. (корень)",
+        "en": "① 一 + 根 + noun (long objects)  ② 根 + noun (root)",
+        "uz": "① 一 + 根 + ot (uzun narsalar)",
+        "tg": "① 一 + 根 + исм",
+        "tk": "① 一 + 根 + at"
+      },
+      "when_to_use": {
+        "ru": [
+          "Счётное слово для длинных тонких предметов: 一根筷子, 一根线.",
+          "Как существительное: 树根 — корень.",
+          "В идиомах: 根本 — «в корне, вовсе»."
+        ],
+        "en": [
+          "MW for long thin objects: 一根筷子.",
+          "As noun: root.",
+          "In 根本 — 'at all, fundamentally'."
+        ],
+        "uz": [
+          "Uzun ingichka narsalar uchun: 一根筷子.",
+          "Ot sifatida: ildiz.",
+          "根本 — 'aslo, umuman'."
+        ],
+        "tg": [
+          "Барои ашёи дароз: 一根筷子.",
+          "Ҳамчун исм: реша."
+        ],
+        "tk": [
+          "Uzyn inçe zatlar üçin: 一根筷子.",
+          "At hökmünde: kök."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "一根本子。",
+          "right": "一根木棒。",
+          "why": {
+            "ru": "根 — для длинного. 书 — не подходит.",
+            "en": "根 for long objects only.",
+            "uz": "根 faqat uzun narsalar uchun."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "条 / 支 / 枝",
+          "difference": {
+            "ru": "根 — корни, нити, палки, волосы. 条 — длинное гибкое (река, веревка). 支 — карандаш, ручка. 枝 — ветка, цветок.",
+            "en": "根 = roots, strings, sticks. 条 = flexible (rope, river). 支 = pencil, pen. 枝 = branch.",
+            "uz": "根 — ildiz, ip, tayoq. 条 — egiluvchan. 支 — qalam. 枝 — shox."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他手里拿着一___绳子。",
+          "answer": "根"
+        },
+        {
+          "type": "translate",
+          "question": "Один корень дерева.",
+          "answer": "一根树根。"
+        }
       ]
     },
     {
@@ -767,6 +972,70 @@
           "ru": "Как только он добрался домой, сразу мне позвонил.",
           "tk": "Öýe ýeten badyna maňa jaň etdi.",
           "en": "As soon as he got home, he called me."
+        }
+      ],
+      "formula": {
+        "ru": "主语 + 便 + 动词  (= 就, книжное)",
+        "en": "Subject + 便 + verb (= 就, literary)",
+        "uz": "Ega + 便 + fe'l (= 就, kitobiy)",
+        "tg": "Мубтадо + 便 + феъл",
+        "tk": "Eýe + 便 + işlik"
+      },
+      "when_to_use": {
+        "ru": [
+          "Книжный вариант 就: «тотчас, тогда, и».",
+          "После условия: 你一说，他便明白了.",
+          "В повествовании: 从此他便再没回来."
+        ],
+        "en": [
+          "Literary variant of 就.",
+          "After condition: 你一说，他便明白了.",
+          "In narratives: 从此他便再没回来."
+        ],
+        "uz": [
+          "就 ning kitobiy varianti.",
+          "Shartdan keyin.",
+          "Hikoyada."
+        ],
+        "tg": [
+          "Варианти китобии 就.",
+          "Баъд аз шарт."
+        ],
+        "tk": [
+          "就-nyň kitaby variantly."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我便你走。",
+          "right": "我便走了。",
+          "why": {
+            "ru": "便 ставится после подлежащего, не перед.",
+            "en": "便 goes after subject.",
+            "uz": "便 ega keyin keladi."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "就 / 才",
+          "difference": {
+            "ru": "便 = 就 (книжное). 才 — «только тогда», с акцентом на задержку.",
+            "en": "便 = 就 (literary). 才 = only then.",
+            "uz": "便 = 就 (kitobiy). 才 — 'faqat shundan keyin'."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "听了这话，他___笑了。",
+          "answer": "便"
+        },
+        {
+          "type": "translate",
+          "question": "Услышав это, он сразу ушёл.",
+          "answer": "听到这话，他便走了。"
         }
       ]
     }

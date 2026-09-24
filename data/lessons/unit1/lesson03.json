@@ -626,6 +626,89 @@
           "uz": "Musobaqadan keyin sportchilar o'z mamlakatlariga qaytishdi.",
           "tg": "Баъди мусобиқа варзишгарон ба кишварҳои худ баргаштанд."
         }
+      ],
+      "formula": {
+        "ru": "主语 (мн.ч.) + 各自 + 动词  /  各自 + 的 + сущ.",
+        "en": "Plural subject + 各自 + verb / 各自 + 的 + noun",
+        "uz": "Ko'plik ega + 各自 + fe'l / 各自 + 的 + ot",
+        "tg": "Мубтадои ҷамъ + 各自 + феъл",
+        "tk": "Köpük eýe + 各自 + işlik"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Каждый по-своему, каждый свой» — подчёркивает раздельность действий у членов группы.",
+          "Перед глаголом: 大家各自回家了.",
+          "Перед существительным с 的: 各自的想法.",
+          "Книжное, формальное. В разговоре чаще 各 + 自己或 每个人."
+        ],
+        "en": [
+          "'Each in their own way / each his own' — emphasises separate action of group members.",
+          "Before verb: 大家各自回家了.",
+          "Before noun with 的: 各自的想法.",
+          "Literary/formal. In speech: 各 + 自己 or 每个人."
+        ],
+        "uz": [
+          "'Har kim o'zicha / har birining o'z' — guruh a'zolarining alohida harakatini ta'kidlaydi.",
+          "Fe'ldan oldin: 大家各自回家了.",
+          "Ot oldidan 的 bilan: 各自的想法.",
+          "Kitobiy, rasmiy. So'zlashuvda: 各 + 自己 yoki 每个人."
+        ],
+        "tg": [
+          "«Ҳар кас ба тарзи худ» — амали алоҳидаи аъзоёни гурӯҳро таъкид мекунад.",
+          "Пеш аз феъл: 大家各自回家了.",
+          "Пеш аз исм бо 的: 各自的想法."
+        ],
+        "tk": [
+          "'Her kim özçe' — topar agzalarynyň aýratyn hereketini nygtaýar.",
+          "Işlikden öň: 大家各自回家了."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他各自去了图书馆。",
+          "right": "他们各自去了图书馆。 / 他一个人去了图书馆。",
+          "why": {
+            "ru": "各自 требует множественного подлежащего (2+ человек). С единственным числом не сочетается.",
+            "en": "各自 requires a plural subject (2+ people). Doesn't work with singular.",
+            "uz": "各自 ko'plik ega talab qiladi (2+ kishi). Birlik bilan ishlamaydi."
+          }
+        },
+        {
+          "wrong": "我们各自一起去了。",
+          "right": "我们各自去了。 / 我们一起去了。",
+          "why": {
+            "ru": "各自 (по отдельности) и 一起 (вместе) противоречат друг другу — нельзя в одном предложении.",
+            "en": "各自 (separately) and 一起 (together) contradict each other — don't use in one sentence.",
+            "uz": "各自 (alohida) va 一起 (birga) qarama-qarshi — bir gapda bo'lmaydi."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "各 / 每个人 / 自己",
+          "difference": {
+            "ru": "各 — с существительным (各人, 各国). 每个人 — «каждый человек» (обычно с 都). 各自 — «каждый по-своему, раздельно» (наречие). 自己 — «сам, себя».",
+            "en": "各 goes with a noun (各人, 各国). 每个人 = 'every person' (often with 都). 各自 = 'each separately' (adverb). 自己 = 'oneself'.",
+            "uz": "各 ot bilan (各人, 各国). 每个人 — 'har bir kishi'. 各自 — 'har biri alohida' (ravish). 自己 — 'o'zi'."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "毕业后，同学们___去了不同的城市。",
+          "answer": "各自"
+        },
+        {
+          "type": "fill_blank",
+          "question": "每个人都有自己的___困难。",
+          "answer": "各自"
+        },
+        {
+          "type": "translate",
+          "question": "После собрания все разошлись по своим делам.",
+          "answer": "会议后，大家各自忙自己的事了。"
+        }
       ]
     },
     {
@@ -718,6 +801,81 @@
           "en": "Danger zone, do not approach.",
           "uz": "Xavfli hudud, yaqinlashmang.",
           "tg": "Минтақаи хатарнок, наздик нашавед."
+        }
+      ],
+      "formula": {
+        "ru": "勿 + 动词  (в императиве, часто с 请/切/切勿)",
+        "en": "勿 + verb (imperative, often 请勿 / 切勿)",
+        "uz": "勿 + fe'l (buyruq, ko'pincha 请勿 / 切勿)",
+        "tg": "勿 + феъл (амр, аксар 请勿 / 切勿)",
+        "tk": "勿 + işlik (buýruk, köplenç 请勿 / 切勿)"
+      },
+      "when_to_use": {
+        "ru": [
+          "Книжное «не (делай)» — запрет/просьба, как в объявлениях и инструкциях.",
+          "Часто в устойчивых сочетаниях: 请勿吸烟, 切勿触摸, 勿忘我.",
+          "Только в письменной/официальной речи. В разговоре — 别 / 不要.",
+          "Может стоять после 请 для вежливого запрета: 请勿打扰."
+        ],
+        "en": [
+          "Literary 'do not' — prohibition/request, as in signs and instructions.",
+          "Common compounds: 请勿吸烟, 切勿触摸, 勿忘我.",
+          "Written/official only. In speech: 别 / 不要.",
+          "Can follow 请 for polite prohibition: 请勿打扰."
+        ],
+        "uz": [
+          "Kitobiy 'qilmang' — taqiq/iltimos, e'lon va ko'rsatmalarda.",
+          "Barqaror birikmalarda: 请勿吸烟, 切勿触摸, 勿忘我.",
+          "Faqat yozma/rasmiy. So'zlashuvda: 别 / 不要.",
+          "请 dan keyin xushmuomala taqiq: 请勿打扰."
+        ],
+        "tg": [
+          "Китобӣ «накун» — манъ/хоҳиш, дар эълонҳо.",
+          "Дар ибораҳои устувор: 请勿吸烟, 切勿触摸.",
+          "Танҳо хаттӣ/расмӣ. Дар гуфтугӯ: 别 / 不要."
+        ],
+        "tk": [
+          "Kitaby 'etme' — gadaganlyk/haýyş, yglanlarda.",
+          "Durnukly jümlelerde: 请勿吸烟, 切勿触摸.",
+          "Diňe ýazma/resmi. Gepleşikde: 别 / 不要."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "勿吃饭！",
+          "right": "别吃饭！ / 不要吃饭！",
+          "why": {
+            "ru": "勿 не используется в бытовой речи. Его место — таблички, инструкции, поэтический стиль. «Не ешь!» в быту = 别吃!",
+            "en": "勿 is not used in everyday speech. It lives on signs, in instructions, in poetic style. Everyday 'don't eat!' = 别吃!",
+            "uz": "勿 kundalik nutqda ishlatilmaydi. Uning joyi — e'lonlar, ko'rsatmalar, she'riy uslub. 'Yemang!' = 别吃!"
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "别 / 不要 / 勿",
+          "difference": {
+            "ru": "别 — разговорное «не (делай)». 不要 — нейтральное. 勿 — книжное, официальное. По смыслу одинаковы.",
+            "en": "别 — colloquial 'don't'. 不要 — neutral. 勿 — literary/official. Same meaning.",
+            "uz": "别 — so'zlashuv 'qilma'. 不要 — neytral. 勿 — kitobiy/rasmiy. Ma'no bir xil."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "公车上写着：请___吸烟。",
+          "answer": "勿"
+        },
+        {
+          "type": "fill_blank",
+          "question": "博物馆的牌子上写着：___触摸展品。",
+          "answer": "勿"
+        },
+        {
+          "type": "translate",
+          "question": "Пожалуйста, не беспокойте (табличка на двери).",
+          "answer": "请勿打扰。"
         }
       ]
     },
@@ -812,6 +970,90 @@
           "uz": "Mevalar olma, banan va apelsinni o'z ichiga oladi.",
           "tg": "Меваҳо себ, банан ва афлесунро дар бар мегиранд."
         }
+      ],
+      "formula": {
+        "ru": "① A + 包括 + B  (A включает B)  ② A、B、C…, 包括 D  ③ 包括 + кого/что + 在内",
+        "en": "① A + 包括 + B  ② A, B, C..., 包括 D  ③ 包括 + N + 在内",
+        "uz": "① A + 包括 + B  ② A, B, C..., 包括 D  ③ 包括 + N + 在内",
+        "tg": "① A + 包括 + B  ② A, B, C..., 包括 D  ③ 包括 + N + 在内",
+        "tk": "① A + 包括 + B  ② A, B, C..., 包括 D  ③ 包括 + N + 在内"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Включать, охватывать, в том числе» — когда A содержит B как часть.",
+          "После перечисления добавляем уточнение через 包括: A、B、C, 包括 D.",
+          "С 在内 — «включительно»: 一共十个人，包括我在内.",
+          "Также в значении «в том числе» без 在内."
+        ],
+        "en": [
+          "'To include, to cover, including' — A contains B as a part.",
+          "After a list, add clarification with 包括: A, B, C, 包括 D.",
+          "With 在内 — 'inclusive': 一共十个人，包括我在内.",
+          "Also simply 'including' without 在内."
+        ],
+        "uz": [
+          "'O'z ichiga olmoq' — A ning tarkibida B bor.",
+          "Ro'yxatdan keyin 包括 bilan aniqlik: A, B, C, 包括 D.",
+          "在内 bilan — 'shu jumladan': 一共十个人，包括我在内.",
+          "在内 siz ham 'shu jumladan' ma'nosida."
+        ],
+        "tg": [
+          "«Дар бар гирифтан» — A дорои B аст.",
+          "Баъд аз рӯйхат бо 包括: A, B, C, 包括 D.",
+          "Бо 在内 — «дар ҳудуди»: 一共十个人，包括我在内."
+        ],
+        "tk": [
+          "'Öz içine almak' — A-da B bar.",
+          "Sanawdan soň 包括 bilen: A, B, C, 包括 D.",
+          "在内 bilen — 'şol sanda': 一共十个人，包括我在内."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我们班有20个学生，包括。",
+          "right": "我们班有20个学生，包括5个留学生。",
+          "why": {
+            "ru": "包括 требует объект после себя (что именно включается). Без объекта фраза неполная.",
+            "en": "包括 needs an object (what exactly is included). Without it the sentence is incomplete.",
+            "uz": "包括 o'zidan keyin obyekt talab qiladi. Obyektsiz gap tugallanmagan."
+          }
+        },
+        {
+          "wrong": "包括我，一共有十个人在内。",
+          "right": "包括我在内，一共有十个人。",
+          "why": {
+            "ru": "在内 ставится СРАЗУ после объекта 包括, а не в конце предложения.",
+            "en": "在内 goes RIGHT AFTER the object of 包括, not at the end of the sentence.",
+            "uz": "在内 包括 ning obyektidan KEYIN darhol keladi, gap oxirida emas."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "包含 / 含有",
+          "difference": {
+            "ru": "包括 — «включать в себя (перечень, группу)». 包含 — «содержать» (абстрактно, о смысле, содержании). 含有 — «содержать вещество/элемент» (химия, состав).",
+            "en": "包括 = 'include (list, group)'. 包含 = 'contain' (abstract: meaning, content). 含有 = 'contain (substance)' (chemistry, composition).",
+            "uz": "包括 — 'ro'yxatni o'z ichiga olmoq'. 包含 — 'mazmunan o'z ichiga olmoq'. 含有 — 'modda/tarkibda bo'lmoq'."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "我们班有20个人，___5个外国人。",
+          "answer": "包括"
+        },
+        {
+          "type": "fill_blank",
+          "question": "一共十个人，___我在内。",
+          "answer": "包括"
+        },
+        {
+          "type": "translate",
+          "question": "Цена включает завтрак.",
+          "answer": "价格包括早餐。"
+        }
       ]
     },
     {
@@ -904,6 +1146,80 @@
           "en": "The doctor constantly monitors the patient's condition.",
           "uz": "Shifokor doimiy ravishda bemorning ahvolini kuzatib turadi.",
           "tg": "Духтур доимо ҳолати беморро назорат мекунад."
+        }
+      ],
+      "formula": {
+        "ru": "① 时刻 + 动词 (в любой момент, всегда)  ② 关键/重要 + 的 + 时刻 (момент)",
+        "en": "① 时刻 + verb (at any moment, always)  ② 关键/重要 + 的 + 时刻 (moment)",
+        "uz": "① 时刻 + fe'l (har qanday paytda)  ② 关键/重要 + 的 + 时刻 (payt)",
+        "tg": "① 时刻 + феъл  ② 关键/重要 + 的 + 时刻",
+        "tk": "① 时刻 + işlik  ② 关键/重要 + 的 + 时刻"
+      },
+      "when_to_use": {
+        "ru": [
+          "Как наречие: «ежеминутно, в любую минуту, постоянно» — 时刻准备着.",
+          "Как существительное: «момент, миг» — 难忘的时刻.",
+          "Обычно с 都/在 для усиления: 时刻都在想着你.",
+          "Книжное/формальное; в разговоре чаще 随时 / 每时每刻."
+        ],
+        "en": [
+          "As adverb: 'at every moment, always' — 时刻准备着.",
+          "As noun: 'moment' — 难忘的时刻.",
+          "Often with 都/在 for emphasis: 时刻都在想着你.",
+          "Literary/formal; in speech: 随时 / 每时每刻."
+        ],
+        "uz": [
+          "Ravish sifatida: 'har daqiqada, doimo' — 时刻准备着.",
+          "Ot sifatida: 'payt, lahza' — 难忘的时刻.",
+          "Ko'pincha 都/在 bilan: 时刻都在想着你.",
+          "Kitobiy/rasmiy; so'zlashuvda: 随时 / 每时每刻."
+        ],
+        "tg": [
+          "Ҳамчун зарф: «ҳар лаҳза, доим» — 时刻准备着.",
+          "Ҳамчун исм: «лаҳза» — 难忘的时刻.",
+          "Аксар бо 都/在: 时刻都在想着你."
+        ],
+        "tk": [
+          "Rawiş hökmünde: 'her pursatda, hemişe' — 时刻准备着.",
+          "At hökmünde: 'pursat' — 难忘的时刻."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我时刻等你。",
+          "right": "我时刻都在等你。 / 我随时等你。",
+          "why": {
+            "ru": "时刻 как наречие обычно требует 都 или 在 при глаголе. Само по себе звучит книжно и обрывочно.",
+            "en": "时刻 as an adverb usually needs 都 or 在 with the verb. Alone it sounds bookish and abrupt.",
+            "uz": "时刻 ravish sifatida odatda fe'l bilan 都 yoki 在 talab qiladi. Yolg'iz kitobiy va tugallanmagan eshitiladi."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "时间 / 时候 / 随时",
+          "difference": {
+            "ru": "时刻 — «момент, мгновение» (точка во времени, книжное). 时间 — «время» (длительность). 时候 — «время/момент» (нейтральное). 随时 — «в любое время» (наречие).",
+            "en": "时刻 = 'moment' (bookish). 时间 = 'time' (duration). 时候 = 'time/moment' (neutral). 随时 = 'anytime' (adverb).",
+            "uz": "时刻 — 'lahza' (kitobiy). 时间 — 'vaqt' (davomiylik). 时候 — 'payt' (neytral). 随时 — 'har qanday paytda' (ravish)."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "作为一名医生，他___准备着救人。",
+          "answer": "时刻"
+        },
+        {
+          "type": "fill_blank",
+          "question": "那是我一生中最幸福的___。",
+          "answer": "时刻"
+        },
+        {
+          "type": "translate",
+          "question": "Она всегда думает о своих детях.",
+          "answer": "她时刻都在想着自己的孩子。"
         }
       ]
     }

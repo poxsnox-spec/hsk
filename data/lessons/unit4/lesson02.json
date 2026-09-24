@@ -515,6 +515,68 @@
           "tk": "Ýetişip bilmeseň — kömekçi tut.",
           "en": "If you can't manage, hire a helper."
         }
+      ],
+      "formula": {
+        "ru": "① 动词 + 来 / 过来 (приближение к говорящему)  ② 动词 + 来/过来 + 了 (результат)",
+        "en": "① verb + 来 / 过来 (moving toward speaker)  ② verb + 来/过来 + 了",
+        "uz": "① fe'l + 来 / 过来",
+        "tg": "① феъл + 来 / 过来",
+        "tk": "① işlik + 来 / 过来"
+      },
+      "when_to_use": {
+        "ru": [
+          "Движение к говорящему: 他走过来了.",
+          "«Прийти в себя, очнуться»: 醒过来, 恢复过来.",
+          "С глаголами передачи: 送过来, 寄过来."
+        ],
+        "en": [
+          "Movement toward speaker.",
+          "'Come to, recover': 醒过来.",
+          "Transfer: 送过来."
+        ],
+        "uz": [
+          "So'zlovchiga qarab harakat.",
+          "'O'ziga kelmoq': 醒过来."
+        ],
+        "tg": [
+          "Ҳаракат ба сӯи гӯянда."
+        ],
+        "tk": [
+          "Sözleýän tarapa hereket."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他过来跑了。",
+          "right": "他跑过来了。",
+          "why": {
+            "ru": "Направление — суффикс после глагола движения.",
+            "en": "Direction is suffix after movement verb.",
+            "uz": "Yo'nalish harakat fe'lidan keyin."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "去 / 过去",
+          "difference": {
+            "ru": "来/过来 — к говорящему. 去/过去 — от говорящего.",
+            "en": "来/过来 toward. 去/过去 away.",
+            "uz": "来 — tomon. 去 — nariga."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他慢慢地走___了。",
+          "answer": "过来"
+        },
+        {
+          "type": "translate",
+          "question": "Он наконец пришёл в себя.",
+          "answer": "他终于醒过来了。"
+        }
       ]
     },
     {
@@ -585,6 +647,67 @@
           "ru": "В этой школе более трёх тысяч учеников.",
           "tk": "Bu mekdepde üç müňden gowrak okuwçy bar.",
           "en": "This school has over three thousand students."
+        }
+      ],
+      "formula": {
+        "ru": "所 + 动词 + 的 + сущ.  /  …… 所 …… 的",
+        "en": "所 + verb + 的 + noun",
+        "uz": "所 + fe'l + 的 + ot",
+        "tg": "所 + феъл + 的 + исм",
+        "tk": "所 + işlik + 的 + at"
+      },
+      "when_to_use": {
+        "ru": [
+          "Выделяет объект в придаточном определении: 我所知道的事.",
+          "Часто в письменной речи.",
+          "В конструкциях 为……所……, 有所……."
+        ],
+        "en": [
+          "Emphasizes object in relative clause: 我所知道的事.",
+          "Often written.",
+          "In 为…所…, 有所…."
+        ],
+        "uz": [
+          "Nisbiy gapda obyektni ta'kidlaydi."
+        ],
+        "tg": [
+          "Дар ҷумлаи муайянкунанда."
+        ],
+        "tk": [
+          "Aýyklawjy goşma sözlemde."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我所知道他。",
+          "right": "我所知道的事。",
+          "why": {
+            "ru": "所 требует 的 + существительное после.",
+            "en": "所 needs 的 + noun after.",
+            "uz": "所 keyin 的 + ot kerak."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "的 (обычное)",
+          "difference": {
+            "ru": "所…的 — книжный вариант 的-определения.",
+            "en": "所…的 is literary version of 的 relative.",
+            "uz": "所…的 — kitobiy nisbiy."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "这就___谓的“爱情”。",
+          "answer": "所"
+        },
+        {
+          "type": "translate",
+          "question": "То, что я видел, поразило меня.",
+          "answer": "我所看到的让我很吃惊。"
         }
       ]
     },
@@ -657,6 +780,68 @@
           "tk": "Onuň keseli birneme agyr — hassahanada ýatmaly.",
           "en": "He's quite seriously ill — needs hospitalization."
         }
+      ],
+      "formula": {
+        "ru": "① 相当 + прилаг.  (довольно, весьма)  ② 相当 + 于 = «соответствует»  ③ 相当 + сущ.",
+        "en": "① 相当 + adj (quite)  ② 相当于 = equivalent to  ③ 相当 + noun",
+        "uz": "① 相当 + sifat",
+        "tg": "① 相当 + сифат",
+        "tk": "① 相当 + sypat"
+      },
+      "when_to_use": {
+        "ru": [
+          "Наречие «довольно, весьма»: 相当不错.",
+          "Глагол «соответствовать»: 相当于.",
+          "Книжно-нейтральное."
+        ],
+        "en": [
+          "Adverb 'quite': 相当不错.",
+          "Verb 'be equivalent': 相当于.",
+          "Neutral/literary."
+        ],
+        "uz": [
+          "Ravish 'ancha': 相当不错.",
+          "'Teng bo'lmoq': 相当于."
+        ],
+        "tg": [
+          "«Хеле, бағоят»."
+        ],
+        "tk": [
+          "'Has, örän'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他相当很聪明。",
+          "right": "他相当聪明。",
+          "why": {
+            "ru": "相当 и 很 не удваиваются.",
+            "en": "Don't double 相当 + 很.",
+            "uz": "相当 va 很 birga emas."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "很 / 相当 / 挺",
+          "difference": {
+            "ru": "很 — очень (нейтральное). 相当 — «довольно» (сильнее). 挺 — разговорное «весьма».",
+            "en": "很 very. 相当 quite. 挺 colloquial quite.",
+            "uz": "很 — juda. 相当 — ancha. 挺 — so'zl."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "这个学生___努力。",
+          "answer": "相当"
+        },
+        {
+          "type": "translate",
+          "question": "Это довольно сложно.",
+          "answer": "这相当难。"
+        }
       ]
     },
     {
@@ -727,6 +912,68 @@
           "ru": "Посчитай, сколько всего.",
           "tk": "Sanap gör, jemi näçe.",
           "en": "Count them — how many in total?"
+        }
+      ],
+      "formula": {
+        "ru": "① 数 + сущ.  (несколько, ряд)  ② 数 + 次/个/年  ③ 数 (shǔ) — «считать»",
+        "en": "① 数 + noun (several)  ② 数 + MW  ③ 数 (shǔ) — 'to count'",
+        "uz": "① 数 + ot",
+        "tg": "① 数 + исм",
+        "tk": "① 数 + at"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Несколько, ряд»: 数年, 数次.",
+          "Как глагол shǔ — «считать»: 数钱.",
+          "Книжное."
+        ],
+        "en": [
+          "'Several': 数年.",
+          "As verb shǔ: 数钱.",
+          "Literary."
+        ],
+        "uz": [
+          "'Bir necha': 数年.",
+          "shǔ — sanamoq."
+        ],
+        "tg": [
+          "«Якчанд»."
+        ],
+        "tk": [
+          "'Birnäçe'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "数个人来了。",
+          "right": "几个人来了。 / 数十个人来了。",
+          "why": {
+            "ru": "数 перед сущ. обычно книжное, часто с 十/百/千: 数十.",
+            "en": "数 with noun is literary, often 数十 etc.",
+            "uz": "数 ot bilan kitobiy, ko'pincha 数十."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "几 / 数",
+          "difference": {
+            "ru": "几 — «несколько» (нейтральное). 数 — «ряд» (книжное).",
+            "en": "几 neutral. 数 literary.",
+            "uz": "几 — neytral. 数 — kitobiy."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "___百人参加了活动。",
+          "answer": "数"
+        },
+        {
+          "type": "translate",
+          "question": "Он умеет считать деньги.",
+          "answer": "他会数钱。"
         }
       ]
     }

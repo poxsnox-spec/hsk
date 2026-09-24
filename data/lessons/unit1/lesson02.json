@@ -607,6 +607,92 @@
           "uz": "Bu yerga kelganidan beri u maktab yonida yashaydi.",
           "tg": "Аз вақти омадан ба ин ҷо вай дар назди мактаб зиндагӣ мекунад."
         }
+      ],
+      "formula": {
+        "ru": "① 自从 + событие/время + 以来，……  ② 时间点 + 以来，…… (главное часто с 一直/都/已经)",
+        "en": "① 自从 + event/time + 以来, ...  ② Time point + 以来, ... (main clause often has 一直/都/已经)",
+        "uz": "① 自从 + voqea/vaqt + 以来, ...  ② Vaqt nuqtasi + 以来, ...",
+        "tg": "① 自从 + воқеа/вақт + 以来, ...  ② Нуқтаи вақт + 以来, ...",
+        "tk": "① 自从 + waka/wagt + 以来, ...  ② Wagt nokady + 以来, ..."
+      },
+      "when_to_use": {
+        "ru": [
+          "«С (какого-то момента) и до сих пор» — временной отрезок от прошлой точки до настоящего.",
+          "С глаголами/состояниями, которые продолжаются: 一直, 都, 已经, 就.",
+          "Точка отсчёта может быть событием (自从毕业以来) или датой/годом (2010年以来).",
+          "Не используется для будущего «с этого момента» — там 以后."
+        ],
+        "en": [
+          "'Since (a point in time) up to now' — a period from a past point to the present.",
+          "With continuing states: 一直, 都, 已经, 就.",
+          "Starting point can be an event (自从毕业以来) or a date (2010年以来).",
+          "Not used for future 'from now on' — that's 以后."
+        ],
+        "uz": [
+          "«(Bir nuqtadan) hozirgacha» — o'tmishdan hozirga davr.",
+          "Davom etayotgan holatlar bilan: 一直, 都, 已经, 就.",
+          "Boshlanish nuqtasi voqea yoki sana bo'lishi mumkin.",
+          "Kelajak uchun ishlatilmaydi — u yerda 以后."
+        ],
+        "tg": [
+          "«Аз (нуқтаи вақт) то ҳол» — давраи аз гузашта то ҳозир.",
+          "Бо ҳолатҳои давомдор: 一直, 都, 已经.",
+          "Нуқтаи оғоз метавонад воқеа ё сана бошад.",
+          "Барои оянда истифода намешавад — он ҷо 以后."
+        ],
+        "tk": [
+          "«(Bir nokatdan) häzire çenli» — geçmişden häzirgä çenli döwür.",
+          "Dowam edýän ýagdaýlar bilen: 一直, 都, 已经.",
+          "Başlangyç nokat waka ýa-da sene bolup biler.",
+          "Geljek üçin ulanylmaýar — ol ýerde 以后."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "以来我住在北京。",
+          "right": "我来北京以来，一直住在北京。 / 自从2010年以来，我一直住在北京。",
+          "why": {
+            "ru": "以来 не может стоять в начале предложения само по себе — ему нужна точка отсчёта до него (событие/дата).",
+            "en": "'以来' cannot start a sentence alone — it needs a starting point (event/date) before it.",
+            "uz": "'以来' gap boshida yolg'iz turolmaydi — oldin boshlanish nuqtasi kerak."
+          }
+        },
+        {
+          "wrong": "以后毕业以来，他一直在工作。",
+          "right": "毕业以来，他一直在工作。 / 毕业以后，他一直在工作。",
+          "why": {
+            "ru": "以后 и 以来 — разные слова: 以后 = «после», 以来 = «с тех пор (до сих пор)». Вместе не используются.",
+            "en": "'以后' and '以来' are different: 以后 = 'after', 以来 = 'since then (up to now)'. They don't combine.",
+            "uz": "'以后' va '以来' — har xil: 以后 = 'keyin', 以来 = 'shundan buyon'. Birga ishlatilmaydi."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "以后 / 后来",
+          "difference": {
+            "ru": "以来 — «с тех пор и до сих пор» (тянется в настоящее). 以后 — «после» (может быть в прошлом/будущем). 后来 — «потом, впоследствии» (для повествования).",
+            "en": "以来 = 'since then until now' (ongoing). 以后 = 'after' (past or future). 后来 = 'later on' (narrative).",
+            "uz": "以来 — 'shundan buyon' (hozirgacha). 以后 — 'keyin' (o'tmish/kelajak). 后来 — 'keyinchalik' (hikoya)."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "自从上了大学___，他就一直住在宿舍。",
+          "answer": "以来"
+        },
+        {
+          "type": "fill_blank",
+          "question": "毕业___，我再也没见过他。",
+          "answer": "以来"
+        },
+        {
+          "type": "translate",
+          "question": "С 2015 года он живёт в Шанхае.",
+          "answer": "2015年以来，他一直住在上海。"
+        }
       ]
     },
     {
@@ -700,6 +786,92 @@
           "uz": "Bahor bayrami yaqinlashganda do'konlar juda gavjum bo'ladi.",
           "tg": "Вақте Баҳор наздик мешавад, мағозаҳо бисёр серодам мешаванд."
         }
+      ],
+      "formula": {
+        "ru": "① 临 + место (подъехать/прибыть к)  ② 临 + сущ. времени + 时/前 (перед чем-то)  ③ 临- в сложных словах: 临时, 临走, 临别",
+        "en": "① 临 + place (arrive at)  ② 临 + time noun + 时/前 (just before)  ③ 临- in compounds: 临时, 临走, 临别",
+        "uz": "① 临 + joy (yetib bormoq)  ② 临 + vaqt oti + 时/前 (oldidan)  ③ 临- qo'shma so'zlarda: 临时, 临走, 临别",
+        "tg": "① 临 + ҷой (расидан)  ② 临 + исми вақт + 时/前  ③ 临- дар калимаҳои мураккаб",
+        "tk": "① 临 + ýer (ýetip barmak)  ② 临 + wagt aty + 时/前  ③ 临- goşma sözlerde"
+      },
+      "when_to_use": {
+        "ru": [
+          "Приближение к месту: 临江, 临街 — «выходить на (реку, улицу)».",
+          "Непосредственно перед событием: 临睡前, 临出发时, 临走前.",
+          "Как морфема: 临时 (временный, на время), 临别 (перед расставанием).",
+          "В формальной/письменной речи; в разговорной чаще используют 到 / 快…时."
+        ],
+        "en": [
+          "Approaching a place: 临江, 临街 — 'facing (a river/street)'.",
+          "Right before an event: 临睡前, 临出发时, 临走前.",
+          "As a morpheme: 临时 (temporary), 临别 (on parting).",
+          "Formal/written; in speech often replaced by 到 / 快…时."
+        ],
+        "uz": [
+          "Joyga yaqinlashish: 临江, 临街 — 'daryoga/ko'chaga qaragan'.",
+          "Voqeadan oldin: 临睡前, 临出发时, 临走前.",
+          "Morfema sifatida: 临时, 临别.",
+          "Rasmiy/yozma uslubda; so'zlashuvda 到 / 快…时."
+        ],
+        "tg": [
+          "Наздик шудан ба ҷой: 临江, 临街.",
+          "Пеш аз воқеа: 临睡前, 临出发时.",
+          "Ҳамчун морфема: 临时, 临别.",
+          "Дар услуби расмӣ; дар гуфтугӯ 到 / 快…时."
+        ],
+        "tk": [
+          "Ýere ýakynlaşmak: 临江, 临街.",
+          "Wakadan öň: 临睡前, 临出发时.",
+          "Morfema hökmünde: 临时, 临别.",
+          "Resmi/ýazma; gepleşikde 到 / 快…时."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "临北京的时候，我们吃饭了。",
+          "right": "到北京的时候，我们吃饭了。 / 临到北京的时候，我们吃饭了。",
+          "why": {
+            "ru": "临 + место = «примыкать к» (о самом месте), а «прибыть в момент» — 到 / 临到. «临北京» само по себе не говорят.",
+            "en": "临 + place = 'to border/front onto' (about the place itself). 'Arrive at the moment' is 到 / 临到. '临北京' alone is not used.",
+            "uz": "临 + joy = 'qaragan/chegaradosh'. 'Yetib borish' — 到 / 临到. '临北京' yolg'iz ishlatilmaydi."
+          }
+        },
+        {
+          "wrong": "临时的时候给我打电话。",
+          "right": "临走的时候给我打电话。 / 临出发的时候给我打电话。",
+          "why": {
+            "ru": "临时 — прилагательное/наречие «временный, на время» (临时工, 临时决定). Для «непосредственно перед уходом» — 临走(时).",
+            "en": "临时 is an adjective/adverb meaning 'temporary' (临时工, 临时决定). For 'just before leaving' use 临走(时).",
+            "uz": "临时 — 'vaqtinchalik' (临时工, 临时决定). 'Ketish oldidan' uchun 临走(时)."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "到 / 接近",
+          "difference": {
+            "ru": "临 + место — «примыкать, выходить на» (临江的房子 = дом у реки). 到 — «прибыть в». 接近 — нейтральное «приближаться». 临 времени = «незадолго до».",
+            "en": "临 + place = 'front onto' (临江的房子 = riverside house). 到 = 'arrive in'. 接近 = neutral 'approach'. 临 + time = 'shortly before'.",
+            "uz": "临 + joy = 'qaragan' (临江的房子). 到 = 'yetib bormoq'. 接近 = 'yaqinlashmoq'. 临 + vaqt = 'oldidan'."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他___睡前喜欢喝一杯热牛奶。",
+          "answer": "临"
+        },
+        {
+          "type": "fill_blank",
+          "question": "这间房子___江，风景很好。",
+          "answer": "临"
+        },
+        {
+          "type": "translate",
+          "question": "Он позвонил мне прямо перед отъездом.",
+          "answer": "他临出发前给我打了电话。"
+        }
       ]
     },
     {
@@ -792,6 +964,81 @@
           "en": "As soon as he entered, everyone stood up to welcome him.",
           "uz": "U kirishi bilanoq hamma uni kutib olish uchun o'rnidan turdi.",
           "tg": "Вай ба маҳз дохил шуд, ҳама барои истиқболи вай аз ҷой бархестанд."
+        }
+      ],
+      "formula": {
+        "ru": "主语 + 立刻 + 动词  (то же с 马上, 立即)",
+        "en": "Subject + 立刻 + verb (same with 马上, 立即)",
+        "uz": "Ega + 立刻 + fe'l (马上, 立即 bilan ham)",
+        "tg": "Мубтадо + 立刻 + феъл",
+        "tk": "Eýe + 立刻 + işlik"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Немедленно, сейчас же» — действие происходит сразу после момента речи/события.",
+          "Ставится ПЕРЕД глаголом, после подлежащего.",
+          "Чаще в письменной и нейтральной речи; в разговоре — 马上.",
+          "Может сопровождаться 就: 我立刻就走了."
+        ],
+        "en": [
+          "'Immediately, right away' — action happens right after the moment of speaking.",
+          "Placed BEFORE the verb, after the subject.",
+          "More common in written/neutral style; in speech use 马上.",
+          "Can combine with 就: 我立刻就走了."
+        ],
+        "uz": [
+          "'Darhol, shu zahoti' — harakat nutq paytidan keyin darhol sodir bo'ladi.",
+          "Fe'ldan OLDIN, egadan keyin keladi.",
+          "Ko'proq yozma/neytral uslubda; so'zlashuvda 马上.",
+          "就 bilan qo'shilishi mumkin: 我立刻就走了."
+        ],
+        "tg": [
+          "«Дарҳол, ҳозир» — амал фавран баъд аз лаҳзаи гуфтор.",
+          "Пеш аз феъл, баъд аз мубтадо.",
+          "Бештар дар услуби хаттӣ; дар гуфтугӯ 马上."
+        ],
+        "tk": [
+          "'Derrew, şu bada' — hereket gürrüň pursadyndan soň derrew bolýar.",
+          "Işlikden ÖŇ, eýeden soň.",
+          "Has ýazma/bitarap stilde; gepleşikde 马上."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他立刻家就回了。",
+          "right": "他立刻就回家了。",
+          "why": {
+            "ru": "立刻 — наречие, ставится перед глаголом. Порядок: подлежащее + 立刻 + 就 + глагол.",
+            "en": "立刻 is an adverb — it goes before the verb. Order: subject + 立刻 + 就 + verb.",
+            "uz": "立刻 — ravish, fe'ldan oldin. Tartib: ega + 立刻 + 就 + fe'l."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "马上 / 立即 / 赶紧",
+          "difference": {
+            "ru": "立刻 и 立即 — «немедленно» (книжные). 马上 — нейтральное, разговорное. 赶紧 — «поторопись, скорее» (от говорящего к слушателю, побуждение).",
+            "en": "立刻/立即 = 'immediately' (literary). 马上 = neutral, colloquial. 赶紧 = 'hurry up' (urging someone).",
+            "uz": "立刻/立即 — kitobiy 'darhol'. 马上 — neytral, so'zlashuv. 赶紧 — 'shoshil' (kimnidir undash)."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "听到这个消息，她___哭了。",
+          "answer": "立刻"
+        },
+        {
+          "type": "fill_blank",
+          "question": "请你___给我回电话。",
+          "answer": "立刻"
+        },
+        {
+          "type": "translate",
+          "question": "Как только он пришёл домой, он сразу лёг спать.",
+          "answer": "他一回到家就立刻睡了。"
         }
       ]
     }

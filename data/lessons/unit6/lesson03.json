@@ -506,6 +506,67 @@
           "tk": "Bu wezipe örän çylşyrymly — çynlakaý çemeleşmeli.",
           "en": "This task is extremely complex — must be taken seriously."
         }
+      ],
+      "formula": {
+        "ru": "极其 + прилаг./глагол  (крайне, чрезвычайно)",
+        "en": "极其 + adj/verb (extremely)",
+        "uz": "极其 + sifat/fe'l",
+        "tg": "极其 + сифат/феъл",
+        "tk": "极其 + sypat/işlik"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Чрезвычайно, крайне»: 极其重要.",
+          "Перед прилагательным/глаголом.",
+          "Книжно-нейтральное."
+        ],
+        "en": [
+          "'Extremely': 极其重要.",
+          "Before adj/verb.",
+          "Neutral/literary."
+        ],
+        "uz": [
+          "'Nihoyatda': 极其重要."
+        ],
+        "tg": [
+          "«Беҳад»."
+        ],
+        "tk": [
+          "'Örän'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "极其得很。",
+          "right": "极其重要。",
+          "why": {
+            "ru": "极其 не сочетается с 得. Это наречие степени.",
+            "en": "极其 doesn't combine with 得. It's a degree adverb.",
+            "uz": "极其 得 bilan ishlamaydi."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "非常 / 极其 / 十分",
+          "difference": {
+            "ru": "非常 — «очень» (нейтральное). 极其 — «крайне» (сильнее). 十分 — «весьма» (книжное).",
+            "en": "非常 very. 极其 extremely. 十分 quite (literary).",
+            "uz": "非常 — juda. 极其 — nihoyatda. 十分 — ancha."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "这件事___重要，不能马虎。",
+          "answer": "极其"
+        },
+        {
+          "type": "translate",
+          "question": "Чрезвычайно сложная задача.",
+          "answer": "极其复杂的任务。"
+        }
       ]
     },
     {
@@ -577,6 +638,67 @@
           "tk": "Men bir kitap aldym, galanlaryny şu ýerde goýdym.",
           "en": "I took one book, left the rest here."
         }
+      ],
+      "formula": {
+        "ru": "其余 + 的 + сущ.  (остальные, остальное)",
+        "en": "其余 + 的 + noun (the rest)",
+        "uz": "其余 + 的 + ot",
+        "tg": "其余 + 的 + исм",
+        "tk": "其余 + 的 + at"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Остальные, остальное»: 其余的人.",
+          "Может стоять самостоятельно: 其余的都到了.",
+          "Книжно-нейтральное."
+        ],
+        "en": [
+          "'The rest': 其余的人.",
+          "Can stand alone: 其余的都到了.",
+          "Neutral/literary."
+        ],
+        "uz": [
+          "'Qolganlar': 其余的人."
+        ],
+        "tg": [
+          "«Боқимонда»."
+        ],
+        "tk": [
+          "'Galanlar'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "其余的来了。",
+          "right": "其余的人都来了。",
+          "why": {
+            "ru": "Обычно с 的 + сущ. или самостоятельное 其余的 с 都.",
+            "en": "Usually 的 + noun or standalone 其余 with 都.",
+            "uz": "Odatda 的 + ot yoki yolg'iz 其余 + 都."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "其他 / 别的",
+          "difference": {
+            "ru": "其余 — «оставшееся (в конкретной группе)». 其他 — «другие» (нейтральное). 别的 — разговорное.",
+            "en": "其余 the rest. 其他 others. 别的 colloquial.",
+            "uz": "其余 — qolgan. 其他 — boshqalar."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "___的问题我们下次再讨论。",
+          "answer": "其余"
+        },
+        {
+          "type": "translate",
+          "question": "Остальные уже ушли.",
+          "answer": "其余的人都走了。"
+        }
       ]
     },
     {
@@ -647,6 +769,67 @@
           "ru": "Он поступил в такой хороший университет — видно, усердно занимался.",
           "tk": "Ol şeýle gowy uniwersitete girdi — görnüşine örän zähmetsöýer boldy.",
           "en": "He got into such a good university — clearly very hardworking."
+        }
+      ],
+      "formula": {
+        "ru": "A, 可见 B  (отсюда видно, что B)",
+        "en": "A, 可见 B (from this we can see that)",
+        "uz": "A, 可见 B",
+        "tg": "A, 可见 B",
+        "tk": "A, 可见 B"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Отсюда видно, что» — вывод из сказанного.",
+          "Обычно во второй части предложения.",
+          "Книжно-нейтральное."
+        ],
+        "en": [
+          "'So we can see that' — conclusion.",
+          "Usually in second clause.",
+          "Neutral/literary."
+        ],
+        "uz": [
+          "'Bundan ko'rinadiki'."
+        ],
+        "tg": [
+          "«Аз ин бармеояд»."
+        ],
+        "tk": [
+          "'Şondan görnüşi ýaly'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "可见他来了因为。",
+          "right": "他来了，可见他并不生气。",
+          "why": {
+            "ru": "可见 вводит вывод, а не причину.",
+            "en": "可见 introduces conclusion, not cause.",
+            "uz": "可见 xulosa kiritadi, sabab emas."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "因此 / 所以 / 可见",
+          "difference": {
+            "ru": "可见 — «отсюда видно» (вывод из наблюдения). 所以 — «поэтому». 因此 — «следовательно» (книжное).",
+            "en": "可见 from this we see. 所以 so. 因此 therefore.",
+            "uz": "可见 — shundan ko'rinadi. 所以 — shuning uchun."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他从来不迟到，___他很守时。",
+          "answer": "可见"
+        },
+        {
+          "type": "translate",
+          "question": "Из этого видно, что он старался.",
+          "answer": "可见他努力过。"
         }
       ]
     }

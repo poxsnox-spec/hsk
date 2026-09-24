@@ -466,6 +466,68 @@
           "tk": "Gymmat bolsa-da, hili hakykatdan gowy.",
           "en": "It's expensive, but the quality is after all good."
         }
+      ],
+      "formula": {
+        "ru": "① A 毕竟 是 B ② 毕竟 …… (в конце концов, всё-таки)",
+        "en": "① A 毕竟 是 B ② 毕竟 ...",
+        "uz": "① A 毕竟 是 B",
+        "tg": "① A 毕竟 是 B",
+        "tk": "① A 毕竟 是 B"
+      },
+      "when_to_use": {
+        "ru": [
+          "«В конце концов, ведь, всё-таки» — аргумент, признание факта.",
+          "После подлежащего: 他毕竟还小.",
+          "Часто с 还/是."
+        ],
+        "en": [
+          "'After all, in the end' — acknowledging fact.",
+          "After subject: 他毕竟还小.",
+          "Often with 还/是."
+        ],
+        "uz": [
+          "'Axir, baribir'.",
+          "Ega keyin."
+        ],
+        "tg": [
+          "«Охир, баҳри ҳол»."
+        ],
+        "tk": [
+          "'Ahyry, her niçik'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "毕竟他小。",
+          "right": "他毕竟还小。",
+          "why": {
+            "ru": "毕竟 ставится после подлежащего, часто с 还.",
+            "en": "毕竟 goes after subject, often with 还.",
+            "uz": "毕竟 ega keyin, ko'pincha 还 bilan."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "到底 / 终于",
+          "difference": {
+            "ru": "毕竟 — «в конце концов (ведь)». 到底 — «в конце концов» (в вопросах/выводах). 终于 — «наконец-то».",
+            "en": "毕竟 = after all. 到底 = after all (in questions). 终于 = finally.",
+            "uz": "毕竟 — axir. 到底 — oxir-oqibat. 终于 — nihoyat."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他___是孩子，不懂事也正常。",
+          "answer": "毕竟"
+        },
+        {
+          "type": "translate",
+          "question": "В конце концов, он ещё молод.",
+          "answer": "他毕竟还年轻。"
+        }
       ]
     },
     {
@@ -537,6 +599,70 @@
           "tk": "Gije kem-kemden ýagtylykdan örtüldi.",
           "en": "Night gradually fell."
         }
+      ],
+      "formula": {
+        "ru": "主语 + 逐渐 + 动词/прилаг.  (постепенно)",
+        "en": "Subject + 逐渐 + verb/adj",
+        "uz": "Ega + 逐渐 + fe'l/sifat",
+        "tg": "Мубтадо + 逐渐 + феъл",
+        "tk": "Eýe + 逐渐 + işlik"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Постепенно» — плавное изменение во времени.",
+          "Перед глаголом.",
+          "Часто с 地 (逐渐地).",
+          "Книжное."
+        ],
+        "en": [
+          "'Gradually' — smooth change.",
+          "Before verb.",
+          "Often with 地.",
+          "Literary."
+        ],
+        "uz": [
+          "'Asta-sekin'.",
+          "Fe'ldan oldin."
+        ],
+        "tg": [
+          "«Тадриҷан»."
+        ],
+        "tk": [
+          "'Kem-kemden'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "逐渐他明白了。",
+          "right": "他逐渐明白了。",
+          "why": {
+            "ru": "逐渐 идёт после подлежащего.",
+            "en": "逐渐 after subject.",
+            "uz": "逐渐 ega keyin."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "渐渐 / 慢慢",
+          "difference": {
+            "ru": "逐渐 — «постепенно, шаг за шагом» (книжное). 渐渐 — то же (нейтральное). 慢慢 — «медленно» (разговорное).",
+            "en": "逐渐 literary 'gradually'. 渐渐 neutral. 慢慢 'slowly' colloquial.",
+            "uz": "逐渐 kitobiy. 渐渐 neytral. 慢慢 so'zlashuv."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "天气___变冷了。",
+          "answer": "逐渐"
+        },
+        {
+          "type": "translate",
+          "question": "Он постепенно привык.",
+          "answer": "他逐渐习惯了。"
+        }
       ]
     },
     {
@@ -607,6 +733,67 @@
           "ru": "Может, он согласится.",
           "tk": "Belki ol razy bolar.",
           "en": "Perhaps he'll agree."
+        }
+      ],
+      "formula": {
+        "ru": "主语 + 或许 + 会/能 + 动词  (возможно)",
+        "en": "Subject + 或许 + 会/能 + verb",
+        "uz": "Ega + 或许 + fe'l",
+        "tg": "Мубтадо + 或许 + феъл",
+        "tk": "Eýe + 或许 + işlik"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Возможно, может быть» — книжный вариант 也许.",
+          "Часто с 会/能.",
+          "В начале или середине предложения."
+        ],
+        "en": [
+          "'Perhaps' — literary 也许.",
+          "Often with 会/能.",
+          "Sentence-initial or middle."
+        ],
+        "uz": [
+          "'Balki' — 也许 ning kitobiy shakli."
+        ],
+        "tg": [
+          "«Эҳтимол»."
+        ],
+        "tk": [
+          "'Ähtimal'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "或许他可能来。",
+          "right": "或许他会来。",
+          "why": {
+            "ru": "或许 и 可能 не удваиваются.",
+            "en": "Don't double 或许 + 可能.",
+            "uz": "或许 va 可能 birga ishlatilmaydi."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "也许 / 可能 / 说不定",
+          "difference": {
+            "ru": "或许 — книжное. 也许 — нейтральное. 可能 — самое частое. 说不定 — разговорное.",
+            "en": "或许 literary. 也许 neutral. 可能 common. 说不定 colloquial.",
+            "uz": "或许 — kitobiy. 也许 — neytral. 可能 — ko'p. 说不定 — so'zl."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "___他今天不会来了。",
+          "answer": "或许"
+        },
+        {
+          "type": "translate",
+          "question": "Возможно, будет дождь.",
+          "answer": "或许会下雨。"
         }
       ]
     }

@@ -536,6 +536,67 @@
           "tk": "Miwe, gök önüm we däne iýilmeli.",
           "en": "We should eat fruits, vegetables, and grains."
         }
+      ],
+      "formula": {
+        "ru": "A、B 以及 C  (и, а также)",
+        "en": "A, B 以及 C (and, as well as)",
+        "uz": "A, B 以及 C",
+        "tg": "A, B 以及 C",
+        "tk": "A, B 以及 C"
+      },
+      "when_to_use": {
+        "ru": [
+          "Книжный союз «и, а также» в перечислении.",
+          "В официальных текстах, анкетах, документах.",
+          "В разговоре — 和."
+        ],
+        "en": [
+          "Literary 'and, as well as' in enumerations.",
+          "Formal documents.",
+          "In speech 和."
+        ],
+        "uz": [
+          "Kitobiy 'va, shuningdek'."
+        ],
+        "tg": [
+          "«Ва, инчунин»."
+        ],
+        "tk": [
+          "'We, şeýle hem'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我以及他去。",
+          "right": "我和他一起去。",
+          "why": {
+            "ru": "以及 — для перечислений, не для простого «и».",
+            "en": "以及 for lists, not simple 'and'.",
+            "uz": "以及 ro'yxat uchun."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "和 / 及",
+          "difference": {
+            "ru": "和 — нейтральное. 以及 — книжное. 及 — книжное, короткое.",
+            "en": "和 neutral. 以及/及 literary.",
+            "uz": "和 — neytral. 以及/及 — kitobiy."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "会议讨论了教育、医疗___环保问题。",
+          "answer": "以及"
+        },
+        {
+          "type": "translate",
+          "question": "Он купил книги, ручки, а также тетради.",
+          "answer": "他买了书、笔以及本子。"
+        }
       ]
     },
     {
@@ -607,6 +668,67 @@
           "tk": "Belli bir derejede men seniň pikiriňe razy.",
           "en": "To some extent, I agree with you."
         }
+      ],
+      "formula": {
+        "ru": "① 程度 + 高/低/深/浅  ② …… 的 程度 (степень)",
+        "en": "① 程度 + 高/低/深/浅  ② ...的程度 (degree)",
+        "uz": "① 程度 + 高/低",
+        "tg": "① 程度 + 高/低",
+        "tk": "① 程度 + 高/低"
+      },
+      "when_to_use": {
+        "ru": [
+          "Существительное «степень, уровень»: 文化程度.",
+          "С глаголом 达到: 达到...的程度.",
+          "Нейтральное."
+        ],
+        "en": [
+          "'Degree, level': 文化程度.",
+          "With 达到: reach a level.",
+          "Neutral."
+        ],
+        "uz": [
+          "'Daraja': 文化程度."
+        ],
+        "tg": [
+          "«Дараҷа»."
+        ],
+        "tk": [
+          "'Dereje'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "他程度高。",
+          "right": "他的文化程度很高。",
+          "why": {
+            "ru": "Часто с указанием чего именно (文化/汉语).",
+            "en": "Often specifies: 文化/汉语程度.",
+            "uz": "Ko'pincha aniqlanadi."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "水平 / 程度",
+          "difference": {
+            "ru": "程度 — «степень, уровень» (часто с 达到). 水平 — «уровень (качества)» (более конкретно).",
+            "en": "程度 degree. 水平 level of quality.",
+            "uz": "程度 — daraja. 水平 — saviya."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他的汉语___很高。",
+          "answer": "程度"
+        },
+        {
+          "type": "translate",
+          "question": "Он дошёл до такого уровня.",
+          "answer": "他达到了这样的程度。"
+        }
       ]
     },
     {
@@ -677,6 +799,70 @@
           "ru": "У него хорошо развита мускулатура.",
           "tk": "Onuň myşsalary gaty ösen.",
           "en": "His muscles are well developed."
+        }
+      ],
+      "formula": {
+        "ru": "发达 (прилаг.) = развитой;  发展 (глагол) = развивать(ся)",
+        "en": "发达 (adj) = developed; 发展 (verb) = to develop",
+        "uz": "发达 (sifat) = rivojlangan; 发展 (fe'l) = rivojlanmoq",
+        "tg": "发达 (сифат); 发展 (феъл)",
+        "tk": "发达 (sypat); 发展 (işlik)"
+      },
+      "when_to_use": {
+        "ru": [
+          "发达 — состояние (развитой): 发达国家.",
+          "发展 — процесс (развивать): 经济发展.",
+          "发达 не используется как глагол."
+        ],
+        "en": [
+          "发达 state: 发达国家.",
+          "发展 process: 经济发展.",
+          "发达 is not used as a verb."
+        ],
+        "uz": [
+          "发达 — holat: 发达国家.",
+          "发展 — jarayon: 经济发展."
+        ],
+        "tg": [
+          "发达 — ҳолат.",
+          "发展 — раванд."
+        ],
+        "tk": [
+          "发达 — ýagdaý.",
+          "发展 — proses."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "中国发展得很快，是发展国家。",
+          "right": "中国发展得很快，是发展中国家。",
+          "why": {
+            "ru": "«Развитая страна» — 发达国家, а не 发展国家.",
+            "en": "'Developed country' is 发达国家, not 发展国家.",
+            "uz": "'Rivojlangan davlat' — 发达国家."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "—",
+          "difference": {
+            "ru": "发达 — качество (как «развитой»). 发展 — действие/процесс («развиваться»).",
+            "en": "发达 quality (developed). 发展 action/process (to develop).",
+            "uz": "发达 — sifat. 发展 — harakat."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "日本是一个___国家。",
+          "answer": "发达"
+        },
+        {
+          "type": "translate",
+          "question": "Наука и техника быстро развиваются.",
+          "answer": "科学技术发展得很快。"
         }
       ]
     }

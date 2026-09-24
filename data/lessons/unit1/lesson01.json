@@ -594,6 +594,90 @@
           "uz": "Har kimning chet tilini o'rganishda o'z usuli bor.",
           "tg": "Ҳар кас дар омӯзиши забони хориҷӣ тарзи худиро дорад."
         }
+      ],
+      "formula": {
+        "ru": "① 主语 + 如何 + 动词 + ？  ② …… + 如何？ (в конце предложения)",
+        "en": "① Subject + 如何 + verb + ?  ② ... + 如何? (sentence-final)",
+        "uz": "① Ega + 如何 + fe'l + ?  ② ... + 如何? (gap oxirida)",
+        "tg": "① Мубтадо + 如何 + феъл + ?  ② ... + 如何? (дар охири)",
+        "tk": "① Eýe + 如何 + işlik + ?  ② ... + 如何? (sözlem soňunda)"
+      },
+      "when_to_use": {
+        "ru": [
+          "Спросить о способе действия в книжном/формальном стиле: «как?», «каким образом?».",
+          "В письменной речи: новости, сочинения, официальные тексты, письма.",
+          "В конце предложения как вопрос-предложение: «..., 如何?» = «...как тебе? / ...что скажешь?».",
+          "Внутри придаточного: «как (сделать X)» — как часть большой фразы."
+        ],
+        "en": [
+          "Ask about manner in formal/written style: 'how?', 'in what way?'.",
+          "Written texts: news, essays, official documents, letters.",
+          "Sentence-final as a soft suggestion: '..., 如何?' = 'How about ...?'.",
+          "Inside a clause meaning 'how to do X'."
+        ],
+        "uz": [
+          "Rasmiy va yozma uslubda harakat usulini so'rash.",
+          "Yangiliklar, insholar, rasmiy hujjatlarda.",
+          "Gap oxirida taklif: '..., 如何?' = '... qanday bo'ladi?'.",
+          "Ergash gap ichida 'X ni qanday qilish' ma'nosida."
+        ],
+        "tg": [
+          "Пурсидани тарзи амал дар услуби расмӣ ва хаттӣ.",
+          "Дар хабарҳо, иншоҳо, ҳуҷҷатҳо.",
+          "Дар охири ҷумла ҳамчун пешниҳод: «..., 如何?»."
+        ],
+        "tk": [
+          "Resmi we ýazma stilde hereketiň usulyny soramak.",
+          "Habarlarda, ýazgylarda, resmi resminamalarda.",
+          "Sözlemiň soňunda teklip hökmünde: '..., 如何?'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "你为什么如何迟到？",
+          "right": "你为什么迟到？ / 你如何解决这个问题？",
+          "why": {
+            "ru": "如何 не используется для вопроса о причине — для этого есть 为什么 / 怎么.",
+            "en": "'如何' is NOT used to ask about a cause — use 为什么 / 怎么.",
+            "uz": "如何 sababni so'rash uchun ishlatilmaydi — buning uchun 为什么 / 怎么 bor."
+          }
+        },
+        {
+          "wrong": "喂，你如何？最近怎么样？",
+          "right": "喂，你怎么样？最近怎么样？",
+          "why": {
+            "ru": "如何 слишком книжное для разговорной речи; в чате/устно — 怎么样 / 怎么.",
+            "en": "'如何' is too bookish for casual speech — use 怎么样 / 怎么.",
+            "uz": "如何 so'zlashuv uchun juda kitobiy — 怎么样 / 怎么 ishlatiladi."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "怎么 / 怎么样",
+          "difference": {
+            "ru": "怎么 и 怎么样 — нейтрально-разговорные; 如何 — книжное, формальное. Смысл тот же «как?». В устной речи 如何 звучит высокопарно.",
+            "en": "怎么 / 怎么样 are neutral/colloquial; 如何 is formal and literary. Same meaning 'how?', but 如何 sounds elevated in speech.",
+            "uz": "怎么 / 怎么样 — neytral-so'zlashuv; 如何 — rasmiy, kitobiy. Ma'nosi bir xil, ammo 如何 og'zaki nutqda balandparvoz eshitiladi."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "我们明天讨论这个问题的___解决方案。",
+          "answer": "如何"
+        },
+        {
+          "type": "fill_blank",
+          "question": "我们希望你负责这个项目，___？",
+          "answer": "如何"
+        },
+        {
+          "type": "translate",
+          "question": "Как читается этот иероглиф? (формально)",
+          "answer": "这个汉字如何读？"
+        }
       ]
     },
     {
@@ -687,6 +771,90 @@
           "uz": "U divanda yolg'iz o'tirib, jimgina kitob o'qidi.",
           "tg": "Вай танҳо дар диван нишаста, хомӯшона китоб хонд."
         }
+      ],
+      "formula": {
+        "ru": "① 靠在 + место (прислониться) ② 靠 + сущ. + 位置 (рядом с) ③ 靠 + сущ. (полагаться на)",
+        "en": "① 靠在 + place (lean against) ② 靠 + noun + location (near) ③ 靠 + noun (rely on)",
+        "uz": "① 靠在 + joy (suyanmoq) ② 靠 + ot + joy (yonida) ③ 靠 + ot (tayanmoq)",
+        "tg": "① 靠在 + ҷой (такя кардан) ② 靠 + исм + ҷой (наздик) ③ 靠 + исм (такя кардан)",
+        "tk": "① 靠在 + ýer (daýanmak) ② 靠 + at + ýer (ýanynda) ③ 靠 + at (bil baglamak)"
+      },
+      "when_to_use": {
+        "ru": [
+          "Физически: прислониться к чему-то (人靠在墙上, 头靠在肩上).",
+          "Полагаться, зависеть от кого/чего (靠父母, 靠努力).",
+          "Указать расположение: рядом, около (我家靠地铁站).",
+          "Способ действия: за счёт чего-то (靠打工赚钱)."
+        ],
+        "en": [
+          "Physically leaning against something (人靠在墙上, 头靠在肩上).",
+          "Relying / depending on someone or something (靠父母, 靠努力).",
+          "Location: near, close to (我家靠地铁站).",
+          "By means of (靠打工赚钱)."
+        ],
+        "uz": [
+          "Jismoniy suyanish (人靠在墙上, 头靠在肩上).",
+          "Tayanmoq, bog'liq bo'lmoq (靠父母, 靠努力).",
+          "Joylashuv: yonida, yaqinida (我家靠地铁站).",
+          "Vosita: biror narsa hisobidan (靠打工赚钱)."
+        ],
+        "tg": [
+          "Ҷисмонӣ такя кардан (人靠在墙上).",
+          "Такя кардан, вобаста будан (靠父母, 靠努力).",
+          "Ҷойгиршавӣ: наздик, паҳлӯи (我家靠地铁站)."
+        ],
+        "tk": [
+          "Fiziki daýanmak (人靠在墙上).",
+          "Bil baglamak, garaşly bolmak (靠父母, 靠努力).",
+          "Ýerleşiş: ýanynda, golaýynda (我家靠地铁站)."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我靠在地铁站。",
+          "right": "我家靠地铁站。 / 我靠在地铁站的墙上。",
+          "why": {
+            "ru": "靠 как «рядом» требует объекта (что к чему). Если хотите «прислониться» — нужен 在...上/旁.",
+            "en": "'靠' as 'near' needs an object (what is near what). For 'lean' add 在...上/旁.",
+            "uz": "'靠' yaqinlik ma'nosida obyekt talab qiladi. 'Suyanmoq' uchun 在...上/旁 qo'shiladi."
+          }
+        },
+        {
+          "wrong": "我靠父母的同意才能出国。",
+          "right": "我靠父母才能出国。 / 我靠父母的帮助才能出国。",
+          "why": {
+            "ru": "靠 + кто/что (источник). 靠父母的同意 грамматически возможно, но по-китайски естественнее «靠父母(的帮助)».",
+            "en": "'靠 + person/thing (source)'. '靠父母的同意' is grammatically possible but less natural than '靠父母(的帮助)'.",
+            "uz": "'靠 + kim/nima (manba)'. '靠父母的同意' grammatik jihatdan mumkin, lekin '靠父母(的帮助)' tabiiyroq."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "凭 / 依",
+          "difference": {
+            "ru": "凭 — «по (документу/основанию)»: 凭票入场 (по билету). 靠 — «за счёт, благодаря» (человеку/усилию). 依 — книжное «опираясь на» (依法 — по закону).",
+            "en": "凭 = 'by (ticket/document)': 凭票入场. 靠 = 'thanks to (person/effort)'. 依 = literary 'according to': 依法.",
+            "uz": "凭 — 'bo'yicha (chipta/hujjat)': 凭票入场. 靠 — 'hisobidan (kim/kuch)'. 依 — kitobiy 'asosida': 依法."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他累了，把头___在妻子的肩上睡着了。",
+          "answer": "靠"
+        },
+        {
+          "type": "fill_blank",
+          "question": "想成功，不能光___运气，还要努力。",
+          "answer": "靠"
+        },
+        {
+          "type": "translate",
+          "question": "Мой дом рядом с метро.",
+          "answer": "我家靠地铁站。"
+        }
       ]
     },
     {
@@ -779,6 +947,90 @@
           "en": "You still remember my birthday — I'm so touched!",
           "uz": "Siz hali ham tug'ilgan kunimni eslaysiz — juda ta'sirlandim!",
           "tg": "Шумо ҳанӯз рӯзи таваллуди маро дар ёд доред — хеле таъсир кардам!"
+        }
+      ],
+      "formula": {
+        "ru": "主语 + 居然 + 动词/прилаг.  (+ 了)  /  居然 + 这么/那么 + прилаг.",
+        "en": "Subject + 居然 + verb/adj (+ 了)  /  居然 + 这么/那么 + adj",
+        "uz": "Ega + 居然 + fe'l/sifat (+ 了)  /  居然 + 这么/那么 + sifat",
+        "tg": "Мубтадо + 居然 + феъл/сифат (+ 了)",
+        "tk": "Eýe + 居然 + işlik/sypat (+ 了)"
+      },
+      "when_to_use": {
+        "ru": [
+          "Выразить удивление: «оказывается», «вопреки ожиданиям», «надо же».",
+          "Когда факт противоречит тому, что говорящий ожидал или считал невозможным.",
+          "Часто в восклицаниях и вопросах с оттенком недоверия.",
+          "Ставится ПОСЛЕ подлежащего, ПЕРЕД глаголом."
+        ],
+        "en": [
+          "Express surprise: 'unexpectedly', 'to my surprise', 'actually'.",
+          "When a fact contradicts what the speaker expected or thought impossible.",
+          "Common in exclamations and rhetorical questions.",
+          "Position: AFTER subject, BEFORE the verb."
+        ],
+        "uz": [
+          "Hayratni bildirish: 'kutilmaganda', 'ajablanarli'.",
+          "Fakt kutilgan narsaga zid bo'lganda.",
+          "Hayrat undovlari va ritorik savollarda tez-tez uchraydi.",
+          "O'rin: egadan KEYIN, fe'ldan OLDIN."
+        ],
+        "tg": [
+          "Ифодаи ҳайрат: «ноогоҳ», «ногаҳон», «аҷаб».",
+          "Вақте ки воқеият ба интизории гӯянда мухолиф аст.",
+          "Мавқеъ: баъд аз мубтадо, пеш аз феъл."
+        ],
+        "tk": [
+          "Geň galmaklygy aňlatmak: 'garaşylmadyk ýagdaýda'.",
+          "Fakt garaşylýana ters gelende.",
+          "Orny: eýeden SOŇ, işlikden ÖŇ."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "居然他考上了北京大学。",
+          "right": "他居然考上了北京大学。",
+          "why": {
+            "ru": "居然 — наречие, ставится после подлежащего, не перед ним. Это не союз.",
+            "en": "'居然' is an adverb — it goes after the subject, not before it. It's not a conjunction.",
+            "uz": "'居然' — ravish, ega keyin keladi, oldin emas. Bu bog'lovchi emas."
+          }
+        },
+        {
+          "wrong": "他居然真努力。",
+          "right": "他居然这么努力。/ 他居然真的努力了。",
+          "why": {
+            "ru": "После 居然 при прилагательном нужен усилитель 这么/那么, либо глагольное сказуемое.",
+            "en": "With an adjective after 居然 you need 这么/那么, or use a verbal predicate.",
+            "uz": "Sifatdan keyin 居然 bilan 这么/那么 kerak, yoki fe'l kesim ishlatiladi."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "竟然 / 果然",
+          "difference": {
+            "ru": "竟然 — синоним 居然, чаще в письменной речи. 果然 — «как и ожидалось» (противоположное чувство). Не путать!",
+            "en": "竟然 — synonym of 居然, more literary. 果然 — 'as expected' (opposite feeling!). Don't mix up.",
+            "uz": "竟然 — 居然 sinonimi, ko'proq yozma. 果然 — 'kutilganidek' (qarama-qarshi ma'no!). Adashtirmang."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "这么难的题，他___做对了！",
+          "answer": "居然"
+        },
+        {
+          "type": "fill_blank",
+          "question": "我们找了他一整天，他___一直在家。",
+          "answer": "居然"
+        },
+        {
+          "type": "translate",
+          "question": "Она, оказывается, выиграла лотерею!",
+          "answer": "她居然中了彩票！"
         }
       ]
     }

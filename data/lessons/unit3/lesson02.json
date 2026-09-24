@@ -535,6 +535,68 @@
           "tk": "Garşydaş güýçli — iki tapgyry derrew ýeňdi, ýöne ahyrynda tersine ol ýeňdi.",
           "en": "The opponent was strong, won two rounds — but in the end, he won instead."
         }
+      ],
+      "formula": {
+        "ru": "① 倒 + прилаг./глагол (наоборот, всё же)  ② 倒 是 …… 但 ……",
+        "en": "① 倒 + adj/verb (on the contrary)  ② 倒 是 …, 但 …",
+        "uz": "① 倒 + sifat/fe'l",
+        "tg": "① 倒 + сифат/феъл",
+        "tk": "① 倒 + sypat/işlik"
+      },
+      "when_to_use": {
+        "ru": [
+          "Смягчённое возражение: 他倒不错，就是有点懒.",
+          "Неожиданный поворот: 你倒说说看！",
+          "«Всё-таки, напротив»."
+        ],
+        "en": [
+          "Soft objection: 他倒不错，就是有点懒.",
+          "Surprise turn.",
+          "'After all, on the contrary'."
+        ],
+        "uz": [
+          "Yumshoq e'tiroz.",
+          "Kutilmagan burilish."
+        ],
+        "tg": [
+          "Эътирози мулоим."
+        ],
+        "tk": [
+          "Ýumşak garşylyk."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我倒他是好人。",
+          "right": "我倒觉得他是好人。",
+          "why": {
+            "ru": "倒 требует глагола после себя.",
+            "en": "倒 needs a verb after it.",
+            "uz": "倒 keyin fe'l kerak."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "却 / 反而",
+          "difference": {
+            "ru": "倒 — мягкое «наоборот». 却 — «однако» (книжное). 反而 — «вопреки ожиданию».",
+            "en": "倒 soft contrast. 却 however. 反而 unexpectedly.",
+            "uz": "倒 — yumshoq. 却 — biroq. 反而 — aksincha."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "这家饭馆___不错，就是有点贵。",
+          "answer": "倒"
+        },
+        {
+          "type": "translate",
+          "question": "Дом-то неплохой, но далековато.",
+          "answer": "房子倒不错，就是远了点。"
+        }
       ]
     },
     {
@@ -605,6 +667,68 @@
           "ru": "Писал-писал и всё же считаю первую версию лучшей.",
           "tk": "Ýazdym-ýazdym, ýöne birinji warianty iň gowy hasapladym.",
           "en": "Wrote and rewrote, but still think the first draft is best."
+        }
+      ],
+      "formula": {
+        "ru": "动词 + 来 + 动词 + 去  (повторяющееся действие)",
+        "en": "verb + 来 + verb + 去 (repeated action)",
+        "uz": "fe'l + 来 + fe'l + 去",
+        "tg": "феъл + 来 + феъл + 去",
+        "tk": "işlik + 来 + işlik + 去"
+      },
+      "when_to_use": {
+        "ru": [
+          "Повторяющееся действие «туда-сюда»: 走来走去, 看来看去.",
+          "Выражает беспокойство или длительный процесс.",
+          "Разговорное."
+        ],
+        "en": [
+          "Repeated action back and forth: 走来走去.",
+          "Expresses restlessness or ongoing process.",
+          "Colloquial."
+        ],
+        "uz": [
+          "Takrorlanuvchi harakat: 走来走去.",
+          "Bezovtalik yoki uzoq jarayon."
+        ],
+        "tg": [
+          "Амали такрорӣ."
+        ],
+        "tk": [
+          "Gaýtalanylýan hereket."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "走去看去。",
+          "right": "走来走去。",
+          "why": {
+            "ru": "Конструкция фиксированная: 来...去.",
+            "en": "Fixed pattern: 来...去.",
+            "uz": "Qat'iy qolip: 来...去."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "来来回回",
+          "difference": {
+            "ru": "来...去 — глагол повторяется. 来来回回 — наречие «туда-сюда».",
+            "en": "来…去 repeats a verb. 来来回回 adverb.",
+            "uz": "来...去 fe'l takrorlanadi. 来来回回 ravish."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他在房间里___。",
+          "answer": "走来走去"
+        },
+        {
+          "type": "translate",
+          "question": "Она долго вертела письмо в руках.",
+          "answer": "她把信看来看去看了很久。"
         }
       ]
     },
@@ -677,6 +801,68 @@
           "tk": "Belki başga gün duşuşarys?",
           "en": "Shall we meet another day?"
         }
+      ],
+      "formula": {
+        "ru": "① A, 要不 + B  (или, а то)  ② 要不……吧 (предложение)",
+        "en": "① A, 要不 + B (or else)  ② 要不...吧",
+        "uz": "① A, 要不 + B",
+        "tg": "① A, 要不 + B",
+        "tk": "① A, 要不 + B"
+      },
+      "when_to_use": {
+        "ru": [
+          "Альтернатива «а то, или»: 我们走吧，要不就晚了.",
+          "Мягкое предложение: 要不我们先吃饭吧.",
+          "Разговорное."
+        ],
+        "en": [
+          "Alternative 'or else': 要不就晚了.",
+          "Soft suggestion.",
+          "Colloquial."
+        ],
+        "uz": [
+          "Alternativa: 'aks holda'.",
+          "Yumshoq taklif."
+        ],
+        "tg": [
+          "Алтернатива."
+        ],
+        "tk": [
+          "Alternatiwa."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "要不他不会来，我们去接他。",
+          "right": "要不他不会来，我们就去接他。",
+          "why": {
+            "ru": "要不 вводит альтернативу, требует вторую часть с 就.",
+            "en": "要不 introduces alternative, needs 就 in second part.",
+            "uz": "要不 alternativani kiritadi, 就 bilan."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "否则 / 不然",
+          "difference": {
+            "ru": "要不 — разговорное «а то». 否则 — книжное. 不然 — нейтральное.",
+            "en": "要不 colloquial. 否则 literary. 不然 neutral.",
+            "uz": "要不 so'zlashuv. 否则 kitobiy. 不然 neytral."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "快走吧，___就迟到了。",
+          "answer": "要不"
+        },
+        {
+          "type": "translate",
+          "question": "А то пойдём в кино.",
+          "answer": "要不我们去看电影吧。"
+        }
       ]
     },
     {
@@ -747,6 +933,68 @@
           "ru": "Они поддерживают друг друга в работе.",
           "tk": "Olar işde biri-birini goldaýarlar.",
           "en": "They support each other at work."
+        }
+      ],
+      "formula": {
+        "ru": "① 彼此 + 动词 (взаимно)  ② 彼此 都 ……",
+        "en": "① 彼此 + verb (each other)  ② 彼此 都 ...",
+        "uz": "① 彼此 + fe'l",
+        "tg": "① 彼此 + феъл",
+        "tk": "① 彼此 + işlik"
+      },
+      "when_to_use": {
+        "ru": [
+          "«Друг друга, взаимно»: 互相帮助 → 彼此帮助.",
+          "Обычно о двух сторонах.",
+          "Книжно-нейтральное."
+        ],
+        "en": [
+          "'Each other': 彼此帮助.",
+          "Usually two parties.",
+          "Literary/neutral."
+        ],
+        "uz": [
+          "'Bir-birini': 彼此帮助.",
+          "Odatda ikki tomon."
+        ],
+        "tg": [
+          "«Якдигар»."
+        ],
+        "tk": [
+          "'Biri-birini'."
+        ]
+      },
+      "common_mistakes": [
+        {
+          "wrong": "我彼此喜欢他。",
+          "right": "我们彼此喜欢。",
+          "why": {
+            "ru": "彼此 требует мн.ч. подлежащего.",
+            "en": "彼此 needs plural subject.",
+            "uz": "彼此 ko'plik ega talab qiladi."
+          }
+        }
+      ],
+      "comparison_with": [
+        {
+          "word": "互相 / 相互",
+          "difference": {
+            "ru": "彼此 — «друг друга» (местоимение). 互相 — «взаимно» (наречие, чаще с глаголом). 相互 — книжное, часто как прилагательное (相互理解).",
+            "en": "彼此 pronoun. 互相 adverb. 相互 literary adjective.",
+            "uz": "彼此 olmosh. 互相 ravish. 相互 kitobiy."
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他们___支持，一起完成了任务。",
+          "answer": "彼此"
+        },
+        {
+          "type": "translate",
+          "question": "Они понимают друг друга.",
+          "answer": "他们彼此理解。"
         }
       ]
     }

@@ -1444,6 +1444,52 @@ function tabVocab(c) {
     });
   });
 }
+
+function renderGrammarCard(g, lang, ex, exs) {
+  let html = `<div class="grammar-head">
+      <span class="grammar-word">${escapeHtml(g.word || "")}</span>
+      <span class="grammar-pos">${escapeHtml(g.pos || "")}</span></div>
+    <div class="grammar-expl">${escapeHtml(ex)}</div>${exs}`;
+
+  const fm = (g.formula || {})[lang] || (g.formula || {}).ru || (g.formula || {}).en || "";
+  if (fm) {
+    html += `<div class="grammar-block" style="margin-top:12px;padding:10px 12px;background:rgba(80,180,220,0.07);border-left:3px solid #4CB8DC;border-radius:6px"><div style="font-size:12px;text-transform:uppercase;letter-spacing:0.5px;color:#7EE0FF;margin-bottom:6px">\u{1F4D0} \u0424\u043E\u0440\u043C\u0443\u043B\u0430</div><div style="font-family:Menlo,Consolas,monospace;font-size:14px;color:#D9E6F2;white-space:pre-wrap">${escapeHtml(fm)}</div></div>`;
+  }
+
+  const wtu = (g.when_to_use || {})[lang] || (g.when_to_use || {}).ru || (g.when_to_use || {}).en || [];
+  if (wtu && wtu.length) {
+    const items = wtu.map(s => `<li style="margin:3px 0">${escapeHtml(s)}</li>`).join("");
+    html += `<div class="grammar-block" style="margin-top:10px;padding:10px 12px;background:rgba(140,220,140,0.06);border-left:3px solid #56C271;border-radius:6px"><div style="font-size:12px;text-transform:uppercase;letter-spacing:0.5px;color:#7EE39A;margin-bottom:6px">\u{1F4CD} \u041A\u043E\u0433\u0434\u0430 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C</div><ul style="margin:0;padding-left:18px;color:#D9E6F2;font-size:14px">${items}</ul></div>`;
+  }
+
+  if (g.common_mistakes && g.common_mistakes.length) {
+    const items = g.common_mistakes.map(m => {
+      const why = (m.why || {})[lang] || (m.why || {}).ru || (m.why || {}).en || "";
+      return `<li style="margin:6px 0"><div style="color:#FF8080">\u274C ${escapeHtml(m.wrong || "")}</div><div style="color:#8AE38A">\u2705 ${escapeHtml(m.right || "")}</div>${why ? `<div style="color:#A6B4C2;font-size:13px;margin-top:2px">${escapeHtml(why)}</div>` : ""}</li>`;
+    }).join("");
+    html += `<div class="grammar-block" style="margin-top:10px;padding:10px 12px;background:rgba(220,90,90,0.06);border-left:3px solid #E06A6A;border-radius:6px"><div style="font-size:12px;text-transform:uppercase;letter-spacing:0.5px;color:#FF9090;margin-bottom:6px">\u26A0\uFE0F \u0422\u0438\u043F\u0438\u0447\u043D\u044B\u0435 \u043E\u0448\u0438\u0431\u043A\u0438</div><ul style="margin:0;padding-left:18px">${items}</ul></div>`;
+  }
+
+  if (g.comparison_with && g.comparison_with.length) {
+    const items = g.comparison_with.map(c => {
+      const d = (c.difference || {})[lang] || (c.difference || {}).ru || (c.difference || {}).en || "";
+      return `<li style="margin:6px 0"><div style="color:#F0C674;font-weight:600">\u2194\uFE0F ${escapeHtml(c.word || "")}</div><div style="color:#D9E6F2;font-size:13px;margin-top:2px">${escapeHtml(d)}</div></li>`;
+    }).join("");
+    html += `<div class="grammar-block" style="margin-top:10px;padding:10px 12px;background:rgba(240,200,100,0.06);border-left:3px solid #E0B85A;border-radius:6px"><div style="font-size:12px;text-transform:uppercase;letter-spacing:0.5px;color:#F0C674;margin-bottom:6px">\u2696\uFE0F \u0421\u0440\u0430\u0432\u043D\u0435\u043D\u0438\u0435</div><ul style="margin:0;padding-left:18px">${items}</ul></div>`;
+  }
+
+  if (g.exercises && g.exercises.length) {
+    const items = g.exercises.map((x, i) => {
+      const q = x.question || "";
+      const a = x.answer || "";
+      return `<li style="margin:8px 0;list-style:none;padding-left:0"><div style="color:#D9E6F2">${i+1}. ${escapeHtml(q)}</div><details style="margin-top:4px"><summary style="cursor:pointer;color:#7EE0FF;font-size:13px">\u041F\u043E\u043A\u0430\u0437\u0430\u0442\u044C \u043E\u0442\u0432\u0435\u0442</summary><div style="color:#8AE38A;margin-top:4px">\u2192 ${escapeHtml(a)}</div></details></li>`;
+    }).join("");
+    html += `<div class="grammar-block" style="margin-top:10px;padding:10px 12px;background:rgba(80,140,220,0.06);border-left:3px solid #5A96D6;border-radius:6px"><div style="font-size:12px;text-transform:uppercase;letter-spacing:0.5px;color:#8EC8FF;margin-bottom:6px">\u270F\uFE0F \u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F</div><ul style="margin:0;padding-left:0">${items}</ul></div>`;
+  }
+
+  return html;
+}
+
 function tabGrammar(c) {
   const L = currentLesson, lang = getLang();
   for (const g of (L.grammar || [])) {
@@ -1457,10 +1503,7 @@ function tabGrammar(c) {
         <div class="ex-zh">${i + 1}. ${escapeHtml(e.zh || "")}</div>
         <div class="ex-tr">${escapeHtml(eTr)}</div></div>`;
     }
-    card.innerHTML = `<div class="grammar-head">
-        <span class="grammar-word">${escapeHtml(g.word || "")}</span>
-        <span class="grammar-pos">${escapeHtml(g.pos || "")}</span></div>
-      <div class="grammar-expl">${escapeHtml(ex)}</div>${exs}`;
+    card.innerHTML = renderGrammarCard(g, lang, ex, exs);
     c.appendChild(card);
   }
 }
