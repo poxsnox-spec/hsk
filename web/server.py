@@ -9,7 +9,6 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from flask import (Flask, send_from_directory, jsonify, request, session)
-from werkzeug.middleware.proxy_fix import ProxyFix
 
 import auth
 
@@ -21,7 +20,6 @@ STATIC = BASE / "static"
 
 app = Flask(__name__, static_folder=str(STATIC), static_url_path="/static")
 app.secret_key = auth.get_or_create_secret()
-app.wsgi_app = ProxyFix(app.wsgi_app, x_for=1, x_proto=1, x_host=1, x_prefix=1)
 app.config.update(
     SESSION_COOKIE_HTTPONLY=True,
     SESSION_COOKIE_SAMESITE="Lax",
@@ -36,6 +34,18 @@ app.config.update(
 BREVO_KEY  = os.environ.get("BREVO_KEY", "")
 FROM_EMAIL = "poxsnox@gmail.com"
 FROM_NAME  = "HSK5 Learner"
+
+# Публичный URL для ссылок в письмах.
+# На боевом сервере = https://alelatdin.pythonanywhere.com
+# Локально пусто → берётся текущий host (для тестов)
+PUBLIC_URL = os.environ.get("PUBLIC_URL", "")
+
+
+def _public_base(req):
+    """Базовый URL для ссылок в письмах."""
+    if PUBLIC_URL:
+        return PUBLIC_URL.rstrip("/")
+    return req.host_url.rstrip("/")
 
 
 def send_brevo(subject, text, to_email=None, html=None, reply_to=None):
@@ -196,7 +206,6 @@ def audio_files(fname):
 # ============================================================
 # AUTH
 # ============================================================
-
 @app.route("/activate/<token>")
 def activate_redirect(token):
     """Brevo переписывает ссылки - этот роут возвращает на SPA с hash."""
@@ -208,6 +217,7 @@ def activate_redirect(token):
 def reset_redirect(token):
     from flask import redirect
     return redirect(f"/#reset/{token}")
+
 
 @app.route("/api/auth/register", methods=["POST"])
 def auth_register():
@@ -221,7 +231,7 @@ def auth_register():
         session["uid"] = res["user"]["id"]
         return jsonify({"ok": True, "user": res["user"], "is_admin": True})
 
-    link = f"{request.host_url.rstrip('/')}/#activate/{res['token']}"
+    link = f"{_public_base(request)}/#activate/{res['token']}"
     html = _email_layout(
         "Подтверждение email",
         "Подтверждение адреса",
@@ -252,7 +262,7 @@ def auth_resend():
     res = auth.resend_activation(d.get("email"))
     if not res["ok"]:
         return jsonify({"error": res["error"]}), 400
-    link = f"{request.host_url.rstrip('/')}/#activate/{res['token']}"
+    link = f"{_public_base(request)}/#activate/{res['token']}"
     html = _email_layout(
         "Подтверждение email", "Повторная отправка",
         f"<p>Здравствуйте, <b>{res['name']}</b>!</p>"
@@ -297,7 +307,7 @@ def auth_forgot():
     res = auth.create_reset_token(d.get("email"))
     if not res["ok"]:
         return jsonify({"error": res["error"]}), 400
-    link = f"{request.host_url.rstrip('/')}/#reset/{res['token']}"
+    link = f"{_public_base(request)}/#reset/{res['token']}"
     html = _email_layout(
         "Сброс пароля", "Восстановление доступа",
         f"<p>Здравствуйте, <b>{res['name']}</b>!</p>"
@@ -483,4 +493,5 @@ def health():
 
 if __name__ == "__main__":
     print("Запуск на http://127.0.0.1:5000")
+    print("PUBLIC_URL =", PUBLIC_URL or "(из текущего запроса)")
     app.run(host="0.0.0.0", port=5000, debug=False)
