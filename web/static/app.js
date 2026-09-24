@@ -1356,23 +1356,93 @@ function tabVocab(c) {
   const L = currentLesson, lang = getLang(), words = L.vocabulary || [];
   const w = document.createElement("div");
   w.className = "content-card";
-  w.innerHTML = `<div class="content-card-title">生词 · ${words.length} ${t("vocab_words")}</div>
+  w.innerHTML = `
+    <div style="display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-bottom:14px">
+      <div class="content-card-title" style="margin:0">生词 · ${words.length} ${t("vocab_words")}</div>
+      <button id="vocab-play-all"
+              style="margin-left:auto;padding:10px 18px;border-radius:10px;background:#4a9eff;color:#fff;
+                     border:0;cursor:pointer;font-size:14px;font-weight:600;display:flex;align-items:center;gap:6px">
+        <span id="vpa-icon" style="font-size:16px">▶</span>
+        <span id="vpa-label">Play all words</span>
+      </button>
+    </div>
     <table class="vocab-table"><thead><tr>
+      <th style="width:40px"></th>
       <th style="width:90px">${t("vocab_col_hanzi")}</th>
       <th style="width:130px">${t("vocab_col_pinyin")}</th>
       <th style="width:70px">${t("vocab_col_pos")}</th>
       <th>${t("vocab_col_trans")}</th></tr></thead><tbody></tbody></table>`;
   const tbody = w.querySelector("tbody");
+
   for (const v of words) {
     const tr = (v.meaning && (v.meaning[lang] || v.meaning.en)) || "";
     const row = document.createElement("tr");
-    row.innerHTML = `<td class="cell-hanzi">${escapeHtml(v.hanzi)}</td>
-      <td class="cell-pinyin">${escapeHtml(v.pinyin)}</td>
-      <td class="cell-pos">${escapeHtml(v.pos)}</td>
+    row.innerHTML = `
+      <td>
+        <button class="word-audio-btn" data-hanzi="${escapeHtml(v.hanzi || "")}"
+                style="padding:4px 8px;border-radius:6px;background:transparent;color:#66B2FF;
+                       border:1px solid #4a6a8a;cursor:pointer;font-size:14px">🔊</button>
+      </td>
+      <td class="cell-hanzi">${escapeHtml(v.hanzi || "")}</td>
+      <td class="cell-pinyin">${escapeHtml(v.pinyin || "")}</td>
+      <td class="cell-pos">${escapeHtml(v.pos || "")}</td>
       <td>${escapeHtml(tr)}</td>`;
     tbody.appendChild(row);
   }
   c.appendChild(w);
+
+  // === Аудиоплеер ===
+  const audioUrl = `/audio/unit${L.unit}/lesson${String(L.index).padStart(2, "0")}/vocab.mp3`;
+  const btn = document.getElementById("vocab-play-all");
+  const icon = document.getElementById("vpa-icon");
+  const label = document.getElementById("vpa-label");
+
+  if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+  icon.textContent = "▶"; label.textContent = "Play all words";
+
+  btn.addEventListener("click", () => {
+    if (currentAudio && !currentAudio.paused) {
+      currentAudio.pause();
+      icon.textContent = "▶"; label.textContent = "Play all words";
+      return;
+    }
+    if (!currentAudio) {
+      currentAudio = new Audio(audioUrl);
+      currentAudio.addEventListener("ended", () => {
+        icon.textContent = "▶"; label.textContent = "Play all words";
+      });
+      currentAudio.addEventListener("error", () => {
+        icon.textContent = "⚠"; label.textContent = "Audio not available";
+      });
+    }
+    currentAudio.play().then(() => {
+      icon.textContent = "⏸"; label.textContent = "Pause";
+    }).catch(err => {
+      icon.textContent = "⚠"; label.textContent = "Cannot play";
+      console.error(err);
+    });
+  });
+
+  // кнопки 🔊 на каждой строке — играют mp3 только этого слова
+  w.querySelectorAll(".word-audio-btn").forEach(b => {
+    b.addEventListener("click", (ev) => {
+      ev.stopPropagation();
+      const hanzi = b.dataset.hanzi || "";
+      if (!hanzi) return;
+      const wordUrl = "/audio/words/" + encodeURIComponent(hanzi) + ".mp3";
+
+      // лёгкая подсветка кнопки
+      const oldBg = b.style.background;
+      b.style.background = "rgba(74,158,255,0.4)";
+      setTimeout(() => { b.style.background = oldBg; }, 400);
+
+      const a = new Audio(wordUrl);
+      a.addEventListener("error", () => {
+        console.warn("no audio for word:", hanzi);
+      });
+      a.play().catch(err => console.warn("play error:", err));
+    });
+  });
 }
 function tabGrammar(c) {
   const L = currentLesson, lang = getLang();
