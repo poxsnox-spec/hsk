@@ -1242,6 +1242,8 @@ async function renderSrs() {
   document.getElementById("start").addEventListener("click", () => {
     srsStartSession(size);
   });
+  srsAddHelpButton();
+  srsTutorialMaybeShow();
 }
 
 function srsStartSession(size) {
@@ -1279,6 +1281,136 @@ function srsStartSession(size) {
   srsSession = { queue: candidates, done: 0, total: candidates.length, revealed: false };
   srsRenderCard();
 }
+
+
+// ============================================================
+// SRS Tutorial: анимированный баннер-онбординг
+// ============================================================
+(function srsTutInit() {
+  if (document.getElementById("srs-tut-style")) return;
+  const style = document.createElement("style");
+  style.id = "srs-tut-style";
+  style.textContent = `
+    @keyframes srsTutFadeIn { from { opacity:0 } to { opacity:1 } }
+    @keyframes srsTutSlideIn { from { opacity:0; transform:translateY(24px) scale(.96) } to { opacity:1; transform:translateY(0) scale(1) } }
+    @keyframes srsTutFloat { 0%,100% { transform:translateY(0) } 50% { transform:translateY(-10px) } }
+    @keyframes srsTutPulse { 0%,100% { transform:scale(1); box-shadow:0 0 0 0 rgba(74,158,255,.45) } 50% { transform:scale(1.05); box-shadow:0 0 0 14px rgba(74,158,255,0) } }
+    @keyframes srsTutBounce { 0%,100% { transform:translateY(0) scale(1) } 50% { transform:translateY(-8px) scale(1.06) } }
+    #srs-tut-card { animation:srsTutSlideIn .4s cubic-bezier(.2,.8,.2,1); }
+    .srs-tut-icon { animation:srsTutFloat 2.4s ease-in-out infinite; display:inline-block; }
+    .srs-tut-dot { transition:all .25s ease; }
+    .srs-tut-btn { transition:transform .15s ease, filter .15s ease; }
+    .srs-tut-btn:hover { transform:translateY(-2px); filter:brightness(1.08); }
+    .srs-tut-btn:active { transform:translateY(0) scale(.97); }
+    #srs-help { animation:srsTutPulse 2.6s ease-in-out infinite; }
+  `;
+  (document.head || document.documentElement).appendChild(style);
+})();
+
+function srsTutorialSlides() {
+  const lang = (typeof getLang === "function") ? getLang() : "ru";
+  const T = {
+    ru: [
+      { icon: "🎯", title: "Зачем нужен SRS?", text: "SRS показывает слово в тот момент, когда ты почти его забыл. Так запоминание работает в 3–5 раз эффективнее обычной зубрёжки." },
+      { icon: "📚", title: "Выбери уроки", text: "Перед началом сессии отметь уроки, которые хочешь повторить. Например, только 1.1 и 2.3 — система возьмёт слова лишь из них." },
+      { icon: "👀", title: "Вспомни перевод", text: "Посмотри на иероглиф. Попробуй вспомнить чтение (pinyin) и перевод — лучше вслух. Не торопись открывать ответ." },
+      { icon: "🔄", title: "Открой ответ", text: "Нажми «Показать ответ» и честно проверь себя. Если подглядывал заранее — эффекта не будет." },
+      { icon: "🎚️", title: "Оцени себя", text: "Забыл / Трудно / Хорошо / Легко. На кнопках видно, через сколько карточка вернётся — 1m, 10m, 1d или 4d." },
+      { icon: "📈", title: "Возвращайся каждый день", text: "5–10 минут в день достаточно. Система сама подберёт расписание — от тебя нужно только заходить и честно отвечать." }
+    ],
+    en: [
+      { icon: "🎯", title: "Why SRS?", text: "SRS shows a word right before you forget it. That makes memorization 3–5× more effective than cramming." },
+      { icon: "📚", title: "Pick your lessons", text: "Before starting, tick the lessons you want to review. For example, only 1.1 and 2.3 — the system will pull words only from them." },
+      { icon: "👀", title: "Recall the meaning", text: "Look at the character. Try to recall the reading (pinyin) and translation — preferably out loud. Don't rush to reveal." },
+      { icon: "🔄", title: "Reveal the answer", text: "Tap 'Show answer' and check yourself honestly. If you peeked early — the effect is lost." },
+      { icon: "🎚️", title: "Rate yourself", text: "Again / Hard / Good / Easy. The buttons show when the card will return — 1m, 10m, 1d or 4d." },
+      { icon: "📈", title: "Come back daily", text: "5–10 minutes a day is enough. The system handles the schedule — you just show up and answer honestly." }
+    ],
+    tk: [
+      { icon: "🎯", title: "SRS näme üçin?", text: "SRS sözi ýatdan çykmazyndan öň görkezýär. Bu ýatlamany 3–5 esse has täsirli edýär." },
+      { icon: "📚", title: "Sapaklary saýla", text: "Sessiýa başlamazdan öň gaýtalamak isleýän sapaklary bellediň. Meselem, diňe 1.1 we 2.3." },
+      { icon: "👀", title: "Manysyny ýatla", text: "Iýeroglife serediň. Okaýyşy (pinyin) we terjimesini ýatlamaga synanyşyň — sesli aýtsaňyz gowy." },
+      { icon: "🔄", title: "Jogaby aç", text: "\"Jogaby görkez\" düwmesine basyň we özüňizi dogruçyl barlaň. Öňünden seretmäň." },
+      { icon: "🎚️", title: "Özüňize baha beriň", text: "Ýatdan çykardym / Kyn / Gowy / Aňsat. Düwmelerde haçan gaýdyp geljekdigi görünýär — 1m, 10m, 1d ýa 4d." },
+      { icon: "📈", title: "Her gün gaýdyp geliň", text: "Günde 5–10 minut ýeterlik. Tertibi ulgam özi düzýär." }
+    ]
+  };
+  return T[lang] || T.en;
+}
+
+function srsTutorialLabels() {
+  const l = (typeof getLang === "function") ? getLang() : "ru";
+  if (l === "ru") return { skip: "Пропустить", back: "Назад", next: "Далее →", done: "Понятно!" };
+  if (l === "tk") return { skip: "Geç", back: "Yza", next: "Indiki →", done: "Düşündim!" };
+  return { skip: "Skip", back: "Back", next: "Next →", done: "Got it!" };
+}
+
+function srsShowTutorial(onDone) {
+  const slides = srsTutorialSlides();
+  const L = srsTutorialLabels();
+  let idx = 0;
+  const overlay = document.createElement("div");
+  overlay.id = "srs-tut-overlay";
+  overlay.style.cssText = "position:fixed;inset:0;background:rgba(8,12,20,0.85);backdrop-filter:blur(6px);z-index:9999;display:flex;align-items:center;justify-content:center;padding:20px;animation:srsTutFadeIn .3s ease";
+
+  function render() {
+    const s = slides[idx];
+    const isLast = idx === slides.length - 1;
+    overlay.innerHTML = `
+      <div id="srs-tut-card" style="max-width:460px;width:100%;background:linear-gradient(160deg,#1b2333 0%,#141a26 100%);border:1px solid #2a3446;border-radius:18px;padding:28px 24px 22px;text-align:center;color:#E6EDF5;box-shadow:0 24px 60px rgba(0,0,0,.55);position:relative">
+        <button class="srs-tut-btn" id="srs-tut-x" style="position:absolute;top:10px;right:12px;background:transparent;border:0;color:#6E7A8A;font-size:20px;cursor:pointer;line-height:1;padding:6px">✕</button>
+        <div class="srs-tut-icon" style="font-size:64px;line-height:1;margin-bottom:14px">${s.icon}</div>
+        <div style="font-size:20px;font-weight:700;margin-bottom:10px">${escapeHtml(s.title)}</div>
+        <div style="font-size:14px;color:#A6B4C2;line-height:1.55;min-height:78px">${escapeHtml(s.text)}</div>
+        <div style="display:flex;gap:6px;justify-content:center;margin:22px 0 18px">
+          ${slides.map((_, i) => `<span class="srs-tut-dot" style="width:8px;height:8px;border-radius:50%;background:${i === idx ? '#4a9eff' : '#2f3a4d'};transform:${i === idx ? 'scale(1.35)' : 'scale(1)'}"></span>`).join("")}
+        </div>
+        <div style="display:flex;gap:10px;justify-content:space-between;align-items:center">
+          <button class="srs-tut-btn" id="srs-tut-skip" style="background:transparent;border:0;color:#8B9AAB;font-size:13px;cursor:pointer;padding:8px 4px">${L.skip}</button>
+          <div style="display:flex;gap:8px">
+            ${idx > 0 ? `<button class="srs-tut-btn" id="srs-tut-prev" style="padding:10px 18px;border-radius:10px;border:1px solid #333;background:transparent;color:#E6EDF5;font-size:14px;cursor:pointer">${L.back}</button>` : ""}
+            <button class="srs-tut-btn" id="srs-tut-next" style="padding:10px 22px;border-radius:10px;border:0;background:#4a9eff;color:#fff;font-size:14px;font-weight:600;cursor:pointer">${isLast ? L.done : L.next}</button>
+          </div>
+        </div>
+      </div>
+    `;
+    document.getElementById("srs-tut-x").onclick = close;
+    document.getElementById("srs-tut-skip").onclick = close;
+    document.getElementById("srs-tut-next").onclick = () => { if (isLast) close(); else { idx++; render(); } };
+    const pv = document.getElementById("srs-tut-prev");
+    if (pv) pv.onclick = () => { if (idx > 0) { idx--; render(); } };
+  }
+  function close() {
+    overlay.remove();
+    if (typeof onDone === "function") onDone();
+  }
+  document.body.appendChild(overlay);
+  render();
+}
+
+function srsTutorialMaybeShow() {
+  if (typeof srsSession !== "undefined" && srsSession) return;
+  if (lsGet("hsk5_srs_tutorial_seen", false)) return;
+  setTimeout(() => srsShowTutorial(() => lsSet("hsk5_srs_tutorial_seen", true)), 500);
+}
+
+function srsAddHelpButton() {
+  if (document.getElementById("srs-help")) return;
+  const btn = document.createElement("button");
+  btn.id = "srs-help";
+  btn.title = "How to use SRS / Как пользоваться";
+  btn.textContent = "?";
+  btn.style.cssText = "position:fixed;right:20px;bottom:20px;width:50px;height:50px;border-radius:50%;border:0;background:#4a9eff;color:#fff;font-size:22px;font-weight:700;cursor:pointer;box-shadow:0 8px 24px rgba(74,158,255,.45);z-index:900;transition:transform .15s";
+  btn.addEventListener("mouseenter", () => btn.style.transform = "scale(1.1)");
+  btn.addEventListener("mouseleave", () => btn.style.transform = "scale(1)");
+  btn.addEventListener("click", () => srsShowTutorial());
+  document.body.appendChild(btn);
+}
+
+window.addEventListener("hashchange", () => {
+  const b = document.getElementById("srs-help");
+  if (b) b.remove();
+});
 
 function srsDrawLessons() {
   const wrap = document.getElementById("lessons-pick");
