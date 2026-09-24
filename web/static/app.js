@@ -130,6 +130,11 @@ const UI_T = {
     srs_correct: "Правильно",
     srs_again_short: "Ещё",
     srs_scope: "Диапазон",
+    srs_settings: "Настройки",
+    srs_export: "Экспорт",
+    srs_import: "Импорт",
+    srs_import_done: "Импортировано слов",
+    srs_import_error: "Ошибка импорта",
     srs_pick_lessons: "Уроки",
     srs_pick_all: "Все",
     srs_pick_none: "Снять",
@@ -183,6 +188,11 @@ const UI_T = {
     srs_correct: "Dogry",
     srs_again_short: "Ýene",
     srs_scope: "Aralyk",
+    srs_settings: "Sazlamalar",
+    srs_export: "Eksport",
+    srs_import: "Import",
+    srs_import_done: "Import edilen sözler",
+    srs_import_error: "Import säwligi",
     srs_pick_lessons: "Sapaklar",
     srs_pick_all: "Ählisi",
     srs_pick_none: "Aýyr",
@@ -236,6 +246,11 @@ const UI_T = {
     srs_correct: "Correct",
     srs_again_short: "Again",
     srs_scope: "Scope",
+    srs_settings: "Settings",
+    srs_export: "Export",
+    srs_import: "Import",
+    srs_import_done: "Words imported",
+    srs_import_error: "Import error",
     srs_pick_lessons: "Lessons",
     srs_pick_all: "All",
     srs_pick_none: "Clear",
@@ -1196,7 +1211,7 @@ async function renderSrs() {
 
   if (srsSession) { srsRenderCard(); return; }
 
-  content.innerHTML = `
+  content.innerHTML = srsRenderStatsCard() + `
     <div class="content-card" style="margin-top:14px">
       <div style="display:flex;gap:18px;flex-wrap:wrap;align-items:center;margin-bottom:16px">
         <div>
@@ -1214,6 +1229,12 @@ async function renderSrs() {
       <button id="start" style="padding:12px 24px;border-radius:10px;background:#4a9eff;color:#fff;border:0;font-size:16px;cursor:pointer;font-weight:600">
         ${tU("srs_start")}
       </button>
+      <div style="margin-top:12px;display:flex;gap:8px;flex-wrap:wrap">
+        <button id="srs-export" type="button" style="padding:8px 14px;border-radius:8px;border:1px solid #444;background:transparent;color:#ccc;font-size:13px;cursor:pointer">💾 ${tU("srs_export")}</button>
+        <button id="srs-import" type="button" style="padding:8px 14px;border-radius:8px;border:1px solid #444;background:transparent;color:#ccc;font-size:13px;cursor:pointer">📁 ${tU("srs_import")}</button>
+        <button id="srs-settings" type="button" style="padding:8px 14px;border-radius:8px;border:1px solid #444;background:transparent;color:#ccc;font-size:13px;cursor:pointer">⚙️ ${tU("srs_settings")}</button>
+        <input type="file" id="srs-import-file" accept=".json,application/json" style="display:none">
+      </div>
     </div>`;
 
   let size = lsGet(LS.settings, {}).sessionSize || 20;
@@ -1242,6 +1263,20 @@ async function renderSrs() {
   document.getElementById("start").addEventListener("click", () => {
     srsStartSession(size);
   });
+  const expBtn = document.getElementById("srs-export");
+  const impBtn = document.getElementById("srs-import");
+  const impFile = document.getElementById("srs-import-file");
+  if (expBtn) expBtn.addEventListener("click", srsExport);
+  if (impBtn && impFile) {
+    impBtn.addEventListener("click", () => impFile.click());
+    impFile.addEventListener("change", (e) => {
+      const f = e.target.files && e.target.files[0];
+      if (f) srsImportFromFile(f);
+      e.target.value = "";
+    });
+  }
+  const setBtn = document.getElementById("srs-settings");
+  if (setBtn) setBtn.addEventListener("click", () => srsShowSettings());
   srsAddHelpButton();
   srsTutorialMaybeShow();
 }
@@ -1345,6 +1380,182 @@ function srsTutorialLabels() {
   return { skip: "Skip", back: "Back", next: "Next →", done: "Got it!" };
 }
 
+
+// ============================================================
+// SRS Settings UI
+// ============================================================
+function srsParseSteps(str) {
+  if (Array.isArray(str)) return str.slice();
+  if (!str) return [];
+  return String(str).split(/[\s,]+/).map(x => parseInt(x, 10)).filter(n => !isNaN(n) && n > 0);
+}
+function srsStepsToStr(steps) { return (steps || []).join(" "); }
+
+
+// --- SRS: делегирование клика по ⚙️ (bulletproof) ---
+document.addEventListener("click", function srsSettingsDelegate(e) {
+  const t = e.target;
+  if (!t) return;
+  if (t.id === "srs-settings" || (t.closest && t.closest("#srs-settings"))) {
+    e.preventDefault();
+    if (typeof srsShowSettings === "function") srsShowSettings();
+  }
+});
+
+
+// --- SRS Settings: делегирование кликов (bulletproof) ---
+document.addEventListener("click", function srsSetButtonsDelegate(e) {
+  const t = e.target;
+  if (!t || !t.id) return;
+  const overlay = (t.closest && t.closest("#srs-set-overlay")) || document.getElementById("srs-set-overlay");
+  if (!overlay) return;
+  if (!overlay.contains(t)) return;
+
+  if (t.id === "srs-set-x" || t.id === "srs-set-cancel") {
+    overlay.remove();
+    return;
+  }
+
+  if (t.id === "srs-set-reset") {
+    if (!confirm("Reset to Anki defaults?")) return;
+    try {
+      srsSaveSettings(srsDefaultSettings());
+      overlay.remove();
+      if (typeof srsShowSettings === "function") srsShowSettings();
+    } catch (err) { alert("Reset error: " + err.message); }
+    return;
+  }
+
+  if (t.id === "srs-set-save") {
+    try {
+      const num = (id, def) => {
+        const el = document.getElementById(id);
+        if (!el) return def;
+        const v = parseFloat(el.value);
+        return isNaN(v) ? def : v;
+      };
+      const parseSteps = (id, def) => {
+        const el = document.getElementById(id);
+        if (!el) return def;
+        const arr = String(el.value).split(/[\s,]+/)
+          .map(x => parseInt(x, 10)).filter(n => !isNaN(n) && n > 0);
+        return arr.length ? arr : def;
+      };
+      const cur = srsGetSettings();
+      const next = {
+        learnSteps: parseSteps("f-learn", cur.learnSteps),
+        relearnSteps: parseSteps("f-relearn", cur.relearnSteps),
+        graduatingInterval: num("f-grad", cur.graduatingInterval),
+        easyInterval: num("f-easyIv", cur.easyInterval),
+        startingEase: num("f-startEase", cur.startingEase),
+        minEase: num("f-minEase", cur.minEase),
+        easyBonus: num("f-easyBonus", cur.easyBonus),
+        hardMultiplier: num("f-hardMul", cur.hardMultiplier),
+        maxInterval: num("f-maxIv", cur.maxInterval),
+        newIntervalAfterLapse: num("f-lapse", cur.newIntervalAfterLapse),
+        delayBonus: !!(document.getElementById("f-delay") && document.getElementById("f-delay").checked),
+      };
+      srsSaveSettings(next);
+      overlay.remove();
+      alert("✓ Settings saved");
+    } catch (err) {
+      alert("Save error: " + err.message);
+    }
+    return;
+  }
+});
+
+function srsShowSettings(onDone) {
+  const lang = (typeof getLang === "function") ? getLang() : "ru";
+  const L = {
+    ru: { title: "Настройки SRS", learn: "Шаги обучения (мин)", relearn: "Шаги переобучения (мин)", grad: "Интервал выпуска (дни)", easyIv: "Интервал для «Легко» (дни)", startEase: "Стартовая легкость", minEase: "Минимальная легкость", easyBonus: "Бонус за «Легко»", hardMul: "Множитель «Трудно»", maxIv: "Максимальный интервал (дни)", lapse: "После «Забыл» (доля от старого)", delay: "Бонус за опоздание", save: "Сохранить", cancel: "Отмена", reset: "Сбросить", saved: "Настройки сохранены" },
+    en: { title: "SRS Settings", learn: "Learning steps (min)", relearn: "Relearning steps (min)", grad: "Graduating interval (days)", easyIv: "Easy interval (days)", startEase: "Starting ease", minEase: "Minimum ease", easyBonus: "Easy bonus", hardMul: "Hard multiplier", maxIv: "Max interval (days)", lapse: "After lapse (fraction of old)", delay: "Delay bonus", save: "Save", cancel: "Cancel", reset: "Reset", saved: "Settings saved" },
+    tk: { title: "SRS sazlamalary", learn: "Öwreniş ädimleri (min)", relearn: "Täzeden öwreniş (min)", grad: "Mezuniyet aralygy (gün)", easyIv: "Aňsat üçin aralyk (gün)", startEase: "Başlangyç aňsatlyk", minEase: "Iň pes aňsatlyk", easyBonus: "Aňsat bonusy", hardMul: "Kyn köpeldiji", maxIv: "Iň uly aralyk (gün)", lapse: "Ýatdan çykandan soň (bölegi)", delay: "Giçikmäniň bonusy", save: "Sakla", cancel: "Ýatyr", reset: "Täzeden", saved: "Sazlamalar saklandy" }
+  }[lang] || {
+    title: "SRS Settings", learn: "Learning steps (min)", relearn: "Relearning steps (min)", grad: "Graduating interval (days)", easyIv: "Easy interval (days)", startEase: "Starting ease", minEase: "Minimum ease", easyBonus: "Easy bonus", hardMul: "Hard multiplier", maxIv: "Max interval (days)", lapse: "After lapse (fraction)", delay: "Delay bonus", save: "Save", cancel: "Cancel", reset: "Reset", saved: "Saved"
+  };
+
+  const cur = srsGetSettings();
+  const overlay = document.createElement("div");
+  overlay.id = "srs-set-overlay";
+  overlay.style.cssText = "position:fixed;inset:0;background:rgba(8,12,20,0.85);backdrop-filter:blur(6px);z-index:9999;display:flex;align-items:center;justify-content:center;padding:20px;animation:srsTutFadeIn .3s ease";
+
+  const field = (id, label, value, step) =>
+    `<label style="display:flex;justify-content:space-between;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid #1f2836"><span style="font-size:13px;color:#A6B4C2">${label}</span><input id="${id}" type="number" step="${step}" value="${value}" style="width:110px;padding:6px 10px;border-radius:8px;border:1px solid #2f3a4d;background:#0f1521;color:#E6EDF5;font-size:14px;text-align:right"></label>`;
+
+  const fieldText = (id, label, value) =>
+    `<label style="display:flex;justify-content:space-between;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid #1f2836"><span style="font-size:13px;color:#A6B4C2">${label}</span><input id="${id}" type="text" value="${value}" style="width:130px;padding:6px 10px;border-radius:8px;border:1px solid #2f3a4d;background:#0f1521;color:#E6EDF5;font-size:14px;text-align:right"></label>`;
+
+  overlay.innerHTML = `
+    <div style="max-width:520px;width:100%;max-height:88vh;overflow-y:auto;background:linear-gradient(160deg,#1b2333 0%,#141a26 100%);border:1px solid #2a3446;border-radius:18px;padding:22px 24px;color:#E6EDF5;box-shadow:0 24px 60px rgba(0,0,0,.55)">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px">
+        <div style="font-size:19px;font-weight:700">⚙️ ${L.title}</div>
+        <button id="srs-set-x" style="background:transparent;border:0;color:#6E7A8A;font-size:20px;cursor:pointer;padding:4px 8px">✕</button>
+      </div>
+      ${fieldText("f-learn", L.learn, srsStepsToStr(cur.learnSteps))}
+      ${fieldText("f-relearn", L.relearn, srsStepsToStr(cur.relearnSteps))}
+      ${field("f-grad", L.grad, cur.graduatingInterval, 1)}
+      ${field("f-easyIv", L.easyIv, cur.easyInterval, 1)}
+      ${field("f-startEase", L.startEase, cur.startingEase, 0.05)}
+      ${field("f-minEase", L.minEase, cur.minEase, 0.05)}
+      ${field("f-easyBonus", L.easyBonus, cur.easyBonus, 0.05)}
+      ${field("f-hardMul", L.hardMul, cur.hardMultiplier, 0.05)}
+      ${field("f-maxIv", L.maxIv, cur.maxInterval, 1)}
+      ${field("f-lapse", L.lapse, cur.newIntervalAfterLapse, 0.05)}
+      <label style="display:flex;justify-content:space-between;align-items:center;padding:12px 0"><span style="font-size:13px;color:#A6B4C2">${L.delay}</span><input id="f-delay" type="checkbox" ${cur.delayBonus ? "checked" : ""} style="width:18px;height:18px"></label>
+      <div style="display:flex;gap:8px;justify-content:space-between;margin-top:16px;flex-wrap:wrap">
+        <button id="srs-set-reset" style="padding:10px 16px;border-radius:10px;border:1px solid #444;background:transparent;color:#ccc;font-size:13px;cursor:pointer">${L.reset}</button>
+        <div style="display:flex;gap:8px">
+          <button id="srs-set-cancel" style="padding:10px 18px;border-radius:10px;border:1px solid #333;background:transparent;color:#E6EDF5;font-size:14px;cursor:pointer">${L.cancel}</button>
+          <button id="srs-set-save" style="padding:10px 22px;border-radius:10px;border:0;background:#4a9eff;color:#fff;font-size:14px;font-weight:600;cursor:pointer">${L.save}</button>
+        </div>
+      </div>
+    </div>`;
+
+  function num(id, def) {
+    const v = parseFloat(document.getElementById(id).value);
+    return isNaN(v) ? def : v;
+  }
+  function close() {
+    overlay.remove();
+    if (typeof onDone === "function") onDone();
+  }
+  // srs-settings-dedup-fixed
+  const _oldOverlay = document.getElementById("srs-set-overlay");
+  if (_oldOverlay && _oldOverlay.parentNode) _oldOverlay.parentNode.removeChild(_oldOverlay);
+  document.body.appendChild(overlay);
+  document.getElementById("srs-set-x").onclick = close;
+  document.getElementById("srs-set-cancel").onclick = close;
+  document.getElementById("srs-set-reset").onclick = () => {
+    if (!confirm("Reset to Anki defaults?")) return;
+    srsSaveSettings(srsDefaultSettings());
+    close();
+    if (typeof srsShowSettings === "function") srsShowSettings();
+  };
+  document.getElementById("srs-set-save").onclick = () => {
+    const cur = srsGetSettings();
+    const next = {
+      learnSteps: srsParseSteps(document.getElementById("f-learn").value),
+      relearnSteps: srsParseSteps(document.getElementById("f-relearn").value),
+      graduatingInterval: num("f-grad", cur.graduatingInterval),
+      easyInterval: num("f-easyIv", cur.easyInterval),
+      startingEase: num("f-startEase", cur.startingEase),
+      minEase: num("f-minEase", cur.minEase),
+      easyBonus: num("f-easyBonus", cur.easyBonus),
+      hardMultiplier: num("f-hardMul", cur.hardMultiplier),
+      maxInterval: num("f-maxIv", cur.maxInterval),
+      newIntervalAfterLapse: num("f-lapse", cur.newIntervalAfterLapse),
+      delayBonus: document.getElementById("f-delay").checked,
+    };
+    if (!next.learnSteps.length) next.learnSteps = [1, 10];
+    if (!next.relearnSteps.length) next.relearnSteps = [10];
+    srsSaveSettings(next);
+    close();
+    alert(L.saved);
+  };
+
+}
+
 function srsShowTutorial(onDone) {
   const slides = srsTutorialSlides();
   const L = srsTutorialLabels();
@@ -1411,6 +1622,156 @@ window.addEventListener("hashchange", () => {
   const b = document.getElementById("srs-help");
   if (b) b.remove();
 });
+
+
+// --- SRS: audio on card ---
+function srsPlayWordAudio(hanzi) {
+  if (!hanzi) return;
+  const url = "/audio/words/" + encodeURIComponent(hanzi) + ".mp3";
+  try {
+    const a = new Audio(url);
+    a.play().catch(() => {});
+  } catch (e) {}
+}
+
+// --- SRS: export / import JSON ---
+function srsExport() {
+  const data = {
+    version: 1,
+    exported: new Date().toISOString(),
+    srs: lsGet(LS.srs, {}),
+    settings: (typeof srsGetSettings === "function") ? srsGetSettings() : {},
+    lessons: lsGet("hsk5_srs_lessons", "all")
+  };
+  const blob = new Blob([JSON.stringify(data, null, 2)], {type: "application/json"});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = "hsk5_srs_" + new Date().toISOString().slice(0, 10) + ".json";
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
+function srsImportFromFile(file) {
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = (e) => {
+    try {
+      const data = JSON.parse(e.target.result);
+      let merged = 0;
+      if (data.srs && typeof data.srs === "object") {
+        const cur = lsGet(LS.srs, {});
+        for (const [k, v] of Object.entries(data.srs)) {
+          if (!cur[k]) { cur[k] = v; merged++; continue; }
+          const a = cur[k], b = v;
+          if ((b.reps || 0) > (a.reps || 0) || (b.due || 0) > (a.due || 0)) {
+            cur[k] = b; merged++;
+          }
+        }
+        lsSet(LS.srs, cur);
+      }
+      if (data.settings && typeof data.settings === "object") {
+        lsSet("hsk5_srs_settings", data.settings);
+      }
+      if (data.lessons) lsSet("hsk5_srs_lessons", data.lessons);
+      alert((typeof tU === "function" ? tU("srs_import_done") : "Imported") + " — " + merged);
+      location.reload();
+    } catch (err) {
+      alert((typeof tU === "function" ? tU("srs_import_error") : "Error") + ": " + err.message);
+    }
+  };
+  reader.readAsText(file);
+}
+
+
+// ============================================================
+// SRS Stats
+// ============================================================
+function srsComputeStats() {
+  const db = srsLoad();
+  const now = Date.now();
+  const counts = { new: 0, learning: 0, review: 0, relearning: 0 };
+  const upcoming = [0, 0, 0, 0, 0, 0, 0]; // today + next 6 days
+  let rated = 0, correct = 0;
+
+  for (const [h, raw] of Object.entries(db)) {
+    const c = (typeof srsMigrateCard === "function") ? srsMigrateCard(raw, now) : raw;
+    const st = c.state || "new";
+    if (counts[st] !== undefined) counts[st]++;
+    if (c.lastRating) {
+      rated++;
+      if (c.lastRating >= 3) correct++;
+    }
+    if (c.due) {
+      const days = Math.max(0, Math.floor((c.due - now) / (24 * 60 * 60 * 1000)));
+      if (days < 7) upcoming[days]++;
+    }
+  }
+  const total = Object.keys(db).length;
+  const retention = rated ? Math.round((correct / rated) * 100) : 0;
+  return { counts, upcoming, total, retention, rated };
+}
+
+function srsRenderStatsCard() {
+  const s = srsComputeStats();
+  const total = s.total || 1;
+  const seg = (n, color, label) => {
+    if (!n) return "";
+    const pct = (n / total) * 100;
+    return `<div style="flex:${n};background:${color};height:100%;position:relative" title="${label}: ${n} (${pct.toFixed(1)}%)"></div>`;
+  };
+  const legend = [
+    { key: "new", color: "#5CD68E", label: "New" },
+    { key: "learning", color: "#FFB84D", label: "Learn" },
+    { key: "review", color: "#66B2FF", label: "Review" },
+    { key: "relearning", color: "#FF6B6B", label: "Relearn" },
+  ];
+  const legendHtml = legend.map(l =>
+    `<div style="display:flex;align-items:center;gap:6px;font-size:12px;color:#A6B4C2">
+      <span style="display:inline-block;width:10px;height:10px;border-radius:2px;background:${l.color}"></span>
+      ${l.label}: <b style="color:#E6EDF5">${s.counts[l.key] || 0}</b>
+    </div>`
+  ).join("");
+
+  const maxUp = Math.max(1, ...s.upcoming);
+  const days = ["Сегодня","+1","+2","+3","+4","+5","+6"];
+  const bars = s.upcoming.map((n, i) => {
+    const h = Math.round((n / maxUp) * 60);
+    return `<div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px">
+      <div style="font-size:11px;color:#8B9AAB">${n}</div>
+      <div style="width:100%;height:${h}px;min-height:2px;background:linear-gradient(180deg,#66B2FF,#4a9eff);border-radius:3px 3px 0 0"></div>
+      <div style="font-size:10px;color:#6E7A8A">${days[i]}</div>
+    </div>`;
+  }).join("");
+
+  const retentionColor = s.retention >= 80 ? "#5CD68E" : s.retention >= 60 ? "#FFB84D" : "#FF6B6B";
+
+  return `
+    <div class="content-card" style="margin-top:14px;padding:16px">
+      <div style="font-size:14px;font-weight:600;margin-bottom:12px;color:#E6EDF5">📊 Статистика</div>
+
+      <div style="display:flex;gap:16px;flex-wrap:wrap;margin-bottom:14px">
+        <div style="flex:1;min-width:140px">
+          <div style="font-size:11px;color:#8B9AAB;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:4px">Всего</div>
+          <div style="font-size:22px;font-weight:700;color:#E6EDF5">${s.total}</div>
+        </div>
+        <div style="flex:1;min-width:140px">
+          <div style="font-size:11px;color:#8B9AAB;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:4px">Retention</div>
+          <div style="font-size:22px;font-weight:700;color:${retentionColor}">${s.retention}%<span style="font-size:12px;color:#8B9AAB;margin-left:6px">(${s.rated})</span></div>
+        </div>
+      </div>
+
+      <div style="display:flex;height:14px;border-radius:7px;overflow:hidden;background:#1a2230;margin-bottom:10px">
+        ${legend.map(l => seg(s.counts[l.key] || 0, l.color, l.label)).join("")}
+      </div>
+      <div style="display:flex;flex-wrap:wrap;gap:12px;margin-bottom:16px">${legendHtml}</div>
+
+      <div style="font-size:12px;color:#8B9AAB;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:6px">Прогноз на 7 дней</div>
+      <div style="display:flex;gap:4px;height:100px;align-items:flex-end">${bars}</div>
+    </div>`;
+}
 
 function srsDrawLessons() {
   const wrap = document.getElementById("lessons-pick");
@@ -1509,6 +1870,7 @@ function srsRenderCard() {
     </div>
     <div class="content-card" style="margin-top:20px;text-align:center;padding:40px 20px;min-height:280px">
       <div style="font-size:64px;font-weight:700;letter-spacing:4px">${escapeHtml(word.hanzi)}</div>
+      <button id="srs-audio" type="button" title="Play" style="margin-top:12px;padding:8px 18px;border-radius:10px;border:1px solid #4a9eff;background:rgba(74,158,255,0.12);color:#8EC8FF;font-size:18px;cursor:pointer">🔊</button>
       ${revealed ? `
         <div style="font-size:22px;color:#8B9AAB;margin-top:12px">${escapeHtml(word.pinyin)}</div>
         <div style="font-size:14px;color:#8B9AAB;margin-top:4px">${escapeHtml(word.pos)}</div>
@@ -1521,6 +1883,9 @@ function srsRenderCard() {
     srsSession = null;
     navigate("menu");
   });
+
+  const audioBtn = document.getElementById("srs-audio");
+  if (audioBtn) audioBtn.addEventListener("click", () => srsPlayWordAudio(word.hanzi));
 
   const actions = document.getElementById("actions");
   if (!revealed) {

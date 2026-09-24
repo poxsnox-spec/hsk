@@ -368,7 +368,9 @@
   // PROGRESS SYNC
   // ============================================================
   const SYNC_KEYS = ["hsk5_activity", "hsk5_lessons_opened",
-                     "hsk5_srs", "hsk5_settings"];
+                     "hsk5_srs", "hsk5_settings",
+                     "hsk5_srs_settings", "hsk5_srs_lessons",
+                     "hsk5_srs_tutorial_seen"];
 
   async function loadProgress() {
     try {

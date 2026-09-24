@@ -1,0 +1,152 @@
+
+======================================================================
+1. users.db
+======================================================================
+Таблицы:
+  progress: 2 строк
+  sqlite_sequence: 1 строк
+  users: 2 строк
+
+--- Схема progress ---
+  user_id INTEGER
+  key TEXT
+  value TEXT
+  updated_at TEXT
+
+--- Схема sqlite_sequence ---
+  name 
+  seq 
+
+--- Схема users ---
+  id INTEGER
+  email TEXT
+  name TEXT
+  password_hash TEXT
+  avatar TEXT
+  hsk_level TEXT
+  created_at TEXT
+  activated INTEGER
+  activate_token TEXT
+  activate_expires TEXT
+  is_admin INTEGER
+  reset_token TEXT
+  reset_expires TEXT
+
+
+======================================================================
+2. server.py — БД и пользователь
+======================================================================
+  'sqlite3.connect': 0 раз
+  'users.db': 0 раз
+  'DATA /': 1 раз
+  'current_user': 4 раз
+  'session': 19 раз
+  'user_id': 0 раз
+  'require_login': 11 раз
+  'def current_user': 1 раз
+  '@app.route': 29 раз
+  '/api/auth/me': 1 раз
+  '/api/progress': 3 раз
+  '/api/vocab': 1 раз
+
+Все @app.route:
+  /
+  /static/<path:fname>
+  /favicon.ico
+  /favicon.svg
+  /audio/<path:fname>
+  /activate/<token>
+  /reset/<token>
+  /api/auth/register
+  /api/auth/activate/<token>
+  /api/auth/resend
+  /api/auth/login
+  /api/auth/logout
+  /api/auth/me
+  /api/auth/forgot
+  /api/auth/reset/<token>
+  /api/auth/profile
+  /api/progress
+  /api/progress/<key>
+  /api/progress
+  /api/lessons
+  /api/lessons/<int:unit>/<int:lesson>
+  /api/vocab
+  /api/grammar
+  /api/compare
+  /api/feedback
+  /api/admin/users
+  /api/admin/users/<int:uid>/progress
+  /api/admin/users/<int:uid>
+  /api/health
+
+Все def в server.py (первые 40):
+  _guest_mode_active
+  _public_base
+  send_brevo
+  emit
+  _iter_lessons
+  current_user
+  require_login
+  wrapper
+  require_admin
+  wrapper
+  _email_layout
+  index
+  static_files
+  favicon
+  audio_files
+  activate_redirect
+  reset_redirect
+  auth_register
+  auth_activate
+  auth_resend
+  auth_login
+  auth_logout
+  auth_me
+  auth_forgot
+  auth_reset
+  auth_profile_update
+  progress_all
+  progress_put
+  progress_reset
+  api_lessons_list
+  api_lesson
+  api_vocab
+  api_grammar
+  api_compare
+  api_feedback
+  admin_users
+  admin_user_progress
+  admin_delete_user
+  health
+
+CREATE TABLE / CREATE INDEX:
+
+======================================================================
+3. auth.py
+======================================================================
+  'current_user': 0 раз
+  'session': 0 раз
+  'user_id': 27 раз
+  'g.user': 0 раз
+
+======================================================================
+4. Как фронт обращается к API
+======================================================================
+  'fetch(': 14 раз
+  '/api/': 14 раз
+  'PUT': 1 раз
+  'POST': 3 раз
+  '/api/progress': 0 раз
+  'auth/me': 1 раз
+  'srsLoad': 7 раз
+  'srsSave': 7 раз
+
+======================================================================
+ИТОГ
+======================================================================
+Что мы будем делать:
+1) В users.db добавить таблицу srs_cards (user_id, hanzi, state, ...)
+2) В server.py — GET /api/srs и PUT /api/srs (batch)
+3) В app.js — после логина подтягивать с сервера, при изменении пушить (debounced)
