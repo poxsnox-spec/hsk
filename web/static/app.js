@@ -130,6 +130,10 @@ const UI_T = {
     srs_correct: "Правильно",
     srs_again_short: "Ещё",
     srs_scope: "Диапазон",
+    srs_pick_lessons: "Уроки",
+    srs_pick_all: "Все",
+    srs_pick_none: "Снять",
+    srs_pick_empty: "Выберите хотя бы один урок",
   },
   tk: {
     vocab_search_ph: "Hanzi, pinyin ýa-da terjime boýunça gözle...",
@@ -179,6 +183,10 @@ const UI_T = {
     srs_correct: "Dogry",
     srs_again_short: "Ýene",
     srs_scope: "Aralyk",
+    srs_pick_lessons: "Sapaklar",
+    srs_pick_all: "Ählisi",
+    srs_pick_none: "Aýyr",
+    srs_pick_empty: "Iň bolmanda bir sapak saýlaň",
   },
   en: {
     vocab_search_ph: "Search by hanzi, pinyin or translation...",
@@ -228,6 +236,10 @@ const UI_T = {
     srs_correct: "Correct",
     srs_again_short: "Again",
     srs_scope: "Scope",
+    srs_pick_lessons: "Lessons",
+    srs_pick_all: "All",
+    srs_pick_none: "Clear",
+    srs_pick_empty: "Pick at least one lesson",
   },
 };
 function tU(k) {
@@ -953,37 +965,208 @@ function renderProgress() {
 // ============================================================
 let srsSession = null;
 
+// --- SRS: выбор уроков ---
+const SRS_LESSONS_KEY = "hsk5_srs_lessons";
+let _srsHanziMap = null;
+function srsBuildHanziMap() {
+  if (_srsHanziMap) return _srsHanziMap;
+  _srsHanziMap = {};
+  for (const w of (vocabCache || [])) {
+    if (w && w.hanzi) _srsHanziMap[w.hanzi] = { unit: w.unit, lesson: w.lesson };
+  }
+  return _srsHanziMap;
+}
+function srsGetLessonSel() {
+  const raw = lsGet(SRS_LESSONS_KEY, "all");
+  if (raw === "all") return "all";
+  if (!Array.isArray(raw)) return "all";
+  return raw;
+}
+function srsSetLessonSel(sel) { lsSet(SRS_LESSONS_KEY, sel); }
+function srsHanziInSel(hanzi, sel) {
+  if (sel === "all") return true;
+  if (!Array.isArray(sel) || !sel.length) return false;
+  const map = srsBuildHanziMap();
+  const info = map[hanzi];
+  if (!info || !info.unit || !info.lesson) return false;
+  return sel.indexOf("u" + info.unit + "_l" + info.lesson) >= 0;
+}
+
+
 function srsLoad() { return lsGet(LS.srs, {}); }
 function srsSave(data) { lsSet(LS.srs, data); }
 
-function srsReview(hanzi, rating) {
-  const db = srsLoad();
-  let r = db[hanzi] || { ease: 2.5, interval: 0, reps: 0, lapses: 0, due: 0 };
-  // rating: 1=again 2=hard 3=good 4=easy
-  if (rating === 1) {
-    r.interval = 0;
-    r.reps = 0;
-    r.lapses = (r.lapses || 0) + 1;
-    r.ease = Math.max(1.3, r.ease - 0.2);
-  } else {
-    if (rating === 2) {
-      r.interval = r.reps === 0 ? 1 : Math.max(1, Math.round(r.interval * 1.2));
-      r.ease = Math.max(1.3, r.ease - 0.15);
-    } else if (rating === 3) {
-      r.interval = r.reps === 0 ? 1 : (r.reps === 1 ? 3 : Math.round(r.interval * r.ease));
-      r.reps += 1;
-    } else if (rating === 4) {
-      r.interval = r.reps === 0 ? 2 : (r.reps === 1 ? 5 : Math.round(r.interval * r.ease * 1.3));
-      r.ease = Math.min(3.0, r.ease + 0.15);
-      r.reps += 1;
-    }
-    r.reps = r.reps || 1;
-  }
+// ============================================================
+// AnkiDroid-style SRS (SM-2 with learning steps)
+// ============================================================
+function srsDefaultSettings() {
+  return {
+    learnSteps: [1, 10],
+    relearnSteps: [10],
+    graduatingInterval: 1,
+    easyInterval: 4,
+    startingEase: 2.5,
+    minEase: 1.3,
+    easyBonus: 1.3,
+    hardMultiplier: 1.2,
+    maxInterval: 365 * 5,
+    newIntervalAfterLapse: 0,
+    delayBonus: true,
+  };
+}
+const SRS_SETTINGS_KEY = "hsk5_srs_settings";
+const SRS_MIN = 60 * 1000;
+const SRS_DAY = 24 * 60 * SRS_MIN;
+
+function srsGetSettings() {
+  const stored = lsGet(SRS_SETTINGS_KEY, {});
+  return Object.assign(srsDefaultSettings(), stored || {});
+}
+function srsSaveSettings(s) { lsSet(SRS_SETTINGS_KEY, s); }
+
+function srsCardDefaults(now) {
+  const cfg = srsGetSettings();
+  return {
+    state: "new", stepIndex: 0, due: now,
+    interval: 0, ease: cfg.startingEase, reps: 0, lapses: 0,
+  };
+}
+
+function srsMigrateCard(card, now) {
+  if (!card || typeof card !== "object") return srsCardDefaults(now);
+  if (card.state) return card;
+  const cfg = srsGetSettings();
+  if ((card.reps || 0) >= 1 && (card.interval || 0) >= 1) card.state = "review";
+  else card.state = "new";
+  card.stepIndex = card.stepIndex || 0;
+  if (!card.ease) card.ease = cfg.startingEase;
+  return card;
+}
+
+function srsStateLabel(card) {
+  if (!card) return "NEW";
+  return ({ new: "NEW", learning: "LEARN", review: "REVIEW", relearning: "RELEARN" }[card.state || "new"]) || "NEW";
+}
+
+function srsFmtMs(ms) {
+  if (ms < 60 * 1000) return Math.round(ms / 1000) + "s";
+  if (ms < 60 * 60 * 1000) return Math.round(ms / (60 * 1000)) + "m";
+  if (ms < 24 * 60 * 60 * 1000) return (ms / (60 * 60 * 1000)).toFixed(1) + "h";
+  const d = ms / (24 * 60 * 60 * 1000);
+  if (d < 30) return Math.round(d) + "d";
+  if (d < 365) return (d / 30).toFixed(1) + "mo";
+  return (d / 365).toFixed(1) + "y";
+}
+
+function srsPreviewIntervals(card) {
+  const cfg = srsGetSettings();
   const now = Date.now();
-  r.due = now + r.interval * 24 * 60 * 60 * 1000;
-  db[hanzi] = r;
+  const c = card || srsCardDefaults(now);
+  const state = c.state || "new";
+  const out = { again: "", hard: "", good: "", easy: "" };
+  if (state === "new") {
+    const s0 = cfg.learnSteps[0] || 1;
+    const s1 = cfg.learnSteps[1] || s0 * 10;
+    out.again = srsFmtMs(s0 * SRS_MIN);
+    out.hard  = srsFmtMs(((s0 + s1) / 2) * SRS_MIN);
+    out.good  = srsFmtMs(s1 * SRS_MIN);
+    out.easy  = srsFmtMs(cfg.easyInterval * SRS_DAY);
+    return out;
+  }
+  if (state === "learning" || state === "relearning") {
+    const steps = state === "relearning" ? cfg.relearnSteps : cfg.learnSteps;
+    const cur = steps[c.stepIndex] || steps[steps.length - 1] || 1;
+    const nxt = steps[c.stepIndex + 1];
+    out.again = srsFmtMs((steps[0] || 1) * SRS_MIN);
+    out.hard  = srsFmtMs((nxt ? (cur + nxt) / 2 : cur * 1.5) * SRS_MIN);
+    out.good  = nxt ? srsFmtMs(nxt * SRS_MIN) : srsFmtMs(cfg.graduatingInterval * SRS_DAY);
+    out.easy  = srsFmtMs(cfg.easyInterval * SRS_DAY);
+    return out;
+  }
+  const iv = Math.max(1, c.interval || 1);
+  const ease = c.ease || cfg.startingEase;
+  const delayDays = Math.max(0, (now - (c.due || now)) / SRS_DAY);
+  out.again = srsFmtMs((cfg.relearnSteps[0] || 10) * SRS_MIN);
+  out.hard  = srsFmtMs(Math.max(1, iv * cfg.hardMultiplier) * SRS_DAY);
+  const g = iv * ease + (cfg.delayBonus ? delayDays / 2 : 0);
+  out.good = srsFmtMs(Math.max(1, g) * SRS_DAY);
+  const e = iv * ease * cfg.easyBonus + (cfg.delayBonus ? delayDays : 0);
+  out.easy = srsFmtMs(Math.max(1, e) * SRS_DAY);
+  return out;
+}
+
+function srsApplyRating(hanzi, rating) {
+  const db = srsLoad();
+  const now = Date.now();
+  const cfg = srsGetSettings();
+  let c = db[hanzi] ? srsMigrateCard(db[hanzi], now) : srsCardDefaults(now);
+
+  if (c.state === "new") { c.state = "learning"; c.stepIndex = 0; }
+
+  if (c.state === "learning" || c.state === "relearning") {
+    const steps = c.state === "relearning" ? cfg.relearnSteps : cfg.learnSteps;
+    if (rating === 1) {
+      c.stepIndex = 0;
+      c.due = now + steps[0] * SRS_MIN;
+    } else if (rating === 2) {
+      const cur = steps[c.stepIndex] || steps[steps.length - 1];
+      const nxt = steps[c.stepIndex + 1];
+      c.due = now + (nxt ? (cur + nxt) / 2 : cur * 1.5) * SRS_MIN;
+    } else if (rating === 3) {
+      const ni = c.stepIndex + 1;
+      if (ni < steps.length) {
+        c.stepIndex = ni;
+        c.due = now + steps[ni] * SRS_MIN;
+      } else {
+        c.state = "review";
+        c.interval = cfg.graduatingInterval;
+        c.reps = (c.reps || 0) + 1;
+        c.due = now + cfg.graduatingInterval * SRS_DAY;
+      }
+    } else {
+      c.state = "review";
+      c.interval = cfg.easyInterval;
+      c.reps = (c.reps || 0) + 1;
+      c.ease = Math.min(3.5, (c.ease || cfg.startingEase) + 0.15);
+      c.due = now + cfg.easyInterval * SRS_DAY;
+    }
+  } else if (c.state === "review") {
+    const delayDays = Math.max(0, (now - (c.due || now)) / SRS_DAY);
+    const iv = Math.max(1, c.interval || 1);
+    const ease = c.ease || cfg.startingEase;
+    if (rating === 1) {
+      c.lapses = (c.lapses || 0) + 1;
+      c.ease = Math.max(cfg.minEase, ease - 0.2);
+      c.interval = Math.max(1, Math.round(iv * cfg.newIntervalAfterLapse));
+      c.state = "relearning";
+      c.stepIndex = 0;
+      c.due = now + (cfg.relearnSteps[0] || 10) * SRS_MIN;
+    } else if (rating === 2) {
+      c.ease = Math.max(cfg.minEase, ease - 0.15);
+      c.interval = Math.min(cfg.maxInterval, Math.max(1, iv * cfg.hardMultiplier));
+      c.due = now + c.interval * SRS_DAY;
+    } else if (rating === 3) {
+      const nx = iv * ease + (cfg.delayBonus ? delayDays / 2 : 0);
+      c.interval = Math.min(cfg.maxInterval, Math.max(1, Math.round(nx)));
+      c.reps = (c.reps || 0) + 1;
+      c.due = now + c.interval * SRS_DAY;
+    } else {
+      const nx = iv * ease * cfg.easyBonus + (cfg.delayBonus ? delayDays : 0);
+      c.ease = Math.min(3.5, ease + 0.15);
+      c.interval = Math.min(cfg.maxInterval, Math.max(1, Math.round(nx)));
+      c.reps = (c.reps || 0) + 1;
+      c.due = now + c.interval * SRS_DAY;
+    }
+  }
+  c.lastRating = rating;
+  db[hanzi] = c;
   srsSave(db);
-  return r;
+  return c;
+}
+
+
+function srsReview(hanzi, rating) {
+  return srsApplyRating(hanzi, rating);
 }
 
 function srsDueCards() {
@@ -1025,6 +1208,7 @@ async function renderSrs() {
           <div style="font-size:12px;color:#8B9AAB">${tU("srs_total")}</div>
         </div>
       </div>
+      <div id="lessons-pick"></div>
       <div style="font-size:13px;color:#8B9AAB;margin-bottom:8px">${tU("srs_size")}</div>
       <div id="size-btns" style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px"></div>
       <button id="start" style="padding:12px 24px;border-radius:10px;background:#4a9eff;color:#fff;border:0;font-size:16px;cursor:pointer;font-weight:600">
@@ -1048,6 +1232,7 @@ async function renderSrs() {
         size = n;
         const s = lsGet(LS.settings, {}); s.sessionSize = n; lsSet(LS.settings, s);
         drawSize();
+  srsDrawLessons();
       });
       wrap.appendChild(b);
     }
@@ -1062,30 +1247,98 @@ async function renderSrs() {
 function srsStartSession(size) {
   const db = srsLoad();
   const now = Date.now();
-  // 1) сначала due-карточки
-  let candidates = Object.entries(db)
-    .filter(([_, r]) => (r.due || 0) <= now)
-    .map(([h]) => h);
-  // 2) если мало — добавляем новые слова
-  const need = size - candidates.length;
-  if (need > 0) {
-    const all = vocabCache.map(w => w.hanzi).filter(Boolean);
-    const fresh = all.filter(h => !db[h]);
-    // перемешаем
-    for (let i = fresh.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [fresh[i], fresh[j]] = [fresh[j], fresh[i]];
-    }
-    candidates = candidates.concat(fresh.slice(0, need));
-  }
-  candidates = candidates.slice(0, size);
-  if (!candidates.length) {
-    alert(tU("srs_all_done"));
+  const sel = srsGetLessonSel();
+  if (Array.isArray(sel) && sel.length === 0) {
+    alert(tU("srs_pick_empty"));
     return;
   }
+  const entries = Object.entries(db).map(([h, c]) => [h, srsMigrateCard(c, now)]);
+
+  let learning = entries
+    .filter(([h, c]) => (c.state === "learning" || c.state === "relearning") && (c.due || 0) <= now && srsHanziInSel(h, sel))
+    .map(([h]) => h);
+
+  let review = entries
+    .filter(([h, c]) => c.state === "review" && (c.due || 0) <= now && srsHanziInSel(h, sel))
+    .map(([h]) => h);
+
+  const all = (vocabCache || []).map(w => w.hanzi).filter(Boolean);
+  let fresh = all.filter(h => {
+    const c = db[h];
+    if (!c) return srsHanziInSel(h, sel);
+    return srsMigrateCard(c, now).state === "new" && srsHanziInSel(h, sel);
+  });
+  for (let i = fresh.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [fresh[i], fresh[j]] = [fresh[j], fresh[i]];
+  }
+
+  let candidates = learning.concat(review).concat(fresh);
+  candidates = candidates.slice(0, size);
+  if (!candidates.length) { alert(tU("srs_all_done")); return; }
   srsSession = { queue: candidates, done: 0, total: candidates.length, revealed: false };
   srsRenderCard();
 }
+
+function srsDrawLessons() {
+  const wrap = document.getElementById("lessons-pick");
+  if (!wrap) return;
+  const sel = srsGetLessonSel();
+  const byUnit = {};
+  for (const w of (vocabCache || [])) {
+    if (!w || !w.hanzi || !w.unit) continue;
+    if (!byUnit[w.unit]) byUnit[w.unit] = new Set();
+    byUnit[w.unit].add(w.lesson);
+  }
+  const units = Object.keys(byUnit).map(Number).sort((a, b) => a - b);
+  if (!units.length) { wrap.innerHTML = ""; return; }
+
+  let total = 0;
+  for (const u of units) total += byUnit[u].size;
+
+  let html = `<div style="background:rgba(255,255,255,0.03);border:1px solid #2a3446;border-radius:10px;padding:12px;margin-bottom:16px">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+      <div style="font-size:13px;color:#8B9AAB">${tU("srs_pick_lessons")}</div>
+      <div style="display:flex;gap:6px">
+        <button id="sel-all" type="button" style="padding:4px 10px;border-radius:6px;border:1px solid #444;background:transparent;color:#fff;font-size:12px;cursor:pointer">${tU("srs_pick_all")}</button>
+        <button id="sel-none" type="button" style="padding:4px 10px;border-radius:6px;border:1px solid #444;background:transparent;color:#fff;font-size:12px;cursor:pointer">${tU("srs_pick_none")}</button>
+      </div>
+    </div>`;
+  for (const u of units) {
+    html += `<div style="margin-bottom:6px"><div style="font-size:12px;color:#8B9AAB;margin-bottom:4px">Unit ${u}</div><div style="display:flex;flex-wrap:wrap;gap:6px">`;
+    for (const l of Array.from(byUnit[u]).sort((a, b) => a - b)) {
+      const key = "u" + u + "_l" + l;
+      const active = sel === "all" || (Array.isArray(sel) && sel.indexOf(key) >= 0);
+      html += `<button type="button" class="srs-lesson-chip" data-key="${key}" style="padding:5px 12px;border-radius:8px;font-size:13px;cursor:pointer;border:1px solid ${active ? "#4a9eff" : "#444"};background:${active ? "rgba(74,158,255,0.2)" : "transparent"};color:${active ? "#8EC8FF" : "#ccc"}">${u}.${l}</button>`;
+    }
+    html += `</div></div>`;
+  }
+  html += `</div>`;
+  wrap.innerHTML = html;
+
+  wrap.querySelectorAll(".srs-lesson-chip").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const key = btn.dataset.key;
+      let cur = srsGetLessonSel();
+      if (cur === "all") {
+        cur = [];
+        for (const u of units) for (const l of byUnit[u]) cur.push("u" + u + "_l" + l);
+      } else {
+        cur = cur.slice();
+      }
+      const i = cur.indexOf(key);
+      if (i >= 0) cur.splice(i, 1); else cur.push(key);
+      if (cur.length === total) srsSetLessonSel("all");
+      else srsSetLessonSel(cur);
+      srsDrawLessons();
+    });
+  });
+  const a = document.getElementById("sel-all");
+  const n = document.getElementById("sel-none");
+  if (a) a.addEventListener("click", () => { srsSetLessonSel("all"); srsDrawLessons(); });
+  if (n) n.addEventListener("click", () => { srsSetLessonSel([]); srsDrawLessons(); });
+}
+
 
 function srsRenderCard() {
   if (!srsSession || !srsSession.queue.length) {
@@ -1099,25 +1352,28 @@ function srsRenderCard() {
         <div style="font-size:48px">🎉</div>
         <div style="font-size:20px;margin-top:12px">${tU("srs_finish")}</div>
         <div style="color:#8B9AAB;margin-top:8px">${total}</div>
-        <button id="ok" style="margin-top:24px;padding:12px 24px;border-radius:10px;background:#4a9eff;color:#fff;border:0;font-size:16px;cursor:pointer">
-          OK</button>
+        <button id="ok" style="margin-top:24px;padding:12px 24px;border-radius:10px;background:#4a9eff;color:#fff;border:0;font-size:16px;cursor:pointer">OK</button>
       </div>`;
     document.getElementById("back").addEventListener("click", () => navigate("menu"));
     document.getElementById("ok").addEventListener("click", () => navigate("menu"));
     return;
   }
-
   const hanzi = srsSession.queue[0];
   const word = vocabCache.find(w => w.hanzi === hanzi) || { hanzi, pinyin: "", pos: "", meaning: {} };
   const lang = getLang();
   const meaning = (word.meaning && (word.meaning[lang] || word.meaning.en)) || "";
   const revealed = srsSession.revealed;
+  const cardRec = srsLoad()[hanzi] || { state: "new" };
+  const stateLabel = srsStateLabel(cardRec);
+  const stateColor = ({ new: "#5CD68E", learning: "#FFB84D", review: "#66B2FF", relearning: "#FF6B6B" }[cardRec.state || "new"]) || "#8B9AAB";
+  const previews = srsPreviewIntervals(cardRec);
 
   app.innerHTML = `
     <button class="back-btn" id="back">‹ ${t("back")}</button>
     <div class="header"><span class="app-name">🔁 ${tU("srs_title")}</span></div>
-    <div style="color:#8B9AAB;font-size:13px;margin-top:8px;text-align:center">
-      ${srsSession.done} / ${srsSession.total}
+    <div style="color:#8B9AAB;font-size:13px;margin-top:8px;text-align:center;display:flex;justify-content:center;gap:12px;align-items:center">
+      <span>${srsSession.done} / ${srsSession.total}</span>
+      <span style="padding:2px 8px;border-radius:6px;font-size:11px;font-weight:600;background:${stateColor}22;color:${stateColor};border:1px solid ${stateColor}">${stateLabel}</span>
     </div>
     <div class="content-card" style="margin-top:20px;text-align:center;padding:40px 20px;min-height:280px">
       <div style="font-size:64px;font-weight:700;letter-spacing:4px">${escapeHtml(word.hanzi)}</div>
@@ -1145,23 +1401,24 @@ function srsRenderCard() {
     const row = document.createElement("div");
     row.style.cssText = "display:grid;grid-template-columns:repeat(4,1fr);gap:8px";
     const btnData = [
-      { label: tU("srs_again"), color: "#FF6B6B", r: 1 },
-      { label: tU("srs_hard"),  color: "#FFB84D", r: 2 },
-      { label: tU("srs_good"),  color: "#5CD68E", r: 3 },
-      { label: tU("srs_easy"),  color: "#4a9eff", r: 4 },
+      { label: tU("srs_again"), color: "#FF6B6B", r: 1, prev: previews.again },
+      { label: tU("srs_hard"),  color: "#FFB84D", r: 2, prev: previews.hard  },
+      { label: tU("srs_good"),  color: "#5CD68E", r: 3, prev: previews.good  },
+      { label: tU("srs_easy"),  color: "#4a9eff", r: 4, prev: previews.easy  },
     ];
-    for (const { label, color, r } of btnData) {
+    for (const { label, color, r, prev } of btnData) {
       const b = document.createElement("button");
-      b.textContent = label;
+      b.innerHTML = `<div style="font-size:14px;font-weight:600">${label}</div><div style="font-size:11px;color:${color}88;margin-top:2px">${prev}</div>`;
       b.style.cssText =
         `padding:14px 8px;border-radius:10px;border:1px solid ${color};` +
-        `background:${color}22;color:${color};font-size:14px;cursor:pointer;font-weight:600`;
+        `background:${color}22;color:${color};cursor:pointer;font-weight:600`;
       b.addEventListener("click", () => {
-        srsReview(hanzi, r);
+        const updated = srsApplyRating(hanzi, r);
         markActivity(1);
-        if (r === 1) {
-          // опять — в конец очереди
-          srsSession.queue.push(hanzi);
+        const stillLearning = updated.state === "learning" || updated.state === "relearning";
+        if (stillLearning) {
+          const pos = Math.min(3, srsSession.queue.length - 1);
+          srsSession.queue.splice(pos + 1, 0, hanzi);
         } else {
           srsSession.done++;
         }
