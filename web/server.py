@@ -196,6 +196,19 @@ def audio_files(fname):
 # ============================================================
 # AUTH
 # ============================================================
+
+@app.route("/activate/<token>")
+def activate_redirect(token):
+    """Brevo переписывает ссылки - этот роут возвращает на SPA с hash."""
+    from flask import redirect
+    return redirect(f"/#activate/{token}")
+
+
+@app.route("/reset/<token>")
+def reset_redirect(token):
+    from flask import redirect
+    return redirect(f"/#reset/{token}")
+
 @app.route("/api/auth/register", methods=["POST"])
 def auth_register():
     d = request.get_json(silent=True) or {}
