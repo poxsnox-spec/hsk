@@ -156,6 +156,10 @@
   function showAuthScreen(tab) {
     ensureStyles();
     tab = tab || "login";
+    if (window.HSK_MODE && window.HSK_MODE.registration_enabled === false
+        && tab === "register") {
+      tab = "login";
+    }
 
     app().innerHTML = `
       <div class="auth-wrap">
@@ -165,6 +169,9 @@
           <button class="auth-tab ${tab === "login" ? "active" : ""}" id="tab-login">Вход</button>
           <button class="auth-tab ${tab === "register" ? "active" : ""}" id="tab-register">Регистрация</button>
         </div>
+        <div id="reg-off-note" style="display:none;text-align:center;font-size:13px;color:#8B9AAB;margin:-8px 0 14px">
+          Регистрация временно отключена — вход только для существующих пользователей.
+        </div>
         <div id="auth-form-slot"></div>
         <div id="auth-msg" class="auth-msg"></div>
         <div class="auth-footer">RU · TK · EN · UZ · TG</div>
@@ -172,6 +179,12 @@
 
     document.getElementById("tab-login").onclick = () => showAuthScreen("login");
     document.getElementById("tab-register").onclick = () => showAuthScreen("register");
+    if (window.HSK_MODE && window.HSK_MODE.registration_enabled === false) {
+      const rtab = document.getElementById("tab-register");
+      if (rtab) rtab.style.display = "none";
+      const rnote = document.getElementById("reg-off-note");
+      if (rnote) rnote.style.display = "block";
+    }
 
     if (tab === "login") renderLoginForm();
     else renderRegisterForm();

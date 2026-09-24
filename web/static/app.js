@@ -344,19 +344,19 @@ function renderMainMenu() {
       <span style="font-size:18px">🌐</span>
       <span>${langName()}</span>
     </button>
-    <button class="side-btn" id="btn-profile">
+    ${!(window.HSK_USER && window.HSK_USER.guest) ? `<button class="side-btn" id="btn-profile">
       <span style="font-size:18px">${(window.HSK_USER && window.HSK_USER.avatar) || "👤"}</span>
       <span>${(window.HSK_USER && window.HSK_USER.name) || "Профиль"}</span>
-    </button>
+    </button>` : ""}
     ${(window.HSK_USER && window.HSK_USER.is_admin) ? `
     <button class="side-btn" id="btn-admin" style="color:#FFB84D">
       <span style="font-size:18px">👑</span>
       <span>Админка</span>
     </button>` : ""}
-    <button class="side-btn" id="btn-logout" style="color:#FF6B6B">
+    ${!(window.HSK_USER && window.HSK_USER.guest) ? `<button class="side-btn" id="btn-logout" style="color:#FF6B6B">
       <span style="font-size:18px">⎋</span>
       <span>Выйти</span>
-    </button>
+    </button>` : ""}
     <div class="streak-card">
       <div style="font-size:28px">🔥</div>
       <div>
@@ -1971,144 +1971,183 @@ function escapeHtml(s) {
 }
 
 // ============================================================
-// Объявление при входе (туркменский, 5 сек, лимит 30 часов)
+// Баннер об обновлениях (туркменский, красивое оформление)
 // ============================================================
-function ensureAnnouncementStyles() {
-  if (document.getElementById("hsk-announce-styles")) return;
+const HSK_BANNER_VERSION = "2026-09-24-audio";
+const HSK_BANNER_KEY = "hsk5_banner_seen_" + HSK_BANNER_VERSION;
+
+function ensureUpdateBannerStyles() {
+  if (document.getElementById("hsk-update-styles")) return;
   const st = document.createElement("style");
-  st.id = "hsk-announce-styles";
+  st.id = "hsk-update-styles";
   st.textContent = `
-    #hsk-announcement {
+    #hsk-update-banner {
       position: fixed;
-      top: 24px;
+      top: 22px;
       left: 50%;
-      transform: translate(-50%, -160%);
-      z-index: 9999;
-      transition: transform 0.55s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.45s ease;
+      transform: translate(-50%, -180%);
+      z-index: 99999;
+      transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.5s ease;
       opacity: 0;
       pointer-events: none;
     }
-    #hsk-announcement.show {
+    #hsk-update-banner.show {
       transform: translate(-50%, 0);
       opacity: 1;
+      pointer-events: auto;
     }
-    #hsk-announcement .announce-inner {
+    #hsk-update-banner .ub-inner {
       position: relative;
       display: flex;
       gap: 16px;
-      align-items: center;
-      padding: 18px 26px;
+      align-items: flex-start;
+      padding: 20px 44px 20px 22px;
       border-radius: 16px;
-      background: rgba(20, 32, 48, 0.94);
-      backdrop-filter: blur(16px);
-      -webkit-backdrop-filter: blur(16px);
+      background: rgba(18, 28, 42, 0.96);
+      backdrop-filter: blur(18px);
+      -webkit-backdrop-filter: blur(18px);
       box-shadow:
-        0 12px 40px rgba(74, 158, 255, 0.35),
-        0 0 0 1px rgba(102, 178, 255, 0.18) inset,
-        0 1px 0 rgba(255, 255, 255, 0.06) inset;
-      max-width: min(600px, calc(100vw - 40px));
+        0 14px 48px rgba(74, 158, 255, 0.4),
+        0 0 0 1px rgba(102, 178, 255, 0.22) inset,
+        0 1px 0 rgba(255, 255, 255, 0.08) inset;
+      max-width: min(620px, calc(100vw - 32px));
       color: #F0F4F8;
-      font-family: inherit;
       box-sizing: border-box;
+      overflow: hidden;
     }
-    #hsk-announcement .announce-inner::before {
+    #hsk-update-banner .ub-inner::before {
       content: "";
       position: absolute;
-      inset: -1px;
-      border-radius: 17px;
+      inset: -1.5px;
+      border-radius: 18px;
       padding: 1.5px;
-      background: linear-gradient(135deg, #66B2FF, #5CD68E, #A56BFF, #66B2FF);
-      background-size: 300% 300%;
+      background: linear-gradient(135deg, #66B2FF, #5CD68E, #A56BFF, #FFB84D, #66B2FF);
+      background-size: 400% 400%;
       -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
       -webkit-mask-composite: xor;
       mask-composite: exclude;
       pointer-events: none;
-      animation: hsk-border-flow 4s linear infinite;
+      animation: hsk-ub-flow 5s linear infinite;
     }
-    @keyframes hsk-border-flow {
+    @keyframes hsk-ub-flow {
       0%   { background-position:   0% 50%; }
       50%  { background-position: 100% 50%; }
       100% { background-position:   0% 50%; }
     }
-    #hsk-announcement .announce-icon {
-      font-size: 38px;
+    #hsk-update-banner .ub-icon {
+      font-size: 40px;
       line-height: 1;
       flex-shrink: 0;
-      animation: hsk-bounce 1.3s ease-in-out infinite;
-      filter: drop-shadow(0 0 10px rgba(102, 178, 255, 0.6));
+      animation: hsk-ub-wiggle 1.8s ease-in-out infinite;
+      filter: drop-shadow(0 0 12px rgba(102, 178, 255, 0.7));
     }
-    @keyframes hsk-bounce {
-      0%, 100% { transform: scale(1) rotate(0); }
-      50%      { transform: scale(1.18) rotate(-10deg); }
+    @keyframes hsk-ub-wiggle {
+      0%, 100% { transform: scale(1) rotate(-8deg); }
+      50%      { transform: scale(1.15) rotate(8deg); }
     }
-    #hsk-announcement .announce-text {
-      display: flex;
-      flex-direction: column;
-      gap: 5px;
+    #hsk-update-banner .ub-content {
+      flex: 1;
+      min-width: 0;
     }
-    #hsk-announcement .announce-title {
-      font-weight: 700;
-      font-size: 16px;
+    #hsk-update-banner .ub-title {
+      font-weight: 800;
+      font-size: 17px;
       letter-spacing: 0.3px;
+      margin-bottom: 6px;
       background: linear-gradient(90deg, #66B2FF 0%, #5CD68E 100%);
       -webkit-background-clip: text;
       background-clip: text;
       -webkit-text-fill-color: transparent;
       color: #66B2FF;
     }
-    #hsk-announcement .announce-body {
+    #hsk-update-banner .ub-body {
       font-size: 14.5px;
-      line-height: 1.5;
+      line-height: 1.55;
       color: #E4EDF5;
     }
-    @media (max-width: 500px) {
-      #hsk-announcement { top: 14px; }
-      #hsk-announcement .announce-inner { padding: 14px 18px; gap: 12px; }
-      #hsk-announcement .announce-icon { font-size: 30px; }
-      #hsk-announcement .announce-title { font-size: 15px; }
-      #hsk-announcement .announce-body { font-size: 13.5px; }
+    #hsk-update-banner .ub-body b { color: #66B2FF; }
+    #hsk-update-banner .ub-close {
+      position: absolute;
+      top: 8px;
+      right: 10px;
+      background: transparent;
+      border: 0;
+      color: #8B9AAB;
+      font-size: 18px;
+      line-height: 1;
+      cursor: pointer;
+      padding: 4px 8px;
+      border-radius: 6px;
+      font-family: inherit;
+    }
+    #hsk-update-banner .ub-close:hover {
+      background: rgba(255,255,255,0.08);
+      color: #fff;
+    }
+    #hsk-update-banner .ub-progress {
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      height: 3px;
+      background: linear-gradient(90deg, #66B2FF, #5CD68E);
+      border-radius: 0 0 0 16px;
+      animation: hsk-ub-progress 14s linear forwards;
+    }
+    @keyframes hsk-ub-progress {
+      from { width: 100%; opacity: 0.85; }
+      to   { width: 0%;   opacity: 0.2; }
+    }
+    @media (max-width: 520px) {
+      #hsk-update-banner { top: 12px; }
+      #hsk-update-banner .ub-inner { padding: 16px 40px 16px 16px; gap: 12px; }
+      #hsk-update-banner .ub-icon { font-size: 32px; }
+      #hsk-update-banner .ub-title { font-size: 15px; }
+      #hsk-update-banner .ub-body { font-size: 13.5px; }
     }
   `;
   document.head.appendChild(st);
 }
 
-function showAnnouncement() {
-  ensureAnnouncementStyles();
+function showUpdateBanner() {
+  ensureUpdateBannerStyles();
   const el = document.createElement("div");
-  el.id = "hsk-announcement";
+  el.id = "hsk-update-banner";
   el.innerHTML = `
-    <div class="announce-inner">
-      <div class="announce-icon">🎉</div>
-      <div class="announce-text">
-        <div class="announce-title">Täze mümkinçilikler!</div>
-        <div class="announce-body">
-          Ähli bölümler işleýär — islendik dersiň tekstini diňläp bilersiňiz!
+    <div class="ub-inner">
+      <div class="ub-icon">✨</div>
+      <div class="ub-content">
+        <div class="ub-title">Täze täzelikler!</div>
+        <div class="ub-body">
+          Indi <b>her sözi aýratyn</b> diňläp bilersiňiz — haýsy sözi bassaňyz, şol söz aýdylýar.<br>
+          Hasaba girip, ösüşiňizi <b>ähli enjamlarda</b> saklaň!
         </div>
       </div>
+      <button class="ub-close" aria-label="Close">✕</button>
+      <div class="ub-progress"></div>
     </div>`;
   document.body.appendChild(el);
-  // плавное появление
+
   requestAnimationFrame(() => {
     requestAnimationFrame(() => el.classList.add("show"));
   });
-  // автоскрытие через 5 секунд
-  setTimeout(() => {
+
+  let hideTimer = setTimeout(hide, 14000);
+
+  function hide() {
+    clearTimeout(hideTimer);
     el.classList.remove("show");
     setTimeout(() => el.remove(), 700);
-  }, 5000);
+    try { localStorage.setItem(HSK_BANNER_KEY, "1"); } catch (e) {}
+  }
+
+  el.querySelector(".ub-close").addEventListener("click", hide);
 }
 
-function maybeShowAnnouncement() {
-  const KEY = "hsk5_announcement_start";
-  const LIMIT_MS = 30 * 60 * 60 * 1000;  // 30 часов
-  const now = Date.now();
-  let start = parseInt(localStorage.getItem(KEY) || "0", 10);
-  if (!start || start <= 0) {
-    start = now;
-    try { localStorage.setItem(KEY, String(start)); } catch (e) {}
-  }
-  if (now - start > LIMIT_MS) return;  // лимит истёк — больше не показываем
-  showAnnouncement();
+function maybeShowUpdateBanner() {
+  try {
+    if (localStorage.getItem(HSK_BANNER_KEY) === "1") return;
+  } catch (e) { /* localStorage недоступен */ }
+  setTimeout(showUpdateBanner, 500);
 }
 
 // ============================================================
@@ -2157,15 +2196,21 @@ async function bootApp() {
   try {
     const r = await fetch("/api/auth/me", { credentials: "same-origin" });
     const j = await r.json();
+    window.HSK_MODE = {
+      guest_mode: !!j.guest_mode,
+      registration_enabled: j.registration_enabled !== false,
+    };
     if (!j.user) {
       if (typeof HSKAuth !== "undefined") HSKAuth.showAuthScreen("login");
       return;
     }
     window.HSK_USER = j.user;
-    if (typeof HSKAuth !== "undefined") await HSKAuth.loadProgress();
+    if (typeof HSKAuth !== "undefined" && !j.user.guest) {
+      try { await HSKAuth.loadProgress(); } catch (e) {}
+    }
     drawBackgroundPattern();
     navigate(window.location.hash.slice(1) || "menu");
-    setTimeout(maybeShowAnnouncement, 350);
+    setTimeout(maybeShowUpdateBanner, 500);
   } catch (e) {
     document.getElementById("app").innerHTML =
       `<div style="padding:40px;color:#FF6B6B;font-size:14px">Ошибка соединения: ${e.message}</div>`;

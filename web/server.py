@@ -40,6 +40,23 @@ FROM_NAME  = "HSK5 Learner"
 # Локально пусто → берётся текущий host (для тестов)
 PUBLIC_URL = os.environ.get("PUBLIC_URL", "")
 
+# ==== РЕЖИМ ГОСТЯ (без логина) до указанной даты ====
+from datetime import datetime
+GUEST_MODE_UNTIL = datetime(2026, 10, 1, 0, 0, 0)
+
+
+def _guest_mode_active() -> bool:
+    return datetime.utcnow() < GUEST_MODE_UNTIL
+
+
+GUEST_USER = {
+    "id": -1, "email": "", "name": "Guest",
+    "avatar": "👤", "hsk_level": "HSK5",
+    "created_at": "", "activated": True,
+    "is_admin": False, "guest": True,
+}
+
+
 
 def _public_base(req):
     """Базовый URL для ссылок в письмах."""
@@ -124,6 +141,8 @@ def _iter_lessons():
 def current_user():
     uid = session.get("uid")
     if not uid:
+        if _guest_mode_active():
+            return GUEST_USER
         return None
     return auth.get_user(uid)
 
@@ -132,7 +151,7 @@ def require_login(fn):
     from functools import wraps
     @wraps(fn)
     def wrapper(*a, **kw):
-        if not session.get("uid"):
+        if not session.get("uid") and not _guest_mode_active():
             return jsonify({"error": "unauthorized"}), 401
         return fn(*a, **kw)
     return wrapper
@@ -221,6 +240,8 @@ def reset_redirect(token):
 
 @app.route("/api/auth/register", methods=["POST"])
 def auth_register():
+    if _guest_mode_active():
+        return jsonify({"error": "Регистрация временно отключена"}), 403
     d = request.get_json(silent=True) or {}
     res = auth.register(d.get("name"), d.get("email"), d.get("password"))
     if not res["ok"]:
@@ -295,10 +316,24 @@ def auth_logout():
 
 @app.route("/api/auth/me")
 def auth_me():
+    if not session.get("uid") and _guest_mode_active():
+        return jsonify({
+            "user": GUEST_USER,
+            "guest_mode": True,
+            "registration_enabled": False,
+        })
     u = current_user()
     if not u:
-        return jsonify({"user": None})
-    return jsonify({"user": u})
+        return jsonify({
+            "user": None,
+            "guest_mode": _guest_mode_active(),
+            "registration_enabled": not _guest_mode_active(),
+        })
+    return jsonify({
+        "user": u,
+        "guest_mode": False,
+        "registration_enabled": True,
+    })
 
 
 @app.route("/api/auth/forgot", methods=["POST"])
@@ -349,14 +384,20 @@ def auth_profile_update():
 @app.route("/api/progress", methods=["GET"])
 @require_login
 def progress_all():
-    return jsonify(auth.progress_get_all(session["uid"]))
+    uid = session.get("uid")
+    if not uid:
+        return jsonify({})
+    return jsonify(auth.progress_get_all(uid))
 
 
 @app.route("/api/progress/<key>", methods=["PUT"])
 @require_login
 def progress_put(key):
+    uid = session.get("uid")
+    if not uid:
+        return jsonify({"ok": True})
     body = request.get_json(silent=True) or {}
-    ok = auth.progress_set(session["uid"], key, body.get("value"))
+    ok = auth.progress_set(uid, key, body.get("value"))
     if not ok:
         return jsonify({"error": "bad data"}), 400
     return jsonify({"ok": True})
@@ -365,7 +406,10 @@ def progress_put(key):
 @app.route("/api/progress", methods=["DELETE"])
 @require_login
 def progress_reset():
-    n = auth.progress_reset(session["uid"])
+    uid = session.get("uid")
+    if not uid:
+        return jsonify({"ok": True, "deleted": 0})
+    n = auth.progress_reset(uid)
     return jsonify({"ok": True, "deleted": n})
 
 
