@@ -5,7 +5,8 @@
     "tk": "Agram we iýmit çäklendirmesi",
     "en": "Weight and Diet",
     "uz": "Vazn va parhez",
-    "tg": "Вазн ва парҳез"
+    "tg": "Вазн ва парҳез",
+    "id": "Berat Badan dan Diet"
   },
   "audio_files": {
     "textbook_1": "textbook_1.mp3",
@@ -18,7 +19,10 @@
     "question": {
       "ru": "Знаете ли вы эффективные способы похудеть?",
       "tk": "Arryklamagyň täsirli usullaryny bilýärsiňizmi?",
-      "en": "Do you know effective ways to lose weight?"
+      "en": "Do you know effective ways to lose weight?",
+      "uz": "Vazn yo'qotishning samarali usullarini bilasizmi?",
+      "tg": "Оё роҳҳои самараноки кам кардани вазнро медонед?",
+      "id": "Apakah kamu tahu cara efektif untuk menurunkan berat badan?"
     },
     "answers": [
       "体重",
@@ -32,7 +36,10 @@
   "text_translation": {
     "ru": "Согласно сообщениям, медицинские эксперты провели новое исследование: питание и режим еды в течение недели влияют на изменение веса — у соблюдающих диету вес колеблется в пределах недели. Участвовало 80 взрослых в возрасте 25–62 лет. Их разделили по типу изменения веса: теряющие, набирающие и сохраняющие. Каждый день после пробуждения, до завтрака, они взвешивались; для надёжности анализировались только те, кто взвешивался минимум 7 дней подряд. Наблюдение — от 15 до 330 дней. Результат: чёткий паттерн — после выходных вес выше, в рабочие дни падает (минимум к пятнице). Обнаружено: теряющие вес после выходных резко его сбрасывают, тренд идёт вниз до пятницы; набирающие же каждый день колеблются, и в рабочие дни вес особо не снижается. Вывод: у большинства вес растёт с субботы и падает со вторника; колебания в течение недели — норма, не реальный набор. В выходные больше едят вне дома. Небольшое послабление в еде на выходных не критично, но чтобы действительно похудеть, соблюдающие диету должны учитывать эту закономерность: после выходных не искать повода для вкусной еды и вовремя принимать меры против роста веса.",
     "tk": "Habarlara görä, lukmançylyk hünärmenleri täze gözleg geçirdiler: bir hepdäniň dowamynda iýmit we nahar tertibi agramyň üýtgemegine täsir edýär — berhiz tutýanlaryň agramy bir hepdäniň dowamynda üýtgeýär. 25–62 ýaş aralygyndaky 80 adam gatnaşdy. Olar agram üýtgemegine görä üç topara bölündi: arryklaýanlar, semreýänler we saklaýanlar. Her gün irden turandan soň, ertirlik naharyndan öň özlerini çekdiler. Netije: hepdäniň dowamynda anyk tertip bar — dynç günlerinden soň agram ýokary, iş günlerinde aşak (iň pes nokat anna güni). Arryklaýanlar dynç günlerinden soň agramy derrew aşak düşürýärler; semreýänlerde bolsa her gün üýtgeşme bar we iş günlerinde agram aşak düşmeýär. Netije: köp adamda agram şenbe güni ösüp başlaýar we sişenbe güni aşak düşýär. Hepdäniň dowamyndaky üýtgeşmeler kadaly — hakyky semizlik däl. Dynç günlerinde naharlary azajyk goýbermek zyýanly däl, ýöne hakykatdan arryklamak üçin bu kanunalaýyklyga üns bermeli.",
-    "en": "According to reports, medical experts conducted a new study: since people's weekly nutrient intake and dietary patterns affect their weight change, dieters' weight fluctuates within a week. In total, 80 adults aged 25–62 participated. Researchers divided them into three types based on relative weight change: weight losers, weight gainers, and weight maintainers. Each weighed themselves daily after waking and before breakfast; for reliability, only those who weighed at least 7 consecutive days were included. Tracking ranged from 15 to 330 days. Results showed a clear pattern: weight rises after weekends and falls on workdays (lowest on Friday). Researchers were surprised to find that losers and gainers differ markedly in their fluctuation patterns. Weight losers show a stronger compensatory pattern — weight drops immediately after the weekend, declining until Friday; gainers fluctuate daily with no clear workday decline. This joint study by several medical schools found that, except for a few, most people's weight gain starts on Saturday and weight loss starts on Tuesday — especially for weight losers and maintainers. It shows that weight change within a week reveals an obvious regularity; temporary weekday/weekend fluctuations should be regarded as normal, not real weight gain — because people spend more time eating out on weekends. A slight indulgence in food on the weekend doesn't have much effect, but to successfully lose weight, dieters wanting to be slim should note this regularity: after weekends, don't look for any excuse to eat good food and take timely measures to stop this upward trend."
+    "en": "According to reports, medical experts conducted a new study: since people's weekly nutrient intake and dietary patterns affect their weight change, dieters' weight fluctuates within a week. In total, 80 adults aged 25–62 participated. Researchers divided them into three types based on relative weight change: weight losers, weight gainers, and weight maintainers. Each weighed themselves daily after waking and before breakfast; for reliability, only those who weighed at least 7 consecutive days were included. Tracking ranged from 15 to 330 days. Results showed a clear pattern: weight rises after weekends and falls on workdays (lowest on Friday). Researchers were surprised to find that losers and gainers differ markedly in their fluctuation patterns. Weight losers show a stronger compensatory pattern — weight drops immediately after the weekend, declining until Friday; gainers fluctuate daily with no clear workday decline. This joint study by several medical schools found that, except for a few, most people's weight gain starts on Saturday and weight loss starts on Tuesday — especially for weight losers and maintainers. It shows that weight change within a week reveals an obvious regularity; temporary weekday/weekend fluctuations should be regarded as normal, not real weight gain — because people spend more time eating out on weekends. A slight indulgence in food on the weekend doesn't have much effect, but to successfully lose weight, dieters wanting to be slim should note this regularity: after weekends, don't look for any excuse to eat good food and take timely measures to stop this upward trend.",
+    "uz": "Ma'lumotlarga ko'ra, tibbiyot mutaxassislari yangi tadqiqot o'tkazdilar: odamlarning haftalik ozuqa moddalari iste'moli va ovqatlanish tartibi ularning vazn o'zgarishiga ta'sir qilgani sababli, parhez tutuvchilarning vazni bir hafta ichida o'zgarib turadi. Jami 25–62 yoshdagi 80 nafar kattalar qatnashdi. Tadqiqotchilar ularni nisbiy vazn o'zgarishiga qarab uch turga bo'lishdi: vazn yo'qotuvchilar, vazn oluvchilar va vaznini saqlovchilar. Har biri har kuni uyg'ongandan keyin va nonushtadan oldin o'zini tortdi; ishonchlilik uchun faqat kamida 7 kun ketma-ket tortilganlar kiritildi. Kuzatuv 15 kundan 330 kungacha davom etdi. Natijalar aniq qonuniyatni ko'rsatdi: vazn dam olish kunlaridan keyin ko'tariladi va ish kunlarida tushadi (juma kuni eng past). Tadqiqotchilar hayron bo'lib aniqladilarki, vazn yo'qotuvchilar va vazn oluvchilar o'zlarining tebranish qonuniyatlarida sezilarli farq qiladi. Vazn yo'qotuvchilar kuchliroq kompensatsiya qonuniyatini ko'rsatadi — vazn dam olish kunidan keyin darhol tushadi va juma kunigacha pasayadi; vazn oluvchilar esa har kuni tebranadi va ish kunlarida aniq pasayish kuzatilmaydi. Bir nechta tibbiyot maktablari tomonidan o'tkazilgan bu qo'shma tadqiqot shuni aniqladiki, bir necha kishidan tashqari, ko'pchilikning vazn ortishi shanba kuni boshlanadi va vazn yo'qotish seshanba kuni boshlanadi — ayniqsa vazn yo'qotuvchilar va vaznini saqlovchilar uchun. Bu shuni ko'rsatadiki, bir hafta ichida vazn o'zgarishi aniq qonuniyatni ochib beradi; ish kuni/dam olish kuni vaqtinchalik tebranishlarni normal deb hisoblash kerak, haqiqiy vazn ortishi emas — chunki odamlar dam olish kunlari ko'proq tashqarida ovqatlanishga vaqt sarflaydi. Dam olish kunlari ovqatga ozgina berilish katta ta'sir qilmaydi, ammo muvaffaqiyatli vazn yo'qotish uchun nozik bo'lishni xohlaydigan parhez tutuvchilar bu qonuniyatga e'tibor berishlari kerak: dam olish kunlaridan keyin mazali ovqat yeyish uchun hech qanday bahona izlamang va bu ko'tarilish tendentsiyasini to'xtatish uchun o'z vaqtida choralar ko'ring.",
+    "tg": "Тибқи гузоришҳо, коршиносони тиб тадқиқоти нав гузарониданд: азбаски миқдори ҳафтаинаи ғизоии одамон ва намунаҳои парҳез ба тағйири вазни онҳо таъсир мерасонанд, вазни парҳезкунандагон дар давоми як ҳафта тағйир меёбад. Дар маҷмӯъ, 80 калони синну солашон аз 25 то 62 иштирок карданд. Муҳаққиқон онҳоро дар асоси тағйири нисбии вазн ба се навъ ҷудо карданд: камкунандагони вазн, афзункунандагони вазн ва нигоҳдорандагони вазн. Ҳар як нафар ҳар рӯз пас аз бедор шудан ва пеш аз наҳорӣ худро баркаш мекард; барои эътимоднокӣ, танҳо онҳое ки ҳадди ақал 7 рӯзи пайдарпай баркаш кардаанд, дохил карда шуданд. Пайгирӣ аз 15 то 330 рӯзро дар бар гирифт. Натиҷаҳо намунаи равшанро нишон доданд: вазн пас аз рӯзҳои истироҳат баланд мешавад ва дар рӯзҳои корӣ паст мешавад (пасттарин рӯзи ҷумъа). Муҳаққиқон бо ҳайрат фаҳмиданд, ки камкунандагон ва афзункунандагон дар намунаҳои тағйирёбии худ ба таври назаррас фарқ мекунанд. Камкунандагони вазн намунаи қавии ҷубронкуниро нишон медиҳанд — вазн фавран пас аз рӯзҳои истироҳат паст мешавад ва то рӯзи ҷумъа коҳиш меёбад; афзункунандагон ҳар рӯз тағйир меёбанд ва коҳиши равшани рӯзҳои корӣ надоранд. Ин тадқиқоти муштараки якчанд мактабҳои тиббӣ нишон дод, ки ба ҷуз аз чанд нафар, афзоиши вазни аксари одамон рӯзи шанбе оғоз меёбад ва коҳиши вазн рӯзи сешанбе оғоз меёбад — махсусан барои камкунандагон ва нигоҳдорандагони вазн. Он нишон медиҳад, ки тағйири вазн дар давоми як ҳафта қонунияти равшанро ошкор мекунад; тағйирёбии муваққатии рӯзҳои корӣ/истироҳат бояд ҳамчун муқаррарӣ баррасӣ шавад, на афзоиши воқеии вазн — зеро одамон дар рӯзҳои истироҳат вақти бештарро ба хӯроки берун аз хона мегузаронанд. Иҷозати ками хӯрок дар рӯзҳои истироҳат таъсири зиёд надорад, аммо барои бомуваффақият кам кардани вазн, парҳезкунандагоне ки мехоҳанд лоғар бошанд, бояд ин қонуниятро ба назар гиранд: пас аз рӯзҳои истироҳат, барои хӯрдани хӯроки хуб баҳона наҷӯед ва барои қатъ кардани ин раванди афзоиш чораҳои саривақтӣ андешед.",
+    "id": "Menurut laporan, para ahli medis melakukan penelitian baru: karena asupan nutrisi mingguan dan pola makan seseorang memengaruhi perubahan berat badan mereka, berat badan orang yang sedang diet berfluktuasi dalam satu minggu. Total, 80 orang dewasa berusia 25–62 tahun berpartisipasi. Peneliti membagi mereka menjadi tiga tipe berdasarkan perubahan berat badan relatif: penurun berat badan, penambah berat badan, dan pemelihara berat badan. Masing-masing menimbang diri setiap hari setelah bangun tidur dan sebelum sarapan; untuk keandalan, hanya mereka yang menimbang setidaknya 7 hari berturut-turut yang disertakan. Pemantauan berkisar dari 15 hingga 330 hari. Hasilnya menunjukkan pola yang jelas: berat badan naik setelah akhir pekan dan turun pada hari kerja (terendah pada hari Jumat). Peneliti terkejut menemukan bahwa penurun dan penambah berat badan berbeda secara mencolok dalam pola fluktuasi mereka. Penurun berat badan menunjukkan pola kompensasi yang lebih kuat — berat badan turun segera setelah akhir pekan, menurun hingga hari Jumat; penambah berat badan berfluktuasi setiap hari tanpa penurunan yang jelas pada hari kerja. Studi bersama dari beberapa sekolah kedokteran ini menemukan bahwa, kecuali sebagian kecil, kenaikan berat badan sebagian besar orang dimulai pada hari Sabtu dan penurunan berat badan dimulai pada hari Selasa — terutama untuk penurun dan pemelihara berat badan. Ini menunjukkan bahwa perubahan berat badan dalam satu minggu mengungkapkan keteraturan yang jelas; fluktuasi sementara pada hari kerja/akhir pekan harus dianggap normal, bukan kenaikan berat badan yang sebenarnya — karena orang menghabiskan lebih banyak waktu makan di luar pada akhir pekan. Sedikit memanjakan diri dengan makanan pada akhir pekan tidak terlalu berpengaruh, tetapi untuk berhasil menurunkan berat badan, orang yang berdiet dan ingin langsing harus memperhatikan keteraturan ini: setelah akhir pekan, jangan mencari alasan apa pun untuk makan makanan enak dan segera ambil tindakan untuk menghentikan tren kenaikan ini."
   },
   "vocabulary": [
     {
@@ -42,7 +49,10 @@
       "meaning": {
         "ru": "соблюдать диету",
         "tk": "berhiz tutmak",
-        "en": "to go on a diet"
+        "en": "to go on a diet",
+        "uz": "parhezga o'tirmoq",
+        "tg": "ба парҳез нишастан",
+        "id": "melakukan diet"
       }
     },
     {
@@ -52,7 +62,10 @@
       "meaning": {
         "ru": "сообщение; сообщать",
         "tk": "habar; habar bermek",
-        "en": "report"
+        "en": "report",
+        "uz": "hisobot",
+        "tg": "ҳисобот",
+        "id": "laporan"
       }
     },
     {
@@ -62,7 +75,10 @@
       "meaning": {
         "ru": "питание",
         "tk": "iýmitleniş",
-        "en": "nutrition"
+        "en": "nutrition",
+        "uz": "ovqatlanish",
+        "tg": "ғизо",
+        "id": "nutrisi"
       }
     },
     {
@@ -72,7 +88,10 @@
       "meaning": {
         "ru": "потреблять",
         "tk": "kabul etmek",
-        "en": "to ingest"
+        "en": "to ingest",
+        "uz": "yutmoq",
+        "tg": "фурӯ бурдан",
+        "id": "menelan"
       }
     },
     {
@@ -82,7 +101,10 @@
       "meaning": {
         "ru": "модель, паттерн",
         "tk": "nusga",
-        "en": "pattern"
+        "en": "pattern",
+        "uz": "naqsh",
+        "tg": "намуна",
+        "id": "pola"
       }
     },
     {
@@ -92,7 +114,10 @@
       "meaning": {
         "ru": "колебаться",
         "tk": "üýtgemek",
-        "en": "to fluctuate"
+        "en": "to fluctuate",
+        "uz": "o'zgarib turmoq",
+        "tg": "тағйир ёфтан",
+        "id": "berfluktuasi"
       }
     },
     {
@@ -102,7 +127,10 @@
       "meaning": {
         "ru": "всего",
         "tk": "jemi",
-        "en": "in total"
+        "en": "in total",
+        "uz": "jami",
+        "tg": "дар маҷмӯъ",
+        "id": "secara total"
       }
     },
     {
@@ -112,7 +140,10 @@
       "meaning": {
         "ru": "участвовать",
         "tk": "gatnaşmak",
-        "en": "to participate"
+        "en": "to participate",
+        "uz": "qatnashmoq",
+        "tg": "иштирок кардан",
+        "id": "untuk berpartisipasi"
       }
     },
     {
@@ -122,7 +153,10 @@
       "meaning": {
         "ru": "сотрудники, персонал",
         "tk": "işgärler",
-        "en": "personnel"
+        "en": "personnel",
+        "uz": "xodimlar",
+        "tg": "кадрҳо",
+        "id": "personel"
       }
     },
     {
@@ -132,7 +166,10 @@
       "meaning": {
         "ru": "относительный",
         "tk": "deňeşdirmeli",
-        "en": "relative"
+        "en": "relative",
+        "uz": "nisbiy",
+        "tg": "нисбӣ",
+        "id": "kerabat"
       }
     },
     {
@@ -142,7 +179,10 @@
       "meaning": {
         "ru": "тип",
         "tk": "görnüş",
-        "en": "type"
+        "en": "type",
+        "uz": "tur",
+        "tg": "навъ",
+        "id": "jenis"
       }
     },
     {
@@ -152,7 +192,10 @@
       "meaning": {
         "ru": "взвешивать(ся)",
         "tk": "agramyny ölçemek",
-        "en": "to weigh"
+        "en": "to weigh",
+        "uz": "tortmoq",
+        "tg": "вазн кардан",
+        "id": "menimbang"
       }
     },
     {
@@ -162,7 +205,10 @@
       "meaning": {
         "ru": "надёжный",
         "tk": "ynamly",
-        "en": "reliable"
+        "en": "reliable",
+        "uz": "ishonchli",
+        "tg": "боэътимод",
+        "id": "andal"
       }
     },
     {
@@ -172,7 +218,10 @@
       "meaning": {
         "ru": "включать",
         "tk": "girizmek",
-        "en": "to include"
+        "en": "to include",
+        "uz": "kiritmoq",
+        "tg": "дар бар гирифтан",
+        "id": "termasuk"
       }
     },
     {
@@ -182,7 +231,10 @@
       "meaning": {
         "ru": "анализ",
         "tk": "seljermek",
-        "en": "to analyze"
+        "en": "to analyze",
+        "uz": "tahlil qilmoq",
+        "tg": "таҳлил кардан",
+        "id": "menganalisis"
       }
     },
     {
@@ -192,7 +244,10 @@
       "meaning": {
         "ru": "волонтёр",
         "tk": "meýletinçi",
-        "en": "volunteer"
+        "en": "volunteer",
+        "uz": "ko'ngilli",
+        "tg": "ихтиёрӣ",
+        "id": "relawan"
       }
     },
     {
@@ -202,7 +257,10 @@
       "meaning": {
         "ru": "отслеживать",
         "tk": "yzygider gözegçilik",
-        "en": "to track"
+        "en": "to track",
+        "uz": "kuzatmoq",
+        "tg": "пайгирӣ кардан",
+        "id": "melacak"
       }
     },
     {
@@ -212,7 +270,10 @@
       "meaning": {
         "ru": "результат, достижение",
         "tk": "netije",
-        "en": "achievement"
+        "en": "achievement",
+        "uz": "yutuq",
+        "tg": "дастовард",
+        "id": "pencapaian"
       }
     },
     {
@@ -222,7 +283,10 @@
       "meaning": {
         "ru": "чёткий",
         "tk": "düşnükli",
-        "en": "clear"
+        "en": "clear",
+        "uz": "aniq",
+        "tg": "равшан",
+        "id": "jelas"
       }
     },
     {
@@ -232,7 +296,10 @@
       "meaning": {
         "ru": "то есть",
         "tk": "ýagny",
-        "en": "namely"
+        "en": "namely",
+        "uz": "ya'ni",
+        "tg": "яъне",
+        "id": "yaitu"
       }
     },
     {
@@ -242,7 +309,10 @@
       "meaning": {
         "ru": "подниматься",
         "tk": "göterilmek",
-        "en": "to rise"
+        "en": "to rise",
+        "uz": "ko'tarilmoq",
+        "tg": "бархостан",
+        "id": "naik"
       }
     },
     {
@@ -252,7 +322,10 @@
       "meaning": {
         "ru": "достигать",
         "tk": "ýetmek",
-        "en": "to reach"
+        "en": "to reach",
+        "uz": "yetib bormoq",
+        "tg": "расидан",
+        "id": "mencapai"
       }
     },
     {
@@ -262,7 +335,10 @@
       "meaning": {
         "ru": "неожиданный; случайность",
         "tk": "garaşylmadyk; hadysa",
-        "en": "unexpected"
+        "en": "unexpected",
+        "uz": "kutilmagan",
+        "tg": "ғайричашмдошт",
+        "id": "tak terduga"
       }
     },
     {
@@ -272,7 +348,10 @@
       "meaning": {
         "ru": "существовать",
         "tk": "bar bolmak",
-        "en": "to exist"
+        "en": "to exist",
+        "uz": "mavjud bo'lmoq",
+        "tg": "мавҷуд будан",
+        "id": "ada"
       }
     },
     {
@@ -282,7 +361,10 @@
       "meaning": {
         "ru": "очевидный",
         "tk": "aç-açan",
-        "en": "obvious"
+        "en": "obvious",
+        "uz": "ravshan",
+        "tg": "аён",
+        "id": "jelas"
       }
     },
     {
@@ -292,7 +374,10 @@
       "meaning": {
         "ru": "компенсировать",
         "tk": "öwezini dolmak",
-        "en": "to compensate"
+        "en": "to compensate",
+        "uz": "qoplamoq",
+        "tg": "ҷуброн кардан",
+        "id": "mengganti"
       }
     },
     {
@@ -302,7 +387,10 @@
       "meaning": {
         "ru": "немедленно",
         "tk": "derrew",
-        "en": "immediately"
+        "en": "immediately",
+        "uz": "darhol",
+        "tg": "дарҳол",
+        "id": "segera"
       }
     },
     {
@@ -312,7 +400,10 @@
       "meaning": {
         "ru": "тенденция",
         "tk": "tendensiýa",
-        "en": "trend"
+        "en": "trend",
+        "uz": "tendentsiya",
+        "tg": "тамойул",
+        "id": "tren"
       }
     },
     {
@@ -322,7 +413,10 @@
       "meaning": {
         "ru": "различие",
         "tk": "tapawut",
-        "en": "difference"
+        "en": "difference",
+        "uz": "farq",
+        "tg": "фарқият",
+        "id": "perbedaan"
       }
     },
     {
@@ -332,7 +426,10 @@
       "meaning": {
         "ru": "объединять(ся)",
         "tk": "birleşmek",
-        "en": "to unite"
+        "en": "to unite",
+        "uz": "birlashtirmoq",
+        "tg": "муттаҳид шудан",
+        "id": "bersatu"
       }
     },
     {
@@ -342,7 +439,10 @@
       "meaning": {
         "ru": "индивидуальный, единичный",
         "tk": "ayratyn",
-        "en": "individual, exceptional"
+        "en": "individual, exceptional",
+        "uz": "individual, istisno",
+        "tg": "фардӣ, истисноӣ",
+        "id": "individu, luar biasa"
       }
     },
     {
@@ -352,7 +452,10 @@
       "meaning": {
         "ru": "показывать",
         "tk": "görkezmek",
-        "en": "to indicate"
+        "en": "to indicate",
+        "uz": "ko'rsatmoq",
+        "tg": "нишон додан",
+        "id": "untuk menunjukkan"
       }
     },
     {
@@ -362,7 +465,10 @@
       "meaning": {
         "ru": "временный",
         "tk": "wagtlaýyn",
-        "en": "temporary"
+        "en": "temporary",
+        "uz": "vaqtinchalik",
+        "tg": "муваққатӣ",
+        "id": "sementara"
       }
     },
     {
@@ -372,7 +478,10 @@
       "meaning": {
         "ru": "явление",
         "tk": "hadysa",
-        "en": "phenomenon"
+        "en": "phenomenon",
+        "uz": "hodisa",
+        "tg": "падида",
+        "id": "fenomena"
       }
     },
     {
@@ -382,7 +491,10 @@
       "meaning": {
         "ru": "не быть",
         "tk": "däl",
-        "en": "to be not"
+        "en": "to be not",
+        "uz": "bo'lmaslik",
+        "tg": "набудан",
+        "id": "tidak menjadi"
       }
     },
     {
@@ -392,7 +504,10 @@
       "meaning": {
         "ru": "принимать пищу",
         "tk": "nahar iýmek",
-        "en": "to have a meal"
+        "en": "to have a meal",
+        "uz": "ovqat yemoq",
+        "tg": "таом хӯрдан",
+        "id": "makan"
       }
     },
     {
@@ -402,7 +517,10 @@
       "meaning": {
         "ru": "распускаться, давать волю",
         "tk": "goýbermek",
-        "en": "to indulge"
+        "en": "to indulge",
+        "uz": "berilmoq",
+        "tg": "худро ба ҳаром додан",
+        "id": "memanjakan diri"
       }
     },
     {
@@ -412,7 +530,10 @@
       "meaning": {
         "ru": "стройный",
         "tk": "inçe boýly",
-        "en": "slim"
+        "en": "slim",
+        "uz": "nozik",
+        "tg": "лoғар",
+        "id": "langsing"
       }
     },
     {
@@ -422,7 +543,10 @@
       "meaning": {
         "ru": "отговорка",
         "tk": "bahana",
-        "en": "excuse"
+        "en": "excuse",
+        "uz": "kechirim",
+        "tg": "бахшиш",
+        "id": "alasan"
       }
     },
     {
@@ -432,7 +556,10 @@
       "meaning": {
         "ru": "принимать (меры)",
         "tk": "çäre görmek",
-        "en": "to take (measures)"
+        "en": "to take (measures)",
+        "uz": "chora ko'rmoq",
+        "tg": "гирифтан (чораҳо)",
+        "id": "mengambil (tindakan)"
       }
     },
     {
@@ -442,7 +569,10 @@
       "meaning": {
         "ru": "меры",
         "tk": "çäreler",
-        "en": "measures"
+        "en": "measures",
+        "uz": "choralar",
+        "tg": "чораҳо",
+        "id": "tindakan"
       }
     }
   ],
@@ -453,68 +583,101 @@
       "explanation": {
         "ru": "«即» — книжное «то есть, а именно». Также наречие «сразу, тотчас».",
         "tk": "«即» — kitaby «ýagny». Hal hökmünde «derrew».",
-        "en": "'即' — formal 'namely, that is'. Adv. 'immediately'."
+        "en": "'即' — formal 'namely, that is'. Adv. 'immediately'.",
+        "uz": "'即' — rasmiy 'ya'ni, bu'. Adv. 'darhol'.",
+        "tg": "'即' — расмии 'яъне, яъне'. Зарф. 'дарҳол'.",
+        "id": "'即' — formal 'yaitu, yakni'. Adv. 'segera'."
       },
       "examples": [
         {
           "zh": "「旦」是象形字，即太阳从地平线上升起。",
           "ru": "«Дань» — пиктограмма: солнце поднимается над горизонтом.",
           "tk": "«Dan» — iýeroglif: gün gözýetimden çykýar.",
-          "en": "'旦' is a pictograph — the sun rises above the horizon."
+          "en": "'旦' is a pictograph — the sun rises above the horizon.",
+          "uz": "'旦' — pikogramma: quyosh ufq ustidan chiqadi.",
+          "tg": "'旦' пиктограмма аст — офтоб аз уфуқ боло мебарояд.",
+          "id": "'旦' adalah piktograf — matahari terbit di atas cakrawala."
         },
         {
           "zh": "这些人的体重变化表现出清晰的模式，即周末之后体重升高，在工作日体重减轻。",
           "ru": "Их вес показывает чёткий паттерн: после выходных — выше, в рабочие дни — ниже.",
           "tk": "Olaryň agramynda anyk nusga bar: dynç günlerinden soň ýokary, iş günlerinde aşak.",
-          "en": "Their weight shows a clear pattern: higher after weekends, lower on workdays."
+          "en": "Their weight shows a clear pattern: higher after weekends, lower on workdays.",
+          "uz": "Ularning vazni aniq qonuniyatni ko'rsatadi: dam olish kunlaridan keyin yuqori, ish kunlarida past.",
+          "tg": "Вазни онҳо қонунияти равшанро нишон медиҳад: баъд аз рӯзҳои истироҳат баландтар, дар рӯзҳои корӣ пасттар.",
+          "id": "Berat badan mereka menunjukkan pola yang jelas: lebih tinggi setelah akhir pekan, lebih rendah pada hari kerja."
         },
         {
           "zh": "不懂即问是他最大的优点。",
           "ru": "Не понимаешь — сразу спрашивай: это его большое достоинство.",
           "tk": "Düşünmeseň — derrew soramak onuň iň uly artykmaçlygy.",
-          "en": "Asking when you don't understand is his biggest strength."
+          "en": "Asking when you don't understand is his biggest strength.",
+          "uz": "Tushunmaganida so'rash uning eng katta kuchli tomoni.",
+          "tg": "Пурсидан, вақте ки нафаҳмидӣ, бузургтарин қуввати ӯст.",
+          "id": "Bertanya ketika tidak mengerti adalah kekuatan terbesarnya."
         },
         {
           "zh": "汉字「字」代表上下四方，即所有的空间。",
           "ru": "Иероглиф «цзы» означает верх-низ и четыре стороны — то есть всё пространство.",
           "tk": "«Tszy» iýeroglifi ýokary-aşak we dört tarapy aňladýar — ýagny ähli giňişlik.",
-          "en": "'Zi' means up-down and four directions — i.e., all space."
+          "en": "'Zi' means up-down and four directions — i.e., all space.",
+          "uz": "'Zi' yuqori-past va to'rt tomonni anglatadi — ya'ni butun fazo.",
+          "tg": "«Зи» маънои боло-поён ва чор тарафро дорад — яъне тамоми фазо.",
+          "id": "'Zi' berarti atas-bawah dan empat arah — yaitu, seluruh ruang."
         },
         {
           "zh": "会议定于下周一上午九点，即北京时间九点召开。",
           "ru": "Совещание назначено на понедельник, 9:00 по пекинскому времени.",
           "tk": "Maslahat duşenbe güni, Pekin wagty bilen sagat 9:00-de bellenildi.",
-          "en": "The meeting is set for Monday, 9:00 Beijing time."
+          "en": "The meeting is set for Monday, 9:00 Beijing time.",
+          "uz": "Uchrashuv dushanba kuni Pekin vaqti bilan 9:00 ga belgilangan.",
+          "tg": "Ҷаласа барои рӯзи душанбе, соати 9:00 ба вақти Пекин муқаррар шудааст.",
+          "id": "Rapat dijadwalkan pada hari Senin, pukul 9:00 waktu Beijing."
         },
         {
           "zh": "即日起，公司调整工作时间。",
           "ru": "С сегодняшнего дня компания меняет график.",
           "tk": "Şu günden başlap, kompaniýa iş wagtyny üýtgedýär.",
-          "en": "Starting today, the company changes work hours."
+          "en": "Starting today, the company changes work hours.",
+          "uz": "Bugundan boshlab kompaniya ish vaqtini o'zgartiradi.",
+          "tg": "Аз имрӯз ширкат соатҳои корӣро тағйир медиҳад.",
+          "id": "Mulai hari ini, perusahaan mengubah jam kerja."
         },
         {
           "zh": "会议定于下周一下午三点即15点召开。",
           "ru": "Совещание назначено на понедельник, 15:00.",
           "tk": "Maslahat duşenbe güni sagat 15:00-de bellenildi.",
-          "en": "The meeting is set for Monday at 15:00."
+          "en": "The meeting is set for Monday at 15:00.",
+          "uz": "Uchrashuv dushanba kuni 15:00 ga belgilangan.",
+          "tg": "Ҷаласа барои рӯзи душанбе соати 15:00 муқаррар шудааст.",
+          "id": "Rapat dijadwalkan pada hari Senin pukul 15:00."
         },
         {
           "zh": "即学即用，是学习外语的好方法。",
           "ru": "Учиться и сразу использовать — хороший метод для иностранного языка.",
           "tk": "Öwrenmek we derrew ulanmak — daşary ýurt dili üçin gowy usul.",
-          "en": "Learn and immediately use — a good way to study a foreign language."
+          "en": "Learn and immediately use — a good way to study a foreign language.",
+          "uz": "O'rganing va darhol foydalaning — chet tilini o'rganishning yaxshi usuli.",
+          "tg": "Омӯзед ва фавран истифода баред — роҳи хуби омӯхтани забони хориҷӣ.",
+          "id": "Belajar dan langsung gunakan — cara yang baik untuk mempelajari bahasa asing."
         },
         {
           "zh": "他即兴表演了一段舞蹈。",
           "ru": "Он импровизированно станцевал.",
           "tk": "Ol tötänleýin tans etdi.",
-          "en": "He improvised a dance."
+          "en": "He improvised a dance.",
+          "uz": "U raqsni improvizatsiya qildi.",
+          "tg": "Вай рақси бадеҳаро иҷро кард.",
+          "id": "Dia menari secara improvisasi."
         },
         {
           "zh": "即日生效。",
           "ru": "Вступает в силу с сегодняшнего дня.",
           "tk": "Şu günden güýje girýär.",
-          "en": "Takes effect from today."
+          "en": "Takes effect from today.",
+          "uz": "Bugundan kuchga kiradi.",
+          "tg": "Аз имрӯз эътибор пайдо мекунад.",
+          "id": "Berlaku mulai hari ini."
         }
       ],
       "formula": {
@@ -585,68 +748,101 @@
       "explanation": {
         "ru": "«个别» — «единичный, отдельный». О людях: «поговорить с каждым отдельно».",
         "tk": "«个别» — «ayratyn, aýry-aýry».",
-        "en": "'个别' — 'individual, one by one'."
+        "en": "'个别' — 'individual, one by one'.",
+        "uz": "'个别' — 'individual, birma-bir'.",
+        "tg": "'个别' — 'инфиродӣ, яктогӣ'.",
+        "id": "'个别' — 'individual, satu per satu'."
       },
       "examples": [
         {
           "zh": "除了个别人以外，多数人体重的增加会从周六开始。",
           "ru": "Кроме отдельных людей, у большинства вес начинает расти с субботы.",
           "tk": "Aýry-aýry adamlardan başga, köp adamda agram şenbe gününden ösüp başlaýar.",
-          "en": "Except for a few, most people's weight starts rising on Saturday."
+          "en": "Except for a few, most people's weight starts rising on Saturday.",
+          "uz": "Bir nechtasidan tashqari, ko'pchilikning vazni shanba kuni ko'tarila boshlaydi.",
+          "tg": "Ба ғайр аз чанд нафар, вазни аксари одамон рӯзи шанбе баланд шудан мегирад.",
+          "id": "Kecuali beberapa orang, berat badan sebagian besar orang mulai naik pada hari Sabtu."
         },
         {
           "zh": "他经常采取个别谈话的方式了解情况和解决问题。",
           "ru": "Он часто прибегает к индивидуальным беседам для выяснения и решения вопросов.",
           "tk": "Ol köplenç ýagdaýy öwrenmek we meseleleri çözmek üçin aýry-aýry söhbetdeşlik ulanýar.",
-          "en": "He often uses individual conversations to understand and solve problems."
+          "en": "He often uses individual conversations to understand and solve problems.",
+          "uz": "U ko'pincha muammolarni tushunish va hal qilish uchun individual suhbatlardan foydalanadi.",
+          "tg": "Вай аксар вақт гуфтугӯҳои инфиродиро барои фаҳмидан ва ҳал кардани мушкилот истифода мебарад.",
+          "id": "Dia sering menggunakan percakapan individu untuk memahami dan menyelesaikan masalah."
         },
         {
           "zh": "教练针对他的技术特点进行了个别训练。",
           "ru": "Тренер провёл индивидуальную тренировку с учётом его навыков.",
           "tk": "Tälimçi onuň tehniki aýratynlyklaryna görä aýratyn maşk geçirdi.",
-          "en": "The coach did individual training tailored to his technique."
+          "en": "The coach did individual training tailored to his technique.",
+          "uz": "Murabbiy uning texnikasiga moslashtirilgan individual mashg'ulot o'tkazdi.",
+          "tg": "Мураббӣ машқҳои инфиродиро мувофиқи техникаи ӯ гузаронид.",
+          "id": "Pelatih melakukan latihan individu yang disesuaikan dengan tekniknya."
         },
         {
           "zh": "天气预报说今晚有小到中雨，个别地区可能有大雨。",
           "ru": "Прогноз: сегодня вечером небольшой дождь, местами возможен сильный.",
           "tk": "Howa çaklamasy: bu gün agşam az ýagar, aýry-aýry ýerlerde güýçli bolup biler.",
-          "en": "Forecast: light to moderate rain tonight, possibly heavy in some areas."
+          "en": "Forecast: light to moderate rain tonight, possibly heavy in some areas.",
+          "uz": "Prognoz: bugun kechqurun kuchsizdan o'rtacha yomg'ir, ba'zi hududlarda kuchli bo'lishi mumkin.",
+          "tg": "Пешгӯӣ: имшаб борони кам то миёна, дар баъзе минтақаҳо эҳтимолан шадид.",
+          "id": "Prakiraan: hujan ringan hingga sedang malam ini, mungkin lebat di beberapa daerah."
         },
         {
           "zh": "个别同学还没有交作业，请尽快交。",
           "ru": "Отдельные студенты ещё не сдали работу — сдайте как можно скорее.",
           "tk": "Aýry-aýry okuwçylar işini tabşyrmady — dessine tabşyryň.",
-          "en": "A few students haven't submitted homework — please do so soon."
+          "en": "A few students haven't submitted homework — please do so soon.",
+          "uz": "Bir necha o'quvchi uy vazifasini topshirmadi — iltimos, tezroq topshiring.",
+          "tg": "Якчанд донишҷӯ вазифаи хонагиро супорида нашудаанд — лутфан ба зудӣ супориш диҳед.",
+          "id": "Beberapa siswa belum mengumpulkan pekerjaan rumah — mohon segera dikumpulkan."
         },
         {
           "zh": "个别问题需要单独解决。",
           "ru": "Отдельные вопросы нужно решать индивидуально.",
           "tk": "Aýry meseleleri aýratyn çözmeli.",
-          "en": "Certain issues need separate solutions."
+          "en": "Certain issues need separate solutions.",
+          "uz": "Ba'zi muammolar alohida yechimlarni talab qiladi.",
+          "tg": "Баъзе масъалаҳо ҳалли алоҳида талаб мекунанд.",
+          "id": "Beberapa masalah tertentu memerlukan solusi terpisah."
         },
         {
           "zh": "老师对个别学生进行了辅导。",
           "ru": "Учитель позанимался с отдельными учениками.",
           "tk": "Mugallym aýry okuwçylar bilen sapak geçdi.",
-          "en": "The teacher tutored a few students individually."
+          "en": "The teacher tutored a few students individually.",
+          "uz": "O'qituvchi bir nechta o'quvchilarga alohida dars berdi.",
+          "tg": "Муаллим ба якчанд донишҷӯ алоҳида дарс дод.",
+          "id": "Guru membimbing beberapa siswa secara individual."
         },
         {
           "zh": "个别情况下可以例外。",
           "ru": "В отдельных случаях возможны исключения.",
           "tk": "Aýry ýagdaýlarda kadadan çykmak mümkin.",
-          "en": "In exceptional cases, exceptions can be made."
+          "en": "In exceptional cases, exceptions can be made.",
+          "uz": "Istisno holatlarda, istisnolar qilinishi mumkin.",
+          "tg": "Дар ҳолатҳои истисноӣ, истисноҳо карда мешаванд.",
+          "id": "Dalam kasus luar biasa, pengecualian dapat dilakukan."
         },
         {
           "zh": "只有个别人反对这个方案。",
           "ru": "Только единицы против этого плана.",
           "tk": "Diňe bir-iki adam bu meýilnama garşy.",
-          "en": "Only a handful oppose this plan."
+          "en": "Only a handful oppose this plan.",
+          "uz": "Faqat bir nechtasi bu rejaga qarshi.",
+          "tg": "Танҳо якчанд нафар ба ин нақша муқобилат мекунанд.",
+          "id": "Hanya segelintir yang menentang rencana ini."
         },
         {
           "zh": "个别人可能对海鲜过敏。",
           "ru": "У отдельных людей может быть аллергия на морепродукты.",
           "tk": "Aýry adamlarda deňiz önümlerine allergiýa bolup biler.",
-          "en": "Some individuals may be allergic to seafood."
+          "en": "Some individuals may be allergic to seafood.",
+          "uz": "Ba'zi odamlar dengiz mahsulotlariga allergiyasi bo'lishi mumkin.",
+          "tg": "Баъзе одамон метавонанд ба ғизои баҳрӣ ҳассосият дошта бошанд.",
+          "id": "Beberapa orang mungkin alergi terhadap makanan laut."
         }
       ],
       "formula": {
@@ -717,68 +913,101 @@
       "explanation": {
         "ru": "«非» — «не быть, не». Пишется как префикс или в конструкции «非……不可» («обязательно»).",
         "tk": "«非» — «däl». Prefiks ýa-da «非……不可» («hökman») gurluşynda.",
-        "en": "'非' — 'not'. Also in '非……不可' meaning 'must'."
+        "en": "'非' — 'not'. Also in '非……不可' meaning 'must'.",
+        "uz": "'非' — 'emas'. Shuningdek, '非……不可' iborasida 'kerak' ma'nosini beradi.",
+        "tg": "'非' — 'не'. Инчунин дар '非……不可' маънои 'бояд'-ро дорад.",
+        "id": "'非' — 'bukan'. Juga dalam '非……不可' yang berarti 'harus'."
       },
       "examples": [
         {
           "zh": "在非语言的交流中，眼睛起着重要的作用。",
           "ru": "В невербальном общении глаза играют важную роль.",
           "tk": "Dil däl aragatnaşykda gözler möhüm rol oýnaýar.",
-          "en": "In nonverbal communication, eyes play a key role."
+          "en": "In nonverbal communication, eyes play a key role.",
+          "uz": "Og'zaki bo'lmagan muloqotda ko'zlar asosiy rol o'ynaydi.",
+          "tg": "Дар муоширати ғайривербалӣ чашмҳо нақши калидӣ мебозанд.",
+          "id": "Dalam komunikasi nonverbal, mata memainkan peran kunci."
         },
         {
           "zh": "我们公司的技术部门都是专业人员，非专业人员做服务工作。",
           "ru": "В техническом отделе — профессионалы, непрофессионалы занимаются обслуживанием.",
           "tk": "Tehniki bölümde hünärmenler, hünärmen däller bolsa hyzmat işi bilen meşgullanýar.",
-          "en": "Our tech team is professionals; non-professionals handle service."
+          "en": "Our tech team is professionals; non-professionals handle service.",
+          "uz": "Bizning texnik jamoamiz mutaxassislardir; nomutaxassislar xizmat ko'rsatish bilan shug'ullanadilar.",
+          "tg": "Дастаи техникии мо мутахассисанд; ғайримутахассисон хидматрасонӣ мекунанд.",
+          "id": "Tim teknologi kami adalah profesional; non-profesional menangani layanan."
         },
         {
           "zh": "工作日和周末体重的临时变化应该被视为正常现象，而非真正的体重增加。",
           "ru": "Временные колебания веса в рабочие дни и выходные — норма, а не настоящий набор веса.",
           "tk": "Iş günlerinde we dynç günlerinde agramyň wagtlaýyn üýtgemegi kadaly — hakyky semizlik däl.",
-          "en": "Temporary weekday/weekend weight change is normal, not real weight gain."
+          "en": "Temporary weekday/weekend weight change is normal, not real weight gain.",
+          "uz": "Vaqtinchalik ish kuni/dam olish kuni vazn o'zgarishi normaldir, haqiqiy vazn ortishi emas.",
+          "tg": "Тағйири вазни муваққатии рӯзҳои корӣ/истироҳатӣ муқаррарӣ аст, на афзоиши воқеии вазн.",
+          "id": "Perubahan berat badan sementara pada hari kerja/akhir pekan adalah normal, bukan kenaikan berat badan yang sebenarnya."
         },
         {
           "zh": "成功有时候并非想象中那么难。",
           "ru": "Успех иногда не так труден, как кажется.",
           "tk": "Üstünlik käte pikir edişiň ýaly kyn däl.",
-          "en": "Success is sometimes not as hard as imagined."
+          "en": "Success is sometimes not as hard as imagined.",
+          "uz": "Muvaffaqiyat ba'zan tasavvur qilinganidek qiyin emas.",
+          "tg": "Муваффақият баъзан он қадар душвор нест, ки тасаввур мешавад.",
+          "id": "Kesuksesan terkadang tidak sesulit yang dibayangkan."
         },
         {
           "zh": "他非要离婚，我们谁也拦不住。",
           "ru": "Он во что бы то ни стало хочет развестись — мы не можем его остановить.",
           "tk": "Ol hökman aýrylyşmak isleýär — hiç birimiz saklap bilemzok.",
-          "en": "He insists on divorcing — we can't stop him."
+          "en": "He insists on divorcing — we can't stop him.",
+          "uz": "U ajrashishni talab qilmoqda — biz uni to'xtata olmaymiz.",
+          "tg": "Ӯ ба талоқ исрор мекунад — мо наметавонем ӯро боздорем.",
+          "id": "Dia bersikeras untuk bercerai — kita tidak bisa menghentikannya."
         },
         {
           "zh": "我本不想提这件事，你又何必非要我说出来呢？",
           "ru": "Я не хотел об этом говорить — зачем вынуждаешь?",
           "tk": "Men bu barada aýtmak islemädim — näme üçin hökman aýtdyrýarsyň?",
-          "en": "I didn't want to mention it — why force me?"
+          "en": "I didn't want to mention it — why force me?",
+          "uz": "Men buni aytishni xohlamadim — nega meni majburlaysiz?",
+          "tg": "Ман намехостам онро зикр кунам — чаро маро маҷбур мекунед?",
+          "id": "Aku tidak ingin menyebutkannya — mengapa memaksaku?"
         },
         {
           "zh": "有些家长已经习惯了这种竞争，非让自家的孩子考第一名不可。",
           "ru": "Некоторые родители настаивают, чтобы ребёнок был первым.",
           "tk": "Käbir ene-atalar çagasynyň birinji bolmagyny hökman isleýärler.",
-          "en": "Some parents insist their child rank first."
+          "en": "Some parents insist their child rank first.",
+          "uz": "Ba'zi ota-onalar farzandining birinchi o'rinni egallashini talab qiladi.",
+          "tg": "Баъзе волидон исрор мекунанд, ки фарзанди онҳо ҷои аввалро гирад.",
+          "id": "Beberapa orang tua bersikeras anak mereka harus peringkat pertama."
         },
         {
           "zh": "补办学生证的事非你本人去不可。",
           "ru": "За дубликатом студенческого должен прийти именно ты.",
           "tk": "Talyplar şahadatnamasynyň nusgasyny hut özüň almaly.",
-          "en": "You must personally go for the student ID reissue."
+          "en": "You must personally go for the student ID reissue.",
+          "uz": "Talaba guvohnomasini qayta olish uchun shaxsan o'zingiz borishingiz kerak.",
+          "tg": "Барои аз нав додани шиносномаи донишҷӯ бояд шахсан худатон равед.",
+          "id": "Anda harus pergi sendiri untuk penggantian kartu pelajar."
         },
         {
           "zh": "这个地方非去不可，太美了。",
           "ru": "Сюда обязательно надо попасть — очень красиво.",
           "tk": "Bu ýere hökman gitmeli — örän owadan.",
-          "en": "You must visit this place — it's stunning."
+          "en": "You must visit this place — it's stunning.",
+          "uz": "Bu joyga albatta tashrif buyurishingiz kerak — u hayratlanarli.",
+          "tg": "Шумо бояд ба ин ҷо ташриф оред — он ҳайратангез аст.",
+          "id": "Anda harus mengunjungi tempat ini — sangat menakjubkan."
         },
         {
           "zh": "非工作人员请勿入内。",
           "ru": "Посторонним вход воспрещён.",
           "tk": "Işgär däller girmesin.",
-          "en": "Staff only."
+          "en": "Staff only.",
+          "uz": "Faqat xodimlar uchun.",
+          "tg": "Танҳо барои кормандон.",
+          "id": "Hanya untuk staf."
         }
       ],
       "formula": {
@@ -889,7 +1118,10 @@
       "common": {
         "ru": "Оба — «на короткий срок».",
         "tk": "Ikisi hem «gysga wagt üçin».",
-        "en": "Both mean 'for a short time'."
+        "en": "Both mean 'for a short time'.",
+        "uz": "Ikkalasi ham 'qisqa vaqt uchun' ma'nosini bildiradi.",
+        "tg": "Ҳарду маънои 'барои вақти кӯтоҳ'-ро доранд.",
+        "id": "Keduanya berarti 'untuk waktu yang singkat'."
       },
       "differences": [
         {
@@ -923,7 +1155,10 @@
         "meaning": {
           "ru": "записаться к врачу",
           "tk": "hat ýazmak",
-          "en": "to register (at hospital)"
+          "en": "to register (at hospital)",
+          "uz": "ro'yxatdan o'tish (kasalxonada)",
+          "tg": "ба қайд гирифтан (дар беморхона)",
+          "id": "untuk mendaftar (di rumah sakit)"
         }
       },
       {
@@ -932,7 +1167,10 @@
         "meaning": {
           "ru": "скорая помощь",
           "tk": "gyssagly kömek",
-          "en": "emergency"
+          "en": "emergency",
+          "uz": "shoshilinch yordam",
+          "tg": "таъҷилӣ",
+          "id": "darurat"
         }
       },
       {
@@ -941,7 +1179,10 @@
         "meaning": {
           "ru": "скорая",
           "tk": "tiz kömek maşyny",
-          "en": "ambulance"
+          "en": "ambulance",
+          "uz": "tez yordam",
+          "tg": "ёрии таъҷилӣ",
+          "id": "ambulans"
         }
       },
       {
@@ -950,7 +1191,10 @@
         "meaning": {
           "ru": "терапия",
           "tk": "iç keseller bölümi",
-          "en": "internal medicine"
+          "en": "internal medicine",
+          "uz": "ichki kasalliklar",
+          "tg": "терапия",
+          "id": "penyakit dalam"
         }
       },
       {
@@ -959,7 +1203,10 @@
         "meaning": {
           "ru": "аллергия",
           "tk": "allergiýa",
-          "en": "allergy"
+          "en": "allergy",
+          "uz": "allergiya",
+          "tg": "аллергия",
+          "id": "alergi"
         }
       },
       {
@@ -968,7 +1215,10 @@
         "meaning": {
           "ru": "чихать",
           "tk": "asgyrmak",
-          "en": "to sneeze"
+          "en": "to sneeze",
+          "uz": "aksirmoq",
+          "tg": "атса задан",
+          "id": "bersin"
         }
       },
       {
@@ -977,7 +1227,10 @@
         "meaning": {
           "ru": "простудиться",
           "tk": "üşemek",
-          "en": "to catch cold"
+          "en": "to catch cold",
+          "uz": "shamollamoq",
+          "tg": "хунук хӯрдан",
+          "id": "masuk angin"
         }
       },
       {
@@ -986,7 +1239,10 @@
         "meaning": {
           "ru": "пищеварение",
           "tk": "iýmit siňdirmek",
-          "en": "digestion"
+          "en": "digestion",
+          "uz": "hazm qilish",
+          "tg": "ҳазм",
+          "id": "pencernaan"
         }
       },
       {
@@ -995,7 +1251,10 @@
         "meaning": {
           "ru": "чесаться",
           "tk": "gyjyklamak",
-          "en": "itchy"
+          "en": "itchy",
+          "uz": "qichishadigan",
+          "tg": "хоришдор",
+          "id": "gatal"
         }
       },
       {
@@ -1004,7 +1263,10 @@
         "meaning": {
           "ru": "рвать",
           "tk": "gussmak",
-          "en": "to vomit"
+          "en": "to vomit",
+          "uz": "qusmoq",
+          "tg": "қай кардан",
+          "id": "muntah"
         }
       }
     ]
@@ -1013,7 +1275,10 @@
     "discussion": {
       "ru": "Согласны ли вы с фразой «похудеть можно только через диету»? Что эффективнее?",
       "tk": "«Arryklamak diňe berhiz arkaly bolýar» diýen pikire ylalaşýarsyňyzmy?",
-      "en": "Do you agree that weight loss requires dieting? What's more effective?"
+      "en": "Do you agree that weight loss requires dieting? What's more effective?",
+      "uz": "Vazn yo'qotish parhezni talab qiladi degan fikrga qo'shilasizmi? Nima samaraliroq?",
+      "tg": "Шумо розӣ ҳастед, ки кам кардани вазн парҳезро талаб мекунад? Чӣ бештар самаранок аст?",
+      "id": "Apakah Anda setuju bahwa penurunan berat badan memerlukan diet? Apa yang lebih efektif?"
     }
   },
   "workbook": {

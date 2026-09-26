@@ -5,7 +5,8 @@
     "tk": "Iň ajaýyp pursatda gitmek",
     "en": "Ending at the Best Moment",
     "uz": "Eng go'zal daqiqada ketish",
-    "tg": "Рафтан дар лаҳзаи зеботарин"
+    "tg": "Рафтан дар лаҳзаи зеботарин",
+    "id": "Berakhir di Momen Terbaik"
   },
   "audio_files": {
     "textbook_1": "textbook_1.mp3",
@@ -18,7 +19,10 @@
     "question": {
       "ru": "Какие слова бабушки запомнились вам в детстве?",
       "tk": "Çagalykda mamanyň haýsy sözleri ýadyňyzda galdy?",
-      "en": "Which grandparent sayings stayed with you?"
+      "en": "Which grandparent sayings stayed with you?",
+      "uz": "Qaysi buvi-bobo gaplari sizda qoldi?",
+      "tg": "Кадом гуфтаҳои бобою бибӣ бо шумо монданд?",
+      "id": "Pepatah kakek-nenek mana yang tetap melekat padamu?"
     },
     "answers": [
       "戏剧",
@@ -32,7 +36,10 @@
   "text_translation": {
     "ru": "Моя бабушка говорила: «Уходить нужно в самый прекрасный момент». За это открытие Нобелевскую премию получила не бабушка, а психолог Даниэль Канеман. Он назвал это «правилом пика и конца»: наша память о событии хранит только пик и финал, а сам процесс почти не влияет. Чем быстрее после пика наступает финал, тем глубже впечатление. Большинство не понимает этого закона. Например, для спектакля мы тратим много времени на костюмы, макияж, реквизит, сценографию — чтобы произвести хорошее впечатление; но часто забываем про подготовку финала. Начало кажется очаровательным, а плохой финал оставляет незабываемо плохое впечатление. Однажды я была на свадьбе: первые три часа — прекрасно, последний час — скучно. Три часа радости минус час скуки = два часа радости. Но память так не считает. Если бы я была на другом мероприятии всего час и ушла раньше — я получила бы полные 60 минут удовольствия. По сравнению с первым, второе событие запомнилось лучше. То же с фильмом. Если последние полчаса трогают, мы всё равно рекомендуем его, даже если начало было обычным. А если первые полчаса блистали, а финал пресный — оценка будет плохая, скажут «пустышка». Как телеведущая, я часто применяю это правило: больше сил вкладываю в финал, а не в открытие — так впечатление от программы сильнее. Хотя многие не знают сам термин, они понимают важность этого из опыта.",
     "tk": "Mamam aýdardy: «Iň ajaýyp pursatda gitmeli». Bu açyş üçin Nobel baýragyny mamam däl, psiholog Daniel Kaneman aldy. Ol bu hadysany «pikiň we soňuň kanuny» diýip atlandyrdy: bir zadyň ýadymyzda saklanýan zady diňe pik we soň — prosesiň özi täsir etmeýär. Pikden soň soň näçe çalt gelse, şonça-da çuň täsir galdyrýar. Köpler bu kanuny düşünmeýär. Mysal üçin, spektakl üçin köstýumlara, makiýaža, rekwizitlere köp wagt harçlaýarys — gowy täsir galdyrmak üçin; emma soňuny taýýarlamagy ýatdan çykarýarys. Başy jadyly görünýär, ýöne erbet soň unudylmajak erbet täsir galdyrýar. Bir gezek toýda boldum: ilkinji üç sagat ajaýyp, soňky bir sagat ýadaw. Üç sagat şatlyk minus bir sagat ýadawlyk = iki sagat şatlyk. Emma ýadymyz beýle hasaplamaýar. Başga bir çärä diňe bir sagat baryp ir gitsem, doly 60 minut lezzet alardym. Birinji bilen deňeşdireniňde, ikinjisi has gowy ýatda galdy. Kinoda hem şeýle. Eger soňky ýarym sagat täsirli bolsa, başy ýönekeý bolsa-da, maslahat berýäris. Emma başy ýagtylyk saçyp, soňy boş bolsa — bahasy erbet bolar. Telewizor alyp baryjy hökmünde men bu kanuny köplenç ulanýarym: güýjümi açylyşa däl-de, ýapylyşa siňdirýärin — şonda tomaşaçylara täsir has güýçli bolýar.",
-    "en": "My grandmother said: 'People should leave at the most beautiful moment.' The one who won the Nobel Prize for this insight was not my grandmother, but psychologist Daniel Kahneman. He named this phenomenon the 'peak-end rule': our memory of an event concerns only the peak and the ending; the process in between has almost no effect. The more quickly the end follows the peak, the deeper the impression left. Most people don't understand this law. For example, for a theatrical performance we invest much time in costumes, makeup, props, stage art — to create a good effect and try to leave a good impression — but often neglect preparation for the ending and exit. The start of a performance seems charming, but a bad ending leaves an unforgettable bad impression. Once I attended a wedding — the first three hours felt fine; only the last hour was boring. Three hours of happiness minus one hour of boredom equals two hours of happiness — that is, I happily spent two hours. But my memory doesn't calculate it that way. If I attended another event, stayed only one hour and bid farewell early, I'd have enjoyed a full 60 minutes of happiness. Compared to the first, the second gathering left a better impression. The same is true for movies. A film may have an ordinary plot at first, but if the last half hour moves us, we still recommend it. Conversely, if the first half hour shows the plot's creativity to the fullest but the ending is very ordinary, then viewers' evaluation will certainly be poor — they'll even call it a 'bad film'. As a TV host, I often apply the 'peak-end rule' in my work. For example, when making a program, compared to the opening, we'd rather focus more energy on the closing — this strengthens the audience's impression. Though many don't know the 'peak-end rule', they can feel the importance of this practice from experience."
+    "en": "My grandmother said: 'People should leave at the most beautiful moment.' The one who won the Nobel Prize for this insight was not my grandmother, but psychologist Daniel Kahneman. He named this phenomenon the 'peak-end rule': our memory of an event concerns only the peak and the ending; the process in between has almost no effect. The more quickly the end follows the peak, the deeper the impression left. Most people don't understand this law. For example, for a theatrical performance we invest much time in costumes, makeup, props, stage art — to create a good effect and try to leave a good impression — but often neglect preparation for the ending and exit. The start of a performance seems charming, but a bad ending leaves an unforgettable bad impression. Once I attended a wedding — the first three hours felt fine; only the last hour was boring. Three hours of happiness minus one hour of boredom equals two hours of happiness — that is, I happily spent two hours. But my memory doesn't calculate it that way. If I attended another event, stayed only one hour and bid farewell early, I'd have enjoyed a full 60 minutes of happiness. Compared to the first, the second gathering left a better impression. The same is true for movies. A film may have an ordinary plot at first, but if the last half hour moves us, we still recommend it. Conversely, if the first half hour shows the plot's creativity to the fullest but the ending is very ordinary, then viewers' evaluation will certainly be poor — they'll even call it a 'bad film'. As a TV host, I often apply the 'peak-end rule' in my work. For example, when making a program, compared to the opening, we'd rather focus more energy on the closing — this strengthens the audience's impression. Though many don't know the 'peak-end rule', they can feel the importance of this practice from experience.",
+    "uz": "Buvim aytgan edi: \"Odamlar eng go'zal lahzada ketishlari kerak.\" Bu tushuncha uchun Nobel mukofoti olgan kishi buvim emas, balki psixolog Daniel Kahneman edi. U bu hodisani \"cho'qqi-yakun qoidasi\" deb nomladi: bizning biror voqea haqidagi xotiramiz faqat cho'qqi va yakunga tegishli; oradagi jarayon deyarli ta'sir qilmaydi. Yakun cho'qqidan qanchalik tez keyin kelsa, qoldirgan taassurot shunchalik chuqur bo'ladi. Ko'pchilik bu qonunni tushunmaydi. Masalan, teatr tomoshasi uchun biz kostyumlar, grim, rekvizitlar, sahna san'atiga ko'p vaqt sarflaymiz — yaxshi ta'sir yaratish va yaxshi taassurot qoldirishga harakat qilamiz — lekin ko'pincha yakun va chiqishga tayyorgarlikni e'tiborsiz qoldiramiz. Tomoshaning boshlanishi maftunkor ko'rinadi, ammo yomon yakun unutilmas yomon taassurot qoldiradi. Bir marta to'yga borgan edim — dastlabki uch soat yaxshi o'tdi; faqat oxirgi soat zerikarli bo'ldi. Uch soat baxt minus bir soat zerikish ikki soat baxtga teng — ya'ni men ikki soatni baxtiyor o'tkazdim. Ammo xotiram buni bunday hisoblamaydi. Agar boshqa bir tadbirga qatnashib, faqat bir soat qolib erta xayrlashsam, to'liq 60 daqiqa baxtdan zavqlangan bo'lardim. Birinchisiga qaraganda, ikkinchi yig'ilish yaxshiroq taassurot qoldirdi. Xuddi shu narsa filmlarga ham tegishli. Film avvalida oddiy syujet bo'lishi mumkin, lekin agar oxirgi yarim soat bizni hayajonlantirsa, biz baribir uni tavsiya qilamiz. Aksincha, agar birinchi yarim soat syujetning ijodkorligini to'liq ko'rsatsa, ammo yakun juda oddiy bo'lsa, tomoshabinlarning bahosi, albatta, yomon bo'ladi — ular hatto uni \"yomon film\" deb ataydilar. Televideniye boshlovchisi sifatida men ishimda ko'pincha \"cho'qqi-yakun qoidasi\"ni qo'llayman. Masalan, ko'rsatuv tayyorlashda, ochilishga qaraganda, yakunlashga ko'proq kuch sarflashni afzal ko'ramiz — bu tomoshabin taassurotini kuchaytiradi. Ko'pchilik \"cho'qqi-yakun qoidasi\"ni bilmasa-da, bu amaliyotning muhimligini tajribadan his qilishlari mumkin.",
+    "tg": "Модарам гуфт: «Одамон бояд дар зеботарин лаҳза раванд.» Касе, ки барои ин андеша Ҷоизаи Нобел гирифт, модарам набуд, балки равоншинос Дэниел Канеман. Ӯ ин падидаро «қоидаи қулла ва анҷом» ном гузошт: хотираи мо аз рӯйдод танҳо ба қулла ва анҷом тааллуқ дорад; раванди байни онҳо қариб ҳеҷ таъсире надорад. Ҳар қадар анҷом зудтар пас аз қулла фаро расад, таассурот ҳамон қадар амиқтар мемонад. Аксари одамон ин қонунро намефаҳманд. Масалан, барои намоиши театрӣ мо вақти зиёд ба либос, ороиш, лавозимоти саҳна, санъати саҳна сарф мекунем — то таассуроти хуб ба вуҷуд орем ва кӯшиш кунем, ки таассуроти хуб боқӣ гузорем — аммо аксар вақт омодагӣ барои анҷом ва баромадро фаромӯш мекунем. Оғози намоиш ҷолиб менамояд, аммо анҷоми бад таассуроти бади фаромӯшнашаванда боқӣ мегузорад. Як бор ба тӯй рафтам — се соати аввал хуб буд; танҳо соати охир дилгиркунанда буд. Се соати хушбахтӣ минус як соати дилгирӣ ба ду соати хушбахтӣ баробар аст — яъне ман бо хушӣ ду соат гузарондам. Аммо хотираи ман ин тавр ҳисоб намекунад. Агар ба рӯйдоди дигар рафта, танҳо як соат мемондам ва барвақт хайрбод мегуфтам, ман пурра 60 дақиқа хушбахтӣ мегирифтам. Дар муқоиса бо аввалӣ, ҷамъомади дуюм таассуроти беҳтар боқӣ гузошт. Ҳамин тавр барои филмҳо низ аст. Филм метавонад дар аввал сюжети оддӣ дошта бошад, аммо агар ним соати охир моро ба ҳаяҷон оварад, мо онро ҳанӯз тавсия медиҳем. Баръакс, агар ним соати аввал эҷодкории сюжетро пурра нишон диҳад, аммо анҷом хеле оддӣ бошад, баҳодиҳии тамошобинон албатта бад хоҳад буд — онҳо ҳатто онро «филми бад» меноманд. Ҳамчун барандаи телевизион, ман аксар вақт «қоидаи қулла ва анҷом»-ро дар кори худ истифода мебарам. Масалан, ҳангоми таҳияи барнома, дар муқоиса бо оғоз, мо беҳтар аст, ки бештар энергия ба анҷом равона кунем — ин таассуроти тамошобинонро қавӣ мекунад. Ҳарчанд бисёриҳо «қоидаи қулла ва анҷом»-ро намедонанд, онҳо аҳамияти ин амалро аз таҷриба ҳис мекунанд.",
+    "id": "Nenek saya berkata: 'Orang harus pergi pada momen yang paling indah.' Orang yang memenangkan Hadiah Nobel untuk wawasan ini bukanlah nenek saya, melainkan psikolog Daniel Kahneman. Ia menamai fenomena ini 'aturan puncak-akhir': ingatan kita tentang suatu peristiwa hanya berkaitan dengan puncak dan akhirnya; proses di antaranya hampir tidak berpengaruh. Semakin cepat akhir menyusul puncak, semakin dalam kesan yang ditinggalkan. Kebanyakan orang tidak memahami hukum ini. Misalnya, untuk pertunjukan teater kita menginvestasikan banyak waktu dalam kostum, tata rias, properti, seni panggung — untuk menciptakan efek yang baik dan mencoba meninggalkan kesan yang baik — tetapi sering mengabaikan persiapan untuk akhir dan penutupan. Awal pertunjukan tampak mempesona, tetapi akhir yang buruk meninggalkan kesan buruk yang tak terlupakan. Suatu kali saya menghadiri pernikahan — tiga jam pertama terasa baik; hanya satu jam terakhir yang membosankan. Tiga jam kebahagiaan dikurangi satu jam kebosanan sama dengan dua jam kebahagiaan — yaitu, saya menghabiskan dua jam dengan bahagia. Tetapi ingatan saya tidak menghitungnya seperti itu. Jika saya menghadiri acara lain, hanya tinggal satu jam dan berpamitan lebih awal, saya akan menikmati 60 menit kebahagiaan penuh. Dibandingkan dengan yang pertama, pertemuan kedua meninggalkan kesan yang lebih baik. Hal yang sama berlaku untuk film. Sebuah film mungkin memiliki alur biasa pada awalnya, tetapi jika setengah jam terakhir menyentuh kita, kita tetap merekomendasikannya. Sebaliknya, jika setengah jam pertama menunjukkan kreativitas alur secara maksimal tetapi akhirnya sangat biasa, maka evaluasi penonton pasti akan buruk — mereka bahkan akan menyebutnya 'film buruk'. Sebagai pembawa acara TV, saya sering menerapkan 'aturan puncak-akhir' dalam pekerjaan saya. Misalnya, saat membuat program, dibandingkan pembukaan, kami lebih memilih memfokuskan lebih banyak energi pada penutupan — ini memperkuat kesan penonton. Meskipun banyak yang tidak mengetahui 'aturan puncak-akhir', mereka dapat merasakan pentingnya praktik ini dari pengalaman."
   },
   "vocabulary": [
     {
@@ -42,7 +49,10 @@
       "meaning": {
         "ru": "вещь, явление",
         "tk": "zat, hadysa",
-        "en": "thing"
+        "en": "thing",
+        "uz": "narsa",
+        "tg": "чиз",
+        "id": "benda"
       }
     },
     {
@@ -52,7 +62,10 @@
       "meaning": {
         "ru": "пик",
         "tk": "iň ýokary nokat",
-        "en": "peak"
+        "en": "peak",
+        "uz": "cho'qqi",
+        "tg": "қулла",
+        "id": "puncak"
       }
     },
     {
@@ -62,7 +75,10 @@
       "meaning": {
         "ru": "финиш, конец",
         "tk": "ahyry",
-        "en": "endpoint"
+        "en": "endpoint",
+        "uz": "oxirgi nuqta",
+        "tg": "нуқтаи ниҳоӣ",
+        "id": "titik akhir"
       }
     },
     {
@@ -72,7 +88,10 @@
       "meaning": {
         "ru": "быстрый",
         "tk": "çalt",
-        "en": "rapid"
+        "en": "rapid",
+        "uz": "tez",
+        "tg": "тез",
+        "id": "cepat"
       }
     },
     {
@@ -82,7 +101,10 @@
       "meaning": {
         "ru": "глубокий",
         "tk": "çuň",
-        "en": "profound"
+        "en": "profound",
+        "uz": "chuqur",
+        "tg": "амиқ",
+        "id": "mendalam"
       }
     },
     {
@@ -92,7 +114,10 @@
       "meaning": {
         "ru": "драма, спектакль",
         "tk": "drama",
-        "en": "drama"
+        "en": "drama",
+        "uz": "drama",
+        "tg": "драма",
+        "id": "drama"
       }
     },
     {
@@ -102,7 +127,10 @@
       "meaning": {
         "ru": "вкладывать",
         "tk": "goýmak (tagalla)",
-        "en": "to put into"
+        "en": "to put into",
+        "uz": "ichiga qo'ymoq",
+        "tg": "гузоштан ба",
+        "id": "memasukkan ke dalam"
       }
     },
     {
@@ -112,7 +140,10 @@
       "meaning": {
         "ru": "одежда, костюм",
         "tk": "eşik",
-        "en": "costume"
+        "en": "costume",
+        "uz": "kostyum",
+        "tg": "либос",
+        "id": "kostum"
       }
     },
     {
@@ -122,7 +153,10 @@
       "meaning": {
         "ru": "наносить макияж",
         "tk": "makiýaž etmek",
-        "en": "to put on makeup"
+        "en": "to put on makeup",
+        "uz": "makiyaj qilmoq",
+        "tg": "ороиш кардан",
+        "id": "berdandan"
       }
     },
     {
@@ -132,7 +166,10 @@
       "meaning": {
         "ru": "реквизит",
         "tk": "rekvizit",
-        "en": "prop"
+        "en": "prop",
+        "uz": "rekvizit",
+        "tg": "реквизит",
+        "id": "properti"
       }
     },
     {
@@ -142,7 +179,10 @@
       "meaning": {
         "ru": "изобразительное искусство",
         "tk": "şekillendiriş sungaty",
-        "en": "fine arts"
+        "en": "fine arts",
+        "uz": "tasviriy san'at",
+        "tg": "санъати тасвирӣ",
+        "id": "seni rupa"
       }
     },
     {
@@ -152,7 +192,10 @@
       "meaning": {
         "ru": "чтобы (книжн.)",
         "tk": "maksady bilen",
-        "en": "in order to"
+        "en": "in order to",
+        "uz": "uchun",
+        "tg": "барои он ки",
+        "id": "agar"
       }
     },
     {
@@ -162,7 +205,10 @@
       "meaning": {
         "ru": "хороший",
         "tk": "oňat",
-        "en": "good"
+        "en": "good",
+        "uz": "yaxshi",
+        "tg": "хуб",
+        "id": "baik"
       }
     },
     {
@@ -172,7 +218,10 @@
       "meaning": {
         "ru": "стараться получить",
         "tk": "tagalla etmek",
-        "en": "to strive for"
+        "en": "to strive for",
+        "uz": "intilmoq",
+        "tg": "кӯшиш кардан",
+        "id": "berjuang untuk"
       }
     },
     {
@@ -182,7 +231,10 @@
       "meaning": {
         "ru": "игнорировать",
         "tk": "üns bermezlik",
-        "en": "to neglect"
+        "en": "to neglect",
+        "uz": "e'tiborsiz qoldirmoq",
+        "tg": "беэътиноӣ кардан",
+        "id": "mengabaikan"
       }
     },
     {
@@ -192,7 +244,10 @@
       "meaning": {
         "ru": "очарование",
         "tk": "özüne çekijilik",
-        "en": "charm"
+        "en": "charm",
+        "uz": "joziba",
+        "tg": "ҷаззобӣ",
+        "id": "pesona"
       }
     },
     {
@@ -202,7 +257,10 @@
       "meaning": {
         "ru": "ужасный",
         "tk": "erbet",
-        "en": "awful"
+        "en": "awful",
+        "uz": "dahshatli",
+        "tg": "даҳшатнок",
+        "id": "mengerikan"
       }
     },
     {
@@ -212,7 +270,10 @@
       "meaning": {
         "ru": "свадьба",
         "tk": "toý",
-        "en": "wedding"
+        "en": "wedding",
+        "uz": "to'y",
+        "tg": "тӯй",
+        "id": "pernikahan"
       }
     },
     {
@@ -222,7 +283,10 @@
       "meaning": {
         "ru": "равняться",
         "tk": "deň bolmak",
-        "en": "to be equal to"
+        "en": "to be equal to",
+        "uz": "teng bo'lmoq",
+        "tg": "баробар будан ба",
+        "id": "sama dengan"
       }
     },
     {
@@ -232,7 +296,10 @@
       "meaning": {
         "ru": "провести (время)",
         "tk": "geçirmek",
-        "en": "to spend (time)"
+        "en": "to spend (time)",
+        "uz": "o'tkazmoq (vaqt)",
+        "tg": "сарф кардан (вақт)",
+        "id": "menghabiskan (waktu)"
       }
     },
     {
@@ -242,7 +309,10 @@
       "meaning": {
         "ru": "прощаться",
         "tk": "hoşlaşmak",
-        "en": "to say goodbye"
+        "en": "to say goodbye",
+        "uz": "xayrlashmoq",
+        "tg": "худо ҳофиз гуфтан",
+        "id": "mengucapkan selamat tinggal"
       }
     },
     {
@@ -252,7 +322,10 @@
       "meaning": {
         "ru": "обычный; обычно",
         "tk": "adaty",
-        "en": "ordinary; usually"
+        "en": "ordinary; usually",
+        "uz": "oddiy; odatda",
+        "tg": "оддӣ; одатан",
+        "id": "biasa; biasanya"
       }
     },
     {
@@ -262,7 +335,10 @@
       "meaning": {
         "ru": "по-прежнему",
         "tk": "henizem",
-        "en": "still"
+        "en": "still",
+        "uz": "hali",
+        "tg": "ҳанӯз",
+        "id": "masih"
       }
     },
     {
@@ -272,7 +348,10 @@
       "meaning": {
         "ru": "рекомендовать",
         "tk": "maslahat bermek",
-        "en": "to recommend"
+        "en": "to recommend",
+        "uz": "tavsiya qilmoq",
+        "tg": "тавсия додан",
+        "id": "merekomendasikan"
       }
     },
     {
@@ -282,7 +361,10 @@
       "meaning": {
         "ru": "в полной мере",
         "tk": "doly derejede",
-        "en": "fully, thoroughly"
+        "en": "fully, thoroughly",
+        "uz": "to'liq, puxta",
+        "tg": "пурра, ба таври пурра",
+        "id": "sepenuhnya, secara menyeluruh"
       }
     },
     {
@@ -292,7 +374,10 @@
       "meaning": {
         "ru": "оценивать; оценка",
         "tk": "baha bermek",
-        "en": "to evaluate"
+        "en": "to evaluate",
+        "uz": "baholamoq",
+        "tg": "баҳо додан",
+        "id": "mengevaluasi"
       }
     },
     {
@@ -302,7 +387,10 @@
       "meaning": {
         "ru": "гнилой, плохой",
         "tk": "erbet",
-        "en": "bad, rotten"
+        "en": "bad, rotten",
+        "uz": "yomon, chirigan",
+        "tg": "бад, пӯсида",
+        "id": "buruk, busuk"
       }
     },
     {
@@ -312,7 +400,10 @@
       "meaning": {
         "ru": "вести (передачу)",
         "tk": "alyp barmak",
-        "en": "to host"
+        "en": "to host",
+        "uz": "mezbonlik qilmoq",
+        "tg": "баргузор кардан",
+        "id": "menjadi tuan rumah"
       }
     },
     {
@@ -322,7 +413,10 @@
       "meaning": {
         "ru": "применять",
         "tk": "ulanmak",
-        "en": "to apply"
+        "en": "to apply",
+        "uz": "ariza qilmoq",
+        "tg": "ариза додан",
+        "id": "melamar"
       }
     },
     {
@@ -332,7 +426,10 @@
       "meaning": {
         "ru": "церемония открытия",
         "tk": "açylyş dabarasy",
-        "en": "opening ceremony"
+        "en": "opening ceremony",
+        "uz": "ochilish marosimi",
+        "tg": "маросими ифтитоҳ",
+        "id": "upacara pembukaan"
       }
     },
     {
@@ -342,7 +439,10 @@
       "meaning": {
         "ru": "лучше уж, предпочтительно",
         "tk": "göre görä",
-        "en": "would rather"
+        "en": "would rather",
+        "uz": "afzal ko'rmoq",
+        "tg": "беҳтар медонам",
+        "id": "lebih suka"
       }
     },
     {
@@ -352,7 +452,10 @@
       "meaning": {
         "ru": "сосредоточить",
         "tk": "jemlemek",
-        "en": "to concentrate"
+        "en": "to concentrate",
+        "uz": "diqqatni jamlamoq",
+        "tg": "диққат кардан",
+        "id": "untuk berkonsentrasi"
       }
     },
     {
@@ -362,7 +465,10 @@
       "meaning": {
         "ru": "постигать, понимать",
         "tk": "duýmak",
-        "en": "to realize"
+        "en": "to realize",
+        "uz": "anglamoq",
+        "tg": "фаҳмидан",
+        "id": "untuk menyadari"
       }
     }
   ],
@@ -373,68 +479,101 @@
       "explanation": {
         "ru": "«以» — книжный предлог «посредством, используя», союз «чтобы».",
         "tk": "«以» — kitaby goşma söz «bilen», baglaýjy «maksady bilen».",
-        "en": "'以' — formal prep. 'by means of'; conj. 'in order to'."
+        "en": "'以' — formal prep. 'by means of'; conj. 'in order to'.",
+        "uz": "'以' — rasmiy predlog 'yordamida'; bog'lovchi 'maqsadida'.",
+        "tg": "'以' — пешоянди расмӣ 'ба воситаи'; пайвандак 'барои он ки'.",
+        "id": "'以' — kata depan formal 'dengan cara'; konjungsi 'agar'."
       },
       "examples": [
         {
           "zh": "同年4月，微信以英文名WeChat正式进入国际市场。",
           "ru": "В апреле того же года WeChat под английским именем вышел на международный рынок.",
           "tk": "Şol ýylyň aprelinde WeChat iňlis ady bilen halkara bazara çykdy.",
-          "en": "In April that year WeChat entered the international market under its English name."
+          "en": "In April that year WeChat entered the international market under its English name.",
+          "uz": "O'sha yilning aprel oyida WeChat o'zining inglizcha nomi bilan xalqaro bozorga chiqdi.",
+          "tg": "Дар моҳи апрели он сол WeChat бо номи англисии худ ба бозори байналмилалӣ ворид шуд.",
+          "id": "Pada bulan April tahun itu WeChat memasuki pasar internasional dengan nama bahasa Inggrisnya."
         },
         {
           "zh": "学生分为甲乙两队，以足球为比赛工具向篮内投，按得分多少决定输赢。",
           "ru": "Учеников разделили на команды А и Б, играли футбольным мячом в корзину — побеждал тот, у кого больше очков.",
           "tk": "Okuwçylar A we B toparlara bölündi, futbol topy bilen sebede atdylar — köp utuk toplan ýeňdi.",
-          "en": "Students split into A and B teams, shot a soccer ball into baskets — most points won."
+          "en": "Students split into A and B teams, shot a soccer ball into baskets — most points won.",
+          "uz": "Talabalar A va B jamoalariga bo'linib, futbol to'pini savatlarga tashlashdi — eng ko'p ochko to'plagan jamoa g'olib bo'ldi.",
+          "tg": "Донишҷӯён ба дастаҳои A ва B ҷудо шуданд, тӯби футболро ба сабадҳо андохтанд — бештарин хол ғолиб шуд.",
+          "id": "Siswa dibagi menjadi tim A dan B, menendang bola sepak ke dalam keranjang — poin terbanyak menang."
         },
         {
           "zh": "虽然我们已经老了，但还要坚持学习，以适应社会的发展。",
           "ru": "Хотя мы уже стары, надо продолжать учиться, чтобы приспособиться к развитию общества.",
           "tk": "Biz garry bolsak-da, jemgyýetiň ösüşine uýmak üçin okamagy dowam etmeli.",
-          "en": "Though old, we must keep learning to adapt to society."
+          "en": "Though old, we must keep learning to adapt to society.",
+          "uz": "Qarigan bo'lsak ham, jamiyatga moslashish uchun o'rganishni davom ettirishimiz kerak.",
+          "tg": "Ҳарчанд пир шуда бошем ҳам, бояд барои мутобиқ шудан ба ҷомеа омӯхтанро идома диҳем.",
+          "id": "Meskipun tua, kita harus terus belajar untuk beradaptasi dengan masyarakat."
         },
         {
           "zh": "比如说为了一场戏剧演出，我们会投入很多时间，准备服装、化妆、道具、舞台美术，以创造良好的效果。",
           "ru": "Например, для спектакля мы тратим много времени на костюмы, макияж, реквизит, сценографию — чтобы произвести хорошее впечатление.",
           "tk": "Mysal üçin spektakl üçin köstýumlara, makiýaža, rekwizitlere köp wagt harçlaýarys — gowy täsir döretmek üçin.",
-          "en": "For a play we invest much time in costumes, makeup, props, set design — to create good effect."
+          "en": "For a play we invest much time in costumes, makeup, props, set design — to create good effect.",
+          "uz": "Spektakl uchun biz kostyumlar, grim, rekvizitlar, sahna dizayniga ko'p vaqt sarflaymiz — yaxshi taassurot yaratish uchun.",
+          "tg": "Барои намоишнома мо вақти зиёдро ба либосҳо, ороиш, лавозимоти саҳна, тарҳи декоратсия сарф мекунем — то ки таъсири хуб ба вуҷуд орем.",
+          "id": "Untuk sebuah pertunjukan, kami menginvestasikan banyak waktu dalam kostum, tata rias, properti, desain panggung — untuk menciptakan efek yang bagus."
         },
         {
           "zh": "他以优异的成绩毕业。",
           "ru": "Он окончил с отличием.",
           "tk": "Ol ajaýyp bahalar bilen gutardy.",
-          "en": "He graduated with honors."
+          "en": "He graduated with honors.",
+          "uz": "U imtiyozli diplom bilan bitirdi.",
+          "tg": "Ӯ бо дипломи аъло хатм кард.",
+          "id": "Dia lulus dengan pujian."
         },
         {
           "zh": "以你的能力，一定能成功。",
           "ru": "С твоими способностями — обязательно добьёшься успеха.",
           "tk": "Seniň ukybyň bilen hökman üstünlik gazanarsyň.",
-          "en": "With your ability, you'll surely succeed."
+          "en": "With your ability, you'll surely succeed.",
+          "uz": "Sizning qobiliyatingiz bilan, albatta muvaffaqiyatga erishasiz.",
+          "tg": "Бо қобилияти шумо, шумо албатта муваффақ мешавед.",
+          "id": "Dengan kemampuanmu, kamu pasti akan berhasil."
         },
         {
           "zh": "会议以投票的方式决定。",
           "ru": "Решение приняли голосованием.",
           "tk": "Karar ses bermek arkaly kabul edildi.",
-          "en": "The decision was made by voting."
+          "en": "The decision was made by voting.",
+          "uz": "Qaror ovoz berish yo'li bilan qabul qilindi.",
+          "tg": "Қарор бо роҳи овоздиҳӣ қабул шуд.",
+          "id": "Keputusan dibuat dengan pemungutan suara."
         },
         {
           "zh": "以我的看法，这样做不太好。",
           "ru": "По моему мнению, так делать нехорошо.",
           "tk": "Meniň pikrimçe, beýle etmek gowy däl.",
-          "en": "In my view, this isn't good."
+          "en": "In my view, this isn't good.",
+          "uz": "Mening fikrimcha, bu yaxshi emas.",
+          "tg": "Ба назари ман, ин хуб нест.",
+          "id": "Menurut pandangan saya, ini tidak bagus."
         },
         {
           "zh": "我们以歌声欢迎他的到来。",
           "ru": "Мы встретили его песней.",
           "tk": "Biz ony aýdym bilen garşyladyk.",
-          "en": "We welcomed him with a song."
+          "en": "We welcomed him with a song.",
+          "uz": "Biz uni qo'shiq bilan kutib oldik.",
+          "tg": "Мо ӯро бо суруд пешвоз гирифтем.",
+          "id": "Kami menyambutnya dengan sebuah lagu."
         },
         {
           "zh": "以此为荣。",
           "ru": "Гордимся этим.",
           "tk": "Bu bilen buýsanýarys.",
-          "en": "We're proud of this."
+          "en": "We're proud of this.",
+          "uz": "Biz bundan faxrlanamiz.",
+          "tg": "Мо ба ин ифтихор мекунем.",
+          "id": "Kami bangga akan hal ini."
         }
       ],
       "formula": {
@@ -504,68 +643,101 @@
       "explanation": {
         "ru": "«平常» — прилагательное «обычный»; существительное «обычно, в повседневности».",
         "tk": "«平常» — sypat «adaty»; at «adaty günlerde».",
-        "en": "'平常' — adj. 'ordinary'; n. 'usually'."
+        "en": "'平常' — adj. 'ordinary'; n. 'usually'.",
+        "uz": "'平常' — sifat 'oddiy'; ot 'odatda'.",
+        "tg": "'平常' — сифат 'оддӣ'; исм 'одатан'.",
+        "id": "'平常' — kata sifat 'biasa'; kata benda 'biasanya'."
       },
       "examples": [
         {
           "zh": "对小王来说，今天是一个不平常的日子，因为他今天第一天上班。",
           "ru": "Для Сяо Вана сегодня необычный день — первый рабочий день.",
           "tk": "Sýao Wan üçin bu gün adaty däl gün — ilkinji iş güni.",
-          "en": "For Xiao Wang today is unusual — first day at work."
+          "en": "For Xiao Wang today is unusual — first day at work.",
+          "uz": "Kichik Van uchun bugun odatdagidan farqli kun — ishdagi birinchi kuni.",
+          "tg": "Барои Сяо Ван имрӯз рӯзи ғайриоддӣ аст — рӯзи аввали кор.",
+          "id": "Bagi Xiao Wang, hari ini tidak biasa — hari pertama bekerja."
         },
         {
           "zh": "一部电影，开始虽然剧情平平常常，如果最后半个小时能使我们感动，我们依然会向别人推荐它。",
           "ru": "Даже если начало фильма обычное, но последние полчаса трогают — мы всё равно его рекомендуем.",
           "tk": "Filmiň başy adaty bolsa-da, soňky ýarym sagat täsirli bolsa — maslahat berýäris.",
-          "en": "Even if a movie starts ordinary but the last half-hour moves us — we still recommend it."
+          "en": "Even if a movie starts ordinary but the last half-hour moves us — we still recommend it.",
+          "uz": "Agar film oddiy boshlanib, oxirgi yarim soati bizni hayajonlantirsa — biz baribir uni tavsiya qilamiz.",
+          "tg": "Ҳатто агар филм оддӣ оғоз шавад, вале ним соати охир моро ба ҳаяҷон оварад — мо ҳамон тавсия медиҳем.",
+          "id": "Bahkan jika sebuah film dimulai dengan biasa saja tetapi setengah jam terakhirnya menyentuh kita — kita tetap merekomendasikannya."
         },
         {
           "zh": "他平常总是来得很早，今天却迟到了。",
           "ru": "Обычно он приходит рано — сегодня опоздал.",
           "tk": "Adatça ol ir gelýär — bu gün gijä galdy.",
-          "en": "He usually comes early — today he was late."
+          "en": "He usually comes early — today he was late.",
+          "uz": "U odatda erta keladi — bugun kechikdi.",
+          "tg": "Ӯ одатан барвақт меояд — имрӯз дер монд.",
+          "id": "Biasanya dia datang lebih awal — hari ini dia terlambat."
         },
         {
           "zh": "校长又告诉老师们，对待这些孩子，要像平常一样，不要让孩子或家长知道他们是被选出来的。",
           "ru": "Директор снова напомнил учителям: обращаться с детьми как обычно — чтобы они или родители не знали, что их выбрали.",
           "tk": "Direktor mugallymlara ýene aýtdy: çagalara adaty ýaly garaň — çagalar ýa-da ene-atalar saýlanandyklaryny bilmesin.",
-          "en": "The principal reminded teachers again: treat these kids as usual — don't let them or parents know they were selected."
+          "en": "The principal reminded teachers again: treat these kids as usual — don't let them or parents know they were selected.",
+          "uz": "Direktor o'qituvchilarga yana eslatdi: bu bolalarga odatdagidek munosabatda bo'ling — ular yoki ota-onalari tanlanganliklarini bilmasin.",
+          "tg": "Директор боз ба муаллимон хотиррасон кард: ин кӯдаконро мисли ҳамеша муносибат кунед — нагузоред, ки онҳо ё волидонашон бидонанд, ки интихоб шудаанд.",
+          "id": "Kepala sekolah mengingatkan para guru lagi: perlakukan anak-anak ini seperti biasa — jangan biarkan mereka atau orang tua tahu mereka terpilih."
         },
         {
           "zh": "这件衣服看起来平常，其实很贵。",
           "ru": "Эта одежда кажется обычной — на самом деле дорогая.",
           "tk": "Bu egin-eşik adaty görünýär — aslynda gaty gymmat.",
-          "en": "This clothing looks ordinary — actually very expensive."
+          "en": "This clothing looks ordinary — actually very expensive.",
+          "uz": "Bu kiyim oddiy ko'rinadi — aslida juda qimmat.",
+          "tg": "Ин либос оддӣ менамояд — дар асл хеле қиммат аст.",
+          "id": "Pakaian ini terlihat biasa — sebenarnya sangat mahal."
         },
         {
           "zh": "平常我不太喝咖啡。",
           "ru": "Обычно я не пью кофе.",
           "tk": "Adatça men kofe içemok.",
-          "en": "Usually I don't drink coffee."
+          "en": "Usually I don't drink coffee.",
+          "uz": "Odatda men qahva ichmayman.",
+          "tg": "Ман одатан қаҳва наменӯшам.",
+          "id": "Biasanya saya tidak minum kopi."
         },
         {
           "zh": "她平常穿得很朴素。",
           "ru": "Она обычно одевается скромно.",
           "tk": "Ol adatça ýönekeý geýinýär.",
-          "en": "She usually dresses simply."
+          "en": "She usually dresses simply.",
+          "uz": "U odatda oddiy kiyinadi.",
+          "tg": "Ӯ одатан содда либос мепӯшад.",
+          "id": "Biasanya dia berpakaian sederhana."
         },
         {
           "zh": "一个平常的周末，我决定去爬山。",
           "ru": "В обычный выходной я решил пойти в горы.",
           "tk": "Adaty dynç gününde men daga çykmagy karar etdim.",
-          "en": "On an ordinary weekend, I decided to hike."
+          "en": "On an ordinary weekend, I decided to hike.",
+          "uz": "Oddiy dam olish kunlaridan birida men piyoda sayr qilishga qaror qildim.",
+          "tg": "Дар як рӯзи истироҳати оддӣ, ман қарор додам, ки ба сайругашт равам.",
+          "id": "Pada akhir pekan yang biasa, saya memutuskan untuk mendaki."
         },
         {
           "zh": "他的表现比平常好得多。",
           "ru": "Он выступил гораздо лучше обычного.",
           "tk": "Ol adatyndan has gowy çykyş etdi.",
-          "en": "He performed much better than usual."
+          "en": "He performed much better than usual.",
+          "uz": "U odatdagidan ancha yaxshi o'ynadi.",
+          "tg": "Ӯ нисбат ба ҳамеша хеле беҳтар иҷро кард.",
+          "id": "Penampilannya jauh lebih baik dari biasanya."
         },
         {
           "zh": "这在我们这儿是件很平常的事。",
           "ru": "У нас это обычное дело.",
           "tk": "Bu biziň ýerimizde adaty zat.",
-          "en": "It's a common thing here."
+          "en": "It's a common thing here.",
+          "uz": "Bu yerda bu oddiy narsa.",
+          "tg": "Ин ҷо чизе маъмул аст.",
+          "id": "Ini hal yang umum di sini."
         }
       ],
       "formula": {
@@ -636,68 +808,101 @@
       "explanation": {
         "ru": "«宁可» — «лучше уж». Часто с «也不»: «лучше А, чем Б».",
         "tk": "«宁可» — «göre görä». «也不» bilen: «A, B-dan gowy».",
-        "en": "'宁可' — 'would rather'. Often with '也不': 'rather A than B'."
+        "en": "'宁可' — 'would rather'. Often with '也不': 'rather A than B'.",
+        "uz": "'宁可' — 'afzal ko'rmoq'. Ko'pincha '也不' bilan: 'A ni emas, B ni afzal ko'rmoq'.",
+        "tg": "'宁可' — 'беҳтар аст'. Аксар вақт бо '也不': 'беҳтар A аз B'.",
+        "id": "'宁可' — 'lebih suka'. Sering dengan '也不': 'lebih memilih A daripada B'."
       },
       "examples": [
         {
           "zh": "做节目时，与开幕式相比，我们宁可把更多的精力集中在闭幕式上。",
           "ru": "В программе мы предпочитаем вкладывать больше сил в финал, чем в открытие.",
           "tk": "Programmada açylyşa garanyňda, ýapylyşa has köp güýç siňdirýäris.",
-          "en": "In shows we'd rather focus more on the closing than the opening."
+          "en": "In shows we'd rather focus more on the closing than the opening.",
+          "uz": "Shoularda biz ochilishdan ko'ra yopilishga ko'proq e'tibor qaratishni afzal ko'ramiz.",
+          "tg": "Дар намоишҳо мо бештар ба анҷом диққат медиҳем, на ба оғоз.",
+          "id": "Dalam pertunjukan, kami lebih suka fokus pada penutupan daripada pembukaan."
         },
         {
           "zh": "作为母亲，她宁可自己累一点儿，也不想委屈了孩子。",
           "ru": "Как мать, она лучше устанет сама, чем обидит ребёнка.",
           "tk": "Eje hökmünde, ol çagasyny incitmezden, özi ýadap biler.",
-          "en": "As a mother, she'd rather tire herself than wrong her child."
+          "en": "As a mother, she'd rather tire herself than wrong her child.",
+          "uz": "Ona sifatida u bolasini xafa qilgandan ko'ra o'zini charchatishni afzal ko'radi.",
+          "tg": "Ҳамчун модар, вай худро хаста мекунад, на фарзандашро озор медиҳад.",
+          "id": "Sebagai seorang ibu, dia lebih memilih kelelahan sendiri daripada menyakiti anaknya."
         },
         {
           "zh": "为什么大家宁可挤成一团，也不去没人的那边？",
           "ru": "Почему все лучше толпятся, чем пойдут туда, где пусто?",
           "tk": "Näme üçin hemmeler adam ýok ýere gitmezden, dykynyp durmagy saýlaýarlar?",
-          "en": "Why would everyone rather crowd than go where it's empty?"
+          "en": "Why would everyone rather crowd than go where it's empty?",
+          "uz": "Nega hamma bo'sh joyga borishdan ko'ra olomon bo'lishni afzal ko'radi?",
+          "tg": "Чаро ҳама мехоҳанд дар ҷои серодам бошанд, на ба ҷои холӣ?",
+          "id": "Mengapa semua orang lebih suka berdesakan daripada pergi ke tempat yang kosong?"
         },
         {
           "zh": "我宁可花钱去餐厅吃，也不想自己做饭。",
           "ru": "Я лучше заплачу в ресторане, чем буду готовить.",
           "tk": "Men nahar bişirmän, restoranda pul harçlamagy saýlaýaryn.",
-          "en": "I'd rather pay at a restaurant than cook."
+          "en": "I'd rather pay at a restaurant than cook.",
+          "uz": "Men ovqat pishirgandan ko'ra restoranda to'lashni afzal ko'raman.",
+          "tg": "Ман дар тарабхона пардохтанро афзал медонам, на пухтан.",
+          "id": "Saya lebih suka membayar di restoran daripada memasak."
         },
         {
           "zh": "为了把文章写好，他宁可熬到半夜。",
           "ru": "Чтобы написать статью хорошо, он лучше просидит до полуночи.",
           "tk": "Makalany gowy ýazmak üçin, ol ýary gijä çenli otyrmagy saýlady.",
-          "en": "To write a good article, he'd rather sit until midnight."
+          "en": "To write a good article, he'd rather sit until midnight.",
+          "uz": "Yaxshi maqola yozish uchun u yarim tungacha o'tirishni afzal ko'radi.",
+          "tg": "Барои навиштани мақолаи хуб, вай то нисфишаб нишастанро афзал медонад.",
+          "id": "Untuk menulis artikel yang bagus, dia lebih suka duduk sampai tengah malam."
         },
         {
           "zh": "我宁可靠自己，也不求别人。",
           "ru": "Я лучше сам справлюсь, чем буду просить.",
           "tk": "Men başgalardan soramazdan, özüme bil baglamagy saýlaýaryn.",
-          "en": "I'd rather rely on myself than ask others."
+          "en": "I'd rather rely on myself than ask others.",
+          "uz": "Boshqalardan so'rashdan ko'ra o'zimga tayanishni afzal ko'raman.",
+          "tg": "Ман ба худ такя карданро афзал медонам, на аз дигарон пурсидан.",
+          "id": "Saya lebih suka mengandalkan diri sendiri daripada meminta bantuan orang lain."
         },
         {
           "zh": "宁可少买几件，也要买质量好的。",
           "ru": "Лучше купить меньше, но качественные.",
           "tk": "Az-az, ýöne hili gowy satyn almaly.",
-          "en": "Better to buy fewer but good quality."
+          "en": "Better to buy fewer but good quality.",
+          "uz": "Kamroq, lekin sifatliroq sotib olgan yaxshi.",
+          "tg": "Камтар харидан беҳтар аст, аммо сифати хуб.",
+          "id": "Lebih baik membeli lebih sedikit tetapi berkualitas baik."
         },
         {
           "zh": "他宁可多花时间，也要把事做好。",
           "ru": "Он лучше потратит больше времени, но сделает хорошо.",
           "tk": "Ol köp wagt harçlap bolsa-da, işi gowy etmeli.",
-          "en": "He'd rather spend more time to do it well."
+          "en": "He'd rather spend more time to do it well.",
+          "uz": "U buni yaxshi bajarish uchun ko'proq vaqt sarflashni afzal ko'radi.",
+          "tg": "Ӯ мехоҳад вақти бештар сарф кунад, то онро хуб иҷро намояд.",
+          "id": "Dia lebih suka meluangkan lebih banyak waktu untuk melakukannya dengan baik."
         },
         {
           "zh": "我宁可站着，也不坐这儿。",
           "ru": "Я лучше постою, чем тут сидеть.",
           "tk": "Men bu ýerde oturmazdan, durmagy saýlaýaryn.",
-          "en": "I'd rather stand than sit here."
+          "en": "I'd rather stand than sit here.",
+          "uz": "Bu yerda o'tirishdan ko'ra turishni afzal ko'raman.",
+          "tg": "Ман мехоҳам истода истам, на ин ҷо нишастан.",
+          "id": "Saya lebih suka berdiri daripada duduk di sini."
         },
         {
           "zh": "宁可慢一点，也要做得仔细。",
           "ru": "Лучше помедленнее, но тщательно.",
           "tk": "Haýal, ýöne ünsli etmeli.",
-          "en": "Better slow but careful."
+          "en": "Better slow but careful.",
+          "uz": "Sekin, lekin ehtiyotkor bo'lgan yaxshi.",
+          "tg": "Беҳтар аст оҳиста, вале эҳтиёткорона.",
+          "id": "Lebih baik lambat tapi hati-hati."
         }
       ],
       "formula": {
@@ -807,7 +1012,10 @@
       "common": {
         "ru": "Оба — «не обращать внимания».",
         "tk": "Ikisi hem «üns bermezlik».",
-        "en": "Both mean 'to neglect'."
+        "en": "Both mean 'to neglect'.",
+        "uz": "Ikkalasi ham 'e'tiborsiz qoldirmoq' ma'nosini bildiradi.",
+        "tg": "Ҳарду маънои 'беэътиноӣ кардан'-ро доранд.",
+        "id": "Keduanya berarti 'mengabaikan'."
       },
       "differences": [
         {
@@ -841,7 +1049,10 @@
         "meaning": {
           "ru": "диагноз",
           "tk": "diagnoz",
-          "en": "diagnosis"
+          "en": "diagnosis",
+          "uz": "tashxis",
+          "tg": "ташхис",
+          "id": "diagnosis"
         }
       },
       {
@@ -850,7 +1061,10 @@
         "meaning": {
           "ru": "операция",
           "tk": "operasiýa",
-          "en": "surgery"
+          "en": "surgery",
+          "uz": "jarrohlik",
+          "tg": "ҷарроҳӣ",
+          "id": "operasi"
         }
       },
       {
@@ -859,7 +1073,10 @@
         "meaning": {
           "ru": "кровь",
           "tk": "gan",
-          "en": "blood"
+          "en": "blood",
+          "uz": "qon",
+          "tg": "хун",
+          "id": "darah"
         }
       },
       {
@@ -868,7 +1085,10 @@
         "meaning": {
           "ru": "мышцы",
           "tk": "myşsa",
-          "en": "muscle"
+          "en": "muscle",
+          "uz": "muskul",
+          "tg": "мушак",
+          "id": "otot"
         }
       },
       {
@@ -877,7 +1097,10 @@
         "meaning": {
           "ru": "кость",
           "tk": "süňk",
-          "en": "bone"
+          "en": "bone",
+          "uz": "suyak",
+          "tg": "устухон",
+          "id": "tulang"
         }
       },
       {
@@ -886,7 +1109,10 @@
         "meaning": {
           "ru": "желудок",
           "tk": "aşgazan",
-          "en": "stomach"
+          "en": "stomach",
+          "uz": "oshqozon",
+          "tg": "меъда",
+          "id": "perut"
         }
       },
       {
@@ -895,7 +1121,10 @@
         "meaning": {
           "ru": "сердце",
           "tk": "ýürek",
-          "en": "heart"
+          "en": "heart",
+          "uz": "yurak",
+          "tg": "дил",
+          "id": "jantung"
         }
       },
       {
@@ -904,7 +1133,10 @@
         "meaning": {
           "ru": "вирус",
           "tk": "wirus",
-          "en": "virus"
+          "en": "virus",
+          "uz": "virus",
+          "tg": "вирус",
+          "id": "virus"
         }
       },
       {
@@ -913,7 +1145,10 @@
         "meaning": {
           "ru": "заражать",
           "tk": "ýokaşmak",
-          "en": "to infect"
+          "en": "to infect",
+          "uz": "yuqtirmoq",
+          "tg": "сироят кардан",
+          "id": "menginfeksi"
         }
       },
       {
@@ -922,7 +1157,10 @@
         "meaning": {
           "ru": "продолжительность жизни",
           "tk": "ömür uzynlygy",
-          "en": "lifespan"
+          "en": "lifespan",
+          "uz": "umr davomiyligi",
+          "tg": "давомнокии ҳаёт",
+          "id": "rentang hidup"
         }
       }
     ]
@@ -931,7 +1169,10 @@
     "discussion": {
       "ru": "Что вам запомнилось из последних событий? Согласны ли вы с «峰终定律»?",
       "tk": "Soňky wakalardan näme ýadyňyzda galdy? «Pikiň we soňuň kanuny» bilen ylalaşýarsyňyzmy?",
-      "en": "What do you remember from recent events? Do you agree with the 'peak-end rule'?"
+      "en": "What do you remember from recent events? Do you agree with the 'peak-end rule'?",
+      "uz": "Yaqin voqealardan nimalarni eslaysiz? 'Cho'qqi-yakun qoidasi'ga qo'shilasizmi?",
+      "tg": "Аз рӯйдодҳои охирин чӣ ба ёд доред? Оё шумо бо 'қоидаи қулла ва анҷом' розӣ ҳастед?",
+      "id": "Apa yang Anda ingat dari peristiwa terkini? Apakah Anda setuju dengan 'aturan puncak-akhir'?"
     }
   },
   "workbook": {

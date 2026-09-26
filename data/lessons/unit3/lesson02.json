@@ -5,7 +5,8 @@
     "tk": "«Irden üç, agşam dört» — geçmiş we häzirki",
     "en": "Three at Dawn and Four at Dusk",
     "uz": "«Ertalab uch, kechqurun to'rt» ma'nosi",
-    "tg": "«Субҳ се, шом чор»"
+    "tg": "«Субҳ се, шом чор»",
+    "id": "Tiga saat Fajar dan Empat saat Senja"
   },
   "audio_files": {
     "textbook_1": "textbook_1.mp3",
@@ -18,7 +19,10 @@
     "question": {
       "ru": "Что означает идиом «朝三暮四» сейчас? А раньше?",
       "tk": "«朝三暮四» idiomy häzir nämäni aňladýar? Öňler näme aňladýardy?",
-      "en": "What does the idiom '朝三暮四' mean now? What did it mean before?"
+      "en": "What does the idiom '朝三暮四' mean now? What did it mean before?",
+      "uz": "'朝三暮四' iborasi hozir nima ma'noni bildiradi? Ilgari nima ma'noni bildirgan?",
+      "tg": "Идиомаи '朝三暮四' ҳоло чӣ маъно дорад? Пеш аз ин чӣ маъно дошт?",
+      "id": "Apa arti idiom '朝三暮四' sekarang? Apa artinya sebelumnya?"
     },
     "answers": [
       "朝三暮四",
@@ -31,7 +35,10 @@
   "text_translation": {
     "ru": "Идиомы — уникальная часть китайской лексики. Они имеют фиксированную структуру и цельное значение. Обычно их значение стабильно, но бывают и изменения во времени — как у «朝三暮四». Древний философ рассказал притчу: жил старик, который держал стаю обезьян. Они так сдружились, что понимали друг друга по выражению лица, звукам, поведению. Обезьян было много — прокормить их было тяжело. Старик даже вынужден был урезать расходы семьи. Он решил ограничить питание обезьян. Но обезьяны — не свиньи и не собаки: не поев, они начинали шуметь, как непослушные дети. Друг подарил старику жёлуди — любимое лакомство обезьян. Тогда старик сказал: «Теперь помимо паровых булочек вы будете получать ещё и жёлуди. Утром я даю три, вечером — четыре». Обезьяны услышали «три» — им показалось мало; они повскакивали и стали кричать на старика. Тогда он сказал: «Хорошо, тогда утром — четыре, вечером — три. Так достаточно?» Обезьяны услышали «четыре» и успокоились, чрезвычайно довольные. Философ учил: не придавайте слишком много значения жизни и смерти, приобретениям и потерям. Однако сегодня значение идиома полностью изменилось — ты знаешь, что оно значит сейчас?",
     "tk": "Idiomlar hytaý leksikasynyň aýratyn bölegi. Olaryň gurluşy berk we many bütewi. Adatça many durnukly, ýöne wagtyň geçmegi bilen üýtgäp biler — «朝三暮四» ýaly. Bir gadymy filosof hekaýa gürrüň berdi: bir goja meýmynleri saklaýardy. Olar bir-birine şeýle öwrenişdiler welin, ýüz keşbinden, sesden, hereketden bir-birini düşünýärdiler. Meýmynler köpdi — olary iýmitlendirmek kyn boldy. Goja hatda maşgalasynyň çykdajylaryny azaltmaly boldy. Ol meýmynleriň iýmitini çäklendirmek kararyna geldi. Emma meýmynler doňuz ýa it däl — aç galanlarynda gygyryp başlaýardylar. Dosty oňa pisse berdi — meýmynleriň halaýan iýmiti. Şonda goja: «Mundan beýläk manty bilen birlikde pisse hem iýersiňiz. Irden üç, agşam dört bererin» diýdi. Meýmynler «üç» diýenini eşidip, azlyk hasapladylar we gygyryp başladylar. Goja: «Bolýar, irden dört, agşam üç. Şeýle ýeterlikmi?» diýdi. Meýmynler «dört» diýenini eşidip, rahat boldular. Filosof öwredýärdi: durmuşa we ölüme, gazanç we ýitgä aşa üns bermäň. Emma bu gün idiomuň many düýbünden üýtdi — häzir nämäni aňladýandygyny bilýärsiňizmi?",
-    "en": "Idioms are a very distinctive part of Chinese vocabulary. They have fixed structures that cannot be casually changed; their meanings are holistic — not the simple sum of each character's sense but a complete meaning formed together. Generally, idiom meanings are also stable and rarely change — for example, 'blind men and the elephant' or 'absolute sincerity moves even metal and stone.' But some have differed across time, like 'three at dawn, four at dusk' which we study today. A philosopher in ancient China told this fable: long ago an old man kept a troop of monkeys as pets. Living together long, they could even read each other from expression, voice and behavior. Too many monkeys — every day they ate great quantities of fruit, vegetables and grain. A common household had no wealth for such long-term needs. The old man even had to cut his family's spending to save food for the monkeys. He realized he must limit their rations. Problem: monkeys aren't pigs or dogs — when hungry they don't just bark, they make trouble like naughty children. A friend gave him many acorns — a fruit monkeys love. When other food was short, feeding acorns was an idea. So the old man said: 'From now on, besides steamed buns, you'll get acorns. In the morning I'll give three, in the evening four.' The monkeys only caught the 'three' and felt cheated — jumping up and down, screaming at the old man. Seeing they wouldn't accept it, he said instead: 'Alright, since you feel it's too little, let's change to four in the morning, three in the evening. Enough?' The monkeys took the 'four' as extra, calmed down, and looked delighted. The old man laughed. The philosopher used this to say: don't cling to life and death, gain and loss — in the end we find we lost nothing and gained nothing. However, today the idiom's meaning has completely changed. Do you know what it means now?"
+    "en": "Idioms are a very distinctive part of Chinese vocabulary. They have fixed structures that cannot be casually changed; their meanings are holistic — not the simple sum of each character's sense but a complete meaning formed together. Generally, idiom meanings are also stable and rarely change — for example, 'blind men and the elephant' or 'absolute sincerity moves even metal and stone.' But some have differed across time, like 'three at dawn, four at dusk' which we study today. A philosopher in ancient China told this fable: long ago an old man kept a troop of monkeys as pets. Living together long, they could even read each other from expression, voice and behavior. Too many monkeys — every day they ate great quantities of fruit, vegetables and grain. A common household had no wealth for such long-term needs. The old man even had to cut his family's spending to save food for the monkeys. He realized he must limit their rations. Problem: monkeys aren't pigs or dogs — when hungry they don't just bark, they make trouble like naughty children. A friend gave him many acorns — a fruit monkeys love. When other food was short, feeding acorns was an idea. So the old man said: 'From now on, besides steamed buns, you'll get acorns. In the morning I'll give three, in the evening four.' The monkeys only caught the 'three' and felt cheated — jumping up and down, screaming at the old man. Seeing they wouldn't accept it, he said instead: 'Alright, since you feel it's too little, let's change to four in the morning, three in the evening. Enough?' The monkeys took the 'four' as extra, calmed down, and looked delighted. The old man laughed. The philosopher used this to say: don't cling to life and death, gain and loss — in the end we find we lost nothing and gained nothing. However, today the idiom's meaning has completely changed. Do you know what it means now?",
+    "uz": "Idiomlar xitoy lug'atining juda o'ziga xos qismidir. Ularning tuzilishi qat'iy bo'lib, o'zboshimcha o'zgartirib bo'lmaydi; ma'nolari yaxlit — har bir belgining ma'nosi yig'indisi emas, balki birgalikda hosil bo'lgan to'liq ma'no. Odatda idiomlarning ma'nolari ham barqaror va kamdan-kam o'zgaradi — masalan, \"ko'rlar va fil\" yoki \"samimiy niyat tosh va metallni ham yumshatadi\". Ammo ba'zilari vaqt o'tishi bilan o'zgargan, masalan, bugun o'rganadigan \"tongda uchta, kechqurun to'rtta\". Qadimgi Xitoyda bir faylasuf bu ertakni aytgan: qadimda bir chol maymunlar to'dasini uy hayvoni sifatida boqar edi. Uzoq vaqt birga yashab, ular hatto bir-birlarining qiyofasi, ovozi va xatti-harakatidan o'qiy olardilar. Maymunlar juda ko'p edi — har kuni katta miqdorda meva, sabzavot va don yeyishardi. Oddiy xonadonning bunday uzoq muddatli ehtiyojlar uchun boyligi yo'q edi. Chol hatto maymunlar uchun ozuqa tejash uchun oilasining xarajatlarini qisqartirishga majbur bo'ldi. U ularning ratsionini cheklash kerakligini tushundi. Muammo: maymunlar cho'chqa yoki it emas — och qolganda shunchaki hurishmaydi, ular yaramas bolalar kabi janjal qilishadi. Bir do'sti unga ko'plab dub yong'oqlarini berdi — maymunlar yaxshi ko'radigan meva. Boshqa oziq-ovqat kam bo'lganda, dub yong'oqlarini berish bir fikr edi. Shunday qilib, chol dedi: \"Bundan buyon, bug'langan bulochkalardan tashqari, sizga dub yong'oqlari beriladi. Ertalab uchtasini, kechqurun to'rttasini beraman.\" Maymunlar faqat \"uchta\"ni eshitib, aldangan deb o'ylashdi — sakrab, cholga baqirishdi. Ular buni qabul qilmasligini ko'rib, u o'rniga dedi: \"Xo'p, sizga juda kam tuyulgani uchun, ertalab to'rtta, kechqurun uchta qilib o'zgartiraylik. Yetarlimi?\" Maymunlar \"to'rtta\"ni qo'shimcha deb qabul qilib, tinchlanishdi va xursand bo'lishdi. Chol kuldi. Faylasuf bundan shuni aytish uchun foydalandi: hayot va o'lim, foyda va zararga yopishmang — oxir-oqibat hech narsa yo'qotmaganimizni va hech narsa topmaganimizni ko'ramiz. Biroq, bugungi kunda bu idiomning ma'nosi butunlay o'zgargan. Hozir bu nima ma'noni anglatishini bilasizmi?",
+    "tg": "Ибораҳо қисми хеле хосро ташкил медиҳанд лексикаи хитоӣ. Онҳо сохтори муқаррарӣ доранд, ки наметавонанд худсарона тағйир дода шаванд; маънои онҳо ҳамаҷониба аст — на ҷамъи оддии маънои ҳар як ҳарф, балки маънои пуррае, ки якҷоя ташаккул ёфтааст. Умуман, маънои ибораҳо низ устувор аст ва кам тағйир меёбад — масалан, 'нобиноён ва фил' ё 'самимияти мутлақ ҳатто металл ва сангро ба ҳаракат меорад'. Аммо баъзеҳо дар тӯли вақт фарқ мекарданд, монанди 'се дар субҳ, чор дар шом', ки имрӯз меомӯзем. Файласуфе дар Чини қадим ин афсонаро нақл кардааст: пештар пирамарде гурӯҳе маймунҳоро ҳамчун ҳайвоноти хонагӣ нигоҳ медошт. Дар якҷоягӣ зиёд зиндагӣ карда, онҳо ҳатто метавонистанд якдигарро аз рӯи ифода, овоз ва рафтор хонанд. Маймунҳо хеле зиёд буданд — ҳар рӯз миқдори зиёди мева, сабзавот ва ғалла мехӯрданд. Хонаи оддӣ барои чунин ниёзҳои дарозмуддат сарват надошт. Пирамард ҳатто бояд хароҷоти оилаашро кам мекард, то барои маймунҳо ғизо захира кунад. Вай фаҳмид, ки бояд ғизои онҳоро маҳдуд кунад. Мушкил: маймунҳо хук ё саг нестанд — вақте ки гурусна мешаванд, онҳо танҳо навъе намекунанд, балки монанди кӯдакони шӯхӣ бало мебардоранд. Дӯсташ ба ӯ бисёр пистаҳои булут дод — мевае, ки маймунҳо дӯст медоранд. Вақте ки ғизои дигар кам буд, пистаҳои булут додан як фикр буд. Пас пирамард гуфт: 'Аз ин пас, ба ғайр аз булочкаҳои буғӣ, шумо пистаҳои булут мегиред. Дар субҳ се, дар шом чор медиҳам.' Маймунҳо танҳо 'се'-ро гирифтанд ва худро фиребшуда ҳис карданд — ҷаҳида, ба пирамард дод заданд. Чун дид, ки онҳо қабул намекунанд, вай ба ҷои ин гуфт: 'Хуб, чун шумо меҳисобед, ки ин хеле кам аст, биёед ба чор дар субҳ, се дар шом иваз кунем. Кофӣ?' Маймунҳо 'чор'-ро иловагӣ гирифтанд, ором шуданд ва хушҳол ба назар мерасиданд. Пирамард хандид. Файласуф инро барои гуфтан истифода кард: ба ҳаёт ва марг, фоида ва зиён начеспед — дар ниҳоят мефаҳмем, ки чизе гум накардем ва чизе ба даст наовардем. Аммо имрӯз маънои ибора комилан тағйир ёфтааст. Оё медонед, ки он ҳоло чӣ маъно дорад?",
+    "id": "Idiom adalah bagian yang sangat khas dari kosakata bahasa Tionghoa. Mereka memiliki struktur tetap yang tidak dapat diubah sembarangan; maknanya bersifat holistik — bukan sekadar jumlah dari makna setiap karakter tetapi makna utuh yang terbentuk bersama. Umumnya, makna idiom juga stabil dan jarang berubah — misalnya, 'orang buta dan gajah' atau 'ketulusan mutlak menggerakkan bahkan logam dan batu.' Tetapi beberapa berbeda sepanjang waktu, seperti 'tiga saat fajar, empat saat senja' yang kita pelajari hari ini. Seorang filsuf di Tiongkok kuno menceritakan fabel ini: dahulu kala seorang lelaki tua memelihara sekelompok monyet sebagai hewan peliharaan. Hidup bersama lama, mereka bahkan bisa membaca satu sama lain dari ekspresi, suara, dan perilaku. Terlalu banyak monyet — setiap hari mereka makan buah, sayuran, dan biji-bijian dalam jumlah besar. Rumah tangga biasa tidak memiliki kekayaan untuk kebutuhan jangka panjang seperti itu. Lelaki tua itu bahkan harus memotong pengeluaran keluarganya untuk menyimpan makanan bagi monyet-monyet. Dia menyadari harus membatasi jatah mereka. Masalah: monyet bukan babi atau anjing — saat lapar mereka tidak hanya menggonggong, mereka membuat masalah seperti anak nakal. Seorang teman memberinya banyak biji ek — buah yang disukai monyet. Ketika makanan lain langka, memberi biji ek adalah ide. Jadi lelaki tua itu berkata: 'Mulai sekarang, selain roti kukus, kalian akan mendapat biji ek. Pagi saya beri tiga, sore empat.' Monyet-monyet hanya menangkap 'tiga' dan merasa dicurangi — melompat-lompat, menjerit pada lelaki tua itu. Melihat mereka tidak menerimanya, dia malah berkata: 'Baiklah, karena kalian merasa terlalu sedikit, mari ubah menjadi empat pagi, tiga sore. Cukup?' Monyet-monyet menganggap 'empat' sebagai tambahan, tenang, dan tampak senang. Lelaki tua itu tertawa. Filsuf menggunakan ini untuk mengatakan: jangan melekat pada hidup dan mati, untung dan rugi — pada akhirnya kita menemukan kita tidak kehilangan apa pun dan tidak mendapatkan apa pun. Namun, hari ini makna idiom itu telah berubah total. Tahukah kamu apa artinya sekarang?"
   },
   "vocabulary": [
     {
@@ -41,7 +48,10 @@
       "meaning": {
         "ru": "утром три, вечером четыре; непостоянный",
         "tk": "irden üç, agşam dört; ygtysyz",
-        "en": "to chop and change; fickle"
+        "en": "to chop and change; fickle",
+        "uz": "o'zgartirmoq va o'zgartirmoq; beqaror",
+        "tg": "тағйирёбанда; беқарор",
+        "id": "berubah-ubah; plin-plan"
       }
     },
     {
@@ -51,7 +61,10 @@
       "meaning": {
         "ru": "лексика",
         "tk": "leksika",
-        "en": "vocabulary"
+        "en": "vocabulary",
+        "uz": "lug'at",
+        "tg": "луғат",
+        "id": "kosakata"
       }
     },
     {
@@ -61,7 +74,10 @@
       "meaning": {
         "ru": "фиксированный; закреплять",
         "tk": "berk; berkitmek",
-        "en": "fixed; to fix"
+        "en": "fixed; to fix",
+        "uz": "qat'iy; tuzatmoq",
+        "tg": "собит; муқаррар кардан",
+        "id": "tetap; memperbaiki"
       }
     },
     {
@@ -71,7 +87,10 @@
       "meaning": {
         "ru": "структура",
         "tk": "gurluş",
-        "en": "structure"
+        "en": "structure",
+        "uz": "tuzilma",
+        "tg": "сохтор",
+        "id": "struktur"
       }
     },
     {
@@ -81,7 +100,10 @@
       "meaning": {
         "ru": "целое",
         "tk": "bitewi",
-        "en": "whole"
+        "en": "whole",
+        "uz": "butun",
+        "tg": "тамом",
+        "id": "keseluruhan"
       }
     },
     {
@@ -91,7 +113,10 @@
       "meaning": {
         "ru": "объединять, синтезировать",
         "tk": "birleşdirmek",
-        "en": "to synthesize"
+        "en": "to synthesize",
+        "uz": "sintez qilmoq",
+        "tg": "синтез кардан",
+        "id": "mensintesis"
       }
     },
     {
@@ -101,7 +126,10 @@
       "meaning": {
         "ru": "полный, целостный",
         "tk": "doly",
-        "en": "complete"
+        "en": "complete",
+        "uz": "to'liq",
+        "tg": "пурра",
+        "id": "lengkap"
       }
     },
     {
@@ -111,7 +139,10 @@
       "meaning": {
         "ru": "философ",
         "tk": "filosof",
-        "en": "philosopher"
+        "en": "philosopher",
+        "uz": "faylasuf",
+        "tg": "файласуф",
+        "id": "filsuf"
       }
     },
     {
@@ -121,7 +152,10 @@
       "meaning": {
         "ru": "басня, притча",
         "tk": "pritça",
-        "en": "fable"
+        "en": "fable",
+        "uz": "masal",
+        "tg": "масал",
+        "id": "fabel"
       }
     },
     {
@@ -131,7 +165,10 @@
       "meaning": {
         "ru": "кормить, выращивать",
         "tk": "iýmitlendirmek",
-        "en": "to feed"
+        "en": "to feed",
+        "uz": "boqmoq",
+        "tg": "ғизо додан",
+        "id": "memberi makan"
       }
     },
     {
@@ -141,7 +178,10 @@
       "meaning": {
         "ru": "стая, группа",
         "tk": "süri",
-        "en": "group, flock"
+        "en": "group, flock",
+        "uz": "to'da, guruh",
+        "tg": "гурӯҳ, рама",
+        "id": "kelompok, kawanan"
       }
     },
     {
@@ -151,7 +191,10 @@
       "meaning": {
         "ru": "обезьяна",
         "tk": "meýmyn",
-        "en": "monkey"
+        "en": "monkey",
+        "uz": "maymun",
+        "tg": "маймун",
+        "id": "monyet"
       }
     },
     {
@@ -161,7 +204,10 @@
       "meaning": {
         "ru": "питомец",
         "tk": "haýwan (öý)",
-        "en": "pet"
+        "en": "pet",
+        "uz": "uy hayvoni",
+        "tg": "ҳайвони хонагӣ",
+        "id": "hewan peliharaan"
       }
     },
     {
@@ -171,7 +217,10 @@
       "meaning": {
         "ru": "ладить, общаться",
         "tk": "aragatnaşyk etmek",
-        "en": "to get along"
+        "en": "to get along",
+        "uz": "chiqishmoq",
+        "tg": "муносибат кардан",
+        "id": "bergaul"
       }
     },
     {
@@ -181,7 +230,10 @@
       "meaning": {
         "ru": "друг друга",
         "tk": "biri-birini",
-        "en": "each other"
+        "en": "each other",
+        "uz": "bir-biri",
+        "tg": "якдигар",
+        "id": "satu sama lain"
       }
     },
     {
@@ -191,7 +243,10 @@
       "meaning": {
         "ru": "выражение лица",
         "tk": "ýüz keşbi",
-        "en": "expression"
+        "en": "expression",
+        "uz": "ibora",
+        "tg": "ифода",
+        "id": "ekspresi"
       }
     },
     {
@@ -201,7 +256,10 @@
       "meaning": {
         "ru": "поведение",
         "tk": "hereket",
-        "en": "behavior"
+        "en": "behavior",
+        "uz": "xulq-atvor",
+        "tg": "рафтор",
+        "id": "perilaku"
       }
     },
     {
@@ -211,7 +269,10 @@
       "meaning": {
         "ru": "другая сторона",
         "tk": "beýleki tarap",
-        "en": "the other party"
+        "en": "the other party",
+        "uz": "boshqa tomon",
+        "tg": "тарафи дигар",
+        "id": "pihak lain"
       }
     },
     {
@@ -221,7 +282,10 @@
       "meaning": {
         "ru": "овощи",
         "tk": "gök önümler",
-        "en": "vegetables"
+        "en": "vegetables",
+        "uz": "sabzavotlar",
+        "tg": "сабзавот",
+        "id": "sayuran"
       }
     },
     {
@@ -231,7 +295,10 @@
       "meaning": {
         "ru": "зерно, продовольствие",
         "tk": "azyk",
-        "en": "grain, food"
+        "en": "grain, food",
+        "uz": "don, oziq-ovqat",
+        "tg": "ғалла, хӯрок",
+        "id": "biji-bijian, makanan"
       }
     },
     {
@@ -241,7 +308,10 @@
       "meaning": {
         "ru": "семья",
         "tk": "maşgala",
-        "en": "family"
+        "en": "family",
+        "uz": "oila",
+        "tg": "оила",
+        "id": "keluarga"
       }
     },
     {
@@ -251,7 +321,10 @@
       "meaning": {
         "ru": "имущество",
         "tk": "emläk",
-        "en": "property"
+        "en": "property",
+        "uz": "mulk",
+        "tg": "молу мулк",
+        "id": "properti"
       }
     },
     {
@@ -261,7 +334,10 @@
       "meaning": {
         "ru": "потреблять",
         "tk": "sarp etmek",
-        "en": "to consume"
+        "en": "to consume",
+        "uz": "iste'mol qilmoq",
+        "tg": "истеъмол кардан",
+        "id": "mengonsumsi"
       }
     },
     {
@@ -271,7 +347,10 @@
       "meaning": {
         "ru": "экономить",
         "tk": "tygşytlamak",
-        "en": "to save"
+        "en": "to save",
+        "uz": "tejamoq",
+        "tg": "нигоҳ доштан",
+        "id": "menabung"
       }
     },
     {
@@ -281,7 +360,10 @@
       "meaning": {
         "ru": "ограничивать",
         "tk": "çäklendirmek",
-        "en": "to limit"
+        "en": "to limit",
+        "uz": "cheklash",
+        "tg": "маҳдуд кардан",
+        "id": "membatasi"
       }
     },
     {
@@ -291,7 +373,10 @@
       "meaning": {
         "ru": "свинья",
         "tk": "doňuz",
-        "en": "pig"
+        "en": "pig",
+        "uz": "cho'chqa",
+        "tg": "хӯк",
+        "id": "babi"
       }
     },
     {
@@ -301,7 +386,10 @@
       "meaning": {
         "ru": "озорной",
         "tk": "biçak",
-        "en": "naughty"
+        "en": "naughty",
+        "uz": "qaysar",
+        "tg": "саркаш",
+        "id": "nakal"
       }
     },
     {
@@ -311,7 +399,10 @@
       "meaning": {
         "ru": "шаловливый",
         "tk": "biçak",
-        "en": "mischievous"
+        "en": "mischievous",
+        "uz": "sho'x",
+        "tg": "шӯх",
+        "id": "usil"
       }
     },
     {
@@ -321,7 +412,10 @@
       "meaning": {
         "ru": "жёлудь",
         "tk": "pisse",
-        "en": "acorn"
+        "en": "acorn",
+        "uz": "do'lana",
+        "tg": "пистаи булут",
+        "id": "biji ek"
       }
     },
     {
@@ -331,7 +425,10 @@
       "meaning": {
         "ru": "плод",
         "tk": "miwe",
-        "en": "fruit"
+        "en": "fruit",
+        "uz": "meva",
+        "tg": "мева",
+        "id": "buah"
       }
     },
     {
@@ -341,7 +438,10 @@
       "meaning": {
         "ru": "недостаточный",
         "tk": "ýetmezçilik",
-        "en": "insufficient"
+        "en": "insufficient",
+        "uz": "yetarli emas",
+        "tg": "нокифоя",
+        "id": "tidak cukup"
       }
     },
     {
@@ -351,7 +451,10 @@
       "meaning": {
         "ru": "наоборот, напротив",
         "tk": "tersine",
-        "en": "rather, on the contrary"
+        "en": "rather, on the contrary",
+        "uz": "aksincha, aksincha",
+        "tg": "баръакс, бар хилофи ин",
+        "id": "sebaliknya, justru"
       }
     },
     {
@@ -361,7 +464,10 @@
       "meaning": {
         "ru": "паровая булочка",
         "tk": "manty",
-        "en": "steamed bun"
+        "en": "steamed bun",
+        "uz": "bug'da pishirilgan bulochka",
+        "tg": "булочкаи буғӣ",
+        "id": "bakpao"
       }
     },
     {
@@ -371,7 +477,10 @@
       "meaning": {
         "ru": "счётное слово (для мелких круглых)",
         "tk": "körpe zatlar üçin san sözi",
-        "en": "MW for small round things"
+        "en": "MW for small round things",
+        "uz": "kichik yumaloq narsalar uchun o'lchov so'zi",
+        "tg": "воҳиди ченак барои чизҳои хурди мудаввар",
+        "id": "kata bantu bilangan untuk benda bulat kecil"
       }
     },
     {
@@ -381,7 +490,10 @@
       "meaning": {
         "ru": "по-видимому, кажется",
         "tk": "görnüşine",
-        "en": "seemingly"
+        "en": "seemingly",
+        "uz": "go'yo",
+        "tg": "зоҳиран",
+        "id": "tampaknya"
       }
     },
     {
@@ -391,7 +503,10 @@
       "meaning": {
         "ru": "терпеть убыток",
         "tk": "zyýan çekmek",
-        "en": "to suffer losses"
+        "en": "to suffer losses",
+        "uz": "zarar ko'rmoq",
+        "tg": "талафот дидан",
+        "id": "mengalami kerugian"
       }
     },
     {
@@ -401,7 +516,10 @@
       "meaning": {
         "ru": "способ",
         "tk": "usul",
-        "en": "way, method"
+        "en": "way, method",
+        "uz": "yo'l, usul",
+        "tg": "роҳ, усул",
+        "id": "cara, metode"
       }
     },
     {
@@ -411,7 +529,10 @@
       "meaning": {
         "ru": "утешать",
         "tk": "teselli bermek",
-        "en": "to comfort"
+        "en": "to comfort",
+        "uz": "taskin bermoq",
+        "tg": "тасаллӣ додан",
+        "id": "menghibur"
       }
     },
     {
@@ -421,7 +542,10 @@
       "meaning": {
         "ru": "или же, иначе",
         "tk": "ýa-da",
-        "en": "otherwise, or else"
+        "en": "otherwise, or else",
+        "uz": "aks holda, yo'qsa",
+        "tg": "вагарна, дар акси ҳол",
+        "id": "kalau tidak, atau else"
       }
     },
     {
@@ -431,7 +555,10 @@
       "meaning": {
         "ru": "выглядеть, казаться",
         "tk": "görünmek",
-        "en": "to seem"
+        "en": "to seem",
+        "uz": "ko'rinmoq",
+        "tg": "ба назар расидан",
+        "id": "tampaknya"
       }
     },
     {
@@ -441,7 +568,10 @@
       "meaning": {
         "ru": "особенно",
         "tk": "ayratyn",
-        "en": "especially"
+        "en": "especially",
+        "uz": "ayniqsa",
+        "tg": "махсусан",
+        "id": "terutama"
       }
     },
     {
@@ -451,7 +581,10 @@
       "meaning": {
         "ru": "сцена, картина",
         "tk": "manzara",
-        "en": "scene"
+        "en": "scene",
+        "uz": "sahna",
+        "tg": "саҳна",
+        "id": "adegan"
       }
     },
     {
@@ -461,7 +594,10 @@
       "meaning": {
         "ru": "ха (смех)",
         "tk": "ha (gülki)",
-        "en": "ha (laughter)"
+        "en": "ha (laughter)",
+        "uz": "ha (kulgi)",
+        "tg": "ҳа (ханда)",
+        "id": "ha (tawa)"
       }
     }
   ],
@@ -472,68 +608,101 @@
       "explanation": {
         "ru": "«倒» — «наоборот, вопреки ожиданиям»; также для уступки и для нетерпеливого вопроса.",
         "tk": "«倒» — «tersine»; hem boýun egmek, hem sabyrsyz sorag üçin.",
-        "en": "'倒' — 'on the contrary, unexpectedly'; also for concession and impatient questioning."
+        "en": "'倒' — 'on the contrary, unexpectedly'; also for concession and impatient questioning.",
+        "uz": "'倒' — 'aksincha, kutilmaganda'; shuningdek yon berish va sabrsiz savol berish uchun ham ishlatiladi.",
+        "tg": "'倒' — 'баръакс, ногаҳон'; инчунин барои имтиёз ва саволи бесаброна.",
+        "id": "'倒' — 'sebaliknya, ternyata'; juga untuk konsesi dan pertanyaan yang tidak sabar."
       },
       "examples": [
         {
           "zh": "在其他粮食不足的情况下，用橡子喂猴子倒是个办法。",
           "ru": "Когда другой еды не хватает, кормить обезьян жёлудями — наоборот, выход.",
           "tk": "Beýleki azyk ýetmese, meýmynleri pisse bilen iýmitlendirmek tersine çözgüt.",
-          "en": "When other food runs short, feeding the monkeys acorns is actually a solution."
+          "en": "When other food runs short, feeding the monkeys acorns is actually a solution.",
+          "uz": "Boshqa oziq-ovqat yetishmay qolganda, maymunlarni do'lana bilan boqish aslida yechimdir.",
+          "tg": "Вақте ки дигар хӯрок кам мешавад, ба маймунҳо ғӯла додан дар асл як ҳалли масъала аст.",
+          "id": "Ketika makanan lain menipis, memberi makan monyet dengan biji ek sebenarnya adalah solusi."
         },
         {
           "zh": "少年不解地问：「怎么勇敢反倒成为缺点了？」",
           "ru": "Юноша не понял: «Как храбрость вдруг стала недостатком?»",
           "tk": "Ýigit düşünmän sorady: «Batyrlyk nähili kemçilige öwrüldi?»",
-          "en": "The youth asked in confusion: 'How did bravery become a flaw?'"
+          "en": "The youth asked in confusion: 'How did bravery become a flaw?'",
+          "uz": "Yigit hayron bo'lib so'radi: 'Qanday qilib jasorat kamchilikka aylandi?'",
+          "tg": "Ҷавон бо ҳайрат пурсид: 'Чӣ тавр ҷасорат ба камбуди табдил ёфт?'",
+          "id": "Pemuda itu bertanya dengan bingung: 'Bagaimana keberanian bisa menjadi kekurangan?'"
         },
         {
           "zh": "有这样的人？我倒要认识认识。",
           "ru": "Есть такой человек? Интересно было бы познакомиться.",
           "tk": "Şeýle adam barmy? Tanyşmak islärin.",
-          "en": "There's such a person? I'd like to meet him."
+          "en": "There's such a person? I'd like to meet him.",
+          "uz": "Shunday odam bormi? Men u bilan tanishishni xohlardim.",
+          "tg": "Оё чунин одам вуҷуд дорад? Ман мехоҳам ӯро бинам.",
+          "id": "Ada orang seperti itu? Aku ingin bertemu dengannya."
         },
         {
           "zh": "质量倒是挺好，就是价格太贵了。",
           "ru": "Качество-то хорошее, только цена слишком высокая.",
           "tk": "Hil gowy, diňe bahasy gaty gymmat.",
-          "en": "Quality is fine — only the price is too high."
+          "en": "Quality is fine — only the price is too high.",
+          "uz": "Sifati yaxshi — faqat narxi juda qimmat.",
+          "tg": "Сифат хуб аст — танҳо нарх хеле баланд аст.",
+          "id": "Kualitasnya bagus — hanya harganya terlalu tinggi."
         },
         {
           "zh": "你究竟去还是不去？倒是说句话呀！",
           "ru": "Ты идёшь или нет? Скажи хоть слово!",
           "tk": "Sen barýarsyňmy ýa ýok? Aýt bir zat!",
-          "en": "Are you going or not? Say something!"
+          "en": "Are you going or not? Say something!",
+          "uz": "Borasanmi yoki yo'qmi? Bir gap ayt!",
+          "tg": "Шумо меравед ё не? Чизе гӯед!",
+          "id": "Kamu pergi atau tidak? Katakan sesuatu!"
         },
         {
           "zh": "我倒是很愿意参加，就是暂时没时间。",
           "ru": "Я, наоборот, очень хотел бы участвовать, только пока нет времени.",
           "tk": "Men tersine gatnaşmak isleýärin, diňe häzir wagtym ýok.",
-          "en": "I'd actually like to attend — just no time now."
+          "en": "I'd actually like to attend — just no time now.",
+          "uz": "Aslida qatnashishni xohlardim — faqat hozir vaqtim yo'q.",
+          "tg": "Ман дар асл мехоҳам иштирок кунам — танҳо ҳоло вақт нест.",
+          "id": "Sebenarnya aku ingin hadir — hanya saja sekarang tidak ada waktu."
         },
         {
           "zh": "这件衣服样子倒是好看，就是太贵了。",
           "ru": "У этой одежды, наоборот, вид красивый — только слишком дорого.",
           "tk": "Bu egin-eşigiň görnüşi tersine owadan — diňe gaty gymmat.",
-          "en": "This clothing's look is actually nice — just too expensive."
+          "en": "This clothing's look is actually nice — just too expensive.",
+          "uz": "Bu kiyimning ko'rinishi aslida chiroyli — faqat juda qimmat.",
+          "tg": "Намуди ин либос дар асл зебост — танҳо хеле гарон аст.",
+          "id": "Penampilan pakaian ini sebenarnya bagus — hanya terlalu mahal."
         },
         {
           "zh": "我们倒是不饿，就是有点儿累。",
           "ru": "Мы-то, наоборот, не голодны — только устали.",
           "tk": "Biz tersine aç däl, diňe ýadadyk.",
-          "en": "We're not hungry — just tired."
+          "en": "We're not hungry — just tired.",
+          "uz": "Biz och emasmiz — faqat charchadik.",
+          "tg": "Мо гурусна нестем — танҳо хастаем.",
+          "id": "Kami tidak lapar — hanya lelah."
         },
         {
           "zh": "你倒是快点儿啊！",
           "ru": "Да поторапливайся же!",
           "tk": "Çaltrak hereket et!",
-          "en": "Hurry up already!"
+          "en": "Hurry up already!",
+          "uz": "Tezroq bo'l endi!",
+          "tg": "Зудтар бошед!",
+          "id": "Cepatlah sedikit lagi!"
         },
         {
           "zh": "对方确实厉害，一上场就先赢了他两局，但最后反倒是他赢了。",
           "ru": "Соперник сильный — сразу выиграл две партии, но в итоге, наоборот, победил он.",
           "tk": "Garşydaş güýçli — iki tapgyry derrew ýeňdi, ýöne ahyrynda tersine ol ýeňdi.",
-          "en": "The opponent was strong, won two rounds — but in the end, he won instead."
+          "en": "The opponent was strong, won two rounds — but in the end, he won instead.",
+          "uz": "Raqib kuchli edi, ikki raundda g'alaba qozondi — lekin oxir-oqibat, u o'rniga g'alaba qozondi.",
+          "tg": "Рақиб қавӣ буд, ду раундро бурд — аммо дар ниҳоят, ӯ ғолиб шуд.",
+          "id": "Lawan itu kuat, menang dua ronde — tetapi pada akhirnya, dialah yang menang."
         }
       ],
       "formula": {
@@ -605,68 +774,101 @@
       "explanation": {
         "ru": "«动词 + 来 + 动词 + 去» — повторяющееся действие («туда-сюда»).",
         "tk": "«动词 + 来 + 动词 + 去» — gaýtalanýan hereket.",
-        "en": "'V+来 + V+去' — repeated action ('back and forth')."
+        "en": "'V+来 + V+去' — repeated action ('back and forth').",
+        "uz": "'V+来 + V+去' — takrorlanuvchi harakat ('u yoqdan bu yoqqa').",
+        "tg": "'V+来 + V+去' — амали такроршаванда ('пеш ва қафо').",
+        "id": "'V+来 + V+去' — tindakan berulang ('bolak-balik')."
       },
       "examples": [
         {
           "zh": "猴子们似乎只弄懂了主人前面说的一个「三」，觉得自己吃了亏，一个个立起身子跳来跳去。",
           "ru": "Обезьяны поняли только «три» и, чувствуя себя обделёнными, прыгали туда-сюда.",
           "tk": "Meýmynler diňe «üç» düşündiler we zyýan çekendigini duýup, bäri-ä gidip bökdüler.",
-          "en": "The monkeys only grasped 'three' and, feeling cheated, jumped back and forth."
+          "en": "The monkeys only grasped 'three' and, feeling cheated, jumped back and forth.",
+          "uz": "Maymunlar faqat 'uch'ni tushunib, aldanganlarini his qilib, oldinga-orqaga sakrashdi.",
+          "tg": "Маймунҳо танҳо 'се'-ро фаҳмиданд ва худро фиребшуда ҳис карда, ин тарафу он тараф ҷаҳиданд.",
+          "id": "Monyet-monyet itu hanya memahami 'tiga' dan, merasa ditipu, melompat bolak-balik."
         },
         {
           "zh": "小狗追着自己的尾巴，在草地上跑来跑去。",
           "ru": "Щенок гонялся за своим хвостом и бегал по траве туда-сюда.",
           "tk": "Güjük öz guýrugyny kowalap, otlaryň üstünde ylgap ýördi.",
-          "en": "The puppy chased its tail, running back and forth on the grass."
+          "en": "The puppy chased its tail, running back and forth on the grass.",
+          "uz": "Kuchukcha dumini quvib, o't ustida oldinga-orqaga yugurdi.",
+          "tg": "Сагбача думбалашро таъқиб мекард ва дар алафзор ин тарафу он тараф медавид.",
+          "id": "Anak anjing itu mengejar ekornya, berlari bolak-balik di atas rumput."
         },
         {
           "zh": "他们研究来讨论去，还是没找出原因。",
           "ru": "Они изучали и обсуждали-обсуждали, но так и не нашли причину.",
           "tk": "Olar öwrenip-pikirleşdiler, ýöne sebäbini tapmadylar.",
-          "en": "They studied and discussed, but still couldn't find the reason."
+          "en": "They studied and discussed, but still couldn't find the reason.",
+          "uz": "Ular o'qishdi va muhokama qilishdi, lekin baribir sababini topa olishmadi.",
+          "tg": "Онҳо омӯхтанд ва муҳокима карданд, аммо ҳанӯз сабабро ёфта натавонистанд.",
+          "id": "Mereka belajar dan berdiskusi, tetapi tetap tidak dapat menemukan alasannya."
         },
         {
           "zh": "他在房间里走来走去，好像在等谁。",
           "ru": "Он ходил туда-сюда по комнате, будто кого-то ждал.",
           "tk": "Ol otagda bäri-ä gidip ýördi, kimdir birine garaşýan ýaly.",
-          "en": "He paced back and forth in the room, as if waiting for someone."
+          "en": "He paced back and forth in the room, as if waiting for someone.",
+          "uz": "U xonada oldinga-orqaga yurdi, go'yo kimnidir kutayotgandek.",
+          "tg": "Ӯ дар ҳуҷра ин тарафу он тараф қадам мезад, гӯё ки касеро интизор буд.",
+          "id": "Dia mondar-mandir di dalam ruangan, seolah menunggu seseorang."
         },
         {
           "zh": "孩子们在院子里跑来跑去，非常开心。",
           "ru": "Дети бегали туда-сюда по двору, очень счастливые.",
           "tk": "Çagalar howluda bäri-ä ylgadylar, örän begençli.",
-          "en": "Kids ran back and forth in the yard, very happy."
+          "en": "Kids ran back and forth in the yard, very happy.",
+          "uz": "Bolalar hovlida oldinga-orqaga yugurishdi, juda xursand edilar.",
+          "tg": "Кӯдакон дар ҳавлӣ ин тарафу он тараф медавиданд, хеле хушҳол буданд.",
+          "id": "Anak-anak berlari bolak-balik di halaman, sangat senang."
         },
         {
           "zh": "我想来想去，还是觉得这个方案最好。",
           "ru": "Я думал-думал и всё же считаю этот план лучшим.",
           "tk": "Men oýlanyp-oýlanyp, iň gowy meýilnama diýip pikir etdim.",
-          "en": "I thought it over and still think this plan is best."
+          "en": "I thought it over and still think this plan is best.",
+          "uz": "Men bu haqda o'ylab ko'rdim va baribir bu reja eng yaxshi deb o'ylayman.",
+          "tg": "Ман фикр кардам ва ҳанӯз ҳам фикр мекунам, ки ин нақша беҳтарин аст.",
+          "id": "Saya memikirkannya dan masih merasa rencana ini yang terbaik."
         },
         {
           "zh": "翻来翻去，终于找到了那本书。",
           "ru": "Перелистывал-перелистывал и наконец нашёл ту книгу.",
           "tk": "Agtar-a agtar, ahyrynda şol kitaby tapdym.",
-          "en": "Flipping back and forth, I finally found that book."
+          "en": "Flipping back and forth, I finally found that book.",
+          "uz": "Oldinga-orqaga varaqlab, nihoyat o'sha kitobni topdim.",
+          "tg": "Варақ зада, охир он китобро ёфтам.",
+          "id": "Setelah bolak-balik mencari, akhirnya aku menemukan buku itu."
         },
         {
           "zh": "两个人商量来商量去，还是没结果。",
           "ru": "Двое совещались-совещались, но без результата.",
           "tk": "Iki adam maslahatlaşyp-maslahatlaşyp, netije çykmady.",
-          "en": "The two discussed back and forth, but to no result."
+          "en": "The two discussed back and forth, but to no result.",
+          "uz": "Ikkalasi u yoqdan bu yoqqa gaplashishdi, ammo natija bo'lmadi.",
+          "tg": "Он ду нафар пасу пеш баҳс карданд, аммо натиҷае нашуд.",
+          "id": "Keduanya berdiskusi bolak-balik, tetapi tidak ada hasil."
         },
         {
           "zh": "他看来看去，也挑不出什么毛病。",
           "ru": "Он смотрел-смотрел, но так и не нашёл недостатков.",
           "tk": "Ol seretdi-seretdi, ýöne kemçilik tapmady.",
-          "en": "He looked and looked, but couldn't find any flaw."
+          "en": "He looked and looked, but couldn't find any flaw.",
+          "uz": "U qaradi, qaradi, ammo hech qanday nuqson topa olmadi.",
+          "tg": "Ӯ нигарист ва нигарист, аммо ягон нуқсонро ёфта натавонист.",
+          "id": "Dia mencari dan mencari, tetapi tidak menemukan kekurangan apa pun."
         },
         {
           "zh": "写来写去，还是觉得第一版最好。",
           "ru": "Писал-писал и всё же считаю первую версию лучшей.",
           "tk": "Ýazdym-ýazdym, ýöne birinji warianty iň gowy hasapladym.",
-          "en": "Wrote and rewrote, but still think the first draft is best."
+          "en": "Wrote and rewrote, but still think the first draft is best.",
+          "uz": "Yozdi va qayta yozdi, ammo baribir birinchi qoralama eng yaxshi deb o'ylaydi.",
+          "tg": "Навишт ва аз нав навишт, аммо ҳанӯз фикр мекунад, ки навиштаи аввал беҳтарин аст.",
+          "id": "Menulis dan menulis ulang, tetapi masih merasa draf pertama yang terbaik."
         }
       ],
       "formula": {
@@ -738,68 +940,101 @@
       "explanation": {
         "ru": "«要不» — «иначе, а то»; также «или же» (альтернатива).",
         "tk": "«要不» — «ýogsam»; hem «ýa-da» (alternatiwa).",
-        "en": "'要不' means 'otherwise' or 'or else' (alternative)."
+        "en": "'要不' means 'otherwise' or 'or else' (alternative).",
+        "uz": "'要不' 'aks holda' yoki 'yoki bo'lmasa' (muqobil) ma'nosini bildiradi.",
+        "tg": "'要不' маънои 'вагарна' ё 'ё ки' (алтернатива) дорад.",
+        "id": "'要不' berarti 'kalau tidak' atau 'atau' (alternatif)."
       },
       "examples": [
         {
           "zh": "要不这样吧，既然你们觉得少，那就改成每天早上四颗，晚上三颗。",
           "ru": "Давайте так: раз вам мало, пусть утром будет четыре, вечером — три.",
           "tk": "Şeýle edeliň: az diýseňiz, irden dört, agşam üç bolsun.",
-          "en": "How about this: since you find it few, make it four in the morning, three in the evening."
+          "en": "How about this: since you find it few, make it four in the morning, three in the evening.",
+          "uz": "Nima deysiz: kam deb topsangiz, ertalab to'rtta, kechqurun uchtaga aylantiring.",
+          "tg": "Чӣ тавр: азбаски шумо онро кам меёбед, онро чор субҳ, се бегоҳ кунед.",
+          "id": "Bagaimana kalau begini: karena kamu merasa kurang, jadikan empat ekor di pagi hari, tiga ekor di sore hari."
         },
         {
           "zh": "老太太说：「4块，要不我不买。」",
           "ru": "Старушка сказала: «4 юаня, иначе не куплю».",
           "tk": "Goja aýal: «4 ýuwan, ýogsam almam» diýdi.",
-          "en": "The old lady said: 'Four yuan, or I won't buy it.'"
+          "en": "The old lady said: 'Four yuan, or I won't buy it.'",
+          "uz": "Kampir aytdi: 'To'rt yuan, aks holda olmayman.'",
+          "tg": "Мӯйсафед гуфт: 'Чор юан, вагарна намехарам.'",
+          "id": "Nenek itu berkata: 'Empat yuan, kalau tidak aku tidak akan membelinya.'"
         },
         {
           "zh": "还好碰见你了，要不然我今天肯定要迟到了。",
           "ru": "Хорошо, что тебя встретил — иначе точно опоздал бы.",
           "tk": "Seni duşanym gowy boldy — ýogsam gijä galardym.",
-          "en": "Good thing I ran into you — otherwise I'd be late."
+          "en": "Good thing I ran into you — otherwise I'd be late.",
+          "uz": "Yaxshi bo'ldi, sizga duch keldim — aks holda kechikardim.",
+          "tg": "Хушбахтӣ, ки ба шумо дучор шудам — вагарна дер мекардам.",
+          "id": "Untung aku bertemu kamu — kalau tidak, aku akan terlambat."
         },
         {
           "zh": "今天太晚了，要不你明天再走吧。",
           "ru": "Сегодня уже поздно — может, уедешь завтра?",
           "tk": "Bu gün gaty giç — belki ertir gidersiň?",
-          "en": "It's too late today — maybe leave tomorrow."
+          "en": "It's too late today — maybe leave tomorrow.",
+          "uz": "Bugun juda kech — balki ertaga keting.",
+          "tg": "Имрӯз хеле дер шуд — шояд фардо равем.",
+          "id": "Hari ini sudah terlalu malam — mungkin berangkat besok saja."
         },
         {
           "zh": "要不我们先去吃饭，再去看电影？",
           "ru": "Может, сначала поедим, потом пойдём в кино?",
           "tk": "Belki ilki nahar iýip, soň kinony göreris?",
-          "en": "How about we eat first, then see a movie?"
+          "en": "How about we eat first, then see a movie?",
+          "uz": "Avval ovqatlanib, keyin kino ko'rsak-chi?",
+          "tg": "Чӣ гуфтед, аввал хӯрок хӯрем, баъд ба кино равем?",
+          "id": "Bagaimana kalau kita makan dulu, lalu nonton film?"
         },
         {
           "zh": "要不我们打电话问问吧。",
           "ru": "Может, позвоним и спросим?",
           "tk": "Belki jaň edip sorarys?",
-          "en": "Shall we call and ask?"
+          "en": "Shall we call and ask?",
+          "uz": "Qo'ng'iroq qilib so'rasakmi?",
+          "tg": "Занг зада пурсем?",
+          "id": "Haruskah kita menelepon dan bertanya?"
         },
         {
           "zh": "快点儿，要不赶不上火车了。",
           "ru": "Быстрее, иначе опоздаем на поезд.",
           "tk": "Çaltrak, ýogsam otla gijä galarys.",
-          "en": "Hurry — otherwise we'll miss the train."
+          "en": "Hurry — otherwise we'll miss the train.",
+          "uz": "Shoshiling — aks holda poyezdga kechikamiz.",
+          "tg": "Тез кунед — вагарна ба қаторамон дер мемонем.",
+          "id": "Cepat — kalau tidak, kita akan ketinggalan kereta."
         },
         {
           "zh": "要不你坐地铁去，比开车快。",
           "ru": "Может, поедешь на метро — быстрее, чем на машине.",
           "tk": "Belki metroda gidersiň — maşyndan çalt.",
-          "en": "How about taking the subway — faster than driving."
+          "en": "How about taking the subway — faster than driving.",
+          "uz": "Metroda borsak-chi — mashina haydashdan tezroq.",
+          "tg": "Чӣ гуфтед, бо метро равем — аз мошин тезтар аст.",
+          "id": "Bagaimana kalau naik kereta bawah tanah — lebih cepat daripada mengemudi."
         },
         {
           "zh": "要不我来帮你吧。",
           "ru": "Может, я тебе помогу?",
           "tk": "Belki men saňa kömek ederin?",
-          "en": "Shall I help you?"
+          "en": "Shall I help you?",
+          "uz": "Sizga yordam beraymi?",
+          "tg": "Ба шумо кӯмак кунам?",
+          "id": "Bolehkah saya membantu Anda?"
         },
         {
           "zh": "要不改天再约？",
           "ru": "Может, встретимся в другой день?",
           "tk": "Belki başga gün duşuşarys?",
-          "en": "Shall we meet another day?"
+          "en": "Shall we meet another day?",
+          "uz": "Boshqa kuni uchrashsakmi?",
+          "tg": "Рӯзи дигар вохӯрем?",
+          "id": "Bagaimana kalau kita bertemu di lain hari?"
         }
       ],
       "formula": {
@@ -871,68 +1106,101 @@
       "explanation": {
         "ru": "«彼此» — «друг друга, взаимно». Может быть подлежащим, дополнением, определением; может удваиваться.",
         "tk": "«彼此» — «biri-birini, özara». Gaýtalanýar.",
-        "en": "'彼此' — 'each other'. Can be subject, object, attributive; can be reduplicated."
+        "en": "'彼此' — 'each other'. Can be subject, object, attributive; can be reduplicated.",
+        "uz": "'彼此' — 'bir-biriga'. Ega, to'ldiruvchi, aniqlovchi bo'la oladi; takrorlanishi mumkin.",
+        "tg": "'彼此' — 'якдигар'. Метавонад мубтадо, объект, муайянкунанда бошад; метавонад такрор шавад.",
+        "id": "'彼此' — 'satu sama lain'. Dapat menjadi subjek, objek, atributif; dapat diulang."
       },
       "examples": [
         {
           "zh": "相处久了，彼此居然可以从表情、声音和行为举止中了解对方的意思。",
           "ru": "Пожив вместе, они стали понимать друг друга по выражению лица, голосу и поведению.",
           "tk": "Uzak wagtlap bile ýaşap, biri-biriniň ýüz keşbinden, sesinden we hereketinden manyny düşündiler.",
-          "en": "After living together long, they could understand each other via expression, voice, and behavior."
+          "en": "After living together long, they could understand each other via expression, voice, and behavior.",
+          "uz": "Uzoq vaqt birga yashagach, ular bir-birlarini ifoda, ovoz va xatti-harakat orqali tushuna oldilar.",
+          "tg": "Баъди муддати тӯлонӣ якҷоя зиндагӣ кардан, онҳо метавонистанд якдигарро аз рӯи ифодаи чеҳра, овоз ва рафтор фаҳманд.",
+          "id": "Setelah lama hidup bersama, mereka bisa saling memahami melalui ekspresi, suara, dan perilaku."
         },
         {
           "zh": "我们彼此/互相都很了解对方。",
           "ru": "Мы хорошо понимаем друг друга.",
           "tk": "Biz biri-birimizi gowy düşünýäris.",
-          "en": "We understand each other well."
+          "en": "We understand each other well.",
+          "uz": "Biz bir-birimizni yaxshi tushunamiz.",
+          "tg": "Мо якдигарро хуб мефаҳмем.",
+          "id": "Kami saling memahami dengan baik."
         },
         {
           "zh": "相处久了，彼此之间的感情越来越深。",
           "ru": "Прожив долго вместе, они всё сильнее привязывались друг к другу.",
           "tk": "Uzak wagtlap bile ýaşap, biri-birine bolan söýgüsi barha güýçlendi.",
-          "en": "Living together for a long time, their mutual affection deepened."
+          "en": "Living together for a long time, their mutual affection deepened.",
+          "uz": "Uzoq vaqt birga yashab, ularning o'zaro mehr-muhabbati chuqurlashdi.",
+          "tg": "Дар якҷоя зиндагӣ кардани муддати тӯлонӣ, муҳаббати ҳамдигарии онҳо амиқтар шуд.",
+          "id": "Karena sudah lama hidup bersama, kasih sayang mereka satu sama lain semakin mendalam."
         },
         {
           "zh": "我们是最好的朋友，不分彼此。",
           "ru": "Мы лучшие друзья, между нами нет разделения.",
           "tk": "Biz iň gowy dostlar, aramyzda tapawut ýok.",
-          "en": "We're best friends — nothing is 'mine' or 'yours'."
+          "en": "We're best friends — nothing is 'mine' or 'yours'.",
+          "uz": "Biz eng yaqin do'stmiz — hech narsa 'meniki' yoki 'seniki' emas.",
+          "tg": "Мо беҳтарин дӯстем — ҳеҷ чиз 'аз они ман' ё 'аз они ту' нест.",
+          "id": "Kami sahabat — tidak ada yang 'milikku' atau 'milikmu'."
         },
         {
           "zh": "我们彼此的爱好相同。",
           "ru": "У нас взаимно похожие увлечения.",
           "tk": "Biziň gyzyklanmalarymyz birmeňzeş.",
-          "en": "Our hobbies are similar."
+          "en": "Our hobbies are similar.",
+          "uz": "Bizning sevimli mashg'ulotlarimiz o'xshash.",
+          "tg": "Машғулиятҳои мо монанд ҳастанд.",
+          "id": "Hobi kami mirip."
         },
         {
           "zh": "咱们俩彼此彼此，我画得比你好不了多少。",
           "ru": "Мы с тобой одинаковы: я рисую не намного лучше.",
           "tk": "Biz ikimiz deň: men senden kän gowy çezemok.",
-          "en": "We're the same — I don't draw much better than you."
+          "en": "We're the same — I don't draw much better than you.",
+          "uz": "Biz bir xilmiz — men sizdan unchalik yaxshi rasm chizmayman.",
+          "tg": "Мо якхела ҳастем — ман аз ту хеле беҳтар намекашам.",
+          "id": "Kami sama — aku tidak jauh lebih pandai menggambar darimu."
         },
         {
           "zh": "我们是老同学，彼此之间非常了解。",
           "ru": "Мы старые однокурсники и отлично знаем друг друга.",
           "tk": "Biz köne klasdaşlar, biri-birimizi gaty gowy bilýäris.",
-          "en": "We're old classmates and know each other very well."
+          "en": "We're old classmates and know each other very well.",
+          "uz": "Biz eski sinfdoshmiz va bir-birimizni juda yaxshi bilamiz.",
+          "tg": "Мо ҳамсинфони қадимӣ ҳастем ва якдигарро хеле хуб мешиносем.",
+          "id": "Kami teman sekelas lama dan saling mengenal dengan sangat baik."
         },
         {
           "zh": "对同一个问题，彼此的认识不同，是很正常的事情。",
           "ru": "По одному и тому же вопросу понимания друг друга могут различаться — это нормально.",
           "tk": "Bir meselede biri-biriniň düşünişi tapawutlanýar — bu adaty.",
-          "en": "Different understandings of the same issue are normal."
+          "en": "Different understandings of the same issue are normal.",
+          "uz": "Bir masalani turlicha tushunish odatiy holdir.",
+          "tg": "Фаҳмишҳои гуногун дар бораи як масъала муқаррарӣ ҳастанд.",
+          "id": "Pemahaman yang berbeda tentang masalah yang sama adalah hal yang normal."
         },
         {
           "zh": "朋友之间应该彼此信任。",
           "ru": "Друзья должны доверять друг другу.",
           "tk": "Dostlar biri-birine ynam etmeli.",
-          "en": "Friends should trust each other."
+          "en": "Friends should trust each other.",
+          "uz": "Do'stlar bir-biriga ishonishlari kerak.",
+          "tg": "Дӯстон бояд ба якдигар бовар кунанд.",
+          "id": "Teman harus saling percaya."
         },
         {
           "zh": "他们在工作中彼此支持。",
           "ru": "Они поддерживают друг друга в работе.",
           "tk": "Olar işde biri-birini goldaýarlar.",
-          "en": "They support each other at work."
+          "en": "They support each other at work.",
+          "uz": "Ular ishda bir-birlarini qo'llab-quvvatlaydilar.",
+          "tg": "Онҳо дар кор аз якдигар дастгирӣ мекунанд.",
+          "id": "Mereka saling mendukung di tempat kerja."
         }
       ],
       "formula": {
@@ -1043,7 +1311,10 @@
       "common": {
         "ru": "Оба — «взаимно, друг друга».",
         "tk": "Ikisi hem «özara».",
-        "en": "Both mean 'mutually, each other'."
+        "en": "Both mean 'mutually, each other'.",
+        "uz": "Ikkalasi ham 'o'zaro, bir-biriga' ma'nosini bildiradi.",
+        "tg": "Ҳар ду маънои 'якдигарро, ба якдигар'-ро доранд.",
+        "id": "Keduanya berarti 'saling, satu sama lain'."
       },
       "differences": [
         {
@@ -1077,7 +1348,10 @@
         "meaning": {
           "ru": "еда",
           "tk": "azyk",
-          "en": "food"
+          "en": "food",
+          "uz": "ovqat",
+          "tg": "ғизо",
+          "id": "makanan"
         }
       },
       {
@@ -1086,7 +1360,10 @@
         "meaning": {
           "ru": "зерно",
           "tk": "däne",
-          "en": "grain"
+          "en": "grain",
+          "uz": "don",
+          "tg": "дона",
+          "id": "biji-bijian"
         }
       },
       {
@@ -1095,7 +1372,10 @@
         "meaning": {
           "ru": "овощи",
           "tk": "gök önüm",
-          "en": "vegetables"
+          "en": "vegetables",
+          "uz": "sabzavotlar",
+          "tg": "сабзавот",
+          "id": "sayuran"
         }
       },
       {
@@ -1104,7 +1384,10 @@
         "meaning": {
           "ru": "тофу",
           "tk": "doňuz (tofu)",
-          "en": "tofu"
+          "en": "tofu",
+          "uz": "tofu",
+          "tg": "туфу",
+          "id": "tahu"
         }
       },
       {
@@ -1113,7 +1396,10 @@
         "meaning": {
           "ru": "острый перец",
           "tk": "ajy burç",
-          "en": "chili pepper"
+          "en": "chili pepper",
+          "uz": "qalampir",
+          "tg": "қаламфури тез",
+          "id": "cabai"
         }
       },
       {
@@ -1122,7 +1408,10 @@
         "meaning": {
           "ru": "арахис",
           "tk": "ýer hozy",
-          "en": "peanut"
+          "en": "peanut",
+          "uz": "yer yong'oq",
+          "tg": "чормағз",
+          "id": "kacang tanah"
         }
       },
       {
@@ -1131,7 +1420,10 @@
         "meaning": {
           "ru": "картошка",
           "tk": "kartoşka",
-          "en": "potato"
+          "en": "potato",
+          "uz": "kartoshka",
+          "tg": "картошка",
+          "id": "kentang"
         }
       },
       {
@@ -1140,7 +1432,10 @@
         "meaning": {
           "ru": "кукуруза",
           "tk": "mekgejöwen",
-          "en": "corn"
+          "en": "corn",
+          "uz": "makkajo'xori",
+          "tg": "ҷуворимакка",
+          "id": "jagung"
         }
       },
       {
@@ -1149,7 +1444,10 @@
         "meaning": {
           "ru": "паровая булочка",
           "tk": "manty",
-          "en": "steamed bun"
+          "en": "steamed bun",
+          "uz": "bug'da pishirilgan bulochka",
+          "tg": "булочкаи буғӣ",
+          "id": "bakpao kukus"
         }
       },
       {
@@ -1158,7 +1456,10 @@
         "meaning": {
           "ru": "морепродукты",
           "tk": "deňiz önümleri",
-          "en": "seafood"
+          "en": "seafood",
+          "uz": "dengiz mahsulotlari",
+          "tg": "ғизои баҳрӣ",
+          "id": "makanan laut"
         }
       }
     ]
@@ -1167,7 +1468,10 @@
     "discussion": {
       "ru": "Приведите пример, как значение слова в вашем языке изменилось со временем.",
       "tk": "Diliňizdäki bir sözüň wagtyň geçmegi bilen many taýdan üýtgändigine mysal getiriň.",
-      "en": "Give an example of a word whose meaning changed over time in your language."
+      "en": "Give an example of a word whose meaning changed over time in your language.",
+      "uz": "O'z tilingizda vaqt o'tishi bilan ma'nosi o'zgargan so'zga misol keltiring.",
+      "tg": "Мисоли калимае оред, ки маънои он дар забони шумо бо мурури замон тағйир ёфтааст.",
+      "id": "Berikan contoh kata yang maknanya berubah seiring waktu dalam bahasa Anda."
     }
   },
   "workbook": {

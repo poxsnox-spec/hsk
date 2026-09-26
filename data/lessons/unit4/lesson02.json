@@ -5,7 +5,8 @@
     "tk": "Jaňly sagadyň zyýany",
     "en": "Harm of Alarm Clocks",
     "uz": "Budilnikning zarari",
-    "tg": "Зарари соати зангӣ"
+    "tg": "Зарари соати зангӣ",
+    "id": "Bahaya Jam Alarm"
   },
   "audio_files": {
     "textbook_1": "textbook_1.mp3",
@@ -18,7 +19,10 @@
     "question": {
       "ru": "Как вы обычно просыпаетесь: по будильнику, от света, от шума?",
       "tk": "Adatça jaňly sagatdanmy, ýagtylykdanmy, sesdenmi oýanýarsyňyz?",
-      "en": "How do you usually wake up: alarm, light, sound?"
+      "en": "How do you usually wake up: alarm, light, sound?",
+      "uz": "Odatda qanday uyg'onasiz: budilnik, yorug'lik, ovoz?",
+      "tg": "Шумо одатан чӣ тавр бедор мешавед: занг, рӯшноӣ, садо?",
+      "id": "Bagaimana biasanya Anda terbangun: alarm, cahaya, suara?"
     },
     "answers": [
       "闹钟",
@@ -31,7 +35,10 @@
   "text_translation": {
     "ru": "Медицинские исследования показывают: у сна человека есть свои механизмы, и естественное пробуждение наиболее соответствует биологическим часам. Свет — необходимое условие. Утром, ощущая усиливающийся солнечный свет, метаболизм ускоряется, и человек постепенно переходит из глубокого сна в лёгкий, а потом просыпается. Поэтому в пасмурные дни мы любим подольше поспать. Из-за напряжённой современной жизни многие работающие люди не могут позволить себе естественное пробуждение — тут и важен будильник. Но эксперименты показывают: реакция на естественное пробуждение и на будильник совершенно разные. При переходе из сна в бодрствование дыхание учащается с 16 до 24 раз в минуту, пульс — на 10 ударов. Резкое пробуждение от будильника вызывает тревожность, плохое настроение, ощущение недосыпа. А если разбудили в глубоком сне — краткосрочная память и счётные навыки падают до 65% от нормы, как при опьянении. Организм выделяет адреналин. Если это повторяется много дней, недель, месяцев — приводит к гипертонии, бессоннице, психическим проблемам. Исследование показало: разбуженные будильником люди имеют более высокое давление и частый пульс, чем проснувшиеся естественно. Если будильник всё же нужен — используйте мягкий звук или музыку. Сегодня на рынке есть «световой будильник»: имитирует утренний естественный свет и мягко будит в нужное время, избегая вреда от традиционного будильника.",
     "tk": "Lukmançylyk barlaglary görkezýär: adamyň ukusynyň öz mehanizmi bar — tebigy oýanmak biologik sagada iň laýyk. Ýagtylyk tebigy oýanmagyň şertidir. Irden gün şöhlesi güýçlenip başlanda, metabolizm çaltlanýar — adam çuň ukudan ýeňil ukuda geçýär. Şol sebäpden bulutly günde uzak ýatmagy halaýarys. Häzirki dartgynly durmuşda köp adamlar tebigy oýanyp bilmeýär — jaňly sagat möhüm bolýar. Emma synaglar görkezýär: tebigy oýanmak bilen jaňly sagadyň oýandyrýan täsiri düýbünden tapawutly. Çuň ukudan bada-bat oýanan adamda ýatkeşlik, lapykeçlik, ukusyzlyk ýüze çykýar. Birnäçe gün, hepde, aý dowam etse — gipertoniýa, uky tutmazlyk we ruhy näsazlyklara eltýär. Barlaglar görkezýär: jaň bilen oýanan adamyň gan basyşy we ýürek urgusy tebigy oýanandan ýokary. Eger-de jaňly sagat zerur bolsa — ýumşak sesi ýa-da sazy saýlaň. Häzir bazarda «Ýagtylyk jaňly sagady» bar — ol irdenki tebigy ýagtylygy öýde janlandyrýar we sagatlaýyn ýumşak oýandyrýar.",
-    "en": "Medical research proves that human sleep has its own specific mechanisms, and natural waking best matches the body's biological clock. Light is the necessary condition for natural waking — the body's internal biological alarm. In the morning, as the body senses gradually strengthening sunlight, metabolism speeds up, and the person transitions from deep to light sleep until waking. That's why people tend to sleep in on cloudy and rainy days. The tense modern life makes it impossible for many working people to enjoy relaxed, comfortable sleep and wake naturally — so the alarm clock's use becomes especially important. But experimental research proves: people's responses to natural waking versus alarm-clock waking are very different. Transitioning from sleep to wakefulness, respiration rises from 16/min to 24/min, heart rate increases by 10/min. If abruptly awakened by an alarm, one feels flustered, low-spirited, and unrested. If awakened from deep sleep, short-term memory and calculation skills are affected, dropping to at most 65% of normal — like a drunk person. For self-protection, the body raises adrenaline levels when awakened by alarm. If this state lasts days, weeks, months, it leads to hypertension, insomnia and some psychological problems. Research finds: those abruptly awakened by alarms have higher blood pressure and faster heart rate than natural wakers. Experts explain: the body changes during sleep, so people are more prone to illness when waking — and an alarm increases that possibility. If you must set an alarm, use a soft sound or music. Of all waking methods, natural waking best suits our wishes. But who can pull the curtain and let the sunlight in for you? In recent years, a new electronic product has appeared on the market called a 'light alarm clock'. It can imitate the changes of morning natural light indoors, gently waking the person at a set time through the effect of light, avoiding the harm to health that traditional alarms cause by abrupt awakening. Hopefully this brings us a step, and another step, closer to true 'natural waking'."
+    "en": "Medical research proves that human sleep has its own specific mechanisms, and natural waking best matches the body's biological clock. Light is the necessary condition for natural waking — the body's internal biological alarm. In the morning, as the body senses gradually strengthening sunlight, metabolism speeds up, and the person transitions from deep to light sleep until waking. That's why people tend to sleep in on cloudy and rainy days. The tense modern life makes it impossible for many working people to enjoy relaxed, comfortable sleep and wake naturally — so the alarm clock's use becomes especially important. But experimental research proves: people's responses to natural waking versus alarm-clock waking are very different. Transitioning from sleep to wakefulness, respiration rises from 16/min to 24/min, heart rate increases by 10/min. If abruptly awakened by an alarm, one feels flustered, low-spirited, and unrested. If awakened from deep sleep, short-term memory and calculation skills are affected, dropping to at most 65% of normal — like a drunk person. For self-protection, the body raises adrenaline levels when awakened by alarm. If this state lasts days, weeks, months, it leads to hypertension, insomnia and some psychological problems. Research finds: those abruptly awakened by alarms have higher blood pressure and faster heart rate than natural wakers. Experts explain: the body changes during sleep, so people are more prone to illness when waking — and an alarm increases that possibility. If you must set an alarm, use a soft sound or music. Of all waking methods, natural waking best suits our wishes. But who can pull the curtain and let the sunlight in for you? In recent years, a new electronic product has appeared on the market called a 'light alarm clock'. It can imitate the changes of morning natural light indoors, gently waking the person at a set time through the effect of light, avoiding the harm to health that traditional alarms cause by abrupt awakening. Hopefully this brings us a step, and another step, closer to true 'natural waking'.",
+    "uz": "Tibbiy tadqiqotlar inson uyqusining o'ziga xos mexanizmlari borligini va tabiiy uyg'onish tananing biologik soatiga eng mos kelishini isbotlaydi. Yorug'lik tabiiy uyg'onish uchun zarur shart — tananing ichki biologik budilnikidir. Ertalab tana asta-sekin kuchayib borayotgan quyosh nurini sezganda, metabolizm tezlashadi va odam chuqur uyqudan yengil uyquga o'tib, uyg'onadi. Shuning uchun odamlar bulutli va yomg'irli kunlarda uyquni ko'proq cho'zishga moyil. Zamonaviy hayotning shoshqaloqligi ko'plab mehnatkashlarga bemalol, qulay uxlash va tabiiy uyg'onish imkonini bermaydi — shu sababli budilnikdan foydalanish ayniqsa muhim bo'lib qoladi. Ammo eksperimental tadqiqotlar isbotlaydi: odamlarning tabiiy uyg'onishga va budilnik bilan uyg'onishga munosabati juda farq qiladi. Uyqudan uyg'oqlikka o'tishda nafas olish daqiqasiga 16 dan 24 gacha ko'tariladi, yurak urishi daqiqasiga 10 ga oshadi. Agar budilnik bilan to'satdan uyg'otilsa, odam o'zini bezovta, ruhi tushgan va hordiq chiqarmagan his qiladi. Agar chuqur uyqudan uyg'otilsa, qisqa muddatli xotira va hisoblash qobiliyati ta'sirlanadi va normal holatning ko'pi bilan 65 foizigacha pasayadi — xuddi mast odam kabi. O'zini himoya qilish uchun tana budilnik bilan uyg'otilganda adrenalin darajasini oshiradi. Agar bu holat kunlar, haftalar, oylar davom etsa, bu gipertoniya, uyqusizlik va ba'zi psixologik muammolarga olib keladi. Tadqiqotlar aniqlaydi: budilnik bilan to'satdan uyg'otilganlarning qon bosimi va yurak urishi tabiiy uyg'onuvchilarnikidan yuqori bo'ladi. Mutaxassislar tushuntiradi: tana uyqu davomida o'zgaradi, shuning uchun odamlar uyg'onish paytida kasallikka ko'proq moyil bo'ladi — budilnik esa bu ehtimolni oshiradi. Agar budilnik o'rnatishingiz shart bo'lsa, yumshoq ovoz yoki musiqadan foydalaning. Barcha uyg'onish usullari ichida tabiiy uyg'onish bizning xohishimizga eng mos keladi. Ammo kim siz uchun pardani tortib, quyosh nurini ichkariga kiritib bera oladi? So'nggi yillarda bozorda 'yorug'lik budilniki' deb nomlangan yangi elektron mahsulot paydo bo'ldi. U bino ichida ertalabki tabiiy yorug'lik o'zgarishlarini taqlid qilib, yorug'lik ta'siri orqali odamni belgilangan vaqtda yumshoq uyg'otadi va an'anaviy budilniklarning to'satdan uyg'otish orqali sog'liqqa yetkazadigan zararini oldini oladi. Umid qilamizki, bu bizni haqiqiy 'tabiiy uyg'onish'ga bir qadam, yana bir qadam yaqinlashtiradi.",
+    "tg": "Тадқиқоти тиббӣ исбот мекунад, ки хоби инсон механизмҳои хоси худро дорад ва бедоршавии табиӣ ба соати биологии бадан бештар мувофиқ аст. Рӯшноӣ шарти зарурии бедоршавии табиӣ аст — занги биологии дохилии бадан. Дар субҳ, вақте ки бадан нури офтобро тадриҷан қавӣ ҳис мекунад, мубодилаи моддаҳо тезтар мешавад ва одам аз хоби амиқ ба хоби сабук мегузарад, то бедор шавад. Барои ҳамин дар рӯзҳои абрнок ва боронӣ одамон майл ба хоби бештар доранд. Ҳаёти шиддатноки муосир ба бисёр коргарон имкон намедиҳад, ки аз хоби ором ва бароҳат баҳра баранд ва табиӣ бедор шаванд — бинобар ин истифодаи соати зангдор махсусан муҳим мегардад. Аммо тадқиқоти таҷрибавӣ исбот мекунад: вокуниши одамон ба бедоршавии табиӣ ва бедоршавӣ аз соати зангдор хеле фарқ мекунад. Ҳангоми гузаштан аз хоб ба бедорӣ, нафаскашӣ аз 16/дақ ба 24/дақ меафзояд, тапиши дил 10/дақ зиёд мешавад. Агар одамро бо соати зангдор ногаҳон бедор кунанд, ӯ худро ноором, рӯҳафтода ва бедам меҳисобад. Агар аз хоби амиқ бедор шавад, хотираи кӯтоҳмуддат ва қобилияти ҳисобкунӣ зарар мебинанд ва ҳадди аксар то 65% аз меъёр паст мешаванд — мисли одами маст. Барои худҳифз, бадан ҳангоми бедоршавӣ бо соати зангдор сатҳи адреналинро баланд мекунад. Агар ин ҳолат рӯзҳо, ҳафтаҳо, моҳҳо давом кунад, ба гипертония, бехобӣ ва баъзе мушкилоти равонӣ меорад. Тадқиқот нишон медиҳад: онҳое, ки бо соати зангдор ногаҳон бедор мешаванд, фишори хун ва тапиши дили баландтар аз онҳое доранд, ки табиӣ бедор мешаванд. Мутахассисон шарҳ медиҳанд: бадан ҳангоми хоб тағйир меёбад, бинобар ин одамон ҳангоми бедоршавӣ ба беморӣ бештар майл доранд — ва соати зангдор ин эҳтимолро зиёд мекунад. Агар шумо бояд соати зангдор гузоред, овози нарм ё мусиқӣ истифода баред. Аз ҳамаи усулҳои бедоршавӣ, бедоршавии табиӣ ба хоҳишҳои мо бештар мувофиқ аст. Аммо кӣ метавонад пардаро кашад ва нури офтобро барои шумо дарорад? Дар солҳои охир дар бозор маҳсулоти нави электронӣ пайдо шуд, ки 'соати зангдори рӯшноӣ' ном дорад. Он метавонад тағйироти нури табиии субҳро дар дохили хона тақлид кунад ва одамро дар вақти муайяншуда тавассути таъсири рӯшноӣ нарм бедор кунад, ва аз зарари ба саломатӣ, ки соатҳои зангдори анъанавӣ бо бедоршавии ногаҳонӣ мерасонанд, пешгирӣ кунад. Умедворем, ки ин моро як қадам ва боз як қадам ба 'бедоршавии табиии' ҳақиқӣ наздиктар мекунад.",
+    "id": "Penelitian medis membuktikan bahwa tidur manusia memiliki mekanisme spesifiknya sendiri, dan bangun secara alami paling sesuai dengan jam biologis tubuh. Cahaya adalah syarat yang diperlukan untuk bangun alami — alarm biologis internal tubuh. Pada pagi hari, saat tubuh merasakan sinar matahari yang perlahan menguat, metabolisme meningkat, dan orang tersebut beralih dari tidur nyenyak ke tidur ringan hingga bangun. Itulah sebabnya orang cenderung tidur lebih lama pada hari berawan dan hujan. Kehidupan modern yang penuh tekanan membuat banyak pekerja tidak dapat menikmati tidur yang santai dan nyaman serta bangun secara alami — sehingga penggunaan jam alarm menjadi sangat penting. Namun penelitian eksperimental membuktikan: respons orang terhadap bangun alami versus bangun karena jam alarm sangat berbeda. Saat beralih dari tidur ke bangun, pernapasan meningkat dari 16/menit menjadi 24/menit, detak jantung meningkat 10/menit. Jika tiba-tiba dibangunkan oleh alarm, seseorang merasa gelisah, murung, dan tidak segar. Jika dibangunkan dari tidur nyenyak, memori jangka pendek dan kemampuan berhitung terpengaruh, turun paling banyak hingga 65% dari normal — seperti orang mabuk. Untuk perlindungan diri, tubuh meningkatkan kadar adrenalin saat dibangunkan oleh alarm. Jika keadaan ini berlangsung berhari-hari, berminggu-minggu, berbulan-bulan, hal itu menyebabkan hipertensi, insomnia, dan beberapa masalah psikologis. Penelitian menemukan: mereka yang tiba-tiba dibangunkan oleh alarm memiliki tekanan darah lebih tinggi dan detak jantung lebih cepat daripada yang bangun secara alami. Para ahli menjelaskan: tubuh berubah selama tidur, sehingga orang lebih rentan sakit saat bangun — dan alarm meningkatkan kemungkinan itu. Jika Anda harus menyetel alarm, gunakan suara lembut atau musik. Dari semua metode bangun, bangun alami paling sesuai dengan keinginan kita. Tapi siapa yang bisa membuka tirai dan membiarkan sinar matahari masuk untuk Anda? Dalam beberapa tahun terakhir, produk elektronik baru muncul di pasaran yang disebut 'jam alarm cahaya'. Produk ini dapat meniru perubahan cahaya alami pagi hari di dalam ruangan, dengan lembut membangunkan seseorang pada waktu yang ditentukan melalui efek cahaya, menghindari bahaya bagi kesehatan yang disebabkan oleh bangun mendadak dari alarm tradisional. Semoga ini membawa kita selangkah, dan selangkah lagi, lebih dekat ke 'bangun alami' yang sebenarnya."
   },
   "vocabulary": [
     {
@@ -41,7 +48,10 @@
       "meaning": {
         "ru": "будильник",
         "tk": "jaňly sagat",
-        "en": "alarm clock"
+        "en": "alarm clock",
+        "uz": "budilnik",
+        "tg": "соати зангдор",
+        "id": "jam alarm"
       }
     },
     {
@@ -51,7 +61,10 @@
       "meaning": {
         "ru": "вредить",
         "tk": "zyýan ýetirmek",
-        "en": "to harm"
+        "en": "to harm",
+        "uz": "zarar yetkazmoq",
+        "tg": "зарар расондан",
+        "id": "merugikan"
       }
     },
     {
@@ -61,7 +74,10 @@
       "meaning": {
         "ru": "человечество",
         "tk": "adamzat",
-        "en": "humankind"
+        "en": "humankind",
+        "uz": "insoniyat",
+        "tg": "насли башар",
+        "id": "umat manusia"
       }
     },
     {
@@ -71,7 +87,10 @@
       "meaning": {
         "ru": "механизм",
         "tk": "mehanizm",
-        "en": "mechanism"
+        "en": "mechanism",
+        "uz": "mexanizm",
+        "tg": "механизм",
+        "id": "mekanisme"
       }
     },
     {
@@ -81,7 +100,10 @@
       "meaning": {
         "ru": "живой организм",
         "tk": "janly organizm",
-        "en": "living thing"
+        "en": "living thing",
+        "uz": "jonli mavjudot",
+        "tg": "мавҷуди зинда",
+        "id": "makhluk hidup"
       }
     },
     {
@@ -91,7 +113,10 @@
       "meaning": {
         "ru": "закономерность",
         "tk": "kanunalaýyklyk",
-        "en": "law, pattern"
+        "en": "law, pattern",
+        "uz": "qonun, naqsh",
+        "tg": "қонун, қонуният",
+        "id": "hukum, pola"
       }
     },
     {
@@ -101,7 +126,10 @@
       "meaning": {
         "ru": "свет, луч",
         "tk": "ýagtylyk",
-        "en": "light, ray"
+        "en": "light, ray",
+        "uz": "yorug'lik, nur",
+        "tg": "рӯшноӣ, шуоъ",
+        "id": "cahaya, sinar"
       }
     },
     {
@@ -111,7 +139,10 @@
       "meaning": {
         "ru": "необходимый",
         "tk": "zerur",
-        "en": "necessary"
+        "en": "necessary",
+        "uz": "zarur",
+        "tg": "зарурӣ",
+        "id": "perlu"
       }
     },
     {
@@ -121,7 +152,10 @@
       "meaning": {
         "ru": "переходить",
         "tk": "geçmek",
-        "en": "to transit"
+        "en": "to transit",
+        "uz": "o'tish",
+        "tg": "гузаштан",
+        "id": "untuk transit"
       }
     },
     {
@@ -131,7 +165,10 @@
       "meaning": {
         "ru": "мелкий, поверхностный",
         "tk": "ýalpak",
-        "en": "shallow"
+        "en": "shallow",
+        "uz": "sayoz",
+        "tg": "ками",
+        "id": "dangkal"
       }
     },
     {
@@ -141,7 +178,10 @@
       "meaning": {
         "ru": "современный",
         "tk": "häzirki",
-        "en": "modern"
+        "en": "modern",
+        "uz": "zamonaviy",
+        "tg": "муосир",
+        "id": "modern"
       }
     },
     {
@@ -151,7 +191,10 @@
       "meaning": {
         "ru": "наслаждаться",
         "tk": "lezzet almak",
-        "en": "to enjoy"
+        "en": "to enjoy",
+        "uz": "zavqlanmoq",
+        "tg": "лаззат бурдан",
+        "id": "untuk menikmati"
       }
     },
     {
@@ -161,7 +204,10 @@
       "meaning": {
         "ru": "применение",
         "tk": "ulanylyş",
-        "en": "use"
+        "en": "use",
+        "uz": "foydalanish",
+        "tg": "истифода",
+        "id": "penggunaan"
       }
     },
     {
@@ -171,7 +217,10 @@
       "meaning": {
         "ru": "эксперимент",
         "tk": "synag",
-        "en": "experiment"
+        "en": "experiment",
+        "uz": "tajriba",
+        "tg": "таҷриба",
+        "id": "eksperimen"
       }
     },
     {
@@ -181,7 +230,10 @@
       "meaning": {
         "ru": "звонок",
         "tk": "jaň",
-        "en": "bell"
+        "en": "bell",
+        "uz": "qo'ng'iroq",
+        "tg": "зангӯла",
+        "id": "lonceng"
       }
     },
     {
@@ -191,7 +243,10 @@
       "meaning": {
         "ru": "частица (книжн.)",
         "tk": "bölekçe",
-        "en": "particle"
+        "en": "particle",
+        "uz": "zarra",
+        "tg": "зарра",
+        "id": "partikel"
       }
     },
     {
@@ -201,7 +256,10 @@
       "meaning": {
         "ru": "состояние",
         "tk": "ýagdaý",
-        "en": "state"
+        "en": "state",
+        "uz": "holat",
+        "tg": "ҳолат",
+        "id": "keadaan"
       }
     },
     {
@@ -211,7 +269,10 @@
       "meaning": {
         "ru": "бодрый",
         "tk": "huşly",
-        "en": "sober, alert"
+        "en": "sober, alert",
+        "uz": "hushyor, sergak",
+        "tg": "ҳушёр, бедор",
+        "id": "sadar, waspada"
       }
     },
     {
@@ -221,7 +282,10 @@
       "meaning": {
         "ru": "дышать",
         "tk": "dem almak",
-        "en": "to breathe"
+        "en": "to breathe",
+        "uz": "nafas olmoq",
+        "tg": "нафас кашидан",
+        "id": "bernapas"
       }
     },
     {
@@ -231,7 +295,10 @@
       "meaning": {
         "ru": "психика",
         "tk": "psihika",
-        "en": "psychology"
+        "en": "psychology",
+        "uz": "psixologiya",
+        "tg": "психология",
+        "id": "psikologi"
       }
     },
     {
@@ -241,7 +308,10 @@
       "meaning": {
         "ru": "тревожный, растерянный",
         "tk": "howatyrly",
-        "en": "flurried"
+        "en": "flurried",
+        "uz": "shoshqaloq",
+        "tg": "шошқалоқ",
+        "id": "terburu-buru"
       }
     },
     {
@@ -251,7 +321,10 @@
       "meaning": {
         "ru": "настроение",
         "tk": "keýp",
-        "en": "emotion, mood"
+        "en": "emotion, mood",
+        "uz": "his-tuyg'u, kayfiyat",
+        "tg": "эҳсосот, кайфият",
+        "id": "emosi, suasana hati"
       }
     },
     {
@@ -261,7 +334,10 @@
       "meaning": {
         "ru": "подавленный",
         "tk": "gamlı",
-        "en": "depressed"
+        "en": "depressed",
+        "uz": "tushkun",
+        "tg": "афсурда",
+        "id": "tertekan"
       }
     },
     {
@@ -271,7 +347,10 @@
       "meaning": {
         "ru": "память",
         "tk": "ýat",
-        "en": "memory"
+        "en": "memory",
+        "uz": "xotira",
+        "tg": "ҳофиза",
+        "id": "memori"
       }
     },
     {
@@ -281,7 +360,10 @@
       "meaning": {
         "ru": "считать",
         "tk": "hasaplamak",
-        "en": "to calculate"
+        "en": "to calculate",
+        "uz": "hisoblamoq",
+        "tg": "ҳисоб кардан",
+        "id": "menghitung"
       }
     },
     {
@@ -291,7 +373,10 @@
       "meaning": {
         "ru": "быть равным",
         "tk": "deň bolmak",
-        "en": "to be equal"
+        "en": "to be equal",
+        "uz": "teng bo'lmoq",
+        "tg": "баробар будан",
+        "id": "sama dengan"
       }
     },
     {
@@ -301,7 +386,10 @@
       "meaning": {
         "ru": "продолжаться",
         "tk": "dowam etmek",
-        "en": "to continue"
+        "en": "to continue",
+        "uz": "davom etmoq",
+        "tg": "идома додан",
+        "id": "melanjutkan"
       }
     },
     {
@@ -311,7 +399,10 @@
       "meaning": {
         "ru": "несколько",
         "tk": "birnäçe",
-        "en": "several"
+        "en": "several",
+        "uz": "bir nechta",
+        "tg": "якчанд",
+        "id": "beberapa"
       }
     },
     {
@@ -321,7 +412,10 @@
       "meaning": {
         "ru": "приводить к",
         "tk": "eltmek",
-        "en": "to lead to"
+        "en": "to lead to",
+        "uz": "olib kelmoq",
+        "tg": "боис шудан",
+        "id": "menyebabkan"
       }
     },
     {
@@ -331,7 +425,10 @@
       "meaning": {
         "ru": "страдать бессонницей",
         "tk": "uky tutmazlyk",
-        "en": "insomnia"
+        "en": "insomnia",
+        "uz": "uyqusizlik",
+        "tg": "бехобӣ",
+        "id": "insomnia"
       }
     },
     {
@@ -341,7 +438,10 @@
       "meaning": {
         "ru": "дух, психика",
         "tk": "ruh",
-        "en": "spirit, mind"
+        "en": "spirit, mind",
+        "uz": "ruh, aql",
+        "tg": "рӯҳ, ақл",
+        "id": "semangat, pikiran"
       }
     },
     {
@@ -351,7 +451,10 @@
       "meaning": {
         "ru": "эксперт",
         "tk": "hünärmen",
-        "en": "expert"
+        "en": "expert",
+        "uz": "mutaxassis",
+        "tg": "мутахассис",
+        "id": "ahli"
       }
     },
     {
@@ -361,7 +464,10 @@
       "meaning": {
         "ru": "применять",
         "tk": "ulanmak",
-        "en": "to use"
+        "en": "to use",
+        "uz": "ishlatmoq",
+        "tg": "истифода бурдан",
+        "id": "menggunakan"
       }
     },
     {
@@ -371,7 +477,10 @@
       "meaning": {
         "ru": "мягкий",
         "tk": "ýumşak",
-        "en": "gentle, soft"
+        "en": "gentle, soft",
+        "uz": "yumshoq, mayin",
+        "tg": "мулоим, нарм",
+        "id": "lembut, halus"
       }
     },
     {
@@ -381,7 +490,10 @@
       "meaning": {
         "ru": "желание",
         "tk": "arzuw",
-        "en": "wish"
+        "en": "wish",
+        "uz": "istak",
+        "tg": "хоҳиш",
+        "id": "keinginan"
       }
     },
     {
@@ -391,7 +503,10 @@
       "meaning": {
         "ru": "занавеска",
         "tk": "perde",
-        "en": "curtain"
+        "en": "curtain",
+        "uz": "parda",
+        "tg": "парда",
+        "id": "tirai"
       }
     },
     {
@@ -401,7 +516,10 @@
       "meaning": {
         "ru": "рынок",
         "tk": "bazar",
-        "en": "market"
+        "en": "market",
+        "uz": "bozor",
+        "tg": "бозор",
+        "id": "pasar"
       }
     },
     {
@@ -411,7 +529,10 @@
       "meaning": {
         "ru": "продукт",
         "tk": "önüm",
-        "en": "product"
+        "en": "product",
+        "uz": "mahsulot",
+        "tg": "маҳсулот",
+        "id": "produk"
       }
     },
     {
@@ -421,7 +542,10 @@
       "meaning": {
         "ru": "имитировать",
         "tk": "meňzetmek",
-        "en": "to imitate"
+        "en": "to imitate",
+        "uz": "taqlid qilmoq",
+        "tg": "тақлид кардан",
+        "id": "meniru"
       }
     },
     {
@@ -431,7 +555,10 @@
       "meaning": {
         "ru": "избегать",
         "tk": "gutulmak",
-        "en": "to avoid"
+        "en": "to avoid",
+        "uz": "chetlab o'tmoq",
+        "tg": "барои пешгирӣ кардан",
+        "id": "untuk menghindari"
       }
     },
     {
@@ -441,7 +568,10 @@
       "meaning": {
         "ru": "традиция; традиционный",
         "tk": "däp; däp bolan",
-        "en": "tradition"
+        "en": "tradition",
+        "uz": "an'ana",
+        "tg": "анъана",
+        "id": "tradisi"
       }
     }
   ],
@@ -452,68 +582,101 @@
       "explanation": {
         "ru": "«动词+来 / 过来» — от сна к бодрствованию; также возвращение к нормальному состоянию.",
         "tk": "«动词+来 / 过来» — ukudan oýanmak; kadaly ýagdaýa dolanmak.",
-        "en": "'Verb + 来/过来' means waking up, or returning to a normal state."
+        "en": "'Verb + 来/过来' means waking up, or returning to a normal state.",
+        "uz": "'Fe'l + 来/过来' uyg'onish yoki normal holatga qaytishni bildiradi.",
+        "tg": "'Феъл + 来/过来' маънои бедор шудан ё ба ҳолати муқаррарӣ баргаштанро дорад.",
+        "id": "'Kata kerja + 来/过来' berarti bangun, atau kembali ke keadaan normal."
       },
       "examples": [
         {
           "zh": "人逐渐从熟睡过渡到浅睡，直到醒来。",
           "ru": "Человек постепенно переходит из глубокого сна в лёгкий, пока не проснётся.",
           "tk": "Adam çuň ukudan ýeňil ukuda geçip, ahyrynda oýanýar.",
-          "en": "One gradually shifts from deep to light sleep until waking."
+          "en": "One gradually shifts from deep to light sleep until waking.",
+          "uz": "Inson asta-sekin chuqur uyqudan yengil uyquga o'tadi va uyg'onadi.",
+          "tg": "Одам тадриҷан аз хоби амиқ ба хоби сабук мегузарад, то бедор шавад.",
+          "id": "Seseorang secara bertahap beralih dari tidur nyenyak ke tidur ringan hingga bangun."
         },
         {
           "zh": "早晨醒来，我发现窗外正下着大雪。",
           "ru": "Проснувшись утром, я увидел, что на улице идёт большой снег.",
           "tk": "Irden oýanymda, daşarda güýçli gar ýagýandygyny gördüm.",
-          "en": "Waking up in the morning, I saw it was snowing heavily."
+          "en": "Waking up in the morning, I saw it was snowing heavily.",
+          "uz": "Ertalab uyg'onganimda, qattiq qor yog'ayotganini ko'rdim.",
+          "tg": "Саҳар бедор шуда, дидам, ки барф бисёр шадид меборад.",
+          "id": "Bangun pagi, saya melihat salju turun dengan lebat."
         },
         {
           "zh": "我被一阵吵闹声突然惊醒，过了半天，脑子才清醒过来。",
           "ru": "Меня разбудил шум, и лишь через некоторое время сознание прояснилось.",
           "tk": "Meni gykylyk oýardy, birazdan aňym aýyldy.",
-          "en": "I was awakened by noise, and it took a while to come to my senses."
+          "en": "I was awakened by noise, and it took a while to come to my senses.",
+          "uz": "Shovqindan uyg'onib ketdim va o'zimga kelishim uchun biroz vaqt kerak bo'ldi.",
+          "tg": "Маро садои ғавғо бедор кард ва ба худ омаданам каме вақт гирифт.",
+          "id": "Saya terbangun oleh kebisingan, dan butuh beberapa saat untuk sadar kembali."
         },
         {
           "zh": "天上的星星那么多，谁数得过来呀？",
           "ru": "На небе столько звёзд — кто их пересчитает?",
           "tk": "Asmanda şonça ýyldyz bar — kim hasaplap ýetişer?",
-          "en": "There are so many stars — who can count them all?"
+          "en": "There are so many stars — who can count them all?",
+          "uz": "Yulduzlar shunchalik ko'pki — ularning hammasini kim sanay oladi?",
+          "tg": "Ситораҳо ин қадар зиёданд — ки метавонад ҳамаи онҳоро ҳисоб кунад?",
+          "id": "Ada begitu banyak bintang — siapa yang bisa menghitung semuanya?"
         },
         {
           "zh": "最近手头的工作太多了，我都忙不过来了。",
           "ru": "В последнее время столько работы — я не успеваю.",
           "tk": "Soňky wagtlarda iş köp — ýetişip bilemok.",
-          "en": "There's too much work lately — I can't keep up."
+          "en": "There's too much work lately — I can't keep up.",
+          "uz": "So'nggi paytlarda ish juda ko'p — ulgura olmayapman.",
+          "tg": "Охирҳо кор бисёр шудааст — ман ба онҳо намерасондам.",
+          "id": "Akhir-akhir ini terlalu banyak pekerjaan — saya tidak bisa mengikutinya."
         },
         {
           "zh": "天慢慢地亮起来了。",
           "ru": "Небо постепенно светлело.",
           "tk": "Asman kem-kemden ýagtyldy.",
-          "en": "The sky gradually brightened."
+          "en": "The sky gradually brightened.",
+          "uz": "Osmon asta-sekin yorishdi.",
+          "tg": "Осмон тадриҷан равшан шуд.",
+          "id": "Langit perlahan-lahan menjadi terang."
         },
         {
           "zh": "他醒过来了，第一句话就是问妈妈。",
           "ru": "Он пришёл в себя и первым делом спросил о маме.",
           "tk": "Ol huşuna gelip, ilkinji soragy ejesi barada boldy.",
-          "en": "Coming to, his first question was about his mother."
+          "en": "Coming to, his first question was about his mother.",
+          "uz": "O'ziga kelgach, birinchi savoli onasi haqida bo'ldi.",
+          "tg": "Ба худ омада, аввалин саволаш дар бораи модараш буд.",
+          "id": "Saat sadar, pertanyaan pertamanya adalah tentang ibunya."
         },
         {
           "zh": "我从睡梦中惊醒过来。",
           "ru": "Я внезапно проснулся от сна.",
           "tk": "Men birden ukudan oýandym.",
-          "en": "I suddenly woke up from a dream."
+          "en": "I suddenly woke up from a dream.",
+          "uz": "Men to'satdan tushdan uyg'onib ketdim.",
+          "tg": "Ман ногаҳон аз хоб бедор шудам.",
+          "id": "Saya tiba-tiba terbangun dari mimpi."
         },
         {
           "zh": "喝了杯咖啡，我才慢慢清醒过来。",
           "ru": "Выпив чашку кофе, я постепенно пришёл в себя.",
           "tk": "Bir käse kofe içip, men kem-kemden özüme geldim.",
-          "en": "After a cup of coffee, I gradually came to."
+          "en": "After a cup of coffee, I gradually came to.",
+          "uz": "Bir piyola qahvadan so'ng, men asta-sekin o'zimga keldim.",
+          "tg": "Баъди як пиёла қаҳва, ман тадриҷан ба худ омадам.",
+          "id": "Setelah secangkir kopi, saya perlahan-lahan sadar kembali."
         },
         {
           "zh": "忙不过来的话，可以请个帮手。",
           "ru": "Если не успеваешь — найми помощника.",
           "tk": "Ýetişip bilmeseň — kömekçi tut.",
-          "en": "If you can't manage, hire a helper."
+          "en": "If you can't manage, hire a helper.",
+          "uz": "Agar o'zingiz uddalay olmasangiz, yordamchi yollang.",
+          "tg": "Агар ту натавонӣ, ёрдамчӣ киро кун.",
+          "id": "Jika kamu tidak bisa mengurusnya, pekerjakan seorang pembantu."
         }
       ],
       "formula": {
@@ -585,68 +748,101 @@
       "explanation": {
         "ru": "«所» перед глаголом — субстантивирует конструкцию; также «有/无+所+动词».",
         "tk": "«所» işlikden öň — gurluşy atlaşdyrýar.",
-        "en": "'所' before verbs nominalizes; also '有/无 + 所 + verb'."
+        "en": "'所' before verbs nominalizes; also '有/无 + 所 + verb'.",
+        "uz": "'所' fe'llar oldidan kelib ularni otlashtiradi; shuningdek '有/无 + 所 + fe'l'.",
+        "tg": "'所' пеш аз феълҳо онро ба исм табдил медиҳад; инчунин '有/无 + 所 + феъл'.",
+        "id": "'所' sebelum kata kerja menominalkan; juga '有/无 + 所 + kata kerja'."
       },
       "examples": [
         {
           "zh": "山水画所表现的是人与自然的关系。",
           "ru": "Пейзажная живопись выражает отношение человека к природе.",
           "tk": "Peýzaž suraty adamyň tebigat bilen gatnaşygyny beýan edýär.",
-          "en": "Landscape painting expresses the relationship of humans to nature."
+          "en": "Landscape painting expresses the relationship of humans to nature.",
+          "uz": "Manzara rasmi insonning tabiat bilan munosabatini ifodalaydi.",
+          "tg": "Расми манзара муносибати инсонро бо табиат ифода мекунад.",
+          "id": "Lukisan pemandangan mengekspresikan hubungan manusia dengan alam."
         },
         {
           "zh": "人们对自然醒与被闹钟铃声叫醒所产生的反应是很不相同的。",
           "ru": "Реакции на естественное пробуждение и на будильник сильно различаются.",
           "tk": "Tebigy oýanmak we jaňly sagat bilen oýanmak täsirleri düýbünden tapawutly.",
-          "en": "Reactions to natural waking vs alarm waking are very different."
+          "en": "Reactions to natural waking vs alarm waking are very different.",
+          "uz": "Tabiiy uyg'onish va budilnik bilan uyg'onishga bo'lgan munosabat juda farq qiladi.",
+          "tg": "Вокуниш ба бедоршавии табиӣ ва бедоршавӣ бо зангӣ хеле фарқ мекунад.",
+          "id": "Reaksi terhadap bangun secara alami vs bangun karena alarm sangat berbeda."
         },
         {
           "zh": "调查显示，随着年龄的增大，女性的职场幸福感有所提高。",
           "ru": "Исследование показывает: с возрастом ощущение счастья у работающих женщин растёт.",
           "tk": "Barlag görkezýär: ýaş ulaldykça işleýän aýallaryň bagtlylyk duýgusy ýokarlanýar.",
-          "en": "Research shows women's workplace happiness rises with age."
+          "en": "Research shows women's workplace happiness rises with age.",
+          "uz": "Tadqiqotlar shuni ko'rsatadiki, ayollarning ish joyidagi baxti yoshi bilan ortadi.",
+          "tg": "Тадқиқот нишон медиҳад, ки хушбахтии занон дар ҷои кор бо синну сол афзоиш меёбад.",
+          "id": "Penelitian menunjukkan kebahagiaan perempuan di tempat kerja meningkat seiring bertambahnya usia."
         },
         {
           "zh": "我和李阳是无所不谈的好朋友。",
           "ru": "Мы с Ли Яном друзья — говорим обо всём.",
           "tk": "Men Li Ýan bilen dost — hemme zat barada gürleşýäris.",
-          "en": "Li Yang and I are friends who talk about everything."
+          "en": "Li Yang and I are friends who talk about everything.",
+          "uz": "Li Yang va men hamma narsa haqida gaplashadigan do'stlarmiz.",
+          "tg": "Ли Ян ва ман дӯстоне ҳастем, ки дар бораи ҳама чиз сӯҳбат мекунем.",
+          "id": "Li Yang dan saya adalah teman yang membicarakan segala hal."
         },
         {
           "zh": "来自北京一所大学的学生做了关于这个问题的实验。",
           "ru": "Студенты одного пекинского вуза провели эксперимент по этому вопросу.",
           "tk": "Pekiniň bir uniwersitetiniň okuwçylary bu meselede synag geçirdiler.",
-          "en": "Students from a Beijing university conducted an experiment on this."
+          "en": "Students from a Beijing university conducted an experiment on this.",
+          "uz": "Pekin universiteti talabalari bu borada tajriba o'tkazdilar.",
+          "tg": "Донишҷӯёни як донишгоҳи Пекин дар ин бора таҷриба гузарониданд.",
+          "id": "Mahasiswa dari sebuah universitas di Beijing melakukan eksperimen tentang ini."
         },
         {
           "zh": "学校附近就有一所幼儿园。",
           "ru": "Рядом со школой есть детский сад.",
           "tk": "Mekdebiň golaýynda bir çagalar bagy bar.",
-          "en": "There's a kindergarten near the school."
+          "en": "There's a kindergarten near the school.",
+          "uz": "Maktab yaqinida bolalar bog'chasi bor.",
+          "tg": "Дар назди мактаб як боғчаи кӯдакон ҳаст.",
+          "id": "Ada taman kanak-kanak di dekat sekolah."
         },
         {
           "zh": "我所知道的就是这些。",
           "ru": "Это всё, что я знаю.",
           "tk": "Bilýän zadym şulardan ybarat.",
-          "en": "That's all I know."
+          "en": "That's all I know.",
+          "uz": "Men bilganim shu.",
+          "tg": "Ҳамин қадар медонам.",
+          "id": "Itu saja yang saya tahu."
         },
         {
           "zh": "有所准备，才不至于慌张。",
           "ru": "Подготовишься — не растеряешься.",
           "tk": "Taýýarlykly bolsaň, howsala düşmersiň.",
-          "en": "Be prepared, and you won't panic."
+          "en": "Be prepared, and you won't panic.",
+          "uz": "Tayyor bo'lsang, vahima qilmaysan.",
+          "tg": "Омода бош, ва ҳайрон намешавӣ.",
+          "id": "Bersiaplah, dan kamu tidak akan panik."
         },
         {
           "zh": "他这个人真是无所不能。",
           "ru": "Он действительно умеет всё.",
           "tk": "Ol hakykatdan hemme zady başarýar.",
-          "en": "He really can do anything."
+          "en": "He really can do anything.",
+          "uz": "U haqiqatan ham hamma narsani qila oladi.",
+          "tg": "Вай воқеан ҳама корро карда метавонад.",
+          "id": "Dia benar-benar bisa melakukan apa saja."
         },
         {
           "zh": "这所学校有三千多名学生。",
           "ru": "В этой школе более трёх тысяч учеников.",
           "tk": "Bu mekdepde üç müňden gowrak okuwçy bar.",
-          "en": "This school has over three thousand students."
+          "en": "This school has over three thousand students.",
+          "uz": "Bu maktabda uch mingdan ortiq o'quvchi bor.",
+          "tg": "Ин мактаб зиёда аз се ҳазор донишҷӯ дорад.",
+          "id": "Sekolah ini memiliki lebih dari tiga ribu siswa."
         }
       ],
       "formula": {
@@ -717,68 +913,101 @@
       "explanation": {
         "ru": "«相当» — «равняться»; как наречие — «довольно, значительно».",
         "tk": "«相当» — «deň bolmak»; hal hökmünde «birneme, gaty».",
-        "en": "'相当' — 'to be equal'; adv. 'quite, fairly'."
+        "en": "'相当' — 'to be equal'; adv. 'quite, fairly'.",
+        "uz": "'相当' — 'teng bo'lmoq'; ravish 'ancha, bir qadar'.",
+        "tg": "'相当' — 'баробар будан'; зарф. 'хеле, нисбатан'.",
+        "id": "'相当' — 'sama dengan'; adv. 'cukup, agak'."
       },
       "examples": [
         {
           "zh": "这些能力最多为正常状态的65%，与醉酒者相当。",
           "ru": "Эти способности — максимум 65% от нормы, как у пьяного.",
           "tk": "Bu ukyplar kadalyň 65%-i — serhoş ýaly.",
-          "en": "These abilities at most reach 65% of normal — like a drunk person."
+          "en": "These abilities at most reach 65% of normal — like a drunk person.",
+          "uz": "Bu qobiliyatlar ko'pi bilan normaning 65%iga yetadi — xuddi mast odamnikidek.",
+          "tg": "Ин қобилиятҳо ҳадди аксар ба 65% аз меъёр мерасанд — мисли одами маст.",
+          "id": "Kemampuan ini paling banyak mencapai 65% dari normal — seperti orang mabuk."
         },
         {
           "zh": "这种鸟一天所食的害虫相当于自己的体重。",
           "ru": "Эта птица съедает за день вредителей, равных по весу ей самой.",
           "tk": "Bu guş bir günde öz agramyna deň zyýankeş iýýär.",
-          "en": "This bird eats pests equal to its own body weight daily."
+          "en": "This bird eats pests equal to its own body weight daily.",
+          "uz": "Bu qush har kuni o'z vazniga teng zararkunandalarni yeydi.",
+          "tg": "Ин парранда ҳар рӯз ҳашароти зараррасонро ба андозаи вазни бадани худ мехӯрад.",
+          "id": "Burung ini memakan hama sebanyak berat tubuhnya sendiri setiap hari."
         },
         {
           "zh": "菜的味道好极了，服务也挺周到，我相当满意。",
           "ru": "Еда превосходна, обслуживание внимательное — я вполне доволен.",
           "tk": "Naharlar örän gowy, hyzmaty hem ünsli — men gaty kanagatlandym.",
-          "en": "The food is great, service attentive — I'm quite satisfied."
+          "en": "The food is great, service attentive — I'm quite satisfied.",
+          "uz": "Ovqat ajoyib, xizmat e'tiborli — men juda mamnunman.",
+          "tg": "Хӯрок олӣ, хизматрасонӣ бодиққат — ман хеле қаноатмандам.",
+          "id": "Makanannya enak, pelayanannya ramah — saya cukup puas."
         },
         {
           "zh": "如果要问人们选择职业时主要考虑的是什么，有相当一部分人会以收入多少作为标准。",
           "ru": "Если спросить, что главное при выборе профессии, значительная часть назовёт доход.",
           "tk": "Kär saýlanyňda iň möhüm zat näme diýip sorasaň, köpler girdejäni aýdarlar.",
-          "en": "Asked what's key in choosing a career, quite a few cite income."
+          "en": "Asked what's key in choosing a career, quite a few cite income.",
+          "uz": "Kasb tanlashda nima muhim deb so'ralganda, ko'pchilik daromadni tilga oladi.",
+          "tg": "Вақте пурсиданд, ки ҳангоми интихоби касб чӣ муҳим аст, чанде аз одамон даромадро зикр карданд.",
+          "id": "Ketika ditanya apa yang penting dalam memilih karier, cukup banyak yang menyebut penghasilan."
         },
         {
           "zh": "这里的学习压力相当大。",
           "ru": "Здесь учебная нагрузка довольно большая.",
           "tk": "Bu ýerdäki okuw basyşy birneme güýçli.",
-          "en": "The academic pressure here is quite high."
+          "en": "The academic pressure here is quite high.",
+          "uz": "Bu yerda akademik bosim ancha yuqori.",
+          "tg": "Фишори таълимӣ дар ин ҷо хеле баланд аст.",
+          "id": "Tekanan akademis di sini cukup tinggi."
         },
         {
           "zh": "他汉语说得相当流利。",
           "ru": "Он говорит по-китайски довольно бегло.",
           "tk": "Ol hytaýça birneme suwara gürleýär.",
-          "en": "He speaks Chinese quite fluently."
+          "en": "He speaks Chinese quite fluently.",
+          "uz": "U xitoy tilida ancha ravon gapiradi.",
+          "tg": "Вай забони чинӣро хеле равон ҳарф мезанад.",
+          "id": "Dia berbicara bahasa Mandarin dengan cukup lancar."
         },
         {
           "zh": "这两个城市面积相当。",
           "ru": "Эти два города по площади равны.",
           "tk": "Bu iki şäheriň meýdany deň.",
-          "en": "The two cities are equal in area."
+          "en": "The two cities are equal in area.",
+          "uz": "Ikki shahar maydoni bo'yicha teng.",
+          "tg": "Ду шаҳр аз рӯи масоҳат баробаранд.",
+          "id": "Kedua kota itu sama luas."
         },
         {
           "zh": "水平相当的两个队比赛最精彩。",
           "ru": "Самые зрелищные матчи — между равными командами.",
           "tk": "Deň derejeli iki toparyň oýny iň gyzykly.",
-          "en": "Matches between equal teams are most exciting."
+          "en": "Matches between equal teams are most exciting.",
+          "uz": "Teng jamoalar o'rtasidagi o'yinlar eng qiziqarli.",
+          "tg": "Бозиҳо байни дастаҳои баробар ҳаяҷоновартаринанд.",
+          "id": "Pertandingan antara tim yang seimbang paling seru."
         },
         {
           "zh": "这次活动的规模相当大。",
           "ru": "Масштаб этого мероприятия довольно большой.",
           "tk": "Bu çäräniň gerimi birneme uly.",
-          "en": "This event is fairly large-scale."
+          "en": "This event is fairly large-scale.",
+          "uz": "Bu tadbir ancha keng ko'lamli.",
+          "tg": "Ин чорабинӣ нисбатан калонҳаҷм аст.",
+          "id": "Acara ini cukup besar skalanya."
         },
         {
           "zh": "他的病相当严重，得住院。",
           "ru": "Он довольно серьёзно болен — нужно лечь в больницу.",
           "tk": "Onuň keseli birneme agyr — hassahanada ýatmaly.",
-          "en": "He's quite seriously ill — needs hospitalization."
+          "en": "He's quite seriously ill — needs hospitalization.",
+          "uz": "U ancha og'ir kasal — kasalxonaga yotqizish kerak.",
+          "tg": "Ӯ хеле вазнин бемор аст — ба беморхона бистарӣ шудан лозим аст.",
+          "id": "Dia sakit cukup serius — perlu dirawat di rumah sakit."
         }
       ],
       "formula": {
@@ -850,68 +1079,101 @@
       "explanation": {
         "ru": "«数» — «считать»; «数(shù)» — «несколько»; «数一数二» — «один из лучших».",
         "tk": "«数» — «sanamak»; «数(shù)» — «birnäçe».",
-        "en": "'数(shǔ)' — 'to count'; '数(shù)' — 'several'."
+        "en": "'数(shǔ)' — 'to count'; '数(shù)' — 'several'.",
+        "uz": "'数(shǔ)' — 'sanamoq'; '数(shù)' — 'bir nechta'.",
+        "tg": "'数(shǔ)' — 'шумурдан'; '数(shù)' — 'якчанд'.",
+        "id": "'数(shǔ)' — 'menghitung'; '数(shù)' — 'beberapa'."
       },
       "examples": [
         {
           "zh": "我大概数了一下，车上有32个学生。",
           "ru": "Я примерно посчитал — в автобусе 32 студента.",
           "tk": "Men takmynan sanadym — awtobusda 32 okuwçy bar.",
-          "en": "I roughly counted — 32 students on the bus."
+          "en": "I roughly counted — 32 students on the bus.",
+          "uz": "Taxminan sanadim — avtobusda 32 nafar o'quvchi bor.",
+          "tg": "Ман тақрибан ҳисоб кардам — 32 донишҷӯ дар автобус.",
+          "id": "Saya kira-kira menghitung — 32 siswa di bus."
         },
         {
           "zh": "先生，这是找您的钱，58块6，您数数。",
           "ru": "Господин, ваша сдача — 58 юаней 60, посчитайте.",
           "tk": "Jenap, gaýtargy pulyňyz — 58 ýuwan 60, sanap al.",
-          "en": "Sir, your change — 58.6 yuan, please count."
+          "en": "Sir, your change — 58.6 yuan, please count.",
+          "uz": "Janob, qaytimingiz — 58.6 yuan, iltimos, sanab oling.",
+          "tg": "Ҷаноб, боқимондаи пули шумо — 58.6 юан, лутфан ҳисоб кунед.",
+          "id": "Pak, kembalian Anda — 58,6 yuan, silakan hitung."
         },
         {
           "zh": "我觉得北京最美、最有名气的公园要数颐和园了。",
           "ru": "Самый красивый и известный пекинский парк — Ихэюань.",
           "tk": "Pekiniň iň owadan we meşhur seýilgähi — Iheýuan.",
-          "en": "Beijing's most beautiful and famous park is the Summer Palace."
+          "en": "Beijing's most beautiful and famous park is the Summer Palace.",
+          "uz": "Pekinning eng go'zal va mashhur bog'i — Yozgi saroy.",
+          "tg": "Зеботарин ва машҳуртарин боғи Пекин Қасри Тобистонӣ аст.",
+          "id": "Taman paling indah dan terkenal di Beijing adalah Istana Musim Panas."
         },
         {
           "zh": "要说我们班跑得最快的，那就数李阳了。",
           "ru": "Самый быстрый бегун в нашем классе — Ли Ян.",
           "tk": "Synpymyzda iň çalt ylgayan — Li Ýan.",
-          "en": "The fastest runner in our class is Li Yang."
+          "en": "The fastest runner in our class is Li Yang.",
+          "uz": "Sinfimizdagi eng tez yuguruvchi — Li Yang.",
+          "tg": "Тезтарин даванда дар синфи мо Ли Ян аст.",
+          "id": "Pelari tercepat di kelas kami adalah Li Yang."
         },
         {
           "zh": "这里夏季的雷阵雨一般可持续数小时。",
           "ru": "Летние грозы здесь обычно идут несколько часов.",
           "tk": "Bu ýerde tomus ýyldyrymly ýagyşlar birnäçe sagat dowam edýär.",
-          "en": "Summer thunderstorms here typically last several hours."
+          "en": "Summer thunderstorms here typically last several hours.",
+          "uz": "Bu yerda yozgi momaqaldiroqlar odatda bir necha soat davom etadi.",
+          "tg": "Раъду барқи тобистонӣ дар ин ҷо одатан чанд соат давом мекунад.",
+          "id": "Badai petir musim panas di sini biasanya berlangsung beberapa jam."
         },
         {
           "zh": "这种状态如果持续数天、数周、数月，将导致高血压。",
           "ru": "Если это состояние длится дни, недели, месяцы — приводит к гипертонии.",
           "tk": "Bu ýagdaý birnäçe gün, hepde, aý dowam etse — gipertoniýa eltýär.",
-          "en": "If this state lasts days, weeks, months, it leads to hypertension."
+          "en": "If this state lasts days, weeks, months, it leads to hypertension.",
+          "uz": "Agar bu holat kunlar, haftalar, oylar davom etsa, u gipertoniyaga olib keladi.",
+          "tg": "Агар ин ҳолат рӯзҳо, ҳафтаҳо, моҳҳо давом кунад, ба гипертония оварда мерасонад.",
+          "id": "Jika keadaan ini berlangsung berhari-hari, berminggu-minggu, berbulan-bulan, itu menyebabkan hipertensi."
         },
         {
           "zh": "他数不清天上到底有多少星星。",
           "ru": "Он не мог сосчитать, сколько на небе звёзд.",
           "tk": "Ol asmanda näçe ýyldyz bar — sanap bilmedi.",
-          "en": "He couldn't count how many stars were in the sky."
+          "en": "He couldn't count how many stars were in the sky.",
+          "uz": "U osmonda qancha yulduz borligini sanay olmadi.",
+          "tg": "Ӯ наметавонист ҳисоб кунад, ки дар осмон чанд ситора ҳаст.",
+          "id": "Dia tidak bisa menghitung berapa banyak bintang di langit."
         },
         {
           "zh": "这个孩子能从一数到一百。",
           "ru": "Этот ребёнок может считать от одного до ста.",
           "tk": "Bu çaga birden ýüze çenli sanap bilýär.",
-          "en": "This child can count from one to a hundred."
+          "en": "This child can count from one to a hundred.",
+          "uz": "Bu bola birdan yuzgacha sanay oladi.",
+          "tg": "Ин кӯдак метавонад аз як то сад ҳисоб кунад.",
+          "id": "Anak ini bisa menghitung dari satu sampai seratus."
         },
         {
           "zh": "他是我们学校数一数二的好学生。",
           "ru": "Он один из лучших учеников нашей школы.",
           "tk": "Ol mekdebimiziň iň gowy okuwçylaryndan biri.",
-          "en": "He's one of the best students in our school."
+          "en": "He's one of the best students in our school.",
+          "uz": "U maktabimizdagi eng yaxshi o'quvchilardan biri.",
+          "tg": "Ӯ яке аз беҳтарин хонандагони мактаби мост.",
+          "id": "Dia salah satu siswa terbaik di sekolah kami."
         },
         {
           "zh": "数一数，一共几个。",
           "ru": "Посчитай, сколько всего.",
           "tk": "Sanap gör, jemi näçe.",
-          "en": "Count them — how many in total?"
+          "en": "Count them — how many in total?",
+          "uz": "Ularni sanang — jami qancha?",
+          "tg": "Онҳоро ҳисоб кунед — дар маҷмӯъ чандто?",
+          "id": "Hitunglah — berapa jumlah totalnya?"
         }
       ],
       "formula": {
@@ -1022,7 +1284,10 @@
       "common": {
         "ru": "Оба — «продолжаться».",
         "tk": "Ikisi hem «dowam etmek».",
-        "en": "Both mean 'to continue'."
+        "en": "Both mean 'to continue'.",
+        "uz": "Ikkalasi ham 'davom etmoq' ma'nosini bildiradi.",
+        "tg": "Ҳарду маънои 'давом додан'-ро доранд.",
+        "id": "Keduanya berarti 'untuk melanjutkan'."
       },
       "differences": [
         {
@@ -1056,7 +1321,10 @@
         "meaning": {
           "ru": "выдвижной ящик",
           "tk": "çekme",
-          "en": "drawer"
+          "en": "drawer",
+          "uz": "tortma",
+          "tg": "ғалақадон",
+          "id": "laci"
         }
       },
       {
@@ -1065,7 +1333,10 @@
         "meaning": {
           "ru": "книжная полка",
           "tk": "kitap tekjesi",
-          "en": "bookshelf"
+          "en": "bookshelf",
+          "uz": "kitob javoni",
+          "tg": "рафчаи китобҳо",
+          "id": "rak buku"
         }
       },
       {
@@ -1074,7 +1345,10 @@
         "meaning": {
           "ru": "занавеска",
           "tk": "perde",
-          "en": "curtain"
+          "en": "curtain",
+          "uz": "parda",
+          "tg": "парда",
+          "id": "tirai"
         }
       },
       {
@@ -1083,7 +1357,10 @@
         "meaning": {
           "ru": "ковёр",
           "tk": "haly",
-          "en": "carpet"
+          "en": "carpet",
+          "uz": "gilam",
+          "tg": "гилем",
+          "id": "karpet"
         }
       },
       {
@@ -1092,7 +1369,10 @@
         "meaning": {
           "ru": "одеяло",
           "tk": "ýorgan",
-          "en": "quilt"
+          "en": "quilt",
+          "uz": "koʻrpa",
+          "tg": "кӯрпа",
+          "id": "selimut"
         }
       },
       {
@@ -1101,7 +1381,10 @@
         "meaning": {
           "ru": "игрушка",
           "tk": "oýunjak",
-          "en": "toy"
+          "en": "toy",
+          "uz": "oʻyinchoq",
+          "tg": "бозича",
+          "id": "mainan"
         }
       },
       {
@@ -1110,7 +1393,10 @@
         "meaning": {
           "ru": "календарь",
           "tk": "senenama",
-          "en": "calendar"
+          "en": "calendar",
+          "uz": "kalendar",
+          "tg": "тақвим",
+          "id": "kalender"
         }
       },
       {
@@ -1119,7 +1405,10 @@
         "meaning": {
           "ru": "посылка",
           "tk": "bukja",
-          "en": "package"
+          "en": "package",
+          "uz": "paket",
+          "tg": "баста",
+          "id": "paket"
         }
       }
     ]
@@ -1128,7 +1417,10 @@
     "discussion": {
       "ru": "Как вы думаете, нужен ли будильник? Как улучшить качество сна?",
       "tk": "Jaňly sagat zerurmy? Ukynyň hilini nähili gowulandyrmaly?",
-      "en": "Do you think alarm clocks are necessary? How to improve sleep quality?"
+      "en": "Do you think alarm clocks are necessary? How to improve sleep quality?",
+      "uz": "Sizningcha, budilniklar kerakmi? Uyqu sifatini qanday yaxshilash mumkin?",
+      "tg": "Ба фикри шумо, соатҳои зангӣ заруранд? Чӣ тавр сифати хобро беҳтар кардан мумкин аст?",
+      "id": "Menurutmu, apakah jam alarm itu perlu? Bagaimana cara meningkatkan kualitas tidur?"
     }
   },
   "workbook": {

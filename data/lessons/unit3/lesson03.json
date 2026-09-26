@@ -5,7 +5,8 @@
     "tk": "Başgaça Lu Sýun",
     "en": "The Lu Xun You Don't Know",
     "uz": "Boshqacha Lu Sin",
-    "tg": "Лу Син дигар"
+    "tg": "Лу Син дигар",
+    "id": "Lu Xun yang Tidak Anda Kenal"
   },
   "audio_files": {
     "textbook_1": "textbook_1.mp3",
@@ -18,7 +19,10 @@
     "question": {
       "ru": "Кто такой Лу Синь? Что вы о нём знаете?",
       "tk": "Lu Sýun kim? Onuň barada näme bilýärsiňiz?",
-      "en": "Who was Lu Xun? What do you know about him?"
+      "en": "Who was Lu Xun? What do you know about him?",
+      "uz": "Lu Xun kim edi? U haqida nimalarni bilasiz?",
+      "tg": "Лу Син ки буд? Шумо дар бораи ӯ чӣ медонед?",
+      "id": "Siapa Lu Xun? Apa yang kamu ketahui tentang dia?"
     },
     "answers": [
       "鲁迅",
@@ -32,7 +36,10 @@
   "text_translation": {
     "ru": "Гастрономия во многом движима знаменитостями — особенно это проявилось в эпоху Республики. Например, известный писатель Лу Синь был настоящим знатоком еды и питья: не только умел есть, но и сам готовил, имел собственные взгляды на многие блюда. Это стало новой модой. Пекин — город, где Лу Синь долго жил. Судя по его дневникам того периода, он посетил 65 известных ресторанов, а ещё очень любил сладости из «Даосянцунь». Как большой писатель и учёный, Лу Синь был придирчив к еде — еда занимала значительную часть его дневников. Чаще всего он ходил в «Гуанхэцзюй», в среднем раз в неделю. Причина — близость: ресторан был прямо через переулок от его дома. Расположенный у Цайшикоу «Гуанхэцзюй» был первым из «восьми великих ресторанов» Пекина и славился в эпоху Республики. Он не был роскошным, но отлично подходил для встреч и веселья. Особенно радушно принимали литераторов. Внутри были разные комнаты — для одного, для трёх-пяти, для десяти с лишним человек. Это очень устраивало Лу Синя, любившего есть с друзьями. Он был общителен, щедр и гостеприимен, часто звал друзей; обычно ели втроём-впятером, а иногда он заказывал доставку из «Гуанхэцзюй» домой и угощал гостей. Разумеется, главное — там были его любимые блюда: и изысканные, и простые, но всё возбуждало аппетит. Лу Синь также любил выпить. Зная, что у него гастрит, он всё же не мог бросить. Он пил за каждой трапезой. Сохранившиеся исторические материалы говорят, что чаще всего он пил с Юй Дафу. Лу Синь пил немного, но часто напивался, а во время выпивки не выпускал сигарету. Юй Дафу в 1933 году написал стихотворные строки, очень точно описывающие его: «С пьяными глазами поднимается в винный терем, „Скитания“ и „Клич“ — оба вдалеке».",
     "tk": "Azyk-owkat köplenç meşhurlar arkaly ösdürilýär — bu Respublika döwründe aýratyn tapawutly ýüze çykdy. Mysal üçin meşhur ýazyjy Lu Sýun nahar-içgi meselesinde hakyky bilermen bolup, diňe iýmegi bilmän, öz elleri bilen hem bişirýärdi, köp naharlar barada özboluşly pikirleri bardy. Bu şol döwrüň täze modasydy. Pekin — Lu Sýunyň uzak wagtlap ýaşan şäheri. Diňe şol döwürdäki gündeliklerine görä, ol 65 sany meşhur restorana gidipdir, üstesine-de, ol «Dao Sýansun» -yň süýjüligini gaty halaýardy. Uly ýazyjy we alym hökmünde, Lu Sýun iýmit meselesine üns berýärdi — iýmit onuň gündeliginiň aglaba bölegini tutýardy. Ähli restoranlaryň arasynda ol iň köp we iň halap «Guanhoczýuý» -a gidýärdi — ortaça hepdede bir gezek. Lu Sýunyň bu restorana ýygy-ýygydan gitmeginiň esasy sebäbi ýakynlykdy — «Guanhoczýuý» -nyň gapysy hut şol wagtky öýüniň göni garşysyndaky hutunda ýerleşýärdi. Çaişikou töwereginde ýerleşen «Guanhoczýuý» Pekiniň «Sekiz uly restoranynyň» birinjisi bolup, Respublika döwründe gaty meşhurdy. «Guanhoczýuý» haşamly hasaplanmasa-da, dostlaryň ýygnanyp şatlanmagy üçin gaty laýykdy. Ol bu ýerde edebiýatçylary aýratyn mähir bilen garşylaýardy we olaryň ýygnanyşmagy üçin gowy şert döredýärdi. «Guanhoczýuý» -nyň howlusy dürli ululykdaky otaglara bölünipdi — bir adamlyk, üç-bäş adamlyk kiçi ýygnanyşyklar we on adamdan gowrak uly ýygnanyşyklar üçin. Bu Lu Sýunyň dostlary bilen nahar iýmek islegini doly kanagatlandyrýardy. Ol aragatnaşygy söýýärdi, saýy we myhmansöýer bolup, köplenç dostlaryny çagyrýardy — esasan üç-bäş adam bilelikde iýýärdi, käte «Guanhoczýuý» -dan öýüne nahar ýetirip, öýünde dostlaryny myhmançylyk edýärdi. Elbetde, iň möhümi — ol ýerde Lu Sýunyň halaýan naharlary bardy. Ol ýerdäki naharlaryň arasynda ýokary derejeli hem, adaty halk üçin hem bar boldy — hemmesi işdäni açýardy. Lu Sýun hem içmegi halaýardy — aşgazan keseli bardygyny aňk bolup, içmeli däldigini bilse-de, taşlap bilmedi. Ol her naharda içýärdi. Häzir saklanýan taryhy maglumatlara görä, ol iň köp Ýuý Dafu bilen içipdir. Lu Sýun köp içmeýärdi, ýöne ýygy-ýygydan serhoş bolýardy we içen wagty çilimi elinden goýbermeýärdi. Ýuý Dafu 1933-nji ýylda ony beýan edip goşgy ýazdy: «Serhoş gözler bilen meýhanä çykýar, Sargyt we Gygyryk ikisi hem uzakda» — bu gaty şekilli suratlandyryş boldy.",
-    "en": "Gastronomy is largely driven by celebrities — this was especially prominent in the Republican era. For example, the famous writer Lu Xun was a genuine connoisseur of food and drink: not only a gourmet, but a hands-on cook with distinctive views on many dishes. This was a new fashion of the era. Beijing was a city where Lu Xun lived for a long time — from his diaries of that period we see he visited 65 famous restaurants, and he especially loved pastries from 'Daoxiangcun'. As a great writer and scholar, Lu Xun was particular about food — eating filled much of his diaries. Of all the restaurants, he went most often and most fondly to 'Guangheju' — on average once a week. A key reason was proximity: Guangheju was diagonally across the hutong from where he lived. Located near Caishikou, it was the first of Beijing's 'Eight Great Restaurants' and very famous in the Republican era. It wasn't luxurious, but perfectly suited for friends to gather and enjoy. It especially welcomed literati and created fine conditions for their gatherings. The courtyard had rooms of all sizes — for one person, for three to five small gatherings, for ten or more. This fully satisfied Lu Xun's love of dining with friends. Sociable, generous and hospitable, he often called friends together — usually three to five; sometimes he had Guangheju deliver to his home and hosted there. Most importantly, they had his favorite dishes — both high-grade and popular, all appetizing. Lu Xun also loved to drink — though he knew he had a stomach ailment and shouldn't, he couldn't quit. He drank with every meal. Surviving historical records show he drank most often with Yu Dafu. He didn't hold his drink, often got drunk, and kept a cigarette in hand while drinking. Yu Dafu in 1933 described him in verse: 'With drunken, misty eyes he climbs the tavern; Wandering and Call to Arms both drift in the distance' — a very vivid portrait."
+    "en": "Gastronomy is largely driven by celebrities — this was especially prominent in the Republican era. For example, the famous writer Lu Xun was a genuine connoisseur of food and drink: not only a gourmet, but a hands-on cook with distinctive views on many dishes. This was a new fashion of the era. Beijing was a city where Lu Xun lived for a long time — from his diaries of that period we see he visited 65 famous restaurants, and he especially loved pastries from 'Daoxiangcun'. As a great writer and scholar, Lu Xun was particular about food — eating filled much of his diaries. Of all the restaurants, he went most often and most fondly to 'Guangheju' — on average once a week. A key reason was proximity: Guangheju was diagonally across the hutong from where he lived. Located near Caishikou, it was the first of Beijing's 'Eight Great Restaurants' and very famous in the Republican era. It wasn't luxurious, but perfectly suited for friends to gather and enjoy. It especially welcomed literati and created fine conditions for their gatherings. The courtyard had rooms of all sizes — for one person, for three to five small gatherings, for ten or more. This fully satisfied Lu Xun's love of dining with friends. Sociable, generous and hospitable, he often called friends together — usually three to five; sometimes he had Guangheju deliver to his home and hosted there. Most importantly, they had his favorite dishes — both high-grade and popular, all appetizing. Lu Xun also loved to drink — though he knew he had a stomach ailment and shouldn't, he couldn't quit. He drank with every meal. Surviving historical records show he drank most often with Yu Dafu. He didn't hold his drink, often got drunk, and kept a cigarette in hand while drinking. Yu Dafu in 1933 described him in verse: 'With drunken, misty eyes he climbs the tavern; Wandering and Call to Arms both drift in the distance' — a very vivid portrait.",
+    "uz": "Gastronomiya asosan mashhurlar tomonidan boshqariladi — bu ayniqsa Respublika davrida yaqqol namoyon bo'ldi. Masalan, mashhur yozuvchi Lu Xun haqiqiy taom va ichimlik bilimdoni edi: nafaqat gurman, balki ko'plab taomlar haqida o'ziga xos qarashlarga ega bo'lgan amaliy oshpaz ham edi. Bu davrning yangi modasi edi. Pekin Lu Xun uzoq vaqt yashagan shahar edi — o'sha davrdagi kundaliklaridan ko'ramizki, u 65 ta mashhur restoranga tashrif buyurgan va ayniqsa 'Daoxiangcun' pishiriqlarini yaxshi ko'rgan. Buyuk yozuvchi va olim sifatida Lu Xun ovqatga talabchan edi — ovqatlanish uning kundaliklarining katta qismini egallagan. Barcha restoranlar ichida u eng ko'p va eng mehr bilan 'Guangheju'ga borgan — o'rtacha haftada bir marta. Asosiy sabab yaqinlik edi: Guangheju u yashagan joydan xutongning qarshisida joylashgan edi. Caishikou yaqinida joylashgan bu restoran Pekinning 'Sakkiz buyuk restorani'ning birinchisi bo'lib, Respublika davrida juda mashhur edi. U hashamatli emas, lekin do'stlar yig'ilishi va zavqlanishi uchun juda mos edi. U ayniqsa adabiyot ahli uchun qulay bo'lib, ularning yig'ilishlari uchun yaxshi sharoit yaratdi. Hovlida har xil kattalikdagi xonalar bor edi — bir kishi uchun, uch-besh kishilik kichik yig'inlar uchun, o'n yoki undan ko'proq kishi uchun. Bu Lu Xunning do'stlari bilan ovqatlanishni yaxshi ko'rishini to'liq qondirdi. Muloqotchan, saxiy va mehmondo'st bo'lib, u tez-tez do'stlarini chaqirardi — odatda uch-besh kishi; ba'zan Guanghejudan uyiga yetkazib berishni so'rab, u yerda mehmondorchilik qilardi. Eng muhimi, ular uning sevimli taomlariga ega edi — ham yuqori darajali, ham ommabop, barchasi ishtaha ochuvchi. Lu Xun ichishni ham yaxshi ko'rardi — oshqozon kasalligi borligini va ichmasligi kerakligini bilsa-da, tashlay olmadi. U har ovqatda ichardi. Saqlanib qolgan tarixiy yozuvlar uning eng ko'p Yu Dafu bilan ichganini ko'rsatadi. U ichimlikka chidamsiz edi, tez-tez mast bo'lardi va ichayotganda qo'lida sigaret tutardi. Yu Dafu 1933-yilda uni she'rda tasvirlagan: 'Mast, tumanli ko'zlar bilan tavernaga chiqadi; Wandering va Call to Arms ikkisi uzoqda suzib yuradi' — bu juda jonli portret.",
+    "tg": "Гастрономия асосан аз ҷониби шахсиятҳои машҳур роҳбарӣ мешавад — ин хусусан дар давраи Ҷумҳурӣ намоён буд. Масалан, нависандаи машҳур Лу Син як шинохтаи ҳақиқии хӯрок ва нӯшокӣ буд: на танҳо гастроном, балки ошпази амалӣ бо ақидаҳои хос дар бораи бисёр таомҳо. Ин як мӯди нави он давра буд. Пекин шаҳре буд, ки Лу Син муддати тӯлонӣ дар он зиндагӣ мекард — аз рӯзномаҳои ӯ дар он давра мебинем, ки вай ба 65 тарабхонаи машҳур рафтааст ва махсусан шириниҳои 'Даосянцун'-ро дӯст медошт. Ҳамчун нависанда ва олими бузург, Лу Син дар бораи хӯрок интихобкор буд — хӯрдан қисми зиёди рӯзномаҳои ӯро пур мекард. Аз ҳамаи тарабхонаҳо, вай бештар ва бо муҳаббати бештар ба 'Гуанхэцзю' мерафт — ба ҳисоби миёна ҳафтае як маротиба. Сабаби асосӣ наздикӣ буд: Гуанхэцзю дар тарафи муқобили хутӯн аз ҷое, ки вай зиндагӣ мекард, ҷойгир буд. Дар наздикии Цайшикоу ҷойгир буда, он аввалини 'Ҳашт тарабхонаи бузурги' Пекин буд ва дар давраи Ҷумҳурӣ хеле машҳур буд. Он боҳашамат набуд, аммо барои ҷамъ омадан ва лаззат бурдани дӯстон комилан мувофиқ буд. Он махсусан аҳли адабро истиқбол мекард ва барои ҷамъомадҳои онҳо шароити хуб фароҳам меовард. Ҳавлӣ ҳуҷраҳои ҳама гуна андоза дошт — барои як нафар, барои ҷамъомадҳои се то панҷ нафарӣ, барои даҳ ё бештар. Ин хоҳиши Лу Синро барои хӯрок хӯрдан бо дӯстон пурра қонеъ мекард. Ҷамъиятӣ, саховатманд ва меҳмоннавоз, вай аксар вақт дӯстонро даъват мекард — одатан се то панҷ нафар; баъзан Гуанхэцзюро ба хонааш мефиристод ва дар он ҷо мизбонӣ мекард. Муҳимтарин, онҳо таомҳои дӯстдоштаи ӯро доштанд — ҳам дараҷаи баланд ва ҳам маъмул, ҳама иштиҳоангез. Лу Син инчунин нӯшокиро дӯст медошт — гарчанде медонист, ки бемории меъда дорад ва набояд нӯшад, наметавонист тарк кунад. Вай бо ҳар хӯрок менӯшид. Сабтҳои таърихии боқимонда нишон медиҳанд, ки вай бештар бо Юй Дафу менӯшид. Вай нӯшокиро тоб намеовард, аксар вақт маст мешуд ва ҳангоми нӯшидан сигор дар даст дошт. Юй Дафу дар соли 1933 ӯро дар шеър тасвир кардааст: 'Бо чашмони маст ва туманнок ба майхона мебарояд; Саргардонӣ ва Даъват ба силоҳ ҳарду дар дурӣ шино мекунанд' — як тасвири хеле равшан.",
+    "id": "Gastronomi sebagian besar didorong oleh selebriti — ini sangat menonjol pada era Republik. Misalnya, penulis terkenal Lu Xun adalah seorang penikmat makanan dan minuman sejati: bukan hanya seorang gourmet, tetapi juga juru masak yang terampil dengan pandangan khas tentang banyak hidangan. Ini adalah mode baru pada era itu. Beijing adalah kota tempat Lu Xun lama tinggal — dari buku hariannya pada periode itu kita melihat ia mengunjungi 65 restoran terkenal, dan ia sangat menyukai kue dari 'Daoxiangcun'. Sebagai penulis dan cendekiawan besar, Lu Xun sangat teliti soal makanan — makan mengisi sebagian besar buku hariannya. Dari semua restoran, ia paling sering dan paling suka pergi ke 'Guangheju' — rata-rata sekali seminggu. Alasan utamanya adalah kedekatan: Guangheju berada di seberang hutong dari tempat tinggalnya. Terletak dekat Caishikou, restoran itu adalah yang pertama dari 'Delapan Restoran Besar' Beijing dan sangat terkenal pada era Republik. Tempat itu tidak mewah, tetapi sangat cocok untuk berkumpul dan bersenang-senang bersama teman. Restoran itu khususnya menyambut para sastrawan dan menciptakan kondisi yang baik untuk pertemuan mereka. Halamannya memiliki ruangan berbagai ukuran — untuk satu orang, untuk pertemuan kecil tiga sampai lima orang, untuk sepuluh orang atau lebih. Ini sepenuhnya memenuhi kegemaran Lu Xun makan bersama teman. Ramah, dermawan, dan suka menjamu, ia sering mengundang teman-teman berkumpul — biasanya tiga sampai lima orang; kadang ia meminta Guangheju mengantar ke rumahnya dan menjamu di sana. Yang terpenting, mereka memiliki hidangan favoritnya — baik kelas tinggi maupun populer, semuanya menggugah selera. Lu Xun juga suka minum — meskipun ia tahu ia memiliki penyakit lambung dan seharusnya tidak minum, ia tidak bisa berhenti. Ia minum pada setiap makan. Catatan sejarah yang masih ada menunjukkan ia paling sering minum bersama Yu Dafu. Ia tidak tahan minum, sering mabuk, dan tetap memegang rokok saat minum. Yu Dafu pada 1933 menggambarkannya dalam syair: 'Dengan mata mabuk dan berkabut ia menaiki kedai minum; Wandering dan Call to Arms keduanya mengapung di kejauhan' — potret yang sangat hidup."
   },
   "vocabulary": [
     {
@@ -42,7 +49,10 @@
       "meaning": {
         "ru": "проявлять; проявление",
         "tk": "görkezmek",
-        "en": "to display"
+        "en": "to display",
+        "uz": "namoyish qilmoq",
+        "tg": "нишон додан",
+        "id": "menampilkan"
       }
     },
     {
@@ -52,7 +62,10 @@
       "meaning": {
         "ru": "выдающийся, заметный",
         "tk": "tapawutly",
-        "en": "prominent"
+        "en": "prominent",
+        "uz": "taniqli",
+        "tg": "машҳур",
+        "id": "terkemuka"
       }
     },
     {
@@ -62,7 +75,10 @@
       "meaning": {
         "ru": "литератор",
         "tk": "edebiýatçy",
-        "en": "writer"
+        "en": "writer",
+        "uz": "yozuvchi",
+        "tg": "нависанда",
+        "id": "penulis"
       }
     },
     {
@@ -72,7 +88,10 @@
       "meaning": {
         "ru": "считать(ся)",
         "tk": "hasaplamak",
-        "en": "to count as"
+        "en": "to count as",
+        "uz": "hisoblanmoq",
+        "tg": "ҳисобидан",
+        "id": "dianggap sebagai"
       }
     },
     {
@@ -82,7 +101,10 @@
       "meaning": {
         "ru": "настоящий, подлинный",
         "tk": "hakyky",
-        "en": "genuine"
+        "en": "genuine",
+        "uz": "haqiqiy",
+        "tg": "ҳақиқӣ",
+        "id": "asli"
       }
     },
     {
@@ -92,7 +114,10 @@
       "meaning": {
         "ru": "эксперт, знаток",
         "tk": "bilermen",
-        "en": "expert"
+        "en": "expert",
+        "uz": "mutaxassis",
+        "tg": "мутахассис",
+        "id": "ahli"
       }
     },
     {
@@ -102,7 +127,10 @@
       "meaning": {
         "ru": "лично",
         "tk": "özüň",
-        "en": "personally"
+        "en": "personally",
+        "uz": "shaxsan",
+        "tg": "шахсан",
+        "id": "secara pribadi"
       }
     },
     {
@@ -112,7 +140,10 @@
       "meaning": {
         "ru": "мнение, взгляд",
         "tk": "pikir",
-        "en": "opinion"
+        "en": "opinion",
+        "uz": "fikr",
+        "tg": "фикр",
+        "id": "pendapat"
       }
     },
     {
@@ -122,7 +153,10 @@
       "meaning": {
         "ru": "новая история",
         "tk": "häzirki döwür",
-        "en": "modern times"
+        "en": "modern times",
+        "uz": "zamonaviy davr",
+        "tg": "замони муосир",
+        "id": "zaman modern"
       }
     },
     {
@@ -132,7 +166,10 @@
       "meaning": {
         "ru": "мода",
         "tk": "moda",
-        "en": "fashion"
+        "en": "fashion",
+        "uz": "moda",
+        "tg": "мода",
+        "id": "mode"
       }
     },
     {
@@ -142,7 +179,10 @@
       "meaning": {
         "ru": "писать",
         "tk": "ýazmak",
-        "en": "to write"
+        "en": "to write",
+        "uz": "yozmoq",
+        "tg": "навиштан",
+        "id": "menulis"
       }
     },
     {
@@ -152,7 +192,10 @@
       "meaning": {
         "ru": "закуска, десерт",
         "tk": "süýjülik",
-        "en": "dessert"
+        "en": "dessert",
+        "uz": "desert",
+        "tg": "десерт",
+        "id": "hidangan penutup"
       }
     },
     {
@@ -162,7 +205,10 @@
       "meaning": {
         "ru": "быть, как",
         "tk": "hökmünde",
-        "en": "as, being"
+        "en": "as, being",
+        "uz": "sifatida, bo'lib",
+        "tg": "ҳамчун, будан",
+        "id": "sebagai, menjadi"
       }
     },
     {
@@ -172,7 +218,10 @@
       "meaning": {
         "ru": "эрудиция, знания",
         "tk": "bilim",
-        "en": "knowledge"
+        "en": "knowledge",
+        "uz": "bilim",
+        "tg": "дониш",
+        "id": "pengetahuan"
       }
     },
     {
@@ -182,7 +231,10 @@
       "meaning": {
         "ru": "разбираться, придавать значение",
         "tk": "üns bermek",
-        "en": "to be particular about"
+        "en": "to be particular about",
+        "uz": "talab qilmoq",
+        "tg": "диққат додан ба",
+        "id": "rewel soal"
       }
     },
     {
@@ -192,7 +244,10 @@
       "meaning": {
         "ru": "в среднем",
         "tk": "ortaça",
-        "en": "average"
+        "en": "average",
+        "uz": "o'rtacha",
+        "tg": "миёна",
+        "id": "rata-rata"
       }
     },
     {
@@ -202,7 +257,10 @@
       "meaning": {
         "ru": "хутун, переулок",
         "tk": "hutun (köçe)",
-        "en": "alley"
+        "en": "alley",
+        "uz": "yo'lak",
+        "tg": "кӯча",
+        "id": "gang"
       }
     },
     {
@@ -212,7 +270,10 @@
       "meaning": {
         "ru": "находиться",
         "tk": "ýerleşmek",
-        "en": "to be located"
+        "en": "to be located",
+        "uz": "joylashgan bo'lmoq",
+        "tg": "ҷойгир шудан",
+        "id": "terletak"
       }
     },
     {
@@ -222,7 +283,10 @@
       "meaning": {
         "ru": "первый; счётное слово для песен/стихов",
         "tk": "birinji; goşgy üçin san sözi",
-        "en": "first; MW for songs/poems"
+        "en": "first; MW for songs/poems",
+        "uz": "birinchi; qo'shiq/she'r uchun o'lchov birligi",
+        "tg": "аввал; воҳиди ченак барои сурудҳо/шеърҳо",
+        "id": "pertama; kata bantu bilangan untuk lagu/puisi"
       }
     },
     {
@@ -232,7 +296,10 @@
       "meaning": {
         "ru": "роскошный",
         "tk": "haşamly",
-        "en": "luxurious"
+        "en": "luxurious",
+        "uz": "hashamatli",
+        "tg": "боҳашамат",
+        "id": "mewah"
       }
     },
     {
@@ -242,7 +309,10 @@
       "meaning": {
         "ru": "посещать (вежл.)",
         "tk": "gulmek",
-        "en": "to visit"
+        "en": "to visit",
+        "uz": "tashrif buyurmoq",
+        "tg": "дидан",
+        "id": "mengunjungi"
       }
     },
     {
@@ -252,7 +322,10 @@
       "meaning": {
         "ru": "общение",
         "tk": "aragatnaşyk",
-        "en": "social contact"
+        "en": "social contact",
+        "uz": "ijtimoiy aloqa",
+        "tg": "муоширати иҷтимоӣ",
+        "id": "kontak sosial"
       }
     },
     {
@@ -262,7 +335,10 @@
       "meaning": {
         "ru": "щедрый",
         "tk": "saýy",
-        "en": "generous"
+        "en": "generous",
+        "uz": "saxiy",
+        "tg": "саховатманд",
+        "id": "dermawan"
       }
     },
     {
@@ -272,7 +348,10 @@
       "meaning": {
         "ru": "гостеприимный",
         "tk": "myhmansöýer",
-        "en": "hospitable"
+        "en": "hospitable",
+        "uz": "mehmondo'st",
+        "tg": "меҳмоннавоз",
+        "id": "ramah"
       }
     },
     {
@@ -282,7 +361,10 @@
       "meaning": {
         "ru": "созывать друзей",
         "tk": "dostlary çagyrmak",
-        "en": "to call friends together"
+        "en": "to call friends together",
+        "uz": "do'stlarni chaqirmoq",
+        "tg": "дӯстонро даъват кардан",
+        "id": "memanggil teman-teman bersama"
       }
     },
     {
@@ -292,7 +374,10 @@
       "meaning": {
         "ru": "угощать, принимать",
         "tk": "kabul etmek",
-        "en": "to entertain"
+        "en": "to entertain",
+        "uz": "mehmon qilmoq",
+        "tg": "зиёфат кардан",
+        "id": "menghibur"
       }
     },
     {
@@ -302,7 +387,10 @@
       "meaning": {
         "ru": "высококлассный",
         "tk": "ýokary derejeli",
-        "en": "high-grade"
+        "en": "high-grade",
+        "uz": "yuqori sifatli",
+        "tg": "баландсифат",
+        "id": "bermutu tinggi"
       }
     },
     {
@@ -312,7 +400,10 @@
       "meaning": {
         "ru": "аппетит",
         "tk": "işdä",
-        "en": "appetite"
+        "en": "appetite",
+        "uz": "ishtaha",
+        "tg": "иштиҳо",
+        "id": "selera makan"
       }
     },
     {
@@ -322,7 +413,10 @@
       "meaning": {
         "ru": "явно, совершенно точно",
         "tk": "elbetde",
-        "en": "obviously"
+        "en": "obviously",
+        "uz": "shubhasiz",
+        "tg": "албатта",
+        "id": "jelas"
       }
     },
     {
@@ -332,7 +426,10 @@
       "meaning": {
         "ru": "желудок",
         "tk": "aşgazan",
-        "en": "stomach"
+        "en": "stomach",
+        "uz": "oshqozon",
+        "tg": "меъда",
+        "id": "perut"
       }
     },
     {
@@ -342,7 +439,10 @@
       "meaning": {
         "ru": "бросить (привычку)",
         "tk": "taşlamak",
-        "en": "to give up"
+        "en": "to give up",
+        "uz": "voz kechmoq",
+        "tg": "даст кашидан",
+        "id": "menyerah"
       }
     },
     {
@@ -352,7 +452,10 @@
       "meaning": {
         "ru": "хранить, сохранять",
         "tk": "saklamak",
-        "en": "to keep"
+        "en": "to keep",
+        "uz": "saqlamoq",
+        "tg": "нигоҳ доштан",
+        "id": "untuk menyimpan"
       }
     },
     {
@@ -362,7 +465,10 @@
       "meaning": {
         "ru": "материалы, данные",
         "tk": "maglumat",
-        "en": "data, material"
+        "en": "data, material",
+        "uz": "ma'lumot, material",
+        "tg": "маълумот, мавод",
+        "id": "data, materi"
       }
     },
     {
@@ -372,7 +478,10 @@
       "meaning": {
         "ru": "когда-то, раньше",
         "tk": "bir wagtlar",
-        "en": "once, in the past"
+        "en": "once, in the past",
+        "uz": "bir vaqtlar, o'tmishda",
+        "tg": "як вақт, дар гузашта",
+        "id": "dahulu, pada masa lalu"
       }
     },
     {
@@ -382,7 +491,10 @@
       "meaning": {
         "ru": "описывать",
         "tk": "suratlandyrmak",
-        "en": "to describe"
+        "en": "to describe",
+        "uz": "tasvirlamoq",
+        "tg": "тавсиф кардан",
+        "id": "untuk menggambarkan"
       }
     },
     {
@@ -392,7 +504,10 @@
       "meaning": {
         "ru": "сонный, затуманенный",
         "tk": "ukuly",
-        "en": "drowsy"
+        "en": "drowsy",
+        "uz": "uyquchan",
+        "tg": "хоболуд",
+        "id": "mengantuk"
       }
     },
     {
@@ -402,7 +517,10 @@
       "meaning": {
         "ru": "неторопливый, отдалённый",
         "tk": "haýallyk",
-        "en": "leisurely"
+        "en": "leisurely",
+        "uz": "bemalol",
+        "tg": "осуда",
+        "id": "santai"
       }
     },
     {
@@ -412,7 +530,10 @@
       "meaning": {
         "ru": "образный, яркий",
         "tk": "şekilli",
-        "en": "vivid"
+        "en": "vivid",
+        "uz": "yorqin",
+        "tg": "равшан",
+        "id": "jelas"
       }
     }
   ],
@@ -423,68 +544,101 @@
       "explanation": {
         "ru": "«算» — «считать(ся), признавать». «算了» — «ладно, хватит».",
         "tk": "«算» — «hasaplamak». «算了» — «bolýar, ýeter».",
-        "en": "'算' — 'to count as, regard as'. '算了' — 'never mind, forget it'."
+        "en": "'算' — 'to count as, regard as'. '算了' — 'never mind, forget it'.",
+        "uz": "'算' — 'hisoblamoq, deb hisoblamoq'. '算了' — 'mayli, qo'ya qol'.",
+        "tg": "'算' — 'ҳисобидан, ба ҳисоб гирифтан'. '算了' — 'ҳеҷ гап не, фаромӯш кун'.",
+        "id": "'算' — 'dianggap sebagai, menganggap sebagai'. '算了' — 'tidak apa-apa, lupakan saja'."
       },
       "examples": [
         {
           "zh": "例如著名的文学家鲁迅，在吃喝这件事上，就算是个地道的行家。",
           "ru": "Например, известный писатель Лу Синь в еде и питье был настоящим знатоком.",
           "tk": "Mysal üçin meşhur ýazyjy Lu Sýun nahar-içgi boýunça hakyky bilermen boldy.",
-          "en": "For example, famous writer Lu Xun was a true gourmet."
+          "en": "For example, famous writer Lu Xun was a true gourmet.",
+          "uz": "Masalan, mashhur yozuvchi Lu Sin haqiqiy gurman edi.",
+          "tg": "Масалан, нависандаи машҳур Лу Син як гастрономи ҳақиқӣ буд.",
+          "id": "Misalnya, penulis terkenal Lu Xun adalah seorang penikmat kuliner sejati."
         },
         {
           "zh": "这钱就算我借给你的，将来你有了的时候再还我。",
           "ru": "Считай, что я тебе одолжил — вернёшь, когда будут деньги.",
           "tk": "Bu puly saňa karz beren hasapla — puluň bolanda yzyna ber.",
-          "en": "Consider it a loan — pay me back when you can."
+          "en": "Consider it a loan — pay me back when you can.",
+          "uz": "Buni qarz deb hisobla — imkoning bo'lganda menga qaytar.",
+          "tg": "Онро қарз ҳисоб кун — ҳар вақте ки тавонӣ, ба ман баргардон.",
+          "id": "Anggap saja ini pinjaman — kembalikan saat kamu bisa."
         },
         {
           "zh": "不就是一个空瓶子吗？扔掉算了。",
           "ru": "Подумаешь, пустая бутылка — выброси и всё.",
           "tk": "Bir boş çüýşe-ä — zyňyber, gutardy.",
-          "en": "Just an empty bottle — throw it away."
+          "en": "Just an empty bottle — throw it away.",
+          "uz": "Shunchaki bo'sh shisha — uni tashlab yubor.",
+          "tg": "Танҳо як шишаи холӣ — онро парто.",
+          "id": "Hanya botol kosong — buang saja."
         },
         {
           "zh": "算了吧，你跑得再快，也追不上会飞的鸟啊。",
           "ru": "Да брось, как бы быстро ты ни бежал, летящую птицу не догонишь.",
           "tk": "Goý, näçe çalt ylgasaň-da, uçýan guşy kowup ýetmersiň.",
-          "en": "Forget it — no matter how fast you run, you can't catch a flying bird."
+          "en": "Forget it — no matter how fast you run, you can't catch a flying bird.",
+          "uz": "Qo'y — qanchalik tez yugursang ham, uchayotgan qushni tuta olmaysan.",
+          "tg": "Фаромӯш кун — ҳар қадар тез давоӣ, ту паррандаи парвозкунандаро наметавонӣ дошта бошӣ.",
+          "id": "Sudahlah — secepat apa pun kamu berlari, kamu tidak bisa menangkap burung yang terbang."
         },
         {
           "zh": "从我家去公司，坐几站地铁就到了，算很方便。",
           "ru": "Из дома на работу — несколько станций метро, считается очень удобно.",
           "tk": "Öýden işe metro birnäçe duralga — amatly hasaplanýar.",
-          "en": "From home to the office is a few subway stops — quite convenient."
+          "en": "From home to the office is a few subway stops — quite convenient.",
+          "uz": "Uydan ofisgacha bir necha metro bekati — ancha qulay.",
+          "tg": "Аз хона то офис чанд истгоҳи метро — хеле қулай.",
+          "id": "Dari rumah ke kantor hanya beberapa halte kereta bawah tanah — cukup nyaman."
         },
         {
           "zh": "这事就当没发生过，算了。",
           "ru": "Считай, этого не было — забудь.",
           "tk": "Bu zat bolmadyk ýaly hasapla — goý.",
-          "en": "Consider it never happened — forget it."
+          "en": "Consider it never happened — forget it.",
+          "uz": "Bu hech qachon bo'lmagandek hisobla — unut.",
+          "tg": "Гуё ки ҳеҷ гоҳ рӯй надодааст — фаромӯш кун.",
+          "id": "Anggap saja itu tidak pernah terjadi — lupakan saja."
         },
         {
           "zh": "他算得上是个好朋友。",
           "ru": "Его можно считать хорошим другом.",
           "tk": "Ony gowy dost hasaplap bolar.",
-          "en": "He can be considered a good friend."
+          "en": "He can be considered a good friend.",
+          "uz": "Uni yaxshi do'st deb hisoblash mumkin.",
+          "tg": "Ӯро метавон дӯсти хуб ҳисобид.",
+          "id": "Dia bisa dianggap sebagai teman yang baik."
         },
         {
           "zh": "这次就算我请客吧。",
           "ru": "Считай, что в этот раз угощаю я.",
           "tk": "Bu gezek men myhmançylyk edýärin hasapla.",
-          "en": "Let's count this as my treat."
+          "en": "Let's count this as my treat.",
+          "uz": "Buni mening mehmondorchiligim deb hisoblaylik.",
+          "tg": "Биё инро ҳамчун меҳмоннавозии ман ҳисоб кунем.",
+          "id": "Anggap saja ini traktiran saya."
         },
         {
           "zh": "他算是个什么人？",
           "ru": "Что он вообще за человек?",
           "tk": "Ol nähili adam?",
-          "en": "What kind of person is he?"
+          "en": "What kind of person is he?",
+          "uz": "U qanday odam?",
+          "tg": "Ӯ чӣ гуна одам аст?",
+          "id": "Orang seperti apa dia?"
         },
         {
           "zh": "算了，别争了。",
           "ru": "Ладно, хватит спорить.",
           "tk": "Bolýar, jedelleşmäň.",
-          "en": "Alright — stop arguing."
+          "en": "Alright — stop arguing.",
+          "uz": "Xo'p — janjallashishni bas qil.",
+          "tg": "Хуб — баҳсро бас кун.",
+          "id": "Baiklah — berhenti berdebat."
         }
       ],
       "formula": {
@@ -559,68 +713,101 @@
       "explanation": {
         "ru": "«作为» — «использовать как»; как предлог — «в качестве».",
         "tk": "«作为» — «hökmünde ulanmak»; goşma söz hökmünde «-hökmünde».",
-        "en": "'作为' — 'to use as'; prep. 'as, being'."
+        "en": "'作为' — 'to use as'; prep. 'as, being'.",
+        "uz": "'作为' — 'sifatida foydalanmoq'; predlog 'sifatida, bo'lib'.",
+        "tg": "'作为' — 'истифода бурдан ҳамчун'; пеш. 'ҳамчун, будан'.",
+        "id": "'作为' — 'digunakan sebagai'; kata depan 'sebagai, menjadi'."
       },
       "examples": [
         {
           "zh": "作为大作家、大学问家，鲁迅对吃很讲究。",
           "ru": "Как большой писатель и учёный, Лу Синь был придирчив к еде.",
           "tk": "Uly ýazyjy we alym hökmünde Lu Sýun iýmit meselesine üns berýärdi.",
-          "en": "As a great writer and scholar, Lu Xun was particular about food."
+          "en": "As a great writer and scholar, Lu Xun was particular about food.",
+          "uz": "Buyuk yozuvchi va olim sifatida Lu Xun ovqatga nisbatan talabchan edi.",
+          "tg": "Ҳамчун нависанда ва олими бузург, Лу Син ба хӯрок эътибони хосса дошт.",
+          "id": "Sebagai penulis dan cendekiawan besar, Lu Xun sangat pemilih soal makanan."
         },
         {
           "zh": "北海公园离家最近，所以我把那儿作为每晚散步的去处。",
           "ru": "Парк Бэйхай ближе всего — я сделал его местом вечерних прогулок.",
           "tk": "Beýhai seýilgähi öýe iň ýakyn — men ony agşam gezelenji üçin ýer etdim.",
-          "en": "Beihai Park is closest — I made it my evening walk spot."
+          "en": "Beihai Park is closest — I made it my evening walk spot.",
+          "uz": "Beihai bog'i eng yaqin — men uni kechki sayr joyim qilib oldim.",
+          "tg": "Боғи Бэйҳай аз ҳама наздик аст — ман онро ҷои сайру гашти бегоҳии худ кардам.",
+          "id": "Taman Beihai paling dekat — saya jadikan tempat jalan sore."
         },
         {
           "zh": "经理要请我去吃顿饭，说是作为我加班的表扬。",
           "ru": "Менеджер пригласил поесть — в знак благодарности за переработку.",
           "tk": "Menejer nahar çagyrdy — iş wagtyndan soň zähmetimiň sylagy hökmünde.",
-          "en": "The manager invited me for a meal as praise for overtime."
+          "en": "The manager invited me for a meal as praise for overtime.",
+          "uz": "Menejer qo'shimcha ishlaganim uchun maqtov sifatida meni ovqatga taklif qildi.",
+          "tg": "Мудир маро барои корҳои изофа вақт ба хӯрок даъват кард.",
+          "id": "Manajer mengundang saya makan sebagai pujian atas kerja lembur."
         },
         {
           "zh": "西红柿是世界上种植非常普遍的蔬菜，中国作为主要生产国之一也在扩大种植面积。",
           "ru": "Томат — самая распространённая овощная культура, и Китай как один из основных производителей расширяет посевы.",
           "tk": "Pomidor iň ýaýran gök önüm, Hytaý esasy öndürijileriň biri hökmünde ekin meýdanyny giňeldýär.",
-          "en": "Tomato is a widely grown vegetable, and China as a major producer is expanding its fields."
+          "en": "Tomato is a widely grown vegetable, and China as a major producer is expanding its fields.",
+          "uz": "Pomidor keng yetishtiriladigan sabzavot bo'lib, yirik ishlab chiqaruvchi Xitoy o'z dalalarini kengaytirmoqda.",
+          "tg": "Помидор як сабзавоти васеъ парваришшаванда аст ва Чин ҳамчун истеҳсолкунандаи асосӣ соҳаҳои худро васеъ мекунад.",
+          "id": "Tomat adalah sayuran yang banyak ditanam, dan Tiongkok sebagai produsen utama terus memperluas ladangnya."
         },
         {
           "zh": "作为一名教师，治病救人不是我的职责。",
           "ru": "Как учитель, лечить людей — не моя обязанность.",
           "tk": "Mugallym hökmünde adamlary bejermek meniň borjum däl.",
-          "en": "As a teacher, treating the sick isn't my job."
+          "en": "As a teacher, treating the sick isn't my job.",
+          "uz": "O'qituvchi sifatida, kasallarni davolash mening ishim emas.",
+          "tg": "Ҳамчун муаллим, табобати беморон кори ман нест.",
+          "id": "Sebagai seorang guru, merawat orang sakit bukanlah tugas saya."
         },
         {
           "zh": "他作为公司的代表参加了会议。",
           "ru": "Он присутствовал на совещании как представитель компании.",
           "tk": "Ol kompaniýanyň wekili hökmünde maslahata gatnaşdy.",
-          "en": "He attended as the company's representative."
+          "en": "He attended as the company's representative.",
+          "uz": "U kompaniya vakili sifatida qatnashdi.",
+          "tg": "Вай ҳамчун намояндаи ширкат иштирок кард.",
+          "id": "Dia hadir sebagai perwakilan perusahaan."
         },
         {
           "zh": "他把这本书作为生日礼物送给了我。",
           "ru": "Он подарил мне эту книгу как подарок на день рождения.",
           "tk": "Ol maňa bu kitaby doglan gün sowgady hökmünde berdi.",
-          "en": "He gave me this book as a birthday gift."
+          "en": "He gave me this book as a birthday gift.",
+          "uz": "U menga bu kitobni tug'ilgan kun sovg'asi sifatida berdi.",
+          "tg": "Вай ин китобро ҳамчун тӯҳфаи зодрӯз ба ман дод.",
+          "id": "Dia memberiku buku ini sebagai hadiah ulang tahun."
         },
         {
           "zh": "作为父母，应该多关心孩子。",
           "ru": "Как родители, должны больше заботиться о детях.",
           "tk": "Ene-ata hökmünde çagalara has köp üns bermeli.",
-          "en": "As parents, we should care more for children."
+          "en": "As parents, we should care more for children.",
+          "uz": "Ota-ona sifatida biz bolalarga ko'proq g'amxo'rlik qilishimiz kerak.",
+          "tg": "Ҳамчун волидон, мо бояд бештар ба кӯдакон ғамхорӣ кунем.",
+          "id": "Sebagai orang tua, kita harus lebih peduli kepada anak-anak."
         },
         {
           "zh": "我们把这座桥作为城市的标志。",
           "ru": "Мы используем этот мост как символ города.",
           "tk": "Biz bu köprüni şäheriň nyşany hökmünde ulanýarys.",
-          "en": "We use this bridge as the city's symbol."
+          "en": "We use this bridge as the city's symbol.",
+          "uz": "Biz bu ko'prikdan shaharning ramzi sifatida foydalanamiz.",
+          "tg": "Мо ин пулро ҳамчун рамзи шаҳр истифода мебарем.",
+          "id": "Kami menggunakan jembatan ini sebagai simbol kota."
         },
         {
           "zh": "他作为一名医生，非常有责任心。",
           "ru": "Как врач, он очень ответственный.",
           "tk": "Lukman hökmünde ol örän jogapkärli.",
-          "en": "As a doctor, he's very responsible."
+          "en": "As a doctor, he's very responsible.",
+          "uz": "Shifokor sifatida u juda mas'uliyatli.",
+          "tg": "Ҳамчун духтур, вай хеле масъулиятшинос аст.",
+          "id": "Sebagai seorang dokter, dia sangat bertanggung jawab."
         }
       ],
       "formula": {
@@ -692,68 +879,101 @@
       "explanation": {
         "ru": "«曾经» — «когда-то, ранее». О прошлом опыте, часто с «过».",
         "tk": "«曾经» — «bir wagtlar». Geçmiş tejribe barada.",
-        "en": "'曾经' — 'once, formerly'. For past experience, often with '过'."
+        "en": "'曾经' — 'once, formerly'. For past experience, often with '过'.",
+        "uz": "'曾经' — 'bir vaqtlar, ilgari'. O'tmish tajribasi uchun, ko'pincha '过' bilan.",
+        "tg": "'曾经' — 'як вақт, пештар'. Барои таҷрибаи гузашта, аксар вақт бо '过'.",
+        "id": "'曾经' — 'pernah, dahulu'. Untuk pengalaman masa lalu, sering dengan '过'."
       },
       "examples": [
         {
           "zh": "郁达夫在1933年曾经作诗形容他。",
           "ru": "Юй Дафу в 1933 году написал о нём стихи.",
           "tk": "Ýuý Dafu 1933-nji ýylda ony beýan edip goşgy ýazdy.",
-          "en": "Yu Dafu once wrote a poem describing him in 1933."
+          "en": "Yu Dafu once wrote a poem describing him in 1933.",
+          "uz": "Yu Dafu bir marta 1933-yilda uni tasvirlab she'r yozgan.",
+          "tg": "Ю Дафу соли 1933 шеъре навишт, ки ӯро тавсиф мекунад.",
+          "id": "Yu Dafu pernah menulis puisi yang menggambarkannya pada tahun 1933."
         },
         {
           "zh": "鲁迅曾经说他是将别人喝牛奶、咖啡的时间用来学习。",
           "ru": "Лу Синь говорил, что использовал время, пока другие пили молоко и кофе, для учёбы.",
           "tk": "Lu Sýun başgalar süýt we kofe içen wagtyny okamak üçin ulanýandygyny aýdardy.",
-          "en": "Lu Xun said he used others' coffee-break time for study."
+          "en": "Lu Xun said he used others' coffee-break time for study.",
+          "uz": "Lu Xun o'zining boshqalarning kofe-break vaqtini o'qishga sarflaganini aytgan.",
+          "tg": "Лу Син гуфт, ки вақти танаффуси дигаронро барои таҳсил истифода мебурд.",
+          "id": "Lu Xun mengatakan bahwa ia menggunakan waktu istirahat orang lain untuk belajar."
         },
         {
           "zh": "孔子曾经带着学生周游各国14年，传播他的思想。",
           "ru": "Конфуций 14 лет путешествовал со своими учениками, распространяя своё учение.",
           "tk": "Konfusiý 14 ýyl okuwçylary bilen syýahat edip, öz taglymatyny ýaýratdy.",
-          "en": "Confucius once traveled with his students for 14 years, spreading his ideas."
+          "en": "Confucius once traveled with his students for 14 years, spreading his ideas.",
+          "uz": "Konfutsiy bir marta shogirdlari bilan 14 yil sayohat qilib, o'z g'oyalarini tarqatgan.",
+          "tg": "Конфуций як вақт бо шогирдонаш 14 сол сафар карда, ғояҳои худро паҳн мекард.",
+          "id": "Konfusius pernah bepergian dengan murid-muridnya selama 14 tahun untuk menyebarkan gagasannya."
         },
         {
           "zh": "我曾经和他一起工作过两年。",
           "ru": "Я когда-то работал с ним два года.",
           "tk": "Men bir wagtlar onuň bilen iki ýyl işledim.",
-          "en": "I once worked with him for two years."
+          "en": "I once worked with him for two years.",
+          "uz": "Men bir marta u bilan ikki yil ishlaganman.",
+          "tg": "Ман як вақт бо ӯ ду сол кор кардам.",
+          "id": "Saya pernah bekerja dengannya selama dua tahun."
         },
         {
           "zh": "对，我曾经和他一起工作过两年。",
           "ru": "Да, я когда-то работал с ним два года.",
           "tk": "Hawa, men bir wagtlar onuň bilen iki ýyl işledim.",
-          "en": "Yes, I once worked with him for two years."
+          "en": "Yes, I once worked with him for two years.",
+          "uz": "Ha, men bir marta u bilan ikki yil ishlaganman.",
+          "tg": "Бале, ман як вақт бо ӯ ду сол кор кардам.",
+          "id": "Ya, saya pernah bekerja dengannya selama dua tahun."
         },
         {
           "zh": "我曾经去过日本留学。",
           "ru": "Я когда-то ездил учиться в Японию.",
           "tk": "Men bir wagtlar Ýaponiýada okaýardym.",
-          "en": "I once studied in Japan."
+          "en": "I once studied in Japan.",
+          "uz": "Men bir marta Yaponiyada o'qiganman.",
+          "tg": "Ман як вақт дар Ҷопон таҳсил кардам.",
+          "id": "Saya pernah belajar di Jepang."
         },
         {
           "zh": "这里曾经是一片森林。",
           "ru": "Здесь когда-то был лес.",
           "tk": "Bu ýer bir wagtlar tokaýdy.",
-          "en": "This place was once a forest."
+          "en": "This place was once a forest.",
+          "uz": "Bu joy bir vaqtlar o'rmon bo'lgan.",
+          "tg": "Ин ҷой як вақт ҷангал буд.",
+          "id": "Tempat ini dulunya adalah hutan."
         },
         {
           "zh": "我曾经迷过一阵子摄影。",
           "ru": "Я когда-то увлекался фотографией.",
           "tk": "Men bir wagtlar fotografiýa bilen gyzyklandym.",
-          "en": "I was once into photography."
+          "en": "I was once into photography.",
+          "uz": "Men bir vaqtlar fotografiyaga qiziqardim.",
+          "tg": "Ман як вақт ба аксбардорӣ шавқ доштам.",
+          "id": "Saya pernah menyukai fotografi."
         },
         {
           "zh": "她曾经是我的同屋。",
           "ru": "Она когда-то была моей соседкой по комнате.",
           "tk": "Ol bir wagtlar meniň otagdaşymdy.",
-          "en": "She was once my roommate."
+          "en": "She was once my roommate.",
+          "uz": "U bir vaqtlar mening xonadoshim edi.",
+          "tg": "Вай як вақт ҳамхонаи ман буд.",
+          "id": "Dia dulunya teman sekamar saya."
         },
         {
           "zh": "我曾经看过这部电影，非常感人。",
           "ru": "Я когда-то видел этот фильм — очень трогательный.",
           "tk": "Men bir wagtlar bu filmi gördüm — örän täsirli.",
-          "en": "I once saw this film — very moving."
+          "en": "I once saw this film — very moving.",
+          "uz": "Men bu filmni bir marta ko'rgandim — juda ta'sirli.",
+          "tg": "Ман як бор ин филмро дидам — хеле таъсирбахш.",
+          "id": "Saya pernah melihat film ini — sangat menyentuh."
         }
       ],
       "formula": {
@@ -825,68 +1045,101 @@
       "explanation": {
         "ru": "«亲自» — «лично, сам». Подчёркивает, что действие выполняет сам субъект, а не через других.",
         "tk": "«亲自» — «özüň, hut özüň».",
-        "en": "'亲自' — 'personally, in person'. Emphasizes the subject does it themselves."
+        "en": "'亲自' — 'personally, in person'. Emphasizes the subject does it themselves.",
+        "uz": "'亲自' — 'shaxsan, o'zi'. Eganing o'zi bajarishini ta'kidlaydi.",
+        "tg": "'亲自' — 'шахсан, худаш'. Таъкид мекунад, ки субъект худаш ин корро мекунад.",
+        "id": "'亲自' — 'secara pribadi, sendiri'. Menekankan subjek melakukannya sendiri."
       },
       "examples": [
         {
           "zh": "鲁迅不但会吃，还会亲自动手做。",
           "ru": "Лу Синь не только умел есть, но и сам готовил.",
           "tk": "Lu Sýun diňe iýmegi bilmän, özi hem bişirýärdi.",
-          "en": "Lu Xun not only ate well but cooked himself."
+          "en": "Lu Xun not only ate well but cooked himself.",
+          "uz": "Lu Xun nafaqat yaxshi ovqatlanardi, balki o'zi ham pishirardi.",
+          "tg": "Лу Син на танҳо хуб мехӯрд, балки худаш ҳам пухтугузор мекард.",
+          "id": "Lu Xun tidak hanya makan dengan baik tetapi juga memasak sendiri."
         },
         {
           "zh": "老人总是亲自喂养他的猴子。",
           "ru": "Старик всегда сам кормил своих обезьян.",
           "tk": "Goja hemişe öz meýmynlerini özi iýmitlendirýärdi.",
-          "en": "The old man always fed his monkeys himself."
+          "en": "The old man always fed his monkeys himself.",
+          "uz": "Chol har doim maymunlarini o'zi boqardi.",
+          "tg": "Пирамард ҳамеша маймунҳояшро худаш ғизо медод.",
+          "id": "Orang tua itu selalu memberi makan monyet-monyetnya sendiri."
         },
         {
           "zh": "这份礼物是市长亲自为生病的小女孩儿做的。",
           "ru": "Этот подарок мэр лично сделал для больной девочки.",
           "tk": "Bu sowgady mer şahsyýet syrkaw gyzjagaz üçin ýasady.",
-          "en": "The mayor personally made this gift for the sick girl."
+          "en": "The mayor personally made this gift for the sick girl.",
+          "uz": "Shahar hokimi bu sovg'ani kasal qiz uchun shaxsan o'zi tayyorladi.",
+          "tg": "Мэр ин тӯҳфаро барои духтари бемор шахсан худаш сохт.",
+          "id": "Walikota secara pribadi membuat hadiah ini untuk gadis yang sakit itu."
         },
         {
           "zh": "今年我的业绩全公司第一，新年晚会上，总裁亲自给我发了奖金。",
           "ru": "В этом году я лучший по показателям — на новогоднем вечере сам президент вручил мне премию.",
           "tk": "Bu ýyl görkezijim boýunça iň gowy — Täze ýyl agşamynda prezident özi maňa sylag berdi.",
-          "en": "This year I topped the company — the president personally gave me the bonus at the New Year gala."
+          "en": "This year I topped the company — the president personally gave me the bonus at the New Year gala.",
+          "uz": "Bu yil men kompaniyada birinchi bo'ldim — prezident bonusni menga Yangi yil bazmida shaxsan o'zi berdi.",
+          "tg": "Ин сол ман дар ширкат аввал шудам — президент шахсан дар ҷашни Соли Нав ба ман мукофот дод.",
+          "id": "Tahun ini saya menjadi yang terbaik di perusahaan — presiden secara pribadi memberi saya bonus di gala Tahun Baru."
         },
         {
           "zh": "希望您能亲自来参加这次活动。",
           "ru": "Надеемся, вы лично придёте на это мероприятие.",
           "tk": "Bu çärä özüňiz gelmegiňize umyt edýäris.",
-          "en": "We hope you'll attend the event in person."
+          "en": "We hope you'll attend the event in person.",
+          "uz": "Tadbirda shaxsan ishtirok etishingizga umid qilamiz.",
+          "tg": "Мо умедворем, ки шумо дар чорабинӣ шахсан иштирок хоҳед кард.",
+          "id": "Kami harap Anda akan menghadiri acara itu secara langsung."
         },
         {
           "zh": "老师亲自批改我们的作业。",
           "ru": "Учитель сам проверяет наши работы.",
           "tk": "Mugallym biziň işlerimizi özi barlaýar.",
-          "en": "The teacher personally grades our homework."
+          "en": "The teacher personally grades our homework.",
+          "uz": "O'qituvchi uy vazifamizni shaxsan baholaydi.",
+          "tg": "Муаллим вазифаи хонагии моро шахсан баҳо медиҳад.",
+          "id": "Guru secara pribadi menilai pekerjaan rumah kami."
         },
         {
           "zh": "我亲自去机场接他。",
           "ru": "Я лично поеду за ним в аэропорт.",
           "tk": "Men ony howa menzilinden özüm garşylaýaryn.",
-          "en": "I'll pick him up at the airport myself."
+          "en": "I'll pick him up at the airport myself.",
+          "uz": "Men uni aeroportdan o'zim olib ketaman.",
+          "tg": "Ман худам ӯро дар фурудгоҳ пешвоз мегирам.",
+          "id": "Saya akan menjemputnya di bandara sendiri."
         },
         {
           "zh": "他亲自下厨做了几道菜。",
           "ru": "Он сам приготовил несколько блюд.",
           "tk": "Ol özi birnäçe nahar bişirdi.",
-          "en": "He personally cooked a few dishes."
+          "en": "He personally cooked a few dishes.",
+          "uz": "U shaxsan bir nechta taom tayyorladi.",
+          "tg": "Вай шахсан чанд таом пухт.",
+          "id": "Dia sendiri memasak beberapa hidangan."
         },
         {
           "zh": "经理亲自打电话道歉。",
           "ru": "Менеджер лично позвонил и извинился.",
           "tk": "Menejer hut özi jaň edip ötünç sorady.",
-          "en": "The manager personally called to apologize."
+          "en": "The manager personally called to apologize.",
+          "uz": "Menejer kechirim so'rash uchun shaxsan qo'ng'iroq qildi.",
+          "tg": "Мудир шахсан занг зада узрхоҳӣ кард.",
+          "id": "Manajer itu sendiri menelepon untuk meminta maaf."
         },
         {
           "zh": "这事儿必须你亲自去办。",
           "ru": "Это дело должны сделать именно вы лично.",
           "tk": "Bu işi hut özüňiz etmeli.",
-          "en": "You must handle this yourself."
+          "en": "You must handle this yourself.",
+          "uz": "Buni o'zingiz hal qilishingiz kerak.",
+          "tg": "Шумо бояд инро худатон ҳал кунед.",
+          "id": "Kamu harus menangani ini sendiri."
         }
       ],
       "formula": {
@@ -997,7 +1250,10 @@
       "common": {
         "ru": "Оба означают «сам, лично».",
         "tk": "Ikisi hem «öz».",
-        "en": "Both mean 'self, personally'."
+        "en": "Both mean 'self, personally'.",
+        "uz": "Ikkalasi ham 'o'zi, shaxsan' ma'nosini bildiradi.",
+        "tg": "Ҳарду маънои 'худ, шахсан'-ро доранд.",
+        "id": "Keduanya berarti 'diri sendiri, secara pribadi'."
       },
       "differences": [
         {
@@ -1031,7 +1287,10 @@
         "meaning": {
           "ru": "мораль",
           "tk": "ahlak",
-          "en": "morality"
+          "en": "morality",
+          "uz": "axloq",
+          "tg": "ахлоқ",
+          "id": "moralitas"
         }
       },
       {
@@ -1040,7 +1299,10 @@
         "meaning": {
           "ru": "традиция",
           "tk": "däp",
-          "en": "tradition"
+          "en": "tradition",
+          "uz": "an'ana",
+          "tg": "анъана",
+          "id": "tradisi"
         }
       },
       {
@@ -1049,7 +1311,10 @@
         "meaning": {
           "ru": "обычай",
           "tk": "urp-adat",
-          "en": "custom"
+          "en": "custom",
+          "uz": "maxsus",
+          "tg": "расм",
+          "id": "kebiasaan"
         }
       },
       {
@@ -1058,7 +1323,10 @@
         "meaning": {
           "ru": "система",
           "tk": "ulgam",
-          "en": "system"
+          "en": "system",
+          "uz": "tizim",
+          "tg": "низом",
+          "id": "sistem"
         }
       },
       {
@@ -1067,7 +1335,10 @@
         "meaning": {
           "ru": "порядок",
           "tk": "tertibi",
-          "en": "order"
+          "en": "order",
+          "uz": "buyurtma",
+          "tg": "тартиб",
+          "id": "ketertiban"
         }
       },
       {
@@ -1076,7 +1347,10 @@
         "meaning": {
           "ru": "власть",
           "tk": "häkimiýet",
-          "en": "power"
+          "en": "power",
+          "uz": "kuch",
+          "tg": "қудрат",
+          "id": "kekuatan"
         }
       },
       {
@@ -1085,7 +1359,10 @@
         "meaning": {
           "ru": "право",
           "tk": "hukuk",
-          "en": "right"
+          "en": "right",
+          "uz": "huquq",
+          "tg": "ҳуқуқ",
+          "id": "benar"
         }
       },
       {
@@ -1094,7 +1371,10 @@
         "meaning": {
           "ru": "обязанность",
           "tk": "borç",
-          "en": "duty"
+          "en": "duty",
+          "uz": "burch",
+          "tg": "вазифа",
+          "id": "tugas"
         }
       },
       {
@@ -1103,7 +1383,10 @@
         "meaning": {
           "ru": "цивилизация",
           "tk": "siwilizasiýa",
-          "en": "civilization"
+          "en": "civilization",
+          "uz": "tsivilizatsiya",
+          "tg": "тамаддун",
+          "id": "peradaban"
         }
       },
       {
@@ -1112,7 +1395,10 @@
         "meaning": {
           "ru": "население",
           "tk": "ilat",
-          "en": "population"
+          "en": "population",
+          "uz": "aholi",
+          "tg": "аҳолӣ",
+          "id": "populasi"
         }
       }
     ]
@@ -1121,7 +1407,10 @@
     "discussion": {
       "ru": "Какой известный человек вам нравится? Расскажите о нём и о его влиянии.",
       "tk": "Haýsy meşhur adam size ýaraýar? Onuň barada we täsiri barada gürrüň beriň.",
-      "en": "Which famous person do you like? Talk about him/her and their influence."
+      "en": "Which famous person do you like? Talk about him/her and their influence.",
+      "uz": "Qaysi mashhur shaxsni yoqtirasiz? U haqida va uning ta'siri haqida gapirib bering.",
+      "tg": "Кадом шахси машҳурро дӯст медоред? Дар бораи ӯ/вай ва таъсири онҳо суҳбат кунед.",
+      "id": "Tokoh terkenal mana yang kamu sukai? Bicarakan tentang dia dan pengaruhnya."
     }
   },
   "workbook": {

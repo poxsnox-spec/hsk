@@ -18,5 +18,133 @@
   <script src="/static/i18n.js"></script>
   <script src="/static/auth.js"></script>
   <script src="/static/app.js"></script>
+
+<!-- ==== Language picker (added by _patch_lang_picker.py) ==== -->
+<style>
+#lang-picker-overlay {
+  position: fixed; inset: 0; z-index: 100000;
+  background: radial-gradient(ellipse at top, #0f1726 0%, #070b14 70%);
+  display: flex; align-items: center; justify-content: center;
+  padding: 24px; animation: lpFade .35s ease;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+@keyframes lpFade { from { opacity: 0; } to { opacity: 1; } }
+@keyframes lpCard { from { opacity: 0; transform: translateY(20px) scale(.96); } to { opacity: 1; transform: none; } }
+@keyframes lpLogo { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+#lang-picker-card {
+  max-width: 560px; width: 100%;
+  background: linear-gradient(160deg, #1b2333 0%, #141a26 100%);
+  border: 1px solid #2a3446; border-radius: 20px;
+  padding: 36px 32px 28px; text-align: center;
+  box-shadow: 0 30px 80px rgba(0,0,0,.6);
+  animation: lpCard .45s cubic-bezier(.2,.8,.2,1);
+}
+#lang-picker-logo {
+  font-size: 56px; line-height: 1; margin-bottom: 14px;
+  animation: lpLogo 2.4s ease-in-out infinite; display: inline-block;
+}
+#lang-picker-card h1 {
+  color: #E6EDF5; font-size: 24px; font-weight: 700;
+  margin: 0 0 8px; letter-spacing: -0.01em;
+}
+#lang-picker-card p {
+  color: #8B9AAB; font-size: 14px; margin: 0 0 26px;
+}
+#lang-picker-grid {
+  display: grid; grid-template-columns: repeat(2, 1fr);
+  gap: 10px; margin-bottom: 18px;
+}
+@media (min-width: 520px) {
+  #lang-picker-grid { grid-template-columns: repeat(3, 1fr); }
+}
+.lang-pick-btn {
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  padding: 16px 12px; border-radius: 12px;
+  background: rgba(74,158,255,0.06); border: 1px solid #2a3446;
+  cursor: pointer; color: #E6EDF5; font-size: 15px; font-weight: 600;
+  transition: all .18s ease;
+}
+.lang-pick-btn:hover {
+  background: rgba(74,158,255,0.14); border-color: #4a9eff;
+  transform: translateY(-2px);
+}
+.lang-pick-btn:active { transform: translateY(0) scale(.97); }
+.lang-pick-btn .lp-flag { font-size: 26px; line-height: 1; margin-bottom: 6px; }
+.lang-pick-btn .lp-name { font-size: 14px; color: #E6EDF5; }
+.lang-pick-btn .lp-code { font-size: 11px; color: #6E7A8A; margin-top: 2px; letter-spacing: .5px; text-transform: uppercase; }
+#lang-picker-hint {
+  color: #6E7A8A; font-size: 12px; margin-top: 4px;
+}
+</style>
+<script>
+(function () {
+  var LANGS = [
+    { code: "en", name: "English"   },
+    { code: "ru", name: "Русский"   },
+    { code: "tk", name: "Türkmen"   },
+    { code: "id", name: "Indonesia" },
+    { code: "uz", name: "O'zbek"    },
+    { code: "tg", name: "Тоҷикӣ"    }
+  ];
+
+  function show(allowClose) {
+    if (document.getElementById("lang-picker-overlay")) return;
+    var ov = document.createElement("div");
+    ov.id = "lang-picker-overlay";
+    var card = document.createElement("div");
+    card.id = "lang-picker-card";
+    card.style.position = "relative";
+    card.innerHTML =
+      '<div id="lang-picker-logo">\uD83C\uDF0F</div>' +
+      '<h1>Please select language</h1>' +
+      '<p>Choose your language to continue</p>' +
+      '<div id="lang-picker-grid"></div>' +
+      '<div id="lang-picker-hint">You can change it later in the menu</div>' +
+      (allowClose ? '<button id="lang-picker-close" type="button" style="position:absolute;top:10px;right:14px;background:transparent;border:0;color:#6E7A8A;font-size:22px;cursor:pointer;padding:6px 10px;line-height:1">\u2715</button>' : '');
+    ov.appendChild(card);
+    document.body.appendChild(ov);
+
+    if (allowClose) {
+      var cb = card.querySelector("#lang-picker-close");
+      if (cb) cb.addEventListener("click", function () { ov.remove(); });
+    }
+
+    var grid = card.querySelector("#lang-picker-grid");
+    var colors = { en: "#4a9eff", ru: "#e35a5a", tk: "#5cd68e",
+                   id: "#f0c674", uz: "#66b2ff", tg: "#8e79e0" };
+    LANGS.forEach(function (L) {
+      var b = document.createElement("button");
+      b.className = "lang-pick-btn";
+      b.type = "button";
+      var cc = colors[L.code] || "#4a9eff";
+      b.innerHTML = '<span class="lp-badge" style="display:inline-flex;align-items:center;justify-content:center;width:36px;height:36px;border-radius:50%;background:' + cc + '22;border:1.5px solid ' + cc + ';color:' + cc + ';font-size:13px;font-weight:700;letter-spacing:.5px;margin-bottom:8px">' + L.code.toUpperCase() + '</span>' +
+                    '<span class="lp-name">' + L.name + '</span>';
+      b.addEventListener("click", function () {
+        try { localStorage.setItem("hsk5_lang", L.code); } catch (e) {}
+        location.reload();
+      });
+      grid.appendChild(b);
+    });
+  }
+
+  // Публичная функция — ДОСТУПНА ВСЕГДА
+  window.showLangPicker = function (allowClose) {
+    show(allowClose !== false);
+  };
+
+  // Авто-показ: только если язык не выбран
+  var already = false;
+  try { already = !!localStorage.getItem("hsk5_lang"); } catch (e) {}
+  if (already) return;
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", function () { show(false); });
+  } else {
+    show(false);
+  }
+})();
+</script>
+<!-- ==== /Language picker ==== -->
+
 </body>
 </html>

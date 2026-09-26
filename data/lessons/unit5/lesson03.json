@@ -5,7 +5,8 @@
     "tk": "Kagyzda söweşmek",
     "en": "Being an Armchair Strategist",
     "uz": "Qog'ozda jang",
-    "tg": "Ҷанг дар коғаз"
+    "tg": "Ҷанг дар коғаз",
+    "id": "Menjadi Ahli Strategi Kursi Malas"
   },
   "audio_files": {
     "textbook_1": "textbook_1.mp3",
@@ -18,7 +19,10 @@
     "question": {
       "ru": "Знаете ли вы историю периода Сражающихся царств?",
       "tk": "Uruşýan patyşalyklar döwrüniň taryhyny bilýärsiňizmi?",
-      "en": "Do you know the history of the Warring States period?"
+      "en": "Do you know the history of the Warring States period?",
+      "uz": "Urushayotgan davlatlar davri tarixini bilasizmi?",
+      "tg": "Оё таърихи давраи Ҷанги Давлатҳоро медонед?",
+      "id": "Apakah kamu tahu sejarah periode Negara-Negara Berperang?"
     },
     "answers": [
       "战国",
@@ -32,7 +36,10 @@
   "text_translation": {
     "ru": "Более 2700 лет назад, в конце эпохи Сражающихся царств, у известного полководца царства Чжао Чжао Шэ был сын Чжао Ко. Он с детства читал военные трактаты и в разговорах о военном деле не знал равных — даже отец не мог его сбить. Чжао Ко возгордился, решил, что непобедим. Но Чжао Шэ понимал: сын знает теорию, но не имеет боевого опыта — мысли его оторваны от реальности. Он тайно сказал жене: «У сына недостаток — он говорит красиво, но лишён практики. Если он станет генералом, погубит Чжао». Через несколько лет Чжао Шэ умер. Как раз в это время царство Цинь напало на Чжао. Чжао послало старого генерала Лянь По с 200-тысячным войском. Лянь По, учитывая превосходство противника, приказал держать оборону и ни в коем случае не атаковать первым. Циньцы вызывали на бой, обзывали трусом — он не выходил. Это сработало: циньцев остановили у границы. Постепенно Цинь не могло быстро победить, припасы кончались. Циньцы понимали, что Лянь По — искусный военачальник, и чтобы победить Чжао, надо добиться его отзыва. Они распустили по Чжао слух: циньцы боятся Чжао Ко, остальных не ставят ни в грош. Чжаоский ван, раздосадованный, что Лянь По не выходит, поверил слуху и послал Чжао Ко на замену. Мать Чжао Ко умоляла вана не назначать сына главнокомандующим, но тщетно. В 260 году до н.э. Чжао Ко выступил. Ослеплённый самоуверенностью и презрением к Цинь, он полностью изменил план Лянь По, слепо следовал трактатам, сам пошёл в наступление — и сотни тысяч чжаоских солдат погибли. Так родился идиом «бумажный стратег» — о тех, кто только говорит о теории. Сейчас его используют в ироничном смысле, напоминая: надо быть гибким и связывать теорию с практикой.",
     "en": "Over 2,700 years ago, at the end of the Warring States period, the famous general of Zhao, Zhao She, had a son named Zhao Kuo. He read many military books from childhood; no one could out-talk him about military affairs — even his father couldn't stump him. Zhao Kuo grew proud, thinking himself invincible, even dismissing his father. But Zhao She understood: his son knew military theory but had no real combat experience — his ideas didn't fit reality. He once secretly told his wife: 'The boy's weakness is talking big — he lacks practical training and cannot be a general. If he becomes one, sooner or later he'll harm Zhao.' Years later Zhao She died. That year Qin attacked Zhao; Zhao sent veteran general Lian Po with 200,000 troops. Given the enemy's strength and Zhao's weakness, Lian Po ordered strict defense — absolutely no proactive attack. Qin repeatedly challenged him, calling him a coward — he still didn't send troops. This worked very well, blocking Qin at the border. Gradually, Qin couldn't win quickly; supplies ran short. The Qin people knew Lian Po was skilled at warfare; to defeat Zhao quickly, they needed him recalled. So they spread rumors throughout Zhao: Qin feared Zhao Kuo most; others were nothing to them. The King of Zhao, already angry at Lian Po's refusal to fight, fell for it and sent Zhao Kuo to replace him. Zhao Kuo's mother repeatedly tried to stop the king from appointing her son, saying he had no qualification to command independently. But the muddleheaded king wouldn't listen! In 260 BC, Zhao Kuo led troops out. Blindly self-confident and contemptuous of Qin, he completely changed Lian Po's plan, rigidly followed the books, and proactively attacked — hundreds of thousands of Zhao soldiers died, precious lives lost. This is the origin of the idiom 'paper-talk on war'. Today it satirizes those who merely talk empty theory, reminding us: act flexibly and connect theory with practice.",
-    "tk": "2700 ýyldan has öň, Uruşýan patyşalyklar döwrüniň ahyrynda, Çžaonyň meşhur serkerdesi Çžao Şäniň Çžao Ko atly ogly bardy. Ol çagalykdan köp harby kitap okap, harby iş barada hiç kim ondan öňe geçip bilmedi — hatda kakasy hem ony bökdüp bilmedi. Çžao Ko şeýlelik bilen buýsanyp, özüni ýeňilmez hasaplady, hatda kakasyna hem üns bermedi. Emma Çžao Şä düşünýärdi: ogly harby teoriýany bilse-de, hakyky söweş tejribesi ýokdy — pikirleri hakykatdan daşdydy. Bir gezek gizlin aýalyna: «Oglanyň kemçiligi diňe uly geplemek — hakyky tejribesi ýok, serkerde bolup bilmez. Eger serkerde bolsa, ir-hem-giç Çžaoga zyýan ýetirer» diýdi. Birnäçe ýyldan Çžao Şä aradan çykdy. Şol ýyl hut Tsin goşuny Çžaoga hüjüm etdi; Çžao goşuna garşy 200 müň esger bilen garry serkerde Lýan Pony iberdi. Lýan Po duşmanyň güýçli, özleriniň gowşak bolany sebäpli berk goranyşy buýurdy — asla öňe hüjüm etmeli däldi. Tsin birnäçe gezek çagyryş berdi, ony gorkak diýip sögdi — ol goşun çykarmady. Bu usul örän netijeli boldy, Tsin goşunyny serhetde saklady. Kem-kemden Tsin çalt ýeňiş gazanyp bilmedi, azygy gutuldy. Tsinliler Lýan Ponyň harby ussatdygyny bilip, Çžaony çalt ýeňmek üçin Lýan Pony yzyna çagyrmagyň ýoluny gözlediler. Şeýlelikde Çžaonyň hemme ýerinde myş-myş ýaýratdylar: Tsin iň köp Çžao Kodan gorkýar, beýlekileri hasaplamaýar. Çžaonyň patyşasy Lýan Ponyň uruşman oturmagyna gaharlanyp, myş-myşlara ynanyp, Çžao Kony çalyşmaga iberdi. Çžao Konyň ejesi patyşany ogluny serkerde bellemekden gaýta-gaýta saklady, oglunyň özbaşdak goşun dolandırmaga hünäri ýokdugyny aýtdy. Emma akylsyz patyşa gulak asmady! Miladydan öň 260-njy ýylda Çžao Ko goşun bilen çykdy. Kör özüne ynanýan we Tsin goşunyny pes hasaplaýan ol Lýan Ponyň meýilnamasyny doly üýtgedip, kitaplara berk ýapyşyp, Tsin goşunyna özbaşdak hüjüm etdi — ýüz müňlerçe Çžao esgeri öldi, gymmatly durmuşlar ýitdi. Bu «kagyzda söweşmek» idiomynyň gelip çykyşy. Häzir bu idiom diňe boş teoriýa gepleýänleri ýaňsylaýar we bize aýdýar: işiňde çeýe bolmaly, teoriýany praktika bilen baglanyşdyrmaly."
+    "tk": "2700 ýyldan has öň, Uruşýan patyşalyklar döwrüniň ahyrynda, Çžaonyň meşhur serkerdesi Çžao Şäniň Çžao Ko atly ogly bardy. Ol çagalykdan köp harby kitap okap, harby iş barada hiç kim ondan öňe geçip bilmedi — hatda kakasy hem ony bökdüp bilmedi. Çžao Ko şeýlelik bilen buýsanyp, özüni ýeňilmez hasaplady, hatda kakasyna hem üns bermedi. Emma Çžao Şä düşünýärdi: ogly harby teoriýany bilse-de, hakyky söweş tejribesi ýokdy — pikirleri hakykatdan daşdydy. Bir gezek gizlin aýalyna: «Oglanyň kemçiligi diňe uly geplemek — hakyky tejribesi ýok, serkerde bolup bilmez. Eger serkerde bolsa, ir-hem-giç Çžaoga zyýan ýetirer» diýdi. Birnäçe ýyldan Çžao Şä aradan çykdy. Şol ýyl hut Tsin goşuny Çžaoga hüjüm etdi; Çžao goşuna garşy 200 müň esger bilen garry serkerde Lýan Pony iberdi. Lýan Po duşmanyň güýçli, özleriniň gowşak bolany sebäpli berk goranyşy buýurdy — asla öňe hüjüm etmeli däldi. Tsin birnäçe gezek çagyryş berdi, ony gorkak diýip sögdi — ol goşun çykarmady. Bu usul örän netijeli boldy, Tsin goşunyny serhetde saklady. Kem-kemden Tsin çalt ýeňiş gazanyp bilmedi, azygy gutuldy. Tsinliler Lýan Ponyň harby ussatdygyny bilip, Çžaony çalt ýeňmek üçin Lýan Pony yzyna çagyrmagyň ýoluny gözlediler. Şeýlelikde Çžaonyň hemme ýerinde myş-myş ýaýratdylar: Tsin iň köp Çžao Kodan gorkýar, beýlekileri hasaplamaýar. Çžaonyň patyşasy Lýan Ponyň uruşman oturmagyna gaharlanyp, myş-myşlara ynanyp, Çžao Kony çalyşmaga iberdi. Çžao Konyň ejesi patyşany ogluny serkerde bellemekden gaýta-gaýta saklady, oglunyň özbaşdak goşun dolandırmaga hünäri ýokdugyny aýtdy. Emma akylsyz patyşa gulak asmady! Miladydan öň 260-njy ýylda Çžao Ko goşun bilen çykdy. Kör özüne ynanýan we Tsin goşunyny pes hasaplaýan ol Lýan Ponyň meýilnamasyny doly üýtgedip, kitaplara berk ýapyşyp, Tsin goşunyna özbaşdak hüjüm etdi — ýüz müňlerçe Çžao esgeri öldi, gymmatly durmuşlar ýitdi. Bu «kagyzda söweşmek» idiomynyň gelip çykyşy. Häzir bu idiom diňe boş teoriýa gepleýänleri ýaňsylaýar we bize aýdýar: işiňde çeýe bolmaly, teoriýany praktika bilen baglanyşdyrmaly.",
+    "uz": "2600 yildan ko'proq vaqt oldin, Urushayotgan Davlatlar davrining oxirida, Chjao davlatining mashhur sarkardasi Chjao Shening Chjao Kuo ismli o'g'li bor edi. U bolaligidan ko'plab harbiy kitoblarni o'qigan; harbiy ishlar haqida hech kim undan ustun chiqa olmasdi — hatto otasi ham uni lol qoldira olmasdi. Chjao Kuo mag'rurlanib, o'zini yengilmas deb hisobladi, hatto otasini ham mensimadi. Ammo Chjao She tushunardi: o'g'li harbiy nazariyani biladi, lekin haqiqiy jangovar tajribasi yo'q — uning g'oyalari voqelikka to'g'ri kelmaydi. U bir marta xotiniga yashirincha aytgan edi: 'Bolaning zaifligi — katta gapirishda — unga amaliy tayyorgarlik yetishmaydi va u sarkarda bo'la olmaydi. Agar u sarkarda bo'lsa, ertami-kechmi Chjaoga zarar yetkazadi.' Yillar o'tib Chjao She vafot etdi. O'sha yili Qin Chjaoga hujum qildi; Chjao 200 000 askar bilan keksa sarkarda Lyan Poni yubordi. Dushmanning kuchliligi va Chjaoning zaifligini hisobga olib, Lyan Po qat'iy mudofaa buyurdi — hech qanday tashabbuskor hujum yo'q. Qin unga qayta-qayta chaqiriq yuborib, uni qo'rqoq deb atadi — u baribir qo'shin yubormadi. Bu juda yaxshi natija berdi, Qin chegarada to'xtatildi. Asta-sekin Qin tez g'alaba qozona olmadi; ta'minot yetishmay qoldi. Qin xalqi Lyan Poning jang san'atida mohir ekanini bilardi; Chjaoni tezda yengish uchun uni qaytarib olish kerak edi. Shuning uchun ular butun Chjao bo'ylab mish-mishlar tarqatdilar: Qin eng ko'p Chjao Kuodan qo'rqadi; boshqalar ular uchun hech narsa emas. Chjao qiroli Lyan Poning jang qilishdan bosh tortganidan allaqachon g'azablangan edi, bu yolg'onga ishondi va Chjao Kuoni uning o'rniga yubordi. Chjao Kuoning onasi qirolni o'g'lini tayinlashdan qayta-qayta to'xtatishga urindi, u mustaqil qo'mondonlik qilishga layoqati yo'qligini aytdi. Ammo beparvo qirol quloq solmadi! Miloddan avvalgi 260 yilda Chjao Kuo qo'shinni olib chiqdi. Ko'r-ko'rona o'ziga ishonib, Qinini mensimay, u Lyan Poning rejasini butunlay o'zgartirdi, kitoblarga qat'iy amal qildi va tashabbuskor hujum qildi — yuz minglab Chjao askarlari halok bo'ldi, qimmatli hayotlar yo'qoldi. Bu 'qog'ozda urush haqida gapirish' iborasining kelib chiqishi. Bugungi kunda u faqat quruq nazariya haqida gapiradiganlarni kinoya qiladi va bizga eslatadi: moslashuvchan harakat qiling va nazariyani amaliyot bilan bog'lang.",
+    "tg": "Зиёда аз 2700 сол пеш, дар охири давраи Ҷангҳои Муттаҳида, сарлашкари машҳури Зао, Зао Ше, писаре бо номи Зао Куо дошт. Вай аз хурдӣ китобҳои зиёди ҳарбӣ хондааст; ҳеҷ кас наметавонист дар бораи корҳои ҳарбӣ аз ӯ беҳтар сухан гӯяд — ҳатто падараш наметавонист ӯро ба ҷои хомӯш кунад. Зао Куо фахрнок шуд, худро ғолиб мепиндошт, ҳатто падарашро рад мекард. Аммо Зао Ше фаҳмид: писари ӯ назарияи ҳарбиро медонад, аммо таҷрибаи воқеии ҷанг надорад — идеяҳояш ба воқеият мувофиқ набуданд. Вай як бор ба занаш пинҳонӣ гуфт: 'Камбудии ин писар калон гап задан аст — вай таълими амалӣ надорад ва наметавонад сарлашкар шавад. Агар сарлашкар шавад, дер ё зуд ба Зао зарар мерасонад.' Солҳо баъд Зао Ше вафот кард. Он сол Чин ба Зао ҳуҷум кард; Зао сарлашкари собиқадор Лиан По бо 200,000 аскар фиристод. Бо назардошти қувваи душман ва заъфи Зао, Лиан По мудофиаи қатъиро фармон дод — ҳеҷ гуна ҳуҷуми пешдастӣ набошад. Чин борҳо ӯро ба ҷанг даъват кард, ӯро тарсончак номид — ӯ ҳанӯз аскар нафиристод. Ин хеле хуб кор кард, Чинро дар сарҳад боздошт. Тадриҷан Чин наметавонист зуд ғалаба кунад; таъминот кам шуд. Мардуми Чин медонистанд, ки Лиан По дар ҷанг моҳир аст; барои зуд шикаст додани Зао, онҳо бояд ӯро бозхонд кунанд. Пас онҳо дар тамоми Зао шумораҳо паҳн карданд: Чин аз ҳама бештар аз Зао Куо метарсад; дигарон барои онҳо ҳеҷ чиз нестанд. Подшоҳи Зао, ки аллакай аз рад кардани ҷанги Лиан По хашмгин буд, ба ин фиреб дода шуд ва Зао Куоро ба ҷои ӯ фиристод. Модари Зао Куо борҳо кӯшиш кард, ки подшоҳро аз таъин кардани писари худ боздорад ва гуфт, ки ӯ ҳуқуқ надорад мустақилона фармондеҳӣ кунад. Аммо подшоҳи беақл гӯш накард! Дар соли 260 пеш аз милод, Зао Куо аскаронро берун баровард. Бо эътимоди кӯрона ба худ ва нафрат ба Чин, ӯ нақшаи Лиан Поро комилан тағйир дод, китобҳоро қатъӣ риоя кард ва пешдастӣ ҳуҷум кард — садҳо ҳазор аскари Зао ҳалок шуданд, ҳаёти гаронбаҳо аз даст рафт. Ин пайдоиши ибораи 'дар бораи ҷанг дар коғаз гап задан' аст. Имрӯз он касонеро маҳкум мекунад, ки танҳо назарияи холӣ мегӯянд ва ба мо ёдоварӣ мекунад: чандир амал кунед ва назарияро бо амал пайваст кунед.",
+    "id": "Lebih dari 2.700 tahun yang lalu, pada akhir periode Negara-Negara Berperang, jenderal terkenal dari Zhao, Zhao She, memiliki seorang putra bernama Zhao Kuo. Ia membaca banyak buku militer sejak kecil; tidak ada yang bisa mengalahkannya dalam berbicara tentang urusan militer — bahkan ayahnya tidak bisa membantahnya. Zhao Kuo tumbuh sombong, menganggap dirinya tak terkalahkan, bahkan meremehkan ayahnya. Tetapi Zhao She memahami: putranya tahu teori militer tetapi tidak memiliki pengalaman tempur nyata — ide-idenya tidak sesuai dengan kenyataan. Ia pernah diam-diam berkata kepada istrinya: 'Kelemahan anak itu adalah berbicara besar — ia kurang latihan praktis dan tidak bisa menjadi jenderal. Jika ia menjadi jenderal, cepat atau lambat ia akan merugikan Zhao.' Bertahun-tahun kemudian Zhao She meninggal. Tahun itu Qin menyerang Zhao; Zhao mengirim jenderal veteran Lian Po dengan 200.000 tentara. Mengingat kekuatan musuh dan kelemahan Zhao, Lian Po memerintahkan pertahanan ketat — sama sekali tidak ada serangan proaktif. Qin berulang kali menantangnya, menyebutnya pengecut — ia tetap tidak mengirim pasukan. Ini bekerja sangat baik, memblokir Qin di perbatasan. Perlahan-lahan, Qin tidak bisa menang cepat; persediaan menipis. Orang-orang Qin tahu Lian Po ahli dalam perang; untuk mengalahkan Zhao dengan cepat, mereka perlu memanggilnya kembali. Jadi mereka menyebarkan rumor di seluruh Zhao: Qin paling takut pada Zhao Kuo; yang lain tidak berarti bagi mereka. Raja Zhao, yang sudah marah karena Lian Po menolak bertempur, termakan rumor itu dan mengirim Zhao Kuo untuk menggantikannya. Ibu Zhao Kuo berulang kali mencoba menghentikan raja dari menunjuk putranya, mengatakan ia tidak memiliki kualifikasi untuk memimpin secara independen. Tetapi raja yang bodoh tidak mau mendengarkan! Pada 260 SM, Zhao Kuo memimpin pasukan keluar. Dengan percaya diri buta dan meremehkan Qin, ia sepenuhnya mengubah rencana Lian Po, mengikuti buku secara kaku, dan menyerang secara proaktif — ratusan ribu tentara Zhao tewas, nyawa berharga hilang. Inilah asal mula idiom 'bicara perang di atas kertas'. Hari ini ini menyindir mereka yang hanya berbicara teori kosong, mengingatkan kita: bertindaklah secara fleksibel dan hubungkan teori dengan praktik."
   },
   "vocabulary": [
     {
@@ -42,7 +49,10 @@
       "meaning": {
         "ru": "бумажный стратег",
         "tk": "kagyzda söweşiji",
-        "en": "armchair strategist"
+        "en": "armchair strategist",
+        "uz": "quruq strateg",
+        "tg": "стратеги курсиӣ",
+        "id": "strategi di atas kertas"
       }
     },
     {
@@ -52,7 +62,10 @@
       "meaning": {
         "ru": "военное дело",
         "tk": "harby iş",
-        "en": "military affairs"
+        "en": "military affairs",
+        "uz": "harbiy ishlar",
+        "tg": "корҳои ҳарбӣ",
+        "id": "urusan militer"
       }
     },
     {
@@ -62,7 +75,10 @@
       "meaning": {
         "ru": "враг",
         "tk": "duşman",
-        "en": "enemy"
+        "en": "enemy",
+        "uz": "dushman",
+        "tg": "душман",
+        "id": "musuh"
       }
     },
     {
@@ -72,7 +88,10 @@
       "meaning": {
         "ru": "теория",
         "tk": "teoriýa",
-        "en": "theory"
+        "en": "theory",
+        "uz": "nazariya",
+        "tg": "назария",
+        "id": "teori"
       }
     },
     {
@@ -82,7 +101,10 @@
       "meaning": {
         "ru": "воевать",
         "tk": "söweşmek",
-        "en": "to fight a battle"
+        "en": "to fight a battle",
+        "uz": "jang qilmoq",
+        "tg": "ҷанг кардан",
+        "id": "berperang"
       }
     },
     {
@@ -92,7 +114,10 @@
       "meaning": {
         "ru": "недостаток, изъян",
         "tk": "kemçilik",
-        "en": "shortcoming"
+        "en": "shortcoming",
+        "uz": "kamchilik",
+        "tg": "камбудӣ",
+        "id": "kekurangan"
       }
     },
     {
@@ -102,7 +127,10 @@
       "meaning": {
         "ru": "принцип, разум",
         "tk": "pikir, esas",
-        "en": "principle"
+        "en": "principle",
+        "uz": "tamoyil",
+        "tg": "принсип",
+        "id": "prinsip"
       }
     },
     {
@@ -112,7 +140,10 @@
       "meaning": {
         "ru": "рано или поздно",
         "tk": "ir-hem-giç",
-        "en": "sooner or later"
+        "en": "sooner or later",
+        "uz": "ertami-kechmi",
+        "tg": "дер ё зуд",
+        "id": "cepat atau lambat"
       }
     },
     {
@@ -122,7 +153,10 @@
       "meaning": {
         "ru": "армия",
         "tk": "goşun",
-        "en": "army"
+        "en": "army",
+        "uz": "armiya",
+        "tg": "артиш",
+        "id": "tentara"
       }
     },
     {
@@ -132,7 +166,10 @@
       "meaning": {
         "ru": "посылать",
         "tk": "ibermek",
-        "en": "to send"
+        "en": "to send",
+        "uz": "yubormoq",
+        "tg": "фиристодан",
+        "id": "mengirim"
       }
     },
     {
@@ -142,7 +179,10 @@
       "meaning": {
         "ru": "слабый",
         "tk": "güýçsüz",
-        "en": "weak"
+        "en": "weak",
+        "uz": "kuchsiz",
+        "tg": "заиф",
+        "id": "lemah"
       }
     },
     {
@@ -152,7 +192,10 @@
       "meaning": {
         "ru": "ситуация",
         "tk": "ýagdaý",
-        "en": "situation"
+        "en": "situation",
+        "uz": "vaziyat",
+        "tg": "вазъият",
+        "id": "situasi"
       }
     },
     {
@@ -162,7 +205,10 @@
       "meaning": {
         "ru": "приказывать; приказ",
         "tk": "buýurmak; buýruk",
-        "en": "to command"
+        "en": "to command",
+        "uz": "buyruq bermoq",
+        "tg": "фармон додан",
+        "id": "memerintah"
       }
     },
     {
@@ -172,7 +218,10 @@
       "meaning": {
         "ru": "оборонять",
         "tk": "goramak",
-        "en": "to guard"
+        "en": "to guard",
+        "uz": "qo'riqlamoq",
+        "tg": "посбонӣ кардан",
+        "id": "menjaga"
       }
     },
     {
@@ -182,7 +231,10 @@
       "meaning": {
         "ru": "позиция",
         "tk": "pozisiýa",
-        "en": "position"
+        "en": "position",
+        "uz": "mavqe",
+        "tg": "мавқеъ",
+        "id": "posisi"
       }
     },
     {
@@ -192,7 +244,10 @@
       "meaning": {
         "ru": "абсолютный; абсолютно",
         "tk": "mutlak; asla",
-        "en": "absolute"
+        "en": "absolute",
+        "uz": "mutlaq",
+        "tg": "мутлақ",
+        "id": "mutlak"
       }
     },
     {
@@ -202,7 +257,10 @@
       "meaning": {
         "ru": "инициативный",
         "tk": "işjen",
-        "en": "on one's initiative"
+        "en": "on one's initiative",
+        "uz": "o'z tashabbusi bilan",
+        "tg": "бо ташаббуси худ",
+        "id": "atas inisiatif sendiri"
       }
     },
     {
@@ -212,7 +270,10 @@
       "meaning": {
         "ru": "бросать вызов",
         "tk": "çagyryş",
-        "en": "to challenge"
+        "en": "to challenge",
+        "uz": "chaqirmoq",
+        "tg": "баҳс кардан",
+        "id": "menantang"
       }
     },
     {
@@ -222,7 +283,10 @@
       "meaning": {
         "ru": "ругать",
         "tk": "sögmek",
-        "en": "to curse"
+        "en": "to curse",
+        "uz": "qarg'amoq",
+        "tg": "лаънат кардан",
+        "id": "mengutuk"
       }
     },
     {
@@ -232,7 +296,10 @@
       "meaning": {
         "ru": "трус",
         "tk": "gorkak",
-        "en": "coward"
+        "en": "coward",
+        "uz": "qo'rqoq",
+        "tg": "тарсон",
+        "id": "pengecut"
       }
     },
     {
@@ -242,7 +309,10 @@
       "meaning": {
         "ru": "победить",
         "tk": "ýeňmek",
-        "en": "to win"
+        "en": "to win",
+        "uz": "yutmoq",
+        "tg": "ғолиб омадан",
+        "id": "menang"
       }
     },
     {
@@ -252,7 +322,10 @@
       "meaning": {
         "ru": "переводить, отзывать",
         "tk": "çagyryp almak",
-        "en": "to transfer"
+        "en": "to transfer",
+        "uz": "o'tkazmoq",
+        "tg": "интиқол додан",
+        "id": "mentransfer"
       }
     },
     {
@@ -262,7 +335,10 @@
       "meaning": {
         "ru": "распускать",
         "tk": "ýaýratmak",
-        "en": "to spread"
+        "en": "to spread",
+        "uz": "tarqatmoq",
+        "tg": "паҳн кардан",
+        "id": "menyebarkan"
       }
     },
     {
@@ -272,7 +348,10 @@
       "meaning": {
         "ru": "слух",
         "tk": "myş-myş",
-        "en": "rumor"
+        "en": "rumor",
+        "uz": "mish-mish",
+        "tg": "овоза",
+        "id": "rumor"
       }
     },
     {
@@ -282,7 +361,10 @@
       "meaning": {
         "ru": "попасться",
         "tk": "aldanmak",
-        "en": "to be taken in"
+        "en": "to be taken in",
+        "uz": "qabul qilinishi kerak",
+        "tg": "фиреб хӯрдан",
+        "id": "tertipu"
       }
     },
     {
@@ -292,7 +374,10 @@
       "meaning": {
         "ru": "неоднократно",
         "tk": "gaýta-gaýta",
-        "en": "again and again"
+        "en": "again and again",
+        "uz": "qayta-qayta",
+        "tg": "такрор ва такрор",
+        "id": "berulang kali"
       }
     },
     {
@@ -302,7 +387,10 @@
       "meaning": {
         "ru": "останавливать",
         "tk": "päsgel bermek",
-        "en": "to stop"
+        "en": "to stop",
+        "uz": "to'xtatmoq",
+        "tg": "боздоштан",
+        "id": "berhenti"
       }
     },
     {
@@ -312,7 +400,10 @@
       "meaning": {
         "ru": "назначать",
         "tk": "belilemek",
-        "en": "to appoint"
+        "en": "to appoint",
+        "uz": "tayinlamoq",
+        "tg": "таъин кардан",
+        "id": "menunjuk"
       }
     },
     {
@@ -322,7 +413,10 @@
       "meaning": {
         "ru": "самостоятельный",
         "tk": "özbaşdak",
-        "en": "independent"
+        "en": "independent",
+        "uz": "mustaqil",
+        "tg": "мустақил",
+        "id": "mandiri"
       }
     },
     {
@@ -332,7 +426,10 @@
       "meaning": {
         "ru": "квалификация",
         "tk": "hünär derejesi",
-        "en": "qualification"
+        "en": "qualification",
+        "uz": "malaka",
+        "tg": "тахассус",
+        "id": "kualifikasi"
       }
     },
     {
@@ -342,7 +439,10 @@
       "meaning": {
         "ru": "глупый, бестолковый",
         "tk": "akylsyz",
-        "en": "muddleheaded"
+        "en": "muddleheaded",
+        "uz": "boshqasi aralashgan",
+        "tg": "саргумроҳ",
+        "id": "linglung"
       }
     },
     {
@@ -352,7 +452,10 @@
       "meaning": {
         "ru": "наша эра",
         "tk": "bizim eramyz",
-        "en": "Christian era"
+        "en": "Christian era",
+        "uz": "milodiy davr",
+        "tg": "Давраи насронӣ",
+        "id": "era Kristen"
       }
     },
     {
@@ -362,7 +465,10 @@
       "meaning": {
         "ru": "слепой",
         "tk": "kör",
-        "en": "blind"
+        "en": "blind",
+        "uz": "ko'r",
+        "tg": "нобино",
+        "id": "buta"
       }
     },
     {
@@ -372,7 +478,10 @@
       "meaning": {
         "ru": "пренебрегать",
         "tk": "äsgermezlik etmek",
-        "en": "to look down upon"
+        "en": "to look down upon",
+        "uz": "past nazar bilan qaramoq",
+        "tg": "бо назари ҳақорат нигоҳ кардан",
+        "id": "meremehkan"
       }
     },
     {
@@ -382,7 +491,10 @@
       "meaning": {
         "ru": "план, схема",
         "tk": "meýilnama",
-        "en": "plan"
+        "en": "plan",
+        "uz": "reja",
+        "tg": "нақша",
+        "id": "rencana"
       }
     },
     {
@@ -392,7 +504,10 @@
       "meaning": {
         "ru": "наступать",
         "tk": "hüjüm etmek",
-        "en": "to attack"
+        "en": "to attack",
+        "uz": "hujum qilmoq",
+        "tg": "ҳамла кардан",
+        "id": "menyerang"
       }
     },
     {
@@ -402,7 +517,10 @@
       "meaning": {
         "ru": "драгоценный",
         "tk": "gymmatly",
-        "en": "precious"
+        "en": "precious",
+        "uz": "qimmatbaho",
+        "tg": "қимматбаҳо",
+        "id": "berharga"
       }
     },
     {
@@ -412,7 +530,10 @@
       "meaning": {
         "ru": "высмеивать",
         "tk": "ýaňsylamak",
-        "en": "to satirize"
+        "en": "to satirize",
+        "uz": "hajv qilmoq",
+        "tg": "масхара кардан",
+        "id": "menyindir"
       }
     },
     {
@@ -422,7 +543,10 @@
       "meaning": {
         "ru": "гибкий",
         "tk": "çeýe",
-        "en": "flexible"
+        "en": "flexible",
+        "uz": "moslashuvchan",
+        "tg": "чандир",
+        "id": "fleksibel"
       }
     }
   ],
@@ -433,68 +557,101 @@
       "explanation": {
         "ru": "«动词+得过/不过» — «превосходить / уступать».",
         "tk": "«动词+得过/不过» — «ýeňmek / ýeňilmek».",
-        "en": "'V + 得过/不过' — 'to surpass / to fall short'."
+        "en": "'V + 得过/不过' — 'to surpass / to fall short'.",
+        "uz": "'V + 得过/不过' — 'ustun kelmoq / ortda qolmoq'.",
+        "tg": "'V + 得过/不过' — 'бартарӣ доштан / кам мондан'.",
+        "id": "'V + 得过/不过' — 'melebihi / tidak mampu menyaingi'."
       },
       "examples": [
         {
           "zh": "跟别人谈论起军事来，没有人说得过他。",
           "ru": "В разговорах о военном деле никто не мог его превзойти.",
           "tk": "Harby iş barada gürrüňde hiç kim ondan öňe geçip bilmedi.",
-          "en": "In military talk, no one could outdo him."
+          "en": "In military talk, no one could outdo him.",
+          "uz": "Harbiy suhbatda hech kim undan oshib tusha olmasdi.",
+          "tg": "Дар гуфтугӯи ҳарбӣ, ҳеҷ кас наметавонист аз ӯ пеш гузарад.",
+          "id": "Dalam pembicaraan militer, tidak ada yang bisa mengalahkannya."
         },
         {
           "zh": "年轻人记忆力好，这一点我比不过你们。",
           "ru": "У молодых память лучше — в этом я вам уступаю.",
           "tk": "Ýaşlaryň ýady gowy — bu meselede men size ýetip bilemok.",
-          "en": "Young people have better memory — I can't match you in this."
+          "en": "Young people have better memory — I can't match you in this.",
+          "uz": "Yoshlarning xotirasi yaxshiroq — bu borada men siz bilan tenglasha olmayman.",
+          "tg": "Ҷавонон хотираи беҳтар доранд — ман дар ин кор ба шумо баробар шуда наметавонам.",
+          "id": "Orang muda memiliki daya ingat yang lebih baik — saya tidak bisa menyaingi kamu dalam hal ini."
         },
         {
           "zh": "我们的原材料贵，人工费用高，产品在价格上肯定竞争不过他们。",
           "ru": "Наше сырьё дороже, оплата труда выше — в цене мы точно не потягаемся.",
           "tk": "Çig malymyz gymmat, zähmet haky ýokary — bahada bäsdeşlik edip bilemzok.",
-          "en": "Our materials are pricier, labor costs higher — we can't compete on price."
+          "en": "Our materials are pricier, labor costs higher — we can't compete on price.",
+          "uz": "Bizning materiallarimiz qimmatroq, mehnat xarajatlari yuqoriroq — narx bo'yicha raqobatlasha olmaymiz.",
+          "tg": "Маводи мо гаронтар, хароҷоти меҳнатӣ баландтар — мо дар нарх рақобат карда наметавонем.",
+          "id": "Bahan kami lebih mahal, biaya tenaga kerja lebih tinggi — kami tidak bisa bersaing dalam hal harga."
         },
         {
           "zh": "李阳受过专业训练，一般人比不过他。",
           "ru": "Ли Ян прошёл профессиональную подготовку — обычному не сравниться.",
           "tk": "Li Ýan hünär taýýarlygyny geçdi — adaty adam ýetip bilmez.",
-          "en": "Li Yang had professional training — ordinary people can't compare."
+          "en": "Li Yang had professional training — ordinary people can't compare.",
+          "uz": "Li Yang professional tayyorgarlikka ega edi — oddiy odamlar tenglasha olmaydi.",
+          "tg": "Ли Ян таълими касбӣ дошт — одамони оддӣ муқоиса карда наметавонанд.",
+          "id": "Li Yang memiliki pelatihan profesional — orang biasa tidak bisa dibandingkan."
         },
         {
           "zh": "虽然他已经五十多岁了，但干起活儿来，谁也累不过他。",
           "ru": "Хотя ему за пятьдесят, в работе никто его не переработает.",
           "tk": "Ol elliden geçen bolsa-da, işde hiç kim ondan ýadamaz.",
-          "en": "Though over fifty, no one can outwork him."
+          "en": "Though over fifty, no one can outwork him.",
+          "uz": "Ellikdan oshgan bo'lsa-da, hech kim undan ko'proq ishlay olmaydi.",
+          "tg": "Ҳарчанд зиёда аз панҷоҳ сол дорад, ҳеҷ кас аз ӯ бештар кор карда наметавонад.",
+          "id": "Meskipun usianya lebih dari lima puluh tahun, tidak ada yang bisa mengalahkan kerja kerasnya."
         },
         {
           "zh": "这道题太难了，我做不过。",
           "ru": "Задача слишком сложная — я не справлюсь.",
           "tk": "Bu mesele gaty kyn — men başaryp bilemok.",
-          "en": "This problem is too hard — I can't do it."
+          "en": "This problem is too hard — I can't do it.",
+          "uz": "Bu muammo juda qiyin — men buni uddalay olmayman.",
+          "tg": "Ин масъала хеле душвор аст — ман онро ҳал карда наметавонам.",
+          "id": "Masalah ini terlalu sulit — aku tidak bisa mengerjakannya."
         },
         {
           "zh": "他跑得比我快，我追不过。",
           "ru": "Он бегает быстрее меня — мне не догнать.",
           "tk": "Ol menden çalt ylgýar — men kowup bilemok.",
-          "en": "He runs faster — I can't catch him."
+          "en": "He runs faster — I can't catch him.",
+          "uz": "U tezroq yuguradi — men uni tuta olmayman.",
+          "tg": "Ӯ тезтар медавад — ман ӯро дастгир карда наметавонам.",
+          "id": "Dia berlari lebih cepat — aku tidak bisa menangkapnya."
         },
         {
           "zh": "我说不过他，就先听他说吧。",
           "ru": "Мне его не переубедить — послушаю.",
           "tk": "Men onyň bilen jedelleşip bilemok — gulak asaýyn.",
-          "en": "I can't out-argue him — let's listen first."
+          "en": "I can't out-argue him — let's listen first.",
+          "uz": "Men u bilan bahslashib ustun kela olmayman — avval tinglaylik.",
+          "tg": "Ман дар баҳс аз ӯ боло баромада наметавонам — биёед аввал гӯш кунем.",
+          "id": "Aku tidak bisa berdebat melawannya — mari kita dengarkan dulu."
         },
         {
           "zh": "他力气大得惊人，谁也扳不过他。",
           "ru": "Он невероятно силён — никто его не переборет.",
           "tk": "Onuň güýji haýran galdyryjy — hiç kim ony ýeňip bilmez.",
-          "en": "He's incredibly strong — no one can overpower him."
+          "en": "He's incredibly strong — no one can overpower him.",
+          "uz": "U nihoyatda kuchli — hech kim uni yenga olmaydi.",
+          "tg": "Ӯ ба таври боварнакарданӣ қавӣ аст — ҳеҷ кас ӯро шикаст дода наметавонад.",
+          "id": "Dia sangat kuat — tidak ada yang bisa mengalahkannya."
         },
         {
           "zh": "这个小孩很聪明，大人也说不过他。",
           "ru": "Этот ребёнок очень умён — даже взрослые не могут его переспорить.",
           "tk": "Bu çaga örän akylly — hatda ulular hem oňa garşy aýdyp bilemez.",
-          "en": "This child is very smart — even adults can't out-argue him."
+          "en": "This child is very smart — even adults can't out-argue him.",
+          "uz": "Bu bola juda aqlli — hatto kattalar ham u bilan bahslashib ustun kela olmaydi.",
+          "tg": "Ин кӯдак хеле зирак аст — ҳатто калонсолон дар баҳс аз ӯ боло баромада наметавонанд.",
+          "id": "Anak ini sangat pintar — bahkan orang dewasa tidak bisa berdebat melawannya."
         }
       ],
       "formula": {
@@ -566,68 +723,101 @@
       "explanation": {
         "ru": "«迟早» — «рано или поздно».",
         "tk": "«迟早» — «ir-hem-giç».",
-        "en": "'迟早' means 'sooner or later'."
+        "en": "'迟早' means 'sooner or later'.",
+        "uz": "'迟早' 'sooner or later' degani.",
+        "tg": "'迟早' маънои 'дер ё зуд'-ро дорад.",
+        "id": "'迟早' berarti 'cepat atau lambat'."
       },
       "examples": [
         {
           "zh": "如果让他当了大将，迟早会害了赵国。",
           "ru": "Если он станет генералом, рано или поздно это погубит Чжао.",
           "tk": "Ol serkerde bolsa, ir-hem-giç Çžaoguo-ny zaýalar.",
-          "en": "If he becomes a general, sooner or later he'll ruin Zhao."
+          "en": "If he becomes a general, sooner or later he'll ruin Zhao.",
+          "uz": "Agar u general bo'lsa, ertami-kechmi Chjaoni xarob qiladi.",
+          "tg": "Агар ӯ генерал шавад, дер ё зуд Чжаоро хароб мекунад.",
+          "id": "Jika dia menjadi jenderal, cepat atau lambat dia akan menghancurkan Zhao."
         },
         {
           "zh": "随着网络技术的发展，这些问题迟早都会得到解决。",
           "ru": "С развитием сетевых технологий эти проблемы рано или поздно решатся.",
           "tk": "Tor tehnologiýalarynyň ösmegi bilen bu meseleler ir-hem-giç çözüler.",
-          "en": "With network tech, these problems will be solved sooner or later."
+          "en": "With network tech, these problems will be solved sooner or later.",
+          "uz": "Tarmoq texnologiyasi bilan bu muammolar ertami-kechmi hal qilinadi.",
+          "tg": "Бо технологияи шабакавӣ, ин масъалаҳо дер ё зуд ҳал хоҳанд шуд.",
+          "id": "Dengan teknologi jaringan, masalah-masalah ini akan terpecahkan cepat atau lambat."
         },
         {
           "zh": "如果不重视技术研究和产品开发，我们迟早会被别人挤出市场。",
           "ru": "Если не重视 НИОКР, нас рано или поздно вытеснят с рынка.",
           "tk": "Tehnologiýa we önüm işläp çykmaga üns bermesek, bizi ir-hem-giç bazardan gysarlar.",
-          "en": "If we neglect R&D, we'll be pushed out of the market sooner or later."
+          "en": "If we neglect R&D, we'll be pushed out of the market sooner or later.",
+          "uz": "Agar biz ilmiy-tadqiqot ishlariga e'tibor bermasak, ertami-kechmi bozordan siqib chiqarilamiz.",
+          "tg": "Агар мо таҳқиқот ва таҳияро сарфи назар кунем, дер ё зуд аз бозор берун карда мешавем.",
+          "id": "Jika kita mengabaikan R&D, cepat atau lambat kita akan tersingkir dari pasar."
         },
         {
           "zh": "你要认真学习，否则迟早会后悔。",
           "ru": "Учись серьёзно, иначе рано или поздно пожалеешь.",
           "tk": "Çynlakaý oka, ýogsam ir-hem-giç puşman edersiň.",
-          "en": "Study hard, or you'll regret it sooner or later."
+          "en": "Study hard, or you'll regret it sooner or later.",
+          "uz": "Qattiq o'qishing kerak, aks holda ertami-kechmi afsuslanasan.",
+          "tg": "Бо ҷидду ҷаҳд таҳсил кун, вагарна дер ё зуд пушаймон мешавӣ.",
+          "id": "Belajarlah dengan giat, atau cepat atau lambat kamu akan menyesal."
         },
         {
           "zh": "真相迟早会大白的。",
           "ru": "Правда рано или поздно раскроется.",
           "tk": "Hakykat ir-hem-giç aýan bolar.",
-          "en": "The truth will come out sooner or later."
+          "en": "The truth will come out sooner or later.",
+          "uz": "Haqiqat ertami-kechmi oshkor bo'ladi.",
+          "tg": "Ҳақиқат дер ё зуд ошкор мешавад.",
+          "id": "Kebenaran akan terungkap cepat atau lambat."
         },
         {
           "zh": "这种坏习惯迟早要改。",
           "ru": "Эту дурную привычку рано или поздно придётся бросить.",
           "tk": "Bu erbet endigi ir-hem-giç taşlamaly.",
-          "en": "This bad habit must be dropped sooner or later."
+          "en": "This bad habit must be dropped sooner or later.",
+          "uz": "Bu yomon odatdan ertami-kechmi voz kechish kerak.",
+          "tg": "Ин одати бад бояд дер ё зуд тарк карда шавад.",
+          "id": "Kebiasaan buruk ini harus ditinggalkan cepat atau lambat."
         },
         {
           "zh": "迟到的人迟早会被批评。",
           "ru": "Тот, кто опаздывает, рано или поздно получит выговор.",
           "tk": "Gijä galýan ir-hem-giç käýilýär.",
-          "en": "Those who are late will be criticized sooner or later."
+          "en": "Those who are late will be criticized sooner or later.",
+          "uz": "Kechikkanlar ertami-kechmi tanqid qilinadi.",
+          "tg": "Онҳое, ки дер мекунанд, дер ё зуд танқид карда мешаванд.",
+          "id": "Mereka yang terlambat akan dikritik cepat atau lambat."
         },
         {
           "zh": "谎言迟早会被识破。",
           "ru": "Ложь рано или поздно раскроется.",
           "tk": "Ýalan ir-hem-giç aýan bolar.",
-          "en": "Lies will be exposed sooner or later."
+          "en": "Lies will be exposed sooner or later.",
+          "uz": "Yolg'onlar ertami-kechmi fosh bo'ladi.",
+          "tg": "Дурӯғҳо дер ё зуд фош мешаванд.",
+          "id": "Kebohongan akan terungkap cepat atau lambat."
         },
         {
           "zh": "努力迟早会有回报的。",
           "ru": "Усилия рано или поздно воздадутся.",
           "tk": "Tagallalar ir-hem-giç öwezini dolýar.",
-          "en": "Efforts will pay off sooner or later."
+          "en": "Efforts will pay off sooner or later.",
+          "uz": "Harakatlar ertami-kechmi o'z samarasini beradi.",
+          "tg": "Кӯшишҳо дер ё зуд самар медиҳанд.",
+          "id": "Usaha akan membuahkan hasil cepat atau lambat."
         },
         {
           "zh": "迟早你得自己做决定。",
           "ru": "Рано или поздно тебе придётся решить самому.",
           "tk": "Ir-hem-giç özüň karar bermeli bolarsyň.",
-          "en": "Sooner or later you'll have to decide yourself."
+          "en": "Sooner or later you'll have to decide yourself.",
+          "uz": "Ertami-kechmi o'zing qaror qabul qilishingga to'g'ri keladi.",
+          "tg": "Дер ё зуд худат бояд қарор бигирӣ.",
+          "id": "Cepat atau lambat kamu harus memutuskan sendiri."
         }
       ],
       "formula": {
@@ -698,68 +888,101 @@
       "explanation": {
         "ru": "«再三» — «неоднократно». Может стоять и перед, и после глагола.",
         "tk": "«再三» — «gaýta-gaýta».",
-        "en": "'再三' means 'again and again'. Can come before or after verb."
+        "en": "'再三' means 'again and again'. Can come before or after verb.",
+        "uz": "'再三' 'again and again' degani. Fe'ldan oldin yoki keyin kelishi mumkin.",
+        "tg": "'再三' маънои 'такрор ва такрор'-ро дорад. Метавонад пеш ё баъд аз феъл ояд.",
+        "id": "'再三' berarti 'berulang kali'. Bisa diletakkan sebelum atau sesudah kata kerja."
       },
       "examples": [
         {
           "zh": "赵括的母亲再三阻止赵王任命儿子为大将。",
           "ru": "Мать Чжао Ко неоднократно отговаривала вана назначать сына генералом.",
           "tk": "Çžao Konyň ejesi wanyň ogly serkerde bellemegini gaýta-gaýta saklady.",
-          "en": "Zhao Kuo's mother repeatedly stopped the king from appointing her son."
+          "en": "Zhao Kuo's mother repeatedly stopped the king from appointing her son.",
+          "uz": "Chjao Kuo onasi podshohni o'g'lini tayinlashdan bir necha marta to'xtatdi.",
+          "tg": "Модари Чжао Куо пайваста шоҳро аз таъин кардани писари худ бозмедошт.",
+          "id": "Ibu Zhao Kuo berulang kali mencegah raja menunjuk putranya."
         },
         {
           "zh": "我最近这段时间特别忙，实在没时间参加小王的活动，可他再三邀请，出于礼貌，我只好答应了。",
           "ru": "Я очень занят — не до мероприятия Сяо Вана, но он трижды приглашал — из вежливости пришлось согласиться.",
           "tk": "Men gaty meşgul — Sýao Wanyň çäresine wagt ýok, ýöne ol gaýta-gaýta çagyrdy — edeplik üçin razy boldum.",
-          "en": "I'm swamped, but he invited me repeatedly — out of politeness I agreed."
+          "en": "I'm swamped, but he invited me repeatedly — out of politeness I agreed.",
+          "uz": "Ishim boshimdan oshgan, lekin u qayta-qayta taklif qildi — odob saqlab rozi bo'ldim.",
+          "tg": "Ман бисёр банд ҳастам, аммо ӯ маро пайваста даъват мекард — аз рӯи одоб розӣ шудам.",
+          "id": "Saya sangat sibuk, tetapi dia berulang kali mengundang saya — demi kesopanan saya setuju."
         },
         {
           "zh": "朋友请他做公司的总经理，他考虑再三，最后还是客气地拒绝了。",
           "ru": "Друг предложил ему пост генерального директора — подумав много раз, он вежливо отказался.",
           "tk": "Dosty oňa baş direktor wezipesini teklip etdi — ol köp oýlanyp, sypaýylyk bilen ret etdi.",
-          "en": "A friend offered him the GM position — after much thought, he politely declined."
+          "en": "A friend offered him the GM position — after much thought, he politely declined.",
+          "uz": "Do'sti unga bosh direktor lavozimini taklif qildi — ko'p o'ylab, xushmuomalalik bilan rad etdi.",
+          "tg": "Дӯст ба ӯ вазифаи директори генералиро пешниҳод кард — баъди андешаи зиёд ӯ бо одоб рад кард.",
+          "id": "Seorang teman menawarinya posisi GM — setelah berpikir panjang, dia dengan sopan menolaknya."
         },
         {
           "zh": "他再三道歉，我才原谅了他。",
           "ru": "Он много раз извинялся — только тогда я его простил.",
           "tk": "Ol gaýta-gaýta ötünç sorady — şonda men ony bagyşladym.",
-          "en": "He apologized repeatedly before I forgave him."
+          "en": "He apologized repeatedly before I forgave him.",
+          "uz": "U men kechirishimdan oldin qayta-qayta kechirim so'radi.",
+          "tg": "Ӯ пайваста узр мепурсид, то ки ман ӯро бахшидам.",
+          "id": "Dia berulang kali meminta maaf sebelum saya memaafkannya."
         },
         {
           "zh": "医生再三叮嘱他要按时吃药。",
           "ru": "Врач неоднократно напоминал принимать лекарство вовремя.",
           "tk": "Lukman oňa dermany wagtynda içmegi gaýta-gaýta aýtdy.",
-          "en": "The doctor repeatedly reminded him to take medicine on time."
+          "en": "The doctor repeatedly reminded him to take medicine on time.",
+          "uz": "Shifokor unga dorini vaqtida ichishni qayta-qayta eslatdi.",
+          "tg": "Духтур пайваста ба ӯ ёдовар мешуд, ки доруро сари вақт истеъмол кунад.",
+          "id": "Dokter berulang kali mengingatkannya untuk minum obat tepat waktu."
         },
         {
           "zh": "妈妈再三嘱咐我路上小心。",
           "ru": "Мама неоднократно напоминала мне быть осторожным в пути.",
           "tk": "Ejem ýolda seresap bolmagy gaýta-gaýta aýtdy.",
-          "en": "Mom repeatedly reminded me to be careful on the road."
+          "en": "Mom repeatedly reminded me to be careful on the road.",
+          "uz": "Onam menga yo'lda ehtiyot bo'lishni qayta-qayta eslatdi.",
+          "tg": "Модарам пайваста ба ман ёдовар мешуд, ки дар роҳ эҳтиёткор бошам.",
+          "id": "Ibu berulang kali mengingatkan saya untuk berhati-hati di jalan."
         },
         {
           "zh": "我再三考虑，还是决定不去。",
           "ru": "Я много раз думал и всё же решил не идти.",
           "tk": "Men köp oýlandym, gitmezlik kararyna geldim.",
-          "en": "I thought it over repeatedly and decided not to go."
+          "en": "I thought it over repeatedly and decided not to go.",
+          "uz": "Men qayta-qayta o'ylab ko'rdim va bormaslikka qaror qildim.",
+          "tg": "Ман пайваста андеша кардам ва қарор додам, ки наравам.",
+          "id": "Saya memikirkannya berulang kali dan memutuskan untuk tidak pergi."
         },
         {
           "zh": "领导再三强调安全问题。",
           "ru": "Руководитель неоднократно подчёркивал вопросы безопасности.",
           "tk": "Ýolbaşçy howpsuzlyk meselesini gaýta-gaýta nygtady.",
-          "en": "The leader repeatedly stressed safety."
+          "en": "The leader repeatedly stressed safety.",
+          "uz": "Rahbar xavfsizlikni qayta-qayta ta'kidladi.",
+          "tg": "Роҳбар пайваста ба амният таъкид мекард.",
+          "id": "Pemimpin berulang kali menekankan keselamatan."
         },
         {
           "zh": "他再三请求，我才答应帮他。",
           "ru": "Он много раз просил — я согласился помочь.",
           "tk": "Ol gaýta-gaýta haýyş etdi — men kömek etmäge razy boldum.",
-          "en": "He begged repeatedly — I agreed to help."
+          "en": "He begged repeatedly — I agreed to help.",
+          "uz": "U qayta-qayta yolvordi — yordam berishga rozi bo'ldim.",
+          "tg": "Вай борҳо илтимос кард — ман розӣ шудам, ки кӯмак кунам.",
+          "id": "Dia memohon berulang kali — saya setuju untuk membantu."
         },
         {
           "zh": "这道题我再三检查，还是有错。",
           "ru": "Эту задачу я проверял несколько раз — всё равно есть ошибка.",
           "tk": "Bu meseläni birnäçe gezek barladym — ýene ýalňyş bar.",
-          "en": "I checked this exercise several times — still an error."
+          "en": "I checked this exercise several times — still an error.",
+          "uz": "Men bu mashqni bir necha marta tekshirdim — hali ham xato bor.",
+          "tg": "Ман ин машқро чанд маротиба тафтиш кардам — ҳоло ҳам хато ҳаст.",
+          "id": "Saya memeriksa latihan ini beberapa kali — masih ada kesalahan."
         }
       ],
       "formula": {
@@ -830,68 +1053,101 @@
       "explanation": {
         "ru": "«糊涂» — «глупый, бестолковый; спутанный в мыслях».",
         "tk": "«糊涂» — «akylsyz, kellesi garışyk».",
-        "en": "'糊涂' means 'muddleheaded, confused'."
+        "en": "'糊涂' means 'muddleheaded, confused'.",
+        "uz": "'糊涂' 'muddleheaded, confused' degani.",
+        "tg": "'糊涂' маънои 'саргумроҳ, ошуфта'-ро дорад.",
+        "id": "'糊涂' berarti 'linglung, bingung'."
       },
       "examples": [
         {
           "zh": "可是，糊涂的赵王哪里听得进去！",
           "ru": "Но бестолковый ван Чжао куда там — не стал слушать!",
           "tk": "Emma akylsyz Çžao wany gulak asmady!",
-          "en": "But the muddleheaded King of Zhao wouldn't listen!"
+          "en": "But the muddleheaded King of Zhao wouldn't listen!",
+          "uz": "Ammo sarosimaga tushgan Chjao podshosi quloq solmadi!",
+          "tg": "Аммо подшоҳи саргуми Зҳао гӯш накард!",
+          "id": "Tetapi Raja Zhao yang linglung itu tidak mau mendengarkan!"
         },
         {
           "zh": "你这脑子可真糊涂，银行卡的密码怎么能忘了呢？",
           "ru": "Ну и голова — как можно забыть пароль от карты?",
           "tk": "Kelläň gaty garışyk — bank kartynyň parolyny nähili ýatdan çykaryp bolar?",
-          "en": "How muddled — how can you forget your bank PIN?"
+          "en": "How muddled — how can you forget your bank PIN?",
+          "uz": "Qanday sarosima — bank PIN-kodingizni qanday unutishingiz mumkin?",
+          "tg": "Чӣ қадар саргумӣ — чӣ тавр метавонед PIN-и бонки худро фаромӯш кунед?",
+          "id": "Betapa linglung — bagaimana bisa kamu lupa PIN bankmu?"
         },
         {
           "zh": "人老了，有时会糊涂。",
           "ru": "С возрастом люди становятся забывчивыми.",
           "tk": "Adam garraýança käte kellesi garışýar.",
-          "en": "As people age, they sometimes get confused."
+          "en": "As people age, they sometimes get confused.",
+          "uz": "Odamlar qariganda, ba'zan sarosimaga tushib qoladilar.",
+          "tg": "Ҳангоми пир шудан, одамон баъзан саргум мешаванд.",
+          "id": "Seiring bertambahnya usia, orang kadang-kadang menjadi bingung."
         },
         {
           "zh": "他一时糊涂，做了错事。",
           "ru": "Он по глупости совершил ошибку.",
           "tk": "Ol akylsyzlyk edip, ýalňyş iş etdi.",
-          "en": "He made a mistake in a moment of foolishness."
+          "en": "He made a mistake in a moment of foolishness.",
+          "uz": "U ahmoqlik lahzalarida xatoga yo'l qo'ydi.",
+          "tg": "Вай дар лаҳзаи нодонӣ хато кард.",
+          "id": "Dia membuat kesalahan pada saat kebodohan."
         },
         {
           "zh": "别装糊涂了，你明明知道。",
           "ru": "Не прикидывайся дурачком — ты прекрасно знаешь.",
           "tk": "Akylsyz görünme — sen gowy bilýärsiň.",
-          "en": "Don't play dumb — you clearly know."
+          "en": "Don't play dumb — you clearly know.",
+          "uz": "O'zingizni bilmaganga solmang — siz aniq bilasiz.",
+          "tg": "Худро нодон накун — ту равшан медонӣ.",
+          "id": "Jangan berpura-pura bodoh — kamu jelas tahu."
         },
         {
           "zh": "年龄大了，脑子糊涂也正常。",
           "ru": "С возрастом быть забывчивым — нормально.",
           "tk": "Ýaş uly bolanda kelläniň garışmagy adaty.",
-          "en": "As you age, getting confused is normal."
+          "en": "As you age, getting confused is normal.",
+          "uz": "Qariganingizda, sarosimaga tushish odatiy holdir.",
+          "tg": "Ҳангоми пир шудан, саргум шудан муқаррарӣ аст.",
+          "id": "Seiring bertambahnya usia, menjadi bingung itu normal."
         },
         {
           "zh": "这事把我搞糊涂了。",
           "ru": "Это дело меня запутало.",
           "tk": "Bu iş meni bulaşdyrdy.",
-          "en": "This has muddled me."
+          "en": "This has muddled me.",
+          "uz": "Bu meni sarosimaga soldi.",
+          "tg": "Ин маро ошуфта кард.",
+          "id": "Ini membuat saya bingung."
         },
         {
           "zh": "他糊涂了一辈子，老了反而明白事理了。",
           "ru": "Он всю жизнь был несообразительным, а к старости вдруг поумнел.",
           "tk": "Ol bütin ömrüni kellesi garışyk geçirdi, garraansoň akylly boldy.",
-          "en": "He was muddleheaded all his life — but in old age he became wise."
+          "en": "He was muddleheaded all his life — but in old age he became wise.",
+          "uz": "U butun umri chalkash bo'ldi — ammo qariganda dono bo'ldi.",
+          "tg": "Ӯ тамоми умраш ошуфтаҳол буд — вале дар пиронсолӣ доно шуд.",
+          "id": "Dia linglung sepanjang hidupnya — tetapi di masa tua dia menjadi bijaksana."
         },
         {
           "zh": "你在学习上不能糊涂，要认真。",
           "ru": "В учёбе нельзя быть рассеянным — надо серьёзно.",
           "tk": "Okuwda kelläň garışyk bolmaly däl — çynlakaý bolmaly.",
-          "en": "In studies, you can't be confused — you must be serious."
+          "en": "In studies, you can't be confused — you must be serious.",
+          "uz": "O'qishda chalkashib ketolmaysan — jiddiy bo'lishing kerak.",
+          "tg": "Дар таҳсил шумо наметавонед ошуфта бошед — бояд ҷиддӣ бошед.",
+          "id": "Dalam belajar, kamu tidak boleh bingung — kamu harus serius."
         },
         {
           "zh": "最近事情太多，我都有点儿糊涂了。",
           "ru": "В последнее время столько дел — я совсем запутался.",
           "tk": "Soňky wagtlarda iş köp — men bulaşdym.",
-          "en": "So much has been going on — I'm muddled."
+          "en": "So much has been going on — I'm muddled.",
+          "uz": "Shuncha narsa bo'lib o'tdi — boshim chalkashib ketdi.",
+          "tg": "Бисёр чизҳо рӯй дода истодаанд — ман ошуфта шудаам.",
+          "id": "Banyak sekali yang terjadi — saya bingung."
         }
       ],
       "formula": {
@@ -1001,7 +1257,10 @@
       "common": {
         "ru": "Оба — «добиться цели».",
         "tk": "Ikisi hem «maksada ýetmek».",
-        "en": "Both mean 'to reach the goal'."
+        "en": "Both mean 'to reach the goal'.",
+        "uz": "Ikkalasi ham 'maqsadga erishish' ma'nosini bildiradi.",
+        "tg": "Ҳарду маънои 'ба мақсад расидан'-ро доранд.",
+        "id": "Keduanya berarti 'mencapai tujuan'."
       },
       "differences": [
         {
@@ -1035,7 +1294,10 @@
         "meaning": {
           "ru": "винтовка",
           "tk": "tüpeň",
-          "en": "gun"
+          "en": "gun",
+          "uz": "qurol",
+          "tg": "милтиқ",
+          "id": "senjata"
         }
       },
       {
@@ -1044,7 +1306,10 @@
         "meaning": {
           "ru": "стрельба",
           "tk": "atylgy",
-          "en": "shooting"
+          "en": "shooting",
+          "uz": "otishma",
+          "tg": "тирандозӣ",
+          "id": "penembakan"
         }
       },
       {
@@ -1053,7 +1318,10 @@
         "meaning": {
           "ru": "герой",
           "tk": "gahryman",
-          "en": "hero"
+          "en": "hero",
+          "uz": "qahramon",
+          "tg": "қаҳрамон",
+          "id": "pahlawan"
         }
       },
       {
@@ -1062,7 +1330,10 @@
         "meaning": {
           "ru": "солдат",
           "tk": "esger",
-          "en": "soldier"
+          "en": "soldier",
+          "uz": "askar",
+          "tg": "сарбоз",
+          "id": "tentara"
         }
       },
       {
@@ -1071,7 +1342,10 @@
         "meaning": {
           "ru": "враг",
           "tk": "duşman",
-          "en": "enemy"
+          "en": "enemy",
+          "uz": "dushman",
+          "tg": "душман",
+          "id": "musuh"
         }
       },
       {
@@ -1080,7 +1354,10 @@
         "meaning": {
           "ru": "война",
           "tk": "uruş",
-          "en": "war"
+          "en": "war",
+          "uz": "urush",
+          "tg": "ҷанг",
+          "id": "perang"
         }
       },
       {
@@ -1089,7 +1366,10 @@
         "meaning": {
           "ru": "победа",
           "tk": "ýeňiş",
-          "en": "victory"
+          "en": "victory",
+          "uz": "g'alaba",
+          "tg": "ғалаба",
+          "id": "kemenangan"
         }
       }
     ]
@@ -1098,7 +1378,10 @@
     "discussion": {
       "ru": "Как связать теорию с практикой? Приведите пример из жизни.",
       "tk": "Teoriýany praktika bilen nähili baglanyşdyrmaly? Durmuşdan mysal getiriň.",
-      "en": "How do you connect theory with practice? Give an example."
+      "en": "How do you connect theory with practice? Give an example.",
+      "uz": "Nazariyani amaliyot bilan qanday bog'laysiz? Misol keltiring.",
+      "tg": "Чӣ тавр назарияро бо амалия мепайвандед? Мисол оред.",
+      "id": "Bagaimana Anda menghubungkan teori dengan praktik? Berikan contoh."
     }
   },
   "workbook": {

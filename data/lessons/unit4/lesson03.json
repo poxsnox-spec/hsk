@@ -5,7 +5,8 @@
     "tk": "Daşary ýurtda WeChat",
     "en": "Overseas Users of WeChat",
     "uz": "Chet elda WeChat-dan foydalanish",
-    "tg": "Корбарони хориҷӣ дар WeChat"
+    "tg": "Корбарони хориҷӣ дар WeChat",
+    "id": "Pengguna WeChat di Luar Negeri"
   },
   "audio_files": {
     "textbook_1": "textbook_1.mp3",
@@ -18,7 +19,10 @@
     "question": {
       "ru": "Какими мессенджерами вы пользуетесь? Что такое WeChat?",
       "tk": "Haýsy habarlaşyk programmasyny ulanýarsyňyz? WeChat näme?",
-      "en": "What messengers do you use? What is WeChat?"
+      "en": "What messengers do you use? What is WeChat?",
+      "uz": "Qaysi messenjerlardan foydalanasiz? WeChat nima?",
+      "tg": "Шумо кадом паёмрасонҳоро истифода мебаред? WeChat чист?",
+      "id": "Aplikasi pesan apa yang kamu gunakan? Apa itu WeChat?"
     },
     "answers": [
       "微信",
@@ -32,7 +36,10 @@
   "text_translation": {
     "ru": "Держа телефон, футбольная звезда Месси жонглирует мячом и ведёт прямой эфир в WeChat — и этим рассмешил плачущего младенца на другом конце экрана. Этот 30-секундный рекламный ролик вышел одновременно в 15 странах и регионах. Такой размах оправдан: WeChat «уже имеет более 70 миллионов зарубежных регистраций и быстро растёт». 3 июля 2013 года на конференции партнёров Tencent в Пекине президент Tencent Лю Чипин с гордостью говорил об этом. В январе 2011 WeChat вышел, в апреле — под английским именем WeChat вышел на международный рынок, в декабре 2011 — поддержка SMS-регистрации в 100 странах, к концу 2012 — более 100 стран. Сегодня WeChat охватывает более 200 стран, поддерживает 16 языков и является самым используемым мобильным приложением связи в мире. На фоне доминирования американских интернет-компаний китайский продукт привлёк больше внимания. «Отец WeChat» Чжан Сяолун рассказал: разработка началась рано — ещё в конце 2010, когда мобильный интернет только зарождался. В эпоху ПК Китай отставал по числу пользователей и зрелости рынка, но мобильный интернет дал шанс начать заново. Для рекламы WeChat снимает разные ролики под каждый регион, привлекая местных звёзд — с хорошим эффектом. Среди зарубежных пользователей — не только китайцы и новые иммигранты, но всё больше иностранцев.",
     "tk": "Telefony tutup, futbol ýyldyzy Messi topy oýnap, WeChat-da göni ýaýlymda görkezdi — ekranyň beýleki tarapyndaky aglaýan çagany güldürdi. Şu 30 sekuntlyk reklama 15 ýurtda deň wagtynda çykdy. Şeýle uly gerim esassyz däl: WeChat «daşary ýurtda 70 milliondan gowrak hasaba alyndy we çalt ösýär». 2013-nji ýylyň 3-nji iýulynda Pekinde Tencent hyzmatdaşlar maslahatynda Tencent-iň prezidenti Lýu Çipin bu barada buýsançly gürrüň berdi. 2011-nji ýylyň ýanwarynda WeChat başlady, aprelde halkara bazara çykdy, dekabrda 100 ýurtda SMS hasaba alyş goldawyny berdi, 2012-nji ýylyň ahyrynda 100-den gowrak ýurdy öz içine aldy. Häzir WeChat 200-den gowrak ýurdy öz içine alýar, 16 daşary ýurt dilini goldaýar we dünýäde iň köp ulanylýan aragatnaşyk programmasydyr. «WeChat-yň atasy» Žan Sýaolun gürrüň berdi: ösüş 2010-njy ýylyň ahyrynda, ykjam internet ýaňy başlan wagtynda başlandy. Şol döwürde Hytaý PC döwründe yzda galypdy, emma ykjam internet täzeden başlamaga mümkinçilik berdi. Reklama üçin WeChat her sebit üçin aýratyn rolik döredip, ýerli ýyldyzlary çagyrýar.",
-    "en": "Holding his phone, dribbling the ball, the international football star Messi used WeChat to livestream his ball-juggling skills, making a crying baby on the other end of the line laugh. This brand-new 30-second commercial was released simultaneously in 15 countries and regions. Such a bold promotion — Tencent had reason to be confident. WeChat 'had more than 70 million overseas registered users and was growing rapidly.' On 3 July, at the 2013 Tencent Partners Conference held in Beijing, Tencent President Liu Chiping spoke with pride. In January 2011, WeChat launched; in April the same year, it entered the international market under the English name WeChat; in December 2011, it supported SMS registration in 100 countries; by the end of 2012, it covered more than 100 countries and regions. Today, WeChat covers over 200 countries and regions, supports 16 foreign languages, and is the most used mobile communication application globally. Against the background of American internet companies 'dominating' globally, as China's own mobile internet product, WeChat's appearance naturally attracted more attention. Zhang Xiaolong, senior vice president of Tencent — called 'the father of WeChat' — described WeChat's development: research and development began early — by the end of 2010, mobile internet was just starting, and Tencent's Guangzhou product R&D center began considering related business. They clearly realized the reality: in the PC era, due to China's lower user numbers and market maturity versus developed countries, leadership in product innovation was difficult — but mobile internet was a chance to start over. In sales and marketing, WeChat produced different commercials for different countries and regions, inviting local celebrities to endorse them with very good results. Among overseas users there are not only ethnic Chinese and new immigrants, but more and more foreigners."
+    "en": "Holding his phone, dribbling the ball, the international football star Messi used WeChat to livestream his ball-juggling skills, making a crying baby on the other end of the line laugh. This brand-new 30-second commercial was released simultaneously in 15 countries and regions. Such a bold promotion — Tencent had reason to be confident. WeChat 'had more than 70 million overseas registered users and was growing rapidly.' On 3 July, at the 2013 Tencent Partners Conference held in Beijing, Tencent President Liu Chiping spoke with pride. In January 2011, WeChat launched; in April the same year, it entered the international market under the English name WeChat; in December 2011, it supported SMS registration in 100 countries; by the end of 2012, it covered more than 100 countries and regions. Today, WeChat covers over 200 countries and regions, supports 16 foreign languages, and is the most used mobile communication application globally. Against the background of American internet companies 'dominating' globally, as China's own mobile internet product, WeChat's appearance naturally attracted more attention. Zhang Xiaolong, senior vice president of Tencent — called 'the father of WeChat' — described WeChat's development: research and development began early — by the end of 2010, mobile internet was just starting, and Tencent's Guangzhou product R&D center began considering related business. They clearly realized the reality: in the PC era, due to China's lower user numbers and market maturity versus developed countries, leadership in product innovation was difficult — but mobile internet was a chance to start over. In sales and marketing, WeChat produced different commercials for different countries and regions, inviting local celebrities to endorse them with very good results. Among overseas users there are not only ethnic Chinese and new immigrants, but more and more foreigners.",
+    "uz": "Telefonini ushlab, to'pni dribling qilib, xalqaro futbol yulduzi Messi WeChat orqali to'p o'ynash mahoratini jonli efirda namoyish etib, liniyaning narigi tomonidagi yig'layotgan chaqaloqni kuldirib qo'ydi. Ushbu yangi 30 soniyalik reklama bir vaqtning o'zida 15 mamlakat va mintaqada chiqarildi. Bunday dadil targ'ibot — Tencentning ishonchli bo'lishiga asos bor edi. WeChat '70 milliondan ortiq xorijdagi ro'yxatdan o'tgan foydalanuvchiga ega edi va tez o'sib borayotgan edi.' 3-iyul kuni Pekinda bo'lib o'tgan 2013-yilgi Tencent Hamkorlar Konferensiyasida Tencent prezidenti Lyu Chiping g'urur bilan gapirdi. 2011-yil yanvarda WeChat ishga tushdi; o'sha yilning aprelida u WeChat ingliz nomi ostida xalqaro bozorga chiqdi; 2011-yil dekabrda 100 mamlakatda SMS orqali ro'yxatdan o'tishni qo'llab-quvvatladi; 2012-yil oxiriga kelib, u 100 dan ortiq mamlakat va mintaqani qamrab oldi. Bugungi kunda WeChat 200 dan ortiq mamlakat va mintaqani qamrab oladi, 16 xorijiy tilni qo'llab-quvvatlaydi va dunyo bo'ylab eng ko'p ishlatiladigan mobil aloqa ilovasidir. Amerika internet kompaniyalari global miqyosda 'hukmronlik qilayotgan' bir sharoitda, Xitoyning o'z mobil internet mahsuloti sifatida WeChatning paydo bo'lishi tabiiy ravishda ko'proq e'tiborni tortdi. Tencentning katta vitse-prezidenti — 'WeChatning otasi' deb atalgan — Chjan Syaolun WeChatning rivojlanishini shunday tasvirladi: tadqiqot va ishlanma erta boshlandi — 2010-yil oxiriga kelib, mobil internet endigina boshlanayotgan edi va Tencentning Guanchjou mahsulot tadqiqot-ishlanma markazi tegishli biznesni ko'rib chiqa boshladi. Ular haqiqatni aniq angladilar: PC davrida, Xitoyning foydalanuvchilar soni va bozor yetukligi rivojlangan mamlakatlarga qaraganda pastroq bo'lganligi sababli, mahsulot innovatsiyasida yetakchilik qilish qiyin edi — ammo mobil internet boshidan boshlash imkoniyati edi. Savdo va marketingda WeChat turli mamlakat va mintaqalar uchun turli reklamalar ishlab chiqardi, mahalliy mashhurlarni ularni targ'ib qilishga taklif qildi va natijalar juda yaxshi bo'ldi. Xorijdagi foydalanuvchilar orasida nafaqat etnik xitoylar va yangi muhojirlar, balki tobora ko'proq chet elliklar ham bor.",
+    "tg": "Телефони худро дар даст дошта, тӯбро мезанад, ситораи байналмилалии футбол Месси бо истифода аз WeChat маҳорати тӯббозии худро ба таври зинда намоиш дод ва кӯдаки гирёнеро, ки дар тарафи дигари хат буд, хандонд. Ин рекламаи нави 30-сониягӣ дар 15 кишвар ва минтақа ҳамзамон нашр шуд. Чунин таблиғи ҷасур — Tencent сабаб дошт, ки боварӣ дошта бошад. WeChat 'беш аз 70 миллион корбари сабтиномшудаи хориҷӣ дошт ва босуръат афзоиш меёфт.' 3 июл дар Конференсияи шарикони Tencent соли 2013, ки дар Пекин баргузор шуд, президенти Tencent Лю Чипинг бо ифтихор сухан гуфт. Дар январи соли 2011, WeChat оғоз ёфт; дар апрели ҳамон сол, он ба бозори байналмилалӣ бо номи англисии WeChat ворид шуд; дар декабри соли 2011, он сабтиноми SMS-ро дар 100 кишвар дастгирӣ кард; то охири соли 2012, он беш аз 100 кишвар ва минтақаро фаро гирифт. Имрӯз, WeChat беш аз 200 кишвар ва минтақаро фаро мегирад, 16 забони хориҷиро дастгирӣ мекунад ва дар ҷаҳон бештар истифодашавандатарин барномаи алоқаи мобилӣ мебошад. Дар заминаи он ки ширкатҳои интернетии амрикоӣ дар ҷаҳон 'ҳукмронӣ' мекунанд, ҳамчун маҳсулоти мобилии интернетии худи Чин, пайдоиши WeChat табиатан диққати бештарро ҷалб кард. Чжан Сяолун, ноиби президенти калони Tencent — ки 'падари WeChat' номида мешавад — рушди WeChat-ро тавсиф кард: таҳия ва тадқиқот барвақт оғоз ёфт — то охири соли 2010, интернети мобилӣ танҳо оғоз меёфт ва маркази тадқиқот ва таҳияи маҳсулоти Tencent дар Гуанчжоу ба баррасии тиҷорати марбут шурӯъ кард. Онҳо воқеиятро равшан дарк карданд: дар давраи PC, аз сабаби кам будани шумораи корбарон ва камолоти бозор дар муқоиса бо кишварҳои рушдёфта, пешсафӣ дар навоварии маҳсулот душвор буд — аммо интернети мобилӣ имкони аз нав оғоз кардан буд. Дар фурӯш ва маркетинг, WeChat барои кишварҳо ва минтақаҳои гуногун рекламаҳои гуногун таҳия кард ва шахсиятҳои маҳаллиро барои тасдиқи онҳо даъват намуд, ки натиҷаҳои хеле хуб дод. Дар байни корбарони хориҷӣ на танҳо чиниҳои этникӣ ва муҳоҷирони нав, балки шумораи бештари хориҷиён низ ҳастанд.",
+    "id": "Sambil memegang ponselnya, menggiring bola, bintang sepak bola internasional Messi menggunakan WeChat untuk siaran langsung keterampilan juggling bolanya, membuat bayi yang menangis di ujung sambungan tertawa. Iklan 30 detik yang benar-benar baru ini dirilis secara simultan di 15 negara dan wilayah. Promosi yang begitu berani — Tencent punya alasan untuk percaya diri. WeChat 'memiliki lebih dari 70 juta pengguna terdaftar di luar negeri dan berkembang pesat.' Pada 3 Juli, di Konferensi Mitra Tencent 2013 yang diadakan di Beijing, Presiden Tencent Liu Chiping berbicara dengan bangga. Pada Januari 2011, WeChat diluncurkan; pada April tahun yang sama, ia masuk ke pasar internasional dengan nama Inggris WeChat; pada Desember 2011, ia mendukung pendaftaran SMS di 100 negara; pada akhir 2012, ia mencakup lebih dari 100 negara dan wilayah. Kini, WeChat mencakup lebih dari 200 negara dan wilayah, mendukung 16 bahasa asing, dan merupakan aplikasi komunikasi seluler yang paling banyak digunakan secara global. Di tengah latar belakang perusahaan internet Amerika yang 'mendominasi' secara global, sebagai produk internet seluler milik Tiongkok sendiri, kemunculan WeChat tentu menarik lebih banyak perhatian. Zhang Xiaolong, wakil presiden senior Tencent — yang disebut 'bapak WeChat' — menggambarkan perkembangan WeChat: riset dan pengembangan dimulai lebih awal — pada akhir 2010, internet seluler baru saja dimulai, dan pusat R&D produk Tencent di Guangzhou mulai mempertimbangkan bisnis terkait. Mereka dengan jelas menyadari kenyataannya: di era PC, karena jumlah pengguna dan kematangan pasar Tiongkok lebih rendah dibandingkan negara maju, kepemimpinan dalam inovasi produk sulit dicapai — tetapi internet seluler adalah kesempatan untuk memulai dari awal. Dalam penjualan dan pemasaran, WeChat membuat iklan yang berbeda untuk berbagai negara dan wilayah, mengundang selebriti lokal untuk mendukungnya dengan hasil yang sangat baik. Di antara pengguna luar negeri tidak hanya ada etnis Tionghoa dan imigran baru, tetapi semakin banyak orang asing."
   },
   "vocabulary": [
     {
@@ -42,7 +49,10 @@
       "meaning": {
         "ru": "пользователь",
         "tk": "ulanyjy",
-        "en": "user"
+        "en": "user",
+        "uz": "foydalanuvchi",
+        "tg": "корбар",
+        "id": "pengguna"
       }
     },
     {
@@ -52,7 +62,10 @@
       "meaning": {
         "ru": "жонглировать мячом",
         "tk": "topy oýnamak",
-        "en": "to juggle a ball"
+        "en": "to juggle a ball",
+        "uz": "to'pni havoda o'ynatish",
+        "tg": "тӯббозӣ кардан",
+        "id": "melempar bola ke udara"
       }
     },
     {
@@ -62,7 +75,10 @@
       "meaning": {
         "ru": "звезда, знаменитость",
         "tk": "ýyldyz",
-        "en": "star"
+        "en": "star",
+        "uz": "yulduz",
+        "tg": "ситора",
+        "id": "bintang"
       }
     },
     {
@@ -72,7 +88,10 @@
       "meaning": {
         "ru": "транслировать в прямом эфире",
         "tk": "göni ýaýlym",
-        "en": "to live-stream"
+        "en": "to live-stream",
+        "uz": "jonli efirga uzatmoq",
+        "tg": "пахши зинда кардан",
+        "id": "melakukan siaran langsung"
       }
     },
     {
@@ -82,7 +101,10 @@
       "meaning": {
         "ru": "малыш, сокровище",
         "tk": "çaga, hazyna",
-        "en": "baby, treasure"
+        "en": "baby, treasure",
+        "uz": "chaqaloq, xazina",
+        "tg": "кӯдак, ганҷ",
+        "id": "sayang, harta"
       }
     },
     {
@@ -92,7 +114,10 @@
       "meaning": {
         "ru": "развлекать, веселить",
         "tk": "güldürmek",
-        "en": "to amuse"
+        "en": "to amuse",
+        "uz": "ko'ngil ochmoq",
+        "tg": "фароғат кардан",
+        "id": "menghibur"
       }
     },
     {
@@ -102,7 +127,10 @@
       "meaning": {
         "ru": "пропагандировать, рекламировать",
         "tk": "wagyz etmek",
-        "en": "to publicize"
+        "en": "to publicize",
+        "uz": "e'lon qilmoq",
+        "tg": "эълон кардан",
+        "id": "mempublikasikan"
       }
     },
     {
@@ -112,7 +140,10 @@
       "meaning": {
         "ru": "размах (стиль)",
         "tk": "gerim",
-        "en": "style, scale"
+        "en": "style, scale",
+        "uz": "uslub, ko'lam",
+        "tg": "услуб, миқёс",
+        "id": "gaya, skala"
       }
     },
     {
@@ -122,7 +153,10 @@
       "meaning": {
         "ru": "продвигать",
         "tk": "ýaýratmak",
-        "en": "to promote"
+        "en": "to promote",
+        "uz": "targ'ib qilmoq",
+        "tg": "пешбурд кардан",
+        "id": "mempromosikan"
       }
     },
     {
@@ -132,7 +166,10 @@
       "meaning": {
         "ru": "регистрировать(ся)",
         "tk": "hasaba almak",
-        "en": "to register"
+        "en": "to register",
+        "uz": "ro'yxatdan o'tmoq",
+        "tg": "ба қайд гирифтан",
+        "id": "mendaftar"
       }
     },
     {
@@ -142,7 +179,10 @@
       "meaning": {
         "ru": "проводить (собрание)",
         "tk": "geçirmek",
-        "en": "to hold (a meeting)"
+        "en": "to hold (a meeting)",
+        "uz": "o'tkazmoq (yig'ilish)",
+        "tg": "гузарондан (ҷаласа)",
+        "id": "mengadakan (rapat)"
       }
     },
     {
@@ -152,7 +192,10 @@
       "meaning": {
         "ru": "сотрудничать",
         "tk": "hyzmatdaşlyk",
-        "en": "to cooperate"
+        "en": "to cooperate",
+        "uz": "hamkorlik qilmoq",
+        "tg": "ҳамкорӣ кардан",
+        "id": "bekerja sama"
       }
     },
     {
@@ -162,7 +205,10 @@
       "meaning": {
         "ru": "партнёр",
         "tk": "hyzmatdaş",
-        "en": "partner"
+        "en": "partner",
+        "uz": "hamkor",
+        "tg": "шарик",
+        "id": "mitra"
       }
     },
     {
@@ -172,7 +218,10 @@
       "meaning": {
         "ru": "президент (компании)",
         "tk": "prezident",
-        "en": "president"
+        "en": "president",
+        "uz": "prezident",
+        "tg": "президент",
+        "id": "presiden"
       }
     },
     {
@@ -182,7 +231,10 @@
       "meaning": {
         "ru": "осуществлять",
         "tk": "amala aşyrmak",
-        "en": "to realize"
+        "en": "to realize",
+        "uz": "amalga oshirmoq",
+        "tg": "дарк кардан",
+        "id": "menyadari"
       }
     },
     {
@@ -192,7 +244,10 @@
       "meaning": {
         "ru": "охватывать",
         "tk": "gurşap almak",
-        "en": "to cover"
+        "en": "to cover",
+        "uz": "qoplamoq",
+        "tg": "пӯшонидан",
+        "id": "untuk mencakup"
       }
     },
     {
@@ -202,7 +257,10 @@
       "meaning": {
         "ru": "мобильный",
         "tk": "ykjam",
-        "en": "mobile"
+        "en": "mobile",
+        "uz": "mobil",
+        "tg": "мобилӣ",
+        "id": "seluler"
       }
     },
     {
@@ -212,7 +270,10 @@
       "meaning": {
         "ru": "связь",
         "tk": "aragatnaşyk",
-        "en": "communication"
+        "en": "communication",
+        "uz": "aloqa",
+        "tg": "иртибот",
+        "id": "komunikasi"
       }
     },
     {
@@ -222,7 +283,10 @@
       "meaning": {
         "ru": "приложение",
         "tk": "programma",
-        "en": "application"
+        "en": "application",
+        "uz": "ilova",
+        "tg": "барнома",
+        "id": "aplikasi"
       }
     },
     {
@@ -232,7 +296,10 @@
       "meaning": {
         "ru": "предприятие",
         "tk": "kärhana",
-        "en": "enterprise"
+        "en": "enterprise",
+        "uz": "korxona",
+        "tg": "корхона",
+        "id": "perusahaan"
       }
     },
     {
@@ -242,7 +309,10 @@
       "meaning": {
         "ru": "господствовать",
         "tk": "höküm sürmek",
-        "en": "to dominate"
+        "en": "to dominate",
+        "uz": "hukmronlik qilmoq",
+        "tg": "ҳукмронӣ кардан",
+        "id": "untuk mendominasi"
       }
     },
     {
@@ -252,7 +322,10 @@
       "meaning": {
         "ru": "фон, контекст",
         "tk": "fon, gurşaw",
-        "en": "background"
+        "en": "background",
+        "uz": "fon",
+        "tg": "замина",
+        "id": "latar belakang"
       }
     },
     {
@@ -262,7 +335,10 @@
       "meaning": {
         "ru": "высокопоставленный",
         "tk": "ýokary derejeli",
-        "en": "senior"
+        "en": "senior",
+        "uz": "katta",
+        "tg": "калон",
+        "id": "senior"
       }
     },
     {
@@ -272,7 +348,10 @@
       "meaning": {
         "ru": "заместитель",
         "tk": "orunbasar",
-        "en": "deputy"
+        "en": "deputy",
+        "uz": "o'rinbosar",
+        "tg": "муовин",
+        "id": "wakil"
       }
     },
     {
@@ -282,7 +361,10 @@
       "meaning": {
         "ru": "разрабатывать",
         "tk": "işläp çykmak",
-        "en": "to develop"
+        "en": "to develop",
+        "uz": "rivojlantirmoq",
+        "tg": "рушд додан",
+        "id": "mengembangkan"
       }
     },
     {
@@ -292,7 +374,10 @@
       "meaning": {
         "ru": "центр",
         "tk": "merkez",
-        "en": "center"
+        "en": "center",
+        "uz": "markaz",
+        "tg": "марказ",
+        "id": "pusat"
       }
     },
     {
@@ -302,7 +387,10 @@
       "meaning": {
         "ru": "связанный",
         "tk": "bagly",
-        "en": "related"
+        "en": "related",
+        "uz": "tegishli",
+        "tg": "марбут",
+        "id": "terkait"
       }
     },
     {
@@ -312,7 +400,10 @@
       "meaning": {
         "ru": "деятельность, бизнес",
         "tk": "iş, hyzmat",
-        "en": "business"
+        "en": "business",
+        "uz": "biznes",
+        "tg": "тиҷорат",
+        "id": "bisnis"
       }
     },
     {
@@ -322,7 +413,10 @@
       "meaning": {
         "ru": "реальность",
         "tk": "hakykat",
-        "en": "reality"
+        "en": "reality",
+        "uz": "voqelik",
+        "tg": "воқеият",
+        "id": "realitas"
       }
     },
     {
@@ -332,7 +426,10 @@
       "meaning": {
         "ru": "личный, индивидуальный",
         "tk": "şahsy",
-        "en": "individual"
+        "en": "individual",
+        "uz": "shaxs",
+        "tg": "шахс",
+        "id": "individu"
       }
     },
     {
@@ -342,7 +439,10 @@
       "meaning": {
         "ru": "а также",
         "tk": "şeýle-de",
-        "en": "as well as"
+        "en": "as well as",
+        "uz": "shuningdek",
+        "tg": "инчунин",
+        "id": "serta"
       }
     },
     {
@@ -352,7 +452,10 @@
       "meaning": {
         "ru": "степень, уровень",
         "tk": "dereje",
-        "en": "degree"
+        "en": "degree",
+        "uz": "daraja",
+        "tg": "дараҷа",
+        "id": "gelar"
       }
     },
     {
@@ -362,7 +465,10 @@
       "meaning": {
         "ru": "развитый",
         "tk": "ösendirilen",
-        "en": "developed"
+        "en": "developed",
+        "uz": "rivojlangan",
+        "tg": "рушдёфта",
+        "id": "dikembangkan"
       }
     },
     {
@@ -372,7 +478,10 @@
       "meaning": {
         "ru": "новаторство",
         "tk": "täzeçillik",
-        "en": "to innovate"
+        "en": "to innovate",
+        "uz": "innovatsiya qilmoq",
+        "tg": "навоварӣ кардан",
+        "id": "berinovasi"
       }
     },
     {
@@ -382,7 +491,10 @@
       "meaning": {
         "ru": "руководство, лидерство",
         "tk": "ýolbaşçylyk",
-        "en": "leadership"
+        "en": "leadership",
+        "uz": "yetakchilik",
+        "tg": "роҳбарӣ",
+        "id": "kepemimpinan"
       }
     },
     {
@@ -392,7 +504,10 @@
       "meaning": {
         "ru": "позиция, статус",
         "tk": "orun",
-        "en": "position"
+        "en": "position",
+        "uz": "lavozim",
+        "tg": "мавқеъ",
+        "id": "posisi"
       }
     },
     {
@@ -402,7 +517,10 @@
       "meaning": {
         "ru": "управлять, вести бизнес",
         "tk": "dolandırmak",
-        "en": "to manage"
+        "en": "to manage",
+        "uz": "boshqarmoq",
+        "tg": "идора кардан",
+        "id": "mengelola"
       }
     },
     {
@@ -412,7 +530,10 @@
       "meaning": {
         "ru": "продавать",
         "tk": "satyş",
-        "en": "to sell"
+        "en": "to sell",
+        "uz": "sotmoq",
+        "tg": "фурӯхтан",
+        "id": "menjual"
       }
     },
     {
@@ -422,7 +543,10 @@
       "meaning": {
         "ru": "нацеливать на",
         "tk": "niýetlenmek",
-        "en": "to target"
+        "en": "to target",
+        "uz": "mo'ljallamoq",
+        "tg": "ҳадаф гирифтан",
+        "id": "menargetkan"
       }
     },
     {
@@ -432,7 +556,10 @@
       "meaning": {
         "ru": "местный",
         "tk": "ýerli",
-        "en": "local"
+        "en": "local",
+        "uz": "mahalliy",
+        "tg": "маҳаллӣ",
+        "id": "lokal"
       }
     },
     {
@@ -442,7 +569,10 @@
       "meaning": {
         "ru": "представлять (бренд)",
         "tk": "wekillik etmek",
-        "en": "to endorse"
+        "en": "to endorse",
+        "uz": "qo'llab-quvvatlamoq",
+        "tg": "тасдиқ кардан",
+        "id": "mendukung"
       }
     },
     {
@@ -452,7 +582,10 @@
       "meaning": {
         "ru": "китайского происхождения (за рубежом)",
         "tk": "hytaý asylly",
-        "en": "of Chinese origin"
+        "en": "of Chinese origin",
+        "uz": "xitoylik",
+        "tg": "аз пайдоиши чинӣ",
+        "id": "berasal dari Tiongkok"
       }
     },
     {
@@ -462,7 +595,10 @@
       "meaning": {
         "ru": "иммигрант",
         "tk": "immigrant",
-        "en": "immigrant"
+        "en": "immigrant",
+        "uz": "immigrant",
+        "tg": "муҳоҷир",
+        "id": "imigran"
       }
     }
   ],
@@ -473,68 +609,101 @@
       "explanation": {
         "ru": "«以及» — «а также, и». Соединяет однородные члены с указанием на главное/второстепенное.",
         "tk": "«以及» — «şeýle-de». Bir jynsly agzalary birleşdirýär.",
-        "en": "'以及' means 'as well as, and'. Connects items showing primary/secondary order."
+        "en": "'以及' means 'as well as, and'. Connects items showing primary/secondary order.",
+        "uz": "'以及' 'shuningdek, va' ma'nosini bildiradi. Asosiy/ikkinchi darajali tartibni ko'rsatuvchi elementlarni bog'laydi.",
+        "tg": "'以及' маънои 'инчунин, ва'-ро дорад. Ашёро бо нишон додани тартиби асосӣ/дуюмдараҷа мепайвандад.",
+        "id": "'以及' berarti 'serta, dan'. Menghubungkan item yang menunjukkan urutan primer/sekunder."
       },
       "examples": [
         {
           "zh": "吃饭时不要用筷子敲打碗、盘子以及桌面。",
           "ru": "За едой не стучи палочками по чашке, тарелке и столу.",
           "tk": "Nahar iýende çöp taýajyklar bilen käse, tabak we stoluň üstüne urmaň.",
-          "en": "Don't tap chopsticks on bowl, plate or table while eating."
+          "en": "Don't tap chopsticks on bowl, plate or table while eating.",
+          "uz": "Ovqatlanayotganda tayoqchalarni kosa, likopcha yoki stolga urmang.",
+          "tg": "Ҳангоми хӯрок хӯрдан бо чӯбча ба коса, табақ ё миз назанед.",
+          "id": "Jangan mengetuk sumpit di mangkuk, piring, atau meja saat makan."
         },
         {
           "zh": "学校的领导、教师以及一些学生代表观看了演出。",
           "ru": "Руководство школы, учителя и представители учеников смотрели представление.",
           "tk": "Mekdebiň ýolbaşçylary, mugallymlar we okuwçy wekilleri tomaşa etdiler.",
-          "en": "School leaders, teachers, and student representatives watched the performance."
+          "en": "School leaders, teachers, and student representatives watched the performance.",
+          "uz": "Maktab rahbarlari, o'qituvchilar va o'quvchilar vakillari chiqishni tomosha qilishdi.",
+          "tg": "Роҳбарони мактаб, муаллимон ва намояндагони донишҷӯён намоишро тамошо карданд.",
+          "id": "Pemimpin sekolah, guru, dan perwakilan siswa menonton pertunjukan itu."
         },
         {
           "zh": "由于中国互联网的用户数量以及市场成熟程度等都低于发达国家，在产品创新上难有领导地位。",
           "ru": "Поскольку число пользователей и зрелость рынка в Китае были ниже, чем в развитых странах, в инновациях было сложно лидировать.",
           "tk": "Hytaýyň ulanyjy sany we bazar ýetişik derejesi ösen ýurtlardan pes bolansoň, täzeçillikde öňe geçmek kyn boldy.",
-          "en": "Because China's user numbers and market maturity were lower than developed countries, leading in innovation was hard."
+          "en": "Because China's user numbers and market maturity were lower than developed countries, leading in innovation was hard.",
+          "uz": "Xitoyning foydalanuvchilar soni va bozor yetukligi rivojlangan mamlakatlarga qaraganda pastroq bo'lganligi sababli, innovatsiyada yetakchilik qilish qiyin edi.",
+          "tg": "Азбаски шумораи корбарон ва камолоти бозори Чин аз кишварҳои рушдёфта пасттар буд, пешсаф будан дар инноватсия душвор буд.",
+          "id": "Karena jumlah pengguna dan kematangan pasar Tiongkok lebih rendah daripada negara-negara maju, memimpin dalam inovasi sulit dilakukan."
         },
         {
           "zh": "会议讨论了公司的销售计划、市场策略以及新产品。",
           "ru": "На совещании обсудили план продаж, маркетинговую стратегию и новые продукты.",
           "tk": "Maslahatda satyş meýilnamasy, marketing strategiýasy we täze önümler maslahatlaşyldy.",
-          "en": "The meeting discussed sales plans, marketing strategy, and new products."
+          "en": "The meeting discussed sales plans, marketing strategy, and new products.",
+          "uz": "Yig'ilishda savdo rejalari, marketing strategiyasi va yangi mahsulotlar muhokama qilindi.",
+          "tg": "Дар ҷаласа нақшаҳои фурӯш, стратегияи маркетинг ва маҳсулоти нав баррасӣ шуданд.",
+          "id": "Rapat tersebut membahas rencana penjualan, strategi pemasaran, dan produk baru."
         },
         {
           "zh": "他喜欢音乐、电影以及旅游。",
           "ru": "Он любит музыку, кино и путешествия.",
           "tk": "Ol aýdym-sazy, kinony we syýahaty halaýar.",
-          "en": "He likes music, movies, and travel."
+          "en": "He likes music, movies, and travel.",
+          "uz": "U musiqa, kino va sayohatni yaxshi ko'radi.",
+          "tg": "Ӯ мусиқӣ, филмҳо ва сайёҳиро дӯст медорад.",
+          "id": "Dia menyukai musik, film, dan perjalanan."
         },
         {
           "zh": "会议邀请了老师、学生以及家长参加。",
           "ru": "На собрание пригласили учителей, учеников и родителей.",
           "tk": "Maslahata mugallymlar, okuwçylar we ene-atalar çagyryldy.",
-          "en": "Teachers, students and parents were invited to the meeting."
+          "en": "Teachers, students and parents were invited to the meeting.",
+          "uz": "Yig'ilishga o'qituvchilar, o'quvchilar va ota-onalar taklif qilindi.",
+          "tg": "Муаллимон, донишҷӯён ва волидон ба ҷаласа даъват шуданд.",
+          "id": "Guru, siswa, dan orang tua diundang ke rapat itu."
         },
         {
           "zh": "请把姓名、年龄以及联系方式写下来。",
           "ru": "Запишите имя, возраст и контактные данные.",
           "tk": "Ady, ýaşy we aragatnaşyk maglumatlaryny ýazyň.",
-          "en": "Write your name, age, and contact details."
+          "en": "Write your name, age, and contact details.",
+          "uz": "Ismingizni, yoshingizni va aloqa ma'lumotlaringizni yozing.",
+          "tg": "Ном, синну сол ва маълумоти тамоси худро нависед.",
+          "id": "Tulis nama, usia, dan detail kontak Anda."
         },
         {
           "zh": "这份报告涉及经济、文化以及教育。",
           "ru": "Этот отчёт касается экономики, культуры и образования.",
           "tk": "Bu hasabat ykdysadyýet, medeniýet we bilim barada.",
-          "en": "This report covers economy, culture, and education."
+          "en": "This report covers economy, culture, and education.",
+          "uz": "Bu hisobot iqtisodiyot, madaniyat va ta'limni qamrab oladi.",
+          "tg": "Ин ҳисобот иқтисод, фарҳанг ва маорифро дар бар мегирад.",
+          "id": "Laporan ini mencakup ekonomi, budaya, dan pendidikan."
         },
         {
           "zh": "他负责招聘、培训以及人事管理。",
           "ru": "Он отвечает за найм, обучение и кадровое управление.",
           "tk": "Ol işe almak, okatmak we kadr dolandyryşyna jogapkär.",
-          "en": "He's responsible for hiring, training, and personnel management."
+          "en": "He's responsible for hiring, training, and personnel management.",
+          "uz": "U ishga yollash, o'qitish va kadrlar boshqaruvi uchun javobgar.",
+          "tg": "Ӯ барои корпартоӣ, омӯзиш ва идораи кормандон масъул аст.",
+          "id": "Dia bertanggung jawab atas perekrutan, pelatihan, dan manajemen personalia."
         },
         {
           "zh": "水果、蔬菜以及粮食都要吃。",
           "ru": "Нужно есть и фрукты, и овощи, и зерновые.",
           "tk": "Miwe, gök önüm we däne iýilmeli.",
-          "en": "We should eat fruits, vegetables, and grains."
+          "en": "We should eat fruits, vegetables, and grains.",
+          "uz": "Biz mevalar, sabzavotlar va don mahsulotlarini iste'mol qilishimiz kerak.",
+          "tg": "Мо бояд мева, сабзавот ва ғалладонагӣ хӯрем.",
+          "id": "Kita harus makan buah-buahan, sayuran, dan biji-bijian."
         }
       ],
       "formula": {
@@ -605,68 +774,101 @@
       "explanation": {
         "ru": "«程度» — «степень, уровень».",
         "tk": "«程度» — «dereje».",
-        "en": "'程度' means 'degree, level'."
+        "en": "'程度' means 'degree, level'.",
+        "uz": "'程度' 'daraja, saviya' ma'nosini bildiradi.",
+        "tg": "'程度' маънои 'дараҷа, сатҳ'-ро дорад.",
+        "id": "'程度' berarti 'derajat, tingkat'."
       },
       "examples": [
         {
           "zh": "由于中国互联网的用户数量以及市场成熟程度等都低于发达国家。",
           "ru": "Потому что число пользователей и степень зрелости рынка в Китае ниже, чем в развитых странах.",
           "tk": "Hytaýyň ulanyjy sany we bazar ýetişik derejesi ösen ýurtlardan pes.",
-          "en": "Because China's user numbers and market maturity level are below developed countries."
+          "en": "Because China's user numbers and market maturity level are below developed countries.",
+          "uz": "Chunki Xitoyning foydalanuvchilar soni va bozor yetukligi darajasi rivojlangan mamlakatlardan past.",
+          "tg": "Зеро шумораи корбарон ва сатҳи камолоти бозори Чин аз кишварҳои рушдёфта пасттар аст.",
+          "id": "Karena jumlah pengguna dan tingkat kematangan pasar Tiongkok berada di bawah negara-negara maju."
         },
         {
           "zh": "问题已经发展到了十分严重的程度。",
           "ru": "Проблема достигла очень серьёзной степени.",
           "tk": "Mesele gaty agyr derejä ýetdi.",
-          "en": "The problem has reached a very serious level."
+          "en": "The problem has reached a very serious level.",
+          "uz": "Muammo juda jiddiy darajaga yetdi.",
+          "tg": "Мушкилот ба сатҳи хеле ҷиддӣ расидааст.",
+          "id": "Masalah ini telah mencapai tingkat yang sangat serius."
         },
         {
           "zh": "在很大程度上，一个人的未来取决于他所受的教育。",
           "ru": "В значительной степени будущее человека зависит от его образования.",
           "tk": "Köp derejede adamyň geljegi bilimine bagly.",
-          "en": "To a large extent, a person's future depends on education."
+          "en": "To a large extent, a person's future depends on education.",
+          "uz": "Katta darajada, insonning kelajagi ta'limga bog'liq.",
+          "tg": "Ояндаи одам то андозаи зиёд ба таълим вобаста аст.",
+          "id": "Pada tingkat yang besar, masa depan seseorang bergantung pada pendidikan."
         },
         {
           "zh": "他的汉语水平到了能读小说的程度。",
           "ru": "Его китайский достиг уровня чтения романов.",
           "tk": "Onuň hytaý dili roman okap bilýän derejä ýetdi.",
-          "en": "His Chinese reached the level of reading novels."
+          "en": "His Chinese reached the level of reading novels.",
+          "uz": "Uning xitoy tili roman o'qish darajasiga yetdi.",
+          "tg": "Забони чинии ӯ ба сатҳи хондани романҳо расид.",
+          "id": "Bahasa Mandarinnya mencapai tingkat membaca novel."
         },
         {
           "zh": "受伤的程度并不严重。",
           "ru": "Степень повреждения не серьёзная.",
           "tk": "Ýaralanma derejesi agyr däl.",
-          "en": "The degree of injury is not serious."
+          "en": "The degree of injury is not serious.",
+          "uz": "Jarohat darajasi jiddiy emas.",
+          "tg": "Дараҷаи ҷароҳат ҷиддӣ нест.",
+          "id": "Tingkat cedera tidak serius."
         },
         {
           "zh": "这件事的严重程度超出了我们的想象。",
           "ru": "Серьёзность этого дела превзошла наше воображение.",
           "tk": "Bu işiň agyrlygy biziň pikirimizden geçdi.",
-          "en": "The severity exceeded our imagination."
+          "en": "The severity exceeded our imagination.",
+          "uz": "Jiddiylik bizning tasavvurimizdan oshib ketdi.",
+          "tg": "Шиддат аз тасаввури мо зиёдтар буд.",
+          "id": "Tingkat keparahannya melebihi imajinasi kita."
         },
         {
           "zh": "每个人的接受程度不一样。",
           "ru": "Степень восприятия у каждого своя.",
           "tk": "Her kimiň kabul ediş derejesi başga.",
-          "en": "Everyone's level of acceptance differs."
+          "en": "Everyone's level of acceptance differs.",
+          "uz": "Har kimning qabul qilish darajasi turlicha.",
+          "tg": "Сатҳи қабули ҳар кас фарқ мекунад.",
+          "id": "Tingkat penerimaan setiap orang berbeda-beda."
         },
         {
           "zh": "熟悉程度影响了工作效率。",
           "ru": "Степень знакомства влияет на эффективность работы.",
           "tk": "Tanyşlyk derejesi işiň netijeliligine täsir edýär.",
-          "en": "Familiarity level affects work efficiency."
+          "en": "Familiarity level affects work efficiency.",
+          "uz": "Tanishlik darajasi ish samaradorligiga ta'sir qiladi.",
+          "tg": "Сатҳи шиносоӣ ба самаранокии кор таъсир мерасонад.",
+          "id": "Tingkat keakraban memengaruhi efisiensi kerja."
         },
         {
           "zh": "他们的程度差不多。",
           "ru": "Их уровень примерно одинаков.",
           "tk": "Olaryň derejesi takmynan deň.",
-          "en": "Their levels are about the same."
+          "en": "Their levels are about the same.",
+          "uz": "Ularning darajalari taxminan bir xil.",
+          "tg": "Сатҳҳои онҳо тақрибан якхелаанд.",
+          "id": "Tingkat mereka kurang lebih sama."
         },
         {
           "zh": "在一定程度上我同意你的看法。",
           "ru": "В определённой степени я с тобой согласен.",
           "tk": "Belli bir derejede men seniň pikiriňe razy.",
-          "en": "To some extent, I agree with you."
+          "en": "To some extent, I agree with you.",
+          "uz": "Ma'lum darajada sizga qo'shilaman.",
+          "tg": "То андозае, ман бо шумо розӣ ҳастам.",
+          "id": "Sampai batas tertentu, saya setuju dengan Anda."
         }
       ],
       "formula": {
@@ -737,68 +939,101 @@
       "explanation": {
         "ru": "«发达» — прилагательное, «развитый». «发展» — глагол, «развивать(ся)».",
         "tk": "«发达» — sypat, «ösen». «发展» — işlik, «ösdürmek».",
-        "en": "'发达' is adjective 'developed'; '发展' is verb 'to develop'."
+        "en": "'发达' is adjective 'developed'; '发展' is verb 'to develop'.",
+        "uz": "'发达' — 'rivojlangan' ma'nosini bildiruvchi sifat; '发展' — 'rivojlanmoq' ma'nosini bildiruvchi fe'l.",
+        "tg": "'发达' сифати 'рушдёфта' аст; '发展' феъли 'рушд кардан' аст.",
+        "id": "'发达' adalah kata sifat 'maju'; '发展' adalah kata kerja 'berkembang'."
       },
       "examples": [
         {
           "zh": "这个城市的经济不太发达。",
           "ru": "Экономика этого города не очень развита.",
           "tk": "Bu şäheriň ykdysadyýeti kän ösen däl.",
-          "en": "This city's economy isn't very developed."
+          "en": "This city's economy isn't very developed.",
+          "uz": "Bu shaharning iqtisodiyoti unchalik rivojlanmagan.",
+          "tg": "Иқтисоди ин шаҳр он қадар рушд накардааст.",
+          "id": "Ekonomi kota ini tidak begitu berkembang."
         },
         {
           "zh": "这个城市正在大力发展经济。",
           "ru": "Город активно развивает экономику.",
           "tk": "Şäher ykdysadyýeti güýçli ösdürýär.",
-          "en": "The city is actively developing its economy."
+          "en": "The city is actively developing its economy.",
+          "uz": "Shahar iqtisodiyotini faol rivojlantirmoqda.",
+          "tg": "Шаҳр фаъолона иқтисоди худро рушд медиҳад.",
+          "id": "Kota ini secara aktif mengembangkan ekonominya."
         },
         {
           "zh": "由于中国互联网的用户数量以及市场成熟程度等都低于发达国家。",
           "ru": "Потому что число пользователей и зрелость рынка ниже, чем в развитых странах.",
           "tk": "Hytaýyň ulanyjy sany we bazar ýetişigi ösen ýurtlardan pes.",
-          "en": "Because China's user numbers and market maturity are below developed countries."
+          "en": "Because China's user numbers and market maturity are below developed countries.",
+          "uz": "Chunki Xitoyning foydalanuvchilar soni va bozor yetukligi rivojlangan davlatlardan past.",
+          "tg": "Зеро шумораи корбарон ва камолоти бозори Чин аз кишварҳои рушдёфта пасттар аст.",
+          "id": "Karena jumlah pengguna dan kematangan pasar Tiongkok berada di bawah negara-negara maju."
         },
         {
           "zh": "中国还是一个发展中国家。",
           "ru": "Китай — развивающаяся страна.",
           "tk": "Hytaý henizem ösýän ýurt.",
-          "en": "China is still a developing country."
+          "en": "China is still a developing country.",
+          "uz": "Xitoy hali ham rivojlanayotgan davlat.",
+          "tg": "Чин ҳанӯз кишвари рушдёфта аст.",
+          "id": "Tiongkok masih merupakan negara berkembang."
         },
         {
           "zh": "这个地区的交通很发达。",
           "ru": "В этом районе очень развитый транспорт.",
           "tk": "Bu sebitiň ulaglary gaty ösen.",
-          "en": "Transportation here is very developed."
+          "en": "Transportation here is very developed.",
+          "uz": "Bu yerda transport juda rivojlangan.",
+          "tg": "Нақлиёт дар ин ҷо хеле рушд кардааст.",
+          "id": "Transportasi di sini sangat berkembang."
         },
         {
           "zh": "我们要发展创新技术。",
           "ru": "Нам нужно развивать инновационные технологии.",
           "tk": "Biz täzeçil tehnologiýalary ösdürmeli.",
-          "en": "We must develop innovative technologies."
+          "en": "We must develop innovative technologies.",
+          "uz": "Biz innovatsion texnologiyalarni rivojlantirishimiz kerak.",
+          "tg": "Мо бояд технологияҳои инноватсионӣ таҳия кунем.",
+          "id": "Kita harus mengembangkan teknologi inovatif."
         },
         {
           "zh": "发达国家的生活水平较高。",
           "ru": "В развитых странах уровень жизни выше.",
           "tk": "Ösen ýurtlarda durmuş derejesi ýokary.",
-          "en": "Developed countries have higher living standards."
+          "en": "Developed countries have higher living standards.",
+          "uz": "Rivojlangan davlatlarda turmush darajasi yuqoriroq.",
+          "tg": "Кишварҳои рушдёфта сатҳи баландтари зиндагӣ доранд.",
+          "id": "Negara maju memiliki standar hidup yang lebih tinggi."
         },
         {
           "zh": "学校要发展学生的个性。",
           "ru": "Школа должна развивать индивидуальность учеников.",
           "tk": "Mekdep okuwçylaryň şahsyýetini ösdürmeli.",
-          "en": "Schools should develop students' personalities."
+          "en": "Schools should develop students' personalities.",
+          "uz": "Maktablar o'quvchilarning shaxsiyatini rivojlantirishi kerak.",
+          "tg": "Мактабҳо бояд шахсияти хонандагонро инкишоф диҳанд.",
+          "id": "Sekolah harus mengembangkan kepribadian siswa."
         },
         {
           "zh": "这家公司的业务发展得很快。",
           "ru": "Бизнес этой компании быстро развивается.",
           "tk": "Bu kompaniýanyň işi çalt ösýär.",
-          "en": "This company's business develops fast."
+          "en": "This company's business develops fast.",
+          "uz": "Bu kompaniyaning biznesi tez rivojlanmoqda.",
+          "tg": "Корҳои ин ширкат босуръат рушд мекунад.",
+          "id": "Bisnis perusahaan ini berkembang pesat."
         },
         {
           "zh": "他的肌肉很发达。",
           "ru": "У него хорошо развита мускулатура.",
           "tk": "Onuň myşsalary gaty ösen.",
-          "en": "His muscles are well developed."
+          "en": "His muscles are well developed.",
+          "uz": "Uning mushaklari yaxshi rivojlangan.",
+          "tg": "Мускулҳои ӯ хуб инкишоф ёфтаанд.",
+          "id": "Ototnya berkembang dengan baik."
         }
       ],
       "formula": {
@@ -911,7 +1146,10 @@
       "common": {
         "ru": "Связаны по смыслу, но не взаимозаменяемы.",
         "tk": "Bagly, ýöne çalşylmaýar.",
-        "en": "Related in meaning but not interchangeable."
+        "en": "Related in meaning but not interchangeable.",
+        "uz": "Ma'nosi jihatidan bog'liq, ammo o'zaro almashtirib bo'lmaydi.",
+        "tg": "Маънои наздик дорад, аммо ивазшаванда нест.",
+        "id": "Terkait dalam makna tetapi tidak dapat dipertukarkan."
       },
       "differences": [
         {
@@ -945,7 +1183,10 @@
         "meaning": {
           "ru": "клавиатура",
           "tk": "klawiatura",
-          "en": "keyboard"
+          "en": "keyboard",
+          "uz": "klaviatura",
+          "tg": "клавиатура",
+          "id": "papan ketik"
         }
       },
       {
@@ -954,7 +1195,10 @@
         "meaning": {
           "ru": "мышь",
           "tk": "syçan",
-          "en": "mouse"
+          "en": "mouse",
+          "uz": "sichqoncha",
+          "tg": "муш",
+          "id": "mouse"
         }
       },
       {
@@ -963,7 +1207,10 @@
         "meaning": {
           "ru": "диск",
           "tk": "disk",
-          "en": "CD/DVD"
+          "en": "CD/DVD",
+          "uz": "CD/DVD",
+          "tg": "CD/DVD",
+          "id": "CD/DVD"
         }
       },
       {
@@ -972,7 +1219,10 @@
         "meaning": {
           "ru": "информация",
           "tk": "maglumat",
-          "en": "information"
+          "en": "information",
+          "uz": "ma'lumot",
+          "tg": "маълумот",
+          "id": "informasi"
         }
       },
       {
@@ -981,7 +1231,10 @@
         "meaning": {
           "ru": "аппаратное обеспечение",
           "tk": "apparatura",
-          "en": "hardware"
+          "en": "hardware",
+          "uz": "apparat",
+          "tg": "таҷҳизот",
+          "id": "perangkat keras"
         }
       },
       {
@@ -990,7 +1243,10 @@
         "meaning": {
           "ru": "программное обеспечение",
           "tk": "programma üpjünçiligi",
-          "en": "software"
+          "en": "software",
+          "uz": "dasturiy ta'minot",
+          "tg": "нармафзор",
+          "id": "perangkat lunak"
         }
       },
       {
@@ -999,7 +1255,10 @@
         "meaning": {
           "ru": "цифровой",
           "tk": "sanly",
-          "en": "digital"
+          "en": "digital",
+          "uz": "raqamli",
+          "tg": "рақамӣ",
+          "id": "digital"
         }
       },
       {
@@ -1008,7 +1267,10 @@
         "meaning": {
           "ru": "данные",
           "tk": "maglumat",
-          "en": "data"
+          "en": "data",
+          "uz": "ma'lumotlar",
+          "tg": "маълумот",
+          "id": "data"
         }
       },
       {
@@ -1017,7 +1279,10 @@
         "meaning": {
           "ru": "программа",
           "tk": "programma",
-          "en": "program"
+          "en": "program",
+          "uz": "dastur",
+          "tg": "барнома",
+          "id": "program"
         }
       },
       {
@@ -1026,7 +1291,10 @@
         "meaning": {
           "ru": "система",
           "tk": "ulgam",
-          "en": "system"
+          "en": "system",
+          "uz": "tizim",
+          "tg": "система",
+          "id": "sistem"
         }
       }
     ]
@@ -1035,7 +1303,10 @@
     "discussion": {
       "ru": "Какие технологии изменили вашу жизнь? Что они дали вам — хорошее и плохое?",
       "tk": "Haýsy tehnologiýalar durmuşyňyzy üýtgetdi? Näme berdi — gowy we erbet?",
-      "en": "What technologies changed your life? What did they bring — good and bad?"
+      "en": "What technologies changed your life? What did they bring — good and bad?",
+      "uz": "Qaysi texnologiyalar hayotingizni o'zgartirdi? Ular nima olib keldi — yaxshi va yomon?",
+      "tg": "Кадом технологияҳо ҳаёти шуморо тағйир доданд? Онҳо чӣ оварданд — хуб ва бад?",
+      "id": "Teknologi apa yang mengubah hidup Anda? Apa yang dibawanya — baik dan buruk?"
     }
   },
   "workbook": {

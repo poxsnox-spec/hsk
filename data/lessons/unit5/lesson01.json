@@ -5,7 +5,8 @@
     "tk": "Durmuşyň «sebet düýbüni» byçgy bilen kesmek",
     "en": "Cutting Off the 'Bottom of the Basket'",
     "uz": "Hayot savatining «tubini» arralash",
-    "tg": "Буридани «тахти сабад»-и ҳаёт"
+    "tg": "Буридани «тахти сабад»-и ҳаёт",
+    "id": "Memotong 'Dasar Keranjang'"
   },
   "audio_files": {
     "textbook_1": "textbook_1.mp3",
@@ -18,7 +19,10 @@
     "question": {
       "ru": "Любите ли вы баскетбол? Знаете, как он появился?",
       "tk": "Basketboly halaýarsyňyzmy? Onuň nähili dörändigini bilýärsiňizmi?",
-      "en": "Do you like basketball? Do you know how it began?"
+      "en": "Do you like basketball? Do you know how it began?",
+      "uz": "Basketbolni yoqtirasizmi? U qanday boshlanganini bilasizmi?",
+      "tg": "Баскетболро дӯст медоред? Медонед, ки он чӣ тавр оғоз ёфтааст?",
+      "id": "Apakah kamu suka bola basket? Apakah kamu tahu bagaimana olahraga ini dimulai?"
     },
     "answers": [
       "篮球",
@@ -32,7 +36,10 @@
   "text_translation": {
     "ru": "Баскетбол изобрёл в 1891 году американский учитель физкультуры Джеймс Нейсмит из Массачусетса. Зима была очень холодной, в школе не хватало игр для помещения — и он подсмотрел идею у местных, которые бросали мяч в корзины из-под персиков. Он прикрепил две корзины к перилам на трибунах, разделил учеников на две команды, и они бросали футбольный мяч — побеждал тот, у кого больше очков. Игра быстро стала популярной. Но корзины имели дно — после каждого попадания кто-то лез по лестнице доставать мяч. Приходилось повторять снова и снова — игра шла с перерывами, терялось напряжение. Даже игроки были недовольны, что уж говорить о болельщиках. Придумывали разные способы: один инженер даже сделал машину, которая выталкивала мяч. Но игра всё равно шла негладко. Через несколько лет один мальчик из детского сада, проходя с отцом мимо игроков, спросил: «А зачем так мучиться? Почему бы просто не отпилить дно у корзины?» Игроки словно очнулись, кто-то тут же принёс пилу. Проблема, мучившая всех долго, решилась одним ребёнком. Отпилить дно — так просто! Почему же никто не догадался? Потому что наше мышление, как мяч, застряло на дне корзины. Мы бессмысленно таскаем лестницы, строим машины… На самом деле мир не так уж сложен — сложность создаём мы сами. Жизнь — как корзина. Часто нам нужна лишь пила, чтобы отпилить «дно», что мешает нам.",
     "tk": "Basketbol 1891-nji ýylda Massaçusets ştatyndan sport mugallymy Jeýms Neýsmit tarapyndan oýlanyp tapyldy. Gyş gaty sowuk boldy — mekdepde otagda oýnalýan oýun ýetmezçilik edýärdi. Ol ýerli adamlaryň şetdaly sebedine top atmagyndan ylham alyp, iki sebedi tribýanyň germewine dakdy, okuwçylary iki topara böldi — uly top bilen oýnadylar, kim köp utuk toplasa, şol ýeňdi. Oýun çalt ýaýrady. Ýöne sebetleriň düýbi bardy — her utukdan soň kimdir biri basgançak bilen çykyp topy almalydy. Bu iş gaýta-gaýta gaýtalanmalydy — oýun arakesmeler bilen dowam edýärdi, dartgynlygy ýitirýärdi. Hatda oýunçylar hem nägile boldular, janköýerler barada aýtsaň näme diýersiň. Dürli usullary oýlap tapdylar: bir inžener hatda topy özi çykarýan maşyn ýasady. Emma oýun heniz gowy gitmedi. Birnäçe ýyldan soň çagalar bagyndan bir oglan kakasy bilen oýunçylaryň gapdalyndan geçip: «Beýle kynçylyk näme üçin? Sebediň düýbüni byçgy bilen kesip taşlasa bolmaýarmy?» diýip sorady. Oýunçylar huşuna geldiler, biri dessine byçgy getirdi. Uzak wagtlap alada eden mesele bir çaga arkaly çözüldi. Düýbüni kesmek aňsat-ä! Näme üçin hiç kim düşünmedi? Sebäbi biziň pikirlenişimiz, top ýaly, sebediň düýbünde galypdyr. Biz biderek basgançak göterýäris, maşyn ýasaýarys… Aslynda dünýä beýle çylşyrymly däl — çylşyrymlylygy özümiz döredýäris. Durmuş — sebediň özi. Köplenç bize diňe bir byçgy gerek — bize päsgel berýän «düýbüni» kesmek üçin.",
-    "en": "Basketball was invented in 1891 by American physical education teacher Dr. James Naismith of Massachusetts. That winter was particularly cold; Naismith's training school lacked indoor ball-game events. He drew inspiration from locals throwing balls into peach baskets (peaches were local; every household had baskets for them), mounted two baskets on the railings of the gym's side stands, split the students into Team A and Team B, and used a soccer ball to shoot into the baskets — the score decided the winner. The sport quickly became popular. However, since actual baskets were fixed to the railings, every time the ball went in, someone had to climb a ladder to retrieve it. This had to be repeated over and over, so the match continued intermittently, losing tension and intensity — even the players were unhappy, let alone the fans. To solve this, people offered many retrieval methods. One engineer even invented a machine that ejected the ball when a lever was pulled. But none made the game flow smoothly. Years later, one day, a kindergarten boy passing with his father by a group of basketball players saw the adults repeatedly and laboriously retrieving the ball and asked his father curiously: 'Why so much trouble? Why not just cut the bottom off the basket?' Thanks to that remark, people woke as if from a dream; a player quickly found a saw and cut off the basket's bottom. See — a problem that troubled people for so long was solved by a small boy. Removing the basket's bottom was so simple — why had nobody thought of it? Because our thinking was, like the ball, blocked halfway by the basket's bottom. So we foolishly carried ladders and built machines... In fact, the world is not so complicated — we create the complexity ourselves. Life is like a basket; often all we need is a saw, to cut off the 'bottom' that blocks us."
+    "en": "Basketball was invented in 1891 by American physical education teacher Dr. James Naismith of Massachusetts. That winter was particularly cold; Naismith's training school lacked indoor ball-game events. He drew inspiration from locals throwing balls into peach baskets (peaches were local; every household had baskets for them), mounted two baskets on the railings of the gym's side stands, split the students into Team A and Team B, and used a soccer ball to shoot into the baskets — the score decided the winner. The sport quickly became popular. However, since actual baskets were fixed to the railings, every time the ball went in, someone had to climb a ladder to retrieve it. This had to be repeated over and over, so the match continued intermittently, losing tension and intensity — even the players were unhappy, let alone the fans. To solve this, people offered many retrieval methods. One engineer even invented a machine that ejected the ball when a lever was pulled. But none made the game flow smoothly. Years later, one day, a kindergarten boy passing with his father by a group of basketball players saw the adults repeatedly and laboriously retrieving the ball and asked his father curiously: 'Why so much trouble? Why not just cut the bottom off the basket?' Thanks to that remark, people woke as if from a dream; a player quickly found a saw and cut off the basket's bottom. See — a problem that troubled people for so long was solved by a small boy. Removing the basket's bottom was so simple — why had nobody thought of it? Because our thinking was, like the ball, blocked halfway by the basket's bottom. So we foolishly carried ladders and built machines... In fact, the world is not so complicated — we create the complexity ourselves. Life is like a basket; often all we need is a saw, to cut off the 'bottom' that blocks us.",
+    "uz": "Basketbol 1891-yilda Massachusets shtatidan amerikalik jismoniy tarbiya o'qituvchisi doktor Jeyms Neysmit tomonidan ixtiro qilingan. O'sha qish ayniqsa sovuq edi; Neysmitning o'quv maktabida bino ichida to'p o'ynaladigan tadbirlar yo'q edi. U mahalliy aholining shaftoli savatlariga to'p tashlashidan ilhom oldi (shaftoli mahalliy edi; har bir xonadonda ular uchun savatlar bor edi), sport zali yon tomondagi tribunalar panjaralariga ikkita savat o'rnatdi, o'quvchilarni A va B jamoalariga bo'ldi va savatlarga futbol to'pi bilan tashlashdi — hisob g'olibni aniqladi. Sport tezda mashhur bo'ldi. Biroq, haqiqiy savatlar panjaralarga mahkamlanganligi sababli, to'p har safar ichkariga kirganda, kimdir uni olish uchun narvonga chiqishi kerak edi. Buni qayta-qayta takrorlash kerak edi, shuning uchun o'yin uzluksiz davom etdi, taranglik va shiddatni yo'qotdi — hatto o'yinchilar ham norozi edi, muxlislar u yoqda tursin. Buni hal qilish uchun odamlar ko'plab to'pni olish usullarini taklif qilishdi. Bir muhandis hatto dastani tortilganda to'pni chiqarib yuboradigan mashina ixtiro qildi. Ammo hech biri o'yinni ravon davom ettira olmadi. Yillar o'tib, bir kuni bog'cha yoshidagi bola otasi bilan basketbolchilar guruhi yonidan o'tib, kattalarning to'pni qayta-qayta va mashaqqat bilan olishayotganini ko'rib, otasidan qiziqib so'radi: 'Nega bunchalik ovora? Nega shunchaki savatning tagini kesib tashlamaysiz?' O'sha gap tufayli odamlar xuddi tushdan uyg'ongandek bo'lishdi; bir o'yinchi tezda arra topib, savatning tagini kesib tashladi. Qarang — uzoq vaqt odamlarni qiynagan muammoni kichkina bola hal qildi. Savatning tagini olib tashlash juda oddiy edi — nega hech kim bu haqda o'ylamagan? Chunki bizning fikrlashimiz, xuddi to'p kabi, savatning tagi bilan yarim yo'lda to'sib qo'yilgan edi. Shuning uchun biz ahmoqona narvonlar ko'tarib, mashinalar yasadik... Aslida, dunyo unchalik murakkab emas — biz murakkablikni o'zimiz yaratamiz. Hayot savatga o'xshaydi; ko'pincha bizga faqat arra kerak, bizni to'sib turgan 'tagini' kesib tashlash uchun.",
+    "tg": "Баскетбол соли 1891 аз ҷониби муаллими тарбияи ҷисмонии амрикоӣ доктор Ҷеймс Нейсмит аз Массачусетс ихтироъ шудааст. Он зимистон хеле хунук буд; мактаби таълимии Нейсмит чорабиниҳои бозии тӯбро дар дохили бино надошт. Ӯ аз сокинони маҳаллӣ илҳом гирифт, ки тӯбҳоро ба сабадҳои шафтолу мепартофтанд (шафтолу маҳаллӣ буд; ҳар хонавода барои онҳо сабад дошт), ду сабадро ба тӯшаҳои ҷойҳои тамошобин дар канори толор насб кард, донишҷӯёнро ба дастаи А ва дастаи Б тақсим кард ва тӯби футболро барои партофтан ба сабадҳо истифода бурд — ҳисоб ғолибро муайян мекард. Ин варзиш зуд маъмул шуд. Аммо, азбаски сабадҳои воқеӣ ба тӯшаҳо насб шуда буданд, ҳар дафъае, ки тӯб ба дохил мешуд, касе бояд аз нардбон мебаромад, то онро гирад. Ин бояд борҳо такрор мешуд, бинобар ин бозӣ бо танаффус идома меёфт ва шиддат ва ҷиддияти худро гум мекард — ҳатто бозигарон норизо буданд, точир тамошобинон. Барои ҳалли ин, одамон усулҳои зиёди гирифтани тӯбро пешниҳод карданд. Як муҳандис ҳатто мошине ихтироъ кард, ки ҳангоми кашидани фишанг тӯбро берун мебаровард. Аммо ҳеҷ кадоме бозиро бефосила накард. Солҳо баъд, як рӯз, писари боғчае, ки бо падараш аз назди гурӯҳи баскетболбозон мегузашт, дид, ки калонсолон борҳо ва бо заҳмат тӯбро мегиранд ва аз падараш бо кунҷковӣ пурсид: 'Чаро ин қадар заҳмат? Чаро танҳо таҳи сабадро набуред?' Ба шарофати ин сухан, одамон мисли аз хоб бедор шуданд; як бозигар зуд арра ёфт ва таҳи сабадро бурид. Бинед — мушкиле, ки одамонро тӯлонӣ азоб медод, аз ҷониби писари хурдӣ ҳал шуд. Гирифтани таҳи сабад ин қадар оддӣ буд — чаро касе ба он фикр накарда буд? Зеро тафаккури мо, мисли тӯб, дар нимаи роҳ аз таҳи сабад баста шуда буд. Пас мо аблаҳона нардбонҳоро мебардоштем ва мошинҳо месохтем... Дар асл, ҷаҳон ин қадар мураккаб нест — мо худи мураккабиро меофарам. Ҳаёт мисли сабад аст; аксар вақт танҳо ба мо арра лозим аст, то 'таҳ'ро, ки моро манъ мекунад, бурем.",
+    "id": "Bola basket ditemukan pada tahun 1891 oleh guru pendidikan jasmani Amerika, Dr. James Naismith dari Massachusetts. Musim dingin itu sangat dingin; sekolah pelatihan Naismith tidak memiliki kegiatan permainan bola di dalam ruangan. Ia mendapat inspirasi dari penduduk setempat yang melempar bola ke dalam keranjang buah persik (buah persik adalah buah lokal; setiap rumah tangga memiliki keranjang untuknya), memasang dua keranjang di pagar tribun samping gedung olahraga, membagi siswa menjadi Tim A dan Tim B, dan menggunakan bola sepak untuk menembak ke dalam keranjang — skor menentukan pemenang. Olahraga ini dengan cepat menjadi populer. Namun, karena keranjang sebenarnya dipasang tetap di pagar, setiap kali bola masuk, seseorang harus memanjat tangga untuk mengambilnya. Hal ini harus diulang terus-menerus, sehingga pertandingan berjalan terputus-putus, kehilangan ketegangan dan intensitas — bahkan para pemain pun tidak senang, apalagi para penggemar. Untuk mengatasi ini, orang menawarkan banyak metode pengambilan bola. Seorang insinyur bahkan menemukan mesin yang mengeluarkan bola saat tuas ditarik. Tetapi tidak ada yang membuat permainan berjalan lancar. Bertahun-tahun kemudian, suatu hari, seorang anak TK yang lewat bersama ayahnya di dekat sekelompok pemain bola basket melihat orang dewasa berulang kali dan susah payah mengambil bola dan bertanya kepada ayahnya dengan penasaran: 'Mengapa begitu merepotkan? Mengapa tidak potong saja bagian bawah keranjang?' Berkat ucapan itu, orang-orang tersadar seperti dari mimpi; seorang pemain cepat-cepat mencari gergaji dan memotong bagian bawah keranjang. Lihat — masalah yang meresahkan orang begitu lama diselesaikan oleh seorang anak kecil. Menghilangkan bagian bawah keranjang begitu sederhana — mengapa tidak ada yang memikirkannya? Karena pemikiran kita, seperti bola, terhalang di tengah oleh bagian bawah keranjang. Jadi kita dengan bodohnya membawa tangga dan membuat mesin... Sebenarnya, dunia tidak begitu rumit — kita sendiri yang menciptakan kerumitan. Hidup itu seperti keranjang; sering kali yang kita butuhkan hanyalah gergaji, untuk memotong 'bagian bawah' yang menghalangi kita."
   },
   "vocabulary": [
     {
@@ -42,7 +49,10 @@
       "meaning": {
         "ru": "пилить; пила",
         "tk": "byçgy bilen kesmek; byçgy",
-        "en": "to saw; saw"
+        "en": "to saw; saw",
+        "uz": "arralamoq; arra",
+        "tg": "дидан; арра",
+        "id": "menggergaji; gergaji"
       }
     },
     {
@@ -52,7 +62,10 @@
       "meaning": {
         "ru": "корзина",
         "tk": "sebet",
-        "en": "basket"
+        "en": "basket",
+        "uz": "savat",
+        "tg": "сабад",
+        "id": "keranjang"
       }
     },
     {
@@ -62,7 +75,10 @@
       "meaning": {
         "ru": "тренировать(ся)",
         "tk": "maşk etmek",
-        "en": "to train"
+        "en": "to train",
+        "uz": "mashq qilmoq",
+        "tg": "машқ кардан",
+        "id": "melatih"
       }
     },
     {
@@ -72,7 +88,10 @@
       "meaning": {
         "ru": "не хватать",
         "tk": "ýetmezçilik etmek",
-        "en": "to lack"
+        "en": "to lack",
+        "uz": "yetishmaslik",
+        "tg": "камӣ доштан",
+        "id": "kekurangan"
       }
     },
     {
@@ -82,7 +101,10 @@
       "meaning": {
         "ru": "пункт, проект",
         "tk": "bölüm, taslama",
-        "en": "item, project"
+        "en": "item, project",
+        "uz": "element, loyiha",
+        "tg": "банд, лоиҳа",
+        "id": "item, proyek"
       }
     },
     {
@@ -92,7 +114,10 @@
       "meaning": {
         "ru": "персик",
         "tk": "şetdaly",
-        "en": "peach"
+        "en": "peach",
+        "uz": "shaftoli",
+        "tg": "шафтолу",
+        "id": "persik"
       }
     },
     {
@@ -102,7 +127,10 @@
       "meaning": {
         "ru": "класть, помещать",
         "tk": "goýmak",
-        "en": "to load"
+        "en": "to load",
+        "uz": "yuklamoq",
+        "tg": "бор кардан",
+        "id": "memuat"
       }
     },
     {
@@ -112,7 +140,10 @@
       "meaning": {
         "ru": "вдохновлять",
         "tk": "ylham bermek",
-        "en": "to inspire"
+        "en": "to inspire",
+        "uz": "ilhomlantirmoq",
+        "tg": "илҳом бахшидан",
+        "id": "menginspirasi"
       }
     },
     {
@@ -122,7 +153,10 @@
       "meaning": {
         "ru": "устанавливать",
         "tk": "gurnamak",
-        "en": "to install"
+        "en": "to install",
+        "uz": "o'rnatmoq",
+        "tg": "насб кардан",
+        "id": "memasang"
       }
     },
     {
@@ -132,7 +166,10 @@
       "meaning": {
         "ru": "перила",
         "tk": "germew",
-        "en": "railing"
+        "en": "railing",
+        "uz": "panjara",
+        "tg": "парто",
+        "id": "pagar"
       }
     },
     {
@@ -142,7 +179,10 @@
       "meaning": {
         "ru": "первый (А)",
         "tk": "birinji (A)",
-        "en": "first (A)"
+        "en": "first (A)",
+        "uz": "birinchi (A)",
+        "tg": "якум (А)",
+        "id": "pertama (A)"
       }
     },
     {
@@ -152,7 +192,10 @@
       "meaning": {
         "ru": "второй (Б)",
         "tk": "ikinji (B)",
-        "en": "second (B)"
+        "en": "second (B)",
+        "uz": "ikkinchi (B)",
+        "tg": "дуюм (Б)",
+        "id": "kedua (B)"
       }
     },
     {
@@ -162,7 +205,10 @@
       "meaning": {
         "ru": "инструмент",
         "tk": "gural",
-        "en": "tool"
+        "en": "tool",
+        "uz": "asbob",
+        "tg": "асбоб",
+        "id": "alat"
       }
     },
     {
@@ -172,7 +218,10 @@
       "meaning": {
         "ru": "бросать в кольцо",
         "tk": "sebede top atmak",
-        "en": "to shoot (a basket)"
+        "en": "to shoot (a basket)",
+        "uz": "savatga tashlash",
+        "tg": "партофтан (ба сабад)",
+        "id": "menembak (bola basket)"
       }
     },
     {
@@ -182,7 +231,10 @@
       "meaning": {
         "ru": "наступать",
         "tk": "basmak",
-        "en": "to step on"
+        "en": "to step on",
+        "uz": "bosmoq",
+        "tg": "қадам задан",
+        "id": "menginjak"
       }
     },
     {
@@ -192,7 +244,10 @@
       "meaning": {
         "ru": "снова и снова",
         "tk": "gaýta-gaýta",
-        "en": "over and over"
+        "en": "over and over",
+        "uz": "qayta-qayta",
+        "tg": "борҳо ва борҳо",
+        "id": "berulang kali"
       }
     },
     {
@@ -202,7 +257,10 @@
       "meaning": {
         "ru": "повторять",
         "tk": "gaýtalamak",
-        "en": "to repeat"
+        "en": "to repeat",
+        "uz": "takrorlamoq",
+        "tg": "такрор кардан",
+        "id": "untuk mengulang"
       }
     },
     {
@@ -212,7 +270,10 @@
       "meaning": {
         "ru": "с перерывами",
         "tk": "arakesmeli",
-        "en": "intermittent"
+        "en": "intermittent",
+        "uz": "uzluksiz",
+        "tg": "давомнок",
+        "id": "terputus-putus"
       }
     },
     {
@@ -222,7 +283,10 @@
       "meaning": {
         "ru": "ожесточённый",
         "tk": "güýçli",
-        "en": "intense"
+        "en": "intense",
+        "uz": "shiddatli",
+        "tg": "шадид",
+        "id": "intens"
       }
     },
     {
@@ -232,7 +296,10 @@
       "meaning": {
         "ru": "атмосфера",
         "tk": "atmosfera",
-        "en": "atmosphere"
+        "en": "atmosphere",
+        "uz": "atmosfera",
+        "tg": "фазо",
+        "id": "atmosfer"
       }
     },
     {
@@ -242,7 +309,10 @@
       "meaning": {
         "ru": "тем более",
         "tk": "hatda",
-        "en": "let alone"
+        "en": "let alone",
+        "uz": "u yoqda tursin",
+        "tg": "чӣ расад ба",
+        "id": "apalagi"
       }
     },
     {
@@ -252,7 +322,10 @@
       "meaning": {
         "ru": "болельщик",
         "tk": "janköýer",
-        "en": "ball-game fan"
+        "en": "ball-game fan",
+        "uz": "to'p o'yini muxlisi",
+        "tg": "мухлиси бозии тӯб",
+        "id": "penggemar pertandingan bola"
       }
     },
     {
@@ -262,7 +335,10 @@
       "meaning": {
         "ru": "инженер",
         "tk": "inžener",
-        "en": "engineer"
+        "en": "engineer",
+        "uz": "muhandis",
+        "tg": "муҳандис",
+        "id": "insinyur"
       }
     },
     {
@@ -272,7 +348,10 @@
       "meaning": {
         "ru": "машина",
         "tk": "maşyn",
-        "en": "machine"
+        "en": "machine",
+        "uz": "mashina",
+        "tg": "мошин",
+        "id": "mesin"
       }
     },
     {
@@ -282,7 +361,10 @@
       "meaning": {
         "ru": "гладкий",
         "tk": "rowan",
-        "en": "smooth"
+        "en": "smooth",
+        "uz": "silliq",
+        "tg": "ҳамвор",
+        "id": "halus"
       }
     },
     {
@@ -292,7 +374,10 @@
       "meaning": {
         "ru": "детский сад",
         "tk": "çagalar bagy",
-        "en": "kindergarten"
+        "en": "kindergarten",
+        "uz": "bolalar bog'chasi",
+        "tg": "боғчаи бачагон",
+        "id": "taman kanak-kanak"
       }
     },
     {
@@ -302,7 +387,10 @@
       "meaning": {
         "ru": "любопытный",
         "tk": "bilesigeliji",
-        "en": "curious"
+        "en": "curious",
+        "uz": "qiziquvchan",
+        "tg": "кунҷков",
+        "id": "penasaran"
       }
     },
     {
@@ -312,7 +400,10 @@
       "meaning": {
         "ru": "зачем, к чему",
         "tk": "näme üçin, näme gerek",
-        "en": "why bother"
+        "en": "why bother",
+        "uz": "nega ovora bo'lish kerak",
+        "tg": "чаро ранҷур шудан",
+        "id": "mengapa repot-repot"
       }
     },
     {
@@ -322,7 +413,10 @@
       "meaning": {
         "ru": "благодаря",
         "tk": "sagbolsun",
-        "en": "thanks to"
+        "en": "thanks to",
+        "uz": "tufayli",
+        "tg": "ба шарофати",
+        "id": "berkat"
       }
     },
     {
@@ -332,7 +426,10 @@
       "meaning": {
         "ru": "поспешно",
         "tk": "desse",
-        "en": "promptly"
+        "en": "promptly",
+        "uz": "darhol",
+        "tg": "дарҳол",
+        "id": "segera"
       }
     },
     {
@@ -342,7 +439,10 @@
       "meaning": {
         "ru": "глядеть",
         "tk": "seretmek",
-        "en": "to look"
+        "en": "to look",
+        "uz": "qaramoq",
+        "tg": "нигоҳ кардан",
+        "id": "melihat"
       }
     },
     {
@@ -352,7 +452,10 @@
       "meaning": {
         "ru": "мучить, донимать",
         "tk": "alada goýmak",
-        "en": "to trouble"
+        "en": "to trouble",
+        "uz": "bezovta qilmoq",
+        "tg": "бало кардан",
+        "id": "menyusahkan"
       }
     },
     {
@@ -362,7 +465,10 @@
       "meaning": {
         "ru": "мышление",
         "tk": "pikirleniş",
-        "en": "thinking"
+        "en": "thinking",
+        "uz": "o'ylash",
+        "tg": "фикр кардан",
+        "id": "berpikir"
       }
     },
     {
@@ -372,7 +478,10 @@
       "meaning": {
         "ru": "тупой, остолбенелый",
         "tk": "haýran",
-        "en": "dull; to stagnate"
+        "en": "dull; to stagnate",
+        "uz": "zerikarli; turg'unlik",
+        "tg": "кундра; рукуд кардан",
+        "id": "tumpul; mandek"
       }
     },
     {
@@ -382,7 +491,10 @@
       "meaning": {
         "ru": "вызывать",
         "tk": "döretmek",
-        "en": "to cause"
+        "en": "to cause",
+        "uz": "sabab bo'lmoq",
+        "tg": "сабаб шудан",
+        "id": "menyebabkan"
       }
     },
     {
@@ -392,7 +504,10 @@
       "meaning": {
         "ru": "словно",
         "tk": "ýaly",
-        "en": "as if"
+        "en": "as if",
+        "uz": "go'yo",
+        "tg": "гуё",
+        "id": "seolah-olah"
       }
     },
     {
@@ -402,7 +517,10 @@
       "meaning": {
         "ru": "мешать",
         "tk": "päsgel bermek",
-        "en": "to hinder"
+        "en": "to hinder",
+        "uz": "to'sqinlik qilmoq",
+        "tg": "монеъ шудан",
+        "id": "menghalangi"
       }
     }
   ],
@@ -413,68 +531,101 @@
       "explanation": {
         "ru": "«何况» — «тем более, что уж говорить о…». Усиливает во второй части.",
         "tk": "«何况» — «hatda,... barada aýtsaň».",
-        "en": "'何况' means 'let alone, what's more'."
+        "en": "'何况' means 'let alone, what's more'.",
+        "uz": "'何况' 'qolaversa, bundan tashqari' degan ma'noni bildiradi.",
+        "tg": "'何况' маънои 'чи тавр, боз ҳам' дорад.",
+        "id": "'何况' berarti 'apalagi, terlebih lagi'."
       },
       "examples": [
         {
           "zh": "缺少了激烈紧张的气氛，连运动员都不满意，更何况看比赛的球迷呢？",
           "ru": "Не хватало напряжения — даже игроки были недовольны, что уж говорить о болельщиках!",
           "tk": "Dartgynlyk ýok boldy — hatda oýunçylar nägile boldular, janköýerler barada aýtsaň näme!",
-          "en": "Without tension, even the players were unhappy, let alone the fans!"
+          "en": "Without tension, even the players were unhappy, let alone the fans!",
+          "uz": "Zo'riqishsiz, hatto o'yinchilar ham norozi edi, muxlislar u yoqda tursin!",
+          "tg": "Бе шиддат, ҳатто бозигарон норизо буданд, то дараҷае ки мухлисон!",
+          "id": "Tanpa ketegangan, bahkan para pemain pun tidak senang, apalagi para penggemar!"
         },
         {
           "zh": "北京的发展变化太快，我这个土生土长的老北京还常迷路呢，何况你一个外地人。",
           "ru": "Пекин меняется так быстро, что я, коренной житель, часто теряюсь, что уж говорить о приезжем.",
           "tk": "Pekin şeýle çalt üýtgeýär welin, men ýerli bolsam-da ýitirip galýaryn, gelen adamy aýtsaň näme.",
-          "en": "Beijing changes so fast that even I, a native, often get lost — let alone a visitor."
+          "en": "Beijing changes so fast that even I, a native, often get lost — let alone a visitor.",
+          "uz": "Pekin shunchalik tez o'zgaryaptiki, hatto men, mahalliy bo'lsam ham, tez-tez adashib qolaman — mehmonga aytmasa ham bo'ladi.",
+          "tg": "Пекин ба қадар тез тағйир меёбад, ки ҳатто ман, ки дар ин ҷо таваллуд шудаам, аксар вақт гум мешавам — то дараҷае ки меҳмон.",
+          "id": "Beijing berubah begitu cepat sehingga bahkan saya, orang asli sini, sering tersesat — apalagi seorang pengunjung."
         },
         {
           "zh": "这辆车外观漂亮，安全性高，又何况价钱也就比上次看的那辆贵了几千块，小王有点儿动心了。",
           "ru": "Машина красивая, безопасная, да и цена всего на пару тысяч выше — Сяо Ван заинтересовался.",
           "tk": "Maşyn owadan, howpsuz, hem-de bahasy öňki görenimizden birnäçe müň gymmat — Sýao Wan gyzyklandy.",
-          "en": "The car is nice and safe — and only a few thousand pricier — Xiao Wang became interested."
+          "en": "The car is nice and safe — and only a few thousand pricier — Xiao Wang became interested.",
+          "uz": "Mashina yaxshi va xavfsiz — va faqat bir necha ming qimmatroq — Syao Van qiziqib qoldi.",
+          "tg": "Мошин хуб ва бехатар аст — ва танҳо чанд ҳазор қиматтар — Сяо Ван шавқманд шуд.",
+          "id": "Mobil itu bagus dan aman — dan hanya beberapa ribu lebih mahal — Xiao Wang menjadi tertarik."
         },
         {
           "zh": "上海冬天没有暖气，屋子里冷得让人伸不出手，何况李阳还是病人，自然是受不了的。",
           "ru": "В Шанхае зимой нет отопления — холодно, руки не вытащишь, а Ли Ян ещё и больной — ему особенно тяжело.",
           "tk": "Şanhaýda gyşyn ýyladyş ýok — elleriňi çykaryp bolmaýar, Li Ýan hem syrkaw — oňa aýratyn agyr.",
-          "en": "Shanghai has no central heating in winter — freezing cold, and Li Yang is sick — especially hard."
+          "en": "Shanghai has no central heating in winter — freezing cold, and Li Yang is sick — especially hard.",
+          "uz": "Shanxayda qishda markaziy isitish yo'q — muzdek sovuq, va Li Yang kasal — ayniqsa qiyin.",
+          "tg": "Шанхай дар зимистон гармии марказӣ надорад — хунукии яхкунанда, ва Ли Ян бемор аст — махсусан душвор.",
+          "id": "Shanghai tidak memiliki pemanas sentral di musim dingin — sangat dingin, dan Li Yang sedang sakit — terutama sulit."
         },
         {
           "zh": "这段山路比较危险，何况天快黑了，还是让我来开吧。",
           "ru": "Эта горная дорога опасна, и темнеет — давай я поведу.",
           "tk": "Bu dag ýoly howply, hem garaňky düşýär — men sürerin.",
-          "en": "This mountain road is dangerous, and it's getting dark — let me drive."
+          "en": "This mountain road is dangerous, and it's getting dark — let me drive.",
+          "uz": "Bu tog' yo'li xavfli, ustiga qorong'i tushmoqda — ruxsat bering, men haydayman.",
+          "tg": "Ин роҳи кӯҳӣ хатарнок аст, ва торик мешавад — бигзор ман ронда кунам.",
+          "id": "Jalan pegunungan ini berbahaya, dan hari sudah mulai gelap — biar saya yang menyetir."
         },
         {
           "zh": "大人都容易犯错，何况是孩子呢？",
           "ru": "Даже взрослые легко ошибаются — что уж о детях.",
           "tk": "Ulylar hem aňsat ýalňyşýar — çagalar barada aýtsaň näme.",
-          "en": "Even adults easily make mistakes — let alone children."
+          "en": "Even adults easily make mistakes — let alone children.",
+          "uz": "Hatto kattalar ham osonlikcha xato qiladi — bolalar-chi, u yoqda tursin.",
+          "tg": "Ҳатто калонсолон ба осонӣ хато мекунанд — то дараҷае ки кӯдакон.",
+          "id": "Bahkan orang dewasa mudah membuat kesalahan — apalagi anak-anak."
         },
         {
           "zh": "妈妈都劝不动他，更何况我呢？",
           "ru": "Даже мама его не уговорила — что уж говорить обо мне.",
           "tk": "Ejesi-de ynandyryp bilmedi — men barada aýtsaň näme.",
-          "en": "Even his mother couldn't persuade him — let alone me."
+          "en": "Even his mother couldn't persuade him — let alone me.",
+          "uz": "Hatto onasi ham uni ko'ndira olmadi — men-chi, u yoqda tursin.",
+          "tg": "Ҳатто модари ӯ натавонист ӯро бовар кунонад — то дараҷае ки ман.",
+          "id": "Bahkan ibunya tidak bisa membujuknya — apalagi saya."
         },
         {
           "zh": "这么难的题，老师都要想半天，何况我们呢。",
           "ru": "Такая сложная задача — даже учитель думает долго, что уж говорить о нас.",
           "tk": "Şeýle kyn mesele — mugallym hem uzak oýlanýar, biz barada aýtsaň näme.",
-          "en": "Such a hard problem — even the teacher ponders long, let alone us."
+          "en": "Such a hard problem — even the teacher ponders long, let alone us.",
+          "uz": "Shunday qiyin masala — hatto o'qituvchi ham uzoq o'ylaydi, biz-chi, u yoqda tursin.",
+          "tg": "Чунин масъалаи душвор — ҳатто муаллим ба муддати тӯлонӣ фикр мекунад, то мо чӣ гунаем.",
+          "id": "Soal yang sangat sulit — bahkan guru pun berpikir lama, apalagi kita."
         },
         {
           "zh": "大人都会犯错，何况孩子。",
           "ru": "Даже взрослые ошибаются — что уж о детях.",
           "tk": "Ulylar hem ýalňyşýar — çagalar barada aýtsaň näme.",
-          "en": "Even adults make mistakes — let alone children."
+          "en": "Even adults make mistakes — let alone children.",
+          "uz": "Hatto kattalar ham xato qiladi — bolalar-chi, u yoqda tursin.",
+          "tg": "Ҳатто калонсолон хато мекунанд — то кӯдакон чӣ гунаанд.",
+          "id": "Bahkan orang dewasa pun membuat kesalahan — apalagi anak-anak."
         },
         {
           "zh": "这么远的路我走不动，何况还下着雨。",
           "ru": "Такой путь мне не осилить, тем более под дождём.",
           "tk": "Beýle uzak ýoly men ýöräp bilemok, hem ýagýar.",
-          "en": "I can't walk such a distance — especially in the rain."
+          "en": "I can't walk such a distance — especially in the rain.",
+          "uz": "Men bunday masofani yura olmayman — ayniqsa yomg'irda.",
+          "tg": "Ман чунин масофаро пиёда рафта наметавонам — хусусан дар борон.",
+          "id": "Aku tidak bisa berjalan sejauh itu — terutama saat hujan."
         }
       ],
       "formula": {
@@ -547,68 +698,101 @@
       "explanation": {
         "ru": "«何必» — «зачем, к чему». В риторическом вопросе — «не стоит».",
         "tk": "«何必» — «näme gerek, näme üçin». Ritoriki soragda «zerur däl».",
-        "en": "'何必' means 'why bother'. Rhetorical — 'no need'."
+        "en": "'何必' means 'why bother'. Rhetorical — 'no need'.",
+        "uz": "'何必' 'nega ovora bo'lish kerak' degani. Ritorik — 'hojat yo'q'.",
+        "tg": "'何必' маънои 'чаро заҳмат кашидан' дорад. Саволӣ — 'ҳоҷат нест'.",
+        "id": "'何必' berarti 'kenapa repot-repot'. Retoris — 'tidak perlu'."
       },
       "examples": [
         {
           "zh": "何必这么麻烦呢？把篮筐的底去掉不就行了吗？",
           "ru": "Зачем так мучиться? Разве нельзя просто отпилить дно корзины?",
           "tk": "Beýle kynçylyk näme üçin? Sebediň düýbüni kesip taşlasa bolmaýarmy?",
-          "en": "Why bother? Can't you just saw off the bottom?"
+          "en": "Why bother? Can't you just saw off the bottom?",
+          "uz": "Nega ovora bo'lasiz? Pastki qismini arralab tashlasangiz bo'lmaydimi?",
+          "tg": "Чаро ин қадар заҳмат кашем? Оё шумо наметавонед танҳо поёни онро буред?",
+          "id": "Kenapa repot-repot? Tidak bisakah kamu memotong bagian bawahnya saja?"
         },
         {
           "zh": "食堂楼下就有个小超市，何必去学校外边呢？",
           "ru": "Под столовой есть магазин — зачем идти за пределы школы?",
           "tk": "Naharhananyň aşagynda dükan bar — mekdebiň daşyna gitmek näme üçin?",
-          "en": "There's a store under the cafeteria — why go off campus?"
+          "en": "There's a store under the cafeteria — why go off campus?",
+          "uz": "Oshxona ostida do'kon bor — nega kampusdan tashqariga chiqasiz?",
+          "tg": "Дар зери ошхона мағоза ҳаст — чаро аз донишгоҳ берун рафтан лозим аст?",
+          "id": "Ada toko di bawah kantin — kenapa harus keluar kampus?"
         },
         {
           "zh": "你何必亲自送一趟呢？叫个快递不就行了？",
           "ru": "Зачем самому ехать? Вызови курьера.",
           "tk": "Näme üçin özüň ýöreýärsiň? Kýurýer çagyr.",
-          "en": "Why go yourself? Call a courier."
+          "en": "Why go yourself? Call a courier.",
+          "uz": "Nega o'zingiz borasiz? Kuryer chaqiring.",
+          "tg": "Чаро худатон равед? Курьерро даъват кунед.",
+          "id": "Kenapa harus pergi sendiri? Panggil saja kurir."
         },
         {
           "zh": "早知道你就有这本书，我何必去买呢。",
           "ru": "Знал бы, что у тебя есть эта книга — зачем бы покупал.",
           "tk": "Bu kitapyň bardygyny bilenimde, näme üçin satyn alardym.",
-          "en": "Had I known you had this book, I wouldn't have bought it."
+          "en": "Had I known you had this book, I wouldn't have bought it.",
+          "uz": "Bu kitobingiz borligini bilganimda, uni sotib olmagan bo'lardim.",
+          "tg": "Агар медонастам, ки шумо ин китобро доред, ман онро намехаридам.",
+          "id": "Seandainya aku tahu kamu punya buku ini, aku tidak akan membelinya."
         },
         {
           "zh": "既然她已经拒绝了你，你何必再追呢？",
           "ru": "Раз она тебе отказала — зачем навязываться?",
           "tk": "Ol saňa ret berensoň, yzyndan gitmegiň näme gerek?",
-          "en": "Since she turned you down, why keep chasing?"
+          "en": "Since she turned you down, why keep chasing?",
+          "uz": "U sizni rad etganidan keyin, nega orqasidan quvishda davom etasiz?",
+          "tg": "Азбаски вай шуморо рад кард, чаро боз таъқиб кунед?",
+          "id": "Karena dia menolakmu, kenapa masih terus mengejar?"
         },
         {
           "zh": "为这点小事儿生气，何必呢？",
           "ru": "Из-за такой мелочи злиться — к чему?",
           "tk": "Beýle ownuk üçin gaharlanmak — näme gerek?",
-          "en": "Getting angry over such a trifle — why bother?"
+          "en": "Getting angry over such a trifle — why bother?",
+          "uz": "Bunday arzimas narsa uchun jahli chiqish — nega bezovta bo'lasiz?",
+          "tg": "Барои чунин чизҳои хурд хашмгин шудан — барои чӣ?",
+          "id": "Marah hanya karena hal sepele seperti itu — buat apa?"
         },
         {
           "zh": "你何必跟他一般见识？",
           "ru": "Зачем с ним связываться?",
           "tk": "Onuň bilen näme üçin işiň bar?",
-          "en": "Why stoop to his level?"
+          "en": "Why stoop to his level?",
+          "uz": "Nega uning darajasiga tushasiz?",
+          "tg": "Чаро ба дараҷаи ӯ фуромадан лозим?",
+          "id": "Kenapa harus turun ke levelnya?"
         },
         {
           "zh": "事情都过去了，何必再提？",
           "ru": "Всё прошло — к чему вспоминать?",
           "tk": "Iş geçdi — ýatlamagyň näme gerek?",
-          "en": "It's over — why bring it up?"
+          "en": "It's over — why bring it up?",
+          "uz": "Tugadi — nega buni yana ko'tarasiz?",
+          "tg": "Тамом шуд — барои чӣ онро ба миён овардан?",
+          "id": "Sudah selesai — kenapa masih dibahas?"
         },
         {
           "zh": "这么近，何必打车呢，走路就行。",
           "ru": "Так близко — зачем такси, пешком.",
           "tk": "Şeýle ýakyn — taksiniň näme gerek, pyýada git.",
-          "en": "So close — why take a taxi, just walk."
+          "en": "So close — why take a taxi, just walk.",
+          "uz": "Juda yaqin — nega taksi olasiz, piyoda yuring.",
+          "tg": "Хеле наздик — барои чӣ таксӣ гирифтан, пиёда рав.",
+          "id": "Begitu dekat — kenapa harus naik taksi, jalan saja."
         },
         {
           "zh": "你已经道歉了，又何必自责呢？",
           "ru": "Ты уже извинился — к чему себя винить?",
           "tk": "Ötünç soradyň — özüňi näme üçin günäkärleýärsiň?",
-          "en": "You already apologized — why blame yourself?"
+          "en": "You already apologized — why blame yourself?",
+          "uz": "Siz allaqachon kechirim so'radingiz — nega o'zingizni ayblaysiz?",
+          "tg": "Ту аллакай узр пурсидӣ — барои чӣ худро айбдор мекунӣ?",
+          "id": "Kamu sudah minta maaf — kenapa masih menyalahkan diri sendiri?"
         }
       ],
       "formula": {
@@ -679,68 +863,101 @@
       "explanation": {
         "ru": "«多亏» — «благодаря кому-то/чему-то». Подчёркивает удачное стечение обстоятельств.",
         "tk": "«多亏» — «sagbolsun».",
-        "en": "'多亏' means 'thanks to (sb/sth)'."
+        "en": "'多亏' means 'thanks to (sb/sth)'.",
+        "uz": "'多亏' 'rahmat (kimga/nimaga)' degan ma'noni bildiradi.",
+        "tg": "'多亏' маънои 'шарофати (касе/чизе)' дорад.",
+        "id": "'多亏' berarti 'berkat (seseorang/sesuatu)'."
       },
       "examples": [
         {
           "zh": "多亏了他这句话，人们如梦初醒。",
           "ru": "Благодаря его словам люди словно очнулись.",
           "tk": "Onuň bu sözi sagbolsun, adamlar huşuna geldiler.",
-          "en": "Thanks to his words, people woke up."
+          "en": "Thanks to his words, people woke up.",
+          "uz": "Uning so'zlari tufayli odamlar uyg'ondi.",
+          "tg": "Ба шарофати суханони ӯ, мардум бедор шуданд.",
+          "id": "Berkat kata-katanya, orang-orang pun tersadar."
         },
         {
           "zh": "赵老师，谢谢您，多亏您给我那瓶药，很管用。",
           "ru": "Учитель Чжао, спасибо — благодаря вашему лекарству мне стало лучше.",
           "tk": "Çžao mugallym, sag boluň — beren dermanyňyz sagbolsun, gaty peýdaly boldy.",
-          "en": "Teacher Zhao, thanks — that medicine really helped."
+          "en": "Teacher Zhao, thanks — that medicine really helped.",
+          "uz": "Zhao o'qituvchi, rahmat — o'sha dori haqiqatan yordam berdi.",
+          "tg": "Устод Чжао, ташаккур — он дору воқеан кӯмак кард.",
+          "id": "Guru Zhao, terima kasih — obat itu benar-benar membantu."
         },
         {
           "zh": "今天搬家多亏有你在，你可帮我大忙了。",
           "ru": "Сегодня с переездом благодаря тебе — ты очень помог.",
           "tk": "Bu gün göçmekde seniň bardygyň sagbolsun — köp kömek etdiň.",
-          "en": "Thanks to you being here for the move today — you were a huge help."
+          "en": "Thanks to you being here for the move today — you were a huge help.",
+          "uz": "Bugun ko'chishda shu yerda bo'lganingiz uchun rahmat — siz juda katta yordam berdingiz.",
+          "tg": "Ташаккур барои он ки имрӯз ҳангоми кӯчидан дар ин ҷо будӣ — ту кӯмаки калон кардӣ.",
+          "id": "Terima kasih sudah ada di sini untuk pindahan hari ini — kamu sangat membantu."
         },
         {
           "zh": "多亏你提醒，要不然我就忘了。",
           "ru": "Спасибо, что напомнил — иначе бы забыл.",
           "tk": "Ýatladanyň sagbolsun — ýogsam ýatdan çykarardym.",
-          "en": "Thanks for the reminder — otherwise I'd forget."
+          "en": "Thanks for the reminder — otherwise I'd forget.",
+          "uz": "Eslatganingiz uchun rahmat — aks holda unutib qo'yardim.",
+          "tg": "Ташаккур барои ёдрасӣ — вагарна ман фаромӯш мекардам.",
+          "id": "Terima kasih atas pengingatnya — kalau tidak, aku akan lupa."
         },
         {
           "zh": "多亏带伞了，否则会被淋湿。",
           "ru": "Хорошо, что взял зонт — иначе промок бы.",
           "tk": "Saýawan alanym gowy boldy — ýogsam öl-ýagyp galardym.",
-          "en": "Good thing I brought an umbrella — otherwise I'd be soaked."
+          "en": "Good thing I brought an umbrella — otherwise I'd be soaked.",
+          "uz": "Yaxshi bo'ldi soyabon olganim — aks holda ho'l bo'lardim.",
+          "tg": "Хуб шуд, ки чатр гирифтам — вагарна ман тар мешудам.",
+          "id": "Untung aku membawa payung — kalau tidak, aku akan basah kuyup."
         },
         {
           "zh": "多亏医生及时抢救，他才脱离了危险。",
           "ru": "Благодаря своевременной помощи врачей он избежал опасности.",
           "tk": "Lukmanlaryň dessine kömegi sagbolsun, ol howpdan gutuldy.",
-          "en": "Thanks to the doctors' timely help, he escaped danger."
+          "en": "Thanks to the doctors' timely help, he escaped danger.",
+          "uz": "Shifokorlarning o'z vaqtida yordami tufayli u xavfdan qutuldi.",
+          "tg": "Ба шарофати кӯмаки саривақтии духтурон, ӯ аз хатар раҳо ёфт.",
+          "id": "Berkat bantuan tepat waktu dari para dokter, dia terhindar dari bahaya."
         },
         {
           "zh": "多亏你告诉我这件事，否则我会上当。",
           "ru": "Хорошо, что ты сказал — иначе я бы попался.",
           "tk": "Bu zady maňa aýdanyň gowy boldy — ýogsam aldanyp galardym.",
-          "en": "Good you told me — I'd have been cheated."
+          "en": "Good you told me — I'd have been cheated.",
+          "uz": "Aytganingiz yaxshi bo'ldi — aldanib qolardim.",
+          "tg": "Хуб шуд, ки ба ман гуфтед — вагарна маро фиреб медоданд.",
+          "id": "Untung kamu memberitahuku — kalau tidak, aku sudah tertipu."
         },
         {
           "zh": "多亏邻居帮忙，我们才搬完家。",
           "ru": "Только благодаря помощи соседей мы переехали.",
           "tk": "Goňşularyň kömegi sagbolsun, biz göçüp gutardyk.",
-          "en": "Thanks to the neighbors' help, we finished moving."
+          "en": "Thanks to the neighbors' help, we finished moving.",
+          "uz": "Qo'shnilarning yordami tufayli ko'chishni tugatdik.",
+          "tg": "Ба шарофати кӯмаки ҳамсояҳо, мо кӯчиданро ба анҷом расондем.",
+          "id": "Berkat bantuan para tetangga, kami menyelesaikan pindahan."
         },
         {
           "zh": "多亏有网络，我们才能随时联系。",
           "ru": "Только благодаря интернету мы всегда на связи.",
           "tk": "Internet sagbolsun, biz hemişe habarlaşyp bilýäris.",
-          "en": "Thanks to the internet, we can always stay in touch."
+          "en": "Thanks to the internet, we can always stay in touch.",
+          "uz": "Internet tufayli biz doimo aloqada bo'la olamiz.",
+          "tg": "Ба шарофати интернет, мо ҳамеша дар тамос буда метавонем.",
+          "id": "Berkat internet, kita bisa selalu tetap terhubung."
         },
         {
           "zh": "多亏老师耐心讲解，我才听懂。",
           "ru": "Благодаря терпеливому объяснению учителя я понял.",
           "tk": "Mugallymyň sabyrly düşündirişi sagbolsun, düşündim.",
-          "en": "Thanks to the teacher's patience, I understood."
+          "en": "Thanks to the teacher's patience, I understood.",
+          "uz": "O'qituvchining sabri tufayli men tushundim.",
+          "tg": "Ба шарофати сабри муаллим, ман фаҳмидам.",
+          "id": "Berkat kesabaran guru, aku mengerti."
         }
       ],
       "formula": {
@@ -850,7 +1067,10 @@
       "common": {
         "ru": "Оба — «сильный, интенсивный».",
         "tk": "Ikisi hem «güýçli».",
-        "en": "Both mean 'strong, intense'."
+        "en": "Both mean 'strong, intense'.",
+        "uz": "Ikkalasi ham 'kuchli, shiddatli' ma'nosini bildiradi.",
+        "tg": "Ҳарду маънои 'қавӣ, шиддатнок'-ро доранд.",
+        "id": "Keduanya berarti 'kuat, intens'."
       },
       "differences": [
         {
@@ -884,7 +1104,10 @@
         "meaning": {
           "ru": "тайцзицюань",
           "tk": "taýtsziçýuan",
-          "en": "Tai Chi"
+          "en": "Tai Chi",
+          "uz": "Tay Chi",
+          "tg": "Тай Чи",
+          "id": "Tai Chi"
         }
       },
       {
@@ -893,7 +1116,10 @@
         "meaning": {
           "ru": "болельщик",
           "tk": "janköýer",
-          "en": "fan"
+          "en": "fan",
+          "uz": "muxlis",
+          "tg": "мухлис",
+          "id": "penggemar"
         }
       },
       {
@@ -902,7 +1128,10 @@
         "meaning": {
           "ru": "ушу",
           "tk": "uşu",
-          "en": "martial arts"
+          "en": "martial arts",
+          "uz": "jang san'ati",
+          "tg": "ҳунарҳои размӣ",
+          "id": "seni bela diri"
         }
       },
       {
@@ -911,7 +1140,10 @@
         "meaning": {
           "ru": "рекорд",
           "tk": "rekord",
-          "en": "record"
+          "en": "record",
+          "uz": "yozib olmoq",
+          "tg": "рекорд",
+          "id": "rekor"
         }
       },
       {
@@ -920,7 +1152,10 @@
         "meaning": {
           "ru": "шахматы (китайские)",
           "tk": "şaňmat",
-          "en": "Chinese chess"
+          "en": "Chinese chess",
+          "uz": "Xitoy shaxmati",
+          "tg": "шатранҷи чинӣ",
+          "id": "catur Tiongkok"
         }
       },
       {
@@ -929,7 +1164,10 @@
         "meaning": {
           "ru": "тренер",
           "tk": "tälimçi",
-          "en": "coach"
+          "en": "coach",
+          "uz": "murabbiy",
+          "tg": "мураббӣ",
+          "id": "pelatih"
         }
       },
       {
@@ -938,7 +1176,10 @@
         "meaning": {
           "ru": "соперник",
           "tk": "garşydaş",
-          "en": "opponent"
+          "en": "opponent",
+          "uz": "raqib",
+          "tg": "рақиб",
+          "id": "lawan"
         }
       },
       {
@@ -947,7 +1188,10 @@
         "meaning": {
           "ru": "чемпион",
           "tk": "çempion",
-          "en": "champion"
+          "en": "champion",
+          "uz": "chempion",
+          "tg": "чемпион",
+          "id": "juara"
         }
       },
       {
@@ -956,7 +1200,10 @@
         "meaning": {
           "ru": "финал",
           "tk": "final",
-          "en": "final"
+          "en": "final",
+          "uz": "final",
+          "tg": "финал",
+          "id": "final"
         }
       }
     ]
@@ -965,7 +1212,10 @@
     "discussion": {
       "ru": "Каким спортом вы занимаетесь? Что он даёт вам?",
       "tk": "Haýsy sport bilen meşgullanýarsyňyz? Size näme berýär?",
-      "en": "What sport do you do? What does it give you?"
+      "en": "What sport do you do? What does it give you?",
+      "uz": "Qaysi sport turi bilan shug'ullanasiz? Bu sizga nima beradi?",
+      "tg": "Шумо кадом варзишро анҷом медиҳед? Он ба шумо чӣ медиҳад?",
+      "id": "Olahraga apa yang kamu lakukan? Apa manfaatnya bagimu?"
     }
   },
   "workbook": {

@@ -5,7 +5,8 @@
     "tk": "Abstrakt sungat owadanmy?",
     "en": "Abstract Art: Beautiful or Not?",
     "uz": "Mavhum san'at go'zalmi?",
-    "tg": "Санъати абстракт зебост?"
+    "tg": "Санъати абстракт зебост?",
+    "id": "Seni Abstrak: Indah atau Tidak?"
   },
   "audio_files": {
     "textbook_1": "textbook_1.mp3",
@@ -18,7 +19,10 @@
     "question": {
       "ru": "Какая картина — абстрактная, какая — классическая?",
       "tk": "Haýsy surat abstrakt, haýsysy klassik?",
-      "en": "Which painting is abstract, which is classical?"
+      "en": "Which painting is abstract, which is classical?",
+      "uz": "Qaysi rasm abstrakt, qaysi biri klassik?",
+      "tg": "Кадом расм абстрактӣ аст, кадом классикӣ?",
+      "id": "Lukisan mana yang abstrak, mana yang klasik?"
     },
     "answers": [
       "抽象",
@@ -32,7 +36,10 @@
   "text_translation": {
     "ru": "Для некоторых абстрактное искусство сложнее для восприятия, чем классическое: нерегулярные пятна цвета и линии на холсте — где тут смысл? В работах абстракционистов часто встречаются вещи, будто бы сделанные случайными брызгами краски: для кого-то они загадочны и даже уродливы, а кто-то чувствует в них воспевание свободы и жизни. Исследователи провели интересный эксперимент. Задача добровольцев была проста: им показывали картины парами — одна от известного абстракциониста, другая — от любителя, ребёнка, шимпанзе или слона. Нужно было выбрать, какая больше нравится. У трети картин авторов не было подписи, у остальных — была. Хитрость в том, что некоторые подписи были умышленно неверны, и добровольцы не могли точно определить автора: случалось, они считали, что видят каракули шимпанзе, а на самом деле это был шедевр абстракциониста. Кто-то решит, что в такой ситуации отличить невозможно. Но в каждом тесте участники в среднем предпочитали работы, сделанные человеческими художниками. Это показывает, что добровольцы способны ощутить вложенную душу художника, даже если не могут объяснить почему. В другом эксперименте добровольцы одновременно рассматривали оригинал и картину с изменёнными элементами — натюрморты и абстракции. Почти все предпочитали оригинал. Исследователи выяснили: когда видят изменённое положение объектов, активность области мозга, отвечающей за смысл и интерпретацию, снижается. Это означает: наш мозг замечает композицию оригинала и чувствует замысел за ней — даже если мы не осознаём этого. По крайней мере сейчас можно сказать: нет доказательств, что шимпанзе или дети способны на это. Как именно мозг воспринимает абстрактное искусство — интересная тема. Каждый может прочесть абстрактное искусство по-своему — это и вызов, и свобода.",
     "tk": "Käbir adamlar üçin abstrakt sungat klassik sungatdan has kyn: holstda düzgünsiz reňk bölekleri we çyzyklar — manyny görmek kyn. Abstrakt suratkeşleriň eserlerinde tötänleýin syrylan reňkden döran zatlar köp duş gelýär — kimdir bir zat üçin olar syrly ýa-da hatda ýigrenji, kimdir bir zat üçin bolsa azatlygyň we durmuşyň öwgüsini duýýar. Barlagçylar gyzykly synag geçirdiler. Meýletinçileriň işi ýönekeýdi: suratlar jübüt-jübüt görkezilýär — biri meşhur abstrakt suratkeşden, beýlekisi höwesjeň, çaga, şimpanze ýa-da pilden. Haýsysynyň has ýaraýandygyny saýlamaly. Suratlaryň üçden birinde awtoryň goly ýokdy, beýlekilerinde bardy. Kynçylyk: käbir gollar bilgeşleýin nädogry ýazylandy — meýletinçiler hakyky awtory anyklap bilmediler: käte şimpanzeniň çyzmaklary hasaplap, aslynda meşhur abstrakt suratkeşiň eseri bolup çykdy. Kimdir bir zat şeýle ýagdaýda tapawudy anyklamak mümkin däl diýip pikir edýär. Emma her synagda meýletinçiler ortaça adam suratkeşleriň eserlerini has gowy görýärdiler. Bu şuny görkezýär: meýletinçiler suratkeşiň goýan ruhuny duýup bilýärler, hatda sebäbini düşündirip bilmeseler-de. Başga bir synagda meýletinçiler asyl nusgany we üýtgedilen elementleri bolan suratlary bir wagtda synlaýarlar — natýurmortlar we abstraksiýalar. Netijede, hemmeler diýen ýaly asyl nusgany has gowy görýärler. Barlagçylar şuny anykladylar: suratdaky zatlaryň ýeriniň üýtgändigini görenlerinde, beýniniň many we düşündiriş bilen bagly bölüminiň işjeňligi peselýär. Bu şuny aňladýar: beýnimiz asyl eseriň kompozisiýasyna üns berýär we arkasyndaky maksady duýýar — hatda biz muny aç-açan duýmasak-da. Iň bolmanda häzir şeýle diýip bolar: şimpanzeleriň ýa-da çagalaryň muny edip bilýändigine hiç hili subutnama ýok. Beýnimiziň abstrakt sungaty nähili kabul edýändigi — gyzykly tema. Her kim abstrakt sungaty dürli manyda düşündirip biler — bu hem kynçylyk, hem azatlyk.",
-    "en": "For some, abstract art isn't as easy to appreciate as classical art — those irregular color patches and lines on the canvas seem to carry no meaning. Abstract painters' works often include canvases that look as if paint were casually splashed on — to some extremely mysterious or even ugly, while others sense in them a praise of freedom and life. Researchers designed an interesting experiment. The volunteers' task was simple: each would see pictures in pairs — one by a famous abstract artist, the other a doodle by an amateur, an infant, a chimpanzee or an elephant. Volunteers had to say which they preferred in each pair. For one-third of the paintings, no signature was present; the rest were labeled. The tricky part: some signatures were deliberately wrong, so volunteers couldn't confirm the author — they might think they were looking at a chimpanzee's doodle when it was actually a great work by a famous abstract artist. Some might think in such a case it's impossible to tell. Yet in every test, volunteers on average preferred the works done by human artists. This shows volunteers can sense the artist's intent from the painting, even if they can't explain why. In another experiment, volunteers simultaneously appreciated the original and a version with adjusted pictorial elements — including still lifes and abstract paintings. Almost everyone preferred the original. Researchers found that when seeing the changed positions of objects on the canvas, the activity in the brain region related to meaning and interpretation decreased. This shows our brain notices the original's composition and senses the intent behind it — even if we haven't clearly felt this fact. At least for now, we can say there's no evidence that chimpanzees or children can do this. How exactly our brain perceives abstract art is an interesting topic. Everyone can interpret abstract art differently — this is both a challenge and a freedom."
+    "en": "For some, abstract art isn't as easy to appreciate as classical art — those irregular color patches and lines on the canvas seem to carry no meaning. Abstract painters' works often include canvases that look as if paint were casually splashed on — to some extremely mysterious or even ugly, while others sense in them a praise of freedom and life. Researchers designed an interesting experiment. The volunteers' task was simple: each would see pictures in pairs — one by a famous abstract artist, the other a doodle by an amateur, an infant, a chimpanzee or an elephant. Volunteers had to say which they preferred in each pair. For one-third of the paintings, no signature was present; the rest were labeled. The tricky part: some signatures were deliberately wrong, so volunteers couldn't confirm the author — they might think they were looking at a chimpanzee's doodle when it was actually a great work by a famous abstract artist. Some might think in such a case it's impossible to tell. Yet in every test, volunteers on average preferred the works done by human artists. This shows volunteers can sense the artist's intent from the painting, even if they can't explain why. In another experiment, volunteers simultaneously appreciated the original and a version with adjusted pictorial elements — including still lifes and abstract paintings. Almost everyone preferred the original. Researchers found that when seeing the changed positions of objects on the canvas, the activity in the brain region related to meaning and interpretation decreased. This shows our brain notices the original's composition and senses the intent behind it — even if we haven't clearly felt this fact. At least for now, we can say there's no evidence that chimpanzees or children can do this. How exactly our brain perceives abstract art is an interesting topic. Everyone can interpret abstract art differently — this is both a challenge and a freedom.",
+    "uz": "Ba'zilar uchun abstrakt san'at klassik san'at kabi oson qadrlanmaydi — tuvaldagi tartibsiz rang dog'lari va chiziqlar hech qanday ma'no anglatmagandek tuyuladi. Abstrakt rassomlarning asarlari ko'pincha bo'yoq beparvo sepilgandek ko'rinadigan tuvallarni o'z ichiga oladi — ba'zilar uchun nihoyatda sirli yoki hatto xunuk, boshqalar esa ularda erkinlik va hayotni madh etishni his qiladi. Tadqiqotchilar qiziqarli tajriba o'ylab topdilar. Ko'ngillilarning vazifasi oddiy edi: har biri juftlikdagi rasmlarni ko'rishi kerak edi — biri mashhur abstrakt rassom tomonidan, ikkinchisi esa havaskor, chaqaloq, shimpanze yoki fil tomonidan chizilgan qoralama. Ko'ngillilar har bir juftlikda qaysi birini afzal ko'rishlarini aytishlari kerak edi. Rasmlarning uchdan bir qismida imzo yo'q edi; qolganlari imzolangan edi. Qiyin tomoni: ba'zi imzolar ataylab noto'g'ri edi, shuning uchun ko'ngillilar muallifni tasdiqlay olmadilar — ular aslida mashhur abstrakt rassomning buyuk asari bo'lgan shimpanze qoralamasini ko'ryapman deb o'ylashlari mumkin edi. Ba'zilar bunday holatda buni ajratib bo'lmaydi deb o'ylashlari mumkin. Ammo har bir testda ko'ngillilar o'rtacha inson rassomlar tomonidan yaratilgan asarlarni afzal ko'rdilar. Bu ko'ngillilar rassomning niyatini rasmdan his qila olishlarini ko'rsatadi, hatto nima uchunligini tushuntira olmasalar ham. Boshqa bir tajribada ko'ngillilar bir vaqtning o'zida asl nusxani va tasviriy elementlari o'zgartirilgan versiyasini — jumladan natyurmortlar va abstrakt rasmlarni — qadrladilar. Deyarli hamma asl nusxani afzal ko'rdi. Tadqiqotchilar tuvaldagi ob'ektlarning o'zgartirilgan joylashuvini ko'rganda, miyaning ma'no va talqin bilan bog'liq hududidagi faollik kamayganini aniqladilar. Bu bizning miyamiz asl nusxaning kompozitsiyasini payqashini va uning ortidagi niyatni his qilishini ko'rsatadi — hatto biz bu faktni aniq his qilmagan bo'lsak ham. Hech bo'lmaganda hozircha aytishimiz mumkinki, shimpanzelar yoki bolalar buni qila olishlari haqida hech qanday dalil yo'q. Miyamiz abstrakt san'atni qanday qabul qilishi qiziqarli mavzu. Har kim abstrakt san'atni turlicha talqin qilishi mumkin — bu ham qiyinchilik, ham erkinlikdir.",
+    "tg": "Барои баъзеҳо, санъати абстрактӣ ба мисли санъати классикӣ қадр кардан осон нест — он доғҳои ранги номунтазам ва хатҳои болои канивас ба назар маъное надоранд. Асарҳои рассомони абстрактӣ аксар вақт канивасҳоро дар бар мегиранд, ки гӯё ранг ба таври тасодуфӣ пошида шудааст — барои баъзеҳо бениҳоят муаммо ё ҳатто зишт, дар ҳоле ки дигарон дар онҳо ситоиши озодӣ ва ҳаётро ҳис мекунанд. Муҳаққиқон таҷрибаи ҷолиберо тарҳрезӣ карданд. Вазифаи ихтиёриён оддӣ буд: ҳар як нафар расмҳоро ҷуфт-ҷуфт медид — яке аз рассоми машҳури абстрактӣ, дигаре расми кашидаи ҳаваскори оддӣ, кӯдак, шимпанзе ё фил. Ихтиёриён бояд мегуфтанд, ки дар ҳар ҷуфт кадомашро бештар писандидаанд. Барои як се ҳиссаи расмҳо имзо набуд; боқимонда имзо доштанд. Қисми мураккаб: баъзе имзоҳо қасдан нодуруст буданд, то ихтиёриён муаллифро тасдиқ карда натавонанд — онҳо метавонистанд фикр кунанд, ки расми кашидаи шимпанзеро мебинанд, дар ҳоле ки он дар асл кори бузурги рассоми машҳури абстрактӣ буд. Баъзеҳо метавонистанд дар чунин ҳолат фикр кунанд, ки муайян кардан ғайриимкон аст. Аммо дар ҳар як озмоиш, ихтиёриён ба ҳисоби миёна асарҳои рассомони инсонро бештар писандиданд. Ин нишон медиҳад, ки ихтиёриён метавонанд нияти рассомро аз расм ҳис кунанд, ҳатто агар натавонанд шарҳ диҳанд, ки чаро. Дар таҷрибаи дигар, ихтиёриён ҳамзамон асл ва нусхаи бо элементҳои тасвирӣ тағйирёфтаро қадр карданд — аз ҷумла табиати беҷон ва расмҳои абстрактӣ. Қариб ҳама аслро бештар писандиданд. Муҳаққиқон муайян карданд, ки ҳангоми дидани ҷойҳои тағйирёфтаи объектҳо дар канивас, фаъолият дар минтақаи майна, ки ба маъно ва тафсир алоқаманд аст, коҳиш меёбад. Ин нишон медиҳад, ки майнаи мо таркиби аслро қайд мекунад ва нияти паси онро ҳис мекунад — ҳатто агар мо ин далелро равшан ҳис накарда бошем. Ҳадди ақал ҳоло, мо метавонем гӯем, ки ҳеҷ далеле нест, ки шимпанзеҳо ё кӯдакон метавонанд ин корро кунанд. Майнаи мо чӣ гуна санъати абстрактиро дарк мекунад, мавзӯи ҷолиб аст. Ҳар кас метавонад санъати абстрактиро ба таври гуногун тафсир кунад — ин ҳам чолиш ва ҳам озодӣ аст.",
+    "id": "Bagi sebagian orang, seni abstrak tidak semudah seni klasik untuk dihargai — bercak warna dan garis tak beraturan di kanvas tampak tidak memiliki makna. Karya pelukis abstrak sering kali mencakup kanvas yang terlihat seperti cat dicipratkan begitu saja — bagi sebagian orang sangat misterius atau bahkan jelek, sementara yang lain merasakan di dalamnya pujian terhadap kebebasan dan kehidupan. Peneliti merancang eksperimen menarik. Tugas para relawan sederhana: masing-masing akan melihat gambar secara berpasangan — satu karya seniman abstrak terkenal, yang lain coretan amatir, bayi, simpanse, atau gajah. Relawan harus mengatakan mana yang mereka sukai di setiap pasangan. Untuk sepertiga lukisan, tidak ada tanda tangan; sisanya diberi label. Bagian yang rumit: beberapa tanda tangan sengaja salah, sehingga relawan tidak dapat memastikan pembuatnya — mereka mungkin mengira sedang melihat coretan simpanse padahal itu sebenarnya karya hebat seniman abstrak terkenal. Beberapa mungkin mengira dalam kasus seperti itu mustahil untuk menebak. Namun dalam setiap tes, relawan rata-rata lebih menyukai karya yang dibuat oleh seniman manusia. Ini menunjukkan relawan dapat merasakan maksud seniman dari lukisan, bahkan jika mereka tidak dapat menjelaskan alasannya. Dalam eksperimen lain, relawan sekaligus mengapresiasi karya asli dan versi dengan elemen gambar yang disesuaikan — termasuk lukisan benda mati dan lukisan abstrak. Hampir semua orang lebih menyukai yang asli. Peneliti menemukan bahwa saat melihat posisi objek yang diubah di kanvas, aktivitas di wilayah otak yang terkait dengan makna dan interpretasi menurun. Ini menunjukkan otak kita memperhatikan komposisi karya asli dan merasakan maksud di baliknya — bahkan jika kita belum secara jelas merasakan fakta ini. Setidaknya untuk saat ini, kita dapat mengatakan tidak ada bukti bahwa simpanse atau anak-anak dapat melakukan ini. Bagaimana tepatnya otak kita mempersepsi seni abstrak adalah topik yang menarik. Setiap orang dapat menafsirkan seni abstrak secara berbeda — ini sekaligus tantangan dan kebebasan."
   },
   "vocabulary": [
     {
@@ -42,7 +49,10 @@
       "meaning": {
         "ru": "абстрактный",
         "tk": "abstrakt",
-        "en": "abstract"
+        "en": "abstract",
+        "uz": "abstrakt",
+        "tg": "абстрактӣ",
+        "id": "abstrak"
       }
     },
     {
@@ -52,7 +62,10 @@
       "meaning": {
         "ru": "классический",
         "tk": "klassik",
-        "en": "classical"
+        "en": "classical",
+        "uz": "klassik",
+        "tg": "классикӣ",
+        "id": "klasik"
       }
     },
     {
@@ -62,7 +75,10 @@
       "meaning": {
         "ru": "ценить, любоваться",
         "tk": "lezzet almak",
-        "en": "to appreciate"
+        "en": "to appreciate",
+        "uz": "qadrlamoq",
+        "tg": "қадр кардан",
+        "id": "menghargai"
       }
     },
     {
@@ -72,7 +88,10 @@
       "meaning": {
         "ru": "ткань, холст",
         "tk": "mata",
-        "en": "cloth"
+        "en": "cloth",
+        "uz": "mato",
+        "tg": "мато",
+        "id": "kain"
       }
     },
     {
@@ -82,7 +101,10 @@
       "meaning": {
         "ru": "правило; ровный",
         "tk": "düzgün",
-        "en": "rule; regular"
+        "en": "rule; regular",
+        "uz": "qoida; muntazam",
+        "tg": "қоида; мунтазам",
+        "id": "aturan; teratur"
       }
     },
     {
@@ -92,7 +114,10 @@
       "meaning": {
         "ru": "школа, направление",
         "tk": "ugur",
-        "en": "school, faction"
+        "en": "school, faction",
+        "uz": "maktab, fraksiya",
+        "tg": "мактаб, гурӯҳ",
+        "id": "aliran, faksi"
       }
     },
     {
@@ -102,7 +127,10 @@
       "meaning": {
         "ru": "произведение",
         "tk": "eser",
-        "en": "work (of art)"
+        "en": "work (of art)",
+        "uz": "asar",
+        "tg": "асар (санъат)",
+        "id": "karya (seni)"
       }
     },
     {
@@ -112,7 +140,10 @@
       "meaning": {
         "ru": "разбрызгивать",
         "tk": "sepmek",
-        "en": "to sprinkle"
+        "en": "to sprinkle",
+        "uz": "sepmoq",
+        "tg": "пошидан",
+        "id": "untuk menaburkan"
       }
     },
     {
@@ -122,7 +153,10 @@
       "meaning": {
         "ru": "чрезвычайно",
         "tk": "örän",
-        "en": "extremely"
+        "en": "extremely",
+        "uz": "nihoyatda",
+        "tg": "хеле",
+        "id": "sangat"
       }
     },
     {
@@ -132,7 +166,10 @@
       "meaning": {
         "ru": "таинственный",
         "tk": "syrly",
-        "en": "mysterious"
+        "en": "mysterious",
+        "uz": "sirli",
+        "tg": "муаммомез",
+        "id": "misterius"
       }
     },
     {
@@ -142,7 +179,10 @@
       "meaning": {
         "ru": "уродливый",
         "tk": "haýasat",
-        "en": "ugly"
+        "en": "ugly",
+        "uz": "xunuk",
+        "tg": "зебо",
+        "id": "jelek"
       }
     },
     {
@@ -152,7 +192,10 @@
       "meaning": {
         "ru": "свобода",
         "tk": "azatlyk",
-        "en": "freedom"
+        "en": "freedom",
+        "uz": "erkinlik",
+        "tg": "озодӣ",
+        "id": "kebebasan"
       }
     },
     {
@@ -162,7 +205,10 @@
       "meaning": {
         "ru": "проектировать, дизайн",
         "tk": "taslamak",
-        "en": "to design"
+        "en": "to design",
+        "uz": "loyihalashtirmoq",
+        "tg": "тарҳрезӣ кардан",
+        "id": "untuk merancang"
       }
     },
     {
@@ -172,7 +218,10 @@
       "meaning": {
         "ru": "группа",
         "tk": "topar",
-        "en": "group"
+        "en": "group",
+        "uz": "guruh",
+        "tg": "гурӯҳ",
+        "id": "kelompok"
       }
     },
     {
@@ -182,7 +231,10 @@
       "meaning": {
         "ru": "счётное слово для картин",
         "tk": "surat üçin san sözi",
-        "en": "MW for paintings"
+        "en": "MW for paintings",
+        "uz": "rasmlar uchun MW",
+        "tg": "воҳиди ченак барои расмҳо",
+        "id": "MW untuk lukisan"
       }
     },
     {
@@ -192,7 +244,10 @@
       "meaning": {
         "ru": "исходить из",
         "tk": "gelip çykmak",
-        "en": "to come from"
+        "en": "to come from",
+        "uz": "dan kelmoq",
+        "tg": "аз ... омадан",
+        "id": "berasal dari"
       }
     },
     {
@@ -202,7 +257,10 @@
       "meaning": {
         "ru": "любительский",
         "tk": "höwesjeň",
-        "en": "amateur"
+        "en": "amateur",
+        "uz": "havaskor",
+        "tg": "ҳаваскор",
+        "id": "amatir"
       }
     },
     {
@@ -212,7 +270,10 @@
       "meaning": {
         "ru": "младенец",
         "tk": "bäbek",
-        "en": "infant"
+        "en": "infant",
+        "uz": "chaqaloq",
+        "tg": "кӯдак",
+        "id": "bayi"
       }
     },
     {
@@ -222,7 +283,10 @@
       "meaning": {
         "ru": "шимпанзе",
         "tk": "şimpanze",
-        "en": "chimpanzee"
+        "en": "chimpanzee",
+        "uz": "shimpanze",
+        "tg": "шимпанзе",
+        "id": "simpanse"
       }
     },
     {
@@ -232,7 +296,10 @@
       "meaning": {
         "ru": "каракули",
         "tk": "çyzgy",
-        "en": "to scrawl"
+        "en": "to scrawl",
+        "uz": "chizmoq",
+        "tg": "каҷ навиштан",
+        "id": "mencoret-coret"
       }
     },
     {
@@ -242,7 +309,10 @@
       "meaning": {
         "ru": "подписывать",
         "tk": "gol çekmek",
-        "en": "to sign"
+        "en": "to sign",
+        "uz": "imzo chekmoq",
+        "tg": "имзо кардан",
+        "id": "menandatangani"
       }
     },
     {
@@ -252,7 +322,10 @@
       "meaning": {
         "ru": "остальные",
         "tk": "galany",
-        "en": "the rest"
+        "en": "the rest",
+        "uz": "qolgani",
+        "tg": "боқимонда",
+        "id": "sisanya"
       }
     },
     {
@@ -262,7 +335,10 @@
       "meaning": {
         "ru": "личность, статус",
         "tk": "şahsyýet",
-        "en": "identity"
+        "en": "identity",
+        "uz": "shaxsiyat",
+        "tg": "ҳувият",
+        "id": "identitas"
       }
     },
     {
@@ -272,7 +348,10 @@
       "meaning": {
         "ru": "подтвердить",
         "tk": "tassyklamak",
-        "en": "to confirm"
+        "en": "to confirm",
+        "uz": "tasdiqlash",
+        "tg": "тасдиқ кардан",
+        "id": "untuk mengonfirmasi"
       }
     },
     {
@@ -282,7 +361,10 @@
       "meaning": {
         "ru": "небрежно, попутно",
         "tk": "biderek",
-        "en": "randomly"
+        "en": "randomly",
+        "uz": "tasodifiy",
+        "tg": "тасодуфан",
+        "id": "secara acak"
       }
     },
     {
@@ -292,7 +374,10 @@
       "meaning": {
         "ru": "различать",
         "tk": "tapawutlandyrmak",
-        "en": "to distinguish"
+        "en": "to distinguish",
+        "uz": "farqlash",
+        "tg": "фарқ кардан",
+        "id": "untuk membedakan"
       }
     },
     {
@@ -302,7 +387,10 @@
       "meaning": {
         "ru": "взмахнуть (кистью)",
         "tk": "bulamak",
-        "en": "to wield (a brush)"
+        "en": "to wield (a brush)",
+        "uz": "ushlash (mo'yqalam)",
+        "tg": "идора кардан (қалам)",
+        "id": "untuk memegang (kuas)"
       }
     },
     {
@@ -312,7 +400,10 @@
       "meaning": {
         "ru": "отсюда видно",
         "tk": "şondan görünýär",
-        "en": "it can be seen that"
+        "en": "it can be seen that",
+        "uz": "ko'rinib turibdiki",
+        "tg": "дидан мумкин аст, ки",
+        "id": "dapat dilihat bahwa"
       }
     },
     {
@@ -322,7 +413,10 @@
       "meaning": {
         "ru": "даже если",
         "tk": "hatda",
-        "en": "even if"
+        "en": "even if",
+        "uz": "hatto agar",
+        "tg": "ҳатто агар",
+        "id": "bahkan jika"
       }
     },
     {
@@ -332,7 +426,10 @@
       "meaning": {
         "ru": "элемент",
         "tk": "element",
-        "en": "element"
+        "en": "element",
+        "uz": "element",
+        "tg": "унсур",
+        "id": "elemen"
       }
     },
     {
@@ -342,7 +439,10 @@
       "meaning": {
         "ru": "корректировать",
         "tk": "sazlamak",
-        "en": "to adjust"
+        "en": "to adjust",
+        "uz": "sozlash",
+        "tg": "танзим кардан",
+        "id": "untuk menyesuaikan"
       }
     },
     {
@@ -352,7 +452,10 @@
       "meaning": {
         "ru": "положение",
         "tk": "ýerleşýän ýeri",
-        "en": "position"
+        "en": "position",
+        "uz": "joylashuv",
+        "tg": "мавқеъ",
+        "id": "posisi"
       }
     },
     {
@@ -362,7 +465,10 @@
       "meaning": {
         "ru": "подтекст, смысл",
         "tk": "mana",
-        "en": "implication"
+        "en": "implication",
+        "uz": "ma'no",
+        "tg": "маъно",
+        "id": "implikasi"
       }
     },
     {
@@ -372,7 +478,10 @@
       "meaning": {
         "ru": "область, зона",
         "tk": "sebit",
-        "en": "region"
+        "en": "region",
+        "uz": "hudud",
+        "tg": "минтақа",
+        "id": "wilayah"
       }
     },
     {
@@ -382,7 +491,10 @@
       "meaning": {
         "ru": "активный",
         "tk": "işjeň",
-        "en": "active"
+        "en": "active",
+        "uz": "faol",
+        "tg": "фаъол",
+        "id": "aktif"
       }
     },
     {
@@ -392,7 +504,10 @@
       "meaning": {
         "ru": "композиция",
         "tk": "kompozisiýa",
-        "en": "composition"
+        "en": "composition",
+        "uz": "kompozitsiya",
+        "tg": "таркиб",
+        "id": "komposisi"
       }
     },
     {
@@ -402,7 +517,10 @@
       "meaning": {
         "ru": "факт",
         "tk": "hakykat",
-        "en": "fact"
+        "en": "fact",
+        "uz": "fakt",
+        "tg": "далел",
+        "id": "fakta"
       }
     },
     {
@@ -412,7 +530,10 @@
       "meaning": {
         "ru": "сейчас",
         "tk": "häzir",
-        "en": "now, present"
+        "en": "now, present",
+        "uz": "hozir, hozirgi payt",
+        "tg": "ҳозир, ҳозира",
+        "id": "sekarang, saat ini"
       }
     },
     {
@@ -422,7 +543,10 @@
       "meaning": {
         "ru": "доказательство",
         "tk": "subutnama",
-        "en": "proof"
+        "en": "proof",
+        "uz": "isbot",
+        "tg": "исбот",
+        "id": "bukti"
       }
     },
     {
@@ -432,7 +556,10 @@
       "meaning": {
         "ru": "тема",
         "tk": "tema",
-        "en": "topic"
+        "en": "topic",
+        "uz": "mavzu",
+        "tg": "мавзӯъ",
+        "id": "topik"
       }
     }
   ],
@@ -443,68 +570,101 @@
       "explanation": {
         "ru": "«极其» — книжное «чрезвычайно». Только с двусложными прилагательными.",
         "tk": "«极其» — kitaby «örän». Diňe iki bogunly sypatlar bilen.",
-        "en": "'极其' — formal 'extremely'. Only before two-syllable adjectives."
+        "en": "'极其' — formal 'extremely'. Only before two-syllable adjectives.",
+        "uz": "'极其' — rasmiy 'nihoyatda'. Faqat ikki bo'g'inli sifatlar oldidan qo'llanadi.",
+        "tg": "'极其' — расмии 'хеле'. Танҳо пеш аз сифатҳои дуҳиҷоӣ.",
+        "id": "'极其' — bentuk formal dari 'sangat'. Hanya digunakan sebelum kata sifat dua suku kata."
       },
       "examples": [
         {
           "zh": "在中国，餐桌上放一把刀是极其少见的现象。",
           "ru": "В Китае нож на обеденном столе — крайне редкое явление.",
           "tk": "Hytaýda nahar stolunda pyçak goýmak örän seýrek hadysa.",
-          "en": "In China, a knife on the dining table is extremely rare."
+          "en": "In China, a knife on the dining table is extremely rare.",
+          "uz": "Xitoyda ovqat stolida pichoq bo'lishi nihoyatda kam uchraydi.",
+          "tg": "Дар Чин, корд дар мизҳои хӯрокхӯрӣ хеле камёб аст.",
+          "id": "Di Tiongkok, pisau di meja makan sangat jarang ditemukan."
         },
         {
           "zh": "这次考试的题目极其简单，我十分钟就做完了。",
           "ru": "Задания на этом экзамене были чрезвычайно просты — я справился за десять минут.",
           "tk": "Bu ekzamenyň soraglary örän ýönekeý boldy — men on minudyň içinde gutardym.",
-          "en": "The exam questions were extremely easy — I finished in ten minutes."
+          "en": "The exam questions were extremely easy — I finished in ten minutes.",
+          "uz": "Imtihon savollari nihoyatda oson edi — men o'n daqiqada tugatdim.",
+          "tg": "Саволҳои имтиҳон хеле осон буданд — ман дар даҳ дақиқа тамом кардам.",
+          "id": "Soal ujiannya sangat mudah — saya selesai dalam sepuluh menit."
         },
         {
           "zh": "抽象派画家的作品中经常见到好像随便洒上颜料而形成的画作，在有人看来极其神秘甚至丑陋。",
           "ru": "В работах абстракционистов часто встречаются как будто случайные брызги краски — для кого-то загадочные и даже уродливые.",
           "tk": "Abstrakt suratkeşleriň eserlerinde tötänleýin syrylan reňkden döran zatlar köp — kimdir bir zat üçin syrly ýa-da haýasat.",
-          "en": "In abstract works, there are pieces looking like random splashes — for some, mysterious or even ugly."
+          "en": "In abstract works, there are pieces looking like random splashes — for some, mysterious or even ugly.",
+          "uz": "Mavhum asarlarda tasodifiy chayqalishlarga o'xshash bo'laklar bor — ba'zilar uchun sirli yoki hatto xunuk.",
+          "tg": "Дар асарҳои абстрактӣ, пораҳое ҳастанд, ки ба паҳншавиҳои тасодуфӣ монанданд — барои баъзеҳо, пурасрор ё ҳатто зишт.",
+          "id": "Dalam karya abstrak, ada bagian yang tampak seperti cipratan acak — bagi sebagian orang, misterius atau bahkan jelek."
         },
         {
           "zh": "这个项目是我们用了三年时间才谈下来的，极其不容易。",
           "ru": "Этот проект мы согласовывали три года — крайне непросто.",
           "tk": "Bu taslamany üç ýyl ylalaşdyk — örän kyn boldy.",
-          "en": "This project took three years to negotiate — extremely hard."
+          "en": "This project took three years to negotiate — extremely hard.",
+          "uz": "Bu loyihani muzokara qilish uch yil vaqt oldi — nihoyatda qiyin.",
+          "tg": "Ин лоиҳа се сол вақт гирифт, то музокира шавад — хеле душвор.",
+          "id": "Proyek ini butuh tiga tahun untuk dinegosiasikan — sangat sulit."
         },
         {
           "zh": "教室里极其安静，谁也不说话。",
           "ru": "В классе чрезвычайно тихо — все молчат.",
           "tk": "Synpda örän sessiz — hiç kim gürlemeýär.",
-          "en": "The classroom is extremely quiet — no one speaks."
+          "en": "The classroom is extremely quiet — no one speaks.",
+          "uz": "Sinf xonasi nihoyatda jim — hech kim gapirmaydi.",
+          "tg": "Синфхона бениҳоят ором аст — ҳеҷ кас гап намезанад.",
+          "id": "Ruang kelas sangat sunyi — tidak ada yang berbicara."
         },
         {
           "zh": "孔子在中国是极其重要的人物。",
           "ru": "Конфуций — чрезвычайно важная фигура в Китае.",
           "tk": "Konfusiý Hytaýda örän möhüm şahs.",
-          "en": "Confucius is an extremely important figure in China."
+          "en": "Confucius is an extremely important figure in China.",
+          "uz": "Konfutsiy Xitoyda nihoyatda muhim shaxs.",
+          "tg": "Конфуций дар Чин шахси бениҳоят муҳим аст.",
+          "id": "Konfusius adalah tokoh yang sangat penting di Tiongkok."
         },
         {
           "zh": "他的意见极其宝贵。",
           "ru": "Его мнение чрезвычайно ценно.",
           "tk": "Onuň pikiri örän gymmatly.",
-          "en": "His opinion is extremely valuable."
+          "en": "His opinion is extremely valuable.",
+          "uz": "Uning fikri nihoyatda qimmatli.",
+          "tg": "Фикри ӯ бениҳоят арзишманд аст.",
+          "id": "Pendapatnya sangat berharga."
         },
         {
           "zh": "这天天气极其寒冷。",
           "ru": "В тот день было крайне холодно.",
           "tk": "Şol gün howa örän sowuk boldy.",
-          "en": "That day was extremely cold."
+          "en": "That day was extremely cold.",
+          "uz": "O'sha kun nihoyatda sovuq edi.",
+          "tg": "Он рӯз бениҳоят хунук буд.",
+          "id": "Hari itu sangat dingin."
         },
         {
           "zh": "他对这个问题极其感兴趣。",
           "ru": "Он чрезвычайно заинтересован в этом вопросе.",
           "tk": "Ol bu meselä örän gyzyklanýar.",
-          "en": "He's extremely interested in this issue."
+          "en": "He's extremely interested in this issue.",
+          "uz": "U bu masalaga nihoyatda qiziqadi.",
+          "tg": "Ӯ ба ин масъала бениҳоят шавқманд аст.",
+          "id": "Dia sangat tertarik pada masalah ini."
         },
         {
           "zh": "这个任务极其复杂，需要认真对待。",
           "ru": "Задача чрезвычайно сложная — нужно отнестись серьёзно.",
           "tk": "Bu wezipe örän çylşyrymly — çynlakaý çemeleşmeli.",
-          "en": "This task is extremely complex — must be taken seriously."
+          "en": "This task is extremely complex — must be taken seriously.",
+          "uz": "Bu vazifa nihoyatda murakkab — jiddiy qabul qilish kerak.",
+          "tg": "Ин вазифа бениҳоят мураккаб аст — бояд ҷиддӣ гирифта шавад.",
+          "id": "Tugas ini sangat rumit — harus ditangani dengan serius."
         }
       ],
       "formula": {
@@ -575,68 +735,101 @@
       "explanation": {
         "ru": "«其余» — «остальное, остальные».",
         "tk": "«其余» — «galany, galanlar».",
-        "en": "'其余' means 'the rest, the others'."
+        "en": "'其余' means 'the rest, the others'.",
+        "uz": "'其余' 'qolganlari, boshqalari' ma'nosini bildiradi.",
+        "tg": "'其余' маънои 'боқимонда, дигарон'-ро дорад.",
+        "id": "'其余' berarti 'sisanya, yang lainnya'."
       },
       "examples": [
         {
           "zh": "其中三分之一的画作作者没有签名，而其余的则标明了身份。",
           "ru": "У трети картин подписи не было, а у остальных авторы указаны.",
           "tk": "Suratlaryň üçden birinde goly ýokdy, galanlarynda awtorlar görkezildi.",
-          "en": "One third had no signature; the rest showed the author."
+          "en": "One third had no signature; the rest showed the author.",
+          "uz": "Uchdan birida imzo yo'q edi; qolganlarida muallif ko'rsatilgan.",
+          "tg": "Як сеҳисса имзо надошт; боқимонда муаллифро нишон доданд.",
+          "id": "Sepertiga tidak ada tanda tangan; sisanya menunjukkan penulisnya."
         },
         {
           "zh": "怎么只有你们两个人？其余的同学呢？",
           "ru": "Почему только вы двое? А остальные?",
           "tk": "Näme üçin diňe ikiňiz? Galan okuwçylar nirede?",
-          "en": "Why only you two? Where are the others?"
+          "en": "Why only you two? Where are the others?",
+          "uz": "Nega faqat ikkovingiz? Qolganlar qayerda?",
+          "tg": "Чаро танҳо шумо ду нафар? Дигарон куҷоянд?",
+          "id": "Mengapa hanya kalian berdua? Di mana yang lain?"
         },
         {
           "zh": "只有一个房间亮着灯，其余窗户都是黑的。",
           "ru": "Свет только в одном окне, остальные тёмные.",
           "tk": "Diňe bir otagda çyra ýanyp dur, galan penjireler garaňky.",
-          "en": "Only one room has a light on; the rest are dark."
+          "en": "Only one room has a light on; the rest are dark.",
+          "uz": "Faqat bitta xonada chiroq yoniq; qolganlari qorong'i.",
+          "tg": "Танҳо дар як ҳуҷра чароғ равшан аст; боқимонда торик мебошанд.",
+          "id": "Hanya satu kamar yang lampunya menyala; sisanya gelap."
         },
         {
           "zh": "这些行李怎么拿？其余的交给我。",
           "ru": "Как нести багаж? Остальное дай мне.",
           "tk": "Bu goşlary nähili götereris? Galanlaryny maňa ber.",
-          "en": "How to carry this luggage? Give me the rest."
+          "en": "How to carry this luggage? Give me the rest.",
+          "uz": "Bu yukni qanday olib ketish kerak? Qolganini menga bering.",
+          "tg": "Ин борро чӣ тавр мебардорем? Боқимондаро ба ман диҳед.",
+          "id": "Bagaimana cara membawa barang bawaan ini? Berikan sisanya kepadaku."
         },
         {
           "zh": "你看过哪些中国的传统体育表演？其余的呢？",
           "ru": "Какие китайские традиционные спортивные шоу ты видел? А остальные?",
           "tk": "Hytaýyň haýsy däp bolan sport görkezişlerini gördüň? Galanlaryny näme?",
-          "en": "Which Chinese traditional sports shows have you seen? What about the rest?"
+          "en": "Which Chinese traditional sports shows have you seen? What about the rest?",
+          "uz": "Qaysi Xitoy an'anaviy sport ko'rsatuvlarini ko'rdingiz? Qolganlari-chi?",
+          "tg": "Кадом намудҳои варзиши анъанавии чинӣ-ро дидаед? Дар бораи боқимонда чӣ гуфтан мумкин аст?",
+          "id": "Pertunjukan olahraga tradisional Tiongkok mana yang pernah kamu tonton? Bagaimana dengan sisanya?"
         },
         {
           "zh": "你们几个负责新产品的宣传，其余的人做客户调研。",
           "ru": "Вы занимаетесь рекламой нового продукта, остальные — исследованием клиентов.",
           "tk": "Sizler täze önümiň mahabatlandyrylmagy bilen meşgullanýarsyňyz, galanlar müşderi gözlegi bilen.",
-          "en": "You handle new product publicity; the rest do customer research."
+          "en": "You handle new product publicity; the rest do customer research.",
+          "uz": "Siz yangi mahsulot targ'iboti bilan shug'ullaning; qolganlar mijozlar tadqiqoti bilan shug'ullanadi.",
+          "tg": "Шумо таблиғи маҳсулоти навро ба уҳда гиред; боқимонда тадқиқоти мизоҷонро анҷом медиҳанд.",
+          "id": "Kamu menangani publisitas produk baru; sisanya melakukan riset pelanggan."
         },
         {
           "zh": "其余的话，我不想多说了。",
           "ru": "Об остальном говорить не буду.",
           "tk": "Galan zatlary aýtmak islämok.",
-          "en": "I won't say anything more."
+          "en": "I won't say anything more.",
+          "uz": "Men boshqa hech narsa demayman.",
+          "tg": "Ман дигар чизе намегӯям.",
+          "id": "Aku tidak akan mengatakan apa-apa lagi."
         },
         {
           "zh": "其余问题我们下次再讨论。",
           "ru": "Остальные вопросы обсудим в следующий раз.",
           "tk": "Galan meseleleri indiki gezek maslahatlaşarys.",
-          "en": "We'll discuss the rest next time."
+          "en": "We'll discuss the rest next time.",
+          "uz": "Qolganini keyingi safar muhokama qilamiz.",
+          "tg": "Боқимондаро дафъаи оянда муҳокима хоҳем кард.",
+          "id": "Kita akan membahas sisanya lain kali."
         },
         {
           "zh": "只有他一个人明白，其余人都不知道。",
           "ru": "Только он понимает — остальные не знают.",
           "tk": "Diňe ol düşünýär — galanlar bilemeýär.",
-          "en": "Only he understands — the rest don't know."
+          "en": "Only he understands — the rest don't know.",
+          "uz": "Faqat u tushunadi — qolganlar bilmaydi.",
+          "tg": "Танҳо ӯ мефаҳмад — боқимонда намедонанд.",
+          "id": "Hanya dia yang mengerti — sisanya tidak tahu."
         },
         {
           "zh": "我把一本书拿走了，其余的都留在这里。",
           "ru": "Я взял одну книгу, остальные оставил здесь.",
           "tk": "Men bir kitap aldym, galanlaryny şu ýerde goýdym.",
-          "en": "I took one book, left the rest here."
+          "en": "I took one book, left the rest here.",
+          "uz": "Men bitta kitob oldim, qolganini shu yerda qoldirdim.",
+          "tg": "Ман як китоб гирифтам, боқимондаро дар ин ҷо гузоштам.",
+          "id": "Aku mengambil satu buku, meninggalkan sisanya di sini."
         }
       ],
       "formula": {
@@ -707,68 +900,101 @@
       "explanation": {
         "ru": "«可见» — «отсюда видно, что». Часто «由此可见».",
         "tk": "«可见» — «şondan görünýär welin». Köplenç «由此可见».",
-        "en": "'可见' — 'it can be seen that'. Often '由此可见'."
+        "en": "'可见' — 'it can be seen that'. Often '由此可见'.",
+        "uz": "'可见' — 'ko'rinib turibdiki'. Ko'pincha '由此可见' shaklida keladi.",
+        "tg": "'可见' — 'дидан мумкин аст, ки'. Аксар вақт '由此可见'.",
+        "id": "'可见' — 'dapat dilihat bahwa'. Sering muncul sebagai '由此可见'."
       },
       "examples": [
         {
           "zh": "他已经住院好几天了，一直诊断不出是什么问题，可见情况不太好。",
           "ru": "Он уже несколько дней в больнице, диагноз не ставят — видно, дело серьёзно.",
           "tk": "Ol birnäçe günden hassahanada, diagnoz goýulmaýar — görnüşine ýagdaý gowy däl.",
-          "en": "He's been hospitalized for days without diagnosis — the situation seems serious."
+          "en": "He's been hospitalized for days without diagnosis — the situation seems serious.",
+          "uz": "U bir necha kundan beri tashxissiz kasalxonada yotibdi — vaziyat jiddiy ko'rinadi.",
+          "tg": "Вай рӯзҳост, ки бидуни ташхис дар беморхона бистарӣ аст — вазъият ҷиддӣ ба назар мерасад.",
+          "id": "Dia sudah dirawat di rumah sakit selama berhari-hari tanpa diagnosis — situasinya tampaknya serius."
         },
         {
           "zh": "汉语中有个成语叫「自知之明」，把「自知」称为「明」，可见「自知」是一种智慧。",
           "ru": "В китайском есть идиом «знать себя» — «свет» — видно, самопознание есть мудрость.",
           "tk": "Hytaýda «özüňi bilmek» idiom bar — «ýagtylyk» — görnüşine özüňi bilmek pähimdir.",
-          "en": "Chinese has the idiom 'self-knowledge' as 'light' — so self-knowledge is wisdom."
+          "en": "Chinese has the idiom 'self-knowledge' as 'light' — so self-knowledge is wisdom.",
+          "uz": "Xitoy tilida 'o'z-o'zini bilish' iborasi 'nur' deb ataladi — demak, o'z-o'zini bilish donolikdir.",
+          "tg": "Дар забони чинӣ ибораи 'худшиносӣ' ҳамчун 'рӯшноӣ' вуҷуд дорад — пас худшиносӣ хикмат аст.",
+          "id": "Bahasa Mandarin memiliki idiom 'mengenal diri sendiri' sebagai 'terang' — jadi mengenal diri sendiri adalah kebijaksanaan."
         },
         {
           "zh": "由此可见，志愿者能够从画作中感知艺术家的用心，哪怕他们不能够解释原因。",
           "ru": "Отсюда видно, что добровольцы ощущают душу художника, даже если не могут объяснить.",
           "tk": "Şondan görünýär welin, meýletinçiler suratkeşiň ruhuny duýup bilýärler — sebäbini düşündirip bilmeseler-de.",
-          "en": "Thus volunteers perceive the artist's intent, even if they can't explain why."
+          "en": "Thus volunteers perceive the artist's intent, even if they can't explain why.",
+          "uz": "Shunday qilib, ko'ngillilar rassomning niyatini his qiladilar, hatto nima uchunligini tushuntira olmasalar ham.",
+          "tg": "Ҳамин тавр, ихтиёриён нияти рассомро дарк мекунанд, ҳатто агар натавонанд шарҳ диҳанд, ки чаро.",
+          "id": "Dengan demikian para relawan dapat memahami maksud seniman, meskipun mereka tidak dapat menjelaskan alasannya."
         },
         {
           "zh": "连这么简单的题你都不会，可见平时没好好学习。",
           "ru": "Даже такую простую задачу не решаешь — видно, плохо учился.",
           "tk": "Şeýle ýönekeý meseläni hem çözüp bilmeýärsiň — görnüşine oňat okamadyň.",
-          "en": "You can't even solve such a simple problem — clearly you haven't studied well."
+          "en": "You can't even solve such a simple problem — clearly you haven't studied well.",
+          "uz": "Bunday oddiy masalani ham hal qila olmaysan — aniqki, yaxshi o'qimaganсан.",
+          "tg": "Шумо ҳатто чунин масъалаи оддиро ҳал карда наметавонед — аён аст, ки шумо хуб таҳсил накардаед.",
+          "id": "Kamu bahkan tidak bisa menyelesaikan masalah sesederhana itu — jelas kamu belum belajar dengan baik."
         },
         {
           "zh": "他连饭都没吃就赶来了，可见很重视这件事。",
           "ru": "Он приехал даже не поев — видно, дело для него важно.",
           "tk": "Ol nahar iýmänem geldi — görnüşine bu iş oňa möhüm.",
-          "en": "He came without eating — the matter is clearly important to him."
+          "en": "He came without eating — the matter is clearly important to him.",
+          "uz": "U ovqat yemasdan keldi — bu masala uning uchun muhimligi aniq.",
+          "tg": "Вай бидуни хӯрок хӯрдан омад — аён аст, ки ин кор барои ӯ муҳим аст.",
+          "id": "Dia datang tanpa makan — masalah ini jelas penting baginya."
         },
         {
           "zh": "他的话没有人反对，可见大家都很信任他。",
           "ru": "Никто не возразил ему — видно, ему доверяют.",
           "tk": "Hiç kim oňa garşy çykmady — görnüşine hemmeler oňa ynanýar.",
-          "en": "No one opposed him — everyone clearly trusts him."
+          "en": "No one opposed him — everyone clearly trusts him.",
+          "uz": "Hech kim unga qarshi chiqmadi — hamma unga ishonishi aniq.",
+          "tg": "Ҳеҷ кас ба ӯ муқобилат накард — аён аст, ки ҳама ба ӯ бовар мекунанд.",
+          "id": "Tidak ada yang menentangnya — semua orang jelas mempercayainya."
         },
         {
           "zh": "看他的表情，可见他对这个结果不满意。",
           "ru": "По его лицу видно — результатом он недоволен.",
           "tk": "Onuň ýüz keşbinden görünýär — netijeden kanagatlanmaýar.",
-          "en": "From his expression, he's clearly dissatisfied with the result."
+          "en": "From his expression, he's clearly dissatisfied with the result.",
+          "uz": "Uning ifodasidan ko'rinib turibdiki, u natijadan aniq norozi.",
+          "tg": "Аз чеҳраи ӯ маълум аст, ки вай аз натиҷа норозӣ аст.",
+          "id": "Dari ekspresinya, dia jelas tidak puas dengan hasilnya."
         },
         {
           "zh": "他写了三本书，可见很有经验。",
           "ru": "Он написал три книги — видно, очень опытный.",
           "tk": "Ol üç kitap ýazdy — görnüşine tejribesi köp.",
-          "en": "He's written three books — clearly very experienced."
+          "en": "He's written three books — clearly very experienced.",
+          "uz": "U uchta kitob yozgan — aniq juda tajribali.",
+          "tg": "Вай се китоб навиштааст — аён аст, ки таҷрибаи зиёд дорад.",
+          "id": "Dia telah menulis tiga buku — jelas sangat berpengalaman."
         },
         {
           "zh": "这件事他都没有告诉我，可见我们之间关系一般。",
           "ru": "Он мне об этом не сказал — видно, отношения у нас средние.",
           "tk": "Ol maňa bu barada aýtmady — görnüşine gatnaşygymyz adaty.",
-          "en": "He didn't tell me about this — our relationship is clearly ordinary."
+          "en": "He didn't tell me about this — our relationship is clearly ordinary.",
+          "uz": "U menga bu haqda aytmadi — munosabatimiz aniq oddiy.",
+          "tg": "Вай ба ман дар ин бора нагуфт — муносибати мо равшан оддӣ аст.",
+          "id": "Dia tidak memberitahuku tentang ini — hubungan kami jelas biasa saja."
         },
         {
           "zh": "他能考上这么好的大学，可见平时非常努力。",
           "ru": "Он поступил в такой хороший университет — видно, усердно занимался.",
           "tk": "Ol şeýle gowy uniwersitete girdi — görnüşine örän zähmetsöýer boldy.",
-          "en": "He got into such a good university — clearly very hardworking."
+          "en": "He got into such a good university — clearly very hardworking.",
+          "uz": "U juda yaxshi universitetga kirdi — aniq juda mehnatkash.",
+          "tg": "Вай ба чунин донишгоҳи хуб дохил шуд — равшан хеле меҳнатдӯст аст.",
+          "id": "Dia masuk universitas yang begitu bagus — jelas sangat rajin."
         }
       ],
       "formula": {
@@ -878,7 +1104,10 @@
       "common": {
         "ru": "Оба — «сейчас, в настоящее время».",
         "tk": "Ikisi hem «häzir».",
-        "en": "Both mean 'now'."
+        "en": "Both mean 'now'.",
+        "uz": "Ikkalasi ham 'hozir' ma'nosini bildiradi.",
+        "tg": "Ҳарду маънои 'ҳозир' -ро доранд.",
+        "id": "Keduanya berarti 'sekarang'."
       },
       "differences": [
         {
@@ -912,7 +1141,10 @@
         "meaning": {
           "ru": "режиссёр",
           "tk": "režissýor",
-          "en": "director"
+          "en": "director",
+          "uz": "rejissyor",
+          "tg": "коргардон",
+          "id": "sutradara"
         }
       },
       {
@@ -921,7 +1153,10 @@
         "meaning": {
           "ru": "роль",
           "tk": "rol",
-          "en": "role"
+          "en": "role",
+          "uz": "rol",
+          "tg": "нақш",
+          "id": "peran"
         }
       },
       {
@@ -930,7 +1165,10 @@
         "meaning": {
           "ru": "звезда",
           "tk": "ýyldyz",
-          "en": "star"
+          "en": "star",
+          "uz": "yulduz",
+          "tg": "ситора",
+          "id": "bintang"
         }
       },
       {
@@ -939,7 +1177,10 @@
         "meaning": {
           "ru": "мультфильм",
           "tk": "animasion film",
-          "en": "animation"
+          "en": "animation",
+          "uz": "animatsiya",
+          "tg": "аниматсия",
+          "id": "animasi"
         }
       },
       {
@@ -948,7 +1189,10 @@
         "meaning": {
           "ru": "развлечение",
           "tk": "güýmenje",
-          "en": "entertainment"
+          "en": "entertainment",
+          "uz": "ko'ngilxushlik",
+          "tg": "фароғат",
+          "id": "hiburan"
         }
       },
       {
@@ -957,7 +1201,10 @@
         "meaning": {
           "ru": "запись звука",
           "tk": "ses ýazgysy",
-          "en": "audio recording"
+          "en": "audio recording",
+          "uz": "audio yozuv",
+          "tg": "сабти овоз",
+          "id": "rekaman audio"
         }
       },
       {
@@ -966,7 +1213,10 @@
         "meaning": {
           "ru": "микрофон",
           "tk": "mikrofon",
-          "en": "microphone"
+          "en": "microphone",
+          "uz": "mikrofon",
+          "tg": "микрофон",
+          "id": "mikrofon"
         }
       },
       {
@@ -975,7 +1225,10 @@
         "meaning": {
           "ru": "канал",
           "tk": "kanal",
-          "en": "channel"
+          "en": "channel",
+          "uz": "kanal",
+          "tg": "канал",
+          "id": "saluran"
         }
       },
       {
@@ -984,7 +1237,10 @@
         "meaning": {
           "ru": "субтитры",
           "tk": "subtitr",
-          "en": "subtitles"
+          "en": "subtitles",
+          "uz": "subtitrlar",
+          "tg": "зернавиштҳо",
+          "id": "subtitle"
         }
       },
       {
@@ -993,7 +1249,10 @@
         "meaning": {
           "ru": "инструмент (муз.)",
           "tk": "saz guraly",
-          "en": "instrument"
+          "en": "instrument",
+          "uz": "asbob",
+          "tg": "асбоб",
+          "id": "instrumen"
         }
       }
     ]
@@ -1002,7 +1261,10 @@
     "discussion": {
       "ru": "Любите ли вы абстрактное искусство? Что для вас «красиво»?",
       "tk": "Abstrakt sungaty halaýarsyňyzmy? Size näme «owadan»?",
-      "en": "Do you like abstract art? What is 'beautiful' to you?"
+      "en": "Do you like abstract art? What is 'beautiful' to you?",
+      "uz": "Sizga abstrakt san'at yoqadimi? Siz uchun 'chiroyli' nima?",
+      "tg": "Оё ба санъати абстрактӣ майл доред? Барои шумо 'зебо' чист?",
+      "id": "Apakah kamu suka seni abstrak? Apa yang 'indah' bagimu?"
     }
   },
   "workbook": {

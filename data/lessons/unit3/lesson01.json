@@ -5,7 +5,8 @@
     "tk": "Iki idiom hekaýasy",
     "en": "Two Idiom Stories",
     "uz": "Ikkita ibora haqidagi hikoya",
-    "tg": "Ду ҳикояи идиом"
+    "tg": "Ду ҳикояи идиом",
+    "id": "Dua Kisah Idiom"
   },
   "audio_files": {
     "textbook_1": "textbook_1.mp3",
@@ -18,7 +19,10 @@
     "question": {
       "ru": "Что вы знаете об идиомах 盲人摸象 и 精诚所至，金石为开?",
       "tk": "«盲人摸象» we «精诚所至，金石为开» idiomlary barada näme bilýärsiňiz?",
-      "en": "What do you know about the idioms 盲人摸象 and 精诚所至，金石为开?"
+      "en": "What do you know about the idioms 盲人摸象 and 精诚所至，金石为开?",
+      "uz": "盲人摸象 va 精诚所至，金石为开 iboralari haqida nima bilasiz?",
+      "tg": "Шумо дар бораи ибораҳои 盲人摸象 ва 精诚所至，金石为开 чӣ медонед?",
+      "id": "Apa yang kamu ketahui tentang idiom 盲人摸象 dan 精诚所至，金石为开?"
     },
     "answers": [
       "盲人摸象",
@@ -31,7 +35,10 @@
   "text_translation": {
     "ru": "«Слепые трогают слона»: Давным-давно жил мудрый царь. Однажды он велел солдатам привести слона и нескольких слепых от рождения. Царь попросил слепых потрогать слона и сказать, на что он похож. Один, потрогав бивни, сказал: «Как рог». Другой, ощупав хвост: «Как верёвка». Третий, коснувшись тела: «Как высокая стена». «Нет, — сказал слепой у уха, — как веер». Царь рассмеялся: «Каждый из вас ощутил лишь часть — как можно судить обо всём?» Одностороннее знание не даёт права делать вывод. «Абсолютная искренность тронет даже металл и камень»: В эпоху Западная Хань жил знаменитый генерал Ли Гуан — отличный наездник и стрелок, прозванный «Летучим генералом». Однажды вечером на охоте он увидел вдалеке тигра, натянул лук и выстрелил изо всех сил. Подойдя, солдаты увидели — это был не тигр, а большая скала, похожая на тигра, и стрела почти полностью вошла в камень! Все поразились. Ли Гуан попробовал снова — но ни одна стрела больше не входила. «Наверное, я недостаточно вложил душу», — вздохнул он. Учёный Ян Сюн объяснил: «Если сердце искренне, даже металл и камень поддадутся». Так родился идиом.",
     "tk": "«Körleriň pili sypalamagy»: Gadymda bir parasatly patyşa bardy. Ol körleri pili sypalap, onuň nähilidigini sorady. Biri: «Şahy ýaly», beýlekisi: «Ýüp ýaly», üçünjisi: «Beýik diwar ýaly». Gulakda duran kör: «Ýelpik ýaly» diýdi. Patyşa güldi: «Her biriňiz diňe bir bölegini duýduňyz, nähili hemme zady bilip bolýar?» Bir taraply bilim netije çykarmaga ýaramaz. «Ak ýürek hem metaly, hem daşy ýumşadar»: Günbatar Han döwründe Li Guan atly meşhur serkerde bardy. Bir agşam awda ol uzakda bir gaplaňy görüp, gaty güýç bilen ok atdy. Emma bu gaplaň däl-de, gaplaňa meňzeş ullakan gaýa boldy — ok gaýanyň içine girdi! Soň ýene synanyşdy — netije ýok. «Ýüregimi goýbermedim öýdýän» diýdi. Alym Ýan Sýun: «Ýürek ak bolsa, metal we daş hem boýun eger» diýip düşündirdi. Şeýlelikde idiom döredi.",
-    "en": "'The Blind Men and the Elephant': long ago there lived a wise king. One day he had his soldiers bring an elephant and several people blind from birth. When they had gathered, he asked the blind men to touch the elephant and say what it was like. The one who touched the tusks said: 'Like a horn.' 'Nonsense!' said the one who touched the tail — 'It's like a rope.' The one who touched the body said: 'Like a tall, flat wall.' 'No, you're all wrong — it's like a fan,' said the man who found the ear. The king laughed: 'Each of you touched only one part and thought you understood the whole? One-sided knowledge cannot yield a conclusion.' 'Absolute Sincerity Moves Even Metal and Stone': in the Western Han lived a famous general named Li Guang — skilled at riding and archery, brave in battle, called the 'Flying General'. One evening, hunting in the mountains with soldiers, he suddenly spotted a crouching tiger in the distance. The soldiers surrounded him nervously. Li Guang shook his head — no need. He drew an arrow, took his stance, focused completely, and shot with all his might. After a while the tiger didn't move. Soldiers crept forward to check whether it was dead — and saw it wasn't a tiger at all, but a large stone shaped like one; the entire arrow had almost sunk into it! Everyone was stunned — even Li Guang couldn't believe his strength. He tried again, shot several more arrows; some tips shattered, some shafts broke, but the stone didn't change at all. 'Sigh — why is this?' — 'Perhaps I wasn't wholehearted enough,' Li Guang said helplessly. Perplexed, people asked the influential scholar Yang Xiong. He replied: 'If one is truly sincere, even things hard as metal and stone can be moved.' And so the idiom 'absolute sincerity moves even metal and stone' was passed down."
+    "en": "'The Blind Men and the Elephant': long ago there lived a wise king. One day he had his soldiers bring an elephant and several people blind from birth. When they had gathered, he asked the blind men to touch the elephant and say what it was like. The one who touched the tusks said: 'Like a horn.' 'Nonsense!' said the one who touched the tail — 'It's like a rope.' The one who touched the body said: 'Like a tall, flat wall.' 'No, you're all wrong — it's like a fan,' said the man who found the ear. The king laughed: 'Each of you touched only one part and thought you understood the whole? One-sided knowledge cannot yield a conclusion.' 'Absolute Sincerity Moves Even Metal and Stone': in the Western Han lived a famous general named Li Guang — skilled at riding and archery, brave in battle, called the 'Flying General'. One evening, hunting in the mountains with soldiers, he suddenly spotted a crouching tiger in the distance. The soldiers surrounded him nervously. Li Guang shook his head — no need. He drew an arrow, took his stance, focused completely, and shot with all his might. After a while the tiger didn't move. Soldiers crept forward to check whether it was dead — and saw it wasn't a tiger at all, but a large stone shaped like one; the entire arrow had almost sunk into it! Everyone was stunned — even Li Guang couldn't believe his strength. He tried again, shot several more arrows; some tips shattered, some shafts broke, but the stone didn't change at all. 'Sigh — why is this?' — 'Perhaps I wasn't wholehearted enough,' Li Guang said helplessly. Perplexed, people asked the influential scholar Yang Xiong. He replied: 'If one is truly sincere, even things hard as metal and stone can be moved.' And so the idiom 'absolute sincerity moves even metal and stone' was passed down.",
+    "uz": "'Ko'r odamlar va fil': qadimda bir donishmand podshoh yashagan edi. Bir kuni u askarlariga fil va tug'ma ko'r bo'lgan bir necha kishini olib kelishni buyurdi. Ular to'plangach, u ko'r odamlardan filga tegib, uning qanday ekanligini aytishni so'radi. Tishlariga tekkan kishi: 'Shoxga o'xshaydi', dedi. 'Bema'nilik!' dedi dumiga tekkan kishi — 'Arqonga o'xshaydi.' Tanasiga tekkan kishi: 'Baland, tekis devorga o'xshaydi', dedi. 'Yo'q, hammangiz xato qildingiz — u yelpig'ichga o'xshaydi', dedi qulog'ini topgan kishi. Podshoh kuldi: 'Har biringiz faqat bir qismiga tegib, butunni tushundim deb o'yladingizmi? Bir tomonlama bilim xulosa chiqara olmaydi.' 'Mutlaq samimiylik hatto metall va toshni ham harakatga keltiradi': G'arbiy Xan davrida mashhur sarkarda Li Guan yashagan — ot minish va kamondan otishda mohir, jangda jasur, 'Uchar general' deb atalgan. Bir kuni kechqurun askarlar bilan tog'da ov qilib yurib, u birdan uzoqda cho'kkalab yotgan yo'lbarsni ko'rdi. Askarlar xavotir bilan uni o'rab olishdi. Li Guan boshini chayqadi — hojat yo'q. U o'qni tortdi, o'z holatini oldi, butun diqqatini jamladi va bor kuchi bilan otdi. Birozdan so'ng yo'lbars qimirlamadi. Askarlar uning o'lgan-o'lmaganini tekshirish uchun sekin oldinga o'tishdi — va bu yo'lbars emas, balki unga o'xshash katta tosh ekanini ko'rishdi; butun o'q deyarli unga botib ketgan edi! Hamma hayratda qoldi — hatto Li Guan ham o'z kuchiga ishonolmadi. U yana urinib ko'rdi, yana bir nechta o'q otdi; ba'zi uchlari sinib ketdi, ba'zi dastalari sindi, lekin tosh umuman o'zgarmadi. 'Voy — nega bunday?' — 'Balki men yetarlicha chin yurakdan urinmadim', dedi Li Guan nochor. Hayron qolgan odamlar nufuzli olim Yang Syunga murojaat qilishdi. U javob berdi: 'Agar biror kishi chinakam samimiy bo'lsa, hatto metall va toshdek qattiq narsalarni ham harakatga keltira oladi.' Shunday qilib, 'mutlaq samimiylik hatto metall va toshni ham harakatga keltiradi' degan ibora avloddan avlodga o'tdi.",
+    "tg": "«Кӯрони се ва фил»: замонҳои қадим подшоҳи доно зиндагӣ мекард. Як рӯз ӯ фармон дод, ки сарбозон фил ва якчанд одамони аз таваллуд кӯрро биёранд. Вақте ки онҳо ҷамъ шуданд, ӯ аз кӯрон хоҳиш кард, ки филро ламс кунанд ва бигӯянд, ки он чӣ гуна аст. Он ки дандонҳои филро ламс кард, гуфт: «Мисли шох.» «Бемаънӣ!» — гуфт он ки думро ламс кард — «Он мисли арғамчин аст.» Он ки бадани филро ламс кард, гуфт: «Мисли девори баланду ҳамвор.» «Не, шумо ҳама хато мекунед — он мисли бодбезак аст,» — гуфт марде, ки гӯши филро ёфт. Подшоҳ хандид: «Ҳар яки шумо танҳо як қисмро ламс кардед ва фикр кардед, ки тамомиро фаҳмидед? Донии якҷониба наметавонад ба хулоса оварад.» «Самимияти мутлақ ҳатто металл ва сангро ҳаракат медиҳад»: дар Ҳани Ғарбӣ генерали машҳуре бо номи Ли Гуан зиндагӣ мекард — дар саворӣ ва тирандозӣ моҳир, дар ҷанг далер, ки ӯро «Генерали парвозкунанда» меномиданд. Як бегоҳ, вақте ки ӯ бо сарбозон дар кӯҳҳо шикор мекард, ногаҳон дар масофаи дур паланги хамидаро дид. Сарбозон бо ташвиш ӯро иҳота карданд. Ли Гуан сарашро ҷунбонд — лозим нест. Ӯ тирро кашид, мавқеъ гирифт, пурра таваҷҷуҳ кард ва бо тамоми қувва тир андохт. Баъд аз чанде паланг ҳаракат накард. Сарбозон оҳиста пеш рафтанд, то бубинанд, ки оё он мурдааст — ва диданд, ки он на паланг, балки санги калоне буд, ки шакли паланг дошт; тамоми тир қариб ба он фурӯ рафта буд! Ҳама ҳайрон шуданд — ҳатто Ли Гуан ба қувваи худ бовар намекард. Ӯ бори дигар кӯшиш кард, боз чанд тир андохт; баъзе нӯкҳо шикастанд, баъзе чӯбҳо канда шуданд, аммо санг ҳеҷ тағйир наёфт. «Эҳ — чаро ин тавр аст?» — «Эҳтимол, ман ба қадри кофӣ самимӣ набудам,» — Ли Гуан ноумедона гуфт. Одамон ҳайрон шуда, аз олими бонуфуз Ян Сюн пурсиданд. Ӯ ҷавоб дод: «Агар касе воқеан самимӣ бошад, ҳатто чизҳои сахти металл ва сангро ҳаракат додан мумкин аст.» Ва ҳамин тавр ибораи «самимияти мутлақ ҳатто металл ва сангро ҳаракат медиҳад» ба мо мерос монд.",
+    "id": "'Orang Buta dan Gajah': dahulu kala hiduplah seorang raja yang bijaksana. Suatu hari ia memerintahkan tentaranya membawa seekor gajah dan beberapa orang yang buta sejak lahir. Ketika mereka telah berkumpul, ia meminta orang-orang buta itu menyentuh gajah dan mengatakan seperti apa bentuknya. Orang yang menyentuh gading berkata: 'Seperti tanduk.' 'Omong kosong!' kata orang yang menyentuh ekor — 'Ini seperti tali.' Orang yang menyentuh tubuhnya berkata: 'Seperti dinding tinggi yang rata.' 'Tidak, kalian semua salah — ini seperti kipas,' kata orang yang menemukan telinganya. Raja tertawa: 'Kalian masing-masing hanya menyentuh satu bagian dan mengira sudah memahami keseluruhannya? Pengetahuan yang sepihak tidak dapat menghasilkan kesimpulan.' 'Ketulusan Mutlak Menggerakkan Bahkan Logam dan Batu': pada masa Han Barat hiduplah seorang jenderal terkenal bernama Li Guang — mahir menunggang kuda dan memanah, berani dalam pertempuran, dijuluki 'Jenderal Terbang'. Suatu malam, berburu di pegunungan bersama para tentara, ia tiba-tiba melihat seekor harimau yang sedang mendekam di kejauhan. Para tentara mengelilinginya dengan gugup. Li Guang menggelengkan kepala — tidak perlu. Ia menarik anak panah, mengambil posisi, memusatkan perhatian sepenuhnya, dan menembak dengan sekuat tenaga. Setelah beberapa saat harimau itu tidak bergerak. Para tentara merangkak maju untuk memeriksa apakah harimau itu sudah mati — dan melihat bahwa itu bukan harimau sama sekali, melainkan batu besar yang berbentuk seperti harimau; seluruh anak panah hampir tenggelam ke dalamnya! Semua orang tercengang — bahkan Li Guang tidak percaya akan kekuatannya. Ia mencoba lagi, menembakkan beberapa anak panah lagi; ada mata panah yang pecah, ada tangkai yang patah, tetapi batu itu tidak berubah sama sekali. 'Huh — mengapa begini?' — 'Mungkin aku kurang sepenuh hati,' kata Li Guang dengan putus asa. Karena kebingungan, orang-orang bertanya kepada cendekiawan berpengaruh Yang Xiong. Ia menjawab: 'Jika seseorang benar-benar tulus, bahkan benda-benda yang keras seperti logam dan batu dapat digerakkan.' Demikianlah peribahasa 'ketulusan mutlak menggerakkan bahkan logam dan batu' diwariskan."
   },
   "vocabulary": [
     {
@@ -41,7 +48,10 @@
       "meaning": {
         "ru": "идиом, чэнъюй",
         "tk": "idiom",
-        "en": "idiom"
+        "en": "idiom",
+        "uz": "ibora",
+        "tg": "ибора",
+        "id": "idiom"
       }
     },
     {
@@ -51,7 +61,10 @@
       "meaning": {
         "ru": "счётное слово для текстов",
         "tk": "tekst üçin san sözi",
-        "en": "MW for texts"
+        "en": "MW for texts",
+        "uz": "matnlar uchun MW",
+        "tg": "воҳиди ченак барои матнҳо",
+        "id": "MW untuk teks"
       }
     },
     {
@@ -61,7 +74,10 @@
       "meaning": {
         "ru": "слепой",
         "tk": "kör",
-        "en": "blind person"
+        "en": "blind person",
+        "uz": "ko'r odam",
+        "tg": "шахси нобино",
+        "id": "orang buta"
       }
     },
     {
@@ -71,7 +87,10 @@
       "meaning": {
         "ru": "щупать, трогать",
         "tk": "sypalamak",
-        "en": "to touch"
+        "en": "to touch",
+        "uz": "tegmoq",
+        "tg": "ламс кардан",
+        "id": "menyentuh"
       }
     },
     {
@@ -81,7 +100,10 @@
       "meaning": {
         "ru": "слон",
         "tk": "pil",
-        "en": "elephant"
+        "en": "elephant",
+        "uz": "fil",
+        "tg": "фил",
+        "id": "gajah"
       }
     },
     {
@@ -91,7 +113,10 @@
       "meaning": {
         "ru": "мудрость",
         "tk": "pahym",
-        "en": "wisdom"
+        "en": "wisdom",
+        "uz": "donolik",
+        "tg": "хирад",
+        "id": "kebijaksanaan"
       }
     },
     {
@@ -101,7 +126,10 @@
       "meaning": {
         "ru": "солдат",
         "tk": "esger",
-        "en": "soldier"
+        "en": "soldier",
+        "uz": "askar",
+        "tg": "сарбоз",
+        "id": "tentara"
       }
     },
     {
@@ -111,7 +139,10 @@
       "meaning": {
         "ru": "быть слепым; зря",
         "tk": "kör; biderek",
-        "en": "blind; blindly"
+        "en": "blind; blindly",
+        "uz": "ko'r; ko'rlik bilan",
+        "tg": "кӯр; кӯрона",
+        "id": "buta; secara buta"
       }
     },
     {
@@ -121,7 +152,10 @@
       "meaning": {
         "ru": "по отдельности, соответственно",
         "tk": "aýry-aýry",
-        "en": "respectively"
+        "en": "respectively",
+        "uz": "mos ravishda",
+        "tg": "мутаносибан",
+        "id": "masing-masing"
       }
     },
     {
@@ -131,7 +165,10 @@
       "meaning": {
         "ru": "искать",
         "tk": "gözlemek",
-        "en": "to seek"
+        "en": "to seek",
+        "uz": "izlamoq",
+        "tg": "ҷустан",
+        "id": "mencari"
       }
     },
     {
@@ -141,7 +178,10 @@
       "meaning": {
         "ru": "зуб",
         "tk": "diş",
-        "en": "tooth"
+        "en": "tooth",
+        "uz": "tish",
+        "tg": "дандон",
+        "id": "gigi"
       }
     },
     {
@@ -151,7 +191,10 @@
       "meaning": {
         "ru": "говорить чепуху",
         "tk": "biderek geplemek",
-        "en": "to talk nonsense"
+        "en": "to talk nonsense",
+        "uz": "safsata sotmoq",
+        "tg": "ҳарзагӯӣ кардан",
+        "id": "bicara omong kosong"
       }
     },
     {
@@ -161,7 +204,10 @@
       "meaning": {
         "ru": "хвост",
         "tk": "guýruk",
-        "en": "tail"
+        "en": "tail",
+        "uz": "dum",
+        "tg": "дум",
+        "id": "ekor"
       }
     },
     {
@@ -171,7 +217,10 @@
       "meaning": {
         "ru": "верёвка",
         "tk": "ýüp",
-        "en": "rope"
+        "en": "rope",
+        "uz": "arqon",
+        "tg": "арғамчин",
+        "id": "tali"
       }
     },
     {
@@ -181,7 +230,10 @@
       "meaning": {
         "ru": "плоский, ровный",
         "tk": "tekiz",
-        "en": "flat"
+        "en": "flat",
+        "uz": "tekis",
+        "tg": "ҳамвор",
+        "id": "datar"
       }
     },
     {
@@ -191,7 +243,10 @@
       "meaning": {
         "ru": "стена",
         "tk": "diwar",
-        "en": "wall"
+        "en": "wall",
+        "uz": "devor",
+        "tg": "девор",
+        "id": "dinding"
       }
     },
     {
@@ -201,7 +256,10 @@
       "meaning": {
         "ru": "веер",
         "tk": "ýelpik",
-        "en": "fan"
+        "en": "fan",
+        "uz": "ventilyator",
+        "tg": "бодбезак",
+        "id": "kipas"
       }
     },
     {
@@ -211,7 +269,10 @@
       "meaning": {
         "ru": "односторонний",
         "tk": "bir taraply",
-        "en": "one-sided"
+        "en": "one-sided",
+        "uz": "bir tomonlama",
+        "tg": "яктарафа",
+        "id": "sepihak"
       }
     },
     {
@@ -221,7 +282,10 @@
       "meaning": {
         "ru": "вывод",
         "tk": "netije",
-        "en": "conclusion"
+        "en": "conclusion",
+        "uz": "xulosa",
+        "tg": "хулоса",
+        "id": "kesimpulan"
       }
     },
     {
@@ -231,7 +295,10 @@
       "meaning": {
         "ru": "искренность откроет и камень",
         "tk": "ak ýürek daşy hem açýar",
-        "en": "absolute sincerity moves even stone"
+        "en": "absolute sincerity moves even stone",
+        "uz": "chin dildan qilinganlik toshni ham eritadi",
+        "tg": "самимияти мутлақ сангро ҳам ба ҳаракат меорад",
+        "id": "ketulusan mutlak menggerakkan bahkan batu"
       }
     },
     {
@@ -241,7 +308,10 @@
       "meaning": {
         "ru": "генерал",
         "tk": "serkerde",
-        "en": "general"
+        "en": "general",
+        "uz": "umumiy",
+        "tg": "умумӣ",
+        "id": "umum"
       }
     },
     {
@@ -251,7 +321,10 @@
       "meaning": {
         "ru": "быть искусным в",
         "tk": "başarmak",
-        "en": "to be good at"
+        "en": "to be good at",
+        "uz": "yaxshi bo'lmoq",
+        "tg": "моҳир будан",
+        "id": "pandai dalam"
       }
     },
     {
@@ -261,7 +334,10 @@
       "meaning": {
         "ru": "называть",
         "tk": "atlandyrmak",
-        "en": "to call"
+        "en": "to call",
+        "uz": "chaqirmoq",
+        "tg": "занг задан",
+        "id": "memanggil"
       }
     },
     {
@@ -271,7 +347,10 @@
       "meaning": {
         "ru": "охотиться",
         "tk": "awlamak",
-        "en": "to hunt"
+        "en": "to hunt",
+        "uz": "ovlamoq",
+        "tg": "шикор кардан",
+        "id": "berburu"
       }
     },
     {
@@ -281,7 +360,10 @@
       "meaning": {
         "ru": "внезапно",
         "tk": "birden",
-        "en": "suddenly"
+        "en": "suddenly",
+        "uz": "birdan",
+        "tg": "ногаҳон",
+        "id": "tiba-tiba"
       }
     },
     {
@@ -291,7 +373,10 @@
       "meaning": {
         "ru": "присесть, сидеть на корточках",
         "tk": "çökelenmek",
-        "en": "to squat"
+        "en": "to squat",
+        "uz": "cho'kkalab o'tirmoq",
+        "tg": "чорзона нишастан",
+        "id": "berjongkok"
       }
     },
     {
@@ -301,7 +386,10 @@
       "meaning": {
         "ru": "качать, махать",
         "tk": "yrmak",
-        "en": "to shake"
+        "en": "to shake",
+        "uz": "silkitmoq",
+        "tg": "ҷунбонидан",
+        "id": "menggoyang"
       }
     },
     {
@@ -311,7 +399,10 @@
       "meaning": {
         "ru": "не важно, ничего страшного",
         "tk": "zyýany ýok",
-        "en": "never mind"
+        "en": "never mind",
+        "uz": "zarari yo'q",
+        "tg": "ҳеҷ гап не",
+        "id": "tidak apa-apa"
       }
     },
     {
@@ -321,7 +412,10 @@
       "meaning": {
         "ru": "счётное слово для стрел",
         "tk": "ok üçin san sözi",
-        "en": "MW for arrows"
+        "en": "MW for arrows",
+        "uz": "o'q uchun o'lchov so'zi",
+        "tg": "адад барои тирҳо",
+        "id": "kata bantu bilangan untuk anak panah"
       }
     },
     {
@@ -331,7 +425,10 @@
       "meaning": {
         "ru": "ставить, располагать",
         "tk": "goýmak",
-        "en": "to place"
+        "en": "to place",
+        "uz": "qo'ymoq",
+        "tg": "гузоштан",
+        "id": "meletakkan"
       }
     },
     {
@@ -341,7 +438,10 @@
       "meaning": {
         "ru": "поза",
         "tk": "durmuş",
-        "en": "pose"
+        "en": "pose",
+        "uz": "poza",
+        "tg": "поза",
+        "id": "pose"
       }
     },
     {
@@ -351,7 +451,10 @@
       "meaning": {
         "ru": "полностью сосредоточиться",
         "tk": "bütin üns bilen",
-        "en": "absorbed"
+        "en": "absorbed",
+        "uz": "singib ketgan",
+        "tg": "фурӯбар",
+        "id": "terserap"
       }
     },
     {
@@ -361,7 +464,10 @@
       "meaning": {
         "ru": "прилагать все силы",
         "tk": "tagalla etmek",
-        "en": "to try one's best"
+        "en": "to try one's best",
+        "uz": "qo'lidan kelganicha harakat qilmoq",
+        "tg": "тамоми қувватро сарф кардан",
+        "id": "mencoba semaksimal mungkin"
       }
     },
     {
@@ -371,7 +477,10 @@
       "meaning": {
         "ru": "реагировать; реакция",
         "tk": "jogap bermek",
-        "en": "to react; reaction"
+        "en": "to react; reaction",
+        "uz": "reaksiya qilmoq; reaksiya",
+        "tg": "аксуламал кардан; аксуламал",
+        "id": "bereaksi; reaksi"
       }
     },
     {
@@ -381,7 +490,10 @@
       "meaning": {
         "ru": "убедиться",
         "tk": "anyklamak",
-        "en": "to confirm"
+        "en": "to confirm",
+        "uz": "tasdiqlamoq",
+        "tg": "тасдиқ кардан",
+        "id": "mengonfirmasi"
       }
     },
     {
@@ -391,7 +503,10 @@
       "meaning": {
         "ru": "камень",
         "tk": "daş",
-        "en": "stone"
+        "en": "stone",
+        "uz": "tosh",
+        "tg": "санг",
+        "id": "batu"
       }
     },
     {
@@ -401,7 +516,10 @@
       "meaning": {
         "ru": "непрерывный",
         "tk": "yzygiderli",
-        "en": "continuous"
+        "en": "continuous",
+        "uz": "uzluksiz",
+        "tg": "пайваста",
+        "id": "terus-menerus"
       }
     },
     {
@@ -411,7 +529,10 @@
       "meaning": {
         "ru": "корень; счётное слово",
         "tk": "kök; san sözi",
-        "en": "root; MW"
+        "en": "root; MW",
+        "uz": "ildiz; MW",
+        "tg": "реша; воҳиди ченак",
+        "id": "akar; kata bantu bilangan"
       }
     },
     {
@@ -421,7 +542,10 @@
       "meaning": {
         "ru": "разбиваться; разбитый",
         "tk": "döwülmek",
-        "en": "to break into pieces"
+        "en": "to break into pieces",
+        "uz": "bo'laklarga bo'linmoq",
+        "tg": "пора-пора кардан",
+        "id": "memecah menjadi beberapa bagian"
       }
     },
     {
@@ -431,7 +555,10 @@
       "meaning": {
         "ru": "стержень, древко",
         "tk": "sap",
-        "en": "pole"
+        "en": "pole",
+        "uz": "ustun",
+        "tg": "сутун",
+        "id": "tiang"
       }
     },
     {
@@ -441,7 +568,10 @@
       "meaning": {
         "ru": "ах! (воскл.)",
         "tk": "ah!",
-        "en": "ah! (surprise)"
+        "en": "ah! (surprise)",
+        "uz": "ah! (hayrat)",
+        "tg": "оҳ! (ҳайрат)",
+        "id": "ah! (terkejut)"
       }
     },
     {
@@ -451,7 +581,10 @@
       "meaning": {
         "ru": "эх (вздох)",
         "tk": "ah (gynanç)",
-        "en": "sigh"
+        "en": "sigh",
+        "uz": "xo'rsinish",
+        "tg": "оҳ",
+        "id": "huh"
       }
     },
     {
@@ -461,7 +594,10 @@
       "meaning": {
         "ru": "металл",
         "tk": "metal",
-        "en": "metal"
+        "en": "metal",
+        "uz": "metall",
+        "tg": "металл",
+        "id": "logam"
       }
     },
     {
@@ -471,7 +607,10 @@
       "meaning": {
         "ru": "твёрдый",
         "tk": "gaty",
-        "en": "hard"
+        "en": "hard",
+        "uz": "qattiq",
+        "tg": "сахт",
+        "id": "keras"
       }
     },
     {
@@ -481,7 +620,10 @@
       "meaning": {
         "ru": "тогда, же (книжн.)",
         "tk": "şeýdip",
-        "en": "then (formal)"
+        "en": "then (formal)",
+        "uz": "keyin (rasmiy)",
+        "tg": "пас (расмӣ)",
+        "id": "kemudian (formal)"
       }
     }
   ],
@@ -492,68 +634,101 @@
       "explanation": {
         "ru": "«瞎» — «быть слепым», а как наречие — «зря, без оснований».",
         "tk": "«瞎» — «kör bolmak», hal hökmünde «biderek».",
-        "en": "'瞎' is 'blind'; as adverb — 'blindly, for no reason'."
+        "en": "'瞎' is 'blind'; as adverb — 'blindly, for no reason'.",
+        "uz": "'瞎' — 'ko'r'; ergash so'z sifatida — 'ko'r-ko'rona, sababsiz'.",
+        "tg": "'瞎' — 'кӯр'; ҳамчун зарф — 'кӯрона, бесабаб'.",
+        "id": "'瞎' berarti 'buta'; sebagai kata keterangan — 'tanpa melihat, tanpa alasan'."
       },
       "examples": [
         {
           "zh": "一天，他让士兵们去找一头大象和一些出生时眼睛就瞎了的人回来。",
           "ru": "Однажды он велел солдатам привести слона и слепых от рождения.",
           "tk": "Bir gün esgerlere pil we dogabitdi körleri getirmegi buýurdy.",
-          "en": "One day he ordered soldiers to bring an elephant and some people blind from birth."
+          "en": "One day he ordered soldiers to bring an elephant and some people blind from birth.",
+          "uz": "Bir kuni u askarlarga fil va ba'zi tug'ma ko'r odamlarni olib kelishni buyurdi.",
+          "tg": "Як рӯз ӯ ба сарбозон фармон дод, ки фил ва чанд нафари аз зодрӯз нобиноро биёранд.",
+          "id": "Suatu hari ia memerintahkan tentara untuk membawa seekor gajah dan beberapa orang yang buta sejak lahir."
         },
         {
           "zh": "别听他瞎说，不用害怕。",
           "ru": "Не слушай его глупости, не бойся.",
           "tk": "Onuň biderek gepleýşine gulak asma, gorkma.",
-          "en": "Don't listen to his nonsense — don't be afraid."
+          "en": "Don't listen to his nonsense — don't be afraid.",
+          "uz": "Uning safsatalariga quloq solmang — qo'rqmang.",
+          "tg": "Ба сафсатаи ӯ гӯш накун — натарс.",
+          "id": "Jangan dengarkan omong kosongnya — jangan takut."
         },
         {
           "zh": "他自己的问题，他会想办法的，你就别替他瞎担心了。",
           "ru": "Он сам решит свою проблему — не волнуйся за него зря.",
           "tk": "Ol öz meselesini özi çözer — biderek alada etme.",
-          "en": "He'll handle his own problem — don't worry unnecessarily."
+          "en": "He'll handle his own problem — don't worry unnecessarily.",
+          "uz": "U o'z muammosini o'zi hal qiladi — behuda tashvishlanmang.",
+          "tg": "Ӯ мушкили худро худаш ҳал мекунад — беҳуда хавотир нашав.",
+          "id": "Dia akan menangani masalahnya sendiri — jangan khawatir tanpa alasan."
         },
         {
           "zh": "聪明人用双手挡住了马的双眼，对那个人说：「要是这马真是你的，你一定知道马的哪只眼睛是瞎的。」",
           "ru": "Умный человек закрыл лошади оба глаза руками и сказал: «Если это правда твоя лошадь, ты знаешь, какой глаз у неё слепой».",
           "tk": "Akyldar atyň iki gözüni elleri bilen ýapyp: «Bu at hakykatdan seniňki bolsa, haýsy gözüniň kördugyny bilersiň» diýdi.",
-          "en": "The wise man covered the horse's eyes and said: 'If this horse is truly yours, you know which eye is blind.'"
+          "en": "The wise man covered the horse's eyes and said: 'If this horse is truly yours, you know which eye is blind.'",
+          "uz": "Donishmand otning ko'zlarini to'sib dedi: 'Agar bu ot haqiqatan sizniki bo'lsa, qaysi ko'zi ko'r ekanini bilasiz.'",
+          "tg": "Оқили чашмони аспро пӯшонд ва гуфт: 'Агар ин асп воқеан аз они ту бошад, медонӣ, ки кадом чашм нобино аст.'",
+          "id": "Orang bijak itu menutup mata kuda dan berkata: 'Jika kuda ini benar-benar milikmu, kamu tahu mata mana yang buta.'"
         },
         {
           "zh": "你别瞎猜了，事情不是你想的那样。",
           "ru": "Не гадай зря — всё не так, как ты думаешь.",
           "tk": "Biderek çaklama, iş seniň pikir edişiň ýaly däl.",
-          "en": "Stop guessing wildly — it's not as you imagine."
+          "en": "Stop guessing wildly — it's not as you imagine.",
+          "uz": "Taxmin qilishni to'xtating — bu siz tasavvur qilgandek emas.",
+          "tg": "Аз тахминҳои беасос даст каш — ин тавре ки ту тасаввур мекунӣ нест.",
+          "id": "Berhenti menebak-nebak — tidak seperti yang kamu bayangkan."
         },
         {
           "zh": "别瞎花钱，要节省一点。",
           "ru": "Не трать деньги зря, экономь.",
           "tk": "Biderek pul harçlama, tygşytla.",
-          "en": "Don't waste money — economize."
+          "en": "Don't waste money — economize.",
+          "uz": "Pulni behuda sarflamang — tejang.",
+          "tg": "Пулиро беҳуда сарф накун — сарфа кун.",
+          "id": "Jangan buang uang — berhematlah."
         },
         {
           "zh": "他瞎忙了一天，什么都没做成。",
           "ru": "Он целый день суетился без толку и ничего не сделал.",
           "tk": "Ol günüň dowamynda biderek howlukdy, hiç zat etmedi.",
-          "en": "He bustled around all day for nothing."
+          "en": "He bustled around all day for nothing.",
+          "uz": "U kun bo'yi behuda ovora bo'ldi.",
+          "tg": "Вай тамоми рӯз беҳуда давр мезанад.",
+          "id": "Dia sibuk sepanjang hari tanpa hasil."
         },
         {
           "zh": "你别瞎说，小心得罪人。",
           "ru": "Не говори глупостей, как бы не обидеть кого.",
           "tk": "Biderek gepleme, biriniň göwnüne degmez ýaly.",
-          "en": "Don't talk nonsense — you might offend someone."
+          "en": "Don't talk nonsense — you might offend someone.",
+          "uz": "Bema'ni gapirmang — birovni xafa qilishingiz mumkin.",
+          "tg": "Беҳуда гап назан — шояд касеро ранҷонаӣ.",
+          "id": "Jangan bicara omong kosong — kamu bisa menyinggung seseorang."
         },
         {
           "zh": "他是瞎编的故事，你别信。",
           "ru": "Это он выдумал — не верь.",
           "tk": "Bu onuň toslap düzen hekaýasy — ynama.",
-          "en": "He made it up — don't believe it."
+          "en": "He made it up — don't believe it.",
+          "uz": "U buni o'ylab topdi — ishonmang.",
+          "tg": "Вай инро аз худ сохт — бовар накун.",
+          "id": "Dia mengarangnya — jangan percaya."
         },
         {
           "zh": "你瞎操心什么，一切都安排好了。",
           "ru": "Чего зря переживаешь — всё уже организовано.",
           "tk": "Biderek näme alada edýärsiň, hemme zat taýýar.",
-          "en": "Why worry unnecessarily — everything's arranged."
+          "en": "Why worry unnecessarily — everything's arranged.",
+          "uz": "Nega behuda tashvishlanasiz — hammasi tartibga solingan.",
+          "tg": "Чаро беҳуда хавотир шавем — ҳама чиз ташкил шудааст.",
+          "id": "Mengapa khawatir tanpa alasan — semuanya sudah diatur."
         }
       ],
       "formula": {
@@ -638,68 +813,101 @@
       "explanation": {
         "ru": "«分别» — «прощаться»; как наречие — «по отдельности, соответственно»; как существительное — «различие».",
         "tk": "«分别» — «hoşlaşmak»; hal hökmünde «aýry-aýry»; at hökmünde «tapawut».",
-        "en": "'分别' — 'to part'; adv. 'separately, respectively'; n. 'difference'."
+        "en": "'分别' — 'to part'; adv. 'separately, respectively'; n. 'difference'.",
+        "uz": "'分别' — 'ajralmoq'; adv. 'alohida, tegishlicha'; n. 'farq'.",
+        "tg": "'分别' — 'ҷудо шудан'; зарф 'алоҳида, мутаносибан'; исм 'фарқият'.",
+        "id": "'分别' — 'berpisah'; adv. 'secara terpisah, masing-masing'; n. 'perbedaan'."
       },
       "examples": [
         {
           "zh": "士兵们分别去不同地方寻找，把找到的大象和盲人带到他面前。",
           "ru": "Солдаты разошлись по разным местам, и привели найденных слона и слепых к нему.",
           "tk": "Esgerler aýry-aýry ýerlere gözläp, tapylan pili we körleri onuň öňüne getirdiler.",
-          "en": "Soldiers went to different places and brought the elephant and blind men before him."
+          "en": "Soldiers went to different places and brought the elephant and blind men before him.",
+          "uz": "Askarlar turli joylarga borib, fil va ko'r odamlarni uning oldiga olib kelishdi.",
+          "tg": "Сарбозон ба ҷойҳои гуногун рафтанд ва фил ва мардуми нобиноро назди ӯ оварданд.",
+          "id": "Para tentara pergi ke berbagai tempat dan membawa gajah serta orang-orang buta itu ke hadapannya."
         },
         {
           "zh": "我分别找两个人打听了这件事，他们的说法都是一样的。",
           "ru": "Я по отдельности расспросил двух человек — рассказы совпадают.",
           "tk": "Men iki adamdan aýry-aýry soradym — gürrüňleri birmeňzeş.",
-          "en": "I asked two people separately — their accounts match."
+          "en": "I asked two people separately — their accounts match.",
+          "uz": "Men ikki kishidan alohida so'radim — ularning gaplari mos keladi.",
+          "tg": "Ман аз ду нафар алоҳида пурсидам — гуфтаҳои онҳо мувофиқат мекунанд.",
+          "id": "Saya bertanya kepada dua orang secara terpisah — keterangan mereka cocok."
         },
         {
           "zh": "一张桌子上放着三瓶饮料，分别是茶、可乐和咖啡。",
           "ru": "На столе три бутылки напитков: чай, кола и кофе соответственно.",
           "tk": "Stol üstünde üç çüýşe içgi: çaý, kola we kofe.",
-          "en": "On the table are three drinks: tea, cola, and coffee respectively."
+          "en": "On the table are three drinks: tea, cola, and coffee respectively.",
+          "uz": "Stolda uchta ichimlik bor: mos ravishda choy, kola va qahva.",
+          "tg": "Дар рӯи миз се нӯшокӣ ҳаст: чой, кола ва қаҳва мутаносибан.",
+          "id": "Di atas meja ada tiga minuman: teh, kola, dan kopi secara berurutan."
         },
         {
           "zh": "从毕业到现在，我们已经分别20年了。",
           "ru": "Со времени выпуска мы в разлуке уже 20 лет.",
           "tk": "Okuw gutarandan bäri biz 20 ýyl aýry ýaşaýarys.",
-          "en": "Since graduation we've been apart for 20 years."
+          "en": "Since graduation we've been apart for 20 years.",
+          "uz": "Bitirganimizdan beri 20 yil ajralib yurdik.",
+          "tg": "Аз вақти хатм 20 сол аст, ки ҷудо ҳастем.",
+          "id": "Sejak kelulusan kami telah terpisah selama 20 tahun."
         },
         {
           "zh": "我不知道这两种做法有什么分别。",
           "ru": "Не знаю, в чём разница между этими двумя подходами.",
           "tk": "Bu iki usulyň tapawudyny bilemok.",
-          "en": "I don't know the difference between these two approaches."
+          "en": "I don't know the difference between these two approaches.",
+          "uz": "Bu ikki yondashuv o'rtasidagi farqni bilmayman.",
+          "tg": "Ман фарқи байни ин ду усулро намедонам.",
+          "id": "Saya tidak tahu perbedaan antara kedua pendekatan ini."
         },
         {
           "zh": "谈到对目前工作最不满意的地方，39.1%的被调查者认为休息时间太少，发展慢、工资太低分别占20.3%和20%。",
           "ru": "О недовольстве работой: 39,1% опрошенных недовольны малым отдыхом; медленный рост и низкая зарплата — 20,3% и 20% соответственно.",
           "tk": "Işiň kanagatlanmazlygy barada: 39,1% dynç wagtynyň azlygyna, ösüşiň haýallygy we pes aýlyk degişlilikde 20,3% we 20%.",
-          "en": "About job dissatisfaction: 39.1% cite short rest time; slow growth and low salary at 20.3% and 20% respectively."
+          "en": "About job dissatisfaction: 39.1% cite short rest time; slow growth and low salary at 20.3% and 20% respectively.",
+          "uz": "Ishdan qoniqmaslik haqida: 39,1% dam olish vaqtining qisqaligini; sekin o'sish va past maosh mos ravishda 20,3% va 20% ni tashkil etadi.",
+          "tg": "Дар бораи норозигӣ аз кор: 39.1% вақти камро барои истироҳат зикр мекунанд; рушди суст ва маоши паст мутаносибан 20.3% ва 20% -ро ташкил медиҳанд.",
+          "id": "Tentang ketidakpuasan kerja: 39,1% menyebut waktu istirahat yang singkat; pertumbuhan yang lambat dan gaji rendah masing-masing sebesar 20,3% dan 20%."
         },
         {
           "zh": "这两张照片的分别是一眼就看得出来的。",
           "ru": "Разницу между этими фотографиями видно с первого взгляда.",
           "tk": "Bu iki suratyň tapawudy bir seretmekde bildir.",
-          "en": "The difference between these two photos is obvious at a glance."
+          "en": "The difference between these two photos is obvious at a glance.",
+          "uz": "Bu ikki surat o'rtasidagi farq bir qarashda ko'rinib turibdi.",
+          "tg": "Фарқи байни ин ду акс дар як нигоҳ аён аст.",
+          "id": "Perbedaan antara kedua foto ini terlihat jelas sekilas."
         },
         {
           "zh": "他们分别代表了不同的观点。",
           "ru": "Они соответственно представляют разные точки зрения.",
           "tk": "Olar aýry-aýry garaýyşlary görkezýärler.",
-          "en": "They respectively represent different views."
+          "en": "They respectively represent different views.",
+          "uz": "Ular mos ravishda turli qarashlarni ifodalaydi.",
+          "tg": "Онҳо мутаносибан нуқтаи назари гуногунро ифода мекунанд.",
+          "id": "Mereka masing-masing mewakili pandangan yang berbeda."
         },
         {
           "zh": "分别之后，我们再也没有见过面。",
           "ru": "После расставания мы больше не встречались.",
           "tk": "Aýrylyşandan soň biz mundan beýläk duşuşmadyk.",
-          "en": "After parting, we never met again."
+          "en": "After parting, we never met again.",
+          "uz": "Ajralganimizdan so'ng, biz boshqa hech qachon uchrashmadik.",
+          "tg": "Баъди ҷудоӣ, мо дигар ҳеҷ гоҳ вохӯр накардем.",
+          "id": "Setelah berpisah, kami tidak pernah bertemu lagi."
         },
         {
           "zh": "这三种颜色分别代表红、黄、蓝。",
           "ru": "Эти три цвета обозначают красный, жёлтый, синий соответственно.",
           "tk": "Bu üç reňk gyzyl, sary we gögi aňladýar.",
-          "en": "These three colors represent red, yellow, and blue respectively."
+          "en": "These three colors represent red, yellow, and blue respectively.",
+          "uz": "Bu uchta rang mos ravishda qizil, sariq va ko'kni ifodalaydi.",
+          "tg": "Ин се ранг мутаносибан сурх, зард ва кабудро ифода мекунанд.",
+          "id": "Ketiga warna ini masing-masing mewakili merah, kuning, dan biru."
         }
       ],
       "formula": {
@@ -774,68 +982,101 @@
       "explanation": {
         "ru": "«根» — «корень»; как счётное слово — для длинных предметов (палки, стрелы, нитки).",
         "tk": "«根» — «kök»; san sözi hökmünde uzyn zatlar üçin.",
-        "en": "'根' — 'root'; MW for long thin objects (sticks, arrows, threads)."
+        "en": "'根' — 'root'; MW for long thin objects (sticks, arrows, threads).",
+        "uz": "'根' — 'ildiz'; uzun ingichka narsalar uchun MW (tayoqlar, o'qlar, iplar).",
+        "tg": "'根' — 'реша'; ченак барои ашёи дарозу тунук (чӯбҳо, тирҳо, риштаҳо).",
+        "id": "'根' — 'akar'; MW untuk benda panjang dan tipis (tongkat, panah, benang)."
       },
       "examples": [
         {
           "zh": "摸到尾巴的盲人说大象像一根绳子。",
           "ru": "Слепой, потрогавший хвост, сказал: «Слон похож на верёвку».",
           "tk": "Guýrugy sypalan kör: «Pil ýüpe meňzeýär» diýdi.",
-          "en": "The blind man who touched the tail said: 'The elephant is like a rope.'"
+          "en": "The blind man who touched the tail said: 'The elephant is like a rope.'",
+          "uz": "Dumini ushlagan ko'r odam: 'Fil arqonga o'xshaydi', dedi.",
+          "tg": "Нобиное, ки думи филро ламс кард, гуфт: 'Фил мисли арғамчин аст.'",
+          "id": "Orang buta yang meraba ekor berkata: 'Gajah itu seperti tali.'"
         },
         {
           "zh": "这次他连续换了几根箭，都没能再射进去。",
           "ru": "Он подряд сменил несколько стрел — больше не смог пронзить камень.",
           "tk": "Ol nobat bilen birnäçe oky çalyşdy — mundan beýläk geçirip bilmedi.",
-          "en": "He changed several arrows in a row — none pierced the stone again."
+          "en": "He changed several arrows in a row — none pierced the stone again.",
+          "uz": "U ketma-ket bir nechta o'qni o'zgartirdi — hech biri toshni yana teshib o'tmadi.",
+          "tg": "Вай пайиҳам чанд тирро иваз кард — дигар ҳеҷ кадоми онҳо сангро сӯрох накард.",
+          "id": "Dia mengganti beberapa anak panah berturut-turut — tidak ada yang menembus batu lagi."
         },
         {
           "zh": "这棵树的根又粗又长。",
           "ru": "Корень этого дерева толстый и длинный.",
           "tk": "Bu agajyň köki galyň we uzyn.",
-          "en": "This tree's root is thick and long."
+          "en": "This tree's root is thick and long.",
+          "uz": "Bu daraxtning ildizi qalin va uzun.",
+          "tg": "Решаи ин дарахт ғафс ва дароз аст.",
+          "id": "Akar pohon ini tebal dan panjang."
         },
         {
           "zh": "这种植物的根下雨时会大量吸水，从而满足自身的需要。",
           "ru": "Корень этого растения в дождь впитывает много воды и тем самым удовлетворяет свои нужды.",
           "tk": "Bu ösümligiň köki ýagyşda köp suw siňdirip, öz zerurlygyny kanagatlandyrýar.",
-          "en": "This plant's roots absorb lots of water in the rain, meeting its needs."
+          "en": "This plant's roots absorb lots of water in the rain, meeting its needs.",
+          "uz": "Bu o'simlikning ildizlari yomg'irda ko'p suv shimib, ehtiyojini qondiradi.",
+          "tg": "Решаҳои ин растанӣ ҳангоми борон миқдори зиёди обро ҷаббида, эҳтиёҷоти худро қонеъ мекунанд.",
+          "id": "Akar tanaman ini menyerap banyak air saat hujan, memenuhi kebutuhannya."
         },
         {
           "zh": "你这颗牙连牙根都坏了，平时难道不疼吗？",
           "ru": "У этого зуба даже корень повреждён — неужели не болит?",
           "tk": "Bu dişiň köki hem zaýalanan — agyrmaýarmy?",
-          "en": "This tooth's root is damaged — doesn't it hurt?"
+          "en": "This tooth's root is damaged — doesn't it hurt?",
+          "uz": "Bu tishning ildizi shikastlangan — og'rimayaptimi?",
+          "tg": "Решаи ин дандон вайрон шудааст — дард намекунад?",
+          "id": "Akar gigi ini rusak — apakah tidak sakit?"
         },
         {
           "zh": "这件事还是得从根上解决，只解决表面问题是不行的。",
           "ru": "Этот вопрос надо решать в корне — поверхностное решение не поможет.",
           "tk": "Bu meseläni düýbünden çözmeli — ýüzleý çözgüt peýdaly däl.",
-          "en": "This issue must be solved at the root — superficial fixes won't help."
+          "en": "This issue must be solved at the root — superficial fixes won't help.",
+          "uz": "Bu muammoni ildizidan hal qilish kerak — yuzaki tuzatishlar yordam bermaydi.",
+          "tg": "Ин масъала бояд аз реша ҳал карда шавад — ислоҳоти сатҳӣ кӯмак намекунад.",
+          "id": "Masalah ini harus diselesaikan sampai ke akarnya — perbaikan dangkal tidak akan membantu."
         },
         {
           "zh": "第一次用筷子的时候，两根筷子怎么也拿不稳。",
           "ru": "Когда я впервые взял палочки, две палочки никак не держались.",
           "tk": "Ilkinji gezek taýajyklary ulananymda, iki taýajyk saklanmady.",
-          "en": "When I first used chopsticks, the two couldn't stay steady."
+          "en": "When I first used chopsticks, the two couldn't stay steady.",
+          "uz": "Tayoqchalarni birinchi marta ishlatganimda, ikkalasi barqaror turolmadi.",
+          "tg": "Вақте ки ман бори аввал чӯбчаҳоро истифода бурдам, дуто устувор намеистоданд.",
+          "id": "Saat pertama kali menggunakan sumpit, keduanya tidak bisa tetap stabil."
         },
         {
           "zh": "花园里种着几根竹子。",
           "ru": "В саду посажено несколько стеблей бамбука.",
           "tk": "Bagda birnäçe bambuk ösdürilýär.",
-          "en": "A few bamboo plants grow in the garden."
+          "en": "A few bamboo plants grow in the garden.",
+          "uz": "Bog'da bir nechta bambuk o'simliklari o'sadi.",
+          "tg": "Дар боғ чанд растании бамбук мерӯяд.",
+          "id": "Beberapa tanaman bambu tumbuh di taman."
         },
         {
           "zh": "他手里拿着一根香烟。",
           "ru": "У него в руке сигарета.",
           "tk": "Onuň elinde bir çilim bar.",
-          "en": "He holds a cigarette in his hand."
+          "en": "He holds a cigarette in his hand.",
+          "uz": "U qo'lida sigaret tutib turibdi.",
+          "tg": "Ӯ дар дасташ сигор дорад.",
+          "id": "Dia memegang sebatang rokok di tangannya."
         },
         {
           "zh": "给婴儿买一根玩具棒吧。",
           "ru": "Купи ребёнку одну игрушечную палочку.",
           "tk": "Çaga bir oýunjak taýajyk satyn al.",
-          "en": "Buy the baby a toy stick."
+          "en": "Buy the baby a toy stick.",
+          "uz": "Chaqaloqqa o'yinchoq tayoqcha sotib ol.",
+          "tg": "Барои кӯдак чӯбчаи бозича харед.",
+          "id": "Belikan bayi itu mainan tongkat."
         }
       ],
       "formula": {
@@ -910,68 +1151,101 @@
       "explanation": {
         "ru": "«便» — книжное «就». Часто в письменной речи.",
         "tk": "«便» — kitaby «şeýdip, soň».",
-        "en": "'便' — formal 'then, so'. Common in written language."
+        "en": "'便' — formal 'then, so'. Common in written language.",
+        "uz": "'便' — rasmiy 'keyin, shunday qilib'. Yozma tilida keng tarqalgan.",
+        "tg": "'便' — расмии 'пас, бинобар ин'. Дар забони хаттӣ маъмул аст.",
+        "id": "'便' — formal 'lalu, jadi'. Umum dalam bahasa tulis."
       },
       "examples": [
         {
           "zh": "「精诚所至，金石为开」这一成语也便由此流传下来。",
           "ru": "Идиом «Искренность откроет и камень» так и передался из поколения в поколение.",
           "tk": "«Ak ýürek daşy hem açýar» idiomy şeýlelikde nesilden-nesle geçdi.",
-          "en": "Thus the idiom 'absolute sincerity moves even stone' was passed down."
+          "en": "Thus the idiom 'absolute sincerity moves even stone' was passed down.",
+          "uz": "Shunday qilib, 'chin dildan qilingan harakat toshni ham yumshatadi' degan ibora avloddan-avlodga o'tib keldi.",
+          "tg": "Ҳамин тавр, мақоли «самимияти мутлақ сангро ҳам ба ҳаракат меорад» аз насл ба насл гузашт.",
+          "id": "Maka pepatah 'ketulusan mutlak menggerakkan bahkan batu' diwariskan."
         },
         {
           "zh": "楼上新买了一架钢琴，我们家便多了一些不安静。",
           "ru": "Наверху купили пианино — у нас стало меньше тишины.",
           "tk": "Ýokarda täze pianino satyn aldy — biziň öýümizde-de ses köpeldi.",
-          "en": "Neighbors upstairs bought a piano — our home got noisier."
+          "en": "Neighbors upstairs bought a piano — our home got noisier.",
+          "uz": "Yuqori qavatdagi qo'shnilar pianino sotib olishdi — uyimiz shovqinli bo'lib qoldi.",
+          "tg": "Ҳамсояҳои болоӣ фортепиано хариданд — хонаи мо сершумор шуд.",
+          "id": "Tetangga di lantai atas membeli piano — rumah kami jadi lebih berisik."
         },
         {
           "zh": "很多时候，仅仅是换一种心情，换一个角度，便可以从困境中走出来。",
           "ru": "Часто достаточно сменить настроение и угол зрения — и выйдешь из тупика.",
           "tk": "Köplenç keýpi we garaýşy üýtgetmek — kynçylykdan çykmak üçin ýeterlik.",
-          "en": "Often simply changing mood and perspective can get you out of a deadlock."
+          "en": "Often simply changing mood and perspective can get you out of a deadlock.",
+          "uz": "Ko'pincha kayfiyat va nuqtai nazarni o'zgartirishning o'zi sizni boshi berk ko'chadan chiqarishi mumkin.",
+          "tg": "Аксар вақт танҳо тағйир додани рӯҳия ва нуқтаи назар метавонад шуморо аз бунбаст берун кунад.",
+          "id": "Sering kali hanya dengan mengubah suasana hati dan sudut pandang dapat membuat Anda keluar dari kebuntuan."
         },
         {
           "zh": "他刚出门，发现没带钥匙，便转身回去拿。",
           "ru": "Он только вышел, обнаружил, что забыл ключи, и вернулся.",
           "tk": "Ol diňe çykyp, açaryň ýokdugyny bildi we dolanyp aldy.",
-          "en": "He'd just left, noticed he forgot the keys, and turned back."
+          "en": "He'd just left, noticed he forgot the keys, and turned back.",
+          "uz": "U endigina chiqib ketgan edi, kalitlarni unutganini payqab, orqaga qaytdi.",
+          "tg": "Вай навакак рафта буд, дид, ки калидҳоро фаромӯш кардааст ва баргашт.",
+          "id": "Dia baru saja pergi, menyadari kunci tertinggal, dan berbalik kembali."
         },
         {
           "zh": "朋友不停地给她介绍男朋友，但是每次不是她不喜欢别人，便是别人不喜欢她。",
           "ru": "Друзья всё время знакомили её с молодыми людьми, но каждый раз либо он ей не нравился, либо он её не любил.",
           "tk": "Dostlar oňa hemişe ýigit tanyşdyrýardylar, emma her gezek ýa ol halamady, ýa ol ony söýmedi.",
-          "en": "Friends kept introducing boyfriends, but each time either she didn't like him or he didn't like her."
+          "en": "Friends kept introducing boyfriends, but each time either she didn't like him or he didn't like her.",
+          "uz": "Do'stlari unga yigitlar bilan tanishishni davom ettirdilar, lekin har safar yo u unga yoqmadi, yo u unga yoqmadi.",
+          "tg": "Дӯстон ҳамеша ҷавононро муаррифӣ мекарданд, аммо ҳар дафъа ё вай ӯро писандид намекард, ё ӯ вайро.",
+          "id": "Teman-teman terus memperkenalkan pacar, tetapi setiap kali entah dia tidak menyukainya atau dia tidak menyukainya."
         },
         {
           "zh": "如果我们坚持原来的想法，这个工作便不可能完成。",
           "ru": "Если мы будем держаться прежних идей, эту работу не завершить.",
           "tk": "Öňki pikirimizi saklasak, bu işi gutaryp bolmaz.",
-          "en": "If we stick to our original ideas, this task can't be finished."
+          "en": "If we stick to our original ideas, this task can't be finished.",
+          "uz": "Agar biz asl fikrlarimizga yopishib olsak, bu vazifani tugata olmaymiz.",
+          "tg": "Агар мо ба ғояҳои аввалаи худ часпем, ин вазифаро иҷро карда наметавонем.",
+          "id": "Jika kita berpegang pada ide awal kita, tugas ini tidak dapat diselesaikan."
         },
         {
           "zh": "他一点头，事情便定了下来。",
           "ru": "Он кивнул — и дело было решено.",
           "tk": "Ol kellesini sandy — iş çözüldi.",
-          "en": "He nodded, and the matter was settled."
+          "en": "He nodded, and the matter was settled.",
+          "uz": "U bosh irg'adi va masala hal bo'ldi.",
+          "tg": "Вай сар ҷунбонд, ва масъала ҳал шуд.",
+          "id": "Dia mengangguk, dan masalah pun selesai."
         },
         {
           "zh": "春天一到，花便开了。",
           "ru": "Как только пришла весна — цветы расцвели.",
           "tk": "Bahar gelen badyna güller açyldy.",
-          "en": "As soon as spring came, flowers bloomed."
+          "en": "As soon as spring came, flowers bloomed.",
+          "uz": "Bahor kelishi bilanoq, gullar ochildi.",
+          "tg": "Ҳамин ки баҳор омад, гулҳо шукуфтанд.",
+          "id": "Begitu musim semi tiba, bunga-bunga bermekaran."
         },
         {
           "zh": "听了这话，他便不再多说。",
           "ru": "Услышав это, он больше не стал говорить.",
           "tk": "Bu sözleri eşidip, ol mundan beýläk gürlemedi.",
-          "en": "Upon hearing this, he said no more."
+          "en": "Upon hearing this, he said no more.",
+          "uz": "Buni eshitib, u boshqa gapirmadi.",
+          "tg": "Ҳаминро шунида, ӯ дигар чизе нагуфт.",
+          "id": "Mendengar hal itu, dia tidak berkata apa-apa lagi."
         },
         {
           "zh": "他一到家，便给我打了电话。",
           "ru": "Как только он добрался домой, сразу мне позвонил.",
           "tk": "Öýe ýeten badyna maňa jaň etdi.",
-          "en": "As soon as he got home, he called me."
+          "en": "As soon as he got home, he called me.",
+          "uz": "Uyga yetib kelishi bilanoq, u menga qo'ng'iroq qildi.",
+          "tg": "Ҳамин ки ба хона расид, ба ман занг зад.",
+          "id": "Begitu dia sampai di rumah, dia menelepon saya."
         }
       ],
       "formula": {
@@ -1084,7 +1358,10 @@
       "common": {
         "ru": "Оба — «вдруг, внезапно».",
         "tk": "Ikisi hem «birden, garaşylmadyk».",
-        "en": "Both mean 'suddenly'."
+        "en": "Both mean 'suddenly'.",
+        "uz": "Ikkalasi ham 'to'satdan' ma'nosini bildiradi.",
+        "tg": "Ҳарду маънои 'ногаҳон'-ро доранд.",
+        "id": "Keduanya berarti 'tiba-tiba'."
       },
       "differences": [
         {
@@ -1118,7 +1395,10 @@
         "meaning": {
           "ru": "письменность",
           "tk": "ýazuw",
-          "en": "writing"
+          "en": "writing",
+          "uz": "yozuv",
+          "tg": "навиштан",
+          "id": "menulis"
         }
       },
       {
@@ -1127,7 +1407,10 @@
         "meaning": {
           "ru": "лексика",
           "tk": "leksika",
-          "en": "vocabulary"
+          "en": "vocabulary",
+          "uz": "lug'at",
+          "tg": "луғат",
+          "id": "kosakata"
         }
       },
       {
@@ -1136,7 +1419,10 @@
         "meaning": {
           "ru": "идиом",
           "tk": "idiom",
-          "en": "idiom"
+          "en": "idiom",
+          "uz": "ibora",
+          "tg": "ибора",
+          "id": "idiom"
         }
       },
       {
@@ -1145,7 +1431,10 @@
         "meaning": {
           "ru": "буква",
           "tk": "harp",
-          "en": "letter"
+          "en": "letter",
+          "uz": "xat",
+          "tg": "ҳарф",
+          "id": "huruf"
         }
       },
       {
@@ -1154,7 +1443,10 @@
         "meaning": {
           "ru": "тон",
           "tk": "ton",
-          "en": "tone"
+          "en": "tone",
+          "uz": "ohang",
+          "tg": "оҳанг",
+          "id": "nada"
         }
       },
       {
@@ -1163,7 +1455,10 @@
         "meaning": {
           "ru": "пиньинь",
           "tk": "pinýin",
-          "en": "pinyin"
+          "en": "pinyin",
+          "uz": "pinyin",
+          "tg": "пинин",
+          "id": "pinyin"
         }
       },
       {
@@ -1172,7 +1467,10 @@
         "meaning": {
           "ru": "интонация",
           "tk": "äheň",
-          "en": "tone of voice"
+          "en": "tone of voice",
+          "uz": "ovoz ohangi",
+          "tg": "оҳанги овоз",
+          "id": "nada bicara"
         }
       },
       {
@@ -1181,7 +1479,10 @@
         "meaning": {
           "ru": "вопрос",
           "tk": "sorag",
-          "en": "question"
+          "en": "question",
+          "uz": "savol",
+          "tg": "савол",
+          "id": "pertanyaan"
         }
       },
       {
@@ -1190,7 +1491,10 @@
         "meaning": {
           "ru": "отрицание",
           "tk": "inkär",
-          "en": "negation"
+          "en": "negation",
+          "uz": "inkor",
+          "tg": "инкор",
+          "id": "negasi"
         }
       },
       {
@@ -1199,7 +1503,10 @@
         "meaning": {
           "ru": "пропускать",
           "tk": "goýbermek",
-          "en": "to omit"
+          "en": "to omit",
+          "uz": "tushirib qoldirmoq",
+          "tg": "ҳазф кардан",
+          "id": "menghilangkan"
         }
       }
     ]
@@ -1208,7 +1515,10 @@
     "discussion": {
       "ru": "Что означает «凡事要有的放矢»? Почему важно иметь цель?",
       "tk": "«Hemme işde nyşana almak» näme aňladýar? Maksatly bolmak näme üçin möhüm?",
-      "en": "What does 'aim before you shoot' mean? Why is having a goal important?"
+      "en": "What does 'aim before you shoot' mean? Why is having a goal important?",
+      "uz": "'O'q otishdan oldin nishonga ol' nima degani? Nima uchun maqsad qo'yish muhim?",
+      "tg": "Ибораи 'пеш аз тир андохтан ҳадаф гирифтан' чӣ маъно дорад? Чаро доштани ҳадаф муҳим аст?",
+      "id": "Apa arti 'bidik sebelum menembak'? Mengapa memiliki tujuan itu penting?"
     }
   },
   "workbook": {

@@ -5,7 +5,8 @@
     "tk": "Çusi baýramynyň gelip çykyşy",
     "en": "Origin of Chuxi",
     "uz": "Chusi bayramining kelib chiqishi",
-    "tg": "Пайдоиши байрами Чусӣ"
+    "tg": "Пайдоиши байрами Чусӣ",
+    "id": "Asal-usul Chuxi"
   },
   "audio_files": {
     "textbook_1": "textbook_1.mp3",
@@ -18,7 +19,10 @@
     "question": {
       "ru": "Что такое Чуси и как он связан с китайским Новым годом?",
       "tk": "Çusi näme we Hytaý Täze ýyly bilen nähili bagly?",
-      "en": "What is Chuxi and how is it related to Chinese New Year?"
+      "en": "What is Chuxi and how is it related to Chinese New Year?",
+      "uz": "Chuxi nima va u Xitoy Yangi yili bilan qanday bog'liq?",
+      "tg": "Чуси чист ва чӣ гуна ба Соли нави чинӣ алоқаманд аст?",
+      "id": "Apa itu Chuxi dan bagaimana hubungannya dengan Tahun Baru Imlek?"
     },
     "answers": [
       "除夕",
@@ -32,7 +36,10 @@
   "text_translation": {
     "ru": "В Китае последний день года по лунному календарю называют Чуси. В этот день семья собирается на новогодний ужин и не спит до утра (шоусуй). Но почему его называют Чуси? Говорят, давным-давно жило чудовище по имени Си, которое часто выходило вредить людям. Люди ненавидели его, но ничего не могли поделать. Жил тогда герой Цилан — красивый, высокий, необычайно сильный. У него была очень храбрая собака, которая, вцепившись, не отпускала. Однажды Цилан, вернувшись домой, увидел у дороги плачущего дедушку соседской девочки. Расспросив, он узнал, что девочку съело чудовище Си. Цилан твёрдо решил убить Си и избавить людей от этого бедствия. Он отправился в путь с собакой, всюду расспрашивая о Си, но не мог найти. Прошёл почти год — и вот в канун Нового года он пришёл в оживлённый город. За этот год он узнал о Си много: чудовище выходит после заката, а перед рассветом исчезает без следа; больше всего оно боится шума. Цилан велел людям не спать и при появлении Си громко стучать всем, чем можно. Вечером Си действительно явилось. Оно хотело съесть девушку, но её семья его заметила и сразу начала стучать по котлам и тазам — вскоре весь город шумел. Си в ужасе бросилось прочь. Собака Цилана догнала чудовище и вцепилась в него. Цилан подбежал и застрелил Си из лука. После этого люди благодарили Цилана. Так как день был значимым, каждый год в канун Нового года люди не спят всю ночь и стучат. Так из поколения в поколение передался обычай — не спать в ночь Чуси и запускать хлопушки.",
     "en": "In China, the last day of the lunar year — the thirtieth of the twelfth month — is called Chuxi. On this day, the whole family gathers for the New Year's Eve dinner and stays up late. But why is it called Chuxi? Legend says long ago there lived a monster called Xi that often came out to harm people. They hated it bitterly but were helpless. At that time there was a hero named Qilang — handsome, tall, and immensely strong. Qilang also had a dog, extremely brave, that would not let go once it bit. One day, returning home, Qilang saw the grandfather of a neighbor girl crying by the roadside. Asking, he learned the lovely, innocent girl had been eaten by Xi. Qilang silently resolved to kill Xi and rid the people of this scourge. So he set out with his dog, inquiring everywhere about Xi, but could not find it. Almost a year passed; on New Year's Eve, Qilang arrived at a bustling town. Over the year he'd learned much about Xi: it usually came after sunset and fled before dawn so fast no shadow remained; it especially feared loud noises. So Qilang told the townspeople: Xi might come tonight; stay up and the moment you see it, bang on things — everyone kill it together. The sun set; night came; Xi appeared. It tried to eat a girl, but her family spotted it and immediately banged pots and basins — soon the whole town was noisy. Xi fled in terror. Qilang's dog caught up and bit it hard; Qilang ran up and shot it dead with an arrow. After Xi was gone, the people thanked Qilang one after another. Since the day was meaningful, people began staying up all night every New Year's Eve, banging things, just as that night. Thus passed down generation by generation, the custom of staying up on Chuxi and setting off firecrackers was formed.",
-    "tk": "Hytaýda aý senenamasy boýunça ýylyň iň soňky güni — on ikinji aýyň otuzynjy güni — Çusi diýilýär. Şol gün tutuş maşgala Täze ýyl agşam naharyna ýygnalyp, giç ýatmazlyk däbi bar. Emma näme üçin oňa Çusi diýilýär? Rowaýata görä, gadymda Si atly bir haýwan köplenç adamlara zyýan ýetiripdir. Adamlar ony gaty ýigrenýärdiler, emma hiç zat edip bilmediler. Şol döwürde Tszyly atly bir gahryman bardy — owadan, uzyn boýly we örän güýçli. Tszylynyň iti hem bardy — örän batyr, dişlänini goýbermeýärdi. Bir gün Tszyly öýe dolanyp, goňşy gyzyň atasynyň ýoluň gyrasynda aglaýanyny gördi. Sorap bilensoň, söýgüli we sada gyzyň Si tarapyndan iýilendigini bildi. Tszyly içinden Si-ni öldürip, halky bu betbagtçylykdan gutarmagy ýüregine düwdi. Şeýlelikde iti bilen ýola düşüp, hemme ýerde Si barada sorapdyr, ýöne tapyp bilmändir. Takmynan bir ýyl geçdi; Täze ýyl agşamynda Tszyly janly bir şähere geldi. Ýylyň dowamynda ol Si barada köp zatlary bildi: ol adatça gün ýaşandan soň çykýar we daň atmanka hiç hili yz galdyrman gaçýar; iň möhümi — gaty sesden gorkýar. Şeýlelikde Tszyly şäheriň halkyna: Si bu gije çykyp biler, gije ýatmazlyk ediň we ony gören badyna zatlara urgup ses çykaryň — hemmeler bilelikde öldüreliň. Gün ýaşdy, gije boldy, Si peýda boldy. Ol bir gyzy iýmek isledi, emma maşgalasy ony derrew görüp, gazana, legene urup başlady — az wagtdan bütin şäher gykylykly boldy. Si gaty gorkup gaçdy. Tszylynyň iti ony kowup ýetip, gaty dişledi; Tszyly ylgap gelip, oky bilen ony öldürdi. Si ýok edilenden soň halk biri-birinden Tszylyna minnetdarlyk bildirdi. Bu günüň ähmiýeti uly bolansoň, adamlar her ýyl Täze ýyl agşamynda bütin gije ýatmazlyk edip, şol gün ýaly ses çykaryp başladylar. Şeýlelikde nesilden-nesle geçip, Çusi gijesinde ýatmazlyk we petarda atmak däbi emele geldi."
+    "tk": "Hytaýda aý senenamasy boýunça ýylyň iň soňky güni — on ikinji aýyň otuzynjy güni — Çusi diýilýär. Şol gün tutuş maşgala Täze ýyl agşam naharyna ýygnalyp, giç ýatmazlyk däbi bar. Emma näme üçin oňa Çusi diýilýär? Rowaýata görä, gadymda Si atly bir haýwan köplenç adamlara zyýan ýetiripdir. Adamlar ony gaty ýigrenýärdiler, emma hiç zat edip bilmediler. Şol döwürde Tszyly atly bir gahryman bardy — owadan, uzyn boýly we örän güýçli. Tszylynyň iti hem bardy — örän batyr, dişlänini goýbermeýärdi. Bir gün Tszyly öýe dolanyp, goňşy gyzyň atasynyň ýoluň gyrasynda aglaýanyny gördi. Sorap bilensoň, söýgüli we sada gyzyň Si tarapyndan iýilendigini bildi. Tszyly içinden Si-ni öldürip, halky bu betbagtçylykdan gutarmagy ýüregine düwdi. Şeýlelikde iti bilen ýola düşüp, hemme ýerde Si barada sorapdyr, ýöne tapyp bilmändir. Takmynan bir ýyl geçdi; Täze ýyl agşamynda Tszyly janly bir şähere geldi. Ýylyň dowamynda ol Si barada köp zatlary bildi: ol adatça gün ýaşandan soň çykýar we daň atmanka hiç hili yz galdyrman gaçýar; iň möhümi — gaty sesden gorkýar. Şeýlelikde Tszyly şäheriň halkyna: Si bu gije çykyp biler, gije ýatmazlyk ediň we ony gören badyna zatlara urgup ses çykaryň — hemmeler bilelikde öldüreliň. Gün ýaşdy, gije boldy, Si peýda boldy. Ol bir gyzy iýmek isledi, emma maşgalasy ony derrew görüp, gazana, legene urup başlady — az wagtdan bütin şäher gykylykly boldy. Si gaty gorkup gaçdy. Tszylynyň iti ony kowup ýetip, gaty dişledi; Tszyly ylgap gelip, oky bilen ony öldürdi. Si ýok edilenden soň halk biri-birinden Tszylyna minnetdarlyk bildirdi. Bu günüň ähmiýeti uly bolansoň, adamlar her ýyl Täze ýyl agşamynda bütin gije ýatmazlyk edip, şol gün ýaly ses çykaryp başladylar. Şeýlelikde nesilden-nesle geçip, Çusi gijesinde ýatmazlyk we petarda atmak däbi emele geldi.",
+    "uz": "Xitoyda qamariy yilning oxirgi kuni — o'n ikkinchi oyning o'ttizinchi kuni — Chuxi deb ataladi. Bu kunda butun oila Yangi yil arafasidagi kechki ovqatga yig'iladi va uxlashga yotmaydi. Lekin nega u Chuxi deb ataladi? Afsonaga ko'ra, qadimda Xi ismli yirtqich maxluq yashab, odamlarga tez-tez zarar yetkazardi. Odamlar undan qattiq nafratlanar, ammo hech narsa qila olmasdi. O'sha paytda Qilang ismli qahramon bor edi — kelishgan, baland bo'yli va juda kuchli. Qilangning iti ham bor edi, u juda jasur bo'lib, bir tishlasa qo'yib yubormasdi. Bir kuni uyga qaytayotib, Qilang qo'shni qizning bobosini yo'l chetida yig'layotganini ko'rdi. So'rab bilganida, go'zal, begunoh qizni Xi yeb qo'ygan ekan. Qilang indamay Xi ni o'ldirishga va xalqni bu balodan xalos qilishga ahd qildi. Shunday qilib, u iti bilan yo'lga chiqib, hamma joyda Xi haqida so'radi, ammo topa olmadi. Deyarli bir yil o'tdi; Yangi yil arafasida Qilang gavjum bir shaharchaga yetib keldi. Yil davomida u Xi haqida ko'p narsani bilib oldi: u odatda quyosh botgandan keyin kelib, tong otguncha shu qadar tez qochardiki, soyasi ham qolmasdi; u ayniqsa qattiq shovqindan qo'rqardi. Shuning uchun Qilang shahar aholisiga aytdi: Xi bugun kechqurun kelishi mumkin; uxlamanglar va uni ko'rishingiz bilanoq narsalarni taqillatinglar — hamma birgalikda uni o'ldiraylik. Quyosh botdi; tun tushdi; Xi paydo bo'ldi. U bir qizni yemoqchi bo'ldi, ammo uning oilasi uni payqab, darhol qozon va tovoqlarni taqillatdi — tez orada butun shahar shovqinga to'ldi. Xi dahshatga tushib qochdi. Qilangning iti yetib olib, uni qattiq tishladi; Qilang yugurib kelib, uni o'q bilan o'ldirdi. Xi yo'q bo'lgach, odamlar Qilangga birin-ketin minnatdorchilik bildirdilar. Bu kun mazmunli bo'lgani uchun, odamlar har Yangi yil arafasida xuddi o'sha kechadagidek tun bo'yi uxlamay, narsalarni taqillatib, o'tkazadigan bo'ldilar. Shunday qilib, avloddan-avlodga o'tib, Chuxi kechasida uxlamaslik va petarda otish odati shakllandi.",
+    "tg": "Дар Чин, рӯзи охирини соли қамарӣ — сиюми моҳи дувоздаҳум — Чуси ном дорад. Дар ин рӯз тамоми оила барои хӯроки шоми шаби Соли Нав ҷамъ мешаванд ва то дер вақт бедор мемонанд. Аммо чаро онро Чуси меноманд? Ривоят мегӯяд, ки пешҳо ҳаюлои номӣ Си зиндагӣ мекард, ки аксар вақт барои озор додани одамон берун меомад. Одамон аз ӯ бадбад нафрат доштанд, аммо бечора буданд. Дар он вақт қаҳрамоне бо номи Чилан буд — зебо, қадбаланд ва бениҳоят қавӣ. Чилан инчунин саге дошт, ки бениҳоят далер буд ва ҳангоми газидан сахт медошт. Як рӯз, вақте ки Чилан ба хона бармегашт, падари калони духтари ҳамсояро дид, ки дар канори роҳ гиря мекард. Пурсон шуд ва фаҳмид, ки духтари зебо ва бегуноҳро Си хӯрдааст. Чилан дар дил қарор кард, ки Сиро мекушад ва мардумро аз ин бало наҷот медиҳад. Пас ӯ бо сагаш ба роҳ баромад ва дар ҳама ҷо дар бораи Си пурсиш мекард, аммо ёфта натавонист. Қариб як сол гузашт; дар шаби Соли Нав, Чилан ба шаҳри серодам расид. Дар давоми сол ӯ дар бораи Си бисёр чизҳоро омӯхта буд: одатан он пас аз ғуруби офтоб меомад ва пеш аз субҳ фирор мекард, ки ҳеҷ соя намемонд; он махсусан аз садоҳои баланд метарсид. Пас Чилан ба мардуми шаҳр гуфт: Си имшаб метавонад биёяд; бедор монед ва ҳамин ки онро дидед, ба чизҳо зарба занед — ҳама якҷоя онро мекушем. Офтоб ғуруб кард; шаб омад; Си пайдо шуд. Он кӯшиш кард, ки духтарро хӯрад, аммо оилаи вай онро дид ва дарҳол дегҳо ва табақҳоро зарба зад — ба зудӣ тамоми шаҳр серсадо шуд. Си аз тарс фирор кард. Саги Чилан расид ва онро сахт газед; Чилан давид ва бо тир онро кушта партофт. Пас аз нест шудани Си, мардум яке аз дигаре ба Чилан ташаккур мегуфтанд. Азбаски он рӯз маънои бузург дошт, мардум ҳар шаби Соли Нав тамоми шаб бедор мондан ва ба чизҳо зарба заданро оғоз карданд, мисли он шаб. Ҳамин тавр насл ба насл гузашта, одати бедор мондан дар Чуси ва оташбозӣ ташаккул ёфт.",
+    "id": "Di Tiongkok, hari terakhir tahun lunar — tanggal tiga puluh bulan kedua belas — disebut Chuxi. Pada hari ini, seluruh keluarga berkumpul untuk makan malam Malam Tahun Baru dan begadang. Tapi mengapa disebut Chuxi? Legenda mengatakan dahulu kala hiduplah monster bernama Xi yang sering keluar untuk mencelakai orang. Orang-orang sangat membencinya tetapi tidak berdaya. Saat itu ada seorang pahlawan bernama Qilang — tampan, tinggi, dan sangat kuat. Qilang juga memiliki seekor anjing, sangat berani, yang tidak akan melepaskan gigitannya sekali menggigit. Suatu hari, saat pulang ke rumah, Qilang melihat kakek dari seorang gadis tetangga menangis di pinggir jalan. Setelah bertanya, ia mengetahui gadis yang cantik dan polos itu telah dimakan oleh Xi. Qilang diam-diam bertekad untuk membunuh Xi dan membebaskan rakyat dari momok ini. Maka ia berangkat bersama anjingnya, menanyakan tentang Xi ke mana-mana, tetapi tidak dapat menemukannya. Hampir setahun berlalu; pada Malam Tahun Baru, Qilang tiba di sebuah kota yang ramai. Selama setahun ia telah belajar banyak tentang Xi: biasanya muncul setelah matahari terbenam dan melarikan diri sebelum fajar begitu cepat sehingga tidak ada bayangan yang tersisa; ia sangat takut pada suara keras. Jadi Qilang memberi tahu penduduk kota: Xi mungkin datang malam ini; begadanglah dan begitu kalian melihatnya, pukullah benda-benda — semua orang bunuh dia bersama-sama. Matahari terbenam; malam tiba; Xi muncul. Ia mencoba memakan seorang gadis, tetapi keluarganya melihatnya dan segera memukul panci dan baskom — segera seluruh kota menjadi berisik. Xi melarikan diri dengan ketakutan. Anjing Qilang menyusul dan menggigitnya dengan keras; Qilang berlari mendekat dan menembaknya mati dengan panah. Setelah Xi hilang, orang-orang berterima kasih kepada Qilang satu per satu. Karena hari itu bermakna, orang-orang mulai begadang sepanjang malam setiap Malam Tahun Baru, memukul benda-benda, seperti malam itu. Demikian diwariskan dari generasi ke generasi, terbentuklah kebiasaan begadang pada Chuxi dan menyalakan petasan."
   },
   "vocabulary": [
     {
@@ -42,7 +49,10 @@
       "meaning": {
         "ru": "канун Нового года (Чуси)",
         "tk": "Çusi (Täze ýyl öňüsyrasy)",
-        "en": "New Year's Eve (lunar)"
+        "en": "New Year's Eve (lunar)",
+        "uz": "Yangi yil kechasi (oy taqvimi)",
+        "tg": "Шаби Соли нав (қамарӣ)",
+        "id": "Malam Tahun Baru (lunar)"
       }
     },
     {
@@ -52,7 +62,10 @@
       "meaning": {
         "ru": "происхождение",
         "tk": "gelip çykyş",
-        "en": "origin"
+        "en": "origin",
+        "uz": "kelib chiqishi",
+        "tg": "пайдоиш",
+        "id": "asal-usul"
       }
     },
     {
@@ -62,7 +75,10 @@
       "meaning": {
         "ru": "лунный календарь",
         "tk": "aý senenamasy",
-        "en": "lunar calendar"
+        "en": "lunar calendar",
+        "uz": "oy taqvimi",
+        "tg": "тақвими қамарӣ",
+        "id": "kalender lunar"
       }
     },
     {
@@ -72,7 +88,10 @@
       "meaning": {
         "ru": "не спать в новогоднюю ночь",
         "tk": "Täze ýyl gijesinde ýatmazlyk",
-        "en": "to stay up on New Year's Eve"
+        "en": "to stay up on New Year's Eve",
+        "uz": "Yangi yil kechasida uxlamaslik",
+        "tg": "дар Шаби Соли нав бедор мондан",
+        "id": "begadang pada Malam Tahun Baru"
       }
     },
     {
@@ -82,7 +101,10 @@
       "meaning": {
         "ru": "чудовище",
         "tk": "haýwan (erbet)",
-        "en": "monster"
+        "en": "monster",
+        "uz": "maxluq",
+        "tg": "дев",
+        "id": "monster"
       }
     },
     {
@@ -92,7 +114,10 @@
       "meaning": {
         "ru": "вредить",
         "tk": "zyýan ýetirmek",
-        "en": "to hurt"
+        "en": "to hurt",
+        "uz": "zarar yetkazmoq",
+        "tg": "озор додан",
+        "id": "melukai"
       }
     },
     {
@@ -102,7 +127,10 @@
       "meaning": {
         "ru": "ненавидеть",
         "tk": "ýigrenmek",
-        "en": "to hate"
+        "en": "to hate",
+        "uz": "yomon ko'rmoq",
+        "tg": "нафрат кардан",
+        "id": "membenci"
       }
     },
     {
@@ -112,7 +140,10 @@
       "meaning": {
         "ru": "кость",
         "tk": "süňk",
-        "en": "bone"
+        "en": "bone",
+        "uz": "suyak",
+        "tg": "устухон",
+        "id": "tulang"
       }
     },
     {
@@ -122,7 +153,10 @@
       "meaning": {
         "ru": "ничего не поделать",
         "tk": "iledeç",
-        "en": "to have no way out"
+        "en": "to have no way out",
+        "uz": "chorasiz qolmoq",
+        "tg": "роҳи баромад надоштан",
+        "id": "tidak punya jalan keluar"
       }
     },
     {
@@ -132,7 +166,10 @@
       "meaning": {
         "ru": "герой",
         "tk": "gahryman",
-        "en": "hero"
+        "en": "hero",
+        "uz": "qahramon",
+        "tg": "қаҳрамон",
+        "id": "pahlawan"
       }
     },
     {
@@ -142,7 +179,10 @@
       "meaning": {
         "ru": "красивый (о мужчине)",
         "tk": "gelşikli",
-        "en": "handsome"
+        "en": "handsome",
+        "uz": "kelishgan",
+        "tg": "зебо",
+        "id": "tampan"
       }
     },
     {
@@ -152,7 +192,10 @@
       "meaning": {
         "ru": "кусать",
         "tk": "dişlemek",
-        "en": "to bite"
+        "en": "to bite",
+        "uz": "tishlamoq",
+        "tg": "газидан",
+        "id": "menggigit"
       }
     },
     {
@@ -162,7 +205,10 @@
       "meaning": {
         "ru": "дедушка по матери",
         "tk": "mamanyň kakasy",
-        "en": "maternal grandfather"
+        "en": "maternal grandfather",
+        "uz": "buva",
+        "tg": "бобои модарӣ",
+        "id": "kakek dari pihak ibu"
       }
     },
     {
@@ -172,7 +218,10 @@
       "meaning": {
         "ru": "расспрашивать",
         "tk": "soramak",
-        "en": "to ask"
+        "en": "to ask",
+        "uz": "so'ramoq",
+        "tg": "пурсидан",
+        "id": "bertanya"
       }
     },
     {
@@ -182,7 +231,10 @@
       "meaning": {
         "ru": "наивный",
         "tk": "sadaja",
-        "en": "naive"
+        "en": "naive",
+        "uz": "sodda",
+        "tg": "соддалавҳ",
+        "id": "naif"
       }
     },
     {
@@ -192,7 +244,10 @@
       "meaning": {
         "ru": "убивать",
         "tk": "öldürmek",
-        "en": "to kill"
+        "en": "to kill",
+        "uz": "o'ldirmoq",
+        "tg": "куштан",
+        "id": "membunuh"
       }
     },
     {
@@ -202,7 +257,10 @@
       "meaning": {
         "ru": "для, вместо",
         "tk": "üçin, ýerine",
-        "en": "for, on behalf of"
+        "en": "for, on behalf of",
+        "uz": "uchun, nomidan",
+        "tg": "барои, аз номи",
+        "id": "untuk, atas nama"
       }
     },
     {
@@ -212,7 +270,10 @@
       "meaning": {
         "ru": "избавляться",
         "tk": "ýok etmek",
-        "en": "to get rid of"
+        "en": "to get rid of",
+        "uz": "qutulish",
+        "tg": "халос шудан аз",
+        "id": "menyingkirkan"
       }
     },
     {
@@ -222,7 +283,10 @@
       "meaning": {
         "ru": "создавать, производить",
         "tk": "öndürmek",
-        "en": "to make"
+        "en": "to make",
+        "uz": "qilmoq",
+        "tg": "сохтан",
+        "id": "membuat"
       }
     },
     {
@@ -232,7 +296,10 @@
       "meaning": {
         "ru": "бедствие",
         "tk": "betbagtçylyk",
-        "en": "disaster"
+        "en": "disaster",
+        "uz": "falokat",
+        "tg": "фалокат",
+        "id": "bencana"
       }
     },
     {
@@ -242,7 +309,10 @@
       "meaning": {
         "ru": "убегать",
         "tk": "gaçmak",
-        "en": "to escape"
+        "en": "to escape",
+        "uz": "qochmoq",
+        "tg": "гурехтан",
+        "id": "melarikan diri"
       }
     },
     {
@@ -252,7 +322,10 @@
       "meaning": {
         "ru": "тень",
         "tk": "kölege",
-        "en": "shadow"
+        "en": "shadow",
+        "uz": "soya",
+        "tg": "соя",
+        "id": "bayangan"
       }
     },
     {
@@ -262,7 +335,10 @@
       "meaning": {
         "ru": "кроме того",
         "tk": "mundan başga",
-        "en": "in addition"
+        "en": "in addition",
+        "uz": "bundan tashqari",
+        "tg": "иловатан",
+        "id": "selain itu"
       }
     },
     {
@@ -272,7 +348,10 @@
       "meaning": {
         "ru": "возможно, может быть",
         "tk": "belki",
-        "en": "perhaps"
+        "en": "perhaps",
+        "uz": "ehtimol",
+        "tg": "эҳтимол",
+        "id": "mungkin"
       }
     },
     {
@@ -282,7 +361,10 @@
       "meaning": {
         "ru": "не спать ночью",
         "tk": "gije ýatmazlyk",
-        "en": "to stay up late"
+        "en": "to stay up late",
+        "uz": "kech yotmoq",
+        "tg": "то дер вақт бедор мондан",
+        "id": "begadang"
       }
     },
     {
@@ -292,7 +374,10 @@
       "meaning": {
         "ru": "срочно",
         "tk": "dessine",
-        "en": "immediately"
+        "en": "immediately",
+        "uz": "darhol",
+        "tg": "дарҳол",
+        "id": "segera"
       }
     },
     {
@@ -302,7 +387,10 @@
       "meaning": {
         "ru": "действительно, как и ожидалось",
         "tk": "hakykatdan hem",
-        "en": "as expected"
+        "en": "as expected",
+        "uz": "kutilganidek",
+        "tg": "тавре ки интизор мерафт",
+        "id": "seperti yang diharapkan"
       }
     },
     {
@@ -312,7 +400,10 @@
       "meaning": {
         "ru": "девушка",
         "tk": "gyz",
-        "en": "girl"
+        "en": "girl",
+        "uz": "qiz",
+        "tg": "духтар",
+        "id": "gadis"
       }
     },
     {
@@ -322,7 +413,10 @@
       "meaning": {
         "ru": "кастрюля, котёл",
         "tk": "gazan",
-        "en": "pot"
+        "en": "pot",
+        "uz": "qozon",
+        "tg": "дег",
+        "id": "panci"
       }
     },
     {
@@ -332,7 +426,10 @@
       "meaning": {
         "ru": "таз",
         "tk": "legene",
-        "en": "basin"
+        "en": "basin",
+        "uz": "tovoq",
+        "tg": "тағора",
+        "id": "baskom"
       }
     },
     {
@@ -342,7 +439,10 @@
       "meaning": {
         "ru": "весь, целый",
         "tk": "bütin",
-        "en": "whole"
+        "en": "whole",
+        "uz": "butun",
+        "tg": "тамом",
+        "id": "seluruh"
       }
     },
     {
@@ -352,7 +452,10 @@
       "meaning": {
         "ru": "пугать",
         "tk": "gorkuzmak",
-        "en": "to frighten"
+        "en": "to frighten",
+        "uz": "qoʻrqitmoq",
+        "tg": "тарсондан",
+        "id": "menakuti"
       }
     },
     {
@@ -362,7 +465,10 @@
       "meaning": {
         "ru": "будто, словно",
         "tk": "ýaly",
-        "en": "as if"
+        "en": "as if",
+        "uz": "go'yo",
+        "tg": "гуё",
+        "id": "seolah-olah"
       }
     },
     {
@@ -372,7 +478,10 @@
       "meaning": {
         "ru": "догонять",
         "tk": "kovalamak",
-        "en": "to chase"
+        "en": "to chase",
+        "uz": "quvmoq",
+        "tg": "таъқиб кардан",
+        "id": "mengejar"
       }
     },
     {
@@ -382,7 +491,10 @@
       "meaning": {
         "ru": "стрела",
         "tk": "ok",
-        "en": "arrow"
+        "en": "arrow",
+        "uz": "o'q",
+        "tg": "тир",
+        "id": "panah"
       }
     },
     {
@@ -392,7 +504,10 @@
       "meaning": {
         "ru": "стрелять",
         "tk": "atmak",
-        "en": "to shoot"
+        "en": "to shoot",
+        "uz": "otmoq",
+        "tg": "тир андохтан",
+        "id": "menembak"
       }
     },
     {
@@ -402,7 +517,10 @@
       "meaning": {
         "ru": "один за другим",
         "tk": "biri-birinden",
-        "en": "one after another"
+        "en": "one after another",
+        "uz": "birinketin",
+        "tg": "як пас аз дигаре",
+        "id": "satu demi satu"
       }
     },
     {
@@ -412,7 +530,10 @@
       "meaning": {
         "ru": "выражать",
         "tk": "beýan etmek",
-        "en": "to express"
+        "en": "to express",
+        "uz": "ifodalamoq",
+        "tg": "ифода кардан",
+        "id": "mengungkapkan"
       }
     },
     {
@@ -422,7 +543,10 @@
       "meaning": {
         "ru": "смысл, значение",
         "tk": "many",
-        "en": "meaning"
+        "en": "meaning",
+        "uz": "ma'no",
+        "tg": "маъно",
+        "id": "makna"
       }
     },
     {
@@ -432,7 +556,10 @@
       "meaning": {
         "ru": "хлопушки, петарды",
         "tk": "petardalar",
-        "en": "firecrackers"
+        "en": "firecrackers",
+        "uz": "petardalar",
+        "tg": "таппончаҳо",
+        "id": "petasan"
       }
     },
     {
@@ -442,7 +569,10 @@
       "meaning": {
         "ru": "обычай",
         "tk": "däp",
-        "en": "custom"
+        "en": "custom",
+        "uz": "maxsus",
+        "tg": "одат",
+        "id": "kebiasaan"
       }
     }
   ],
@@ -453,68 +583,101 @@
       "explanation": {
         "ru": "«替» — «заменять кого-то» или «для, ради кого-то».",
         "tk": "«替» — «biriniň ýerine» ýa-da «biri üçin».",
-        "en": "'替' means 'to replace' or 'for the sake of'."
+        "en": "'替' means 'to replace' or 'for the sake of'.",
+        "uz": "'替' 'almashtirmoq' yoki 'uchun' ma'nosini bildiradi.",
+        "tg": "'替' маънои 'иваз кардан' ё 'ба хотири' -ро дорад.",
+        "id": "'替' berarti 'menggantikan' atau 'demi'."
       },
       "examples": [
         {
           "zh": "见了外公，你替我向他问好。",
           "ru": "Увидишь дедушку — передай ему от меня привет.",
           "tk": "Mamanyň kakasyny görseň, menden salam aýt.",
-          "en": "When you see grandpa, say hi to him for me."
+          "en": "When you see grandpa, say hi to him for me.",
+          "uz": "Bobongizni ko'rsangiz, mendan salom ayting.",
+          "tg": "Вақте ки боборо мебинед, аз тарафи ман салом гӯед.",
+          "id": "Kalau kamu bertemu kakek, sampaikan salamku padanya."
         },
         {
           "zh": "刘老师今天有点儿事来不了，你能替替他吗？",
           "ru": "Учитель Лю не может прийти — можешь его заменить?",
           "tk": "Lýu mugallym gelip bilmeýär — onuň ýerine bolup bilermisiň?",
-          "en": "Teacher Liu can't come today — can you substitute?"
+          "en": "Teacher Liu can't come today — can you substitute?",
+          "uz": "Liu o'qituvchi bugun kela olmaydi — o'rniga siz bora olasizmi?",
+          "tg": "Муаллим Лю имрӯз омада наметавонад — шумо метавонед иваз кунед?",
+          "id": "Guru Liu tidak bisa datang hari ini — bisakah kamu menggantikannya?"
         },
         {
           "zh": "七郎暗暗下定决心一定要杀死「夕」，替百姓除掉这个制造灾害的东西。",
           "ru": "Цилан твёрдо решил убить Си и избавить людей от чудовища.",
           "tk": "Tszyly Си-ни öldürip, halky betbagtçylykdan gutarmagy ýüregine düwdi.",
-          "en": "Qilang resolved to kill Xi and rid the people of this scourge."
+          "en": "Qilang resolved to kill Xi and rid the people of this scourge.",
+          "uz": "Qilang Xi ni o'ldirib, xalqni bu balodan xalos qilishga qaror qildi.",
+          "tg": "Қиланг қарор кард, ки Сиро ба қатл расонад ва мардумро аз ин бало халос кунад.",
+          "id": "Qilang bertekad membunuh Xi dan membebaskan rakyat dari malapetaka ini."
         },
         {
           "zh": "李阳要去留学了，我们都替他高兴。",
           "ru": "Ли Ян едет учиться за границу, мы все за него рады.",
           "tk": "Li Ýan daşary ýurda okaýar, biz onuň üçin begenýäris.",
-          "en": "Li Yang is going abroad to study — we're all happy for him."
+          "en": "Li Yang is going abroad to study — we're all happy for him.",
+          "uz": "Li Yang chet elda o'qish uchun ketyapti — biz hammamiz u uchun xursandmiz.",
+          "tg": "Ли Ян ба хориҷа барои таҳсил меравад — мо ҳама барои ӯ шодем.",
+          "id": "Li Yang akan belajar ke luar negeri — kami semua senang untuknya."
         },
         {
           "zh": "你替我买杯咖啡吧。",
           "ru": "Купи мне чашку кофе, пожалуйста.",
           "tk": "Maňa bir käse kofe satyn al.",
-          "en": "Buy me a cup of coffee, please."
+          "en": "Buy me a cup of coffee, please.",
+          "uz": "Iltimos, menga bir piyola kofe oling.",
+          "tg": "Ба ман як пиёла қаҳва бихар, лутфан.",
+          "id": "Belikan aku secangkir kopi, tolong."
         },
         {
           "zh": "他替公司签了合同。",
           "ru": "Он подписал договор от имени компании.",
           "tk": "Ol kompaniýanyň adyndan şertnama gol çekdi.",
-          "en": "He signed the contract on behalf of the company."
+          "en": "He signed the contract on behalf of the company.",
+          "uz": "U kompaniya nomidan shartnomani imzoladi.",
+          "tg": "Ӯ шартномаро аз номи ширкат имзо кард.",
+          "id": "Dia menandatangani kontrak itu atas nama perusahaan."
         },
         {
           "zh": "妈妈替孩子收拾书包。",
           "ru": "Мама собирает рюкзак ребёнку.",
           "tk": "Eje çaga üçin sumka ýygnaýar.",
-          "en": "Mother packs the child's backpack."
+          "en": "Mother packs the child's backpack.",
+          "uz": "Ona bolaning ryukzakini yig'adi.",
+          "tg": "Модар ҷузвдони кӯдакро баста мекунад.",
+          "id": "Ibu mengemasi tas punggung anak itu."
         },
         {
           "zh": "别替他担心了，他没事。",
           "ru": "Не волнуйся за него, с ним всё в порядке.",
           "tk": "Onuň üçin alada etme, oňa hiç zat bolmady.",
-          "en": "Don't worry about him — he's fine."
+          "en": "Don't worry about him — he's fine.",
+          "uz": "U haqida qayg'urmang — u yaxshi.",
+          "tg": "Барои ӯ ғам нахӯр — ӯ хуб аст.",
+          "id": "Jangan khawatir tentang dia — dia baik-baik saja."
         },
         {
           "zh": "我替他向老师请了假。",
           "ru": "Я взял ему отгул у учителя.",
           "tk": "Men onuň üçin mugallymdan rugsat soradym.",
-          "en": "I asked the teacher for leave on his behalf."
+          "en": "I asked the teacher for leave on his behalf.",
+          "uz": "Men uning nomidan o'qituvchidan ruxsat so'radim.",
+          "tg": "Ман аз номи ӯ аз муаллим рухсатӣ пурсидам.",
+          "id": "Saya meminta izin kepada guru atas namanya."
         },
         {
           "zh": "谢谢你替我保密。",
           "ru": "Спасибо, что сохранил мою тайну.",
           "tk": "Syrymy saklanyň üçin sag bol.",
-          "en": "Thanks for keeping my secret."
+          "en": "Thanks for keeping my secret.",
+          "uz": "Sirimni saqlaganingiz uchun rahmat.",
+          "tg": "Ташаккур барои нигоҳ доштани сирри ман.",
+          "id": "Terima kasih telah menjaga rahasiaku."
         }
       ],
       "formula": {
@@ -599,68 +762,101 @@
       "explanation": {
         "ru": "«说不定» — «нельзя сказать наверняка» или «возможно».",
         "tk": "«说不定» — «anyk aýdyp bolmaýar» ýa-da «belki».",
-        "en": "'说不定' means 'can't say for sure' or 'perhaps'."
+        "en": "'说不定' means 'can't say for sure' or 'perhaps'.",
+        "uz": "'说不定' 'aniq aytib bo'lmaydi' yoki 'balki' ma'nosini bildiradi.",
+        "tg": "'说不定' маънои 'бо боварӣ гуфта наметавонам' ё 'эҳтимол' -ро дорад.",
+        "id": "'说不定' berarti 'tidak bisa dipastikan' atau 'mungkin'."
       },
       "examples": [
         {
           "zh": "这事儿经理已经同意了，只是出发的时间还说不定。",
           "ru": "Менеджер уже согласился, только время выезда ещё неизвестно.",
           "tk": "Menejer razy boldy, diňe gitmek wagty belli däl.",
-          "en": "The manager agreed, only the departure time is still uncertain."
+          "en": "The manager agreed, only the departure time is still uncertain.",
+          "uz": "Menejer rozi bo'ldi, faqat jo'nash vaqti hali noaniq.",
+          "tg": "Мудир розӣ шуд, танҳо вақти рафтан ҳанӯз номуайян аст.",
+          "id": "Manajer setuju, hanya waktu keberangkatan yang masih belum pasti."
         },
         {
           "zh": "咱俩到底谁赢谁输还真说不定呢。",
           "ru": "Кто из нас двоих победит — ещё неясно.",
           "tk": "Kim ýeňer, heniz belli däl.",
-          "en": "Who wins between us is still uncertain."
+          "en": "Who wins between us is still uncertain.",
+          "uz": "Oramizda kim g'alaba qozonishi hali noma'lum.",
+          "tg": "Кӣ байни мо ғолиб мешавад, ҳанӯз номуайян аст.",
+          "id": "Siapa yang menang di antara kita masih belum pasti."
         },
         {
           "zh": "周末他起得晚，这会儿说不定还在睡觉呢。",
           "ru": "По выходным он встаёт поздно — сейчас, может, ещё спит.",
           "tk": "Dynç günleri giç turýar — häzir belki ýatyr.",
-          "en": "On weekends he gets up late — he might still be sleeping."
+          "en": "On weekends he gets up late — he might still be sleeping.",
+          "uz": "Dam olish kunlari u kech turadi — balki hali ham uxlayotgandir.",
+          "tg": "Дар рӯзҳои истироҳат ӯ дер хеста мешавад — шояд ҳанӯз хоб аст.",
+          "id": "Pada akhir pekan dia bangun terlambat — dia mungkin masih tidur."
         },
         {
           "zh": "别随随便便就说放弃，说不定下次就成功了。",
           "ru": "Не сдавайся так легко — может, в следующий раз получится.",
           "tk": "Aňsatlyk bilen ynamdan düşme — belki indiki gezek üstünlik gazanyp biler.",
-          "en": "Don't give up so easily — maybe next time you'll succeed."
+          "en": "Don't give up so easily — maybe next time you'll succeed.",
+          "uz": "Bunchalik oson taslim bo'lmang — balki keyingi safar muvaffaqiyatga erisharsiz.",
+          "tg": "Ин қадар зуд таслим нашав — шояд дафъаи оянда муваффақ шавӣ.",
+          "id": "Jangan menyerah begitu mudah — mungkin lain kali kamu akan berhasil."
         },
         {
           "zh": "他今天没来，说不定生病了。",
           "ru": "Он не пришёл — может, заболел.",
           "tk": "Ol gelmedi — belki kesel boldy.",
-          "en": "He didn't come today — maybe he's sick."
+          "en": "He didn't come today — maybe he's sick.",
+          "uz": "U bugun kelmadi — balki kasaldir.",
+          "tg": "Ӯ имрӯз наомад — шояд бемор аст.",
+          "id": "Dia tidak datang hari ini — mungkin dia sakit."
         },
         {
           "zh": "说不定明天会下雪。",
           "ru": "Может, завтра пойдёт снег.",
           "tk": "Belki ertir gar ýagar.",
-          "en": "Maybe it'll snow tomorrow."
+          "en": "Maybe it'll snow tomorrow.",
+          "uz": "Balki ertaga qor yog'adi.",
+          "tg": "Шояд фардо барф борад.",
+          "id": "Mungkin besok akan turun salju."
         },
         {
           "zh": "说不定他已经走了。",
           "ru": "Может, он уже уехал.",
           "tk": "Belki ol eýýäm gitdi.",
-          "en": "Maybe he's already left."
+          "en": "Maybe he's already left.",
+          "uz": "Balki u allaqachon ketgan.",
+          "tg": "Шояд ӯ аллакай рафтааст.",
+          "id": "Mungkin dia sudah pergi."
         },
         {
           "zh": "再等等，说不定还有机会。",
           "ru": "Подожди ещё — может, ещё будет шанс.",
           "tk": "Biraz garaş — belki ýene mümkinçilik bar.",
-          "en": "Wait a bit — maybe there's still a chance."
+          "en": "Wait a bit — maybe there's still a chance.",
+          "uz": "Biroz kuting — balki hali ham imkoniyat bor.",
+          "tg": "Каме интизор шав — шояд ҳанӯз имкон бошад.",
+          "id": "Tunggu sebentar — mungkin masih ada kesempatan."
         },
         {
           "zh": "说不定他已经知道了。",
           "ru": "Может, он уже знает.",
           "tk": "Belki ol eýýäm bilýär.",
-          "en": "Maybe he already knows."
+          "en": "Maybe he already knows.",
+          "uz": "Balki u allaqachon biladi.",
+          "tg": "Шояд ӯ аллакай медонад.",
+          "id": "Mungkin dia sudah tahu."
         },
         {
           "zh": "去问问，说不定有答案。",
           "ru": "Сходи спроси — может, есть ответ.",
           "tk": "Gidip sora — belki jogap bar.",
-          "en": "Go ask — maybe there's an answer."
+          "en": "Go ask — maybe there's an answer.",
+          "uz": "Boring so'rang — balki javob bor.",
+          "tg": "Рав ва бипурс — шояд ҷавобе бошад.",
+          "id": "Pergi tanya — mungkin ada jawabannya."
         }
       ],
       "formula": {
@@ -745,68 +941,101 @@
       "explanation": {
         "ru": "«像/跟/好像……似的» — «словно, как будто».",
         "tk": "«像/跟/好像……似的» — «ýaly, kimin».",
-        "en": "'像 / 跟 / 好像 + … + 似的' means 'as if, like'."
+        "en": "'像 / 跟 / 好像 + … + 似的' means 'as if, like'.",
+        "uz": "'像 / 跟 / 好像 + … + 似的' 'go'yo, kabi' ma'nosini bildiradi.",
+        "tg": "'像 / 跟 / 好像 + … + 似的' маънои 'гуё, монанди' -ро дорад.",
+        "id": "'像 / 跟 / 好像 + … + 似的' berarti 'seolah-olah, seperti'."
       },
       "examples": [
         {
           "zh": "消息一出来，询问情况的电话雪片似的纷纷打来。",
           "ru": "Как только появилась новость, звонки с расспросами посыпались как снежинки.",
           "tk": "Habaryň çykmagy bilen, sorag jaňlary gar ýaly ýagdy.",
-          "en": "Once the news broke, inquiry calls flooded in like snowflakes."
+          "en": "Once the news broke, inquiry calls flooded in like snowflakes.",
+          "uz": "Yangilik tarqalishi bilan so'rov qo'ng'iroqlari qor parchalari kabi yog'ila boshladi.",
+          "tg": "Ҳамин ки хабар паҳн шуд, зангҳои пурсиш мисли барфпораҳо сар шуданд.",
+          "id": "Begitu berita itu tersebar, panggilan pertanyaan membanjir seperti kepingan salju."
         },
         {
           "zh": "我不敢相信这是真的，好像做梦似的。",
           "ru": "Не могу поверить, что это правда — будто во сне.",
           "tk": "Munuň hakykatdygyna ynanamok — ýaly ýaly.",
-          "en": "I can't believe it's real — like a dream."
+          "en": "I can't believe it's real — like a dream.",
+          "uz": "Bu haqiqat ekanligiga ishonolmayman — xuddi tush kabi.",
+          "tg": "Бовар карда наметавонам, ки ин ҳақиқат аст — мисли хоб.",
+          "id": "Aku tidak percaya ini nyata — seperti mimpi."
         },
         {
           "zh": "刘方背着重重的电脑包挤地铁，下班回到家累得什么似的。",
           "ru": "Лю Фан с тяжёлой сумкой с ноутбуком ехал в метро — вернулся домой ужасно уставшим.",
           "tk": "Lýu Fan agyr sumka bilen metroda gitdi — öýe örän ýadaw dolandy.",
-          "en": "Liu Fang rode the subway with a heavy laptop bag — came home dead tired."
+          "en": "Liu Fang rode the subway with a heavy laptop bag — came home dead tired.",
+          "uz": "Liu Fang og'ir noutbuk sumkasi bilan metroda yurdi — uyga juda charchab keldi.",
+          "tg": "Лю Фан бо сумкаи вазнини ноутбук ба метро савор шуд — ба хона тамоман хаста омад.",
+          "id": "Liu Fang naik kereta bawah tanah dengan tas laptop yang berat — pulang ke rumah sangat lelah."
         },
         {
           "zh": "「夕」吓得什么似的，急忙往外逃。",
           "ru": "Си в ужасе бросилось прочь.",
           "tk": "Си gaty gorkup, daşary gaçdy.",
-          "en": "Xi fled in terror."
+          "en": "Xi fled in terror.",
+          "uz": "Si qo'rquvdan qochib ketdi.",
+          "tg": "Си аз даҳшат гурехт.",
+          "id": "Xi melarikan diri karena ketakutan."
         },
         {
           "zh": "他跑得飞快，像一阵风似的。",
           "ru": "Он бежал так быстро, будто порыв ветра.",
           "tk": "Ol şemal ýaly çalt ylgady.",
-          "en": "He ran fast, like a gust of wind."
+          "en": "He ran fast, like a gust of wind.",
+          "uz": "U shamol kabi tez yugurdi.",
+          "tg": "Ӯ тез давид, мисли шамоли тунд.",
+          "id": "Dia berlari cepat, seperti hembusan angin."
         },
         {
           "zh": "她说话像唱歌似的。",
           "ru": "Она говорит, словно поёт.",
           "tk": "Ol aýdym aýdýan ýaly gürleýär.",
-          "en": "She talks as if singing."
+          "en": "She talks as if singing.",
+          "uz": "U xuddi qo'shiq aytayotgandek gapiradi.",
+          "tg": "Ӯ тавре гап мезанад, ки гӯё суруд мехонад.",
+          "id": "Dia berbicara seperti sedang bernyanyi."
         },
         {
           "zh": "他脸色苍白，像个病人似的。",
           "ru": "Он бледен, как больной.",
           "tk": "Onuň ýüzi ak, syrkaw ýaly.",
-          "en": "He's pale, like a sick person."
+          "en": "He's pale, like a sick person.",
+          "uz": "U kasal odam kabi rangi oqarib ketgan.",
+          "tg": "Вай рангпаридааст, мисли бемор.",
+          "id": "Dia pucat, seperti orang sakit."
         },
         {
           "zh": "湖水蓝得像镜子似的。",
           "ru": "Озеро синее, как зеркало.",
           "tk": "Köl aýna ýaly gök.",
-          "en": "The lake is blue like a mirror."
+          "en": "The lake is blue like a mirror.",
+          "uz": "Ko'l oynadek moviy.",
+          "tg": "Кӯл мисли оина кабуд аст.",
+          "id": "Danau itu biru seperti cermin."
         },
         {
           "zh": "他好几天没吃饭，饿得什么似的。",
           "ru": "Он несколько дней не ел — ужасно голоден.",
           "tk": "Ol birnäçe gün iýmedi — gaty aç.",
-          "en": "He hasn't eaten for days — desperately hungry."
+          "en": "He hasn't eaten for days — desperately hungry.",
+          "uz": "U bir necha kundan beri ovqat yemagan — juda och.",
+          "tg": "Вай чанд рӯз аст, ки хӯрок нахӯрдааст — аз гуруснагӣ ба ҳол мемирад.",
+          "id": "Dia belum makan selama berhari-hari — sangat kelaparan."
         },
         {
           "zh": "她高兴得什么似的。",
           "ru": "Она невероятно счастлива.",
           "tk": "Ol örän bagtly.",
-          "en": "She's incredibly happy."
+          "en": "She's incredibly happy.",
+          "uz": "U nihoyatda xursand.",
+          "tg": "Вай бағоят хушҳол аст.",
+          "id": "Dia sangat bahagia."
         }
       ],
       "formula": {
@@ -891,68 +1120,101 @@
       "explanation": {
         "ru": "«纷纷» — «один за другим, гурьбой».",
         "tk": "«纷纷» — «biri-birinden, topar-topar».",
-        "en": "'纷纷' means 'one after another, in succession'."
+        "en": "'纷纷' means 'one after another, in succession'.",
+        "uz": "'纷纷' 'birinketin, ketma-ket' ma'nosini bildiradi.",
+        "tg": "'纷纷' маънои 'як пас аз дигаре, пайиҳам' -ро дорад.",
+        "id": "'纷纷' berarti 'satu demi satu, berturut-turut'."
       },
       "examples": [
         {
           "zh": "秋风刮起，落叶纷纷。",
           "ru": "Подул осенний ветер, листья посыпались.",
           "tk": "Güýz şemaly öwüsdi, ýapraklar ýagyldy.",
-          "en": "The autumn wind blew, leaves falling thick."
+          "en": "The autumn wind blew, leaves falling thick.",
+          "uz": "Kuz shamoli esdi, barglar qalin bo'lib to'kildi.",
+          "tg": "Боди тирамоҳ вазид, баргҳо бисёр мерехтанд.",
+          "id": "Angin musim gugur bertiup, daun-daun berguguran lebat."
         },
         {
           "zh": "他救起了妻子，孩子却被大水冲走了。事后，人们议论纷纷。",
           "ru": "Он спас жену, но ребёнка унесло водой. После все судачили.",
           "tk": "Ol aýalyny gutardy, çaga suwda gark boldy. Soň hemmeler gürrüň etdi.",
-          "en": "He saved his wife but the child was swept away. Afterwards, people talked endlessly."
+          "en": "He saved his wife but the child was swept away. Afterwards, people talked endlessly.",
+          "uz": "U xotinini qutqardi, lekin bola oqib ketdi. Keyin odamlar tinimsiz gapirdilar.",
+          "tg": "Вай занашро наҷот дод, аммо кӯдакро об бурд. Баъд аз ин мардум бениҳоят гап заданд.",
+          "id": "Dia menyelamatkan istrinya tetapi anaknya tersapu arus. Setelah itu, orang-orang membicarakannya tanpa henti."
         },
         {
           "zh": "除掉「夕」以后，百姓纷纷对七郎表达谢意。",
           "ru": "После победы над Си люди один за другим благодарили Цилана.",
           "tk": "Си-ни ýeňenden soň, halk biri-birinden Tszylyna minnetdarlyk bildirdi.",
-          "en": "After defeating Xi, people thanked Qilang one after another."
+          "en": "After defeating Xi, people thanked Qilang one after another.",
+          "uz": "Xi ni yenggandan so'ng, odamlar birin-ketin Qilanga minnatdorchilik bildirdilar.",
+          "tg": "Пас аз шикасти Си, мардум пайи ҳам ба Қиланг ташаккур мегуфтанд.",
+          "id": "Setelah mengalahkan Xi, orang-orang berterima kasih kepada Qilang satu per satu."
         },
         {
           "zh": "要下雨了，路上的人纷纷往家里跑。",
           "ru": "Собирался дождь, люди бросились по домам.",
           "tk": "Ýagyş ýagjak boldy, adamlar öýlerine ylgadylar.",
-          "en": "It was about to rain, people rushed home."
+          "en": "It was about to rain, people rushed home.",
+          "uz": "Yomg'ir yog'ayozgan edi, odamlar uylariga shoshildilar.",
+          "tg": "Борон меборид, мардум ба хонаҳояшон шитоб мекарданд.",
+          "id": "Hampir hujan, orang-orang bergegas pulang."
         },
         {
           "zh": "同学们纷纷举手发言。",
           "ru": "Студенты один за другим поднимали руки.",
           "tk": "Okuwçylar biri-birinden el göterdiler.",
-          "en": "Students raised hands one after another."
+          "en": "Students raised hands one after another.",
+          "uz": "O'quvchilar birin-ketin qo'l ko'tardilar.",
+          "tg": "Донишҷӯён дасти худро яке пас аз дигаре бардоштанд.",
+          "id": "Para siswa mengangkat tangan satu demi satu."
         },
         {
           "zh": "新年快到了，各大商场纷纷推出优惠。",
           "ru": "Скоро Новый год — все магазины один за другим объявляют скидки.",
           "tk": "Täze ýyl ýakynlaşýar — uly dükanlar biri-birinden arzanladyş yglan edýärler.",
-          "en": "New Year's approaching — malls are offering discounts one after another."
+          "en": "New Year's approaching — malls are offering discounts one after another.",
+          "uz": "Yangi yil yaqinlashmoqda — savdo markazlari birin-ketin chegirmalar taklif qilmoqda.",
+          "tg": "Соли нав наздик мешавад — марказҳои савдо яке пас аз дигаре тахфифҳоро пешниҳод мекунанд.",
+          "id": "Tahun Baru semakin dekat — pusat perbelanjaan menawarkan diskon satu demi satu."
         },
         {
           "zh": "接到通知后，同事们纷纷赶来帮忙。",
           "ru": "Получив уведомление, коллеги один за другим пришли помочь.",
           "tk": "Habary alansoň, kärdeşler biri-birinden kömäge geldiler.",
-          "en": "After the notice, colleagues came to help one after another."
+          "en": "After the notice, colleagues came to help one after another.",
+          "uz": "E'londan so'ng hamkasblar birin-ketin yordamga kelishdi.",
+          "tg": "Баъди эълон ҳамкорон яке пас аз дигаре ба кӯмак омаданд.",
+          "id": "Setelah pengumuman, rekan-rekan datang membantu satu demi satu."
         },
         {
           "zh": "游客们纷纷拍照留念。",
           "ru": "Туристы один за другим фотографировались на память.",
           "tk": "Syýahatçylar biri-birinden ýadygärlik üçin surat çekdiler.",
-          "en": "Tourists took photos one after another."
+          "en": "Tourists took photos one after another.",
+          "uz": "Sayyohlar birin-ketin suratga tushishdi.",
+          "tg": "Сайёҳон яке пас аз дигаре сурат гирифтанд.",
+          "id": "Para wisatawan mengambil foto satu demi satu."
         },
         {
           "zh": "听到这个消息，大家纷纷祝贺他。",
           "ru": "Услышав эту новость, все один за другим поздравляли его.",
           "tk": "Bu habary eşidip, hemmeler ony gutlady.",
-          "en": "Hearing the news, everyone congratulated him."
+          "en": "Hearing the news, everyone congratulated him.",
+          "uz": "Xabarni eshitib, hamma uni tabrikladi.",
+          "tg": "Хабарро шунида, ҳама ба ӯ табрик гуфтанд.",
+          "id": "Mendengar kabar itu, semua orang memberi selamat kepadanya."
         },
         {
           "zh": "粉丝们纷纷在网上留言支持他。",
           "ru": "Фанаты один за другим оставляли в интернете слова поддержки.",
           "tk": "Janköýerler ony goldamak üçin internetde biri-birinden ýazdylar.",
-          "en": "Fans posted messages of support online."
+          "en": "Fans posted messages of support online.",
+          "uz": "Muxlislar internetda qo'llab-quvvatlash xabarlarini joylashtirdilar.",
+          "tg": "Мухлисон дар интернет паёмҳои дастгирӣ нашр карданд.",
+          "id": "Para penggemar mengirim pesan dukungan secara online."
         }
       ],
       "formula": {
@@ -1076,7 +1338,10 @@
       "common": {
         "ru": "Оба — «спрашивать, узнавать».",
         "tk": "Ikisi hem «soramak».",
-        "en": "Both mean 'to ask, to inquire'."
+        "en": "Both mean 'to ask, to inquire'.",
+        "uz": "Ikkalasi ham 'so'ramoq, surishtirmoq' ma'nosini bildiradi.",
+        "tg": "Ҳарду маънои 'пурсидан, тафтиш кардан'-ро доранд.",
+        "id": "Keduanya berarti 'bertanya, menanyakan'."
       },
       "differences": [
         {
@@ -1115,7 +1380,10 @@
         "meaning": {
           "ru": "достопримечательности",
           "tk": "taryhy ýerler",
-          "en": "scenic spots and historic sites"
+          "en": "scenic spots and historic sites",
+          "uz": "diqqatga sazovor joylar va tarixiy obidalar",
+          "tg": "ҷойҳои зебои табиат ва ёдгориҳои таърихӣ",
+          "id": "tempat wisata dan situs bersejarah"
         }
       },
       {
@@ -1124,7 +1392,10 @@
         "meaning": {
           "ru": "пейзаж",
           "tk": "manzara",
-          "en": "scenery"
+          "en": "scenery",
+          "uz": "manzara",
+          "tg": "манзара",
+          "id": "pemandangan"
         }
       },
       {
@@ -1133,7 +1404,10 @@
         "meaning": {
           "ru": "выставка",
           "tk": "sergi",
-          "en": "exhibition"
+          "en": "exhibition",
+          "uz": "ko'rgazma",
+          "tg": "намоишгоҳ",
+          "id": "pameran"
         }
       },
       {
@@ -1142,7 +1416,10 @@
         "meaning": {
           "ru": "групповое фото",
           "tk": "topar suraty",
-          "en": "group photo"
+          "en": "group photo",
+          "uz": "guruh surati",
+          "tg": "сурати гурӯҳӣ",
+          "id": "foto bersama"
         }
       },
       {
@@ -1151,7 +1428,10 @@
         "meaning": {
           "ru": "бронировать",
           "tk": "bronlamak",
-          "en": "to reserve"
+          "en": "to reserve",
+          "uz": "band qilmoq",
+          "tg": "фармоиш додан",
+          "id": "memesan"
         }
       },
       {
@@ -1160,7 +1440,10 @@
         "meaning": {
           "ru": "расплатиться",
           "tk": "hasap etmek",
-          "en": "to pay the bill"
+          "en": "to pay the bill",
+          "uz": "hisobni to'lamoq",
+          "tg": "ҳисобро пардохтан",
+          "id": "membayar tagihan"
         }
       },
       {
@@ -1169,7 +1452,10 @@
         "meaning": {
           "ru": "разница во времени",
           "tk": "wagt tapawudy",
-          "en": "time difference"
+          "en": "time difference",
+          "uz": "vaqt farqi",
+          "tg": "фарқи вақт",
+          "id": "perbedaan waktu"
         }
       },
       {
@@ -1178,7 +1464,10 @@
         "meaning": {
           "ru": "Национальный день",
           "tk": "Milli gün",
-          "en": "National Day"
+          "en": "National Day",
+          "uz": "Milliy kun",
+          "tg": "Рӯзи Миллӣ",
+          "id": "Hari Nasional"
         }
       },
       {
@@ -1187,7 +1476,10 @@
         "meaning": {
           "ru": "Новый год (1 января)",
           "tk": "Täze ýyl",
-          "en": "New Year's Day"
+          "en": "New Year's Day",
+          "uz": "Yangi yil kuni",
+          "tg": "Соли Нав",
+          "id": "Hari Tahun Baru"
         }
       },
       {
@@ -1196,7 +1488,10 @@
         "meaning": {
           "ru": "Чуси (канун)",
           "tk": "Çusi",
-          "en": "Lunar New Year's Eve"
+          "en": "Lunar New Year's Eve",
+          "uz": "Oy taqvimi bo'yicha Yangi yil arafasi",
+          "tg": "Шаби Соли Нави Моҳтобӣ",
+          "id": "Malam Tahun Baru Imlek"
         }
       }
     ]
@@ -1205,7 +1500,10 @@
     "discussion": {
       "ru": "Какие обычаи есть в вашей стране на Новый год? Сравните с китайскими.",
       "tk": "Ýurduňyzda Täze ýylda nähili däpler bar? Hytaý bilen deňeşdiriň.",
-      "en": "What New Year customs does your country have? Compare with China's."
+      "en": "What New Year customs does your country have? Compare with China's.",
+      "uz": "Sizning mamlakatingizda qanday Yangi yil urf-odatlari bor? Xitoy bilan solishtiring.",
+      "tg": "Кишвари шумо кадом расму одатҳои Соли Навро дорад? Бо расму одатҳои Чин муқоиса кунед.",
+      "id": "Apa adat Tahun Baru yang dimiliki negaramu? Bandingkan dengan adat Tiongkok."
     }
   },
   "workbook": {

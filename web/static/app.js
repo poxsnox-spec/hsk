@@ -4,12 +4,24 @@ const app = document.getElementById("app");
 // ============================================================
 // Хранилище прогресса (localStorage)
 // ============================================================
+
+// === th: inline-перевод без i18n-ключей (глобальный) ===
+window.th = function th(ru, en, tk, uz, tg, id) {
+  var l = (typeof getLang === "function") ? getLang() : "ru";
+  var m = { ru: ru, en: en, tk: tk, uz: uz || en, tg: tg || en, id: id || en };
+  return m[l] || ru;
+};
+
+
 const LS = {
   activity: "hsk5_activity",       // {"2026-09-23": 5, ...}
   lessons:  "hsk5_lessons_opened", // ["1.1", "1.2", ...]
   srs:      "hsk5_srs",            // {"细节": {ease, interval, due, reps}}
   settings: "hsk5_settings",       // {sessionSize, newPerDay}
 };
+
+
+// --- th: inline перевод без i18n-ключей ---
 
 function lsGet(key, def) {
   try {
@@ -19,6 +31,7 @@ function lsGet(key, def) {
 }
 function lsSet(key, val) {
   try { localStorage.setItem(key, JSON.stringify(val)); } catch (e) {}
+
   if (typeof HSKAuth !== "undefined" && HSKAuth.syncKey) {
     HSKAuth.syncKey(key, val);
   }
@@ -50,24 +63,75 @@ function markLessonOpened(unit, lesson) {
 // Локализация: обратная связь
 // ============================================================
 const FB = {
-  ru: { menu_title: "Обратная связь", menu_sub: "Написать разработчику",
+  ru: {
+    menu_title: "Обратная связь", menu_sub: "Написать разработчику",
     page_title: "Обратная связь", hint: "Нашли ошибку или есть пожелание? Напишите.",
     name: "Ваше имя (необязательно)", name_ph: "Аноним",
     message: "Сообщение", message_ph: "Опишите проблему или идею...",
     send: "Отправить", empty: "Введите текст", sending: "Отправляю...",
-    sent: "Спасибо! Сообщение отправлено.", error: "Не удалось отправить." },
-  tk: { menu_title: "Yza baglanyşyk", menu_sub: "Işläp taýýarlaýja ýaz",
+    sent: "Спасибо! Сообщение отправлено.", error: "Не удалось отправить.",
+  },
+  tk: {
+    menu_title: "Yza baglanyşyk", menu_sub: "Işläp taýýarlaýja ýaz",
     page_title: "Yza baglanyşyk", hint: "Ýalňyşlyk tapdyňyzmy? Ýazyň.",
     name: "Adyňyz (hökman däl)", name_ph: "Näbelli",
     message: "Habar", message_ph: "Meseläni beýan ediň...",
     send: "Ibermek", empty: "Tekst giriziň", sending: "Iberýärin...",
-    sent: "Sag boluň!", error: "Iberip bolmady." },
-  en: { menu_title: "Feedback", menu_sub: "Write to the developer",
+    sent: "Sag boluň!", error: "Iberip bolmady.",
+  },
+  en: {
+    menu_title: "Feedback", menu_sub: "Write to the developer",
     page_title: "Feedback", hint: "Found a bug? Write to me.",
     name: "Your name (optional)", name_ph: "Anonymous",
     message: "Message", message_ph: "Describe problem or idea...",
     send: "Send", empty: "Enter a message", sending: "Sending...",
-    sent: "Thanks! Message sent.", error: "Could not send." },
+    sent: "Thanks! Message sent.", error: "Could not send.",
+  },
+  uz: {
+    menu_title: "Aloqa",
+    menu_sub: "Dasturchiga yozish",
+    page_title: "Aloqa",
+    hint: "Xatolik topdingizmi yoki taklifingiz bormi? Yozing.",
+    name: "Ismingiz (majburiy emas)",
+    name_ph: "Anonim",
+    message: "Xabar",
+    message_ph: "Muammo yoki g'oyani tasvirlab bering...",
+    send: "Yuborish",
+    empty: "Matn kiriting",
+    sending: "Yuborilmoqda...",
+    sent: "Rahmat! Xabar yuborildi.",
+    error: "Yuborib bo'lmadi.",
+  },
+  tg: {
+    menu_title: "Алоқа",
+    menu_sub: "Ба барномасоз нависед",
+    page_title: "Алоқа",
+    hint: "Хато ёфтед ё хоҳише доред? Нависед.",
+    name: "Номи шумо (ихтиёрӣ)",
+    name_ph: "Беном",
+    message: "Паём",
+    message_ph: "Мушкил ё идеяро тавсиф кунед...",
+    send: "Фиристодан",
+    empty: "Матнро ворид кунед",
+    sending: "Фиристода мешавад...",
+    sent: "Ташаккур! Паём фиристода шуд.",
+    error: "Фиристодан муяссар нашуд.",
+  },
+  id: {
+    menu_title: "Umpan Balik",
+    menu_sub: "Kirim pesan ke pengembang",
+    page_title: "Umpan Balik",
+    hint: "Menemukan bug atau punya saran? Tulis di sini.",
+    name: "Nama kamu (opsional)",
+    name_ph: "Anonim",
+    message: "Pesan",
+    message_ph: "Jelaskan masalah atau idemu...",
+    send: "Kirim",
+    empty: "Masukkan teks",
+    sending: "Mengirim...",
+    sent: "Terima kasih! Pesan terkirim.",
+    error: "Gagal mengirim.",
+  },
 };
 function tFb(k) {
   const l = (typeof getLang === "function" ? getLang() : "ru");
@@ -262,6 +326,16 @@ function tU(k) {
   return (UI_T[l] || UI_T.ru)[k] || UI_T.ru[k] || k;
 }
 
+// === UI_T merged from STRINGS ===
+if (typeof STRINGS !== "undefined" && typeof UI_T !== "undefined") {
+  for (var _lang in STRINGS) {
+    if (!UI_T[_lang]) {
+      UI_T[_lang] = Object.assign({}, STRINGS[_lang]);
+    }
+  }
+}
+
+
 // ============================================================
 // Фон
 // ============================================================
@@ -309,8 +383,75 @@ const MENU_ITEMS = [
   { key: "menu_settings",     sub: "settings_sub",     route: "settings",  color: "blue",   icon: "⚙" },
 ];
 
+
+// ============================================================
+// What's New banner
+// ============================================================
+const WN_VERSION = "2026-09-26-v2";
+const WN_KEY = "hsk5_whatsnew_dismissed_" + WN_VERSION;
+
+function wnShowBanner() {
+  try { if (localStorage.getItem(WN_KEY) === "1") return; } catch (e) {}
+  const host = document.getElementById("whatsnew-host");
+  if (!host) return;
+
+  host.innerHTML = `
+    <div id="wn-banner" style="
+      position:relative;
+      margin:14px 0 18px;
+      padding:18px 20px 16px;
+      border-radius:14px;
+      background:linear-gradient(135deg, rgba(102,178,255,0.10), rgba(92,214,142,0.08));
+      border:1px solid rgba(102,178,255,0.35);
+      box-shadow:0 8px 28px rgba(74,158,255,0.15);
+      animation:wnFadeIn .5s ease;
+    ">
+      <style>
+        @keyframes wnFadeIn { from { opacity:0; transform:translateY(-10px); } to { opacity:1; transform:none; } }
+        @keyframes wnPop { 0% { transform:scale(.6); } 60% { transform:scale(1.12); } 100% { transform:scale(1); } }
+        #wn-banner ul { margin:8px 0 0; padding-left:22px; }
+        #wn-banner li { margin:5px 0; color:#D9E6F2; font-size:13.5px; line-height:1.5; }
+        #wn-banner b { color:#7EE0FF; }
+      </style>
+      <button id="wn-close" type="button" title="Dismiss" style="
+        position:absolute;top:8px;right:10px;
+        background:transparent;border:0;color:#6E7A8A;
+        font-size:20px;cursor:pointer;line-height:1;padding:4px 8px;
+      ">✕</button>
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px">
+        <span style="font-size:24px;animation:wnPop .5s ease">🎉</span>
+        <span style="font-size:16px;font-weight:700;color:#E6EDF5">What's new — September 26, 2026</span>
+      </div>
+      <div style="font-size:13px;color:#A6B4C2;margin-bottom:6px">
+        Major update: 6 languages, smarter SRS, and many improvements.
+      </div>
+      <ul>
+        <li><b>6 languages</b> — English, Русский, Türkmen, O'zbek, Тоҷикӣ, Indonesia. Full UI + lesson translations.</li>
+        <li><b>Anki-style SRS</b> — learning steps (1m → 10m → 1d), ease factor, lapses, delay bonus. Exactly like AnkiDroid.</li>
+        <li><b>SRS settings</b> — tweak learning steps, graduating interval, ease, easy bonus, and more.</li>
+        <li><b>SRS stats</b> — retention rate, state distribution, 7-day forecast.</li>
+        <li><b>Lesson picker in SRS</b> — pick specific lessons before reviewing.</li>
+        <li><b>Audio on SRS cards</b> — tap 🔊 to hear the word (836 words).</li>
+        <li><b>Export / Import SRS</b> — JSON backup for moving between devices.</li>
+        <li><b>Animated SRS tutorial</b> — tap the "?" button for a quick guide.</li>
+        <li><b>Language picker on first launch</b> — choose your language right away.</li>
+        <li><b>Feedback form</b> now works in all 6 languages.</li>
+        <li><b>Lesson content</b> — all 18 lessons fully translated to uz / tg / id.</li>
+        <li><b>Removed</b> the old "Täze täzelikler" banner.</li>
+      </ul>
+    </div>`;
+
+  const x = document.getElementById("wn-close");
+  if (x) x.addEventListener("click", function () {
+    const b = document.getElementById("wn-banner");
+    if (b) { b.style.transition = "opacity .25s"; b.style.opacity = "0"; setTimeout(function(){ b.remove(); }, 250); }
+    try { localStorage.setItem(WN_KEY, "1"); } catch (e) {}
+  });
+}
+
 function renderMainMenu() {
   app.innerHTML = `
+    <div id="whatsnew-host"></div>
     <div class="header">
       <span class="logo">中文</span>
       <span class="dot">·</span>
@@ -364,7 +505,7 @@ function renderMainMenu() {
       <div class="continue-icon">▶</div>
       <div>
         <div class="continue-title">${t("continue")}</div>
-        <div class="continue-sub">${lessons.length ? "Уроки" : "Начни с Урока 1.1"}</div>
+        <div class="continue-sub">${lessons.length ? th("Уроки", "Lessons", "Sapaklar", "Darslar", "Дарсҳо", "Pelajaran") : th("Начни с Урока 1.1", "Start with Lesson 1.1", "1.1-nji sapakdan başla", "1.1-darsdan boshlang", "Аз дарси 1.1 оғоз кунед", "Mulai dari Pelajaran 1.1")}</div>
       </div>
     </div>
     <button class="side-btn" id="btn-lang">
@@ -373,7 +514,7 @@ function renderMainMenu() {
     </button>
     ${!(window.HSK_USER && window.HSK_USER.guest) ? `<button class="side-btn" id="btn-profile">
       <span style="font-size:18px">${(window.HSK_USER && window.HSK_USER.avatar) || "👤"}</span>
-      <span>${(window.HSK_USER && window.HSK_USER.name) || "Профиль"}</span>
+      <span>${(window.HSK_USER && window.HSK_USER.name) || th("Профиль", "Profile", "Profil", "Profil", "Профил", "Profil")}</span>
     </button>` : ""}
     ${(window.HSK_USER && window.HSK_USER.is_admin) ? `
     <button class="side-btn" id="btn-admin" style="color:#FFB84D">
@@ -382,7 +523,7 @@ function renderMainMenu() {
     </button>` : ""}
     ${!(window.HSK_USER && window.HSK_USER.guest) ? `<button class="side-btn" id="btn-logout" style="color:#FF6B6B">
       <span style="font-size:18px">⎋</span>
-      <span>Выйти</span>
+      <span>${th("Выйти", "Log out", "Çykyş", "Chiqish", "Баромадан", "Keluar")}</span>
     </button>` : ""}
     <div class="streak-card">
       <div style="font-size:28px">🔥</div>
@@ -404,20 +545,28 @@ function renderMainMenu() {
       ${tU("prg_today")}: ${todayCount}
     </div>`;
   document.getElementById("btn-continue").addEventListener("click", () => navigate("lessons"));
-  document.getElementById("btn-lang").addEventListener("click", () => cycleLang());
+  document.getElementById("btn-lang").addEventListener("click", () => { if (typeof window.showLangPicker === "function") { window.showLangPicker(true); } else { cycleLang(); } });
   const btnProf = document.getElementById("btn-profile");
   const btnOut = document.getElementById("btn-logout");
   const btnAdmin = document.getElementById("btn-admin");
   if (btnAdmin) btnAdmin.addEventListener("click", () => navigate("admin"));
   if (btnProf) btnProf.addEventListener("click", () => navigate("profile"));
   if (btnOut) btnOut.addEventListener("click", () => {
-    if (confirm("Выйти из аккаунта? Прогресс сохранён на сервере.")) {
+    if (confirm(th("Выйти из аккаунта? Прогресс сохранён на сервере.", "Log out? Your progress is saved on the server.", "Hasapdan çykmalymy? Ösüş serwerde saklanýar.", "Hisobdan chiqmoqchimisiz? Taraqqiyot serverda saqlanadi.", "Аз ҳисоб бароред? Пешрафт дар сервер нигоҳ дошта мешавад.", "Keluar dari akun? Progres tersimpan di server."))) {
       HSKAuth.logout();
     }
   });
+  if (typeof wnShowBanner === 'function') wnShowBanner();
 }
 function langName() {
-  return { ru: "Сменить язык", tk: "Dili çalyş", en: "Change language" }[getLang()];
+  return {
+    ru: "Сменить язык",
+    en: "Change language",
+    tk: "Dili çalyş",
+    uz: "Tilni o'zgartirish",
+    tg: "Иваз кардани забон",
+    id: "Ganti bahasa",
+  }[getLang()] || "Change language";
 }
 function cycleLang() {
   const o = ["ru", "tk", "en"], c = getLang();
@@ -1277,8 +1426,8 @@ async function renderSrs() {
   }
   const setBtn = document.getElementById("srs-settings");
   if (setBtn) setBtn.addEventListener("click", () => srsShowSettings());
-  srsAddHelpButton();
-  srsTutorialMaybeShow();
+  // srsAddHelpButton(); // removed — tutorial disabled
+  // srsTutorialMaybeShow(); // removed — tutorial disabled
 }
 
 function srsStartSession(size) {
@@ -1736,7 +1885,7 @@ function srsRenderStatsCard() {
   ).join("");
 
   const maxUp = Math.max(1, ...s.upcoming);
-  const days = ["Сегодня","+1","+2","+3","+4","+5","+6"];
+  const days = [th("Сегодня","Today","Şu gün","Bugun","Имрӯз","Hari ini"),"+1","+2","+3","+4","+5","+6"];
   const bars = s.upcoming.map((n, i) => {
     const h = Math.round((n / maxUp) * 60);
     return `<div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px">
@@ -1750,11 +1899,11 @@ function srsRenderStatsCard() {
 
   return `
     <div class="content-card" style="margin-top:14px;padding:16px">
-      <div style="font-size:14px;font-weight:600;margin-bottom:12px;color:#E6EDF5">📊 Статистика</div>
+      <div style="font-size:14px;font-weight:600;margin-bottom:12px;color:#E6EDF5">📊 ${th("Статистика","Statistics","Statistika","Statistika","Омор","Statistik")}</div>
 
       <div style="display:flex;gap:16px;flex-wrap:wrap;margin-bottom:14px">
         <div style="flex:1;min-width:140px">
-          <div style="font-size:11px;color:#8B9AAB;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:4px">Всего</div>
+          <div style="font-size:11px;color:#8B9AAB;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:4px">${tU("act_total")}</div>
           <div style="font-size:22px;font-weight:700;color:#E6EDF5">${s.total}</div>
         </div>
         <div style="flex:1;min-width:140px">
@@ -1768,7 +1917,7 @@ function srsRenderStatsCard() {
       </div>
       <div style="display:flex;flex-wrap:wrap;gap:12px;margin-bottom:16px">${legendHtml}</div>
 
-      <div style="font-size:12px;color:#8B9AAB;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:6px">Прогноз на 7 дней</div>
+      <div style="font-size:12px;color:#8B9AAB;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:6px">${th("Прогноз на 7 дней","7-day forecast","7 günlük çaklama","7 kunlik prognoz","Пешгӯии 7 рӯз","Prakiraan 7 hari")}</div>
       <div style="display:flex;gap:4px;height:100px;align-items:flex-end">${bars}</div>
     </div>`;
 }
@@ -1947,7 +2096,7 @@ async function renderLesson(unit, index) {
   document.getElementById("back").addEventListener("click", () => navigate("lessons"));
   try {
     const r = await fetch(`/api/lessons/${unit}/${index}`);
-    if (!r.ok) throw new Error("Урок не найден");
+    if (!r.ok) throw new Error(tU("err_lesson_notfound"));
     currentLesson = await r.json();
     currentLesson.unit = unit;
     currentLesson.index = index;
@@ -2303,7 +2452,7 @@ function tabExercise(c) {
       <div><div class="exercise-title">${x.t}</div>
       <div class="exercise-sub">${x.s}</div></div>
       <div class="card-chevron" style="margin-left:auto">›</div>`;
-    e.addEventListener("click", () => alert("Появится в следующих итерациях"));
+    e.addEventListener("click", () => alert(tU("err_coming_soon")));
     c.appendChild(e);
   }
 }
@@ -2406,7 +2555,7 @@ function renderProfile() {
 
   app.innerHTML = `
     <button class="back-btn" id="back">‹ ${t("back")}</button>
-    <div class="header"><span class="app-name">👤 Профиль</span></div>
+    <div class="header"><span class="app-name">👤 ${th("Профиль", "Profile", "Profil", "Profil", "Профил", "Profil")}</span></div>
     <div class="content-card" style="max-width:600px;margin:20px auto;padding:30px">
       <div style="display:flex;align-items:center;gap:20px;margin-bottom:26px">
         <div style="width:76px;height:76px;border-radius:50%;background:linear-gradient(135deg,#4a9eff,#66B2FF);display:flex;align-items:center;justify-content:center;font-size:40px">
@@ -2415,26 +2564,26 @@ function renderProfile() {
         <div>
           <div style="font-size:24px;font-weight:700">${escapeHtml(u.name || "")}</div>
           <div style="color:#8B9AAB;font-size:14px;margin-top:4px">${escapeHtml(u.email || "")}</div>
-          ${u.is_admin ? '<div style="color:#FFB84D;font-size:12px;margin-top:4px">👑 Администратор</div>' : ''}
+          ${u.is_admin ? '<div style="color:#FFB84D;font-size:12px;margin-top:4px">👑 ${th("Администратор","Administrator","Administrator","Administrator","Администратор","Administrator")}</div>' : ''}
         </div>
       </div>
 
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:14px">
         <div>
           <div style="font-size:22px;font-weight:700;color:#66B2FF">${lessons.length} / 18</div>
-          <div style="font-size:12px;color:#8B9AAB">Уроков открыто</div>
+          <div style="font-size:12px;color:#8B9AAB">${th("Уроков открыто", "Lessons opened", "Açylan sapaklar", "Ochilgan darslar", "Дарсҳои кушода", "Pelajaran dibuka")}</div>
         </div>
         <div>
           <div style="font-size:22px;font-weight:700;color:#66B2FF">${Object.keys(srs).length}</div>
-          <div style="font-size:12px;color:#8B9AAB">Слов в SRS</div>
+          <div style="font-size:12px;color:#8B9AAB">${th("Слов в SRS", "Words in SRS", "SRS-de sözler", "SRS-dagi so'zlar", "Калимаҳо дар SRS", "Kata di SRS")}</div>
         </div>
         <div>
           <div style="font-size:22px;font-weight:700;color:#FFB84D">${streak} 🔥</div>
-          <div style="font-size:12px;color:#8B9AAB">Стрик</div>
+          <div style="font-size:12px;color:#8B9AAB">${tU("prg_streak")}</div>
         </div>
         <div>
           <div style="font-size:22px;font-weight:700;color:#5CD68E">${actions}</div>
-          <div style="font-size:12px;color:#8B9AAB">Всего действий</div>
+          <div style="font-size:12px;color:#8B9AAB">${tU("prg_total")}</div>
         </div>
       </div>
 
@@ -2443,17 +2592,17 @@ function renderProfile() {
       </div>
 
       <button id="p-edit" style="margin-top:20px;padding:10px 20px;border-radius:8px;background:transparent;color:#66B2FF;border:1px solid #66B2FF;cursor:pointer;font-size:14px">
-        Редактировать профиль
+        ${th("Редактировать профиль", "Edit profile", "Profili üýtgetmek", "Profilni tahrirlash", "Таҳрири профил", "Edit profil")}
       </button>
 
       <button id="p-out" style="margin-top:12px;margin-left:8px;padding:10px 20px;border-radius:8px;background:transparent;color:#FF6B6B;border:1px solid #FF6B6B;cursor:pointer;font-size:14px">
-        Выйти
+        ${th("Выйти", "Log out", "Çykyş", "Chiqish", "Баромадан", "Keluar")}
       </button>
     </div>`;
 
   document.getElementById("back").addEventListener("click", () => navigate("menu"));
   document.getElementById("p-out").addEventListener("click", () => {
-    if (confirm("Выйти из аккаунта?")) HSKAuth.logout();
+    if (confirm(th("Выйти из аккаунта?", "Log out?", "Hasapdan çykmalymy?", "Hisobdan chiqmoqchimisiz?", "Аз ҳисоб бароред?", "Keluar dari akun?"))) HSKAuth.logout();
   });
   document.getElementById("p-edit").addEventListener("click", () => {
     if (typeof showEditProfile === "function") showEditProfile();
@@ -2469,19 +2618,19 @@ async function renderAdmin() {
   if (!u.is_admin) {
     app.innerHTML = `<div class="content-card" style="margin:40px auto;max-width:500px;text-align:center">
       <div style="font-size:48px">🔒</div>
-      <div style="margin-top:14px">Доступ только для администратора</div></div>`;
+      <div style="margin-top:14px">${tU("admin_only")}</div></div>`;
     return;
   }
   app.innerHTML = `
     <button class="back-btn" id="back">‹ ${t("back")}</button>
-    <div class="header"><span class="app-name">👑 Пользователи</span></div>
+    <div class="header"><span class="app-name">👑 ${th("Пользователи","Users","Ulanyjylar","Foydalanuvchilar","Корбарон","Pengguna")}</span></div>
     <div id="content" class="loading">${t("loading")}</div>`;
   document.getElementById("back").addEventListener("click", () => navigate("menu"));
 
   const r = await fetch("/api/admin/users", { credentials: "same-origin" });
   if (!r.ok) {
     document.getElementById("content").innerHTML =
-      `<div style="color:#FF6B6B;padding:20px">Не удалось загрузить</div>`;
+      `<div style="color:#FF6B6B;padding:20px">${th("Не удалось загрузить","Failed to load","Ýükläp bolmady","Yuklab bo'lmadi","Боргирӣ нашуд","Gagal memuat")}</div>`;
     return;
   }
   const j = await r.json();
@@ -2497,19 +2646,19 @@ async function renderAdmin() {
     <div class="content-card" style="margin-top:14px">
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:14px;margin-bottom:20px">
         <div><div style="font-size:26px;font-weight:700;color:#66B2FF">${totalUsers}</div>
-             <div style="font-size:12px;color:#8B9AAB">Всего</div></div>
+             <div style="font-size:12px;color:#8B9AAB">${tU("act_total")}</div></div>
         <div><div style="font-size:26px;font-weight:700;color:#5CD68E">${activeUsers}</div>
-             <div style="font-size:12px;color:#8B9AAB">Активировано</div></div>
+             <div style="font-size:12px;color:#8B9AAB">${tU("admin_activated")}</div></div>
         <div><div style="font-size:26px;font-weight:700;color:#FFB84D">${admins}</div>
-             <div style="font-size:12px;color:#8B9AAB">Админов</div></div>
+             <div style="font-size:12px;color:#8B9AAB">${tU("admin_admins")}</div></div>
       </div>
       <table class="vocab-table" id="users-table">
         <thead><tr>
-          <th>Пользователь</th>
+          <th>${tU("admin_user")}</th>
           <th>Email</th>
-          <th style="width:100px">Дата</th>
-          <th style="width:70px">Ключей</th>
-          <th style="width:90px">Статус</th>
+          <th style="width:100px">${tU("admin_date")}</th>
+          <th style="width:70px">${tU("admin_keys")}</th>
+          <th style="width:90px">${tU("admin_status")}</th>
           <th style="width:70px"></th>
         </tr></thead><tbody></tbody>
       </table>
@@ -2530,11 +2679,11 @@ async function renderAdmin() {
       <td style="font-size:12px;color:#8B9AAB">${created}</td>
       <td style="font-size:12px;color:#8B9AAB">${x.progress_keys || 0}</td>
       <td style="font-size:12px;color:${x.activated ? "#5CD68E" : "#FFB84D"}">
-        ${x.activated ? "✓ активен" : "⏳ не активирован"}</td>
+        ${x.activated ? th("✓ активен","✓ active","✓ işjeň","✓ faol","✓ фаъол","✓ aktif") : th("⏳ не активирован","⏳ not activated","⏳ işjeň däl","⏳ faol emas","⏳ фаъол нест","⏳ belum aktif")}</td>
       <td>
         ${!x.is_admin ? `<button class="del-user" data-id="${x.id}" data-name="${escapeHtml(x.name)}"
           style="padding:4px 10px;border-radius:6px;background:transparent;color:#FF6B6B;
-                 border:1px solid #FF6B6B;cursor:pointer;font-size:12px">Удалить</button>` : ""}
+                 border:1px solid #FF6B6B;cursor:pointer;font-size:12px">${tU("admin_delete")}</button>` : ""}
       </td>`;
     tbody.appendChild(tr);
   }
@@ -2551,7 +2700,7 @@ async function renderAdmin() {
         btn.closest("tr").remove();
       } else {
         const j = await r.json();
-        alert(j.error || "Не удалось");
+        alert(j.error || tU("err_failed"));
       }
     });
   });
@@ -2563,11 +2712,11 @@ async function renderAdmin() {
 function renderForgot() {
   app.innerHTML = `
     <div class="auth-wrap">
-      <div class="auth-logo">Сброс пароля</div>
-      <div class="auth-sub">Введи email — пришлём ссылку для сброса</div>
+      <div class="auth-logo">${tU("auth_reset")}</div>
+      <div class="auth-sub">${th("Введи email — пришлём ссылку для сброса","Enter email — we'll send a reset link","Email giriziň — täze şifr salgysyny ibereris","Emailni kiriting — tiklash havolasini yuboramiz","Email-ро ворид кунед — пайванди барқарорсозӣ мефиристем","Masukkan email — kami kirim tautan reset")}</div>
       <label class="auth-label">Email</label>
       <input id="fp-email" class="auth-input" type="email">
-      <button id="fp-btn" class="auth-btn">Отправить ссылку</button>
+      <button id="fp-btn" class="auth-btn">${th("Отправить ссылку","Send link","Salgyny iber","Havolani yuborish","Пайвандро фиристодан","Kirim tautan")}</button>
       <button id="fp-back" class="auth-btn" style="background:transparent;color:#8B9AAB;font-weight:400;font-size:14px;padding:10px">
         ← Ко входу
       </button>
@@ -2582,9 +2731,9 @@ function renderForgot() {
   };
   btn.onclick = async () => {
     const e = email.value.trim();
-    if (!e) return setAuthMsg(msg, "Введите email", "error");
+    if (!e) return setAuthMsg(msg, tU("err_email"), "error");
     btn.disabled = true;
-    setAuthMsg(msg, "Отправляю...", "info");
+    setAuthMsg(msg, tU("err_sending"), "info");
     const r = await fetch("/api/auth/forgot", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -2592,8 +2741,8 @@ function renderForgot() {
     });
     btn.disabled = false;
     const j = await r.json().catch(() => ({}));
-    if (r.ok) setAuthMsg(msg, "Письмо отправлено. Проверьте почту.", "ok");
-    else setAuthMsg(msg, j.error || "Ошибка", "error");
+    if (r.ok) setAuthMsg(msg, tU("auth_mail_sent"), "ok");
+    else setAuthMsg(msg, j.error || tU("err_short"), "error");
   };
 }
 
@@ -2609,13 +2758,13 @@ function setAuthMsg(el, text, kind) {
 async function renderReset(token) {
   app.innerHTML = `
     <div class="auth-wrap">
-      <div class="auth-logo">Новый пароль</div>
-      <div class="auth-sub">Введи новый пароль для своего аккаунта</div>
-      <label class="auth-label">Новый пароль (минимум 6 символов)</label>
+      <div class="auth-logo">${tU("auth_new_pass")}</div>
+      <div class="auth-sub">${th("Введи новый пароль для своего аккаунта","Enter a new password for your account","Hasabyňyz üçin täze şifr giriziň","Hisobingiz uchun yangi parol kiriting","Барои ҳисоби худ пароли нав ворид кунед","Masukkan kata sandi baru untuk akunmu")}</div>
+      <label class="auth-label">${th("Новый пароль (минимум 6 символов)","New password (min 6 chars)","Täze şifr (iň az 6 simwol)","Yangi parol (kamida 6 belgi)","Пароли нав (ҳадди ақал 6 аломат)","Kata sandi baru (min 6 karakter)")}</label>
       <input id="rs-pass" class="auth-input" type="password">
-      <label class="auth-label">Повторите</label>
+      <label class="auth-label">${th("Повторите","Repeat","Gaýtalaň","Takrorlang","Такрор кунед","Ulangi")}</label>
       <input id="rs-pass2" class="auth-input" type="password">
-      <button id="rs-btn" class="auth-btn">Установить пароль</button>
+      <button id="rs-btn" class="auth-btn">${tU("auth_set_pass")}</button>
       <div id="rs-msg" class="auth-msg"></div>
     </div>`;
   const msg = document.getElementById("rs-msg");
@@ -2623,10 +2772,10 @@ async function renderReset(token) {
   const p2 = document.getElementById("rs-pass2");
   const btn = document.getElementById("rs-btn");
   btn.onclick = async () => {
-    if (p1.value.length < 6) return setAuthMsg(msg, "Минимум 6 символов", "error");
-    if (p1.value !== p2.value) return setAuthMsg(msg, "Пароли не совпадают", "error");
+    if (p1.value.length < 6) return setAuthMsg(msg, tU("auth_min6"), "error");
+    if (p1.value !== p2.value) return setAuthMsg(msg, tU("auth_pass_mismatch"), "error");
     btn.disabled = true;
-    setAuthMsg(msg, "Сохраняю...", "info");
+    setAuthMsg(msg, tU("err_saving"), "info");
     const r = await fetch(`/api/auth/reset/${encodeURIComponent(token)}`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -2635,14 +2784,14 @@ async function renderReset(token) {
     btn.disabled = false;
     const j = await r.json().catch(() => ({}));
     if (r.ok) {
-      setAuthMsg(msg, "Пароль обновлён. Открываю...", "ok");
+      setAuthMsg(msg, tU("auth_pass_updated"), "ok");
       window.HSK_USER = j.user;
       setTimeout(() => {
         window.location.hash = "menu";
         window.location.reload();
       }, 900);
     } else {
-      setAuthMsg(msg, j.error || "Ошибка", "error");
+      setAuthMsg(msg, j.error || tU("err_short"), "error");
     }
   };
 }
@@ -2659,15 +2808,15 @@ function showEditProfile() {
   const html = `
     <div id="edit-modal" style="position:fixed;inset:0;background:rgba(0,0,0,0.7);z-index:9999;display:flex;align-items:center;justify-content:center;padding:20px">
       <div style="background:#0e1620;border-radius:16px;padding:26px;max-width:440px;width:100%;max-height:90vh;overflow-y:auto;color:#F0F4F8">
-        <h3 style="margin:0 0 20px;color:#66B2FF">Редактировать профиль</h3>
-        <label class="auth-label">Имя</label>
+        <h3 style="margin:0 0 20px;color:#66B2FF">${th("Редактировать профиль","Edit profile","Profili üýtgetmek","Profilni tahrirlash","Таҳрири профил","Edit profil")}</h3>
+        <label class="auth-label">${tU("auth_name")}</label>
         <input id="ep-name" class="auth-input" type="text" value="${escapeHtml(u.name || "")}" maxlength="60">
-        <label class="auth-label" style="margin-top:14px;display:block">Аватар</label>
+        <label class="auth-label" style="margin-top:14px;display:block">${th("Аватар","Avatar","Awatar","Avatar","Аватар","Avatar")}</label>
         <div id="ep-avatars" style="display:flex;flex-wrap:wrap;gap:6px;margin-top:8px"></div>
         <div id="ep-msg" class="auth-msg"></div>
         <div style="display:flex;gap:10px;margin-top:22px">
-          <button id="ep-save" class="auth-btn" style="margin-top:0">Сохранить</button>
-          <button id="ep-cancel" class="auth-btn" style="margin-top:0;background:#2a3f5a">Отмена</button>
+          <button id="ep-save" class="auth-btn" style="margin-top:0">${tU("auth_save")}</button>
+          <button id="ep-cancel" class="auth-btn" style="margin-top:0;background:#2a3f5a">${tU("auth_cancel")}</button>
         </div>
       </div>
     </div>`;
@@ -2695,10 +2844,10 @@ function showEditProfile() {
   };
   document.getElementById("ep-save").onclick = async () => {
     const nm = document.getElementById("ep-name").value.trim();
-    if (!nm) return setAuthMsg(msg, "Имя не может быть пустым", "error");
+    if (!nm) return setAuthMsg(msg, tU("auth_name_empty"), "error");
     const btn = document.getElementById("ep-save");
     btn.disabled = true;
-    setAuthMsg(msg, "Сохраняю...", "info");
+    setAuthMsg(msg, tU("err_saving"), "info");
     const r = await fetch("/api/auth/profile", {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
@@ -2712,7 +2861,7 @@ function showEditProfile() {
       document.getElementById("edit-modal").remove();
       navigate("profile");
     } else {
-      setAuthMsg(msg, j.error || "Ошибка", "error");
+      setAuthMsg(msg, j.error || tU("err_short"), "error");
     }
   };
 }
@@ -3007,7 +3156,7 @@ async function bootApp() {
     }
     drawBackgroundPattern();
     navigate(window.location.hash.slice(1) || "menu");
-    setTimeout(maybeShowUpdateBanner, 500);
+    /* update banner disabled */
   } catch (e) {
     document.getElementById("app").innerHTML =
       `<div style="padding:40px;color:#FF6B6B;font-size:14px">Ошибка соединения: ${e.message}</div>`;
@@ -3029,3 +3178,5 @@ window.addEventListener("hashchange", () => {
 });
 
 bootApp();
+
+// fix_all_screens applied

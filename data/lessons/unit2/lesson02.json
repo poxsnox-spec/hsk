@@ -5,7 +5,8 @@
     "tk": "Tszinan çeşmeleri",
     "en": "Spring Water in Ji'nan",
     "uz": "Tszinan buloqlari",
-    "tg": "Чашмаҳои Тсинан"
+    "tg": "Чашмаҳои Тсинан",
+    "id": "Mata Air Musim Semi di Ji'nan"
   },
   "audio_files": {
     "textbook_1": "textbook_1.mp3",
@@ -18,7 +19,10 @@
     "question": {
       "ru": "Пробовали ли вы природную ключевую воду? Опишите её.",
       "tk": "Tebigy çeşme suwuny dadyp gördüňizmi?",
-      "en": "Have you tried natural spring water? Describe it."
+      "en": "Have you tried natural spring water? Describe it.",
+      "uz": "Tabiiy buloq suvini tatib ko'rganmisiz? Uni tasvirlab bering.",
+      "tg": "Оё оби чашмаи табииро озмудаед? Онро тавсиф кунед.",
+      "id": "Pernahkah kamu mencoba air mata air alami? Jelaskan."
     },
     "answers": [
       "清澈",
@@ -32,7 +36,10 @@
   "text_translation": {
     "ru": "Источники в Цзинане имеют долгую историю — первые письменные упоминания относятся к более чем 3000 лет назад. Многие литераторы описывали их звук, цвет, форму и вкус, оставив множество стихов. Жители Цзинаня живут у источников, пьют сладкую воду — и естественно, полны благодарности, отчего и родилось много прекрасных легенд. Говорят, давным-давно в Цзинане жил добрый юноша Бао Цюань, изучавший медицину и спасший многих. Однажды он спас у дороги упавшего в обморок старика и привёл домой. Старик оказался братом Дракона Восточного моря. Через него Бао получил нефритовый кувшин, исцеляющий людей. Чтобы злодеи не отобрали его, он закопал кувшин — и так появился знаменитый «Первый источник Поднебесной» — Баотуцюань. Сегодня в городе более 700 природных источников — редкое явление для города. Названия источников отражают их красоту: Шуньцюань — по имени человека, Хэйхуцюань — по животному, Чжэньчжуцюань — по форме. Откуда такое множество чудесных источников? Вода приходит с южных гор — там слой известняка толщиной в миллионы лет. Дождевая вода просачивается вниз, течёт на север под углом 30°, а под Цзинанем натыкается на магматические породы и не может пройти. Вода собирается, уровень поднимается выше поверхности — и бьёт ключом. Отсюда и прозвище Цзинаня — «Город источников».",
     "en": "Ji'nan's springs have a long history — the earliest written records go back more than 3,000 years. Many literati described their sound, color, shape, and taste, leaving behind poems praising the springs. The people of Ji'nan, living by the springs and drinking this sweet water, naturally felt gratitude — and thus many beautiful legends were born. Long ago, a kind young man named Bao Quan lived in Ji'nan. He studied medicine and saved many people. Once he rescued an old man who had fainted by the roadside and brought him home to care for him. The old man turned out to be the elder brother of the Dragon King of the East Sea. Through him, Bao Quan obtained a white jade pot that could heal the sick. To keep robbers from taking it, he buried the pot in the ground — and it became today's famous Baotu Spring, known as the 'First Spring Under Heaven'. Today Ji'nan has over seven hundred natural springs within its urban area — extremely rare among cities worldwide. With so many springs, they naturally have many names. Ji'nan's springs' elegance is reflected in their distinctive names: Shun Spring named after a person, Black Tiger Spring after an animal, Pearl Spring after its shape, and so on. You may ask: how were so many wonderful springs formed? Ji'nan's springs come from the vast mountain region south of the city. The rock there is limestone formed about 400 million years ago. In such limestone terrain, surface water easily seeps underground. The limestone layer, tilted about thirty degrees from south to north, brings groundwater toward Ji'nan. Under the city, the rock becomes igneous; the groundwater, blocked, accumulates. Unable to flow anywhere else, it bursts through to the surface, forming the many springs. That is how Ji'nan earned the name 'City of Springs'.",
-    "tk": "Tszinanyň çeşmeleri uzak taryha eýe — iň irki ýazuw ýazgylary 3000 ýyldan has öňe gidýär. Köp edebiýatçylar olaryň sesini, reňkini, şeklini we tagamyny suratlandyryp, çeşmeleri wasp edýän goşgular galdyrdylar. Tszinanlylar çeşmeleriň ýanynda ýaşap, bu süýji suwy içip, tebigy ýagdaýda minnetdarlyk duýýardylar — şeýlelik bilen köp ajaýyp rowaýatlar döredi. Gadymda Bao Çýuan atly mylaýym bir ýigit Tszinanda ýaşapdyr. Ol lukmançylyk öwrenip, köp adamy gutarypdyr. Bir gün ol ýoluň gyrasynda huşuny ýitiren bir gojany halas edip, ony öýüne alyp bejeripdir. Goja Gündogar deňziniň Aždarhanyň uly dogany bolup çykypdyr. Onuň arkaly Bao Çýuan syrkawlary bejerip bilýän ak nefrit çäýnegini aldy. Garakçylardan goramak üçin çäýnegi ýere gömdü — şeýlelik bilen şu günki «Dünýäniň Birinji Çeşmesi» diýilýän Baotutsýuan döredi. Häzir Tszinanyň şäher meýdanynda ýedi ýüzden gowrak tebigy çeşme bar — bu dünýä şäherleriniň arasynda örän seýrek hadysa. Şonça çeşme bolansoň, atlary hem köp. Tszinan çeşmeleriniň ajaýyplygy özboluşly atlarynda hem öz beýanyny tapýar: adam adyndan alynan Şun çeşmesi, haýwan adyndan alynan Gara Ýolbars çeşmesi, şeklinden alynan Merjen çeşmesi we başgalar. Näme üçin şonça ajaýyp çeşme emele geldi? Tszinanyň çeşmeleri şäheriň günortasyndaky gin daglardan gelýär. Ol ýeriň gaýasy takmynan 400 million ýyl öň emele gelen hekg daşydyr. Şeýle hekg daşly ýerlerde üstüň suwy ýere aňsat siňýär. Günortadan demirgazyga takmynan 30 gradus ýapgytly hekg daş gatlagy ýerasty suwlary Tszinana tarap hereket etdirýär. Şäheriň aşagyndaky gaýalar magmatik bolup, ýerasty suw buralarda saklanýar we toplanýar. Başga ýere akyp bilmän, ýer ýüzüne çykýar we köp çeşmeleri emele getirýär. Şeýlelikde Tszinan «Çeşmeler şäheri» adyny gazandy."
+    "tk": "Tszinanyň çeşmeleri uzak taryha eýe — iň irki ýazuw ýazgylary 3000 ýyldan has öňe gidýär. Köp edebiýatçylar olaryň sesini, reňkini, şeklini we tagamyny suratlandyryp, çeşmeleri wasp edýän goşgular galdyrdylar. Tszinanlylar çeşmeleriň ýanynda ýaşap, bu süýji suwy içip, tebigy ýagdaýda minnetdarlyk duýýardylar — şeýlelik bilen köp ajaýyp rowaýatlar döredi. Gadymda Bao Çýuan atly mylaýym bir ýigit Tszinanda ýaşapdyr. Ol lukmançylyk öwrenip, köp adamy gutarypdyr. Bir gün ol ýoluň gyrasynda huşuny ýitiren bir gojany halas edip, ony öýüne alyp bejeripdir. Goja Gündogar deňziniň Aždarhanyň uly dogany bolup çykypdyr. Onuň arkaly Bao Çýuan syrkawlary bejerip bilýän ak nefrit çäýnegini aldy. Garakçylardan goramak üçin çäýnegi ýere gömdü — şeýlelik bilen şu günki «Dünýäniň Birinji Çeşmesi» diýilýän Baotutsýuan döredi. Häzir Tszinanyň şäher meýdanynda ýedi ýüzden gowrak tebigy çeşme bar — bu dünýä şäherleriniň arasynda örän seýrek hadysa. Şonça çeşme bolansoň, atlary hem köp. Tszinan çeşmeleriniň ajaýyplygy özboluşly atlarynda hem öz beýanyny tapýar: adam adyndan alynan Şun çeşmesi, haýwan adyndan alynan Gara Ýolbars çeşmesi, şeklinden alynan Merjen çeşmesi we başgalar. Näme üçin şonça ajaýyp çeşme emele geldi? Tszinanyň çeşmeleri şäheriň günortasyndaky gin daglardan gelýär. Ol ýeriň gaýasy takmynan 400 million ýyl öň emele gelen hekg daşydyr. Şeýle hekg daşly ýerlerde üstüň suwy ýere aňsat siňýär. Günortadan demirgazyga takmynan 30 gradus ýapgytly hekg daş gatlagy ýerasty suwlary Tszinana tarap hereket etdirýär. Şäheriň aşagyndaky gaýalar magmatik bolup, ýerasty suw buralarda saklanýar we toplanýar. Başga ýere akyp bilmän, ýer ýüzüne çykýar we köp çeşmeleri emele getirýär. Şeýlelikde Tszinan «Çeşmeler şäheri» adyny gazandy.",
+    "uz": "Jinan buloqlari uzoq tarixga ega — eng qadimgi yozma manbalar 3000 yildan ko'proq vaqt oldiniga borib taqaladi. Ko'plab adiblar ularning ovozi, rangi, shakli va ta'mini tasvirlab, buloqlarni madh etuvchi she'rlar qoldirgan. Buloqlar bo'yida yashab, bu shirin suvdan ichgan Jinan aholisi tabiiy ravishda minnatdorchilik his qilgan — shu tariqa ko'plab go'zal afsonalar tug'ilgan. Qadimda Jinanda Bao Quan ismli mehribon yigit yashagan. U tibbiyot o'qigan va ko'plab odamlarni qutqargan. Bir kuni u yo'l chetida hushidan ketgan cholni qutqarib, unga g'amxo'rlik qilish uchun uyiga olib kelgan. Chol Sharq dengizi Ajdaho shohining akasi bo'lib chiqqan. U orqali Bao Quan kasallarni davolay oladigan oq nefrit qozonni qo'lga kiritgan. Qaroqchilar uni olib qo'ymasligi uchun qozonni yerga ko'mgan — va u bugungi mashhur Baotu bulog'iga aylangan, u 'Osmon ostidagi birinchi buloq' deb ataladi. Bugungi kunda Jinan shahar hududida yetti yuzdan ortiq tabiiy buloq mavjud — bu dunyo shaharlari orasida juda kam uchraydi. Buloqlar ko'p bo'lgani uchun ularning nomlari ham ko'p. Jinan buloqlarining nafisligi ularning o'ziga xos nomlarida aks etadi: Shun bulog'i — shaxs nomi bilan, Qora yo'lbars bulog'i — hayvon nomi bilan, Marvarid bulog'i — shakli bilan va hokazo. Siz so'rashingiz mumkin: bunchalik ajoyib buloqlar qanday paydo bo'lgan? Jinan buloqlari shaharning janubidagi keng tog'li hududdan keladi. U yerdagi tosh taxminan 400 million yil oldin hosil bo'lgan ohaktoshdir. Bunday ohaktosh relyefida yer usti suvi osongina yer ostiga singib ketadi. Janubdan shimolga taxminan o'ttiz daraja egilgan ohaktosh qatlami yer osti suvini Jinanga olib keladi. Shahar ostida tosh magmatik jinsga aylanadi; yer osti suvi to'silib, to'planadi. Boshqa joyga oqa olmay, u yer yuzasiga otilib chiqadi va ko'plab buloqlarni hosil qiladi. Shunday qilib Jinan 'Buloqlar shahri' nomini oldi.",
+    "tg": "Чашмаҳои Ҷинан таърихи тӯлонӣ доранд — қадимтарин сабтҳои хаттӣ беш аз 3000 сол пеш будаанд. Бисёр аҳли адаб садо, ранг, шакл ва таъми онҳоро тавсиф карда, шеърҳои ситоиши чашмаҳоро боқӣ гузоштаанд. Мардуми Ҷинан, ки дар канори чашмаҳо зиндагӣ мекарданд ва ин оби ширинро менӯшиданд, табиатан миннатдорӣ ҳис мекарданд — ва ҳамин тавр бисёр афсонаҳои зебо ба вуҷуд омаданд. Пештар дар Ҷинан ҷавони меҳрубоне бо номи Бао Чуан зиндагӣ мекард. Ӯ тиб меомӯхт ва бисёр одамонро наҷот медод. Як бор ӯ пирамардеро, ки дар канори роҳ беҳуш шуда буд, наҷот дод ва ба хонааш оварда нигоҳубин кард. Он пирамард бародари калони Подшоҳи Аждаҳои Баҳри Шарқӣ буд. Тавассути ӯ Бао Чуан кӯзаи сафедеро ба даст овард, ки беморонро шифо мебахшид. Барои он ки роҳзанон онро нагиранд, ӯ кӯзаро дар замин гӯронид — ва он ба чашмаи машҳури имрӯзаи Баоту табдил ёфт, ки бо номи «Чашмаи якуми зери осмон» маъруф аст. Имрӯз дар Ҷинан дар ҳудуди шаҳр зиёда аз ҳафтсад чашмаи табиӣ мавҷуд аст — ки дар байни шаҳрҳои ҷаҳон хеле камёб аст. Бо ин қадар чашмаҳо, табиатан номҳои зиёд доранд. Зебоии чашмаҳои Ҷинан дар номҳои хосати онҳо инъикос меёбад: Чашмаи Шун ба номи шахс, Чашмаи Палаки Сиёҳ ба номи ҳайвон, Чашмаи Марворид аз рӯи шакли он ва ғайра. Шумо метавонед пурсед: ин қадар чашмаҳои аҷоиб чӣ тавр ба вуҷуд омадаанд? Чашмаҳои Ҷинан аз минтақаи кӯҳии васеи ҷануби шаҳр меоянд. Сангҳои он ҷо оҳаксанг буда, тақрибан 400 миллион сол пеш ташаккул ёфтаанд. Дар чунин релефи оҳаксангӣ оби рӯизаминӣ ба осонӣ ба зери замин меравад. Қабати оҳаксанг, ки тақрибан сӣ дараҷа аз ҷануб ба шимол моил аст, оби зеризаминиро ба сӯи Ҷинан меорад. Дар зери шаҳр санг ба санги оташфишонӣ табдил меёбад; оби зеризаминӣ, ки роҳаш баста шудааст, ҷамъ мешавад. Азбаски ба ҷои дигар ҷорӣ шуда наметавонад, он ба сатҳ мебарояд ва чашмаҳои зиёдро ба вуҷуд меорад. Ҳамин тавр Ҷинан номи «Шаҳри чашмаҳо»-ро ба даст овард.",
+    "id": "Mata air di Ji'nan memiliki sejarah panjang — catatan tertulis paling awal berasal dari lebih dari 3.000 tahun yang lalu. Banyak sastrawan menggambarkan suara, warna, bentuk, dan rasanya, meninggalkan puisi-puisi yang memuji mata air tersebut. Penduduk Ji'nan, yang hidup di tepi mata air dan meminum air yang manis ini, secara alami merasa bersyukur — dan lahirlah banyak legenda indah. Dahulu kala, seorang pemuda baik hati bernama Bao Quan tinggal di Ji'nan. Ia belajar ilmu pengobatan dan menyelamatkan banyak orang. Suatu ketika ia menyelamatkan seorang lelaki tua yang pingsan di tepi jalan dan membawanya pulang untuk dirawat. Lelaki tua itu ternyata adalah kakak laki-laki Raja Naga Laut Timur. Melalui dia, Bao Quan memperoleh sebuah pot giok putih yang dapat menyembuhkan orang sakit. Agar tidak diambil oleh perampok, ia mengubur pot itu di dalam tanah — dan pot itu menjadi Baotu Spring yang terkenal saat ini, yang dikenal sebagai 'Mata Air Pertama di Bawah Langit'. Saat ini Ji'nan memiliki lebih dari tujuh ratus mata air alami di dalam wilayah perkotaannya — sangat langka di antara kota-kota di seluruh dunia. Dengan begitu banyak mata air, secara alami ada banyak nama. Keanggunan mata air Ji'nan tercermin dalam nama-namanya yang khas: Shun Spring dinamai menurut nama orang, Black Tiger Spring menurut hewan, Pearl Spring menurut bentuknya, dan seterusnya. Anda mungkin bertanya: bagaimana begitu banyak mata air yang indah terbentuk? Mata air Ji'nan berasal dari wilayah pegunungan luas di selatan kota. Batuan di sana adalah batu kapur yang terbentuk sekitar 400 juta tahun yang lalu. Di medan batu kapur seperti itu, air permukaan mudah meresap ke bawah tanah. Lapisan batu kapur, yang miring sekitar tiga puluh derajat dari selatan ke utara, membawa air tanah menuju Ji'nan. Di bawah kota, batuan menjadi batuan beku; air tanah, yang terhalang, menumpuk. Karena tidak dapat mengalir ke tempat lain, air itu menerobos ke permukaan, membentuk banyak mata air. Itulah bagaimana Ji'nan mendapatkan nama 'Kota Mata Air'."
   },
   "vocabulary": [
     {
@@ -42,7 +49,10 @@
       "meaning": {
         "ru": "долгий, давний",
         "tk": "uzak",
-        "en": "long-standing"
+        "en": "long-standing",
+        "uz": "uzoq yillik",
+        "tg": "қадима",
+        "id": "lama berdiri"
       }
     },
     {
@@ -52,7 +62,10 @@
       "meaning": {
         "ru": "письменность, текст",
         "tk": "ýazuw",
-        "en": "writing"
+        "en": "writing",
+        "uz": "yozuv",
+        "tg": "навиштан",
+        "id": "menulis"
       }
     },
     {
@@ -62,7 +75,10 @@
       "meaning": {
         "ru": "записывать",
         "tk": "ýazmak",
-        "en": "to record"
+        "en": "to record",
+        "uz": "yozib olmoq",
+        "tg": "сабт кардан",
+        "id": "mencatat"
       }
     },
     {
@@ -72,7 +88,10 @@
       "meaning": {
         "ru": "форма",
         "tk": "şekil",
-        "en": "shape"
+        "en": "shape",
+        "uz": "shakl",
+        "tg": "шакл",
+        "id": "bentuk"
       }
     },
     {
@@ -82,7 +101,10 @@
       "meaning": {
         "ru": "описывать",
         "tk": "beýan etmek",
-        "en": "to describe"
+        "en": "to describe",
+        "uz": "tasvirlamoq",
+        "tg": "тавсиф кардан",
+        "id": "menggambarkan"
       }
     },
     {
@@ -92,7 +114,10 @@
       "meaning": {
         "ru": "восхвалять",
         "tk": "öwmek",
-        "en": "to praise"
+        "en": "to praise",
+        "uz": "maqtamoq",
+        "tg": "ситоиш кардан",
+        "id": "memuji"
       }
     },
     {
@@ -102,7 +127,10 @@
       "meaning": {
         "ru": "стихотворение",
         "tk": "goşgy",
-        "en": "poem"
+        "en": "poem",
+        "uz": "she'r",
+        "tg": "шеър",
+        "id": "puisi"
       }
     },
     {
@@ -112,7 +140,10 @@
       "meaning": {
         "ru": "простые люди",
         "tk": "halk",
-        "en": "ordinary people"
+        "en": "ordinary people",
+        "uz": "oddiy odamlar",
+        "tg": "одами оддӣ",
+        "id": "orang biasa"
       }
     },
     {
@@ -122,7 +153,10 @@
       "meaning": {
         "ru": "быть полным",
         "tk": "doly bolmak",
-        "en": "to be full of"
+        "en": "to be full of",
+        "uz": "to'la bo'lmoq",
+        "tg": "пур будан",
+        "id": "penuh dengan"
       }
     },
     {
@@ -132,7 +166,10 @@
       "meaning": {
         "ru": "быть благодарным",
         "tk": "minnetdar bolmak",
-        "en": "to be grateful"
+        "en": "to be grateful",
+        "uz": "minnatdor bo'lmoq",
+        "tg": "миннатдор будан",
+        "id": "bersyukur"
       }
     },
     {
@@ -142,7 +179,10 @@
       "meaning": {
         "ru": "тем самым, так что",
         "tk": "şeýlelikde",
-        "en": "thus, consequently"
+        "en": "thus, consequently",
+        "uz": "shunday qilib, natijada",
+        "tg": "бинобар ин, дар натиҷа",
+        "id": "oleh karena itu, akibatnya"
       }
     },
     {
@@ -152,7 +192,10 @@
       "meaning": {
         "ru": "возникать",
         "tk": "döremek",
-        "en": "to arise"
+        "en": "to arise",
+        "uz": "paydo bo'lmoq",
+        "tg": "ба вуҷуд омадан",
+        "id": "muncul"
       }
     },
     {
@@ -162,7 +205,10 @@
       "meaning": {
         "ru": "легенда",
         "tk": "rowaýat",
-        "en": "legend"
+        "en": "legend",
+        "uz": "afsona",
+        "tg": "афсона",
+        "id": "legenda"
       }
     },
     {
@@ -172,7 +218,10 @@
       "meaning": {
         "ru": "добрый",
         "tk": "mähirli",
-        "en": "kind-hearted"
+        "en": "kind-hearted",
+        "uz": "mehribon",
+        "tg": "мехрубон",
+        "id": "baik hati"
       }
     },
     {
@@ -182,7 +231,10 @@
       "meaning": {
         "ru": "спасать",
         "tk": "gutarmak",
-        "en": "to save"
+        "en": "to save",
+        "uz": "saqlamoq",
+        "tg": "наҷот додан",
+        "id": "menyelamatkan"
       }
     },
     {
@@ -192,7 +244,10 @@
       "meaning": {
         "ru": "падать в обморок",
         "tk": "huşuny ýitirmek",
-        "en": "to faint"
+        "en": "to faint",
+        "uz": "hushidan ketmoq",
+        "tg": "беҳуш шудан",
+        "id": "pingsan"
       }
     },
     {
@@ -202,7 +257,10 @@
       "meaning": {
         "ru": "дракон",
         "tk": "aždar",
-        "en": "dragon"
+        "en": "dragon",
+        "uz": "ajdar",
+        "tg": "аждаҳо",
+        "id": "naga"
       }
     },
     {
@@ -212,7 +270,10 @@
       "meaning": {
         "ru": "лечить",
         "tk": "bejermek",
-        "en": "to treat"
+        "en": "to treat",
+        "uz": "davolamoq",
+        "tg": "муолиҷа кардан",
+        "id": "mengobati"
       }
     },
     {
@@ -222,7 +283,10 @@
       "meaning": {
         "ru": "нефрит",
         "tk": "nefrit",
-        "en": "jade"
+        "en": "jade",
+        "uz": "nefrit",
+        "tg": "марворид",
+        "id": "giok"
       }
     },
     {
@@ -232,7 +296,10 @@
       "meaning": {
         "ru": "кувшин",
         "tk": "çäýnek",
-        "en": "pot, kettle"
+        "en": "pot, kettle",
+        "uz": "qozon, choynak",
+        "tg": "дег, чойник",
+        "id": "panci, ketel"
       }
     },
     {
@@ -242,7 +309,10 @@
       "meaning": {
         "ru": "отбирать",
         "tk": "talaw etmek",
-        "en": "to rob"
+        "en": "to rob",
+        "uz": "o'g'irlamoq",
+        "tg": "дуздӣ кардан",
+        "id": "merampok"
       }
     },
     {
@@ -252,7 +322,10 @@
       "meaning": {
         "ru": "закапывать",
         "tk": "gömmek",
-        "en": "to bury"
+        "en": "to bury",
+        "uz": "ko'mmoq",
+        "tg": "дафн кардан",
+        "id": "mengubur"
       }
     },
     {
@@ -262,7 +335,10 @@
       "meaning": {
         "ru": "прятать(ся)",
         "tk": "gizlemek",
-        "en": "to hide"
+        "en": "to hide",
+        "uz": "yashirmoq",
+        "tg": "пинҳон кардан",
+        "id": "bersembunyi"
       }
     },
     {
@@ -272,7 +348,10 @@
       "meaning": {
         "ru": "теперь, ныне",
         "tk": "häzir",
-        "en": "nowadays"
+        "en": "nowadays",
+        "uz": "hozirgi kunda",
+        "tg": "имрӯзҳо",
+        "id": "saat ini"
       }
     },
     {
@@ -282,7 +361,10 @@
       "meaning": {
         "ru": "распределяться",
         "tk": "ýerleşmek",
-        "en": "to be distributed"
+        "en": "to be distributed",
+        "uz": "tarqatilmoq",
+        "tg": "тақсим карда шавад",
+        "id": "untuk didistribusikan"
       }
     },
     {
@@ -292,7 +374,10 @@
       "meaning": {
         "ru": "природный",
         "tk": "tebigy",
-        "en": "natural"
+        "en": "natural",
+        "uz": "tabiiy",
+        "tg": "табиӣ",
+        "id": "alami"
       }
     },
     {
@@ -302,7 +387,10 @@
       "meaning": {
         "ru": "изящный",
         "tk": "gelşikli",
-        "en": "graceful"
+        "en": "graceful",
+        "uz": "nafis",
+        "tg": "зебо",
+        "id": "anggun"
       }
     },
     {
@@ -312,7 +400,10 @@
       "meaning": {
         "ru": "уникальный",
         "tk": "özboluşly",
-        "en": "unique"
+        "en": "unique",
+        "uz": "noyob",
+        "tg": "беназир",
+        "id": "unik"
       }
     },
     {
@@ -322,7 +413,10 @@
       "meaning": {
         "ru": "отражать",
         "tk": "beýan etmek",
-        "en": "to reflect"
+        "en": "to reflect",
+        "uz": "aks ettirmoq",
+        "tg": "инъикос кардан",
+        "id": "untuk mencerminkan"
       }
     },
     {
@@ -332,7 +426,10 @@
       "meaning": {
         "ru": "жемчуг",
         "tk": "merjen",
-        "en": "pearl"
+        "en": "pearl",
+        "uz": "marvarid",
+        "tg": "марворид",
+        "id": "mutiara"
       }
     },
     {
@@ -342,7 +439,10 @@
       "meaning": {
         "ru": "формироваться",
         "tk": "emele gelmek",
-        "en": "to form"
+        "en": "to form",
+        "uz": "shakllantirmoq",
+        "tg": "ташаккул додан",
+        "id": "untuk membentuk"
       }
     },
     {
@@ -352,7 +452,10 @@
       "meaning": {
         "ru": "из, от, в",
         "tk": "…dan",
-        "en": "from, out of"
+        "en": "from, out of",
+        "uz": "dan, ichidan",
+        "tg": "аз, берун аз",
+        "id": "dari, keluar dari"
       }
     },
     {
@@ -362,7 +465,10 @@
       "meaning": {
         "ru": "обширный",
         "tk": "gin",
-        "en": "vast"
+        "en": "vast",
+        "uz": "keng",
+        "tg": "васеъ",
+        "id": "luas"
       }
     },
     {
@@ -372,7 +478,10 @@
       "meaning": {
         "ru": "порода, камень",
         "tk": "gaýa",
-        "en": "rock"
+        "en": "rock",
+        "uz": "tosh",
+        "tg": "санг",
+        "id": "batu"
       }
     },
     {
@@ -382,7 +491,10 @@
       "meaning": {
         "ru": "сто миллионов",
         "tk": "ýüz million",
-        "en": "hundred million"
+        "en": "hundred million",
+        "uz": "yuz million",
+        "tg": "сад миллион",
+        "id": "seratus juta"
       }
     },
     {
@@ -392,7 +504,10 @@
       "meaning": {
         "ru": "известняк",
         "tk": "hekg daşy",
-        "en": "limestone"
+        "en": "limestone",
+        "uz": "ohaktosh",
+        "tg": "оҳаксанг",
+        "id": "batu kapur"
       }
     },
     {
@@ -402,7 +517,10 @@
       "meaning": {
         "ru": "регион",
         "tk": "sebit",
-        "en": "region"
+        "en": "region",
+        "uz": "mintaqa",
+        "tg": "минтақа",
+        "id": "wilayah"
       }
     },
     {
@@ -412,7 +530,10 @@
       "meaning": {
         "ru": "поверхность",
         "tk": "üst",
-        "en": "surface"
+        "en": "surface",
+        "uz": "yuza",
+        "tg": "сатҳ",
+        "id": "permukaan"
       }
     },
     {
@@ -422,7 +543,10 @@
       "meaning": {
         "ru": "угол",
         "tk": "burç",
-        "en": "angle"
+        "en": "angle",
+        "uz": "burchak",
+        "tg": "кунҷ",
+        "id": "sudut"
       }
     },
     {
@@ -432,7 +556,10 @@
       "meaning": {
         "ru": "наклонный",
         "tk": "gyşyk",
-        "en": "oblique"
+        "en": "oblique",
+        "uz": "qiya",
+        "tg": "моил",
+        "id": "miring"
       }
     },
     {
@@ -442,7 +569,10 @@
       "meaning": {
         "ru": "становиться",
         "tk": "bolmak",
-        "en": "to become"
+        "en": "to become",
+        "uz": "bo'lmoq",
+        "tg": "шудан",
+        "id": "menjadi"
       }
     },
     {
@@ -452,7 +582,10 @@
       "meaning": {
         "ru": "магматическая порода",
         "tk": "magmatik gaýa",
-        "en": "igneous rock"
+        "en": "igneous rock",
+        "uz": "magmatik jins",
+        "tg": "сангҳои оташфишон",
+        "id": "batuan beku"
       }
     },
     {
@@ -462,7 +595,10 @@
       "meaning": {
         "ru": "наталкиваться",
         "tk": "duşmak",
-        "en": "to meet"
+        "en": "to meet",
+        "uz": "uchrashmoq",
+        "tg": "вохӯрдан",
+        "id": "bertemu"
       }
     },
     {
@@ -472,7 +608,10 @@
       "meaning": {
         "ru": "преграждать",
         "tk": "päsgel bermek",
-        "en": "to block"
+        "en": "to block",
+        "uz": "to'smoq",
+        "tg": "бастан",
+        "id": "memblokir"
       }
     },
     {
@@ -482,7 +621,10 @@
       "meaning": {
         "ru": "рельеф",
         "tk": "relef",
-        "en": "terrain"
+        "en": "terrain",
+        "uz": "relyef",
+        "tg": "замин",
+        "id": "medan"
       }
     },
     {
@@ -492,7 +634,10 @@
       "meaning": {
         "ru": "устремляться",
         "tk": "okdurmak",
-        "en": "to rush"
+        "en": "to rush",
+        "uz": "shoshilmoq",
+        "tg": "шитоб кардан",
+        "id": "bergegas"
       }
     }
   ],
@@ -503,68 +648,101 @@
       "explanation": {
         "ru": "«动词+起来» — «собираться вместе» или «приобретать новое качество».",
         "tk": "«动词+起来» — «toplanmak» ýa-da «täze häsiýet gazanmak».",
-        "en": "'Verb + 起来' means 'to gather' or 'to take on a new quality'."
+        "en": "'Verb + 起来' means 'to gather' or 'to take on a new quality'.",
+        "uz": "'Fe'l + 起来' 'to'plamoq' yoki 'yangi xususiyat kasb etmoq' ma'nosini bildiradi.",
+        "tg": "'Феъл + 起来' маънои 'ҷамъ шудан' ё 'сифати нав гирифтан'-ро дорад.",
+        "id": "'Kata kerja + 起来' berarti 'berkumpul' atau 'memperoleh kualitas baru'."
       },
       "examples": [
         {
           "zh": "地下水流到这里，碰到火成岩挡住了路，就积蓄起来，越积越多。",
           "ru": "Подземная вода, наткнувшись на магматическую породу, скапливается, всё больше и больше.",
           "tk": "Ýerasty suw magmatik gaýa duşup, ýygnanýar, barha köpelýär.",
-          "en": "The groundwater, blocked by igneous rock, collects and grows more and more."
+          "en": "The groundwater, blocked by igneous rock, collects and grows more and more.",
+          "uz": "Magmatik jinslar tomonidan to'silgan yer osti suvlari to'planib, tobora ko'payib boradi.",
+          "tg": "Оби зеризаминӣ, ки бо санги оташфишонӣ баста шудааст, ҷамъ мешавад ва боз ҳам бештар мегардад.",
+          "id": "Air tanah, yang terhalang oleh batuan beku, terkumpul dan semakin bertambah banyak."
         },
         {
           "zh": "渔夫想，这网一收起来，鱼一定可以装满整条船。",
           "ru": "Рыбак подумал: как только он соберёт сеть, рыбы хватит на целую лодку.",
           "tk": "Balykçy pikirlendi: toruny ýygnasa, balyk gämä ýeter.",
-          "en": "The fisherman thought: as soon as he pulls in the net, the fish will fill the boat."
+          "en": "The fisherman thought: as soon as he pulls in the net, the fish will fill the boat.",
+          "uz": "Baliqchi o'yladi: to'rni tortib olishi bilanoq, baliqlar qayiqni to'ldiradi.",
+          "tg": "Моҳигир фикр кард: ҳамин ки тӯрро кашад, моҳӣ қаиқро пур мекунад.",
+          "id": "Nelayan itu berpikir: begitu ia menarik jala, ikan akan memenuhi perahu."
         },
         {
           "zh": "刘丽知道自己做得不对，躲起来不敢见我。",
           "ru": "Лю Ли поняла, что поступила неправильно, и спряталась, боясь меня увидеть.",
           "tk": "Lýu Li özüniň nädogry edendigini bildi we gizlenip, meni görmekden gorkdy.",
-          "en": "Liu Li knew she'd done wrong and hid, afraid to face me."
+          "en": "Liu Li knew she'd done wrong and hid, afraid to face me.",
+          "uz": "Liu Li xato qilganini bilib, yashirindi, men bilan yuzlashishdan qo'rqdi.",
+          "tg": "Лю Ли донист, ки хато кардааст ва пинҳон шуд, аз рӯ ба рӯ шудан бо ман тарсид.",
+          "id": "Liu Li tahu dia telah berbuat salah dan bersembunyi, takut menghadapiku."
         },
         {
           "zh": "为了不被坏人抢走，他把壶埋入地下藏了起来。",
           "ru": "Чтобы злодеи не отобрали, он закопал кувшин в землю.",
           "tk": "Erbet adamlar talamasyn diýip, çäýnegi ýere gömdü.",
-          "en": "To keep robbers from taking it, he buried the pot in the ground."
+          "en": "To keep robbers from taking it, he buried the pot in the ground.",
+          "uz": "Qaroqchilar uni olib ketmasligi uchun, u qozonni yerga ko'mdi.",
+          "tg": "Барои он ки роҳзанон онро нагиранд, дегро дар замин гӯр кард.",
+          "id": "Untuk mencegah perampok mengambilnya, ia mengubur pot itu di dalam tanah."
         },
         {
           "zh": "这个故事流传起来了，越来越多人知道。",
           "ru": "Эта история стала распространяться, всё больше людей узнавало о ней.",
           "tk": "Bu hekaýa ýaýrady, köp adamlar bildi.",
-          "en": "The story spread, and more and more people learned of it."
+          "en": "The story spread, and more and more people learned of it.",
+          "uz": "Hikoya tarqaldi va tobora ko'proq odamlar bundan xabar topdi.",
+          "tg": "Ҳикоя паҳн шуд ва одамони бештар аз он огоҳ шуданд.",
+          "id": "Kisah itu menyebar, dan semakin banyak orang mengetahuinya."
         },
         {
           "zh": "天气冷起来了，要多穿点衣服。",
           "ru": "Становится холоднее, нужно одеться потеплее.",
           "tk": "Howa sowuklaşýar, has ýyly geýniň.",
-          "en": "It's getting colder — dress more warmly."
+          "en": "It's getting colder — dress more warmly.",
+          "uz": "Havo sovib bormoqda — issiqroq kiyin.",
+          "tg": "Ҳаво хунуктар мешавад — гармтар либос пӯшед.",
+          "id": "Cuaca semakin dingin — berpakaianlah lebih hangat."
         },
         {
           "zh": "他笑起来真好看。",
           "ru": "Когда он смеётся, он очень красив.",
           "tk": "Ol gülende örän owadan.",
-          "en": "He looks great when he smiles."
+          "en": "He looks great when he smiles.",
+          "uz": "U kulganida juda chiroyli ko'rinadi.",
+          "tg": "Вақте ки ӯ табассум мекунад, хеле зебо менамояд.",
+          "id": "Dia terlihat tampan saat tersenyum."
         },
         {
           "zh": "雨停了，天晴起来了。",
           "ru": "Дождь прекратился, стало проясняться.",
           "tk": "Ýagyş bes etdi, howa açyldy.",
-          "en": "The rain stopped and the sky cleared up."
+          "en": "The rain stopped and the sky cleared up.",
+          "uz": "Yomg'ir to'xtadi va osmon ochildi.",
+          "tg": "Борон қатъ шуд ва осмон соф шуд.",
+          "id": "Hujan berhenti dan langit menjadi cerah."
         },
         {
           "zh": "这些照片收藏起来，以后再看。",
           "ru": "Собери эти фотографии, посмотрим позже.",
           "tk": "Bu suratlary ýygnap goý, soň göreris.",
-          "en": "Collect these photos, we'll look at them later."
+          "en": "Collect these photos, we'll look at them later.",
+          "uz": "Bu suratlarni yig'ib qo'ying, keyinroq ko'ramiz.",
+          "tg": "Ин аксҳоро ҷамъ кунед, баъдтар онҳоро дида мебароем.",
+          "id": "Kumpulkan foto-foto ini, kita akan melihatnya nanti."
         },
         {
           "zh": "把同学们组织起来，一起讨论。",
           "ru": "Организуйте студентов и обсудите вместе.",
           "tk": "Okuwçylary gurap, bile maslahatlaşyň.",
-          "en": "Organize the students and discuss together."
+          "en": "Organize the students and discuss together.",
+          "uz": "O'quvchilarni tashkil qiling va birgalikda muhokama qiling.",
+          "tg": "Донишҷӯёнро ташкил кунед ва якҷоя муҳокима кунед.",
+          "id": "Atur para siswa dan berdiskusilah bersama."
         }
       ],
       "formula": {
@@ -658,68 +836,101 @@
       "explanation": {
         "ru": "«于» — книжный предлог: «в, из, к, для, чем…».",
         "tk": "«于» — kitaby goşma söz: «-da, -dan, üçin, bilen».",
-        "en": "'于' is a formal preposition: 'in, from, to, for, than'."
+        "en": "'于' is a formal preposition: 'in, from, to, for, than'.",
+        "uz": "'于' rasmiy predlog: 'ichida, dan, ga, uchun, dan ko'ra'.",
+        "tg": "'于' пешоянди расмӣ аст: 'дар, аз, ба, барои, аз'.",
+        "id": "'于' adalah preposisi formal: 'di, dari, ke, untuk, daripada'."
       },
       "examples": [
         {
           "zh": "这家公司成立于1997年。",
           "ru": "Компания основана в 1997 году.",
           "tk": "Bu kompaniýa 1997-nji ýylda döredildi.",
-          "en": "This company was founded in 1997."
+          "en": "This company was founded in 1997.",
+          "uz": "Bu kompaniya 1997-yilda tashkil etilgan.",
+          "tg": "Ин ширкат дар соли 1997 таъсис ёфтааст.",
+          "id": "Perusahaan ini didirikan pada tahun 1997."
         },
         {
           "zh": "这种药主要用于感冒的治疗。",
           "ru": "Это лекарство в основном для лечения простуды.",
           "tk": "Bu derman esasan sowuklama bejermek üçin.",
-          "en": "This medicine is mainly for treating colds."
+          "en": "This medicine is mainly for treating colds.",
+          "uz": "Bu dori asosan shamollashni davolash uchun.",
+          "tg": "Ин дору асосан барои табобати шамоллаҳо мебошад.",
+          "id": "Obat ini terutama untuk mengobati masuk angin."
         },
         {
           "zh": "济南的泉水，来自于济南市以南的广大山区。",
           "ru": "Источники Цзинаня берут начало в обширных горах к югу от города.",
           "tk": "Tszinan çeşmeleri şäheriň günortasyndaky gin daglardan gelýär.",
-          "en": "Ji'nan's springs come from the vast mountains south of the city."
+          "en": "Ji'nan's springs come from the vast mountains south of the city.",
+          "uz": "Jinan buloqlari shaharning janubidagi keng tog'lardan kelib chiqadi.",
+          "tg": "Чашмаҳои Ҷинан аз кӯҳҳои васеи ҷануби шаҳр сарчашма мегиранд.",
+          "id": "Mata air Ji'nan berasal dari pegunungan luas di selatan kota."
         },
         {
           "zh": "运动有助于健康。",
           "ru": "Спорт полезен для здоровья.",
           "tk": "Sport saglyga peýdaly.",
-          "en": "Exercise benefits health."
+          "en": "Exercise benefits health.",
+          "uz": "Mashq qilish sog'liqqa foyda keltiradi.",
+          "tg": "Машқ ба саломатӣ фоида меорад.",
+          "id": "Olahraga bermanfaat bagi kesehatan."
         },
         {
           "zh": "队员们都认为对方的水平远远高于自己。",
           "ru": "Игроки считали, что уровень соперника намного выше их.",
           "tk": "Oýunçylar garşydaşyň derejesiniň özlerinden has ýokarydygyny aýtdylar.",
-          "en": "The players thought the opponent's level was far higher than theirs."
+          "en": "The players thought the opponent's level was far higher than theirs.",
+          "uz": "O'yinchilar raqibning darajasi o'zlaridan ancha yuqori deb o'ylashdi.",
+          "tg": "Бозингарон сатҳи рақибро аз сатҳи худ хеле баландтар ҳисобиданд.",
+          "id": "Para pemain menganggap level lawan jauh lebih tinggi daripada mereka."
         },
         {
           "zh": "他出生于北京。",
           "ru": "Он родился в Пекине.",
           "tk": "Ol Pekinde doguldy.",
-          "en": "He was born in Beijing."
+          "en": "He was born in Beijing.",
+          "uz": "U Pekinda tug'ilgan.",
+          "tg": "Ӯ дар Пекин таваллуд шудааст.",
+          "id": "Dia lahir di Beijing."
         },
         {
           "zh": "这种情况适用于所有学生。",
           "ru": "Эта ситуация применима ко всем студентам.",
           "tk": "Bu ýagdaý ähli okuwçylara degişli.",
-          "en": "This applies to all students."
+          "en": "This applies to all students.",
+          "uz": "Bu barcha talabalarga tegishli.",
+          "tg": "Ин ба ҳамаи донишҷӯён дахл дорад.",
+          "id": "Ini berlaku untuk semua siswa."
         },
         {
           "zh": "他热衷于帮助别人。",
           "ru": "Он страстно любит помогать другим.",
           "tk": "Ol başgalara kömek etmegi gaty halaýar.",
-          "en": "He's passionate about helping others."
+          "en": "He's passionate about helping others.",
+          "uz": "U boshqalarga yordam berishga ishtiyoqli.",
+          "tg": "Ӯ ба кӯмак ба дигарон шавқ дорад.",
+          "id": "Dia bersemangat membantu orang lain."
         },
         {
           "zh": "这座桥建于清朝。",
           "ru": "Этот мост построен в эпоху Цин.",
           "tk": "Bu köpri Çin döwründe guruldy.",
-          "en": "This bridge was built in the Qing Dynasty."
+          "en": "This bridge was built in the Qing Dynasty.",
+          "uz": "Bu ko'prik Qing sulolasi davrida qurilgan.",
+          "tg": "Ин пул дар давраи Син сохта шудааст.",
+          "id": "Jembatan ini dibangun pada Dinasti Qing."
         },
         {
           "zh": "他毕业于北京大学。",
           "ru": "Он окончил Пекинский университет.",
           "tk": "Ol Pekin uniwersitetini gutardy.",
-          "en": "He graduated from Peking University."
+          "en": "He graduated from Peking University.",
+          "uz": "U Pekin universitetini tamomlagan.",
+          "tg": "Ӯ Донишгоҳи Пекинро хатм кардааст.",
+          "id": "Dia lulus dari Universitas Peking."
         }
       ],
       "formula": {
@@ -804,68 +1015,101 @@
       "explanation": {
         "ru": "«从而» — «тем самым, вследствие чего». Связывает причину и результат.",
         "tk": "«从而» — «şeýlelikde». Sebäp we netijäni baglanyşdyrýar.",
-        "en": "'从而' means 'thus, consequently'. Links cause and result."
+        "en": "'从而' means 'thus, consequently'. Links cause and result.",
+        "uz": "'从而' 'shunday qilib, natijada' ma'nosini bildiradi. Sabab va natijani bog'laydi.",
+        "tg": "'从而' маънои 'ҳамин тавр, дар натиҷа'-ро дорад. Сабаб ва натиҷаро мепайвандад.",
+        "id": "'从而' berarti 'dengan demikian, akibatnya'. Menghubungkan sebab dan akibat."
       },
       "examples": [
         {
           "zh": "比赛前做好思想准备可以减少运动员的压力，从而取得比赛的成功。",
           "ru": "Подготовка перед соревнованием снижает давление на спортсмена и тем самым помогает добиться успеха.",
           "tk": "Ýaryşdan öň taýýarlyk türgeniň basyşyny azaldýar we şeýlelikde üstünlik getirýär.",
-          "en": "Pre-competition preparation reduces an athlete's stress, thus aiding success."
+          "en": "Pre-competition preparation reduces an athlete's stress, thus aiding success.",
+          "uz": "Musobaqa oldidan tayyorgarlik sportchining stressini kamaytiradi, shu bilan muvaffaqiyatga yordam beradi.",
+          "tg": "Омодагии пеш аз мусобиқа стресси варзишгарро кам мекунад, бинобар ин ба муваффақият мусоидат менамояд.",
+          "id": "Persiapan sebelum kompetisi mengurangi stres atlet, sehingga membantu keberhasilan."
         },
         {
           "zh": "在学习过程中及时复习，可以尽早发现和解决问题，从而取得更好的成绩。",
           "ru": "Своевременное повторение помогает раньше выявить проблемы и тем самым улучшить результат.",
           "tk": "Öwrenişde wagtly-wagtynda gaýtalamak meseleleri ir tapmaga we şeýlelikde gowy netije almaga kömek edýär.",
-          "en": "Timely review helps identify problems early, thus yielding better results."
+          "en": "Timely review helps identify problems early, thus yielding better results.",
+          "uz": "O'z vaqtida ko'rib chiqish muammolarni erta aniqlashga yordam beradi, shu bilan yaxshi natijalar beradi.",
+          "tg": "Баррасии саривақтӣ ба муайян кардани мушкилот дар вақти мувофиқ кӯмак мекунад ва ба ин васила натиҷаҳои беҳтар медиҳад.",
+          "id": "Peninjauan tepat waktu membantu mengidentifikasi masalah lebih awal, sehingga menghasilkan hasil yang lebih baik."
         },
         {
           "zh": "济南的老百姓住在泉边，喝着这甜美的泉水，自然对它充满感激之情，从而也产生了许多关于泉水的美丽传说。",
           "ru": "Жители Цзинаня живут у источников, пьют эту сладкую воду — и потому полны благодарности, а значит, родилось много прекрасных легенд.",
           "tk": "Tszinanlylar çeşmeleriň ýanynda ýaşap, süýji suwuny içýärler — şeýlelikde minnetdarlyk duýýarlar we köp ajaýyp rowaýatlar döredi.",
-          "en": "Ji'nan's residents live by the springs, drink the sweet water — naturally grateful, giving rise to many beautiful legends."
+          "en": "Ji'nan's residents live by the springs, drink the sweet water — naturally grateful, giving rise to many beautiful legends.",
+          "uz": "Ji'nan aholisi buloqlar bo'yida yashaydi, shirin suv ichadi — tabiiy ravishda minnatdor bo'lib, ko'plab go'zal afsonalarga sabab bo'ladi.",
+          "tg": "Сокинони Ҷинан дар назди чашмаҳо зиндагӣ мекунанд, оби ширин менӯшанд — табиатан миннатдор буда, боиси пайдоиши ривоятҳои зиёди зебо мегарданд.",
+          "id": "Penduduk Ji'nan hidup di tepi mata air, meminum air yang manis — secara alami penuh syukur, sehingga muncul banyak legenda indah."
         },
         {
           "zh": "他坚持锻炼，从而保持了良好的身体状态。",
           "ru": "Он регулярно занимается спортом и тем самым поддерживает хорошую форму.",
           "tk": "Ol yzygiderli maşk edýär we şeýlelikde gowy formany saklaýar.",
-          "en": "He exercises regularly, thus maintaining good health."
+          "en": "He exercises regularly, thus maintaining good health.",
+          "uz": "U muntazam ravishda mashq qiladi, shu bilan yaxshi sog'liqni saqlaydi.",
+          "tg": "Ӯ мунтазам машқ мекунад, ба ин васила саломатии хубро нигоҳ медорад.",
+          "id": "Dia berolahraga secara teratur, sehingga menjaga kesehatan yang baik."
         },
         {
           "zh": "通过技术改进，成本降低了，从而提高了利润。",
           "ru": "За счёт технологических улучшений снизилась себестоимость, и тем самым выросла прибыль.",
           "tk": "Tehnologiýany kämilleşdirmek arkaly çykdajylar azaldy we şeýlelikde girdeji ýokarlandy.",
-          "en": "Through technological improvements, costs dropped and profits rose."
+          "en": "Through technological improvements, costs dropped and profits rose.",
+          "uz": "Texnologik yaxshilanishlar tufayli xarajatlar kamaydi va foyda oshdi.",
+          "tg": "Тавассути беҳтарсозии технологӣ хароҷот коҳиш ёфт ва фоида афзуд.",
+          "id": "Melalui peningkatan teknologi, biaya menurun dan keuntungan meningkat."
         },
         {
           "zh": "他每天读书，从而积累了丰富的知识。",
           "ru": "Он читает каждый день и тем самым накапливает знания.",
           "tk": "Ol her gün kitap okaýar we şeýlelikde köp bilim toplaýar.",
-          "en": "He reads daily, thus accumulating rich knowledge."
+          "en": "He reads daily, thus accumulating rich knowledge.",
+          "uz": "U har kuni o'qiydi, shu bilan boy bilim to'playdi.",
+          "tg": "Ӯ ҳар рӯз мехонад, ба ин васила дониши бойро ҷамъ меорад.",
+          "id": "Dia membaca setiap hari, sehingga mengumpulkan pengetahuan yang kaya."
         },
         {
           "zh": "两个人多沟通，从而避免了很多误会。",
           "ru": "Они больше общались и тем самым избежали многих недоразумений.",
           "tk": "Olar köp gürleşdiler we şeýlelikde köp düşünişmezlikden gutuldylar.",
-          "en": "They communicated more, thus avoiding many misunderstandings."
+          "en": "They communicated more, thus avoiding many misunderstandings.",
+          "uz": "Ular ko'proq muloqot qilishdi, shu bilan ko'plab tushunmovchiliklardan qochishdi.",
+          "tg": "Онҳо бештар муошират карданд, ба ин васила аз бисёр нофаҳмиҳо канорагирӣ карданд.",
+          "id": "Mereka lebih banyak berkomunikasi, sehingga menghindari banyak kesalahpahaman."
         },
         {
           "zh": "公司改善了服务，从而赢得了客户的信任。",
           "ru": "Компания улучшила сервис и тем самым завоевала доверие клиентов.",
           "tk": "Kompaniýa hyzmaty gowulandyrdy we şeýlelikde müşderileriň ynamyny gazandy.",
-          "en": "The company improved its service, thereby winning client trust."
+          "en": "The company improved its service, thereby winning client trust.",
+          "uz": "Kompaniya xizmatini yaxshiladi, shu bilan mijozlar ishonchini qozondi.",
+          "tg": "Ширкат хидматрасонии худро беҳтар кард ва бо ин эътимоди мизоҷонро ба даст овард.",
+          "id": "Perusahaan meningkatkan layanannya, sehingga memenangkan kepercayaan klien."
         },
         {
           "zh": "通过运动，他减轻了体重，从而变得更健康了。",
           "ru": "Благодаря спорту он сбросил вес и тем самым стал здоровее.",
           "tk": "Sport arkaly agramyny azaldy we şeýlelikde sagdyn boldy.",
-          "en": "Through exercise, he lost weight and became healthier."
+          "en": "Through exercise, he lost weight and became healthier.",
+          "uz": "Mashqlar orqali u vazn yo'qotdi va sog'lomroq bo'ldi.",
+          "tg": "Тавассути машқ ӯ вазни худро кам кард ва солимтар шуд.",
+          "id": "Melalui olahraga, dia menurunkan berat badan dan menjadi lebih sehat."
         },
         {
           "zh": "多多练习，从而熟能生巧。",
           "ru": "Больше практикуйся — и достигнешь мастерства.",
           "tk": "Köp maşk et, şeýlelikde ussatlyga ýet.",
-          "en": "Practice more, thus achieving mastery."
+          "en": "Practice more, thus achieving mastery.",
+          "uz": "Ko'proq mashq qil, shu bilan mahoratga erishasan.",
+          "tg": "Бештар машқ кунед, то ба маҳорат ноил шавед.",
+          "id": "Berlatih lebih banyak, sehingga mencapai penguasaan."
         }
       ],
       "formula": {
@@ -953,68 +1197,101 @@
       "explanation": {
         "ru": "«为» (wéi) — «становиться, считаться». Часто в составе «变为 / 成为 / 作为».",
         "tk": "«为» (wéi) — «bolmak, hasaplamak».",
-        "en": "'为' (wéi) means 'to become, to count as'. Often in 变为 / 成为 / 作为."
+        "en": "'为' (wéi) means 'to become, to count as'. Often in 变为 / 成为 / 作为.",
+        "uz": "'为' (wéi) 'bo'lmoq, hisoblanmoq' ma'nosini bildiradi. Ko'pincha 变为 / 成为 / 作为 tarkibida uchraydi.",
+        "tg": "'为' (wéi) маънои 'шудан, ҳисобидан'-ро дорад. Аксар вақт дар 变为 / 成为 / 作为 истифода мешавад.",
+        "id": "'为' (wéi) berarti 'menjadi, dianggap sebagai'. Sering dalam 变为 / 成为 / 作为."
       },
       "examples": [
         {
           "zh": "而济南市区的地下岩石变为了火成岩。",
           "ru": "Подземные породы под Цзинанем стали магматическими.",
           "tk": "Tszinanyň aşagyndaky gaýalar magmatik gaýalara öwrüldi.",
-          "en": "The underground rock beneath Ji'nan became igneous rock."
+          "en": "The underground rock beneath Ji'nan became igneous rock.",
+          "uz": "Ji'nan ostidagi yer osti jinsi magmatik jinsga aylandi.",
+          "tg": "Санги зеризаминии зери Ҷинан ба санги оташфишон табдил ёфт.",
+          "id": "Batuan bawah tanah di bawah Ji'nan menjadi batuan beku."
         },
         {
           "zh": "每个人都会遇到各种压力，可是，压力也可以变为动力。",
           "ru": "Каждый испытывает давление, но давление может превратиться в мотивацию.",
           "tk": "Her kim basyşa duçar bolýar, ýöne basyş itergi güýjüne öwrülip biler.",
-          "en": "Everyone faces pressure, but pressure can become motivation."
+          "en": "Everyone faces pressure, but pressure can become motivation.",
+          "uz": "Har bir kishi bosimga duch keladi, ammo bosim motivatsiyaga aylanishi mumkin.",
+          "tg": "Ҳама ба фишор рӯ ба рӯ мешаванд, аммо фишор метавонад ба ҳавасмандӣ табдил ёбад.",
+          "id": "Setiap orang menghadapi tekanan, tetapi tekanan dapat menjadi motivasi."
         },
         {
           "zh": "找工作时，很多人会以收入多少为第一标准。",
           "ru": "При поиске работы многие считают главным критерием доход.",
           "tk": "Iş gözläninde köpler girdejäni ilkinji kriteriý hasaplaýarlar.",
-          "en": "When job-hunting, many take income as the primary criterion."
+          "en": "When job-hunting, many take income as the primary criterion.",
+          "uz": "Ish qidirayotganda, ko'pchilik daromadni asosiy mezon sifatida qabul qiladi.",
+          "tg": "Ҳангоми ҷустуҷӯи кор бисёриҳо даромадро меъёри асосӣ меҳисобанд.",
+          "id": "Saat mencari kerja, banyak yang menjadikan penghasilan sebagai kriteria utama."
         },
         {
           "zh": "在他看来，没有工作的生活就不能称其为生活。",
           "ru": "По его мнению, жизнь без работы нельзя назвать жизнью.",
           "tk": "Onuň pikiriçe, işsiz durmuşy durmuş diýip atlandyryp bolmaýar.",
-          "en": "In his view, life without work can't be called life."
+          "en": "In his view, life without work can't be called life.",
+          "uz": "Uning fikricha, ishsiz hayotni hayot deb atash mumkin emas.",
+          "tg": "Ба ақидаи ӯ, ҳаёт бе кор ҳаёт номида намешавад.",
+          "id": "Menurut pandangannya, hidup tanpa pekerjaan tidak bisa disebut hidup."
         },
         {
           "zh": "他被选为班长。",
           "ru": "Его выбрали старостой.",
           "tk": "Ol synp başlygy saýlandy.",
-          "en": "He was elected class monitor."
+          "en": "He was elected class monitor.",
+          "uz": "U sinf rahbari etib saylandi.",
+          "tg": "Ӯ раиси синф интихоб шуд.",
+          "id": "Dia terpilih sebagai ketua kelas."
         },
         {
           "zh": "这座桥被称为世界奇迹。",
           "ru": "Этот мост называют чудом света.",
           "tk": "Bu köpri dünýä gudraty diýilýär.",
-          "en": "This bridge is called a world wonder."
+          "en": "This bridge is called a world wonder.",
+          "uz": "Bu ko'prik dunyo mo'jizasi deb ataladi.",
+          "tg": "Ин пул муъҷизаи ҷаҳон номида мешавад.",
+          "id": "Jembatan ini disebut keajaiban dunia."
         },
         {
           "zh": "他被评为了优秀员工。",
           "ru": "Его признали лучшим сотрудником.",
           "tk": "Ol iň gowy işgär hasaplandy.",
-          "en": "He was rated an outstanding employee."
+          "en": "He was rated an outstanding employee.",
+          "uz": "U ajoyib xodim deb baholandi.",
+          "tg": "Ӯ корманди аъло баҳо дода шуд.",
+          "id": "Dia dinilai sebagai karyawan berprestasi."
         },
         {
           "zh": "成为医生一直是他的梦想。",
           "ru": "Стать врачом — всегда была его мечтой.",
           "tk": "Lukman bolmak hemişe onuň arzuwydy.",
-          "en": "Becoming a doctor has always been his dream."
+          "en": "Becoming a doctor has always been his dream.",
+          "uz": "Shifokor bo'lish uning doimiy orzusi bo'lgan.",
+          "tg": "Духтур шудан ҳамеша орзуи ӯ буд.",
+          "id": "Menjadi dokter selalu menjadi impiannya."
         },
         {
           "zh": "空气污染被视为严重的社会问题。",
           "ru": "Загрязнение воздуха считается серьёзной социальной проблемой.",
           "tk": "Howanyň hapalanmagy çynlakaý jemgyýetçilik meselesi hasaplanýar.",
-          "en": "Air pollution is regarded as a serious social problem."
+          "en": "Air pollution is regarded as a serious social problem.",
+          "uz": "Havo ifloslanishi jiddiy ijtimoiy muammo deb hisoblanadi.",
+          "tg": "Ифлосшавии ҳаво ҳамчун мушкилоти ҷиддии иҷтимоӣ баррасӣ мешавад.",
+          "id": "Polusi udara dianggap sebagai masalah sosial yang serius."
         },
         {
           "zh": "这件事被传为了佳话。",
           "ru": "Эта история стала притчей во языцех (прекрасной историей).",
           "tk": "Bu waka gowy rowaýata öwrüldi.",
-          "en": "This story became a legend."
+          "en": "This story became a legend.",
+          "uz": "Bu hikoya afsonaga aylandi.",
+          "tg": "Ин ҳикоя ба афсона табдил ёфт.",
+          "id": "Cerita ini menjadi legenda."
         }
       ],
       "formula": {
@@ -1147,7 +1424,10 @@
       "common": {
         "ru": "Оба — «красивый, прекрасный».",
         "tk": "Ikisi hem «owadan, gelşikli».",
-        "en": "Both mean 'beautiful'."
+        "en": "Both mean 'beautiful'.",
+        "uz": "Ikkalasi ham 'chiroyli' degan ma'noni anglatadi.",
+        "tg": "Ҳарду маънои 'зебо' доранд.",
+        "id": "Keduanya berarti 'indah'."
       },
       "differences": [
         {
@@ -1181,7 +1461,10 @@
         "meaning": {
           "ru": "произведение",
           "tk": "eser",
-          "en": "work"
+          "en": "work",
+          "uz": "ish",
+          "tg": "кор",
+          "id": "kerja"
         }
       },
       {
@@ -1190,7 +1473,10 @@
         "meaning": {
           "ru": "стихотворение",
           "tk": "goşgy",
-          "en": "poem"
+          "en": "poem",
+          "uz": "she'r",
+          "tg": "шеър",
+          "id": "puisi"
         }
       },
       {
@@ -1199,7 +1485,10 @@
         "meaning": {
           "ru": "легенда",
           "tk": "rowaýat",
-          "en": "legend"
+          "en": "legend",
+          "uz": "afsona",
+          "tg": "афсона",
+          "id": "legenda"
         }
       },
       {
@@ -1208,7 +1497,10 @@
         "meaning": {
           "ru": "миф",
           "tk": "mif",
-          "en": "myth"
+          "en": "myth",
+          "uz": "mif",
+          "tg": "ривоят",
+          "id": "mitos"
         }
       },
       {
@@ -1217,7 +1509,10 @@
         "meaning": {
           "ru": "драма",
           "tk": "drama",
-          "en": "drama"
+          "en": "drama",
+          "uz": "drama",
+          "tg": "драма",
+          "id": "drama"
         }
       },
       {
@@ -1226,7 +1521,10 @@
         "meaning": {
           "ru": "стиль",
           "tk": "stil",
-          "en": "style"
+          "en": "style",
+          "uz": "uslub",
+          "tg": "услуб",
+          "id": "gaya"
         }
       },
       {
@@ -1235,7 +1533,10 @@
         "meaning": {
           "ru": "образ",
           "tk": "keşp",
-          "en": "image"
+          "en": "image",
+          "uz": "tasvir",
+          "tg": "тасвир",
+          "id": "gambar"
         }
       },
       {
@@ -1244,7 +1545,10 @@
         "meaning": {
           "ru": "очарование",
           "tk": "özüne çekijilik",
-          "en": "charm"
+          "en": "charm",
+          "uz": "joziba",
+          "tg": "зебоӣ",
+          "id": "pesona"
         }
       },
       {
@@ -1253,7 +1557,10 @@
         "meaning": {
           "ru": "живой, яркий",
           "tk": "janly",
-          "en": "vivid"
+          "en": "vivid",
+          "uz": "yorqin",
+          "tg": "равшан",
+          "id": "cerah"
         }
       }
     ]
@@ -1262,7 +1569,10 @@
     "discussion": {
       "ru": "Какую роль играет вода в нашей жизни? Что можно сделать для её экономии?",
       "tk": "Suw durmuşymyzda nähili rol oýnaýar? Ony tygşytlamak üçin näme edip bolar?",
-      "en": "What role does water play in our lives? How can we save it?"
+      "en": "What role does water play in our lives? How can we save it?",
+      "uz": "Suv hayotimizda qanday rol o'ynaydi? Uni qanday tejashimiz mumkin?",
+      "tg": "Об дар ҳаёти мо чӣ нақш дорад? Чӣ тавр мо метавонем онро сарфа кунем?",
+      "id": "Apa peran air dalam kehidupan kita? Bagaimana kita bisa menghematnya?"
     }
   },
   "workbook": {
