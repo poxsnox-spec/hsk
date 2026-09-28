@@ -1,0 +1,31 @@
+{
+  "module": 2,
+  "lesson": 6,
+  "module_title": {
+    "zh": "考察与订购",
+    "ru": "Осмотр и заказ",
+    "en": "Inspection and Ordering",
+    "tk": "Barlag we sargyt",
+    "uz": "Ko'rikdan o'tkazish va buyurtma berish",
+    "tg": "Муоина ва фармоиш",
+    "id": "Inspeksi dan pemesanan"
+  },
+  "title": {
+    "zh": "我接受这个报价",
+    "ru": "Я принимаю это предложение",
+    "en": "I accept this offer",
+    "tk": "Men bu teklibi kabul edýärin",
+    "uz": "Men bu taklifni qabul qilaman",
+    "tg": "Ман ин пешниҳодро қабул мекунам",
+    "id": "Saya menerima tawaran ini"
+  },
+  "status": "stub",
+  "goals": {},
+  "warmup": {},
+  "dialogs": [],
+  "vocabulary": [],
+  "expressions": [],
+  "grammar": [],
+  "exercises": {},
+  "audio": {}
+}

@@ -1,0 +1,31 @@
+{
+  "module": 3,
+  "lesson": 8,
+  "module_title": {
+    "zh": "新产品推广与销售",
+    "ru": "Продвижение и продажи",
+    "en": "Promotion and Sales",
+    "tk": "Öňe sürmek we satuw",
+    "uz": "Targ'ib qilish va sotish",
+    "tg": "Ташвиқ ва фурӯш",
+    "id": "Promosi dan penjualan"
+  },
+  "title": {
+    "zh": "选对了代言人就能事半功倍",
+    "ru": "С правильным амбассадором — вдвое эффективнее",
+    "en": "With the right ambassador, twice as effective",
+    "tk": "Dogry ilçi bilen iki esse netijeli",
+    "uz": "To'g'ri ambassador bilan ikki barobar samarali",
+    "tg": "Бо сафири дуруст — ду баробар самараноктар",
+    "id": "Dengan ambassador yang tepat — dua kali lebih efektif"
+  },
+  "status": "stub",
+  "goals": {},
+  "warmup": {},
+  "dialogs": [],
+  "vocabulary": [],
+  "expressions": [],
+  "grammar": [],
+  "exercises": {},
+  "audio": {}
+}

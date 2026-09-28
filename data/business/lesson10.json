@@ -1,0 +1,31 @@
+{
+  "module": 4,
+  "lesson": 10,
+  "module_title": {
+    "zh": "参加展销会",
+    "ru": "Участие в выставке",
+    "en": "Exhibition Participation",
+    "tk": "Sergä gatnaşmak",
+    "uz": "Ko'rgazmada ishtirok etish",
+    "tg": "Иштирок дар намоишгоҳ",
+    "id": "Partisipasi dalam pameran"
+  },
+  "title": {
+    "zh": "在官网平台申请品牌展位",
+    "ru": "Заявка на бренд-стенд на сайте",
+    "en": "Application for a brand booth on the website",
+    "tk": "Saýtda brend stendi üçin arza",
+    "uz": "Saytda brend-stend uchun ariza",
+    "tg": "Дархост барои стенди бренд дар сайт",
+    "id": "Pendaftaran untuk stan merek di situs web"
+  },
+  "status": "stub",
+  "goals": {},
+  "warmup": {},
+  "dialogs": [],
+  "vocabulary": [],
+  "expressions": [],
+  "grammar": [],
+  "exercises": {},
+  "audio": {}
+}

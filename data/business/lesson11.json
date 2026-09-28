@@ -1,0 +1,31 @@
+{
+  "module": 4,
+  "lesson": 11,
+  "module_title": {
+    "zh": "参加展销会",
+    "ru": "Участие в выставке",
+    "en": "Exhibition Participation",
+    "tk": "Sergä gatnaşmak",
+    "uz": "Ko'rgazmada ishtirok etish",
+    "tg": "Иштирок дар намоишгоҳ",
+    "id": "Partisipasi dalam pameran"
+  },
+  "title": {
+    "zh": "我边介绍边给您演示",
+    "ru": "Расскажу и покажу одновременно",
+    "en": "I'll explain and show at the same time",
+    "tk": "Bir wagtyň özünde gürrüň bererin we görkezerin",
+    "uz": "Bir vaqtning o'zida aytib beraman va ko'rsataman",
+    "tg": "Ҳамзамон ҳикоя мекунам ва нишон медиҳам",
+    "id": "Saya akan menjelaskan dan menunjukkan sekaligus"
+  },
+  "status": "stub",
+  "goals": {},
+  "warmup": {},
+  "dialogs": [],
+  "vocabulary": [],
+  "expressions": [],
+  "grammar": [],
+  "exercises": {},
+  "audio": {}
+}

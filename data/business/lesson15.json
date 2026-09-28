@@ -1,0 +1,31 @@
+{
+  "module": 5,
+  "lesson": 15,
+  "module_title": {
+    "zh": "应聘与入职",
+    "ru": "Собеседование и адаптация",
+    "en": "Interview and Onboarding",
+    "tk": "Söhbetdeşlik we uýumlaşmak",
+    "uz": "Suhbat va moslashuv",
+    "tg": "Мусоҳиба ва мутобиқшавӣ",
+    "id": "Wawancara dan adaptasi"
+  },
+  "title": {
+    "zh": "我把你拉到部门微信群",
+    "ru": "Добавлю тебя в WeChat-группу отдела",
+    "en": "I'll add you to the department WeChat group",
+    "tk": "Seni bölümiň WeChat toparyna goşaryn",
+    "uz": "Seni bo'limning WeChat guruhiga qo'shaman",
+    "tg": "Туро ба гурӯҳи WeChat-и шуъба илова мекунам",
+    "id": "Saya akan menambahkan Anda ke grup WeChat departemen"
+  },
+  "status": "stub",
+  "goals": {},
+  "warmup": {},
+  "dialogs": [],
+  "vocabulary": [],
+  "expressions": [],
+  "grammar": [],
+  "exercises": {},
+  "audio": {}
+}

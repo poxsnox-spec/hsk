@@ -1,0 +1,31 @@
+{
+  "module": 5,
+  "lesson": 13,
+  "module_title": {
+    "zh": "应聘与入职",
+    "ru": "Собеседование и адаптация",
+    "en": "Interview and Onboarding",
+    "tk": "Söhbetdeşlik we uýumlaşmak",
+    "uz": "Suhbat va moslashuv",
+    "tg": "Мусоҳиба ва мутобиқшавӣ",
+    "id": "Wawancara dan adaptasi"
+  },
+  "title": {
+    "zh": "欢迎你参加今天的面试",
+    "ru": "Добро пожаловать на собеседование",
+    "en": "Welcome to the interview",
+    "tk": "Söhbetdeşlige hoş geldiňiz",
+    "uz": "Suhbatga xush kelibsiz",
+    "tg": "Ба мусоҳиба хуш омадед",
+    "id": "Selamat datang untuk wawancara"
+  },
+  "status": "stub",
+  "goals": {},
+  "warmup": {},
+  "dialogs": [],
+  "vocabulary": [],
+  "expressions": [],
+  "grammar": [],
+  "exercises": {},
+  "audio": {}
+}

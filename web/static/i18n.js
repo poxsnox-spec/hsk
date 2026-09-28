@@ -1,6 +1,8 @@
 // Локализация веб-версии
 const STRINGS = {
   ru: {
+    menu_business: "Бизнес-китайский",
+    business_sub: "商务中文 · Business Chinese",
     admin_only: "Доступ только для администратора",
     admin_users: "Пользователи",
     admin_activated: "Активировано",
@@ -165,6 +167,8 @@ const STRINGS = {
     vocab_search_ph: "Поиск по ханзи, пиньиню или переводу...",
   },
   tk: {
+    menu_business: "Biznes hytaý dili",
+    business_sub: "商务中文 · Business Chinese",
     app_name: "HSK 5 Learner",
     menu_lessons: "📚 Sapaklar",
     menu_vocab: "📓 Sözlük",
@@ -329,6 +333,8 @@ const STRINGS = {
     auth_act_fail: "Işjeňleşdirmek başartmady",
     auth_go_login: "Girişe geçmek",},
   uz: {
+    menu_business: "Biznes xitoy tili",
+    business_sub: "商务中文 · Business Chinese",
     app_name: "HSK 5 o'quvchisi",
     menu_lessons: "📚 Darslar",
     menu_vocab: "📓 Lug'at",
@@ -492,6 +498,8 @@ const STRINGS = {
     auth_act_fail: "Faollashtirib bo'lmadi",
     auth_go_login: "Kirishga o'tish",},
   tg: {
+    menu_business: "Забони хитоии тиҷоратӣ",
+    business_sub: "商务中文 · Business Chinese",
     app_name: "Хонандаи HSK 5",
     menu_lessons: "📚 Дарсҳо",
     menu_vocab: "📓 Луғат",
@@ -655,6 +663,8 @@ const STRINGS = {
     auth_act_fail: "Фаъол карда нашуд",
     auth_go_login: "Ба даромад гузаштан",},
   id: {
+    menu_business: "Bahasa Mandarin Bisnis",
+    business_sub: "商务中文 · Business Chinese",
     app_name: "Pelajar HSK 5",
     menu_lessons: "📚 Pelajaran",
     menu_vocab: "📓 Kosakata",
@@ -818,6 +828,8 @@ const STRINGS = {
     auth_act_fail: "Gagal mengaktifkan",
     auth_go_login: "Ke halaman masuk",},
   en: {
+    menu_business: "Business Chinese",
+    business_sub: "商务中文 · Business Chinese",
     app_name: "HSK 5 Learner",
     menu_lessons: "📚 Lessons",
     menu_vocab: "📓 Vocabulary",

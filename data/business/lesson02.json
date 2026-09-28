@@ -1,0 +1,31 @@
+{
+  "module": 1,
+  "lesson": 2,
+  "module_title": {
+    "zh": "接待客商",
+    "ru": "Приём клиентов",
+    "en": "Receiving Clients",
+    "tk": "Müşderileri kabul etmek",
+    "uz": "Mijozlarni qabul qilish",
+    "tg": "Қабули мизоҷон",
+    "id": "Penerimaan klien"
+  },
+  "title": {
+    "zh": "请您确认一下日程安排",
+    "ru": "Подтвердите расписание",
+    "en": "Confirm the schedule",
+    "tk": "Meýilnamany tassyklaň",
+    "uz": "Jadvalni tasdiqlang",
+    "tg": "Ҷадвали вақтро тасдиқ кунед",
+    "id": "Konfirmasikan jadwal"
+  },
+  "status": "stub",
+  "goals": {},
+  "warmup": {},
+  "dialogs": [],
+  "vocabulary": [],
+  "expressions": [],
+  "grammar": [],
+  "exercises": {},
+  "audio": {}
+}

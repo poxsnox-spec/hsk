@@ -204,6 +204,56 @@ def index():
     return send_from_directory(str(STATIC), "index.html")
 
 
+
+
+@app.route("/business")
+def business_page():
+    """Страница Business Chinese."""
+    return send_from_directory(str(STATIC), "business.html")
+
+
+
+# ============================================================
+# Business Chinese
+# ============================================================
+BIZ_DIR = ROOT / "data" / "business"
+
+@app.route("/business/lesson/<int:n>")
+def business_lesson_page(n):
+    """Страница бизнес-урока."""
+    return send_from_directory(str(STATIC), "business_lesson.html")
+
+@app.route("/api/business/lessons")
+def api_business_lessons():
+    """Список всех бизнес-уроков (только шапки)."""
+    if not BIZ_DIR.exists():
+        return jsonify([])
+    out = []
+    for f in sorted(BIZ_DIR.glob("lesson*.json")):
+        try:
+            d = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        out.append({
+            "lesson": d.get("lesson"),
+            "module": d.get("module"),
+            "title": d.get("title", {}),
+            "module_title": d.get("module_title", {}),
+            "status": d.get("status", "full"),
+        })
+    return jsonify(out)
+
+@app.route("/api/business/lessons/<int:n>")
+def api_business_lesson(n):
+    """Полные данные урока."""
+    f = BIZ_DIR / f"lesson{n:02d}.json"
+    if not f.exists():
+        return jsonify({"error": "not found"}), 404
+    try:
+        return jsonify(json.loads(f.read_text(encoding="utf-8")))
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 @app.route("/static/<path:fname>")
 def static_files(fname):
     return send_from_directory(str(STATIC), fname)

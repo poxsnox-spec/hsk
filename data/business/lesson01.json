@@ -1,0 +1,1656 @@
+{
+  "module": 1,
+  "lesson": 1,
+  "module_title": {
+    "zh": "接待客商",
+    "ru": "Приём клиентов",
+    "en": "Receiving Business Guests",
+    "tk": "Müşderileri kabul etmek",
+    "uz": "Mijozlarni qabul qilish",
+    "tg": "Қабули мизоҷон",
+    "id": "Penerimaan klien"
+  },
+  "title": {
+    "zh": "我已经给两位订好酒店了",
+    "pinyin": "Wǒ yǐjīng gěi liǎng wèi dìng hǎo jiǔdiàn le",
+    "ru": "Я уже забронировал вам отель",
+    "en": "I've already booked the hotel for you two",
+    "tk": "Men size eýýäm myhmanhana bron etdim",
+    "uz": "Men sizga mehmonxona band qilib qo'ydim",
+    "tg": "Ман аллакай барои шумо меҳмонхона фармоиш додам",
+    "id": "Saya sudah memesan hotel untuk Anda"
+  },
+  "goals": {
+    "zh": [
+      "能完成接机、酒店入住等商务活动。",
+      "能使用航班信息查询、酒店预订等常用软件。",
+      "能在出入中国海关时正确申报所带物品。"
+    ],
+    "ru": [
+      "Осуществлять приём в аэропорту, регистрацию в отеле и т.п.",
+      "Пользоваться приложениями для проверки рейсов и бронирования отелей.",
+      "Правильно декларировать物品 при прохождении китайской таможни."
+    ],
+    "en": [
+      "Handle business activities like airport pickup and hotel check-in.",
+      "Use flight-tracking and hotel-booking apps.",
+      "Correctly declare belongings at Chinese customs."
+    ],
+    "tk": [
+      "Howa menzilinden garşylamak we myhmanhana ýerleşmek ýaly iş çärelerini ýerine ýetiriň.",
+      "Uçuş yzarlaýyş we myhmanhana bron etmek programmalaryny ulanyň.",
+      "Hytaý gümrükhanasynda şahsy zatlarynyzy dogry beýan ediň."
+    ],
+    "uz": [
+      "Aeroportdan kutib olish va mehmonxonaga joylashish kabi ish tadbirlarini bajaring.",
+      "Parvozni kuzatish va mehmonxona band qilish ilovalaridan foydalaning.",
+      "Xitoy bojxona postida buyumlarni to'g'ri deklaratsiya qiling."
+    ],
+    "tg": [
+      "Фаъолиятҳои тиҷоратиро ба монанди пешвозгирӣ дар фурудгоҳ ва бақайдгирӣ дар меҳмонхона иҷро кунед.",
+      "Барномаҳои пайгирии парвоз ва фармоиши меҳмонхонаро истифода баред.",
+      "Дар гумруки Чин молу мулки худро дуруст эълон кунед."
+    ],
+    "id": [
+      "Menangani kegiatan bisnis seperti penjemputan di bandara dan check-in hotel.",
+      "Gunakan aplikasi pelacak penerbangan dan pemesanan hotel.",
+      "Deklarasikan barang bawaan dengan benar di bea cukai Tiongkok."
+    ]
+  },
+  "warmup": {
+    "question": {
+      "zh": "根据预习时的准备，说一说：",
+      "ru": "Обсудите, опираясь на подготовку:",
+      "en": "Discuss based on your preparation:",
+      "tk": "Taýýarlygyňyza esaslanyp pikir alyşyň:",
+      "uz": "Tayyorgarligingizga asoslanib muhokama qiling:",
+      "tg": "Дар асоси омодагии худ муҳокима кунед:",
+      "id": "Diskusikan berdasarkan persiapan Anda:"
+    },
+    "items": [
+      {
+        "zh": "出差时可能会用到哪些APP？",
+        "ru": "Какие приложения могут понадобиться в командировке?",
+        "en": "Which apps might you use on a business trip?",
+        "tk": "Iş saparynda haýsy programmalary ulanyp bilersiňiz?",
+        "uz": "Ish safari davomida qaysi ilovalardan foydalanishingiz mumkin?",
+        "tg": "Дар сафари тиҷоратӣ кадом барномаҳоро истифода бурда метавонед?",
+        "id": "Aplikasi apa yang mungkin Anda gunakan dalam perjalanan bisnis?"
+      },
+      {
+        "zh": "办理酒店入住的过程是怎样的？",
+        "ru": "Как проходит регистрация в отеле?",
+        "en": "What is the process of hotel check-in?",
+        "tk": "Myhmanhana ýerleşmegiň tertibi nähili?",
+        "uz": "Mehmonxonaga joylashish jarayoni qanday?",
+        "tg": "Раванди бақайдгирӣ дар меҳмонхона чӣ гуна аст?",
+        "id": "Bagaimana proses check-in hotel?"
+      },
+      {
+        "zh": "出入境时哪些物品需要向中国海关申报？",
+        "ru": "Какие物品 нужно декларировать на таможне Китая?",
+        "en": "Which items must be declared at Chinese customs?",
+        "tk": "Hytaý gümrükhanasynda haýsy zatlary beýan etmeli?",
+        "uz": "Xitoy bojxona postida qaysi buyumlarni deklaratsiya qilish kerak?",
+        "tg": "Кадом ашёро дар гумруки Чин бояд эълон кард?",
+        "id": "Barang apa saja yang harus dideklarasikan di bea cukai Tiongkok?"
+      }
+    ]
+  },
+  "dialogs": [
+    {
+      "scene": {
+        "zh": "在机场",
+        "ru": "В аэропорту",
+        "en": "At the airport",
+        "tk": "Howa menzilinde",
+        "uz": "Aeroportda",
+        "tg": "Дар фурудгоҳ",
+        "id": "Di bandara"
+      },
+      "audio": "dialog_airport.mp3",
+      "lines": [
+        {
+          "speaker": "孟安诺",
+          "zh": "欢迎来到深圳！",
+          "pinyin": "Huānyíng lái dào Shēnzhèn!",
+          "ru": "Добро пожаловать в Шэньчжэнь!",
+          "en": "Welcome to Shenzhen!",
+          "tk": "Şenžene hoş geldiňiz!",
+          "uz": "Shenzhenga xush kelibsiz!",
+          "tg": "Хуш омадед ба Шенzhen!",
+          "id": "Selamat datang di Shenzhen!"
+        },
+        {
+          "speaker": "安娜",
+          "zh": "谢谢。实在抱歉，天气不好，航班延误了。另外，过海关时，我们托运的行李中有些东西需要申报，让您久等了。",
+          "pinyin": "Xièxie. Shízài bàoqiàn, tiānqì bù hǎo, hángbān yánwù le. Lìngwài, guò hǎiguān shí, wǒmen tuōyùn de xíngli zhōng yǒu xiē dōngxi xūyào shēnbào, ràng nín jiǔděng le.",
+          "ru": "Спасибо. Прошу прощения — погода плохая, рейс задержали. К тому же на таможне пришлось декларировать часть багажа, извините, что заставили ждать.",
+          "en": "Thank you. Sorry — bad weather, our flight was delayed. Also, at customs we had to declare some items in our checked luggage, sorry to keep you waiting.",
+          "tk": "Sag boluň. Bagyşlaň — howa ýaramaz boldy, uçuşymyz gijä galdy. Şeýle hem, gümrükhanada barlanan ýükümizdäki käbir zatlary beýan etmeli boldum, garaşdyranymyz üçin bagyşlaň.",
+          "uz": "Rahmat. Kechirasiz — ob-havo yomon bo'lib, parvozimiz kechiktirildi. Shuningdek, bojxonada ro'yxatdan o'tkazilgan yukimizdagi ba'zi buyumlarni deklaratsiya qilishimizga to'g'ri keldi, sizni kutdirganimiz uchun kechirasiz.",
+          "tg": "Ташаккур. Бубахшед — ҳавои бад, парвози мо ба таъхир афтод. Инчунин, дар гумрук мо бояд баъзе ашёро дар бағоҷи қайдшуда эълон мекардем, бубахшед, ки шуморо интизор кардем.",
+          "id": "Terima kasih. Maaf — cuaca buruk, penerbangan kami tertunda. Selain itu, di bea cukai kami harus mendeklarasikan beberapa barang di bagasi tercatat kami, maaf membuat Anda menunggu."
+        },
+        {
+          "speaker": "孟安诺",
+          "zh": "没事儿，我在“飞常准”上看到延误信息了，正好利用这个时间回了几封邮件。",
+          "pinyin": "Méi shìr, wǒ zài “Fēichángzhǔn” shàng kàn dào yánwù xìnxī le, zhènghǎo lìyòng zhège shíjiān huí le jǐ fēng yóujiàn.",
+          "ru": "Ничего страшного — я видел информацию о задержке в «Фэйчанчжунь», как раз использовал это время, чтобы ответить на несколько писем.",
+          "en": "No worries — I saw the delay on “Feichangzhun” and used the time to reply to a few emails.",
+          "tk": "Alada etmäň — “Feichangzhun” programmasynda gijä galmany gördüm we wagty birnäçe e-poçta jogap bermek üçin ulandym.",
+          "uz": "Hechqisi yo'q — \"Feichangzhun\"da kechikishni ko'rdim va vaqtdan bir nechta elektron xatlarga javob berish uchun foydalandim.",
+          "tg": "Ғам нахӯред — ман таъхирро дар «Фейчангжун» дидам ва вақтро барои ҷавоб додан ба чанд почтаи электронӣ истифода кардам.",
+          "id": "Tidak masalah — saya melihat penundaannya di \"Feichangzhun\" dan menggunakan waktunya untuk membalas beberapa email."
+        },
+        {
+          "speaker": "安娜",
+          "zh": "“非常准”？",
+          "pinyin": "“Fēichángzhǔn”?",
+          "ru": "«Фэйчанчжунь»?",
+          "en": "“Feichangzhun”?",
+          "tk": "“Feichangzhun”?",
+          "uz": "\"Feichangzhun\"mi?",
+          "tg": "«Фейчангжун»?",
+          "id": "\"Feichangzhun\"?"
+        },
+        {
+          "speaker": "孟安诺",
+          "zh": "对，这个软件能实时显示航班信息，也能预订机票，出差用特别方便。",
+          "pinyin": "Duì, zhège ruǎnjiàn néng shíshí xiǎnshì hángbān xìnxī, yě néng yùdìng jīpiào, chūchāi yòng tèbié fāngbiàn.",
+          "ru": "Да, это приложение в реальном времени показывает информацию о рейсах и позволяет бронировать билеты — очень удобно в командировке.",
+          "en": "Yes, this app displays real-time flight info and lets you book tickets — very handy for business trips.",
+          "tk": "Hawa, bu programma real wagtda uçuş maglumatlaryny görkezýär we bilet bron etmäge mümkinçilik berýär — iş saparlary üçin örän amatly.",
+          "uz": "Ha, bu ilova real vaqtda parvoz ma'lumotlarini ko'rsatadi va chipta band qilish imkonini beradi — ish safarlari uchun juda qulay.",
+          "tg": "Бале, ин барнома маълумоти парвозро дар вақти воқеӣ нишон медиҳад ва имкон медиҳад, ки чипта фармоиш диҳед — барои сафарҳои тиҷоратӣ хеле қулай аст.",
+          "id": "Ya, aplikasi ini menampilkan informasi penerbangan secara real-time dan memungkinkan Anda memesan tiket — sangat praktis untuk perjalanan bisnis."
+        },
+        {
+          "speaker": "安娜",
+          "zh": "哦，是飞机的“飞”啊，我以为是非常的“非”呢，那我也下载一个。对了，您汉语说得太地道了。",
+          "pinyin": "Ò, shì fēijī de “fēi” a, wǒ yǐwéi shì fēicháng de “fēi” ne, nà wǒ yě xiàzài yī gè. Duì le, nín Hànyǔ shuō de tài dìdao le.",
+          "ru": "А, это «飞» от «самолёта», а я думала — «非» от «очень». Тогда я тоже скачаю. Кстати, вы говорите по-китайски очень аутентично.",
+          "en": "Oh, it's “fēi” from “airplane” — I thought it was “fēi” from “very”. I'll download it too. By the way, your Chinese is so authentic.",
+          "tk": "A, bu “uçak”daky “fēi” eken — men ony “örän” manyly “fēi” diýip pikir edipdim. Men hem ýükläp alaryn. Ýeri gelende aýtsam, siziň hytaý diliňiz gaty tebigy.",
+          "uz": "Oh, bu “samolyot”dagi “fēi” ekan — men “juda”dagi “fēi” deb o‘ylagandim. Men ham yuklab olaman. Aytgancha, sizning xitoy tilingiz juda tabiiy.",
+          "tg": "Оҳ, ин “фэй” аз “ҳавопаймо” аст — ман фикр мекардам, ки “фэй” аз “хеле” аст. Ман ҳам онро зеркашӣ мекунам. Дар омади гап, забони хитоии шумо хеле табиӣ аст.",
+          "id": "Oh, itu “fēi” dari “pesawat” — saya kira “fēi” dari “sangat”. Saya akan mengunduhnya juga. Ngomong-ngomong, bahasa Mandarin Anda sangat autentik."
+        },
+        {
+          "speaker": "孟安诺",
+          "zh": "您的汉语也不错啊，我在电话里还以为您是中国人呢！",
+          "pinyin": "Nín de Hànyǔ yě búcuò a, wǒ zài diànhuà lǐ hái yǐwéi nín shì Zhōngguórén ne!",
+          "ru": "Ваш китайский тоже отличный — по телефону я даже подумал, что вы китаянка!",
+          "en": "Your Chinese is great too — on the phone I even thought you were Chinese!",
+          "tk": "Siziň hem hytaý diliňiz ajaýyp — telefonda hatda sizi hytaýly diýip pikir etdim!",
+          "uz": "Sizning xitoy tilingiz ham juda yaxshi — telefonda hatto sizni xitoylik deb o‘yladim!",
+          "tg": "Забони хитоии шумо ҳам олӣ аст — дар телефон ман ҳатто фикр кардам, ки шумо хитоӣ ҳастед!",
+          "id": "Bahasa Mandarin Anda juga bagus — di telepon saya bahkan mengira Anda orang Tionghoa!"
+        },
+        {
+          "speaker": "安娜",
+          "zh": "哪里哪里。我来介绍一下，这位是我们采购部总经理Jason，这位是讯达公司的孟安诺。",
+          "pinyin": "Nǎli nǎli. Wǒ lái jièshào yīxià, zhè wèi shì wǒmen cǎigòu bù zǒngjīnglǐ Jason, zhè wèi shì Xùndá gōngsī de Mèng Ānnuò.",
+          "ru": "Что вы, что вы. Позвольте представить: это генеральный менеджер нашего отдела закупок Jason, а это Мэн Аньно из компании «Сюньда».",
+          "en": "You flatter me. Let me introduce: this is Jason, general manager of our procurement department, and this is Meng Annuo from Xunda.",
+          "tk": "Siz meni öwýärsiňiz. Tanyşdyraýyn: bu Jýson, biziň satyn alyş bölümimiziň baş müdiri, bu bolsa Xunda-dan Men Annuo.",
+          "uz": "Siz meni maqtayapsiz. Tanishtirib qo‘yay: bu Jason, bizning xarid bo‘limimiz bosh menejeri, bu esa Xunda kompaniyasidan Men Annuo.",
+          "tg": "Шумо маро ситоиш мекунед. Иҷозат диҳед муаррифӣ кунам: ин Ҷейсон, менеҷери умумии шӯъбаи хариди мо, ва ин Мэн Аннуо аз Шунда.",
+          "id": "Anda terlalu memuji. Izinkan saya memperkenalkan: ini Jason, manajer umum departemen pengadaan kami, dan ini Meng Annuo dari Xunda."
+        },
+        {
+          "speaker": "孟安诺",
+          "zh": "您好！孟先生。",
+          "pinyin": "Nín hǎo! Mèng xiānsheng.",
+          "ru": "Здравствуйте, господин Мэн!",
+          "en": "Hello, Mr. Meng!",
+          "tk": "Salam, jenap Men!",
+          "uz": "Assalomu alaykum, janob Men!",
+          "tg": "Салом, ҷаноби Мэн!",
+          "id": "Halo, Tuan Meng!"
+        },
+        {
+          "speaker": "孟安诺",
+          "zh": "您好，Jason先生。我叫了个专车，在地下停车场，咱们坐直梯下去吧。我已经给两位订好酒店了，咱们先去办理入住。",
+          "pinyin": "Nín hǎo, Jason xiānsheng. Wǒ jiào le ge zhuānchē, zài dìxià tíngchēchǎng, zánmen zuò zhítī xiàqù ba. Wǒ yǐjīng gěi liǎng wèi dìng hǎo jiǔdiàn le, zánmen xiān qù bǎnlǐ rùzhù.",
+          "ru": "Здравствуйте, господин Jason. Я вызвал такси-премиум, оно на подземной парковке — давайте спустимся на лифте. Я уже забронировал отель, сначала заселимся.",
+          "en": "Hello, Mr. Jason. I called a premium car — it's in the underground parking. Let's take the elevator down. I've already booked your hotel, let's check in first.",
+          "tk": "Salam, jenap Jýson. Men premium awtoulag çagyrdym — ol ýerasty awtoulag duralgasynda. Geliň, lift bilen aşak düşeliň. Men siziň myhmanhananyzyny eýýäm bron edip goýdum, ilki bilen ýerleşeliň.",
+          "uz": "Assalomu alaykum, janob Jason. Men premium avtomobil chaqirdim — u yer ostidagi avtoturargohda. Keling, liftda pastga tushamiz. Mehmonxonangizni allaqachon band qilib qo‘ydim, avval ro‘yxatdan o‘tamiz.",
+          "tg": "Салом, ҷаноби Ҷейсон. Ман мошини премиум даъват кардам — он дар таваққуфгоҳи зеризаминӣ аст. Биёед бо лифт поён равем. Ман аллакай меҳмонхонаи шуморо фармоиш додам, биёед аввал ҷойгир шавем.",
+          "id": "Halo, Tuan Jason. Saya memesan mobil premium — mobilnya ada di parkir bawah tanah. Mari kita turun dengan lift. Saya sudah memesan hotel Anda, mari kita check-in dulu."
+        },
+        {
+          "speaker": "Jason",
+          "zh": "好的！",
+          "pinyin": "Hǎo de!",
+          "ru": "Хорошо!",
+          "en": "OK!",
+          "tk": "Bolýar!",
+          "uz": "Yaxshi!",
+          "tg": "Хуб!",
+          "id": "Oke!"
+        }
+      ]
+    },
+    {
+      "scene": {
+        "zh": "在酒店前台",
+        "ru": "На ресепшн отеля",
+        "en": "At the hotel front desk",
+        "tk": "Myhmanhananyň kabulhanasynda",
+        "uz": "Mehmonxona qabulxonasida",
+        "tg": "Дар қабулгоҳи меҳмонхона",
+        "id": "Di resepsionis hotel"
+      },
+      "audio": "dialog_hotel.mp3",
+      "lines": [
+        {
+          "speaker": "服务员",
+          "zh": "先生您好！请问您有预订吗？",
+          "pinyin": "Xiānsheng nín hǎo! Qǐngwèn nín yǒu yùdìng ma?",
+          "ru": "Здравствуйте! У вас есть бронь?",
+          "en": "Hello sir! Do you have a reservation?",
+          "tk": "Salam, jenap! Siziň bronuňyz barmy?",
+          "uz": "Assalomu alaykum, janob! Joy band qilganmisiz?",
+          "tg": "Салом, ҷаноб! Шумо фармоиш доред?",
+          "id": "Halo, Tuan! Apakah Anda sudah memesan kamar?"
+        },
+        {
+          "speaker": "孟安诺",
+          "zh": "有，两间高级大床房，23号到26号。",
+          "pinyin": "Yǒu, liǎng jiān gāojí dàchuángfáng, èrshísān hào dào èrshíliù hào.",
+          "ru": "Да, два улучшенных номера с большой кроватью, с 23 по 26.",
+          "en": "Yes, two deluxe king rooms, from the 23rd to the 26th.",
+          "tk": "Hawa, iki sany lýuks king otag, 23-den 26-na çenli.",
+          "uz": "Ha, ikkita lyuks keng xona, 23-dan 26-gacha.",
+          "tg": "Бале, ду ҳуҷраи делюкс бо кати калон, аз 23 то 26.",
+          "id": "Ya, dua kamar deluxe king, dari tanggal 23 sampai 26."
+        },
+        {
+          "speaker": "服务员",
+          "zh": "好的，请出示一下证件。",
+          "pinyin": "Hǎo de, qǐng chūshì yīxià zhèngjiàn.",
+          "ru": "Хорошо, покажите документы, пожалуйста.",
+          "en": "OK, please show your ID.",
+          "tk": "Bolýar, haýyş, şahsyýetnamaňyzy görkeziň.",
+          "uz": "Yaxshi, iltimos, shaxsni tasdiqlovchi hujjatingizni ko‘rsating.",
+          "tg": "Хуб, лутфан шиносномаи худро нишон диҳед.",
+          "id": "Baik, mohon tunjukkan identitas Anda."
+        },
+        {
+          "speaker": "安娜",
+          "zh": "这是我们的护照。",
+          "pinyin": "Zhè shì wǒmen de hùzhào.",
+          "ru": "Вот наши паспорта.",
+          "en": "Here are our passports.",
+          "tk": "Ine, biziň pasportlarymyz.",
+          "uz": "Mana pasportlarimiz.",
+          "tg": "Ин шиносномаҳои мо.",
+          "id": "Ini paspor kami."
+        },
+        {
+          "speaker": "服务员",
+          "zh": "系统里显示您的房费总额是1800元。",
+          "pinyin": "Xìtǒng lǐ xiǎnshì nín de fángfèi zǒng'é shì yīqiān bābǎi yuán.",
+          "ru": "В системе отображается, что общая сумма за номер — 1800 юаней.",
+          "en": "The system shows your total room charge is 1,800 yuan.",
+          "tk": "Ulgam siziň umumy otag tölegiňiziň 1800 ýuwan bolandygyny görkezýär.",
+          "uz": "Tizimda ko‘rsatilishicha, xonalar uchun jami to‘lov 1800 yuan.",
+          "tg": "Система нишон медиҳад, ки ҳаққи умумии ҳуҷраи шумо 1800 юан аст.",
+          "id": "Sistem menunjukkan total biaya kamar Anda adalah 1.800 yuan."
+        },
+        {
+          "speaker": "安娜",
+          "zh": "给你信用卡。",
+          "pinyin": "Gěi nǐ xìnyòngkǎ.",
+          "ru": "Вот кредитная карта.",
+          "en": "Here's my credit card.",
+          "tk": "Ine, meniň kredit kartym.",
+          "uz": "Mana kredit kartam.",
+          "tg": "Ин корти кредитии ман.",
+          "id": "Ini kartu kredit saya."
+        },
+        {
+          "speaker": "服务员",
+          "zh": "先冻结您2000元的预授权作为押金，结算时房费会从预授权中扣除。",
+          "pinyin": "Xiān dòngjié nín liǎngqiān yuán de yùshòuquán zuòwéi yājīn, jiésuàn shí fángfèi huì cóng yùshòuquán zhōng kòuchú.",
+          "ru": "Сначала заморозим 2000 юаней (предавторизация) как депозит; при расчёте стоимость номера будет вычтена из предавторизации.",
+          "en": "First, we'll freeze a pre-authorization of 2,000 yuan as a deposit; the room rate will be deducted at settlement.",
+          "tk": "Ilki bilen, girew hökmünde 2000 ýuwanlyk öňünden awtorizasiýa saklarys; otag tölegi hasaplaşykda aýrylar.",
+          "uz": "Avval garov sifatida 2000 yuan miqdorida oldindan avtorizatsiya muzlatiladi; xona narxi hisob-kitob paytida yechib olinadi.",
+          "tg": "Аввал мо 2000 юанро ҳамчун пешпардохт манъ мекунем; ҳаққи ҳуҷра ҳангоми ҳисоббаробаркунӣ тарҳ карда мешавад.",
+          "id": "Pertama, kami akan membekukan pra-otorisasi sebesar 2.000 yuan sebagai deposit; tarif kamar akan dipotong saat penyelesaian."
+        },
+        {
+          "speaker": "安娜",
+          "zh": "好的。",
+          "pinyin": "Hǎo de.",
+          "ru": "Хорошо.",
+          "en": "OK.",
+          "tk": "Bolýar.",
+          "uz": "Yaxshi.",
+          "tg": "Хуб.",
+          "id": "Oke."
+        },
+        {
+          "speaker": "服务员",
+          "zh": "给您房卡，退房时间是中午12点之前。早餐时间从7点到10点，在二楼自助餐厅。",
+          "pinyin": "Gěi nín fángkǎ, tuìfáng shíjiān shì zhōngwǔ shí'èr diǎn zhīqián. Zǎocān shíjiān cóng qī diǎn dào shí diǎn, zài èr lóu zìzhù cāntīng.",
+          "ru": "Вот ваши ключи. Выписка — до 12:00. Завтрак с 7:00 до 10:00, на втором этаже, шведский стол.",
+          "en": "Here are your room keys. Check-out is before 12:00. Breakfast is from 7 to 10 on the 2nd floor, buffet.",
+          "tk": "Bular otag açarlaryňyz. Çykyş 12:00-den öň. Ertirlik nahary 2-nji gatda, 7-den 10-a çenli, açyk bufet.",
+          "uz": "Mana xona kalitlaringiz. Chiqish 12:00 dan oldin. Nonushta 2-qavatda, 7 dan 10 gacha, bufet.",
+          "tg": "Ин калидҳои ҳуҷраи шумо. Ҳисоббаробаркунӣ то соати 12:00 аст. Наҳорӣ аз соати 7 то 10 дар ошёнаи дуюм, буфет мебошад.",
+          "id": "Ini kunci kamar Anda. Check-out sebelum pukul 12.00. Sarapan dari pukul 7 hingga 10 di lantai 2, prasmanan."
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "hanzi": "延误",
+      "pinyin": "yánwù",
+      "pos": "v.",
+      "meaning": {
+        "ru": "задерживаться (о рейсе)",
+        "en": "to delay",
+        "tk": "gijikdirmek",
+        "uz": "kechiktirmoq",
+        "tg": "таъхир кардан",
+        "id": "menunda"
+      },
+      "simple": {
+        "ru": "«延误» — значит опоздать по сравнению с установленным временем.",
+        "en": "“延误” means being later than the set time.",
+        "tk": "«Gijikdirmek» bellenen wagtdan soň bolmagy aňladýar.",
+        "uz": "“Kechikish” belgilangan vaqtdan keyin bo‘lishni bildiradi.",
+        "tg": "«Таъхир» маънои дертар аз вақти муқарраршуда расиданро дорад.",
+        "id": "“延误” berarti lebih lambat dari waktu yang telah ditetapkan."
+      },
+      "examples": [
+        {
+          "zh": "前往喀什的CA1477次航班计划13:20起飞，因为大雪，现在预计要21:00才能起飞，延误了大约8个小时。",
+          "ru": "Рейс CA1477 в Кашгар должен был вылететь в 13:20, но из-за снегопада вылет теперь ожидается в 21:00 — задержка около 8 часов.",
+          "en": "Flight CA1477 to Kashgar was scheduled for 13:20, but due to heavy snow it's now expected to take off at 21:00 — a delay of about 8 hours.",
+          "tk": "Kaşgara uçýan CA1477 reýsi 13:20-de uçmalydy, ýöne güýçli gar sebäpli indi 21:00-de uçmagyna garaşylýar — takmynan 8 sagat gijikme.",
+          "uz": "Qashqarga CA1477 reysi 13:20 ga belgilangan edi, ammo kuchli qor tufayli endi 21:00 da uchishi kutilmoqda — taxminan 8 soat kechikish.",
+          "tg": "Парвози CA1477 ба Қошғар барои соати 13:20 ба нақша гирифта шуда буд, аммо аз сабаби бориши шадид ҳоло парвоз дар соати 21:00 интизор меравад — таъхири тақрибан 8 соат.",
+          "id": "Penerbangan CA1477 ke Kashgar dijadwalkan pukul 13.20, tetapi karena salju lebat kini diperkirakan lepas landas pukul 21.00 — tertunda sekitar 8 jam."
+        }
+      ],
+      "question": {
+        "ru": "По каким причинам обычно задерживают самолёты?",
+        "en": "What usually causes flight delays?",
+        "tk": "Uçuşlaryň gijikmegine adatça näme sebäp bolýar?",
+        "uz": "Parvozlar odatda nima sababdan kechikadi?",
+        "tg": "Одатан чӣ боиси таъхири парвоз мегардад?",
+        "id": "Apa yang biasanya menyebabkan keterlambatan penerbangan?"
+      }
+    },
+    {
+      "hanzi": "海关",
+      "pinyin": "hǎiguān",
+      "pos": "n.",
+      "meaning": {
+        "ru": "таможня",
+        "en": "customs",
+        "tk": "gümrük",
+        "uz": "bojxona",
+        "tg": "гумрук",
+        "id": "bea cukai"
+      },
+      "simple": {
+        "ru": "«海关» — государственный орган, который проверяет товары и物品 на границе, взимает пошлины.",
+        "en": "“海关” is the state body that checks goods at the border and collects duties.",
+        "tk": "«Gümrük» — serhetde harytlary barlaýan we paýlary ýygnaýan döwlet edarasydyr.",
+        "uz": "“Bojxona” — chegarada tovarlarni tekshiruvchi va boj yig‘uvchi davlat organi.",
+        "tg": "«Гумрук» мақоми давлатӣ аст, ки молро дар сарҳад тафтиш мекунад ва боҷ ҷамъоварӣ менамояд.",
+        "id": "“海关” adalah badan negara yang memeriksa barang di perbatasan dan memungut bea masuk."
+      },
+      "examples": [
+        {
+          "zh": "出国旅行或留学前，最好先上网查一查，什么东西不能过海关。",
+          "ru": "Перед поездкой или учёбой за границей лучше проверить в интернете, что нельзя провозить через таможню.",
+          "en": "Before traveling or studying abroad, it's best to check online what you can't bring through customs.",
+          "tk": "Daşary ýurda syýahat etmezden ýa-da okamazdan öň, gümrükden näme getirip bolmaýandygyny onlaýn barlamak iň gowusydyr.",
+          "uz": "Chetga sayohat yoki o‘qishga ketishdan oldin bojxonadan nimalarni olib o‘tish mumkin emasligini internetdan tekshirib olgan ma’qul.",
+          "tg": "Пеш аз сафар ё таҳсил дар хориҷа, беҳтар аст, ки дар интернет тафтиш кунед, ки чӣ чизро тавассути гумрук овардан мумкин нест.",
+          "id": "Sebelum bepergian atau belajar ke luar negeri, sebaiknya cek di internet apa yang tidak boleh dibawa melewati bea cukai."
+        }
+      ],
+      "question": {
+        "ru": "Что нельзя провозить через китайскую таможню?",
+        "en": "What cannot go through Chinese customs?",
+        "tk": "Hytaý gümrükden näme geçirip bolmaýar?",
+        "uz": "Xitoy bojxonasidan nimalarni olib o‘tish mumkin emas?",
+        "tg": "Чӣ чизро тавассути гумруки Чин овардан мумкин нест?",
+        "id": "Apa yang tidak boleh melewati bea cukai Tiongkok?"
+      }
+    },
+    {
+      "hanzi": "托运",
+      "pinyin": "tuōyùn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "сдать в багаж",
+        "en": "to consign (luggage)",
+        "tk": "ýük tabşyrmak",
+        "uz": "topshirmoq (yukni)",
+        "tg": "супоридан (бор)",
+        "id": "menitipkan (bagasi)"
+      },
+      "simple": {
+        "ru": "«托运» — сдать вещи транспортной компании. В аэропорту обычно сдаём крупный багаж, чтобы не нести его в салон.",
+        "en": "“托运” means handing things to a transport company. At the airport we check in large luggage so we don't have to carry it on board.",
+        "tk": "«Ýük tabşyrmak» zatlary transport kompaniýasyna tabşyrmagy aňladýar. Aeroportda uly ýükleri uçarda götermeli bolmazlyk üçin barlagdan geçirýäris.",
+        "uz": "“Topshirish” narsalarni transport kompaniyasiga berishni bildiradi. Aeroportda katta yuklarni ro‘yxatdan o‘tkazamiz, shunda ularni samolyotga olib chiqish shart bo‘lmaydi.",
+        "tg": "«Супоридан» маънои чизеро ба ширкати нақлиёт доданро дорад. Дар фурудгоҳ мо бори калонро супорида, сабти ном мекунем, то ки онро ба ҳавопаймо набардем.",
+        "id": "“托运” berarti menyerahkan barang kepada perusahaan transportasi. Di bandara kami menitipkan bagasi besar agar tidak perlu membawanya ke kabin."
+      },
+      "examples": [
+        {
+          "zh": "我们的行李很多，需要提前到机场办理托运。",
+          "ru": "У нас много багажа, нужно приехать в аэропорт заранее и сдать его.",
+          "en": "We have a lot of luggage and need to arrive at the airport early to check it in.",
+          "tk": "Bizde köp ýük bar, şonuň üçin ony tabşyrmak üçin aeroporta ir gelmeli.",
+          "uz": "Bizda yuk ko‘p, shuning uchun uni ro‘yxatdan o‘tkazish uchun aeroportga erta yetib borishimiz kerak.",
+          "tg": "Мо бори зиёд дорем ва бояд барвақт ба фурудгоҳ расида, онро супорида сабти ном кунем.",
+          "id": "Kami membawa banyak bagasi dan perlu tiba di bandara lebih awal untuk menitipkannya."
+        }
+      ],
+      "question": {
+        "ru": "Что обычно сдают в багаж при перелёте?",
+        "en": "What do you usually check in when flying?",
+        "tk": "Uçanda adatça nämäni tabşyrýarsyňyz?",
+        "uz": "Samolyotda uchayotganda odatda nimalarni ro‘yxatdan o‘tkazasiz?",
+        "tg": "Ҳангоми парвоз одатан чӣ чизро супорида сабти ном мекунед?",
+        "id": "Apa yang biasanya Anda titipkan saat naik pesawat?"
+      }
+    },
+    {
+      "hanzi": "申报",
+      "pinyin": "shēnbào",
+      "pos": "v.",
+      "meaning": {
+        "ru": "декларировать",
+        "en": "to declare",
+        "tk": "beýan etmek",
+        "uz": "deklaratsiya qilmoq",
+        "tg": "эълон кардан",
+        "id": "mendeklarasikan"
+      },
+      "simple": {
+        "ru": "«申报» — письменно сообщить в соответствующие органы. На таможне вы заполняете декларацию на物品, требующие说明.",
+        "en": "“申报” means reporting in writing. At customs, you fill in a declaration form for items that need to be specified.",
+        "tk": "«Beýan etmek» ýazmaça habar bermegi aňladýar. Gümrükde görkezilmeli zatlar üçin beýannama formyny doldurýarsyňyz.",
+        "uz": "“Deklaratsiya qilish” yozma ravishda xabar berishni bildiradi. Bojxonada ko‘rsatilishi kerak bo‘lgan narsalar uchun deklaratsiya shaklini to‘ldirasiz.",
+        "tg": "«Эълон» маънои хаттӣ хабар доданро дорад. Дар гумрук барои молҳое, ки бояд нишон дода шаванд, шумо варақаи эъломияро пур мекунед.",
+        "id": "“申报” berarti melaporkan secara tertulis. Di bea cukai, Anda mengisi formulir deklarasi untuk barang yang perlu dicantumkan."
+      },
+      "examples": [
+        {
+          "zh": "中国海关规定，如果带的香烟超过400支，需要向海关申报。",
+          "ru": "Китайская таможня требует декларировать более 400 сигарет.",
+          "en": "Chinese customs requires declaring more than 400 cigarettes.",
+          "tk": "Hytaýyň gümrük gullugy 400-den gowrak çilimiň beýan edilmegini talap edýär.",
+          "uz": "Xitoy bojxona qoidalariga ko‘ra, 400 dan ortiq sigaretani deklaratsiya qilish talab etiladi.",
+          "tg": "Гумруки Чин талаб мекунад, ки зиёда аз 400 сигор эълон карда шавад.",
+          "id": "Bea cukai Tiongkok mewajibkan deklarasi lebih dari 400 batang rokok."
+        }
+      ],
+      "question": {
+        "ru": "Какие物品 нужно декларировать при въезде в вашу страну?",
+        "en": "Which items must be declared when entering your country?",
+        "tk": "Ýurduňyza girenizde haýsy zatlar beýan edilmeli?",
+        "uz": "Mamlakatingizga kirishda qaysi narsalarni deklaratsiya qilish kerak?",
+        "tg": "Ҳангоми ворид шудан ба кишвари шумо кадом молҳоро бояд эълон кард?",
+        "id": "Barang apa saja yang harus dideklarasikan saat masuk ke negara Anda?"
+      }
+    },
+    {
+      "hanzi": "实时",
+      "pinyin": "shíshí",
+      "pos": "adv.",
+      "meaning": {
+        "ru": "в реальном времени",
+        "en": "real-time",
+        "tk": "real wagt",
+        "uz": "real vaqtda",
+        "tg": "вақти воқеӣ",
+        "id": "waktu nyata"
+      },
+      "simple": {
+        "ru": "«实时» — синхронно с происходящим.",
+        "en": "“实时” means synchronously with what's happening.",
+        "tk": "«Real wagt» häzir bolup geçýän waka bilen sinhron manyny berýär.",
+        "uz": "“实时” nima bo‘layotgani bilan sinxron tarzda degan ma’noni bildiradi.",
+        "tg": "«Вақти воқеӣ» маънои ҳамзамон бо он чизе, ки рӯй медиҳад, аст.",
+        "id": "\"Waktu nyata\" berarti sinkron dengan apa yang sedang terjadi."
+      },
+      "examples": [
+        {
+          "zh": "“实时公交”APP可以让乘客实时查到要坐的公交车开到哪儿了。",
+          "ru": "Приложение «实时公交» позволяет пассажиру в реальном времени видеть, где сейчас нужный автобус.",
+          "en": "The “Real-time Bus” app lets passengers see in real time where their bus is.",
+          "tk": "«Real wagt awtobus» programmasy ýolagçylara awtobusynyň nirede bolandygyny real wagtda görmäge mümkinçilik berýär.",
+          "uz": "“Real vaqtda avtobus” ilovasi yo‘lovchilarga avtobusi qayerda ekanini real vaqtda ko‘rish imkonini beradi.",
+          "tg": "Барномаи «Автобуси вақти воқеӣ» ба мусофирон имкон медиҳад, ки дар вақти воқеӣ бубинанд, ки автобусашон дар куҷост.",
+          "id": "Aplikasi \"Bus Waktu Nyata\" memungkinkan penumpang melihat posisi bus mereka secara waktu nyata."
+        }
+      ],
+      "question": {
+        "ru": "Какой сейчас实时 курс вашей валюты к юаню?",
+        "en": "What is your currency's real-time rate to the yuan?",
+        "tk": "Puluňyzyň ýuana bolan real wagt kursy näçe?",
+        "uz": "Valyutangizning yuanga nisbatan real vaqtdagi kursi qanday?",
+        "tg": "Қурби вақти воқеии пули шумо ба юан чӣ қадар аст?",
+        "id": "Berapa kurs waktu nyata mata uang Anda terhadap yuan?"
+      }
+    },
+    {
+      "hanzi": "显示",
+      "pinyin": "xiǎnshì",
+      "pos": "v.",
+      "meaning": {
+        "ru": "отображать, показывать",
+        "en": "to display, show",
+        "tk": "görkezmek, ekranda görkezmek",
+        "uz": "ko‘rsatmoq, namoyish etmoq",
+        "tg": "нишон додан, намоиш додан",
+        "id": "menampilkan, menunjukkan"
+      },
+      "simple": {
+        "ru": "«显示» — давать увидеть (обычно данные: температура, пульс, расстояние, время).",
+        "en": "“显示” means showing (data: temperature, heart rate, distance, time).",
+        "tk": "«Görkezmek» maglumatlary (temperatura, ýürek urşy, aralyk, wagt) görkezmegi aňladýar.",
+        "uz": "“显示” (ma’lumotlarni: harorat, yurak urishi, masofa, vaqtni) ko‘rsatishni bildiradi.",
+        "tg": "«Нишон додан» маънои нишон додани (маълумот: ҳарорат, суръати дил, масофа, вақт)-ро дорад.",
+        "id": "\"Menampilkan\" berarti menunjukkan (data: suhu, detak jantung, jarak, waktu)."
+      },
+      "examples": [
+        {
+          "zh": "体温计能显示出人的体温，宝宝现在的体温是36.5℃。",
+          "ru": "Термометр показывает температуру тела; у малыша сейчас 36,5 °C.",
+          "en": "The thermometer shows body temperature — the baby's is 36.5°C.",
+          "tk": "Termometr beden temperaturasyny görkezýär — çaganyňky 36,5°C.",
+          "uz": "Termometr tana haroratini ko‘rsatadi — chaqaloqniki 36,5°C.",
+          "tg": "Термометр ҳарорати баданро нишон медиҳад — ҳарорати кӯдак 36.5°C аст.",
+          "id": "Termometer menunjukkan suhu tubuh — suhu bayi 36,5°C."
+        }
+      ],
+      "question": {
+        "ru": "Что появляется на экране, когда телефон почти разряжен?",
+        "en": "What appears on the screen when the phone is almost dead?",
+        "tk": "Telefon öçmekçi bolanda ekranda näme peýda bolýar?",
+        "uz": "Telefon deyarli o‘chib qolayotganda ekranda nima paydo bo‘ladi?",
+        "tg": "Вақте ки телефон қариб хомӯш мешавад, дар экран чӣ пайдо мешавад?",
+        "id": "Apa yang muncul di layar saat ponsel hampir mati?"
+      }
+    },
+    {
+      "hanzi": "预订",
+      "pinyin": "yùdìng",
+      "pos": "v.",
+      "meaning": {
+        "ru": "бронировать, заказывать заранее",
+        "en": "to book, reserve",
+        "tk": "bron etmek, öňünden sargyt etmek",
+        "uz": "band qilmoq, oldindan buyurtma qilmoq",
+        "tg": "фармоиш додан, ҷойгир кардан",
+        "id": "memesan, memesan lebih awal"
+      },
+      "simple": {
+        "ru": "«预订» — заказать заранее.",
+        "en": "“预订” means to order in advance.",
+        "tk": "«Bron etmek» öňünden sargyt etmegi aňladýar.",
+        "uz": "“预订” oldindan buyurtma qilish degan ma’noni bildiradi.",
+        "tg": "«Фармоиш додан» маънои пешакӣ фармоиш доданро дорад.",
+        "id": "\"Memesan\" berarti memesan terlebih dahulu."
+      },
+      "examples": [
+        {
+          "zh": "安娜8月3日要去上海出差，她7月15日就在网上预订了一家酒店的房间。",
+          "ru": "Анна едет в командировку в Шанхай 3 августа — ещё 15 июля она забронировала отель онлайн.",
+          "en": "Anna goes to Shanghai on business on Aug 3; on Jul 15 she already booked a hotel online.",
+          "tk": "Anna 3-nji awgustda iş bilen Şanhaýa gidýär; 15-nji iýulda ol eýýäm onlaýn myhmanhana bron etdi.",
+          "uz": "Anna 3-avgust kuni ish yuzasidan Shanxayga boradi; 15-iyulda u allaqachon onlayn mehmonxona band qilgan edi.",
+          "tg": "Анна 3 август ба Шанхай ба сафари корӣ меравад; 15 июл вай аллакай тавассути интернет меҳмонхона фармоиш додааст.",
+          "id": "Anna pergi ke Shanghai untuk urusan bisnis pada 3 Agustus; pada 15 Juli ia sudah memesan hotel secara online."
+        }
+      ],
+      "question": {
+        "ru": "Каким приложением вы обычно бронируете отели и билеты?",
+        "en": "Which app do you usually use to book hotels and tickets?",
+        "tk": "Myhmanhana we bilet bron etmek üçin adatça haýsy programmany ulanýarsyňyz?",
+        "uz": "Mehmonxona va chiptalarni band qilish uchun odatda qaysi ilovadan foydalanasiz?",
+        "tg": "Шумо одатан кадом барномаро барои фармоиш додани меҳмонхонаҳо ва чиптаҳо истифода мебаред?",
+        "id": "Aplikasi apa yang biasanya Anda gunakan untuk memesan hotel dan tiket?"
+      }
+    },
+    {
+      "hanzi": "采购",
+      "pinyin": "cǎigòu",
+      "pos": "v.",
+      "meaning": {
+        "ru": "закупать",
+        "en": "to purchase",
+        "tk": "satyn almak",
+        "uz": "sotib olmoq",
+        "tg": "харидан",
+        "id": "membeli"
+      },
+      "simple": {
+        "ru": "«采购» — выбирать и покупать в соответствии с потребностями.",
+        "en": "“采购” means to select and buy based on needs.",
+        "tk": "“Satyn almak” zerurlyga görä saýlamak we satyn almak diýmekdir.",
+        "uz": "“Xarid qilish” ehtiyojga qarab tanlab sotib olishni bildiradi.",
+        "tg": "«Харид» маънои интихоб ва харидани чизеро аз рӯи эҳтиёҷ дорад.",
+        "id": "“采购” berarti memilih dan membeli berdasarkan kebutuhan."
+      },
+      "examples": [
+        {
+          "zh": "公司采购了100台新电脑，总价80万。",
+          "ru": "Компания закупила 100 новых компьютеров на общую сумму 800 000.",
+          "en": "The company purchased 100 new computers for 800,000 yuan total.",
+          "tk": "Kompaniýa jemi 800,000 ýüan möçberinde 100 sany täze kompýuter satyn aldy.",
+          "uz": "Kompaniya jami 800 000 yuan evaziga 100 ta yangi kompyuter sotib oldi.",
+          "tg": "Ширкат 100 компютери навро ба маблағи умумии 800 000 юан харид.",
+          "id": "Perusahaan membeli 100 komputer baru dengan total 800.000 yuan."
+        }
+      ],
+      "question": {
+        "ru": "Чем отличаются 采购部, 采购员, 采购经理, 采购部部长?",
+        "en": "How do 采购部, 采购员, 采购经理, 采购部部长 differ?",
+        "tk": "Satyn alyş bölümi, satyn alyjy, satyn alyş müdiri, satyn alyş bölüminiň başlygy nähili tapawutlanýar?",
+        "uz": "Xarid bo‘limi, xarid xodimi, xarid menejeri, xarid bo‘limi boshlig‘i o‘rtasida qanday farq bor?",
+        "tg": "Шӯъбаи харид, корманди харид, мудири харид, сардори шӯъбаи харид чӣ фарқ доранд?",
+        "id": "Apa perbedaan 采购部, 采购员, 采购经理, 采购部部长?"
+      }
+    },
+    {
+      "hanzi": "专车",
+      "pinyin": "zhuānchē",
+      "pos": "n.",
+      "meaning": {
+        "ru": "такси-премиум (заказное авто)",
+        "en": "premium car service",
+        "tk": "premium awtoulag hyzmaty",
+        "uz": "premium avtomobil xizmati",
+        "tg": "хадамоти мошини премиум",
+        "id": "layanan mobil premium"
+      },
+      "simple": {
+        "ru": "«专车» — машина, обслуживающая конкретного человека или заказ.",
+        "en": "“专车” is a car serving a specific person or order.",
+        "tk": "“Ýörite awtoulag” belli bir adama ýa-da sargyt üçin hyzmat edýän awtoulagdyr.",
+        "uz": "“Maxsus avtomobil” muayyan shaxs yoki buyurtmaga xizmat qiluvchi avtomobildir.",
+        "tg": "«Мошини махсус» мошинест, ки ба шахси мушаххас ё фармоиши мушаххас хизмат мекунад.",
+        "id": "“专车” adalah mobil yang melayani orang atau pesanan tertentu."
+      },
+      "examples": [
+        {
+          "zh": "从公司打车到机场，可以选择出租车、专车或商务车，专车的服务比一般的出租车好一些，价格也贵一些，商务车最贵。",
+          "ru": "От офиса до аэропорта можно взять такси, премиум-авто или бизнес-вэн: сервис премиум-авто лучше обычного такси, и дороже, а бизнес-вэн — самый дорогой.",
+          "en": "From office to airport you can take a taxi, premium car, or business van: premium is nicer and pricier than a regular taxi; business van is most expensive.",
+          "tk": "Ofisden aeroporta taksi, premium awtoulag ýa-da biznes mikroawtobus bilen gitmek mümkin: premium adaty taksiden has oňat we has gymmat; biznes mikroawtobus iň gymmat.",
+          "uz": "Ofisdan aeroportgacha taksi, premium avtomobil yoki biznes mikroavtobusda borish mumkin: premium oddiy taksidan qulayroq va qimmatroq; biznes mikroavtobus eng qimmat.",
+          "tg": "Аз офис то фурудгоҳ метавонед таксӣ, мошини премиум ё микроавтобуси тиҷоратӣ гиред: премиум нисбат ба таксии оддӣ беҳтар ва гаронтар аст; микроавтобуси тиҷоратӣ аз ҳама гаронтар аст.",
+          "id": "Dari kantor ke bandara Anda bisa naik taksi, mobil premium, atau van bisnis: premium lebih nyaman dan lebih mahal daripada taksi biasa; van bisnis paling mahal."
+        }
+      ],
+      "question": {
+        "ru": "Какой транспорт вы выбираете и почему?",
+        "en": "Which transport do you choose and why?",
+        "tk": "Haýsy ulag serişdesini saýlaýarsyňyz we näme üçin?",
+        "uz": "Qaysi transportni tanlaysiz va nima uchun?",
+        "tg": "Кадом намуди наклиётро интихоб мекунед ва чаро?",
+        "id": "Transportasi mana yang Anda pilih dan mengapa?"
+      }
+    },
+    {
+      "hanzi": "出示",
+      "pinyin": "chūshì",
+      "pos": "v.",
+      "meaning": {
+        "ru": "предъявлять",
+        "en": "to show, produce",
+        "tk": "görkezmek, öndürmek",
+        "uz": "ko‘rsatmoq, taqdim etmoq",
+        "tg": "нишон додан, пешниҳод кардан",
+        "id": "menunjukkan, menghasilkan"
+      },
+      "simple": {
+        "ru": "«出示» — достать и показать документ (удостоверение, паспорт).",
+        "en": "“出示” means to take out and show a document (ID, passport).",
+        "tk": "“Görkezmek” resminamany (şahsyýetnama, pasport) çykaryp görkezmek diýmekdir.",
+        "uz": "“Ko‘rsatish” hujjatni (shaxsni tasdiqlovchi hujjat, pasport) olib chiqib ko‘rsatishni bildiradi.",
+        "tg": "«Нишон додан» маънои гирифта нишон додани ҳуҷҷатро дорад (шиноснома, паспорт).",
+        "id": "“出示” berarti mengeluarkan dan menunjukkan dokumen (KTP, paspor)."
+      },
+      "examples": [
+        {
+          "zh": "正式考试时，在教室门口需要向工作人员出示身份证或护照，以及准考证。",
+          "ru": "На официальном экзамене у входа нужно предъявить сотруднику паспорт или удостоверение и пропуск.",
+          "en": "At an official exam, you must show staff your ID/passport and exam pass at the door.",
+          "tk": "Resmi ekzamende gapyda işgärlere şahsyýetnamaňyzy/pasportyňyzy we ekzamen biletiniňizi görkezmeli.",
+          "uz": "Rasmiy imtihonda eshik oldida xodimlarga shaxsni tasdiqlovchi hujjat/pasport va imtihonga kirish ruxsatnomasini ko‘rsatishingiz shart.",
+          "tg": "Дар имтиҳони расмӣ, шумо бояд дар даромадгоҳ ба кормандон шиноснома/паспорт ва билети имтиҳонро нишон диҳед.",
+          "id": "Pada ujian resmi, Anda harus menunjukkan KTP/paspor dan kartu ujian kepada petugas di pintu."
+        }
+      ],
+      "question": {
+        "ru": "В каких ситуациях нужно предъявлять удостоверение?",
+        "en": "In which situations must you show ID?",
+        "tk": "Haýsy ýagdaýlarda şahsyýetnamaňyzy görkezmeli?",
+        "uz": "Qanday holatlarda shaxsni tasdiqlovchi hujjatni ko‘rsatishingiz kerak?",
+        "tg": "Дар кадом ҳолатҳо бояд шиноснома нишон диҳед?",
+        "id": "Dalam situasi apa Anda harus menunjukkan identitas?"
+      }
+    },
+    {
+      "hanzi": "证件",
+      "pinyin": "zhèngjiàn",
+      "pos": "n.",
+      "meaning": {
+        "ru": "документ, удостоверение",
+        "en": "credentials, ID",
+        "tk": "resminamalar, şahsyýetnama",
+        "uz": "hujjatlar, shaxsni tasdiqlovchi hujjat",
+        "tg": "ҳуҷҷатҳо, шиноснома",
+        "id": "kredensial, identitas"
+      },
+      "simple": {
+        "ru": "«证件» — документ, удостоверяющий личность или статус: паспорт, ID, студенческий, диплом и т.д.",
+        "en": "“证件” is a document proving identity or status: passport, ID, student card, diploma, etc.",
+        "tk": "“Resminama” şahsyýeti ýa-da ýagdaýy tassyklaýan resminamadyr: pasport, şahsyýetnama, talyp bileti, diplom we ş.m.",
+        "uz": "“Hujjat” shaxs yoki maqomni tasdiqlovchi hujjat: pasport, shaxsni tasdiqlovchi hujjat, talaba bileti, diplom va hokazo.",
+        "tg": "«Ҳуҷҷат» ҳуҷҷатест, ки шахсият ё мақомро тасдиқ мекунад: паспорт, шиноснома, корти донишҷӯ, диплом ва ғайра.",
+        "id": "“证件” adalah dokumen yang membuktikan identitas atau status: paspor, KTP, kartu pelajar, ijazah, dll."
+      },
+      "examples": [
+        {
+          "zh": "实在抱歉，如果没有证件，我无法确认您的身份，不能让您进去。",
+          "ru": "Прошу прощения, без документа я не могу подтвердить вашу личность и не могу вас пропустить.",
+          "en": "I'm sorry, without ID I cannot confirm your identity and cannot let you in.",
+          "tk": "Bagyşlaň, resminamasiz şahsyýetiňizi tassyk edip bilmerin we sizi goýberip bilmerin.",
+          "uz": "Kechirasiz, shaxsni tasdiqlovchi hujjatsiz shaxsingizni tasdiqlay olmayman va sizni kiritolmayman.",
+          "tg": "Бубахшед, бе ҳуҷҷат ман наметавонам шахсияти шуморо тасдиқ кунам ва наметавонам шуморо дохил кунам.",
+          "id": "Maaf, tanpa identitas saya tidak dapat memverifikasi identitas Anda dan tidak dapat mengizinkan Anda masuk."
+        }
+      ],
+      "question": {
+        "ru": "Какие важные документы есть в вашей стране?",
+        "en": "Which important documents exist in your country?",
+        "tk": "Ýurduňyzda haýsy möhüm resminamalar bar?",
+        "uz": "Mamlakatingizda qanday muhim hujjatlar mavjud?",
+        "tg": "Дар кишвари шумо кадом ҳуҷҷатҳои муҳим мавҷуданд?",
+        "id": "Dokumen penting apa saja yang ada di negara Anda?"
+      }
+    },
+    {
+      "hanzi": "总额",
+      "pinyin": "zǒng'é",
+      "pos": "n.",
+      "meaning": {
+        "ru": "общая сумма",
+        "en": "total amount",
+        "tk": "jemi mukdary",
+        "uz": "umumiy summa",
+        "tg": "маблағи умумӣ",
+        "id": "jumlah total"
+      },
+      "simple": {
+        "ru": "«总额» — общее количество.",
+        "en": "“总额” is the total amount.",
+        "tk": "“Jemi mukdar” jemi mukdary aňladýar.",
+        "uz": "“Umumiy summa” — bu total amount.",
+        "tg": "«Маблағи умумӣ» маблағи умумӣ аст.",
+        "id": "\"总额\" berarti jumlah total."
+      },
+      "examples": [
+        {
+          "zh": "小王每个月工资8000元，一年的工资总额是96000元。",
+          "ru": "У Сяо Вана зарплата 8000 юаней в месяц, за год — 96 000 юаней.",
+          "en": "Xiao Wang earns 8,000 per month; annual total is 96,000 yuan.",
+          "tk": "Sýao Wan aýda 8,000 ýuan gazanýar; ýyllyk jemi 96,000 ýuan.",
+          "uz": "Syao Van oyiga 8000 yuan topadi; yillik umumiy summasi 96 000 yuan.",
+          "tg": "Сяо Ван дар як моҳ 8000 юан мегирад; маблағи умумии солона 96000 юан аст.",
+          "id": "Xiao Wang berpenghasilan 8.000 per bulan; total tahunannya 96.000 yuan."
+        }
+      ],
+      "question": {
+        "ru": "Какой был общий объём внешней торговли Китая в 2022 году?",
+        "en": "What was China's total foreign trade in 2022?",
+        "tk": "2022-nji ýylda Hytaýyň daşary söwda jemi näçe boldy?",
+        "uz": "2022-yilda Xitoyning umumiy tashqi savdo hajmi qancha edi?",
+        "tg": "Дар соли 2022 ҳаҷми умумии савдои хориҷии Чин чӣ қадар буд?",
+        "id": "Berapa total perdagangan luar negeri Tiongkok pada tahun 2022?"
+      }
+    },
+    {
+      "hanzi": "冻结",
+      "pinyin": "dòngjié",
+      "pos": "v.",
+      "meaning": {
+        "ru": "заморозить (счёт)",
+        "en": "to freeze (account)",
+        "tk": "doňdurmak (hasap)",
+        "uz": "muzlatish (hisobni)",
+        "tg": "блок кардан (ҳисоб)",
+        "id": "membekukan (rekening)"
+      },
+      "simple": {
+        "ru": "«冻结» — деньги на карте есть, но банк временно не даёт ими пользоваться.",
+        "en": "“冻结” means the money is on the card but the bank temporarily blocks its use.",
+        "tk": "“Doňdurmak” puluň kartda bar, ýöne bankyň onuň ulanylmagyny wagtlaýynça bloklaýandygyny aňladýar.",
+        "uz": "“Muzlatish” pul kartada bor, lekin bank vaqtincha undan foydalanishni bloklaydi degani.",
+        "tg": "«Блок кардан» маънои онро дорад, ки пул дар корт ҳаст, аммо бонк муваққатан истифодаи онро манъ мекунад.",
+        "id": "\"冻结\" berarti uang ada di kartu tetapi bank sementara memblokir penggunaannya."
+      },
+      "examples": [
+        {
+          "zh": "我的银行卡被冻结了，不能取钱了。",
+          "ru": "Мою банковскую карту заблокировали — снять деньги нельзя.",
+          "en": "My bank card was frozen — I can't withdraw money.",
+          "tk": "Bank kartym doňduruldy — pul alyp bilemok.",
+          "uz": "Mening bank kartam muzlatilgan — pul yecha olmayapman.",
+          "tg": "Корти бонкии ман блок шудааст — ман наметавонам пул гирам.",
+          "id": "Kartu bank saya dibekukan — saya tidak bisa menarik uang."
+        }
+      ],
+      "question": {
+        "ru": "В каких случаях банк замораживает счёт?",
+        "en": "When does a bank freeze an account?",
+        "tk": "Bank haçan hasaby doňdurýar?",
+        "uz": "Bank hisobni qachon muzlatadi?",
+        "tg": "Бонк кай ҳисобро блок мекунад?",
+        "id": "Kapan bank membekukan rekening?"
+      }
+    },
+    {
+      "hanzi": "预授权",
+      "pinyin": "yùshòuquán",
+      "pos": "n.",
+      "meaning": {
+        "ru": "предавторизация",
+        "en": "pre-authorization",
+        "tk": "öňünden awtorizasiýa",
+        "uz": "oldindan avtorizatsiya",
+        "tg": "пешакӣ",
+        "id": "pra-otorisasi"
+      },
+      "simple": {
+        "ru": "«预授权» — при оплате в отеле/прокате карта замораживает примерную сумму до окончательного расчёта.",
+        "en": "“预授权” is when a hotel/rental freezes an estimated sum on your card until final settlement.",
+        "tk": "“Öňünden awtorizasiýa” myhmanhana/karz beriji siziň kartyňyzda gutarnykly hasaplaşyga çenli çak edilýän mukdary doňdurýar.",
+        "uz": "“Oldindan avtorizatsiya” — mehmonxona/ijaraga beruvchi yakuniy hisob-kitobgacha kartangizda taxminiy summani muzlatib qo‘yishi.",
+        "tg": "«Пешакӣ» вақте аст, ки меҳмонхона/иҷора маблағи тахминиро дар корти шумо то ҳисобкунии ниҳоӣ блок мекунад.",
+        "id": "\"预授权\" adalah ketika hotel/penyewaan membekukan perkiraan jumlah di kartu Anda sampai penyelesaian akhir."
+      },
+      "examples": [
+        {
+          "zh": "先生您好，您的房费总额是1800元，我们先冻结您2000元的预授权。",
+          "ru": "Здравствуйте, общая стоимость номера — 1800 юаней, мы сначала заморозим предавторизацию 2000 юаней.",
+          "en": "Hello, your total room charge is 1,800 yuan; first we'll freeze a 2,000-yuan pre-authorization.",
+          "tk": "Salam, otag tölegiňiz jemi 1,800 ýuan; ilki bilen 2,000 ýuanlyk öňünden awtorizasiýany doňdurarys.",
+          "uz": "Assalomu alaykum, xonangizning umumiy narxi 1800 yuan; avval 2000 yuanlik oldindan avtorizatsiyani muzlatamiz.",
+          "tg": "Салом, маблағи умумии ҳуҷраи шумо 1800 юан аст; аввал мо пешакӣ 2000 юанро блок мекунем.",
+          "id": "Halo, total biaya kamar Anda adalah 1.800 yuan; pertama kami akan membekukan pra-otorisasi sebesar 2.000 yuan."
+        }
+      ],
+      "question": {
+        "ru": "Когда обычно используют предавторизацию?",
+        "en": "When is pre-authorization usually used?",
+        "tk": "Öňünden awtorizasiýa adatça haçan ulanylýar?",
+        "uz": "Oldindan avtorizatsiya odatda qachon qo‘llaniladi?",
+        "tg": "Пешакӣ одатан кай истифода мешавад?",
+        "id": "Kapan pra-otorisasi biasanya digunakan?"
+      }
+    },
+    {
+      "hanzi": "押金",
+      "pinyin": "yājīn",
+      "pos": "n.",
+      "meaning": {
+        "ru": "залог, депозит",
+        "en": "deposit",
+        "tk": "girew",
+        "uz": "garov puli",
+        "tg": "гарав",
+        "id": "deposit"
+      },
+      "simple": {
+        "ru": "«押金» — дополнительная сумма за аренду/проживание; возвращают при выезде, если ничего не потеряно/сломано.",
+        "en": "“押金” is an extra amount for rent/hotel; returned on check-out if nothing is lost or broken.",
+        "tk": "“Girew” kärende/myhmanhana üçin goşmaça mukdar; hiç zat ýitirilmese ýa-da döwülmese, çykyş wagtynda yzyna gaýtarylýar.",
+        "uz": "“Garov puli” — ijara/mehmonxona uchun qo‘shimcha summa; hech narsa yo‘qolmasa yoki buzilmasa, chiqishda qaytariladi.",
+        "tg": "«Гарав» маблағи иловагӣ барои иҷора/меҳмонхона аст; ҳангоми баромад, агар чизе гум нашуда ё шикаста нашуда бошад, баргардонида мешавад.",
+        "id": "\"押金\" adalah jumlah tambahan untuk sewa/hotel; dikembalikan saat check-out jika tidak ada yang hilang atau rusak."
+      },
+      "examples": [
+        {
+          "zh": "随着科技发展和消费习惯的变化，很多酒店已经不收押金，只收房费了。",
+          "ru": "С развитием технологий и изменением потребительских привычек многие отели уже не берут депозит, только плату за номер.",
+          "en": "With tech and habits changing, many hotels no longer charge a deposit — only room fees.",
+          "tk": "Tehnologiýa we endikler üýtgänsoň, köp myhmanhana indi girew almaýar — diňe otag tölegini alýar.",
+          "uz": "Texnologiya va odatlar o‘zgarishi bilan ko‘plab mehmonxonalar endi garov puli olmaydi — faqat xona haqi.",
+          "tg": "Бо тағйир ёфтани технология ва одатҳо, бисёр меҳмонхонаҳо дигар гарав намегиранд — танҳо ҳаққи ҳуҷра.",
+          "id": "Dengan perubahan teknologi dan kebiasaan, banyak hotel tidak lagi mengenakan deposit — hanya biaya kamar."
+        }
+      ],
+      "question": {
+        "ru": "Где кроме отелей нужен депозит?",
+        "en": "Where else besides hotels is a deposit required?",
+        "tk": "Myhmanhanalardan başga ýene nirelerde girew goýulýar?",
+        "uz": "Mehmonxonalardan tashqari yana qayerda depozit talab qilinadi?",
+        "tg": "Ғайр аз меҳмонхонаҳо дар куҷои дигар вадиъа талаб карда мешавад?",
+        "id": "Di mana lagi selain hotel yang memerlukan deposit?"
+      }
+    },
+    {
+      "hanzi": "结算",
+      "pinyin": "jiésuàn",
+      "pos": "v.",
+      "meaning": {
+        "ru": "производить расчёт",
+        "en": "to settle an account",
+        "tk": "hasap-kitaby hasaplaşmak",
+        "uz": "hisob-kitob qilmoq",
+        "tg": "ҳисобро баста кардан",
+        "id": "menyelesaikan pembayaran"
+      },
+      "simple": {
+        "ru": "«结算» — подсчитать общую сумму.",
+        "en": "“结算” means to calculate the total amount.",
+        "tk": "«结算» jemi mukdary hasaplamak diýmegi aňladýar.",
+        "uz": "“结算” umumiy summani hisoblash ma'nosini bildiradi.",
+        "tg": "«Ҳисобкунӣ» маънои ҳисоб кардани маблағи умумиро дорад.",
+        "id": "“结算” berarti menghitung jumlah total."
+      },
+      "examples": [
+        {
+          "zh": "整个项目结束后，总公司会跟您结算全部费用。",
+          "ru": "По завершении всего проекта головной офис рассчитается с вами по всем расходам.",
+          "en": "After the whole project, HQ will settle all expenses with you.",
+          "tk": "Ähli taslama gutarandan soň, baş edara siziň bilen ähli çykdajylary hasaplaşar.",
+          "uz": "Butun loyihadan so'ng, bosh ofis siz bilan barcha xarajatlarni hisob-kitob qiladi.",
+          "tg": "Баъди тамоми лоиҳа, маркази асосӣ ҳамаи хароҷотро бо шумо ҳисоб мекунад.",
+          "id": "Setelah seluruh proyek selesai, kantor pusat akan menyelesaikan semua biaya dengan Anda."
+        }
+      ],
+      "question": {
+        "ru": "Когда обычно проводят расчёт?",
+        "en": "When is settlement usually done?",
+        "tk": "Hasaplaşyk adatça haçan geçirilýär?",
+        "uz": "Hisob-kitob odatda qachon amalga oshiriladi?",
+        "tg": "Ҳисобкунӣ одатан кай анҷом дода мешавад?",
+        "id": "Kapan penyelesaian pembayaran biasanya dilakukan?"
+      }
+    },
+    {
+      "hanzi": "扣除",
+      "pinyin": "kòuchú",
+      "pos": "v.",
+      "meaning": {
+        "ru": "вычитать",
+        "en": "to deduct",
+        "tk": "tutmak",
+        "uz": "ushlab qolmoq",
+        "tg": "кам кардан",
+        "id": "memotong"
+      },
+      "simple": {
+        "ru": "«扣除» — вычесть из общей суммы.",
+        "en": "“扣除” means to subtract from the total.",
+        "tk": "«扣除» jemiden aýyrmak diýmegi aňladýar.",
+        "uz": "“扣除” umumiy summadan ayirish ma'nosini bildiradi.",
+        "tg": "«Кам кардан» маънои аз ҳаҷми умумӣ тарҳ карданро дорад.",
+        "id": "“扣除” berarti mengurangi dari total."
+      },
+      "examples": [
+        {
+          "zh": "结算时，房费会从预授权中扣除。",
+          "ru": "При расчёте стоимость номера вычтут из предавторизации.",
+          "en": "At settlement, the room rate is deducted from the pre-authorization.",
+          "tk": "Hasaplaşykda otag bahasy deslapky rugsatdan tutulýar.",
+          "uz": "Hisob-kitob paytida xona narxi oldindan avtorizatsiyadan ushlab qolinadi.",
+          "tg": "Ҳангоми ҳисобкунӣ, нархи ҳуҷра аз пешакӣ кам карда мешавад.",
+          "id": "Saat penyelesaian, tarif kamar dipotong dari pra-otorisasi."
+        },
+        {
+          "zh": "小王每月税前工资8800元，扣除保险和税以后，实际工资收入是7500元。",
+          "ru": "До вычетов Сяо Ван получает 8800; после вычета страховки и налога на руки — 7500.",
+          "en": "Xiao Wang's pre-tax salary is 8,800; after insurance and tax — 7,500 net.",
+          "tk": "Sýao Wanyň salgytdan öňki aýlygy 8,800; ätiýaçlyk we salgytdan soň — 7,500 arassa.",
+          "uz": "Syao Vangning soliqdan oldingi maoshi 8800; sug'urta va soliqdan keyin — 7500 sof.",
+          "tg": "Маоши пеш аз андози Сяо Ван 8,800 аст; баъд аз суғурта ва андоз — 7,500 холис.",
+          "id": "Gaji sebelum pajak Xiao Wang adalah 8.800; setelah asuransi dan pajak — 7.500 bersih."
+        }
+      ],
+      "question": {
+        "ru": "Что вычитают из зарплаты в вашей стране?",
+        "en": "What is deducted from salaries in your country?",
+        "tk": "Siziň ýurduňyzda aýlyklardan näme tutulýar?",
+        "uz": "Sizning mamlakatingizda maoshdan nima ushlab qolinadi?",
+        "tg": "Дар кишвари шумо аз маош чӣ кам карда мешавад?",
+        "id": "Apa yang dipotong dari gaji di negara Anda?"
+      }
+    }
+  ],
+  "expressions": [
+    {
+      "zh": "您汉语说得太地道了。",
+      "pinyin": "Nín Hànyǔ shuō de tài dìdao le.",
+      "ru": "Вы говорите по-китайски очень аутентично.",
+      "en": "Your Chinese is so authentic.",
+      "note": {
+        "ru": "Используется для похвалы чужого китайского. «地道» = настоящий, чистый, стандартный.",
+        "en": "Used to praise someone's Chinese. “地道” = genuine, pure, standard.",
+        "tk": "Kimdir biriniň hytaý dilini öwmek üçin ulanylýar. «地道» = asyl, sap, standart.",
+        "uz": "Kimningdir xitoy tilini maqtash uchun ishlatiladi. “地道” = asl, sof, standart.",
+        "tg": "Барои таъриф кардани забони хитоии касе истифода мешавад. «Асил» = ҳақиқӣ, пок, стандартӣ.",
+        "id": "Digunakan untuk memuji bahasa Mandarin seseorang. “地道” = asli, murni, standar."
+      },
+      "tk": "Siziň hytaý diliňiz gaty tebigy.",
+      "uz": "Xitoychangiz juda tabiiy.",
+      "tg": "Забони хитоии шумо хеле асил аст.",
+      "id": "Bahasa Mandarin Anda sangat autentik."
+    },
+    {
+      "zh": "我在电话里还以为您是中国人呢！",
+      "pinyin": "Wǒ zài diànhuà lǐ hái yǐwéi nín shì Zhōngguórén ne!",
+      "ru": "По телефону я даже подумал, что вы китаянка!",
+      "en": "On the phone I even thought you were Chinese!",
+      "note": {
+        "ru": "Ещё варианты: «您这汉语说得和中国人完全没两样啊», «您是外国人吗？怎么汉语说得这么好».",
+        "en": "Other variants: “您这汉语说得和中国人完全没两样啊”, “您是外国人吗？怎么汉语说得这么好”.",
+        "tk": "Başga görnüşleri: «您这汉语说得和中国人完全没两样啊», «您是外国人吗？怎么汉语说得这么好».",
+        "uz": "Boshqa variantlar: “您这汉语说得和中国人完全没两样啊”, “您是外国人吗？怎么汉语说得这么好”.",
+        "tg": "Вариантҳои дигар: «Шумо ин забони хитоиро мисли хитоиҳо гап мезанед», «Шумо хориҷӣ ҳастед? Чӣ тавр забони хитоиро ин қадар хуб медонед».",
+        "id": "Varian lain: “您这汉语说得和中国人完全没两样啊”, “您是外国人吗？怎么汉语说得这么好”."
+      },
+      "tk": "Telefonda men hatda sizi hytaýly diýip pikir etdim!",
+      "uz": "Telefonda hatto sizni xitoylik deb o'yladim!",
+      "tg": "Дар телефон ман ҳатто фикр кардам, ки шумо хитоӣ ҳастед!",
+      "id": "Di telepon saya bahkan mengira Anda orang Tionghoa!"
+    },
+    {
+      "zh": "请出示一下证件。",
+      "pinyin": "Qǐng chūshì yīxià zhèngjiàn.",
+      "ru": "Покажите документы, пожалуйста.",
+      "en": "Please show your ID.",
+      "note": {
+        "ru": "Фраза на ресепшн, в библиотеке, на экзамене — когда нужно подтвердить личность.",
+        "en": "Used at front desks, libraries, exams — whenever identity must be confirmed.",
+        "tk": "Resepsiýalarda, kitaphanalarda, synaglarda ulanylýar — şahsyýeti tassyklamaly bolanda.",
+        "uz": "Resepsiya, kutubxonalar, imtihonlarda ishlatiladi — shaxsni tasdiqlash zarur bo'lganda.",
+        "tg": "Дар мизҳои қабул, китобхонаҳо, имтиҳонҳо истифода мешавад — ҳар вақте ки шахсият бояд тасдиқ карда шавад.",
+        "id": "Digunakan di meja resepsionis, perpustakaan, ujian — kapan pun identitas harus dikonfirmasi."
+      },
+      "tk": "Şahsyýetnamaňyzy görkeziň.",
+      "uz": "Iltimos, guvohnomangizni ko'rsating.",
+      "tg": "Лутфан шиносномаи худро нишон диҳед.",
+      "id": "Tolong tunjukkan identitas Anda."
+    },
+    {
+      "zh": "先冻结您2000元的预授权作为押金，结算时房费会从预授权中扣除。",
+      "pinyin": "Xiān dòngjié nín liǎngqiān yuán de yùshòuquán zuòwéi yājīn, jiésuàn shí fángfèi huì cóng yùshòuquán zhōng kòuchú.",
+      "ru": "Сначала заморозим 2000 юаней как депозит; при расчёте стоимость номера вычтут из предавторизации.",
+      "en": "We'll first freeze a 2,000-yuan pre-authorization as a deposit; at settlement the room rate will be deducted.",
+      "note": {
+        "ru": "Часто говорит администратор отеля при заселении.",
+        "en": "A common phrase hotel receptionists say at check-in.",
+        "tk": "Myhmanhana resepsiýa işgärleriniň barlag wagtynda aýdýan umumy jümlesi.",
+        "uz": "Mehmonxona resepsionistlari ro'yxatdan o'tishda aytadigan odatiy ibora.",
+        "tg": "Ибораи маъмулие, ки кормандони қабулгоҳи меҳмонхона ҳангоми бақайдгирӣ мегӯянд.",
+        "id": "Frasa umum yang diucapkan resepsionis hotel saat check-in."
+      },
+      "tk": "Ilki bilen 2,000 ýuanlyk öňünden awtorizasiýa saklanar; hasaplaşykda otag nyrhy aýrylar.",
+      "uz": "Avval depozit sifatida 2000 yuan miqdorida oldindan avtorizatsiya muzlatiladi; hisob-kitobda xona narxi chegirib tashlanadi.",
+      "tg": "Мо аввал 2000 юанро ҳамчун пешпардохт қатъ мекунем; ҳангоми ҳисобкунӣ нархи ҳуҷра тарҳ карда мешавад.",
+      "id": "Kami akan terlebih dahulu membekukan pra-otorisasi 2.000 yuan sebagai deposit; pada saat penyelesaian, tarif kamar akan dipotong."
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "在…上",
+      "explanation": {
+        "ru": "Указывает на источник/место: «в (на) чём-то».",
+        "en": "Marks the source/place: “on / in something”.",
+        "tk": "Çeşmäni/ýeri görkezýär: “bir zadyň üstünde / içinde”.",
+        "uz": "Manba/joyni bildiradi: “biror narsada / ichida”.",
+        "tg": "Сарчашма/ҷойро ишора мекунад: «дар болои / дар дохили чизе».",
+        "id": "Menandai sumber/tempat: “di / pada sesuatu”."
+      },
+      "examples": [
+        {
+          "zh": "我在“飞常准”上看到延误信息了。",
+          "ru": "Я увидел информацию о задержке в «Фэйчанчжунь».",
+          "en": "I saw the delay info on “Feichangzhun”.",
+          "tk": "Men gijikme baradaky maglumaty “Feichangzhun”da gördüm.",
+          "uz": "Kechikish haqidagi ma'lumotni “Feichangzhun”da ko'rdim.",
+          "tg": "Ман маълумоти таъхирро дар «Feichangzhun» дидам.",
+          "id": "Saya melihat info keterlambatan di “Feichangzhun”."
+        }
+      ]
+    },
+    {
+      "pattern": "正好 + 利用 + 时间 + 动词",
+      "explanation": {
+        "ru": "«Как раз использовать время, чтобы…»",
+        "en": "“Just use the time to…”",
+        "tk": "“Diňe wagty şuňa sarp et…”",
+        "uz": "“Faqat vaqtdan foydalanib…”",
+        "tg": "«Танҳо вақтро барои... истифода баред»",
+        "id": "“Gunakan saja waktunya untuk…”"
+      },
+      "examples": [
+        {
+          "zh": "正好利用这个时间回了几封邮件。",
+          "ru": "Как раз использовал это время, чтобы ответить на несколько писем.",
+          "en": "I used the time to reply to a few emails.",
+          "tk": "Men wagty birnäçe e-poçta jogap bermek üçin ulandym.",
+          "uz": "Men vaqtdan bir nechta elektron pochta xabarlariga javob berish uchun foydalandim.",
+          "tg": "Ман вақтро барои ҷавоб додан ба якчанд почтаи электронӣ истифода кардам.",
+          "id": "Saya menggunakan waktunya untuk membalas beberapa email."
+        }
+      ]
+    },
+    {
+      "pattern": "以为…呢",
+      "explanation": {
+        "ru": "«(ошибочно) думал, что…» — с оттенком удивления.",
+        "en": "“(Mistakenly) thought…” — with surprise.",
+        "tk": "“(Ýalňyşlyk bilen) pikir etdim…” — geň galmak bilen.",
+        "uz": "“(Xato o'ylab)…” — hayrat bilan.",
+        "tg": "«(Хато) фикр кардам...» — бо ҳайрат.",
+        "id": "“(Secara keliru) mengira…” — dengan keterkejutan."
+      },
+      "examples": [
+        {
+          "zh": "我在电话里还以为您是中国人呢！",
+          "ru": "По телефону я даже думал, что вы китаянка!",
+          "en": "On the phone I even thought you were Chinese!",
+          "tk": "Telefonda men hatda seni hytaýly diýip pikir etdim!",
+          "uz": "Telefonda hatto sizni xitoylik deb o'yladim!",
+          "tg": "Дар телефон ман ҳатто фикр кардам, ки шумо чинӣ ҳастед!",
+          "id": "Di telepon saya bahkan mengira Anda orang Tionghoa!"
+        }
+      ]
+    },
+    {
+      "pattern": "给…订好",
+      "explanation": {
+        "ru": "«Уже забронировать кому-то» (результат).",
+        "en": "“Already booked for someone” (result).",
+        "tk": "“Kimdir biri üçin eýýäm bron edildi” (netije).",
+        "uz": "“Kimdir uchun allaqachon band qilingan” (natija).",
+        "tg": "«Аллакай барои касе фармоиш дода шудааст» (натиҷа).",
+        "id": "“Sudah dipesan untuk seseorang” (hasil)."
+      },
+      "examples": [
+        {
+          "zh": "我已经给两位订好酒店了。",
+          "ru": "Я уже забронировал вам отель.",
+          "en": "I've already booked the hotel for you two.",
+          "tk": "Men size ikinize myhmanhanany eýýäm bron etdim.",
+          "uz": "Men siz ikkingiz uchun mehmonxonani allaqachon band qildim.",
+          "tg": "Ман аллакай меҳмонхонаро барои шумо ду нафар фармоиш додам.",
+          "id": "Saya sudah memesan hotel untuk kalian berdua."
+        }
+      ]
+    },
+    {
+      "pattern": "先…，…时…会…",
+      "explanation": {
+        "ru": "Схема процесса: «сначала…, при… будет…».",
+        "en": "A process scheme: “first…, at… will…”.",
+        "tk": "Amal shemasy: “ilki…, …da bolsa…”.",
+        "uz": "Jarayon sxemasi: “avval…, …da … bo'ladi”.",
+        "tg": "Схемаи раванд: «аввал..., ҳангоми... ...мешавад».",
+        "id": "Skema proses: “pertama…, pada… akan…”."
+      },
+      "examples": [
+        {
+          "zh": "先冻结您2000元的预授权作为押金，结算时房费会从预授权中扣除。",
+          "ru": "Сначала заморозим 2000 юаней, при расчёте сумма спишется.",
+          "en": "First freeze 2,000 yuan; at settlement it will be deducted.",
+          "tk": "Ilki 2,000 ýuan sakla; hasaplaşykda aýrylar.",
+          "uz": "Avval 2000 yuan muzlatiladi; hisob-kitobda chegirib tashlanadi.",
+          "tg": "Аввал 2000 юан қатъ кунед; ҳангоми ҳисобкунӣ он тарҳ карда мешавад.",
+          "id": "Pertama bekukan 2.000 yuan; pada saat penyelesaian akan dipotong."
+        }
+      ]
+    }
+  ],
+  "exercises": {
+    "comprehension": [
+      {
+        "q": {
+          "zh": "安娜的航班为什么延误了？",
+          "ru": "Почему у Анны задержали рейс?",
+          "en": "Why was Anna's flight delayed?",
+          "tk": "Annaň uçary näme üçin gijikdi?",
+          "uz": "Nega Annaning parvozi kechiktirildi?",
+          "tg": "Чаро парвози Анна таъхир кард?",
+          "id": "Mengapa penerbangan Anna tertunda?"
+        },
+        "a": {
+          "zh": "因为天气不好。",
+          "ru": "Из-за плохой погоды.",
+          "en": "Because of bad weather.",
+          "tk": "Howanyň ýaramazlygy sebäpli.",
+          "uz": "Yomon ob-havo tufayli.",
+          "tg": "Аз сабаби обу ҳавои бад.",
+          "id": "Karena cuaca buruk."
+        }
+      },
+      {
+        "q": {
+          "zh": "过海关时，安娜和Jason做什么了？",
+          "ru": "Что делали Анна и Jason на таможне?",
+          "en": "What did Anna and Jason do at customs?",
+          "tk": "Anna we Jason gümrükde näme etdiler?",
+          "uz": "Anna va Jeyson bojxonada nima qilishdi?",
+          "tg": "Анна ва Ҷейсон дар гумрук чӣ кор карданд?",
+          "id": "Apa yang dilakukan Anna dan Jason di bea cukai?"
+        },
+        "a": {
+          "zh": "有些托运的行李需要申报。",
+          "ru": "Декларировали часть багажа.",
+          "en": "Declared some checked luggage.",
+          "tk": "Barlagdan geçiriljek goşmaça ýükleri yglan etdiler.",
+          "uz": "Ro'yxatdan o'tkazilgan yuklarni deklaratsiya qildi.",
+          "tg": "Баъзе бағоҷи супоридашударо эълон карданд.",
+          "id": "Mendeklarasikan beberapa bagasi tercatat."
+        }
+      },
+      {
+        "q": {
+          "zh": "孟安诺是怎么回应安娜的道歉的？",
+          "ru": "Как Мэн Аньно ответил на извинения?",
+          "en": "How did Meng Annuo respond to Anna's apology?",
+          "tk": "Meng Annuo Annanyň ötünç soramagyna nähili jogap berdi?",
+          "uz": "Men Annuo Annaning kechirim so'rashiga qanday javob berdi?",
+          "tg": "Мэн Аннуо ба узрхоҳии Анна чӣ гуна ҷавоб дод?",
+          "id": "Bagaimana Meng Annuo menanggapi permintaan maaf Anna?"
+        },
+        "a": {
+          "zh": "他说没事儿，自己利用时间回了邮件。",
+          "ru": "Сказал, что ничего, он использовал время, чтобы ответить на письма.",
+          "en": "He said no worries, he used the time to reply to emails.",
+          "tk": "Ol alada etmäniň ýokdugyny, wagty e-poçta jogap bermek üçin ulanandygyny aýtdy.",
+          "uz": "U hechqisi yo'q, vaqtni elektron pochta xatlariga javob berishga ishlatdim, dedi.",
+          "tg": "Ӯ гуфт, ҳеҷ ғам нест, ӯ вақтро барои ҷавоб додан ба почтаи электронӣ истифода бурд.",
+          "id": "Dia bilang tidak masalah, dia menggunakan waktunya untuk membalas email."
+        }
+      },
+      {
+        "q": {
+          "zh": "“飞常准”是什么？这种起名方式有什么特点？",
+          "ru": "Что такое «Фэйчанчжунь»? В чём особенность названия?",
+          "en": "What is “Feichangzhun”? What's special about its name?",
+          "tk": "«Feichangzhun» näme? Onuň adynyň nähili aýratynlygy bar?",
+          "uz": "“Feichangzhun” nima? Uning nomida qanday o'ziga xoslik bor?",
+          "tg": "«Фэйчанчжун» чист? Дар номи он чӣ хусусият дорад?",
+          "id": "Apa itu \"Feichangzhun\"? Apa yang istimewa dari namanya?"
+        },
+        "a": {
+          "zh": "是一个实时显示航班信息的APP。名字借用“非常准”的谐音，用“飞机”的“飞”代替“非常”的“非”。",
+          "ru": "Приложение реального времени для информации о рейсах. Название — игра слов: «非常准» (очень точно), но «非» заменено на «飞» (самолёт).",
+          "en": "A real-time flight info app. Its name puns on “非常准” (very accurate) but replaces “非” with “飞” (airplane).",
+          "tk": "Hakyky wagtda uçuş maglumatlaryny görkezýän programma. Onuň ady «非常准» (örän takyk) sözüne söz oýny edýär, ýöne «非» harpy «飞» (uçar) bilen çalşyrylýar.",
+          "uz": "Real vaqtda parvoz ma'lumotlari ilovasi. Uning nomi “非常准” (juda aniq) so'z o'yini bo'lib, “非” harfini “飞” (samolyot) bilan almashtiradi.",
+          "tg": "Барномаи иттилооти парвоз дар вақти воқеӣ. Номи он бо «非常准» (хеле дақиқ) бозӣ мекунад, аммо «非»-ро бо «飞» (тайёра) иваз мекунад.",
+          "id": "Aplikasi info penerbangan real-time. Namanya merupakan plesetan dari \"非常准\" (sangat akurat) tetapi mengganti \"非\" dengan \"飞\" (pesawat)."
+        }
+      },
+      {
+        "q": {
+          "zh": "安娜和孟安诺是怎么夸奖对方中文好的？",
+          "ru": "Как Анна и Мэн Аньно похвалили китайский друг друга?",
+          "en": "How did Anna and Meng Annuo compliment each other's Chinese?",
+          "tk": "Anna bilen Meng Annuo biri-biriniň hytaý dilini nähili öwdüler?",
+          "uz": "Anna va Men Annuo bir-birlarining xitoy tilini qanday maqtashdi?",
+          "tg": "Анна ва Мэн Аннуо забони чинии якдигарро чӣ гуна таъриф карданд?",
+          "id": "Bagaimana Anna dan Meng Annuo saling memuji bahasa Mandarin satu sama lain?"
+        },
+        "a": {
+          "zh": "安娜说孟安诺说得地道；孟安诺说以为安娜是中国人。",
+          "ru": "Анна сказала, что Мэн говорит аутентично; Мэн — что думал, будто Анна китаянка.",
+          "en": "Anna said Meng speaks authentically; Meng said he thought Anna was Chinese.",
+          "tk": "Anna Mengiň hakyky hytaýly ýaly gepleýändigini aýtdy; Meng Anna hytaýly hasaplandygyny aýtdy.",
+          "uz": "Anna Menning tili tabiiy ekanini aytdi; Men esa Annani xitoylik deb o'ylaganini aytdi.",
+          "tg": "Анна гуфт, ки Мэн асил ҳарф мезанад; Мэн гуфт, ки ӯ фикр мекард Анна чинӣ аст.",
+          "id": "Anna bilang Meng berbicara dengan autentik; Meng bilang dia mengira Anna orang Tionghoa."
+        }
+      },
+      {
+        "q": {
+          "zh": "孟安诺预订了什么房间？",
+          "ru": "Какие номера забронировал Мэн?",
+          "en": "What rooms did Meng book?",
+          "tk": "Meng haýsy otaglary bron etdi?",
+          "uz": "Men qanday xonalarni band qildi?",
+          "tg": "Мэн кадом ҳуҷраҳоро фармоиш дод?",
+          "id": "Kamar apa yang dipesan Meng?"
+        },
+        "a": {
+          "zh": "两间高级大床房，23号到26号。",
+          "ru": "Два улучшенных номера с большой кроватью, 23–26.",
+          "en": "Two deluxe king rooms, 23rd–26th.",
+          "tk": "Iki sany lýuks bir adamlyk otag, 23-nji–26-njy.",
+          "uz": "Ikkita lyuks king xona, 23–26-sanalar.",
+          "tg": "Ду ҳуҷраи люкси шоҳона, аз 23 то 26.",
+          "id": "Dua kamar deluxe king, tanggal 23–26."
+        }
+      },
+      {
+        "q": {
+          "zh": "服务员会怎样为Jason他们结算房费？",
+          "ru": "Как администратор рассчитается с Jason?",
+          "en": "How will the receptionist settle with Jason?",
+          "tk": "Kabul ediş işgäri Jason bilen nähili hasaplaşar?",
+          "uz": "Qabulxona xodimi Jeyson bilan qanday hisob-kitob qiladi?",
+          "tg": "Ресепшионист бо Ҷейсон чӣ гуна ҳисоббаробар мекунад?",
+          "id": "Bagaimana resepsionis akan menyelesaikan pembayaran dengan Jason?"
+        },
+        "a": {
+          "zh": "先从信用卡预授权中扣除房费。",
+          "ru": "Сначала спишет стоимость номера из предавторизации карты.",
+          "en": "First, deduct from the credit card pre-authorization.",
+          "tk": "Ilki bilen, kredit kartynyň öňünden awtorizasiýasyndan aýyrar.",
+          "uz": "Avval kredit karta oldindan avtorizatsiyasidan yechib olinadi.",
+          "tg": "Аввал аз пешпардохти корти кредитӣ кам мекунад.",
+          "id": "Pertama, potong dari pra-otorisasi kartu kredit."
+        }
+      }
+    ],
+    "true_false": [
+      {
+        "q": {
+          "zh": "Jason和安娜的航班延误是因为天气不好。",
+          "ru": "Рейс Jason и Анны задержали из-за погоды.",
+          "en": "Their flight was delayed due to weather.",
+          "tk": "Olaryň uçuşy howa şertleri sebäpli gijä galdy.",
+          "uz": "Ularning parvozi ob-havo sababli kechiktirildi.",
+          "tg": "Парвози онҳо бо сабаби обу ҳаво ба таъхир афтод.",
+          "id": "Penerbangan mereka tertunda karena cuaca."
+        },
+        "answer": true
+      },
+      {
+        "q": {
+          "zh": "孟安诺在机场等了很久，不太高兴。",
+          "ru": "Мэн Аньно долго ждал и был недоволен.",
+          "en": "Meng waited long and was unhappy.",
+          "tk": "Meng uzak wagt garaşdy we göwni ýetmedi.",
+          "uz": "Men uzoq kutdi va norozi bo'ldi.",
+          "tg": "Мэн дер интизор шуд ва норозӣ буд.",
+          "id": "Meng menunggu lama dan tidak senang."
+        },
+        "answer": false
+      },
+      {
+        "q": {
+          "zh": "“飞常准”只能显示航班信息，不能订机票。",
+          "ru": "«Фэйчанчжунь» показывает только информацию о рейсах, билеты не бронирует.",
+          "en": "“Feichangzhun” only shows flight info, cannot book tickets.",
+          "tk": "«Feichangzhun» diňe uçuş maglumatlaryny görkezýär, bilet alyp bilmeýär.",
+          "uz": "“Feichangzhun” faqat parvoz ma'lumotlarini ko'rsatadi, chipta band qila olmaydi.",
+          "tg": "«Фэйчанчжун» танҳо иттилооти парвозро нишон медиҳад, чипта фармоиш дода наметавонад.",
+          "id": "\"Feichangzhun\" hanya menampilkan info penerbangan, tidak bisa memesan tiket."
+        },
+        "answer": false
+      },
+      {
+        "q": {
+          "zh": "Jason的职位是采购员。",
+          "ru": "Jason — сотрудник отдела закупок (не менеджер).",
+          "en": "Jason's position is procurement clerk.",
+          "tk": "Jeýsonyň wezipesi satyn alyş işgäri.",
+          "uz": "Jasonning lavozimi xarid bo'yicha kotib.",
+          "tg": "Вазифаи Ҷейсон котиби харид аст.",
+          "id": "Posisi Jason adalah staf pengadaan."
+        },
+        "answer": false
+      },
+      {
+        "q": {
+          "zh": "安娜向服务员出示了护照。",
+          "ru": "Анна показала администратору паспорт.",
+          "en": "Anna showed the receptionist her passport.",
+          "tk": "Anna resepsiýoniste pasportyny görkezdi.",
+          "uz": "Anna qabulxona xodimiga pasportini ko'rsatdi.",
+          "tg": "Анна ба қабулгоҳ шиносномаи худро нишон дод.",
+          "id": "Anna menunjukkan paspornya kepada resepsionis."
+        },
+        "answer": true
+      },
+      {
+        "q": {
+          "zh": "安娜用现金交了押金。",
+          "ru": "Анна заплатила депозит наличными.",
+          "en": "Anna paid the deposit in cash.",
+          "tk": "Anna kepillik tölegini nagt töledi.",
+          "uz": "Anna depozitni naqd pulda to'ladi.",
+          "tg": "Анна пардохти пешакӣро нақдӣ супорид.",
+          "id": "Anna membayar deposit secara tunai."
+        },
+        "answer": false
+      }
+    ],
+    "multiple_choice": [
+      {
+        "q": {
+          "zh": "如果要去旅行，最好提前（　）酒店和机票。",
+          "ru": "В поездке лучше заранее ___ отель и билеты.",
+          "en": "For a trip, it's best to ___ hotel and tickets in advance.",
+          "tk": "Syýahat üçin myhmanhana we biletleri öňünden ___ gowy.",
+          "uz": "Sayohat uchun mehmonxona va chiptalarni oldindan ___ yaxshi.",
+          "tg": "Барои сафар беҳтараш ҳуҷраи меҳмонхона ва чиптаҳоро пешакӣ ___.",
+          "id": "Untuk perjalanan, sebaiknya ___ hotel dan tiket terlebih dahulu."
+        },
+        "options": [
+          "订购",
+          "预定",
+          "申报",
+          "预订"
+        ],
+        "answer": 3
+      },
+      {
+        "q": {
+          "zh": "我觉得这个打车软件很方便，你也（　）一个吧。",
+          "ru": "Мне нравится это такси-приложение — ты тоже ___ его.",
+          "en": "I like this taxi app — you should ___ it too.",
+          "tk": "Meniň bu taksi programmasy halaýaryn — sen hem ony ___ gerek.",
+          "uz": "Menga bu taksi ilovasi yoqadi — siz ham uni ___ kerak.",
+          "tg": "Ман ин барномаи таксиро дӯст медорам — шумо ҳам бояд онро ___.",
+          "id": "Saya suka aplikasi taksi ini — kamu juga harus ___ nya."
+        },
+        "options": [
+          "上传",
+          "下载",
+          "复制",
+          "冻结"
+        ],
+        "answer": 1
+      },
+      {
+        "q": {
+          "zh": "一个外国人能把汉语说得这么（　），真了不起啊！",
+          "ru": "Иностранец говорит по-китайски так ___ — потрясающе!",
+          "en": "A foreigner speaks Chinese so ___ — amazing!",
+          "tk": "Bir daşary ýurtly aýdym-sazly türkmençe gürleýär — haýran galdyryjy!",
+          "uz": "Chet ellik kishi xitoy tilini juda ___ gapiradi — hayratlanarli!",
+          "tg": "Як хориҷӣ чинӣ хеле ___ гап мезанад — аҷоиб!",
+          "id": "Orang asing berbicara bahasa Mandarin begitu ___ — luar biasa!"
+        },
+        "options": [
+          "地道",
+          "真实",
+          "实在",
+          "真正"
+        ],
+        "answer": 0
+      },
+      {
+        "q": {
+          "zh": "如果身份证丢失，请您尽快去派出所（　）申报补领新证的有关手续。",
+          "ru": "Если потеряли удостоверение, срочно в полицию ___ процедуру восстановления.",
+          "en": "If you lose your ID, go to the police station to ___ re-issuance procedures.",
+          "tk": "Şahsyýetnamaňyzy ýitirseňiz, täzeden bermek proseduralaryny ___ üçin polisiýa bölümine gidiň.",
+          "uz": "Agar shaxsni tasdiqlovchi hujjatingizni yo'qotsangiz, qayta berish tartib-qoidalarini ___ uchun politsiya bo'limiga boring.",
+          "tg": "Агар шиносномаи худро гум кунед, ба шуъбаи полис равед, то расмиёти аз нав додани онро ___.",
+          "id": "Jika Anda kehilangan KTP, pergi ke kantor polisi untuk ___ prosedur penerbitan ulang."
+        },
+        "options": [
+          "办理",
+          "管理",
+          "办公",
+          "结算"
+        ],
+        "answer": 0
+      },
+      {
+        "q": {
+          "zh": "（　）是指信用卡或借记卡的持卡人在宾馆、酒店或出租公司等消费时，消费与结算不在同一时间完成，特约单位通过POS机预先向发卡机构索要授权的行为。",
+          "ru": "___ — когда оплата и расчёт не совпадают; POS запрашивает у банка предварительное разрешение.",
+          "en": "___ — when payment and settlement differ; the POS asks the bank for pre-approval.",
+          "tk": "___ — töleg we hasaplaşyk tapawutlananda; POS bankdan öňünden tassyklama soraýar.",
+          "uz": "___ — to'lov va hisob-kitob farq qilganda; POS bankdan oldindan ruxsat so'raydi.",
+          "tg": "___ — вақте ки пардохт ва ҳисобкунӣ фарқ мекунанд; POS аз бонк пешакӣ иҷозат мепурсад.",
+          "id": "___ — ketika pembayaran dan penyelesaian berbeda; mesin POS meminta pra-persetujuan dari bank."
+        },
+        "options": [
+          "预订",
+          "预约",
+          "预留",
+          "预授权"
+        ],
+        "answer": 3
+      },
+      {
+        "q": {
+          "zh": "如果信用卡丢失，可以主动要求银行临时（　）信用卡。",
+          "ru": "Если карта потеряна, можно попросить банк временно ___ её.",
+          "en": "If the card is lost, you can ask the bank to temporarily ___ it.",
+          "tk": "Kart ýitirilse, bankdan ony wagtlaýyn ___ sorap bilersiňiz.",
+          "uz": "Agar karta yo'qolsa, bankdan uni vaqtincha ___ so'rashingiz mumkin.",
+          "tg": "Агар корт гум шавад, шумо метавонед аз бонк хоҳиш кунед, ки онро муваққатан ___.",
+          "id": "Jika kartu hilang, Anda dapat meminta bank untuk sementara ___ nya."
+        },
+        "options": [
+          "扣除",
+          "结算",
+          "冻结",
+          "冷冻"
+        ],
+        "answer": 2
+      },
+      {
+        "q": {
+          "zh": "如果你的支付宝信用分在600分以上，骑共享单车时就不需要交（　）了。",
+          "ru": "Если твой Alipay-скор выше 600, при аренде велосипеда не нужен ___.",
+          "en": "If your Alipay score is 600+, you don't need a ___ for shared bikes.",
+          "tk": "Alipay balyňyz 600+ bolsa, umumy welosipedler üçin ___ gerek däl.",
+          "uz": "Agar Alipay ballingiz 600 dan yuqori bo'lsa, umumiy velosipedlar uchun ___ kerak emas.",
+          "tg": "Агар холҳои Alipay-и шумо 600+ бошад, барои велосипедҳои умумӣ ___ лозим нест.",
+          "id": "Jika skor Alipay Anda 600+, Anda tidak perlu ___ untuk sepeda bersama."
+        },
+        "options": [
+          "基金",
+          "总额",
+          "押金",
+          "余额"
+        ],
+        "answer": 2
+      },
+      {
+        "q": {
+          "zh": "北斗卫星导航系统是中国自行研发的全球第三个成熟的卫星导航系统，它可以为全球用户提供（　）精准定位和导航服务。",
+          "ru": "Beidou — третья成熟 глобальная навигационная система, даёт ___ точное позиционирование.",
+          "en": "BeiDou provides ___ precise positioning globally.",
+          "tk": "BeiDou global derejede ___ takyk ýerleşişi üpjün edýär.",
+          "uz": "BeiDou butun dunyo bo'ylab ___ aniq joylashuvni ta'minlaydi.",
+          "tg": "Бэйдоу дар саросари ҷаҳон ҷойгиршавии дақиқи ___ таъмин мекунад.",
+          "id": "BeiDou menyediakan penentuan posisi yang ___ presisi secara global."
+        },
+        "options": [
+          "按时",
+          "实时",
+          "地道",
+          "超前"
+        ],
+        "answer": 1
+      }
+    ],
+    "fill_blank": {
+      "title": {
+        "zh": "安娜的日记",
+        "ru": "Дневник Анны",
+        "en": "Anna's diary",
+        "tk": "Annanyň gündeligi",
+        "uz": "Annaning kundaligi",
+        "tg": "Рӯзномаи Анна",
+        "id": "Buku harian Anna"
+      },
+      "text": {
+        "zh": "2022年7月23日 雷雨\n今天我们来到深圳，天气不好，航班（　）了。过海关的时候，我们带的一些物品需要（　），耽误了很长时间，到达出口的时候，讯达公司的孟安诺已经在等我们了。他等了很久，我以为他会很无聊，没想到他早就在“飞常准”上看到航班信息了，他（　）利用等我们的时间（　）了几封邮件，什么工作都没耽误。",
+        "ru": "23 июля 2022, гроза.\nСегодня мы приехали в Шэньчжэнь — погода плохая, рейс (　). На таможне часть物品 нужно было (　), потратили много времени. Когда дошли до выхода, Мэн Аньно из «Сюньда» уже ждал. Ждал долго — я думала, ему скучно, но он давно увидел информацию о рейсе в «Фэйчанчжунь» и (　) использовал время ожидания, чтобы (　) несколько писем — работа не пострадала.",
+        "en": "July 23, 2022, thunderstorm.\nToday we arrived in Shenzhen — bad weather, our flight was (　). At customs some items had to be (　), it took a long time. When we reached the exit, Meng Annuo from Xunda was already waiting. He'd waited a long time — I thought he'd be bored, but he'd already seen the flight info on “Feichangzhun” and (　) used the waiting time to (　) a few emails — nothing was delayed.",
+        "tk": "2022-nji ýylyň 23-nji iýuly, ýyldyrymly ýagyş.\nŞu gün Şenžene geldik — howa ýaramaz, uçuşymyz (　) boldy. Gümrükde käbir zatlary (　) gerek boldy, köp wagt aldy. Çykyşa ýetende, Xundadan Meng Annuo eýýäm garaşýardy. Ol köp wagt garaşdy — men onuň içi geçer öýdüpdim, ýöne ol eýýäm «Feichangzhun» programmasynda uçuş maglumatyny görüp, garaşma wagtyny birnäçe e-poçta (　) üçin (　) ulanypdy — hiç zat gijä galmady.",
+        "uz": "2022-yil 23-iyul, momaqaldiroq.\nBugun biz Shenzhenga yetib keldik — ob-havo yomon edi, parvozimiz (　). Bojxona nazoratida ba'zi narsalarni (　) kerak bo'ldi, bu ancha vaqt oldi. Chiqish joyiga yetganimizda, Xundadan Meng Annuo allaqachon kutib turardi. U uzoq vaqt kutgan edi — zerikkan bo'ladi deb o'yladim, lekin u allaqachon “Feichangzhun”da parvoz ma'lumotlarini ko'rib, kutish vaqtidan (　) bir nechta elektron xatni (　) — hech narsa kechikmadi.",
+        "tg": "23 июли соли 2022, раъду барқ.\nИмрӯз мо ба Шэньчжэн омадем — ҳаво бад буд, парвози мо (　) шуд. Дар гумрук баъзе молҳоро бояд (　) мекарданд, вақти зиёд сарф шуд. Вақте ки ба баромадгоҳ расидем, Мэн Аннуо аз Сюнда аллакай интизор буд. Ӯ муддати тӯлонӣ интизор шуда буд — ман фикр мекардам, ки ӯ дилгир мешавад, аммо ӯ аллакай маълумоти парвозро дар «Фэйчанчжун» дида буд ва (　) вақти интизориро барои (　) чанд почтаи электронӣ истифода бурд — ҳеҷ чиз ба таъхир наафтод.",
+        "id": "23 Juli 2022, badai petir.\nHari ini kami tiba di Shenzhen — cuaca buruk, penerbangan kami (　). Di bea cukai beberapa barang harus (　), butuh waktu lama. Ketika kami mencapai pintu keluar, Meng Annuo dari Xunda sudah menunggu. Dia sudah menunggu lama — saya pikir dia akan bosan, tetapi dia sudah melihat info penerbangan di \"Feichangzhun\" dan (　) menggunakan waktu menunggu untuk (　) beberapa email — tidak ada yang tertunda."
+      },
+      "answers": [
+        {
+          "zh": "延误",
+          "ru": "задержали",
+          "en": "delayed",
+          "tk": "gijä galdy",
+          "uz": "kechiktirildi",
+          "tg": "ба таъхир афтод",
+          "id": "tertunda"
+        },
+        {
+          "zh": "申报",
+          "ru": "декларировать",
+          "en": "declare",
+          "tk": "beýan etmek",
+          "uz": "deklaratsiya qilish",
+          "tg": "эълон кардан",
+          "id": "mendeklarasikan"
+        },
+        {
+          "zh": "正好",
+          "ru": "как раз",
+          "en": "just",
+          "tk": "diňe",
+          "uz": "hozirgina",
+          "tg": "танҳо",
+          "id": "baru saja"
+        },
+        {
+          "zh": "回",
+          "ru": "ответил",
+          "en": "replied to",
+          "tk": "jogap berdi",
+          "uz": "javob berdi",
+          "tg": "ҷавоб дод ба",
+          "id": "membalas"
+        }
+      ]
+    }
+  },
+  "audio": {
+    "textbook_1": "textbook_1.mp3",
+    "vocab": "vocab.mp3",
+    "dialog_airport": "dialog_airport.mp3",
+    "dialog_hotel": "dialog_hotel.mp3",
+    "base": "/audio/business/lesson01/"
+  }
+}

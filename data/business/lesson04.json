@@ -1,0 +1,31 @@
+{
+  "module": 2,
+  "lesson": 4,
+  "module_title": {
+    "zh": "考察与订购",
+    "ru": "Осмотр и заказ",
+    "en": "Inspection and Ordering",
+    "tk": "Barlag we sargyt",
+    "uz": "Ko'rikdan o'tkazish va buyurtma berish",
+    "tg": "Муоина ва фармоиш",
+    "id": "Inspeksi dan pemesanan"
+  },
+  "title": {
+    "zh": "这是我们公司的产品体验区",
+    "ru": "Наш демонстрационный зал продукции",
+    "en": "Our product showroom",
+    "tk": "Biziň önüm görkeziş zaly",
+    "uz": "Bizning mahsulot namoyish zali",
+    "tg": "Толори намоиши маҳсулоти мо",
+    "id": "Ruang pameran produk kami"
+  },
+  "status": "stub",
+  "goals": {},
+  "warmup": {},
+  "dialogs": [],
+  "vocabulary": [],
+  "expressions": [],
+  "grammar": [],
+  "exercises": {},
+  "audio": {}
+}

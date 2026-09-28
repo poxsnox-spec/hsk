@@ -385,9 +385,9 @@ const MENU_ITEMS = [
 
 
 // ============================================================
-// What's New banner
+// What's New banner (v2 — с историей)
 // ============================================================
-const WN_VERSION = "2026-09-26-v2";
+const WN_VERSION = "2026-09-28-business";
 const WN_KEY = "hsk5_whatsnew_dismissed_" + WN_VERSION;
 
 function wnShowBanner() {
@@ -410,8 +410,16 @@ function wnShowBanner() {
         @keyframes wnFadeIn { from { opacity:0; transform:translateY(-10px); } to { opacity:1; transform:none; } }
         @keyframes wnPop { 0% { transform:scale(.6); } 60% { transform:scale(1.12); } 100% { transform:scale(1); } }
         #wn-banner ul { margin:8px 0 0; padding-left:22px; }
-        #wn-banner li { margin:5px 0; color:#D9E6F2; font-size:13.5px; line-height:1.5; }
+        #wn-banner li { margin:5px 0; color:#D9E6F2; font-size:13.5px; line-height:1.55; }
         #wn-banner b { color:#7EE0FF; }
+        #wn-banner .wn-old { margin-top:14px; padding-top:12px; border-top:1px dashed rgba(102,178,255,0.25); }
+        #wn-banner .wn-old summary { cursor:pointer; color:#8B9AAB; font-size:12.5px; list-style:none; }
+        #wn-banner .wn-old summary::-webkit-details-marker { display:none; }
+        #wn-banner .wn-old summary:before { content:"▸ "; color:#7EE0FF; }
+        #wn-banner .wn-old[open] summary:before { content:"▾ "; }
+        #wn-banner .wn-old-body { margin-top:10px; padding-left:4px; opacity:.85; }
+        #wn-banner .wn-old-body h4 { color:#A6B4C2; font-size:12px; text-transform:uppercase; letter-spacing:.4px; margin:10px 0 4px; font-weight:600; }
+        #wn-banner .wn-old-body li { font-size:12.5px; color:#A6B4C2; }
       </style>
       <button id="wn-close" type="button" title="Dismiss" style="
         position:absolute;top:8px;right:10px;
@@ -419,26 +427,46 @@ function wnShowBanner() {
         font-size:20px;cursor:pointer;line-height:1;padding:4px 8px;
       ">✕</button>
       <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px">
-        <span style="font-size:24px;animation:wnPop .5s ease">🎉</span>
-        <span style="font-size:16px;font-weight:700;color:#E6EDF5">What's new — September 26, 2026</span>
+        <span style="font-size:24px;animation:wnPop .5s ease">🚀</span>
+        <span style="font-size:16px;font-weight:700;color:#E6EDF5">What's new — September 28, 2026</span>
       </div>
       <div style="font-size:13px;color:#A6B4C2;margin-bottom:6px">
-        Major update: 6 languages, smarter SRS, and many improvements.
+        Big update: a whole new Business Chinese course and audio for lessons.
       </div>
       <ul>
-        <li><b>6 languages</b> — English, Русский, Türkmen, O'zbek, Тоҷикӣ, Indonesia. Full UI + lesson translations.</li>
-        <li><b>Anki-style SRS</b> — learning steps (1m → 10m → 1d), ease factor, lapses, delay bonus. Exactly like AnkiDroid.</li>
-        <li><b>SRS settings</b> — tweak learning steps, graduating interval, ease, easy bonus, and more.</li>
-        <li><b>SRS stats</b> — retention rate, state distribution, 7-day forecast.</li>
-        <li><b>Lesson picker in SRS</b> — pick specific lessons before reviewing.</li>
-        <li><b>Audio on SRS cards</b> — tap 🔊 to hear the word (836 words).</li>
-        <li><b>Export / Import SRS</b> — JSON backup for moving between devices.</li>
-        <li><b>Animated SRS tutorial</b> — tap the "?" button for a quick guide.</li>
-        <li><b>Language picker on first launch</b> — choose your language right away.</li>
-        <li><b>Feedback form</b> now works in all 6 languages.</li>
-        <li><b>Lesson content</b> — all 18 lessons fully translated to uz / tg / id.</li>
-        <li><b>Removed</b> the old "Täze täzelikler" banner.</li>
+        <li><b>New: Business Chinese (商务中文)</b> — 5 modules, 15 lessons, full curriculum. Separate dashboard reachable from the top-right button 💼 on the main screen.</li>
+        <li><b>Lesson 1 fully developed</b> — 2 dialogs (airport + hotel), 17 vocabulary cards with detailed explanations, 4 expressions, 5 grammar patterns, and exercises (comprehension, true/false, multiple choice, fill-in-the-blank).</li>
+        <li><b>Audio for Lesson 1</b> — listen to dialogs and vocabulary with the built-in player: play / ±5s / speed 0.5×–2.0×.</li>
+        <li><b>Business content in 6 languages</b> — Russian, English, Türkmen, O'zbek, Тоҷикӣ, Indonesia. Auto-syncs with the language you chose in HSK 5.</li>
+        <li><b>Business lessons accessible</b> — click any module or lesson on the Business dashboard to open it. Progress markup and "Start training" buttons work.</li>
+        <li><b>Retranslated Turkmen</b> — the entire HSK 5 course and Business now use the fresh DeepSeek translation (better quality).</li>
       </ul>
+
+      <details class="wn-old">
+        <summary>Previous updates (Sep 26, 2026)</summary>
+        <div class="wn-old-body">
+          <h4>Translations & SRS</h4>
+          <ul>
+            <li><b>6 languages</b> — English, Русский, Türkmen, O'zbek, Тоҷикӣ, Indonesia. Full UI + lesson translations.</li>
+            <li><b>Anki-style SRS</b> — learning steps (1m → 10m → 1d), ease factor, lapses, delay bonus. Exactly like AnkiDroid.</li>
+            <li><b>SRS settings</b> — tweak learning steps, graduating interval, ease, easy bonus, and more.</li>
+            <li><b>SRS stats</b> — retention rate, state distribution, 7-day forecast.</li>
+            <li><b>Lesson picker in SRS</b> — pick specific lessons before reviewing.</li>
+            <li><b>Audio on SRS cards</b> — tap 🔊 to hear the word (836 words).</li>
+            <li><b>Export / Import SRS</b> — JSON backup for moving between devices.</li>
+            <li><b>Animated SRS tutorial</b> — tap the "?" button for a quick guide.</li>
+            <li><b>Language picker on first launch</b> — choose your language right away.</li>
+            <li><b>Feedback form</b> now works in all 6 languages.</li>
+            <li><b>Lesson content</b> — all 18 lessons fully translated to uz / tg / id.</li>
+            <li><b>Removed</b> the old "Täze täzelikler" banner.</li>
+          </ul>
+          <h4>Grammar & Content</h4>
+          <ul>
+            <li><b>Detailed HSK 5 grammar</b> — all 64 points get formula, when-to-use, common mistakes, comparison, and exercises.</li>
+            <li><b>Grammar UI</b> — new blocks render on every grammar card.</li>
+          </ul>
+        </div>
+      </details>
     </div>`;
 
   const x = document.getElementById("wn-close");
@@ -2896,6 +2924,7 @@ function navigate(path) {
   else if (p[0] === "analyzer") renderAnalyzer();
   else if (p[0] === "activity") renderActivity();
   else if (p[0] === "progress") renderProgress();
+  else if (p[0] === "business") window.location.href = "/business";
   else if (p[0] === "srs") renderSrs();
   else if (p[0] === "feedback") renderFeedback();
   else if (p[0] === "profile") renderProfile();
@@ -3180,3 +3209,63 @@ window.addEventListener("hashchange", () => {
 bootApp();
 
 // fix_all_screens applied
+
+// === Business Chinese: иконка в правом верхнем углу ===
+(function bizCornerInit() {
+  if (document.getElementById("biz-corner-style")) return;
+  const st = document.createElement("style");
+  st.id = "biz-corner-style";
+  st.textContent = `
+    #biz-corner-btn {
+      position: fixed;
+      top: 14px;
+      right: 16px;
+      z-index: 900;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 12px 8px 10px;
+      border-radius: 12px;
+      background: linear-gradient(135deg, #4a9eff, #66B2FF);
+      color: #fff;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      border: 0;
+      box-shadow: 0 6px 18px rgba(74,158,255,0.35);
+      transition: transform .15s ease, box-shadow .15s ease, filter .15s ease;
+      text-decoration: none;
+      font-family: inherit;
+    }
+    #biz-corner-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 24px rgba(74,158,255,0.5);
+      filter: brightness(1.08);
+    }
+    #biz-corner-btn:active { transform: translateY(0) scale(.97); }
+    #biz-corner-btn .bcb-icon { font-size: 16px; line-height: 1; }
+    #biz-corner-btn .bcb-label { letter-spacing: .3px; }
+    @media (max-width: 640px) {
+      #biz-corner-btn .bcb-label { display: none; }
+      #biz-corner-btn { padding: 9px; border-radius: 50%; width: 40px; height: 40px; justify-content: center; }
+    }
+  `;
+  (document.head || document.documentElement).appendChild(st);
+
+  function mount() {
+    if (document.getElementById("biz-corner-btn")) return;
+    const a = document.createElement("a");
+    a.id = "biz-corner-btn";
+    a.href = "/business";
+    a.title = "商务中文 · Business Chinese";
+    a.innerHTML = '<span class="bcb-icon">💼</span><span class="bcb-label">Business</span>';
+    document.body.appendChild(a);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", mount);
+  } else {
+    mount();
+  }
+})();
+

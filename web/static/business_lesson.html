@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>商务中文 · Business Chinese</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<script>
+// ═══════════════════════════════════════════════════════════
+// i18n — сразу, до всего остального
+// ═══════════════════════════════════════════════════════════
+window.BIZ_UI = {
+  ru: {
+    back_to_modules: "← К модулям", back_to_hsk: "← HSK 5",
+    book_title: "БИЗНЕС-КИТАЙСКИЙ", lessons: "УРОКИ",
+    all_lessons: "Все уроки", info: "Информация",
+    title_lbl: "Заголовок", goals: "Цели урока",
+    loading: "Загрузка…", err_load: "Ошибка загрузки",
+    dialog: "Диалог", translation_btn: "Перевод",
+    tab_text: "📖 Текст", tab_vocab: "📚 Слова",
+    tab_expr: "🔗 Выражения", tab_grammar: "📐 Грамматика",
+    tab_exercises: "✏️ Упражнения", tab_workbook: "📝 Рабочая тетрадь",
+    no_dialogs: "Диалоги ещё не добавлены.",
+    no_vocab: "Слова ещё не добавлены.",
+    no_expr: "Выражения ещё не добавлены.",
+    no_grammar: "Грамматика ещё не добавлена.",
+    no_exercises: "Упражнения не добавлены.",
+    no_workbook: "Материалы рабочей тетради ещё не добавлены.",
+    show_answer: "Показать ответ",
+    section_1: "1. Понимание текста",
+    section_2: "2. Верно / Неверно",
+    section_3: "3. Выберите вариант",
+    section_4: "4. Заполните пропуски",
+    true: "✓ Верно", false: "✗ Неверно",
+    stub_note: "Материалы для этого урока ещё не добавлены.",
+    module: "Модуль", lesson: "Урок",
+  },
+  en: {
+    back_to_modules: "← Back to modules", back_to_hsk: "← HSK 5",
+    book_title: "BUSINESS CHINESE", lessons: "LESSONS",
+    all_lessons: "All lessons", info: "Information",
+    title_lbl: "Title", goals: "Lesson goals",
+    loading: "Loading…", err_load: "Load error",
+    dialog: "Dialog", translation_btn: "Translation",
+    tab_text: "📖 Text", tab_vocab: "📚 Words",
+    tab_expr: "🔗 Expressions", tab_grammar: "📐 Grammar",
+    tab_exercises: "✏️ Exercises", tab_workbook: "📝 Workbook",
+    no_dialogs: "No dialogs yet.", no_vocab: "No vocabulary yet.",
+    no_expr: "No expressions yet.", no_grammar: "No grammar yet.",
+    no_exercises: "No exercises.", no_workbook: "Workbook not added yet.",
+    show_answer: "Show answer",
+    section_1: "1. Reading comprehension", section_2: "2. True / False",
+    section_3: "3. Choose the correct option", section_4: "4. Fill in the blanks",
+    true: "✓ True", false: "✗ False",
+    stub_note: "Materials for this lesson are not added yet.",
+    module: "Module", lesson: "Lesson",
+  },
+  tk: {
+    back_to_modules: "← Modullara", back_to_hsk: "← HSK 5",
+    book_title: "BIZNES HYTAÝ DILI", lessons: "SAPAKLAR",
+    all_lessons: "Ähli sapaklar", info: "Maglumat",
+    title_lbl: "Sözbaşy", goals: "Sapagyň maksatlary",
+    loading: "Ýüklenýär…", err_load: "Ýükleme säwligi",
+    dialog: "Dialog", translation_btn: "Terjime",
+    tab_text: "📖 Tekst", tab_vocab: "📚 Sözler",
+    tab_expr: "🔗 Aňlatmalar", tab_grammar: "📐 Grammatika",
+    tab_exercises: "✏️ Maşklar", tab_workbook: "📝 Iş depderi",
+    no_dialogs: "Dialoglar ýok.", no_vocab: "Sözler ýok.",
+    no_expr: "Aňlatmalar ýok.", no_grammar: "Grammatika ýok.",
+    no_exercises: "Maşklar ýok.", no_workbook: "Iş depderi goşulmady.",
+    show_answer: "Jogaby görkez",
+    section_1: "1. Teksti düşünmek", section_2: "2. Dogry / Ýalňyş",
+    section_3: "3. Dogry jogaby saýlaň", section_4: "4. Boş ýerleri dolduryň",
+    true: "✓ Dogry", false: "✗ Ýalňyş",
+    stub_note: "Bu sapak üçin materiallar goşulmady.",
+    module: "Modul", lesson: "Sapak",
+  },
+  uz: {
+    back_to_modules: "← Modullarga", back_to_hsk: "← HSK 5",
+    book_title: "BIZNES XITOY TILI", lessons: "DARSLAR",
+    all_lessons: "Barcha darslar", info: "Ma'lumot",
+    title_lbl: "Sarlavha", goals: "Dars maqsadlari",
+    loading: "Yuklanmoqda…", err_load: "Yuklashda xatolik",
+    dialog: "Dialog", translation_btn: "Tarjima",
+    tab_text: "📖 Matn", tab_vocab: "📚 So'zlar",
+    tab_expr: "🔗 Ib oralar", tab_grammar: "📐 Grammatika",
+    tab_exercises: "✏️ Mashqlar", tab_workbook: "📝 Ish daftari",
+    no_dialogs: "Dialoglar yo'q.", no_vocab: "So'zlar yo'q.",
+    no_expr: "Ib oralar yo'q.", no_grammar: "Grammatika yo'q.",
+    no_exercises: "Mashqlar yo'q.", no_workbook: "Ish daftari qo'shilmagan.",
+    show_answer: "Javobni ko'rsatish",
+    section_1: "1. Matnni tushunish", section_2: "2. To'g'ri / Noto'g'ri",
+    section_3: "3. To'g'ri javobni tanlang", section_4: "4. Bo'sh joylarni to'ldiring",
+    true: "✓ To'g'ri", false: "✗ Noto'g'ri",
+    stub_note: "Bu dars uchun materiallar qo'shilmagan.",
+    module: "Modul", lesson: "Dars",
+  },
+  tg: {
+    back_to_modules: "← Ба модулҳо", back_to_hsk: "← HSK 5",
+    book_title: "ЗАБОНИ ХИТОИИ ТИҶОРАТӢ", lessons: "ДАРСҲО",
+    all_lessons: "Ҳамаи дарсҳо", info: "Маълумот",
+    title_lbl: "Сарлавҳа", goals: "Мақсадҳои дарс",
+    loading: "Боргирӣ…", err_load: "Хатои боргирӣ",
+    dialog: "Муколама", translation_btn: "Тарҷума",
+    tab_text: "📖 Матн", tab_vocab: "📚 Калимаҳо",
+    tab_expr: "🔗 Ибораҳо", tab_grammar: "📐 Грамматика",
+    tab_exercises: "✏️ Машқҳо", tab_workbook: "📝 Дафтари корӣ",
+    no_dialogs: "Муколамаҳо нест.", no_vocab: "Калимаҳо нест.",
+    no_expr: "Ибораҳо нест.", no_grammar: "Грамматика нест.",
+    no_exercises: "Машқҳо нест.", no_workbook: "Дафтари корӣ илова нашудааст.",
+    show_answer: "Ҷавобро нишон диҳед",
+    section_1: "1. Фаҳмиши матн", section_2: "2. Дуруст / Нодуруст",
+    section_3: "3. Ҷавоби дурустро интихоб кунед", section_4: "4. Ҷойҳои холӣро пур кунед",
+    true: "✓ Дуруст", false: "✗ Нодуруст",
+    stub_note: "Барои ин дарс мавод илова нашудааст.",
+    module: "Модул", lesson: "Дарс",
+  },
+  id: {
+    back_to_modules: "← Kembali ke modul", back_to_hsk: "← HSK 5",
+    book_title: "BAHASA MANDARIN BISNIS", lessons: "PELAJARAN",
+    all_lessons: "Semua pelajaran", info: "Informasi",
+    title_lbl: "Judul", goals: "Tujuan pelajaran",
+    loading: "Memuat…", err_load: "Gagal memuat",
+    dialog: "Dialog", translation_btn: "Terjemahan",
+    tab_text: "📖 Teks", tab_vocab: "📚 Kosakata",
+    tab_expr: "🔗 Ungkapan", tab_grammar: "📐 Tata bahasa",
+    tab_exercises: "✏️ Latihan", tab_workbook: "📝 Buku kerja",
+    no_dialogs: "Belum ada dialog.", no_vocab: "Belum ada kosakata.",
+    no_expr: "Belum ada ungkapan.", no_grammar: "Belum ada tata bahasa.",
+    no_exercises: "Belum ada latihan.", no_workbook: "Buku kerja belum ditambahkan.",
+    show_answer: "Tampilkan jawaban",
+    section_1: "1. Pemahaman bacaan", section_2: "2. Benar / Salah",
+    section_3: "3. Pilih jawaban yang benar", section_4: "4. Isi bagian yang kosong",
+    true: "✓ Benar", false: "✗ Salah",
+    stub_note: "Materi untuk pelajaran ini belum ditambahkan.",
+    module: "Modul", lesson: "Pelajaran",
+  }
+};
+
+function getLang() {
+  try { return localStorage.getItem("hsk5_lang") || "ru"; } catch (e) { return "ru"; }
+}
+function t(key) {
+  var l = getLang();
+  var pack = window.BIZ_UI[l] || window.BIZ_UI.en || window.BIZ_UI.ru || {};
+  return pack[key] || key;
+}
+function pick(obj) {
+  if (!obj || typeof obj !== "object") return "";
+  var l = getLang();
+  return obj[l] || obj.en || obj.ru || "";
+}
+
+// Tailwind config
+tailwind.config = { theme: { extend: {
+  fontFamily: { sans: ['Inter', 'sans-serif'] },
+  colors: { brand: { cyan:'#7fd1e6', light:'#e0f4f9', navy:'#1a365d', dark:'#0f172a', accent:'#3b82f6' } }
+}}};
+</script>
+<style>
+.bg-dotted-pattern {
+  background-color: #f4fafd;
+  background-image: radial-gradient(#bce4f0 1.5px, transparent 1.5px);
+  background-size: 24px 24px;
+}
+.biz-tab { transition: all .15s; }
+.biz-tab.active { background: #1a365d; color: #fff; }
+.biz-tab:hover:not(.active) { background: rgba(26,54,93,0.08); }
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+.dialog-line { padding: 12px 16px; border-left: 3px solid transparent; transition: background .15s; }
+.dialog-line:hover { background: #f9fafb; border-left-color: #7fd1e6; }
+.vocab-card { transition: transform .15s; }
+.vocab-card:hover { transform: translateY(-2px); }
+.hidden-trans { display: none; }
+</style>
+</head>
+<body class="bg-gray-50 text-slate-800 font-sans h-screen flex overflow-hidden">
+
+<aside class="w-64 bg-white shadow-lg z-20 flex flex-col h-full border-r border-gray-100">
+  <a href="/business" class="h-16 flex items-center px-6 border-b border-brand-light bg-brand-light/30 hover:bg-brand-light/60 transition-colors cursor-pointer">
+    <div class="flex items-center gap-2 text-brand-navy font-bold text-sm">
+      <i class="fa-solid fa-arrow-left text-brand-cyan"></i>
+      <span id="lbl-back-mod"></span>
+    </div>
+  </a>
+  <div class="h-16 flex items-center px-6 border-b border-brand-light">
+    <div class="flex items-center gap-2 text-brand-navy font-bold text-sm">
+      <i class="fa-solid fa-book-open text-brand-cyan"></i>
+      <span>商务中文<br><span id="lbl-book-sub"></span></span>
+    </div>
+  </div>
+  <nav class="flex-1 py-4 px-3 space-y-1 overflow-y-auto" id="lesson-nav"></nav>
+  <div class="p-4 border-t border-gray-100 text-xs text-slate-400 text-center">
+    <span id="lbl-footer-book"></span>
+  </div>
+</aside>
+
+<main class="flex-1 flex flex-col h-full overflow-hidden bg-dotted-pattern">
+  <header class="h-16 bg-brand-cyan/20 backdrop-blur-sm border-b border-white/50 flex items-center justify-between px-8 z-10 flex-shrink-0">
+    <div id="biz-header-title" class="text-base font-bold text-brand-navy">
+      <i class="fa-solid fa-spinner fa-spin mr-2"></i><span id="lbl-loading"></span>
+    </div>
+    <a href="/" class="text-sm text-slate-500 hover:text-brand-navy transition-colors">
+      <i class="fa-solid fa-arrow-left mr-1"></i> HSK 5
+    </a>
+  </header>
+  <div class="flex-1 flex overflow-hidden">
+    <div class="flex-1 overflow-y-auto p-8">
+      <div id="biz-tabs" class="flex gap-2 mb-6 overflow-x-auto pb-1"></div>
+      <div id="biz-content">
+        <div class="text-center py-20 text-slate-400">
+          <i class="fa-solid fa-spinner fa-spin text-3xl"></i>
+        </div>
+      </div>
+    </div>
+    <aside class="w-80 bg-white/80 backdrop-blur-md border-l border-brand-light p-6 overflow-y-auto">
+      <h3 class="text-base font-bold text-brand-navy mb-3" id="biz-info-title"></h3>
+      <div id="biz-info" class="text-sm text-slate-600 space-y-3"></div>
+    </aside>
+  </div>
+</main>
+
+<script>
+var params = (function() {
+  var m = location.pathname.match(/\/business\/lesson\/(\d+)/);
+  return { n: m ? parseInt(m[1], 10) : 1 };
+})();
+var data = null;
+var currentTab = "text";
+
+function esc(s) {
+  return String(s == null ? "" : s).replace(/[&<>"']/g, function(c) {
+    return ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c];
+  });
+}
+function has(v) { return v && typeof v === "string" && v.trim().length; }
+
+function getTABS() {
+  return [
+    { id: "text",       label: t("tab_text") },
+    { id: "vocab",      label: t("tab_vocab") },
+    { id: "expr",       label: t("tab_expr") },
+    { id: "grammar",    label: t("tab_grammar") },
+    { id: "exercises",  label: t("tab_exercises") },
+    { id: "workbook",   label: t("tab_workbook") },
+  ];
+}
+
+// ═══════════════════════════════════════════════════════════
+// Audio player helpers
+// ═══════════════════════════════════════════════════════════
+var _audioEls = {};
+
+function renderAudioPlayer(audioId, src, label) {
+  if (!src) return '';
+  return '<div class="audio-player" style="display:flex;align-items:center;gap:8px;' +
+    'padding:10px 14px;background:#e0f4f9;border-radius:10px;margin:12px 0;flex-wrap:wrap">' +
+    '<button class="ap-btn ap-play" data-audio="' + audioId + '" ' +
+      'style="width:38px;height:38px;border-radius:50%;border:0;background:#1a365d;color:#fff;' +
+      'cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:14px">' +
+      '<i class="fa-solid fa-play"></i></button>' +
+    '<button class="ap-btn ap-rew" data-audio="' + audioId + '" ' +
+      'style="padding:6px 12px;border-radius:8px;border:1px solid #1a365d;background:transparent;' +
+      'color:#1a365d;cursor:pointer;font-size:12px">-5s</button>' +
+    '<button class="ap-btn ap-fwd" data-audio="' + audioId + '" ' +
+      'style="padding:6px 12px;border-radius:8px;border:1px solid #1a365d;background:transparent;' +
+      'color:#1a365d;cursor:pointer;font-size:12px">+5s</button>' +
+    '<select class="ap-speed" data-audio="' + audioId + '" ' +
+      'style="padding:6px 8px;border-radius:8px;border:1px solid #cbd5e1;background:#fff;font-size:12px">' +
+      '<option value="0.5">0.5×</option><option value="0.75">0.75×</option>' +
+      '<option value="1.0" selected>1.0×</option><option value="1.25">1.25×</option>' +
+      '<option value="1.5">1.5×</option><option value="2.0">2.0×</option></select>' +
+    '<span style="font-size:12px;color:#64748b;margin-left:4px">' + (label || '') + '</span>' +
+    '<audio id="' + audioId + '" preload="none" src="' + src + '"></audio>' +
+    '</div>';
+}
+
+function bindAudioPlayers() {
+  document.querySelectorAll(".ap-play").forEach(function(b) {
+    b.addEventListener("click", function() {
+      var id = b.dataset.audio;
+      var a = document.getElementById(id);
+      if (!a) return;
+      if (a.paused) {
+        // pause others
+        Object.keys(_audioEls).forEach(function(k) {
+          if (k !== id && !_audioEls[k].paused) _audioEls[k].pause();
+        });
+        a.play();
+      } else a.pause();
+    });
+  });
+  document.querySelectorAll(".ap-rew").forEach(function(b) {
+    b.addEventListener("click", function() {
+      var a = document.getElementById(b.dataset.audio);
+      if (a) a.currentTime = Math.max(0, a.currentTime - 5);
+    });
+  });
+  document.querySelectorAll(".ap-fwd").forEach(function(b) {
+    b.addEventListener("click", function() {
+      var a = document.getElementById(b.dataset.audio);
+      if (a) a.currentTime = Math.min(a.duration || 1e9, a.currentTime + 5);
+    });
+  });
+  document.querySelectorAll(".ap-speed").forEach(function(s) {
+    s.addEventListener("change", function() {
+      var a = document.getElementById(s.dataset.audio);
+      if (a) a.playbackRate = parseFloat(s.value);
+    });
+  });
+  // обновляем иконки play/pause
+  document.querySelectorAll("audio").forEach(function(a) {
+    _audioEls[a.id] = a;
+    a.addEventListener("play", function() {
+      var btn = document.querySelector('.ap-play[data-audio="' + a.id + '"] i');
+      if (btn) btn.className = "fa-solid fa-pause";
+    });
+    a.addEventListener("pause", function() {
+      var btn = document.querySelector('.ap-play[data-audio="' + a.id + '"] i');
+      if (btn) btn.className = "fa-solid fa-play";
+    });
+    a.addEventListener("ended", function() {
+      var btn = document.querySelector('.ap-play[data-audio="' + a.id + '"] i');
+      if (btn) btn.className = "fa-solid fa-play";
+    });
+  });
+}
+
+
+function applyUI() {
+  var set = function(id, key) { var el = document.getElementById(id); if (el) el.textContent = t(key); };
+  set("lbl-back-mod", "back_to_modules");
+  set("lbl-book-sub", "book_title");
+  set("biz-info-title", "info");
+  set("lbl-loading", "loading");
+  set("lbl-footer-book", "book_title");
+  document.title = "商务中文 · " + t("lesson");
+}
+
+function loadData() {
+  fetch("/api/business/lessons/" + params.n)
+    .then(function(r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+    .then(function(d) { data = d; renderHeader(); renderTabs(); renderSidebar(); renderTab(); })
+    .catch(function(e) {
+      document.getElementById("biz-content").innerHTML =
+        '<div class="text-red-500 text-center py-20">' + t("err_load") + ': ' + esc(e.message) + '</div>';
+    });
+}
+
+function renderHeader() {
+  var tt = data.title || {};
+  document.getElementById("biz-header-title").innerHTML =
+    '<span class="text-sm text-slate-400 font-normal">' +
+    esc(pick(data.module_title)) + ' · ' + t("lesson") + ' ' + (data.lesson || "?") + '</span>' +
+    '<div>' + esc(tt.zh || "") + ' <span class="text-slate-400 font-normal">— ' + esc(pick(tt)) + '</span></div>';
+
+  fetch("/api/business/lessons").then(function(r) { return r.json(); }).then(function(list) {
+    var nav = document.getElementById("lesson-nav");
+    var html = '<div class="text-xs text-slate-400 px-3 py-2 uppercase tracking-wide">' + t("all_lessons") + '</div>';
+    list.forEach(function(l) {
+      var active = l.lesson === params.n;
+      var titleTxt = pick(l.title) || (l.title || {}).zh || t("lesson") + " " + l.lesson;
+      html += '<a href="/business/lesson/' + l.lesson + '" class="block px-3 py-2 rounded-lg text-sm ' +
+        (active ? 'bg-brand-light text-brand-navy font-semibold' : 'text-slate-600 hover:bg-gray-50') + '">' +
+        '<span class="text-slate-400 text-xs mr-1">' + t("lesson") + ' ' + l.lesson + '</span>' +
+        esc(titleTxt) + '</a>';
+    });
+    nav.innerHTML = html;
+  });
+}
+
+function renderTabs() {
+  var tabs = document.getElementById("biz-tabs");
+  var html = "";
+  getTABS().forEach(function(tb) {
+    var active = tb.id === currentTab;
+    html += '<button class="biz-tab px-4 py-2 rounded-lg text-sm font-medium text-brand-navy whitespace-nowrap ' +
+      (active ? 'active' : 'bg-white border border-gray-200') + '" data-tab="' + tb.id + '">' + tb.label + '</button>';
+  });
+  tabs.innerHTML = html;
+  tabs.querySelectorAll(".biz-tab").forEach(function(b) {
+    b.addEventListener("click", function() { currentTab = b.dataset.tab; renderTabs(); renderTab(); });
+  });
+}
+
+function renderSidebar() {
+  var tt = data.title || {};
+  var goals = data.goals || {};
+  var html = '';
+  html += '<div><div class="text-xs text-slate-400 uppercase tracking-wide mb-1">' + t("title_lbl") + '</div>' +
+    '<div class="text-lg font-bold text-brand-navy">' + esc(tt.zh || "") + '</div>' +
+    '<div class="text-sm text-slate-500">' + esc(tt.pinyin || "") + '</div>' +
+    '<div class="text-sm text-slate-600 mt-1">' + esc(pick(tt)) + '</div></div>';
+
+  var listZh = goals.zh || [];
+  var listTr = pick(goals) || [];
+  if (listZh.length || (Array.isArray(listTr) && listTr.length)) {
+    html += '<div class="border-t border-gray-100 pt-3"><div class="text-xs text-slate-400 uppercase tracking-wide mb-2">' + t("goals") + '</div>';
+    var n = Math.max(listZh.length, (Array.isArray(listTr) ? listTr.length : 0));
+    for (var i = 0; i < n; i++) {
+      html += '<div class="mb-2"><div class="text-sm text-slate-700">' +
+        esc(Array.isArray(listTr) ? (listTr[i] || "") : "") + '</div>' +
+        '<div class="text-xs text-slate-400">' + esc(listZh[i] || "") + '</div></div>';
+    }
+    html += '</div>';
+  }
+  if (data.status === "stub") {
+    html += '<div class="bg-amber-50 border border-amber-200 rounded-lg p-3 text-xs text-amber-800 mt-3">' +
+      '<i class="fa-solid fa-hourglass-half mr-1"></i> ' + t("stub_note") + '</div>';
+  }
+  document.getElementById("biz-info").innerHTML = html;
+}
+
+function renderTab() {
+  var c = document.getElementById("biz-content");
+  var fns = { text: renderText, vocab: renderVocab, expr: renderExpr, grammar: renderGrammar, exercises: renderExercises, workbook: renderWorkbook };
+  var fn = fns[currentTab] || renderText;
+  c.innerHTML = fn();
+  if (typeof bindAudioPlayers === "function") bindAudioPlayers();
+}
+
+function renderText() {
+  var dlg = data.dialogs || [];
+  if (!dlg.length) return '<div class="text-slate-400 text-center py-20">' + t("no_dialogs") + '</div>';
+  var base = (data.audio && data.audio.base) ? data.audio.base : "/audio/business/lesson01/";
+  var html = "";
+  dlg.forEach(function(d, i) {
+    var sc = d.scene || {};
+    html += '<div class="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 mb-6">';
+    html += '<div class="flex items-center justify-between mb-4">' +
+      '<div><span class="text-xs text-slate-400 uppercase tracking-wide">' + t("dialog") + ' ' + (i+1) + '</span>' +
+      '<div class="text-lg font-bold text-brand-navy">' + esc(sc.zh || "") + ' · ' + esc(pick(sc)) + '</div></div>' +
+      '<button class="text-xs text-brand-cyan hover:text-brand-navy" onclick="toggleTranslations()">' +
+      '<i class="fa-solid fa-eye mr-1"></i>' + t("translation_btn") + '</button></div>';
+    // ── AUDIO PLAYER ──
+    if (d.audio) {
+      var audioId = "aud-dialog-" + i;
+      var src = base + d.audio;
+      html += renderAudioPlayer(audioId, src, "");
+    }
+    (d.lines || []).forEach(function(ln) {
+      html += '<div class="dialog-line">' +
+        '<div class="text-xs text-slate-400 mb-1">' + esc(ln.speaker || "") + '</div>' +
+        '<div class="text-base font-medium text-slate-800">' + esc(ln.zh || "") + '</div>' +
+        (has(ln.pinyin) ? '<div class="text-xs text-slate-400 mt-1 font-mono">' + esc(ln.pinyin) + '</div>' : '') +
+        (pick(ln) ? '<div class="trans-block mt-1"><div class="text-sm text-slate-600">' + esc(pick(ln)) + '</div></div>' : '') +
+        '</div>';
+    });
+    html += '</div>';
+  });
+  return html;
+}
+
+function renderVocab() {
+  var v = data.vocabulary || [];
+  if (!v.length) return '<div class="text-slate-400 text-center py-20">' + t("no_vocab") + '</div>';
+  var base = (data.audio && data.audio.base) ? data.audio.base : "/audio/business/lesson01/";
+  var html = '';
+  if (data.audio && data.audio.vocab) {
+    html += renderAudioPlayer("aud-vocab", base + data.audio.vocab, "");
+  }
+  html += '<div class="grid grid-cols-1 md:grid-cols-2 gap-4">';
+  v.forEach(function(w) {
+    html += '<div class="vocab-card bg-white rounded-xl p-5 shadow-sm border border-gray-100">' +
+      '<div class="text-2xl font-bold text-brand-navy">' + esc(w.hanzi || "") +
+      '<span class="text-sm text-slate-400 ml-2">' + esc(w.pinyin || "") + '</span>' +
+      '<span class="text-xs text-slate-400 ml-2">' + esc(w.pos || "") + '</span></div>' +
+      '<div class="text-sm text-slate-700 mt-2 mb-2">' + esc(pick(w.meaning)) + '</div>' +
+      (pick(w.simple) ? '<div class="text-xs text-slate-500 bg-slate-50 rounded p-2 mb-2">' + esc(pick(w.simple)) + '</div>' : '') +
+      (w.examples || []).map(function(ex) {
+        return '<div class="mt-2 pt-2 border-t border-gray-100"><div class="text-sm text-slate-700">' + esc(ex.zh || "") + '</div>' +
+          (pick(ex) ? '<div class="text-xs text-slate-500">' + esc(pick(ex)) + '</div>' : '') + '</div>';
+      }).join("") +
+      (w.question && pick(w.question) ? '<div class="mt-2 pt-2 border-t border-gray-100 text-xs text-slate-400 italic">' +
+        '<i class="fa-solid fa-comment-dots mr-1"></i>' + esc(pick(w.question)) + '</div>' : '') +
+      '</div>';
+  });
+  html += '</div>';
+  return html;
+}
+
+function renderExpr() {
+  var e = data.expressions || [];
+  if (!e.length) return '<div class="text-slate-400 text-center py-20">' + t("no_expr") + '</div>';
+  return e.map(function(x) {
+    return '<div class="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 mb-4">' +
+      '<div class="text-lg font-bold text-brand-navy mb-1">' + esc(x.zh || "") + '</div>' +
+      '<div class="text-xs text-slate-400 mb-2 font-mono">' + esc(x.pinyin || "") + '</div>' +
+      '<div class="text-sm text-slate-700 mb-1">' + esc(pick(x)) + '</div>' +
+      (pick(x.note) ? '<div class="text-xs text-slate-500 mt-3 pt-3 border-t border-gray-100 italic">' +
+        '<i class="fa-solid fa-circle-info mr-1 text-brand-cyan"></i>' + esc(pick(x.note)) + '</div>' : '') +
+      '</div>';
+  }).join("");
+}
+
+function renderGrammar() {
+  var g = data.grammar || [];
+  if (!g.length) return '<div class="text-slate-400 text-center py-20">' + t("no_grammar") + '</div>';
+  return g.map(function(x) {
+    return '<div class="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 mb-4">' +
+      '<div class="text-base font-bold text-brand-navy mb-2 font-mono">' + esc(x.pattern || "") + '</div>' +
+      (pick(x.explanation) ? '<div class="text-sm text-slate-700 mb-3">' + esc(pick(x.explanation)) + '</div>' : '') +
+      (x.examples || []).map(function(e) {
+        return '<div class="bg-slate-50 rounded-lg p-3 mb-2"><div class="text-sm text-slate-800">' + esc(e.zh || "") + '</div>' +
+          (pick(e) ? '<div class="text-xs text-slate-500 mt-1">' + esc(pick(e)) + '</div>' : '') + '</div>';
+      }).join("") + '</div>';
+  }).join("");
+}
+
+function renderExercises() {
+  var ex = data.exercises || {};
+  var html = "";
+  if (ex.comprehension && ex.comprehension.length) {
+    html += '<div class="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 mb-4">' +
+      '<div class="font-bold text-brand-navy mb-3">' + t("section_1") + '</div>';
+    ex.comprehension.forEach(function(q, i) {
+      html += '<div class="mb-4 pb-3 border-b border-gray-100">' +
+        '<div class="text-sm font-medium">' + (i+1) + '. ' + esc(pick(q.q)) + '</div>' +
+        '<div class="text-xs text-slate-400 mb-2 font-mono">' + esc((q.q||{}).zh || "") + '</div>' +
+        '<details class="text-xs"><summary class="cursor-pointer text-brand-cyan">' + t("show_answer") + '</summary>' +
+        '<div class="mt-1 text-slate-700">' + esc(pick(q.a)) + '</div></details></div>';
+    });
+    html += '</div>';
+  }
+  if (ex.true_false && ex.true_false.length) {
+    html += '<div class="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 mb-4">' +
+      '<div class="font-bold text-brand-navy mb-3">' + t("section_2") + '</div>';
+    ex.true_false.forEach(function(q, i) {
+      var ans = q.answer ? t("true") : t("false");
+      html += '<div class="mb-3 flex items-start gap-3">' +
+        '<span class="text-xs text-slate-400 mt-1">' + (i+1) + '.</span>' +
+        '<div class="flex-1"><div class="text-sm">' + esc(pick(q.q)) + '</div>' +
+        '<details class="text-xs mt-1"><summary class="cursor-pointer text-brand-cyan">' + t("show_answer") + '</summary>' +
+        '<div class="mt-1 font-medium ' + (q.answer ? 'text-green-600' : 'text-red-500') + '">' + ans + '</div></details></div></div>';
+    });
+    html += '</div>';
+  }
+  if (ex.multiple_choice && ex.multiple_choice.length) {
+    html += '<div class="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 mb-4">' +
+      '<div class="font-bold text-brand-navy mb-3">' + t("section_3") + '</div>';
+    ex.multiple_choice.forEach(function(q, i) {
+      html += '<div class="mb-4 pb-3 border-b border-gray-100">' +
+        '<div class="text-sm font-medium mb-2">' + (i+1) + '. ' + esc(pick(q.q)) + '</div><div class="space-y-1">';
+      (q.options || []).forEach(function(opt, j) {
+        var ok = j === q.answer;
+        html += '<div class="text-sm ' + (ok ? 'text-green-600 font-medium' : 'text-slate-600') + '">' +
+          String.fromCharCode(65+j) + '. ' + esc(opt) + (ok ? ' ✓' : '') + '</div>';
+      });
+      html += '</div></div>';
+    });
+    html += '</div>';
+  }
+  if (ex.fill_blank) {
+    var fb = ex.fill_blank;
+    html += '<div class="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 mb-4">' +
+      '<div class="font-bold text-brand-navy mb-3">' + t("section_4") + '</div>' +
+      '<div class="text-sm text-slate-700 whitespace-pre-wrap mb-4">' + esc(pick(fb.text)) + '</div>' +
+      '<details><summary class="cursor-pointer text-sm text-brand-cyan">' + t("show_answer") + '</summary>' +
+      '<ol class="list-decimal ml-6 mt-2 text-sm text-slate-700">' +
+      (fb.answers||[]).map(function(a) { return '<li>' + esc(a.zh || "") + ' — ' + esc(pick(a)) + '</li>'; }).join("") +
+      '</ol></details></div>';
+  }
+  return html || '<div class="text-slate-400 text-center py-20">' + t("no_exercises") + '</div>';
+}
+
+function renderWorkbook() {
+  return '<div class="bg-white rounded-2xl p-6 shadow-sm border border-gray-100">' +
+    '<div class="text-slate-500 text-sm">' + t("no_workbook") + '</div></div>';
+}
+
+function toggleTranslations() {
+  document.querySelectorAll(".trans-block").forEach(function(b) {
+    b.classList.toggle("hidden-trans");
+  });
+}
+
+// СТАРТ
+applyUI();
+loadData();
+</script>
+</body>
+</html>

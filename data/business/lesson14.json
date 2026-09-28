@@ -1,0 +1,31 @@
+{
+  "module": 5,
+  "lesson": 14,
+  "module_title": {
+    "zh": "应聘与入职",
+    "ru": "Собеседование и адаптация",
+    "en": "Interview and Onboarding",
+    "tk": "Söhbetdeşlik we uýumlaşmak",
+    "uz": "Suhbat va moslashuv",
+    "tg": "Мусоҳиба ва мутобиқшавӣ",
+    "id": "Wawancara dan adaptasi"
+  },
+  "title": {
+    "zh": "我一定会加倍努力的",
+    "ru": "Я буду стараться вдвойне",
+    "en": "I will work twice as hard",
+    "tk": "Men iki esse yhlas ederin",
+    "uz": "Men ikki barobar harakat qilaman",
+    "tg": "Ман ду баробар кӯшиш мекунам",
+    "id": "Saya akan berusaha dua kali lebih keras"
+  },
+  "status": "stub",
+  "goals": {},
+  "warmup": {},
+  "dialogs": [],
+  "vocabulary": [],
+  "expressions": [],
+  "grammar": [],
+  "exercises": {},
+  "audio": {}
+}

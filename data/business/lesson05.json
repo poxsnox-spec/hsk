@@ -1,0 +1,31 @@
+{
+  "module": 2,
+  "lesson": 5,
+  "module_title": {
+    "zh": "考察与订购",
+    "ru": "Осмотр и заказ",
+    "en": "Inspection and Ordering",
+    "tk": "Barlag we sargyt",
+    "uz": "Ko'rikdan o'tkazish va buyurtma berish",
+    "tg": "Муоина ва фармоиш",
+    "id": "Inspeksi dan pemesanan"
+  },
+  "title": {
+    "zh": "这家工厂的规模可真不小",
+    "ru": "Этот завод действительно крупный",
+    "en": "This factory is indeed large",
+    "tk": "Bu zawod hakykatdanam uly",
+    "uz": "Bu zavod haqiqatan ham yirik",
+    "tg": "Ин корхона воқеан калон аст",
+    "id": "Pabrik ini benar-benar besar"
+  },
+  "status": "stub",
+  "goals": {},
+  "warmup": {},
+  "dialogs": [],
+  "vocabulary": [],
+  "expressions": [],
+  "grammar": [],
+  "exercises": {},
+  "audio": {}
+}

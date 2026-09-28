@@ -1,0 +1,31 @@
+{
+  "module": 3,
+  "lesson": 9,
+  "module_title": {
+    "zh": "新产品推广与销售",
+    "ru": "Продвижение и продажи",
+    "en": "Promotion and Sales",
+    "tk": "Öňe sürmek we satuw",
+    "uz": "Targ'ib qilish va sotish",
+    "tg": "Ташвиқ ва фурӯш",
+    "id": "Promosi dan penjualan"
+  },
+  "title": {
+    "zh": "这个活动力度确实不小",
+    "ru": "Акция действительно мощная",
+    "en": "The promotion is really powerful",
+    "tk": "Aksiýa hakykatdanam güýçli",
+    "uz": "Aksiya haqiqatan ham kuchli",
+    "tg": "Аксия воқеан пурқувват аст",
+    "id": "Promosi ini benar-benar kuat"
+  },
+  "status": "stub",
+  "goals": {},
+  "warmup": {},
+  "dialogs": [],
+  "vocabulary": [],
+  "expressions": [],
+  "grammar": [],
+  "exercises": {},
+  "audio": {}
+}

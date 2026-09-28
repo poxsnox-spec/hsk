@@ -1,0 +1,31 @@
+{
+  "module": 1,
+  "lesson": 3,
+  "module_title": {
+    "zh": "接待客商",
+    "ru": "Приём клиентов",
+    "en": "Receiving Clients",
+    "tk": "Müşderileri kabul etmek",
+    "uz": "Mijozlarni qabul qilish",
+    "tg": "Қабули мизоҷон",
+    "id": "Penerimaan klien"
+  },
+  "title": {
+    "zh": "很荣幸为二位接风洗尘",
+    "ru": "Для меня честь устроить вам приём",
+    "en": "It's my honor to host a reception for you",
+    "tk": "Sizi kabul etmek meniň üçin hormat",
+    "uz": "Sizga ziyofat uyushtirish men uchun sharaf",
+    "tg": "Барои ман ифтихор аст, ки ба шумо қабул ташкил кунам",
+    "id": "Merupakan kehormatan bagi saya untuk mengadakan resepsi untuk Anda"
+  },
+  "status": "stub",
+  "goals": {},
+  "warmup": {},
+  "dialogs": [],
+  "vocabulary": [],
+  "expressions": [],
+  "grammar": [],
+  "exercises": {},
+  "audio": {}
+}

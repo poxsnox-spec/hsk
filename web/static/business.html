@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>商务中文 · Business Chinese</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<script>
+window.BIZ_UI = {
+  ru: {
+    back_to_hsk: "← HSK 5 Learner",
+    book_title: "БИЗНЕС-КИТАЙСКИЙ",
+    menu_modules: "Модули", menu_srs: "SRS Карточки",
+    menu_cases: "Кейсы", menu_email: "Практика E-mail", menu_progress: "Прогресс",
+    footer_book: "商务中文 · Business Chinese",
+    footer_sub: "15 уроков · 5 модулей",
+    guest: "Гость",
+    welcome: "С возвращением!",
+    next_goal: "Ваша следующая цель:",
+    quick_access: "Быстрый доступ",
+    srs_title: "SRS Тренировка", srs_desc: "500 ключевых слов BCT (B)",
+    start_training: "Начать тренировку",
+    cases_title: "Кейсы", cases_desc: "Симуляция переговоров 1.3",
+    resume: "Возобновить",
+    sentence_mining: "Sentence Mining",
+    module: "МОДУЛЬ", theme: "Темы",
+    progress: "ПРОГРЕСС", not_started: "Не начато",
+    loading: "Загрузка…",
+  },
+  en: {
+    back_to_hsk: "← HSK 5 Learner",
+    book_title: "BUSINESS CHINESE",
+    menu_modules: "Modules", menu_srs: "SRS Cards",
+    menu_cases: "Cases", menu_email: "Email Practice", menu_progress: "Progress",
+    footer_book: "商务中文 · Business Chinese",
+    footer_sub: "15 lessons · 5 modules",
+    guest: "Guest",
+    welcome: "Welcome back!",
+    next_goal: "Your next goal:",
+    quick_access: "Quick access",
+    srs_title: "SRS Training", srs_desc: "500 BCT (B) key words",
+    start_training: "Start training",
+    cases_title: "Cases", cases_desc: "Negotiation simulation 1.3",
+    resume: "Resume",
+    sentence_mining: "Sentence Mining",
+    module: "MODULE", theme: "Themes",
+    progress: "PROGRESS", not_started: "Not started",
+    loading: "Loading…",
+  },
+  tk: {
+    back_to_hsk: "← HSK 5 Learner",
+    book_title: "BIZNES HYTAÝ DILI",
+    menu_modules: "Modullar", menu_srs: "SRS Kartlar",
+    menu_cases: "Keysler", menu_email: "E-mail praktikasy", menu_progress: "Ösüş",
+    footer_book: "商务中文 · Business Chinese",
+    footer_sub: "15 sapak · 5 modul",
+    guest: "Myhman",
+    welcome: "Hoş geldiňiz!",
+    next_goal: "Indiki maksadyňyz:",
+    quick_access: "Çalt giriş",
+    srs_title: "SRS türgenleşik", srs_desc: "500 BCT (B) esasy söz",
+    start_training: "Türgenleşigi başla",
+    cases_title: "Keysler", cases_desc: "Gepleşik simulýasiýasy 1.3",
+    resume: "Dowam et",
+    sentence_mining: "Sentence Mining",
+    module: "MODUL", theme: "Temalar",
+    progress: "ÖSÜŞ", not_started: "Başlanmady",
+    loading: "Ýüklenýär…",
+  },
+  uz: {
+    back_to_hsk: "← HSK 5 Learner",
+    book_title: "BIZNES XITOY TILI",
+    menu_modules: "Modullar", menu_srs: "SRS kartalar",
+    menu_cases: "Keyslar", menu_email: "E-mail amaliyoti", menu_progress: "Jarayon",
+    footer_book: "商务中文 · Business Chinese",
+    footer_sub: "15 dars · 5 modul",
+    guest: "Mehmon",
+    welcome: "Xush kelibsiz!",
+    next_goal: "Keyingi maqsadingiz:",
+    quick_access: "Tezkor kirish",
+    srs_title: "SRS mashqi", srs_desc: "500 ta BCT (B) asosiy so'z",
+    start_training: "Mashqni boshlash",
+    cases_title: "Keyslar", cases_desc: "Muzokara simulyatsiyasi 1.3",
+    resume: "Davom etish",
+    sentence_mining: "Sentence Mining",
+    module: "MODUL", theme: "Mavzular",
+    progress: "JARAYON", not_started: "Boshlanmagan",
+    loading: "Yuklanmoqda…",
+  },
+  tg: {
+    back_to_hsk: "← HSK 5 Learner",
+    book_title: "ЗАБОНИ ХИТОИИ ТИҶОРАТӢ",
+    menu_modules: "Модулҳо", menu_srs: "Кортҳои SRS",
+    menu_cases: "Ҳолатҳо", menu_email: "Амалияи E-mail", menu_progress: "Пешрафт",
+    footer_book: "商务中文 · Business Chinese",
+    footer_sub: "15 дарс · 5 модул",
+    guest: "Меҳмон",
+    welcome: "Хуш омадед!",
+    next_goal: "Мақсади навбатии шумо:",
+    quick_access: "Дастрасии зуд",
+    srs_title: "Машқи SRS", srs_desc: "500 калимаи асосии BCT (B)",
+    start_training: "Оғози машқ",
+    cases_title: "Ҳолатҳо", cases_desc: "Симулятсияи музокира 1.3",
+    resume: "Идома",
+    sentence_mining: "Sentence Mining",
+    module: "МОДУЛ", theme: "Мавзӯъҳо",
+    progress: "ПЕШРАФТ", not_started: "Оғоз нашудааст",
+    loading: "Боргирӣ…",
+  },
+  id: {
+    back_to_hsk: "← HSK 5 Learner",
+    book_title: "BAHASA MANDARIN BISNIS",
+    menu_modules: "Modul", menu_srs: "Kartu SRS",
+    menu_cases: "Kasus", menu_email: "Latihan E-mail", menu_progress: "Kemajuan",
+    footer_book: "商务中文 · Business Chinese",
+    footer_sub: "15 pelajaran · 5 modul",
+    guest: "Tamu",
+    welcome: "Selamat datang kembali!",
+    next_goal: "Tujuan berikutnya:",
+    quick_access: "Akses cepat",
+    srs_title: "Latihan SRS", srs_desc: "500 kata kunci BCT (B)",
+    start_training: "Mulai latihan",
+    cases_title: "Kasus", cases_desc: "Simulasi negosiasi 1.3",
+    resume: "Lanjutkan",
+    sentence_mining: "Sentence Mining",
+    module: "MODUL", theme: "Tema",
+    progress: "KEMAJUAN", not_started: "Belum dimulai",
+    loading: "Memuat…",
+  }
+};
+
+function getLang() { try { return localStorage.getItem("hsk5_lang") || "ru"; } catch (e) { return "ru"; } }
+function t(key) {
+  var l = getLang();
+  var pack = window.BIZ_UI[l] || window.BIZ_UI.en || window.BIZ_UI.ru || {};
+  return pack[key] || key;
+}
+function pick(obj) {
+  if (!obj || typeof obj !== "object") return "";
+  var l = getLang();
+  return obj[l] || obj.en || obj.ru || "";
+}
+
+tailwind.config = { theme: { extend: {
+  fontFamily: { sans: ['Inter', 'sans-serif'] },
+  colors: { brand: { cyan:'#7fd1e6', light:'#e0f4f9', navy:'#1a365d', dark:'#0f172a', accent:'#3b82f6' } }
+}}};
+</script>
+<style>
+.bg-dotted-pattern {
+  background-color: #f4fafd;
+  background-image: radial-gradient(#bce4f0 1.5px, transparent 1.5px);
+  background-size: 24px 24px;
+}
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+.module-card { transition: transform .15s, box-shadow .15s; }
+.module-card:hover { transform: translateY(-3px); box-shadow: 0 12px 28px rgba(0,0,0,.08); }
+.lesson-li { transition: background .12s, color .12s; cursor: pointer; padding: 4px 8px; border-radius: 6px; }
+.lesson-li:hover { background: #e0f4f9; color: #1a365d; }
+</style>
+</head>
+<body class="bg-gray-50 text-slate-800 font-sans h-screen flex overflow-hidden">
+
+<aside class="w-64 bg-white shadow-lg z-20 flex flex-col h-full border-r border-gray-100">
+  <a href="/" class="h-16 flex items-center px-6 border-b border-brand-light bg-brand-light/30 hover:bg-brand-light/60 transition-colors cursor-pointer">
+    <div class="flex items-center gap-2 text-brand-navy font-bold text-sm">
+      <i class="fa-solid fa-arrow-left text-brand-cyan"></i>
+      <span id="lbl-back-hsk"></span>
+    </div>
+  </a>
+  <div class="h-16 flex items-center px-6 border-b border-brand-light">
+    <div class="flex items-center gap-2 text-brand-navy font-bold text-sm">
+      <i class="fa-solid fa-book-open text-brand-cyan text-lg"></i>
+      <span>商务中文<br><span id="lbl-book"></span></span>
+    </div>
+  </div>
+  <nav class="flex-1 py-6 px-4 space-y-2 overflow-y-auto" id="biz-nav"></nav>
+  <div class="p-4 border-t border-gray-100 text-xs text-slate-400 text-center">
+    <span id="lbl-footer-book"></span><br>
+    <span id="lbl-footer-sub"></span>
+  </div>
+</aside>
+
+<main class="flex-1 flex flex-col h-full overflow-hidden bg-dotted-pattern relative">
+  <header class="h-16 bg-brand-cyan/20 backdrop-blur-sm border-b border-white/50 flex items-center justify-between px-8 z-10">
+    <h1 class="text-xl font-bold text-brand-navy tracking-wide">Dashboard</h1>
+    <div class="flex items-center gap-3 p-2">
+      <div class="w-8 h-8 rounded-full bg-brand-navy text-white flex items-center justify-center shadow-sm">
+        <i class="fa-solid fa-user text-sm"></i>
+      </div>
+      <span class="text-sm font-medium text-brand-navy" id="biz-user"></span>
+    </div>
+  </header>
+
+  <div class="flex-1 flex overflow-hidden">
+    <div class="flex-1 overflow-y-auto p-8">
+      <div class="mb-8">
+        <h2 class="text-3xl font-bold text-brand-navy mb-2" id="welcome"></h2>
+        <p class="text-slate-600 font-medium"><span id="next-goal-label"></span> <span class="text-brand-accent font-semibold" id="next-goal-value"></span></p>
+      </div>
+      <div class="grid grid-cols-1 xl:grid-cols-2 gap-6" id="modules-grid">
+        <div class="text-center py-20 text-slate-400"><i class="fa-solid fa-spinner fa-spin text-2xl"></i></div>
+      </div>
+    </div>
+
+    <aside class="w-80 bg-white/80 backdrop-blur-md border-l border-brand-light p-6 overflow-y-auto">
+      <h3 class="text-lg font-bold text-brand-navy mb-4" id="quick-access-title"></h3>
+
+      <div class="bg-white p-4 rounded-xl shadow-sm border border-brand-light mb-4">
+        <h4 class="font-bold text-slate-800 text-sm mb-1" id="srs-title"></h4>
+        <p class="text-xs text-slate-500 mb-3" id="srs-desc"></p>
+        <button id="btn-srs" class="w-full bg-brand-cyan hover:bg-[#68c3da] text-brand-navy font-bold py-2 px-4 rounded-lg text-sm transition-colors shadow-sm"></button>
+      </div>
+
+      <div class="bg-white p-4 rounded-xl shadow-sm border border-brand-light mb-6">
+        <h4 class="font-bold text-slate-800 text-sm mb-1" id="cases-title"></h4>
+        <p class="text-xs text-slate-500 mb-3" id="cases-desc"></p>
+        <button id="btn-cases" class="w-full bg-white hover:bg-gray-50 text-brand-navy border border-brand-cyan font-bold py-2 px-4 rounded-lg text-sm transition-colors"></button>
+      </div>
+
+      <h3 class="text-lg font-bold text-brand-navy mb-3">Sentence Mining</h3>
+      <div class="space-y-3">
+        <div class="bg-white p-3 rounded-lg shadow-sm border border-gray-100 hover:border-brand-cyan transition-colors cursor-pointer">
+          <p class="text-sm font-medium text-slate-800 mb-1">1. 我们的新产品具有先进的AI功能。</p>
+          <p class="text-xs text-slate-500 mb-2 font-mono">(Wǒmen de xīn chǎnpǐn jùyǒu xiānjìn de AI gōngnéng.)</p>
+          <p class="text-xs text-brand-navy/80 italic">— Наш новый продукт обладает передовыми функциями ИИ.</p>
+        </div>
+        <div class="bg-white p-3 rounded-lg shadow-sm border border-gray-100 hover:border-brand-cyan transition-colors cursor-pointer">
+          <p class="text-sm font-medium text-slate-800 mb-1">2. 欢迎各位来我公司参观考察。</p>
+          <p class="text-xs text-slate-500 mb-2 font-mono">(Huānyíng gèwèi lái wǒ gōngsī cānguān kǎochá.)</p>
+          <p class="text-xs text-brand-navy/80 italic">— Добро пожаловать в нашу компанию для визита и инспекции.</p>
+        </div>
+        <div class="bg-white p-3 rounded-lg shadow-sm border border-gray-100 hover:border-brand-cyan transition-colors cursor-pointer">
+          <p class="text-sm font-medium text-slate-800 mb-1">3. 请问贵公司的主要市场在哪里？</p>
+          <p class="text-xs text-slate-500 mb-2 font-mono">(Qǐngwèn guì gōngsī de zhǔyào shìchǎng zài nǎlǐ?)</p>
+          <p class="text-xs text-brand-navy/80 italic">— Скажите, пожалуйста, где находится основной рынок вашей компании?</p>
+        </div>
+      </div>
+    </aside>
+  </div>
+</main>
+
+<script>
+var lessonsCache = [];
+
+function esc(s) {
+  return String(s == null ? "" : s).replace(/[&<>"']/g, function(c) {
+    return ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c];
+  });
+}
+
+function applyUI() {
+  var set = function(id, key) { var el = document.getElementById(id); if (el) el.textContent = t(key); };
+  set("lbl-back-hsk", "back_to_hsk");
+  set("lbl-book", "book_title");
+  set("lbl-footer-book", "footer_book");
+  set("lbl-footer-sub", "footer_sub");
+  set("welcome", "welcome");
+  set("next-goal-label", "next_goal");
+  set("quick-access-title", "quick_access");
+  set("srs-title", "srs_title");
+  set("srs-desc", "srs_desc");
+  set("cases-title", "cases_title");
+  set("cases-desc", "cases_desc");
+  document.getElementById("btn-srs").textContent = t("start_training");
+  document.getElementById("btn-cases").textContent = t("resume");
+  document.title = "商务中文 · " + t("book_title");
+
+  // навигация сайдбара
+  var nav = document.getElementById("biz-nav");
+  var items = [
+    { icon: "fa-border-all", key: "menu_modules", href: "/business" },
+    { icon: "fa-layer-group", key: "menu_srs", href: "/business/lesson/1" },
+    { icon: "fa-briefcase", key: "menu_cases", href: "#" },
+    { icon: "fa-envelope-open-text", key: "menu_email", href: "#" },
+    { icon: "fa-chart-simple", key: "menu_progress", href: "#" },
+  ];
+  nav.innerHTML = items.map(function(it, i) {
+    var active = i === 0;
+    return '<a href="' + it.href + '" class="flex items-center gap-3 px-4 py-3 rounded-lg font-medium transition-colors ' +
+      (active ? 'bg-brand-light text-brand-navy' : 'text-slate-500 hover:bg-gray-50 hover:text-brand-navy') + '">' +
+      '<i class="fa-solid ' + it.icon + ' w-5 text-center' + (active ? ' text-brand-cyan' : '') + '"></i>' +
+      t(it.key) + '</a>';
+  }).join("");
+}
+
+function renderModules() {
+  // группируем уроки по модулям
+  var byMod = {};
+  lessonsCache.forEach(function(l) {
+    if (!byMod[l.module]) byMod[l.module] = [];
+    byMod[l.module].push(l);
+  });
+  var modOrder = Object.keys(byMod).map(Number).sort(function(a,b){return a-b;});
+  var icons = {1:"fa-users",2:"fa-clipboard-check",3:"fa-bullhorn",4:"fa-handshake",5:"fa-file-signature"};
+
+  var html = "";
+  modOrder.forEach(function(mn) {
+    var lessons = byMod[mn];
+    var modTitle = lessons[0].module_title || {};
+    var firstLesson = lessons[0].lesson;
+    var lessonsHtml = lessons.map(function(l) {
+      var titleTr = pick(l.title) || (l.title || {}).zh || "";
+      var titleZh = (l.title || {}).zh || "";
+      var status = l.status === "stub" ? ' <span class="text-amber-500 text-xs">(soon)</span>' : '';
+      return '<li class="lesson-li text-sm" data-lesson="' + l.lesson + '">' +
+        '<span class="inline-block w-10 text-slate-400 font-mono text-xs">У' + l.lesson + '</span>' +
+        '<span class="font-medium text-brand-navy">' + esc(titleZh) + '</span>' + status +
+        '<div class="text-xs text-slate-500 mt-0.5 ml-10">— ' + esc(titleTr) + '</div></li>';
+    }).join("");
+
+    html += '<div class="module-card bg-white rounded-2xl p-6 shadow-sm border border-gray-100 cursor-pointer" data-mod="' + mn + '" data-first="' + firstLesson + '">' +
+      '<div class="flex items-center gap-3 mb-4">' +
+        '<div class="w-12 h-12 rounded-xl bg-brand-light flex items-center justify-center flex-shrink-0">' +
+          '<i class="fa-solid ' + (icons[mn]||"fa-book") + ' text-xl text-brand-navy"></i></div>' +
+        '<div><div class="text-xs text-slate-400 font-mono tracking-wide">第' + mn + '单元 · ' + t("module") + ' ' + mn + '</div>' +
+        '<h3 class="font-bold text-brand-navy text-base leading-tight">' + esc((modTitle||{}).zh || "") + '</h3>' +
+        '<div class="text-xs text-slate-500">' + esc(pick(modTitle)) + '</div></div></div>' +
+      '<ul class="mb-4">' + lessonsHtml + '</ul>' +
+      '<div class="text-xs text-slate-400 italic border-t border-gray-100 pt-3">' + t("theme") + ': ' + lessons.length + ' × ' + t("lesson") + '</div>' +
+      '</div>';
+  });
+  document.getElementById("modules-grid").innerHTML = html;
+
+  // клики
+  document.querySelectorAll(".module-card").forEach(function(card) {
+    card.addEventListener("click", function(e) {
+      var li = e.target.closest(".lesson-li");
+      var lessonN = li ? parseInt(li.dataset.lesson, 10) : parseInt(card.dataset.first, 10);
+      location.href = "/business/lesson/" + lessonN;
+    });
+  });
+}
+
+function loadLessons() {
+  fetch("/api/business/lessons")
+    .then(function(r) { return r.json(); })
+    .then(function(list) {
+      lessonsCache = list;
+      renderModules();
+      // next goal
+      var first = list[0] || {};
+      var titleTr = pick(first.title) || "";
+      document.getElementById("next-goal-value").textContent =
+        (first.module_title ? pick(first.module_title) + " · " : "") + t("lesson") + " " + (first.lesson || 1);
+    })
+    .catch(function(e) {
+      document.getElementById("modules-grid").innerHTML = '<div class="text-red-500">' + esc(e.message) + '</div>';
+    });
+}
+
+function loadUser() {
+  fetch("/api/auth/me", {credentials:"same-origin"})
+    .then(function(r) { return r.ok ? r.json() : null; })
+    .then(function(u) {
+      var el = document.getElementById("biz-user");
+      el.textContent = (u && u.name) ? u.name : t("guest");
+    })
+    .catch(function() {
+      document.getElementById("biz-user").textContent = t("guest");
+    });
+}
+
+// кнопки быстрого доступа
+document.getElementById("btn-srs").addEventListener("click", function() {
+  location.href = "/business/lesson/1";
+});
+document.getElementById("btn-cases").addEventListener("click", function() {
+  location.href = "/business/lesson/1";
+});
+
+// СТАРТ
+applyUI();
+loadLessons();
+loadUser();
+</script>
+</body>
+</html>
