@@ -2,7 +2,7 @@
   "title": {
     "zh": "闹钟的危害",
     "ru": "Вред будильника",
-    "tk": "Jaňly sagadyň zyýany",
+    "tk": "Jaňly sagatlaryň zyýany",
     "en": "Harm of Alarm Clocks",
     "uz": "Budilnikning zarari",
     "tg": "Зарари соати зангӣ",
@@ -18,7 +18,7 @@
   "warmup": {
     "question": {
       "ru": "Как вы обычно просыпаетесь: по будильнику, от света, от шума?",
-      "tk": "Adatça jaňly sagatdanmy, ýagtylykdanmy, sesdenmi oýanýarsyňyz?",
+      "tk": "Adatça nähili oýanýarsyňyz: jaň, ýagtylyk, ses?",
       "en": "How do you usually wake up: alarm, light, sound?",
       "uz": "Odatda qanday uyg'onasiz: budilnik, yorug'lik, ovoz?",
       "tg": "Шумо одатан чӣ тавр бедор мешавед: занг, рӯшноӣ, садо?",
@@ -34,7 +34,7 @@
   "text_zh": "医学研究证明，人类睡眠有其特定的机制，自然醒是最符合人体生物钟规律的。光线是自然醒的必要条件，是人体内的生物闹钟。早晨，人体感受到逐渐变强的太阳光线，新陈代谢随之加快，人逐渐从熟睡过渡到浅睡，直到醒来。这就是阴雨天人们往往喜欢睡懒觉的原因。紧张的现代生活，使很多上班的人无法享受轻松舒适的睡眠、自然地醒来，闹钟的用途就显得格外重要了。但实验研究证明，人们对自然醒与被闹钟铃声叫醒这两种方式所产生的反应是很不相同的。从睡眠状态过渡到清醒状态时，人的呼吸会从16次/分钟提高到24次/分钟，心跳每分钟加快10次。如果突然被闹钟叫醒，将在心理上使人产生心慌、情绪低落、感觉没睡醒等不适。如果是从深度睡眠中被突然叫醒，那么，人的短期记忆能力、计算技能都会受到影响，这些能力最多为正常状态的65%，与醉酒者相当。出于自我保护，被闹钟叫醒时我们的身体会提高体内的肾上腺素水平。这种状态如果持续数天、数周、数月，将导致高血压、失眠和一些精神问题等。研究发现，突然被闹铃惊醒的人比自然醒的人血压更高、心跳更快。对此，专家解释说，人在睡眠时，身体会发生一些变化，因此人们在早上醒来时更容易发病，而闹铃则会使发病的可能性变得更大。如果你必须定个闹钟，应采用柔和的声音或音乐。各种醒来方式中，当然是自然醒最符合我们的愿望。可谁能替你拉开窗帘让阳光照进来呢？近年来，市场上出现了一种新的电子产品，名为「光闹钟」。它能在室内模仿早晨自然光线的变化，通过光线的作用使人在设定的时间里自然地醒来，可避免传统闹钟突然惊醒对人体健康的伤害。希望这样能向真正的「自然醒」走近一点，再走近一点。",
   "text_translation": {
     "ru": "Медицинские исследования показывают: у сна человека есть свои механизмы, и естественное пробуждение наиболее соответствует биологическим часам. Свет — необходимое условие. Утром, ощущая усиливающийся солнечный свет, метаболизм ускоряется, и человек постепенно переходит из глубокого сна в лёгкий, а потом просыпается. Поэтому в пасмурные дни мы любим подольше поспать. Из-за напряжённой современной жизни многие работающие люди не могут позволить себе естественное пробуждение — тут и важен будильник. Но эксперименты показывают: реакция на естественное пробуждение и на будильник совершенно разные. При переходе из сна в бодрствование дыхание учащается с 16 до 24 раз в минуту, пульс — на 10 ударов. Резкое пробуждение от будильника вызывает тревожность, плохое настроение, ощущение недосыпа. А если разбудили в глубоком сне — краткосрочная память и счётные навыки падают до 65% от нормы, как при опьянении. Организм выделяет адреналин. Если это повторяется много дней, недель, месяцев — приводит к гипертонии, бессоннице, психическим проблемам. Исследование показало: разбуженные будильником люди имеют более высокое давление и частый пульс, чем проснувшиеся естественно. Если будильник всё же нужен — используйте мягкий звук или музыку. Сегодня на рынке есть «световой будильник»: имитирует утренний естественный свет и мягко будит в нужное время, избегая вреда от традиционного будильника.",
-    "tk": "Lukmançylyk barlaglary görkezýär: adamyň ukusynyň öz mehanizmi bar — tebigy oýanmak biologik sagada iň laýyk. Ýagtylyk tebigy oýanmagyň şertidir. Irden gün şöhlesi güýçlenip başlanda, metabolizm çaltlanýar — adam çuň ukudan ýeňil ukuda geçýär. Şol sebäpden bulutly günde uzak ýatmagy halaýarys. Häzirki dartgynly durmuşda köp adamlar tebigy oýanyp bilmeýär — jaňly sagat möhüm bolýar. Emma synaglar görkezýär: tebigy oýanmak bilen jaňly sagadyň oýandyrýan täsiri düýbünden tapawutly. Çuň ukudan bada-bat oýanan adamda ýatkeşlik, lapykeçlik, ukusyzlyk ýüze çykýar. Birnäçe gün, hepde, aý dowam etse — gipertoniýa, uky tutmazlyk we ruhy näsazlyklara eltýär. Barlaglar görkezýär: jaň bilen oýanan adamyň gan basyşy we ýürek urgusy tebigy oýanandan ýokary. Eger-de jaňly sagat zerur bolsa — ýumşak sesi ýa-da sazy saýlaň. Häzir bazarda «Ýagtylyk jaňly sagady» bar — ol irdenki tebigy ýagtylygy öýde janlandyrýar we sagatlaýyn ýumşak oýandyrýar.",
+    "tk": "Medisina gözlegleri adamyň ukusynyň öz ýörite mehanizmleriniň bardygyny, tebigy oýanmagyň bolsa bedeniň biologik sagadyna iň gowy gabat gelýändigini subut edýär. Ýagtylyk tebigy oýanmak üçin zerur şertdir — bedeniň içki biologik jaňy. Irden beden kem-kemden güýçlenýän gün şöhlesini duýýarka, madda çalşygy çaltlaşýar we adam çuň ukudan ýeňil uka geçip, oýanýar. Şonuň üçin adamlar bulutly we ýagyşly günlerde uklap galýarlar. Dartgynly häzirki zaman durmuşy köp işleýän adamlara rahat, ýakymly uklap, tebigy oýanmaga mümkinçilik bermeýär — şonuň üçin jaň sagadynyň ulanylyşy aýratyn möhüm bolýar. Ýöne tejribe gözlegleri subut edýär: adamlaryň tebigy oýanma bilen jaň sagady bilen oýanmaga bolan reaksiýalary gaty tapawutlanýar. Ukudan oýanmaga geçende dem alyş 16/dan 24/e çenli ýokarlanýar, ýürek urşy 10/dan artýar. Eger jaň bilen birden oýadylsa, adam aljyraňňy bolýar, ruhy düşýär we dynç almadyk ýaly duýýar. Eger çuň ukudan oýadylsa, gysga möhletli ýat we hasaplama ukyby täsir edýär, iň köp 65%-e çenli düşýär — serhoş adam ýaly. Özüni goramak üçin beden jaň bilen oýadylanda adrenalin derejesini ýokarlandyrýar. Eger bu ýagdaý günler, hepdeler, aýlar dowam etse, gipertoniýa, uky tutmazlyk we käbir psihologik problemalara getirýär. Gözlegler tapýar: jaň bilen birden oýadylanlaryň gan basyşy we ýürek urşy tebigy oýanýanlara garanyňda has ýokary. Hünärmenler düşündirýär: beden ukuda üýtgeýär, şonuň üçin adamlar oýananda kesellere has ýykgynly bolýar — jaň bolsa bu mümkinçiligi artdyrýar. Eger jaň sagadyny hökman goýmaly bolsaňyz, ýumşak ses ýa-da saz ulanyň. Oýanmagyň ähli usullarynyň içinde tebigy oýanmak biziň isleglerimize iň gowy gabat gelýär. Ýöne kim perdesi çekip, gün şöhlesini size goýberip biler? Soňky ýyllarda bazarda 'ýagtylyk jaň sagady' diýilýän täze elektron önüm peýda boldy. Ol öýüň içinde irdenki tebigy ýagtylygyň üýtgemelerini imitasiýa edip, ýagtylygyň täsiri arkaly adamy bellenen wagtynda ýumşak oýadyp bilýär, adaty jaňlaryň birden oýatmak arkaly saglyga ýetirýän zyýanyndan gaça durýar. Umyt edýäris, bu bizi hakyky 'tebigy oýanmaga' bir ädim, ýene bir ädim has ýakynlaşdyrar.",
     "en": "Medical research proves that human sleep has its own specific mechanisms, and natural waking best matches the body's biological clock. Light is the necessary condition for natural waking — the body's internal biological alarm. In the morning, as the body senses gradually strengthening sunlight, metabolism speeds up, and the person transitions from deep to light sleep until waking. That's why people tend to sleep in on cloudy and rainy days. The tense modern life makes it impossible for many working people to enjoy relaxed, comfortable sleep and wake naturally — so the alarm clock's use becomes especially important. But experimental research proves: people's responses to natural waking versus alarm-clock waking are very different. Transitioning from sleep to wakefulness, respiration rises from 16/min to 24/min, heart rate increases by 10/min. If abruptly awakened by an alarm, one feels flustered, low-spirited, and unrested. If awakened from deep sleep, short-term memory and calculation skills are affected, dropping to at most 65% of normal — like a drunk person. For self-protection, the body raises adrenaline levels when awakened by alarm. If this state lasts days, weeks, months, it leads to hypertension, insomnia and some psychological problems. Research finds: those abruptly awakened by alarms have higher blood pressure and faster heart rate than natural wakers. Experts explain: the body changes during sleep, so people are more prone to illness when waking — and an alarm increases that possibility. If you must set an alarm, use a soft sound or music. Of all waking methods, natural waking best suits our wishes. But who can pull the curtain and let the sunlight in for you? In recent years, a new electronic product has appeared on the market called a 'light alarm clock'. It can imitate the changes of morning natural light indoors, gently waking the person at a set time through the effect of light, avoiding the harm to health that traditional alarms cause by abrupt awakening. Hopefully this brings us a step, and another step, closer to true 'natural waking'.",
     "uz": "Tibbiy tadqiqotlar inson uyqusining o'ziga xos mexanizmlari borligini va tabiiy uyg'onish tananing biologik soatiga eng mos kelishini isbotlaydi. Yorug'lik tabiiy uyg'onish uchun zarur shart — tananing ichki biologik budilnikidir. Ertalab tana asta-sekin kuchayib borayotgan quyosh nurini sezganda, metabolizm tezlashadi va odam chuqur uyqudan yengil uyquga o'tib, uyg'onadi. Shuning uchun odamlar bulutli va yomg'irli kunlarda uyquni ko'proq cho'zishga moyil. Zamonaviy hayotning shoshqaloqligi ko'plab mehnatkashlarga bemalol, qulay uxlash va tabiiy uyg'onish imkonini bermaydi — shu sababli budilnikdan foydalanish ayniqsa muhim bo'lib qoladi. Ammo eksperimental tadqiqotlar isbotlaydi: odamlarning tabiiy uyg'onishga va budilnik bilan uyg'onishga munosabati juda farq qiladi. Uyqudan uyg'oqlikka o'tishda nafas olish daqiqasiga 16 dan 24 gacha ko'tariladi, yurak urishi daqiqasiga 10 ga oshadi. Agar budilnik bilan to'satdan uyg'otilsa, odam o'zini bezovta, ruhi tushgan va hordiq chiqarmagan his qiladi. Agar chuqur uyqudan uyg'otilsa, qisqa muddatli xotira va hisoblash qobiliyati ta'sirlanadi va normal holatning ko'pi bilan 65 foizigacha pasayadi — xuddi mast odam kabi. O'zini himoya qilish uchun tana budilnik bilan uyg'otilganda adrenalin darajasini oshiradi. Agar bu holat kunlar, haftalar, oylar davom etsa, bu gipertoniya, uyqusizlik va ba'zi psixologik muammolarga olib keladi. Tadqiqotlar aniqlaydi: budilnik bilan to'satdan uyg'otilganlarning qon bosimi va yurak urishi tabiiy uyg'onuvchilarnikidan yuqori bo'ladi. Mutaxassislar tushuntiradi: tana uyqu davomida o'zgaradi, shuning uchun odamlar uyg'onish paytida kasallikka ko'proq moyil bo'ladi — budilnik esa bu ehtimolni oshiradi. Agar budilnik o'rnatishingiz shart bo'lsa, yumshoq ovoz yoki musiqadan foydalaning. Barcha uyg'onish usullari ichida tabiiy uyg'onish bizning xohishimizga eng mos keladi. Ammo kim siz uchun pardani tortib, quyosh nurini ichkariga kiritib bera oladi? So'nggi yillarda bozorda 'yorug'lik budilniki' deb nomlangan yangi elektron mahsulot paydo bo'ldi. U bino ichida ertalabki tabiiy yorug'lik o'zgarishlarini taqlid qilib, yorug'lik ta'siri orqali odamni belgilangan vaqtda yumshoq uyg'otadi va an'anaviy budilniklarning to'satdan uyg'otish orqali sog'liqqa yetkazadigan zararini oldini oladi. Umid qilamizki, bu bizni haqiqiy 'tabiiy uyg'onish'ga bir qadam, yana bir qadam yaqinlashtiradi.",
     "tg": "Тадқиқоти тиббӣ исбот мекунад, ки хоби инсон механизмҳои хоси худро дорад ва бедоршавии табиӣ ба соати биологии бадан бештар мувофиқ аст. Рӯшноӣ шарти зарурии бедоршавии табиӣ аст — занги биологии дохилии бадан. Дар субҳ, вақте ки бадан нури офтобро тадриҷан қавӣ ҳис мекунад, мубодилаи моддаҳо тезтар мешавад ва одам аз хоби амиқ ба хоби сабук мегузарад, то бедор шавад. Барои ҳамин дар рӯзҳои абрнок ва боронӣ одамон майл ба хоби бештар доранд. Ҳаёти шиддатноки муосир ба бисёр коргарон имкон намедиҳад, ки аз хоби ором ва бароҳат баҳра баранд ва табиӣ бедор шаванд — бинобар ин истифодаи соати зангдор махсусан муҳим мегардад. Аммо тадқиқоти таҷрибавӣ исбот мекунад: вокуниши одамон ба бедоршавии табиӣ ва бедоршавӣ аз соати зангдор хеле фарқ мекунад. Ҳангоми гузаштан аз хоб ба бедорӣ, нафаскашӣ аз 16/дақ ба 24/дақ меафзояд, тапиши дил 10/дақ зиёд мешавад. Агар одамро бо соати зангдор ногаҳон бедор кунанд, ӯ худро ноором, рӯҳафтода ва бедам меҳисобад. Агар аз хоби амиқ бедор шавад, хотираи кӯтоҳмуддат ва қобилияти ҳисобкунӣ зарар мебинанд ва ҳадди аксар то 65% аз меъёр паст мешаванд — мисли одами маст. Барои худҳифз, бадан ҳангоми бедоршавӣ бо соати зангдор сатҳи адреналинро баланд мекунад. Агар ин ҳолат рӯзҳо, ҳафтаҳо, моҳҳо давом кунад, ба гипертония, бехобӣ ва баъзе мушкилоти равонӣ меорад. Тадқиқот нишон медиҳад: онҳое, ки бо соати зангдор ногаҳон бедор мешаванд, фишори хун ва тапиши дили баландтар аз онҳое доранд, ки табиӣ бедор мешаванд. Мутахассисон шарҳ медиҳанд: бадан ҳангоми хоб тағйир меёбад, бинобар ин одамон ҳангоми бедоршавӣ ба беморӣ бештар майл доранд — ва соати зангдор ин эҳтимолро зиёд мекунад. Агар шумо бояд соати зангдор гузоред, овози нарм ё мусиқӣ истифода баред. Аз ҳамаи усулҳои бедоршавӣ, бедоршавии табиӣ ба хоҳишҳои мо бештар мувофиқ аст. Аммо кӣ метавонад пардаро кашад ва нури офтобро барои шумо дарорад? Дар солҳои охир дар бозор маҳсулоти нави электронӣ пайдо шуд, ки 'соати зангдори рӯшноӣ' ном дорад. Он метавонад тағйироти нури табиии субҳро дар дохили хона тақлид кунад ва одамро дар вақти муайяншуда тавассути таъсири рӯшноӣ нарм бедор кунад, ва аз зарари ба саломатӣ, ки соатҳои зангдори анъанавӣ бо бедоршавии ногаҳонӣ мерасонанд, пешгирӣ кунад. Умедворем, ки ин моро як қадам ва боз як қадам ба 'бедоршавии табиии' ҳақиқӣ наздиктар мекунад.",
@@ -112,7 +112,7 @@
       "pos": "n./adj.",
       "meaning": {
         "ru": "закономерность",
-        "tk": "kanunalaýyklyk",
+        "tk": "kanun, nagyş",
         "en": "law, pattern",
         "uz": "qonun, naqsh",
         "tg": "қонун, қонуният",
@@ -125,7 +125,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "свет, луч",
-        "tk": "ýagtylyk",
+        "tk": "ýagtylyk, şöhle",
         "en": "light, ray",
         "uz": "yorug'lik, nur",
         "tg": "рӯшноӣ, шуоъ",
@@ -177,7 +177,7 @@
       "pos": "n./adj.",
       "meaning": {
         "ru": "современный",
-        "tk": "häzirki",
+        "tk": "häzirki zaman",
         "en": "modern",
         "uz": "zamonaviy",
         "tg": "муосир",
@@ -203,7 +203,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "применение",
-        "tk": "ulanylyş",
+        "tk": "ulanmak",
         "en": "use",
         "uz": "foydalanish",
         "tg": "истифода",
@@ -216,7 +216,7 @@
       "pos": "n./v.",
       "meaning": {
         "ru": "эксперимент",
-        "tk": "synag",
+        "tk": "tejribe",
         "en": "experiment",
         "uz": "tajriba",
         "tg": "таҷриба",
@@ -242,7 +242,7 @@
       "pos": "частица",
       "meaning": {
         "ru": "частица (книжн.)",
-        "tk": "bölekçe",
+        "tk": "bölejik",
         "en": "particle",
         "uz": "zarra",
         "tg": "зарра",
@@ -268,7 +268,7 @@
       "pos": "adj./v.",
       "meaning": {
         "ru": "бодрый",
-        "tk": "huşly",
+        "tk": "aýylganç, hüşgär",
         "en": "sober, alert",
         "uz": "hushyor, sergak",
         "tg": "ҳушёр, бедор",
@@ -294,7 +294,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "психика",
-        "tk": "psihika",
+        "tk": "psihologiýa",
         "en": "psychology",
         "uz": "psixologiya",
         "tg": "психология",
@@ -307,7 +307,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "тревожный, растерянный",
-        "tk": "howatyrly",
+        "tk": "howlukmaç",
         "en": "flurried",
         "uz": "shoshqaloq",
         "tg": "шошқалоқ",
@@ -320,7 +320,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "настроение",
-        "tk": "keýp",
+        "tk": "duýgy, keýp",
         "en": "emotion, mood",
         "uz": "his-tuyg'u, kayfiyat",
         "tg": "эҳсосот, кайфият",
@@ -333,7 +333,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "подавленный",
-        "tk": "gamlı",
+        "tk": "göwniçökgün",
         "en": "depressed",
         "uz": "tushkun",
         "tg": "афсурда",
@@ -424,7 +424,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "страдать бессонницей",
-        "tk": "uky tutmazlyk",
+        "tk": "ukusyzlyk",
         "en": "insomnia",
         "uz": "uyqusizlik",
         "tg": "бехобӣ",
@@ -437,7 +437,7 @@
       "pos": "n./adj.",
       "meaning": {
         "ru": "дух, психика",
-        "tk": "ruh",
+        "tk": "ruh, aň",
         "en": "spirit, mind",
         "uz": "ruh, aql",
         "tg": "рӯҳ, ақл",
@@ -476,7 +476,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "мягкий",
-        "tk": "ýumşak",
+        "tk": "ýumşak, mylaýym",
         "en": "gentle, soft",
         "uz": "yumshoq, mayin",
         "tg": "мулоим, нарм",
@@ -541,7 +541,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "имитировать",
-        "tk": "meňzetmek",
+        "tk": "öýkünmek",
         "en": "to imitate",
         "uz": "taqlid qilmoq",
         "tg": "тақлид кардан",
@@ -554,7 +554,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "избегать",
-        "tk": "gutulmak",
+        "tk": "gaça durmak",
         "en": "to avoid",
         "uz": "chetlab o'tmoq",
         "tg": "барои пешгирӣ кардан",
@@ -567,7 +567,7 @@
       "pos": "n./adj.",
       "meaning": {
         "ru": "традиция; традиционный",
-        "tk": "däp; däp bolan",
+        "tk": "däp",
         "en": "tradition",
         "uz": "an'ana",
         "tg": "анъана",
@@ -581,7 +581,7 @@
       "pos": "глагол направления",
       "explanation": {
         "ru": "«动词+来 / 过来» — от сна к бодрствованию; также возвращение к нормальному состоянию.",
-        "tk": "«动词+来 / 过来» — ukudan oýanmak; kadaly ýagdaýa dolanmak.",
+        "tk": "'Işlik + 来/过来' oýanmagy ýa-da adaty ýagdaýa gaýdyp gelmegi aňladýar.",
         "en": "'Verb + 来/过来' means waking up, or returning to a normal state.",
         "uz": "'Fe'l + 来/过来' uyg'onish yoki normal holatga qaytishni bildiradi.",
         "tg": "'Феъл + 来/过来' маънои бедор шудан ё ба ҳолати муқаррарӣ баргаштанро дорад.",
@@ -591,7 +591,7 @@
         {
           "zh": "人逐渐从熟睡过渡到浅睡，直到醒来。",
           "ru": "Человек постепенно переходит из глубокого сна в лёгкий, пока не проснётся.",
-          "tk": "Adam çuň ukudan ýeňil ukuda geçip, ahyrynda oýanýar.",
+          "tk": "Adam ýuwaş-ýuwaşdan çuň ukudan ýeňil uka geçýär, tä oýanýança.",
           "en": "One gradually shifts from deep to light sleep until waking.",
           "uz": "Inson asta-sekin chuqur uyqudan yengil uyquga o'tadi va uyg'onadi.",
           "tg": "Одам тадриҷан аз хоби амиқ ба хоби сабук мегузарад, то бедор шавад.",
@@ -609,7 +609,7 @@
         {
           "zh": "我被一阵吵闹声突然惊醒，过了半天，脑子才清醒过来。",
           "ru": "Меня разбудил шум, и лишь через некоторое время сознание прояснилось.",
-          "tk": "Meni gykylyk oýardy, birazdan aňym aýyldy.",
+          "tk": "Men sesden oýandym we özüme gelmegim üçin biraz wagt gerek boldy.",
           "en": "I was awakened by noise, and it took a while to come to my senses.",
           "uz": "Shovqindan uyg'onib ketdim va o'zimga kelishim uchun biroz vaqt kerak bo'ldi.",
           "tg": "Маро садои ғавғо бедор кард ва ба худ омаданам каме вақт гирифт.",
@@ -618,7 +618,7 @@
         {
           "zh": "天上的星星那么多，谁数得过来呀？",
           "ru": "На небе столько звёзд — кто их пересчитает?",
-          "tk": "Asmanda şonça ýyldyz bar — kim hasaplap ýetişer?",
+          "tk": "Ýyldyzlar şeýle köp — olary kim sanap bilýär?",
           "en": "There are so many stars — who can count them all?",
           "uz": "Yulduzlar shunchalik ko'pki — ularning hammasini kim sanay oladi?",
           "tg": "Ситораҳо ин қадар зиёданд — ки метавонад ҳамаи онҳоро ҳисоб кунад?",
@@ -627,7 +627,7 @@
         {
           "zh": "最近手头的工作太多了，我都忙不过来了。",
           "ru": "В последнее время столько работы — я не успеваю.",
-          "tk": "Soňky wagtlarda iş köp — ýetişip bilemok.",
+          "tk": "Soňky wagtlar iş gaty köp — men ýetişip bilýänok.",
           "en": "There's too much work lately — I can't keep up.",
           "uz": "So'nggi paytlarda ish juda ko'p — ulgura olmayapman.",
           "tg": "Охирҳо кор бисёр шудааст — ман ба онҳо намерасондам.",
@@ -636,7 +636,7 @@
         {
           "zh": "天慢慢地亮起来了。",
           "ru": "Небо постепенно светлело.",
-          "tk": "Asman kem-kemden ýagtyldy.",
+          "tk": "Asman ýuwaş-ýuwaşdan ýagtylyp başlady.",
           "en": "The sky gradually brightened.",
           "uz": "Osmon asta-sekin yorishdi.",
           "tg": "Осмон тадриҷан равшан шуд.",
@@ -645,7 +645,7 @@
         {
           "zh": "他醒过来了，第一句话就是问妈妈。",
           "ru": "Он пришёл в себя и первым делом спросил о маме.",
-          "tk": "Ol huşuna gelip, ilkinji soragy ejesi barada boldy.",
+          "tk": "Özüne gelip, ilkinji soragy ejesi barada boldy.",
           "en": "Coming to, his first question was about his mother.",
           "uz": "O'ziga kelgach, birinchi savoli onasi haqida bo'ldi.",
           "tg": "Ба худ омада, аввалин саволаш дар бораи модараш буд.",
@@ -654,7 +654,7 @@
         {
           "zh": "我从睡梦中惊醒过来。",
           "ru": "Я внезапно проснулся от сна.",
-          "tk": "Men birden ukudan oýandym.",
+          "tk": "Men düýşümden birden oýandym.",
           "en": "I suddenly woke up from a dream.",
           "uz": "Men to'satdan tushdan uyg'onib ketdim.",
           "tg": "Ман ногаҳон аз хоб бедор шудам.",
@@ -663,7 +663,7 @@
         {
           "zh": "喝了杯咖啡，我才慢慢清醒过来。",
           "ru": "Выпив чашку кофе, я постепенно пришёл в себя.",
-          "tk": "Bir käse kofe içip, men kem-kemden özüme geldim.",
+          "tk": "Bir käse kofe içenimden soň, ýuwaş-ýuwaşdan özüme geldim.",
           "en": "After a cup of coffee, I gradually came to.",
           "uz": "Bir piyola qahvadan so'ng, men asta-sekin o'zimga keldim.",
           "tg": "Баъди як пиёла қаҳва, ман тадриҷан ба худ омадам.",
@@ -672,7 +672,7 @@
         {
           "zh": "忙不过来的话，可以请个帮手。",
           "ru": "Если не успеваешь — найми помощника.",
-          "tk": "Ýetişip bilmeseň — kömekçi tut.",
+          "tk": "Başaryp bilmeseň, kömekçi tut.",
           "en": "If you can't manage, hire a helper.",
           "uz": "Agar o'zingiz uddalay olmasangiz, yordamchi yollang.",
           "tg": "Агар ту натавонӣ, ёрдамчӣ киро кун.",
@@ -747,7 +747,7 @@
       "pos": "частица",
       "explanation": {
         "ru": "«所» перед глаголом — субстантивирует конструкцию; также «有/无+所+动词».",
-        "tk": "«所» işlikden öň — gurluşy atlaşdyrýar.",
+        "tk": "'所' işliklerden öň gelip, olary atlaşdyrýar; şeýle hem '有/无 + 所 + işlik'.",
         "en": "'所' before verbs nominalizes; also '有/无 + 所 + verb'.",
         "uz": "'所' fe'llar oldidan kelib ularni otlashtiradi; shuningdek '有/无 + 所 + fe'l'.",
         "tg": "'所' пеш аз феълҳо онро ба исм табдил медиҳад; инчунин '有/无 + 所 + феъл'.",
@@ -757,7 +757,7 @@
         {
           "zh": "山水画所表现的是人与自然的关系。",
           "ru": "Пейзажная живопись выражает отношение человека к природе.",
-          "tk": "Peýzaž suraty adamyň tebigat bilen gatnaşygyny beýan edýär.",
+          "tk": "Peýzaž suraty adamzadyň tebigat bilen gatnaşygyny beýan edýär.",
           "en": "Landscape painting expresses the relationship of humans to nature.",
           "uz": "Manzara rasmi insonning tabiat bilan munosabatini ifodalaydi.",
           "tg": "Расми манзара муносибати инсонро бо табиат ифода мекунад.",
@@ -766,7 +766,7 @@
         {
           "zh": "人们对自然醒与被闹钟铃声叫醒所产生的反应是很不相同的。",
           "ru": "Реакции на естественное пробуждение и на будильник сильно различаются.",
-          "tk": "Tebigy oýanmak we jaňly sagat bilen oýanmak täsirleri düýbünden tapawutly.",
+          "tk": "Tebigy oýanmaga we jaň bilen oýanmaga bolan reaksiýalar gaty tapawutlanýar.",
           "en": "Reactions to natural waking vs alarm waking are very different.",
           "uz": "Tabiiy uyg'onish va budilnik bilan uyg'onishga bo'lgan munosabat juda farq qiladi.",
           "tg": "Вокуниш ба бедоршавии табиӣ ва бедоршавӣ бо зангӣ хеле фарқ мекунад.",
@@ -775,7 +775,7 @@
         {
           "zh": "调查显示，随着年龄的增大，女性的职场幸福感有所提高。",
           "ru": "Исследование показывает: с возрастом ощущение счастья у работающих женщин растёт.",
-          "tk": "Barlag görkezýär: ýaş ulaldykça işleýän aýallaryň bagtlylyk duýgusy ýokarlanýar.",
+          "tk": "Gözlegler aýallaryň iş ýerindäki bagtynyň ýaşy bilen artýandygyny görkezýär.",
           "en": "Research shows women's workplace happiness rises with age.",
           "uz": "Tadqiqotlar shuni ko'rsatadiki, ayollarning ish joyidagi baxti yoshi bilan ortadi.",
           "tg": "Тадқиқот нишон медиҳад, ки хушбахтии занон дар ҷои кор бо синну сол афзоиш меёбад.",
@@ -784,7 +784,7 @@
         {
           "zh": "我和李阳是无所不谈的好朋友。",
           "ru": "Мы с Ли Яном друзья — говорим обо всём.",
-          "tk": "Men Li Ýan bilen dost — hemme zat barada gürleşýäris.",
+          "tk": "Li Ýan bilen biz hemme zady gürrüňdeş bolýan dostlar.",
           "en": "Li Yang and I are friends who talk about everything.",
           "uz": "Li Yang va men hamma narsa haqida gaplashadigan do'stlarmiz.",
           "tg": "Ли Ян ва ман дӯстоне ҳастем, ки дар бораи ҳама чиз сӯҳбат мекунем.",
@@ -793,7 +793,7 @@
         {
           "zh": "来自北京一所大学的学生做了关于这个问题的实验。",
           "ru": "Студенты одного пекинского вуза провели эксперимент по этому вопросу.",
-          "tk": "Pekiniň bir uniwersitetiniň okuwçylary bu meselede synag geçirdiler.",
+          "tk": "Pekin uniwersitetiniň talyplary bu barada tejribe geçirdiler.",
           "en": "Students from a Beijing university conducted an experiment on this.",
           "uz": "Pekin universiteti talabalari bu borada tajriba o'tkazdilar.",
           "tg": "Донишҷӯёни як донишгоҳи Пекин дар ин бора таҷриба гузарониданд.",
@@ -811,7 +811,7 @@
         {
           "zh": "我所知道的就是这些。",
           "ru": "Это всё, что я знаю.",
-          "tk": "Bilýän zadym şulardan ybarat.",
+          "tk": "Bilýän zadym şu.",
           "en": "That's all I know.",
           "uz": "Men bilganim shu.",
           "tg": "Ҳамин қадар медонам.",
@@ -820,7 +820,7 @@
         {
           "zh": "有所准备，才不至于慌张。",
           "ru": "Подготовишься — не растеряешься.",
-          "tk": "Taýýarlykly bolsaň, howsala düşmersiň.",
+          "tk": "Taýyn bolsaň, panika etmersiň.",
           "en": "Be prepared, and you won't panic.",
           "uz": "Tayyor bo'lsang, vahima qilmaysan.",
           "tg": "Омода бош, ва ҳайрон намешавӣ.",
@@ -829,7 +829,7 @@
         {
           "zh": "他这个人真是无所不能。",
           "ru": "Он действительно умеет всё.",
-          "tk": "Ol hakykatdan hemme zady başarýar.",
+          "tk": "Ol hakykatdan hem islendik zady edip bilýär.",
           "en": "He really can do anything.",
           "uz": "U haqiqatan ham hamma narsani qila oladi.",
           "tg": "Вай воқеан ҳама корро карда метавонад.",
@@ -912,7 +912,7 @@
       "pos": "v./adv.",
       "explanation": {
         "ru": "«相当» — «равняться»; как наречие — «довольно, значительно».",
-        "tk": "«相当» — «deň bolmak»; hal hökmünde «birneme, gaty».",
+        "tk": "'相 当' — 'deň bolmak'; hal. 'bütinleý, ep-esli'.",
         "en": "'相当' — 'to be equal'; adv. 'quite, fairly'.",
         "uz": "'相当' — 'teng bo'lmoq'; ravish 'ancha, bir qadar'.",
         "tg": "'相当' — 'баробар будан'; зарф. 'хеле, нисбатан'.",
@@ -922,7 +922,7 @@
         {
           "zh": "这些能力最多为正常状态的65%，与醉酒者相当。",
           "ru": "Эти способности — максимум 65% от нормы, как у пьяного.",
-          "tk": "Bu ukyplar kadalyň 65%-i — serhoş ýaly.",
+          "tk": "Bu ukyplar iň köp diýende adatyň 65%-ine ýetýär — serhoş adam ýaly.",
           "en": "These abilities at most reach 65% of normal — like a drunk person.",
           "uz": "Bu qobiliyatlar ko'pi bilan normaning 65%iga yetadi — xuddi mast odamnikidek.",
           "tg": "Ин қобилиятҳо ҳадди аксар ба 65% аз меъёр мерасанд — мисли одами маст.",
@@ -931,7 +931,7 @@
         {
           "zh": "这种鸟一天所食的害虫相当于自己的体重。",
           "ru": "Эта птица съедает за день вредителей, равных по весу ей самой.",
-          "tk": "Bu guş bir günde öz agramyna deň zyýankeş iýýär.",
+          "tk": "Bu guş her gün öz agramyna deň zyýankeşleri iýýär.",
           "en": "This bird eats pests equal to its own body weight daily.",
           "uz": "Bu qush har kuni o'z vazniga teng zararkunandalarni yeydi.",
           "tg": "Ин парранда ҳар рӯз ҳашароти зараррасонро ба андозаи вазни бадани худ мехӯрад.",
@@ -940,7 +940,7 @@
         {
           "zh": "菜的味道好极了，服务也挺周到，我相当满意。",
           "ru": "Еда превосходна, обслуживание внимательное — я вполне доволен.",
-          "tk": "Naharlar örän gowy, hyzmaty hem ünsli — men gaty kanagatlandym.",
+          "tk": "Naharlar ajaýyp, hyzmat ünsli — men gaty kanagatlandym.",
           "en": "The food is great, service attentive — I'm quite satisfied.",
           "uz": "Ovqat ajoyib, xizmat e'tiborli — men juda mamnunman.",
           "tg": "Хӯрок олӣ, хизматрасонӣ бодиққат — ман хеле қаноатмандам.",
@@ -949,7 +949,7 @@
         {
           "zh": "如果要问人们选择职业时主要考虑的是什么，有相当一部分人会以收入多少作为标准。",
           "ru": "Если спросить, что главное при выборе профессии, значительная часть назовёт доход.",
-          "tk": "Kär saýlanyňda iň möhüm zat näme diýip sorasaň, köpler girdejäni aýdarlar.",
+          "tk": "Kär saýlamakda iň möhümi näme diýip soralanda, köpler girdejini agzaýarlar.",
           "en": "Asked what's key in choosing a career, quite a few cite income.",
           "uz": "Kasb tanlashda nima muhim deb so'ralganda, ko'pchilik daromadni tilga oladi.",
           "tg": "Вақте пурсиданд, ки ҳангоми интихоби касб чӣ муҳим аст, чанде аз одамон даромадро зикр карданд.",
@@ -958,7 +958,7 @@
         {
           "zh": "这里的学习压力相当大。",
           "ru": "Здесь учебная нагрузка довольно большая.",
-          "tk": "Bu ýerdäki okuw basyşy birneme güýçli.",
+          "tk": "Bu ýerdäki okuw basyşy gaty ýokary.",
           "en": "The academic pressure here is quite high.",
           "uz": "Bu yerda akademik bosim ancha yuqori.",
           "tg": "Фишори таълимӣ дар ин ҷо хеле баланд аст.",
@@ -967,7 +967,7 @@
         {
           "zh": "他汉语说得相当流利。",
           "ru": "Он говорит по-китайски довольно бегло.",
-          "tk": "Ol hytaýça birneme suwara gürleýär.",
+          "tk": "Ol hytaýça gaty erkin gepleýär.",
           "en": "He speaks Chinese quite fluently.",
           "uz": "U xitoy tilida ancha ravon gapiradi.",
           "tg": "Вай забони чинӣро хеле равон ҳарф мезанад.",
@@ -976,7 +976,7 @@
         {
           "zh": "这两个城市面积相当。",
           "ru": "Эти два города по площади равны.",
-          "tk": "Bu iki şäheriň meýdany deň.",
+          "tk": "Iki şäher meýdany boýunça deňdir.",
           "en": "The two cities are equal in area.",
           "uz": "Ikki shahar maydoni bo'yicha teng.",
           "tg": "Ду шаҳр аз рӯи масоҳат баробаранд.",
@@ -985,7 +985,7 @@
         {
           "zh": "水平相当的两个队比赛最精彩。",
           "ru": "Самые зрелищные матчи — между равными командами.",
-          "tk": "Deň derejeli iki toparyň oýny iň gyzykly.",
+          "tk": "Deň toparlaryň arasyndaky oýunlar iň tolgundyryjy bolýar.",
           "en": "Matches between equal teams are most exciting.",
           "uz": "Teng jamoalar o'rtasidagi o'yinlar eng qiziqarli.",
           "tg": "Бозиҳо байни дастаҳои баробар ҳаяҷоновартаринанд.",
@@ -994,7 +994,7 @@
         {
           "zh": "这次活动的规模相当大。",
           "ru": "Масштаб этого мероприятия довольно большой.",
-          "tk": "Bu çäräniň gerimi birneme uly.",
+          "tk": "Bu çäre ep-esli uly göwrümli.",
           "en": "This event is fairly large-scale.",
           "uz": "Bu tadbir ancha keng ko'lamli.",
           "tg": "Ин чорабинӣ нисбатан калонҳаҷм аст.",
@@ -1003,7 +1003,7 @@
         {
           "zh": "他的病相当严重，得住院。",
           "ru": "Он довольно серьёзно болен — нужно лечь в больницу.",
-          "tk": "Onuň keseli birneme agyr — hassahanada ýatmaly.",
+          "tk": "Ol gaty agyr syrkaw — keselhana ýatyrylmaly.",
           "en": "He's quite seriously ill — needs hospitalization.",
           "uz": "U ancha og'ir kasal — kasalxonaga yotqizish kerak.",
           "tg": "Ӯ хеле вазнин бемор аст — ба беморхона бистарӣ шудан лозим аст.",
@@ -1078,7 +1078,7 @@
       "pos": "v./num.",
       "explanation": {
         "ru": "«数» — «считать»; «数(shù)» — «несколько»; «数一数二» — «один из лучших».",
-        "tk": "«数» — «sanamak»; «数(shù)» — «birnäçe».",
+        "tk": "'数(shù)' — 'sanamak'; '数(shù)' — 'birnäçe'.",
         "en": "'数(shǔ)' — 'to count'; '数(shù)' — 'several'.",
         "uz": "'数(shǔ)' — 'sanamoq'; '数(shù)' — 'bir nechta'.",
         "tg": "'数(shǔ)' — 'шумурдан'; '数(shù)' — 'якчанд'.",
@@ -1088,7 +1088,7 @@
         {
           "zh": "我大概数了一下，车上有32个学生。",
           "ru": "Я примерно посчитал — в автобусе 32 студента.",
-          "tk": "Men takmynan sanadym — awtobusda 32 okuwçy bar.",
+          "tk": "Takmynan sanadym — awtobusda 32 okuwçy bar.",
           "en": "I roughly counted — 32 students on the bus.",
           "uz": "Taxminan sanadim — avtobusda 32 nafar o'quvchi bor.",
           "tg": "Ман тақрибан ҳисоб кардам — 32 донишҷӯ дар автобус.",
@@ -1097,7 +1097,7 @@
         {
           "zh": "先生，这是找您的钱，58块6，您数数。",
           "ru": "Господин, ваша сдача — 58 юаней 60, посчитайте.",
-          "tk": "Jenap, gaýtargy pulyňyz — 58 ýuwan 60, sanap al.",
+          "tk": "Jenap, size gaýtargy — 58.6 ýuan, sanap alyň.",
           "en": "Sir, your change — 58.6 yuan, please count.",
           "uz": "Janob, qaytimingiz — 58.6 yuan, iltimos, sanab oling.",
           "tg": "Ҷаноб, боқимондаи пули шумо — 58.6 юан, лутфан ҳисоб кунед.",
@@ -1106,7 +1106,7 @@
         {
           "zh": "我觉得北京最美、最有名气的公园要数颐和园了。",
           "ru": "Самый красивый и известный пекинский парк — Ихэюань.",
-          "tk": "Pekiniň iň owadan we meşhur seýilgähi — Iheýuan.",
+          "tk": "Pekiniň iň gözel we meşhur seýilgähi — Ýazlyk köşgi.",
           "en": "Beijing's most beautiful and famous park is the Summer Palace.",
           "uz": "Pekinning eng go'zal va mashhur bog'i — Yozgi saroy.",
           "tg": "Зеботарин ва машҳуртарин боғи Пекин Қасри Тобистонӣ аст.",
@@ -1115,7 +1115,7 @@
         {
           "zh": "要说我们班跑得最快的，那就数李阳了。",
           "ru": "Самый быстрый бегун в нашем классе — Ли Ян.",
-          "tk": "Synpymyzda iň çalt ylgayan — Li Ýan.",
+          "tk": "Biziň synpymyzdaky iň çalt ylgawçy — Li Ýan.",
           "en": "The fastest runner in our class is Li Yang.",
           "uz": "Sinfimizdagi eng tez yuguruvchi — Li Yang.",
           "tg": "Тезтарин даванда дар синфи мо Ли Ян аст.",
@@ -1124,7 +1124,7 @@
         {
           "zh": "这里夏季的雷阵雨一般可持续数小时。",
           "ru": "Летние грозы здесь обычно идут несколько часов.",
-          "tk": "Bu ýerde tomus ýyldyrymly ýagyşlar birnäçe sagat dowam edýär.",
+          "tk": "Bu ýerde tomus ýyldyrymly ýagyşlar adatça birnäçe sagat dowam edýär.",
           "en": "Summer thunderstorms here typically last several hours.",
           "uz": "Bu yerda yozgi momaqaldiroqlar odatda bir necha soat davom etadi.",
           "tg": "Раъду барқи тобистонӣ дар ин ҷо одатан чанд соат давом мекунад.",
@@ -1133,7 +1133,7 @@
         {
           "zh": "这种状态如果持续数天、数周、数月，将导致高血压。",
           "ru": "Если это состояние длится дни, недели, месяцы — приводит к гипертонии.",
-          "tk": "Bu ýagdaý birnäçe gün, hepde, aý dowam etse — gipertoniýa eltýär.",
+          "tk": "Eger bu ýagdaý günler, hepdeler, aýlar dowam etse, ol ýokary gan basyşyna getirýär.",
           "en": "If this state lasts days, weeks, months, it leads to hypertension.",
           "uz": "Agar bu holat kunlar, haftalar, oylar davom etsa, u gipertoniyaga olib keladi.",
           "tg": "Агар ин ҳолат рӯзҳо, ҳафтаҳо, моҳҳо давом кунад, ба гипертония оварда мерасонад.",
@@ -1142,7 +1142,7 @@
         {
           "zh": "他数不清天上到底有多少星星。",
           "ru": "Он не мог сосчитать, сколько на небе звёзд.",
-          "tk": "Ol asmanda näçe ýyldyz bar — sanap bilmedi.",
+          "tk": "Ol asmanda näçe ýyldyz baranyny sanap bilmedi.",
           "en": "He couldn't count how many stars were in the sky.",
           "uz": "U osmonda qancha yulduz borligini sanay olmadi.",
           "tg": "Ӯ наметавонист ҳисоб кунад, ки дар осмон чанд ситора ҳаст.",
@@ -1160,7 +1160,7 @@
         {
           "zh": "他是我们学校数一数二的好学生。",
           "ru": "Он один из лучших учеников нашей школы.",
-          "tk": "Ol mekdebimiziň iň gowy okuwçylaryndan biri.",
+          "tk": "Ol mekdebimizdäki iň gowy okuwçylaryň biridir.",
           "en": "He's one of the best students in our school.",
           "uz": "U maktabimizdagi eng yaxshi o'quvchilardan biri.",
           "tg": "Ӯ яке аз беҳтарин хонандагони мактаби мост.",
@@ -1169,7 +1169,7 @@
         {
           "zh": "数一数，一共几个。",
           "ru": "Посчитай, сколько всего.",
-          "tk": "Sanap gör, jemi näçe.",
+          "tk": "Olary sanap gör — jemi näçe?",
           "en": "Count them — how many in total?",
           "uz": "Ularni sanang — jami qancha?",
           "tg": "Онҳоро ҳисоб кунед — дар маҷмӯъ чандто?",
@@ -1283,7 +1283,7 @@
       "word_b": "继续",
       "common": {
         "ru": "Оба — «продолжаться».",
-        "tk": "Ikisi hem «dowam etmek».",
+        "tk": "Ikisi hem 'dowam etmek' manyny berýär.",
         "en": "Both mean 'to continue'.",
         "uz": "Ikkalasi ham 'davom etmoq' ma'nosini bildiradi.",
         "tg": "Ҳарду маънои 'давом додан'-ро доранд.",
@@ -1416,7 +1416,7 @@
   "application": {
     "discussion": {
       "ru": "Как вы думаете, нужен ли будильник? Как улучшить качество сна?",
-      "tk": "Jaňly sagat zerurmy? Ukynyň hilini nähili gowulandyrmaly?",
+      "tk": "Siziň pikiriňizçe, jaňly sagatlar zerurmy? Ukynyň hilini nädip gowulandyrmaly?",
       "en": "Do you think alarm clocks are necessary? How to improve sleep quality?",
       "uz": "Sizningcha, budilniklar kerakmi? Uyqu sifatini qanday yaxshilash mumkin?",
       "tg": "Ба фикри шумо, соатҳои зангӣ заруранд? Чӣ тавр сифати хобро беҳтар кардан мумкин аст?",

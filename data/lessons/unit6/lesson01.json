@@ -2,7 +2,7 @@
   "title": {
     "zh": "体重与节食",
     "ru": "Вес и диета",
-    "tk": "Agram we iýmit çäklendirmesi",
+    "tk": "Agram we Iýmit",
     "en": "Weight and Diet",
     "uz": "Vazn va parhez",
     "tg": "Вазн ва парҳез",
@@ -18,7 +18,7 @@
   "warmup": {
     "question": {
       "ru": "Знаете ли вы эффективные способы похудеть?",
-      "tk": "Arryklamagyň täsirli usullaryny bilýärsiňizmi?",
+      "tk": "Agramyňyzy azaltmagyň täsirli usullaryny bilýärsiňizmi?",
       "en": "Do you know effective ways to lose weight?",
       "uz": "Vazn yo'qotishning samarali usullarini bilasizmi?",
       "tg": "Оё роҳҳои самараноки кам кардани вазнро медонед?",
@@ -48,7 +48,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "соблюдать диету",
-        "tk": "berhiz tutmak",
+        "tk": "dietada bolmak",
         "en": "to go on a diet",
         "uz": "parhezga o'tirmoq",
         "tg": "ба парҳез нишастан",
@@ -61,7 +61,7 @@
       "pos": "n./v.",
       "meaning": {
         "ru": "сообщение; сообщать",
-        "tk": "habar; habar bermek",
+        "tk": "hasabat",
         "en": "report",
         "uz": "hisobot",
         "tg": "ҳисобот",
@@ -87,7 +87,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "потреблять",
-        "tk": "kabul etmek",
+        "tk": "iýmit siňdirmek",
         "en": "to ingest",
         "uz": "yutmoq",
         "tg": "фурӯ бурдан",
@@ -165,7 +165,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "относительный",
-        "tk": "deňeşdirmeli",
+        "tk": "garyndaş",
         "en": "relative",
         "uz": "nisbiy",
         "tg": "нисбӣ",
@@ -191,7 +191,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "взвешивать(ся)",
-        "tk": "agramyny ölçemek",
+        "tk": "agramlylygyny ölçemek",
         "en": "to weigh",
         "uz": "tortmoq",
         "tg": "вазн кардан",
@@ -204,7 +204,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "надёжный",
-        "tk": "ynamly",
+        "tk": "ygtybarly",
         "en": "reliable",
         "uz": "ishonchli",
         "tg": "боэътимод",
@@ -217,7 +217,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "включать",
-        "tk": "girizmek",
+        "tk": "goşmak",
         "en": "to include",
         "uz": "kiritmoq",
         "tg": "дар бар гирифтан",
@@ -256,7 +256,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "отслеживать",
-        "tk": "yzygider gözegçilik",
+        "tk": "yzarlamak",
         "en": "to track",
         "uz": "kuzatmoq",
         "tg": "пайгирӣ кардан",
@@ -269,7 +269,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "результат, достижение",
-        "tk": "netije",
+        "tk": "üstünlik",
         "en": "achievement",
         "uz": "yutuq",
         "tg": "дастовард",
@@ -282,7 +282,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "чёткий",
-        "tk": "düşnükli",
+        "tk": "açyk",
         "en": "clear",
         "uz": "aniq",
         "tg": "равшан",
@@ -308,7 +308,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "подниматься",
-        "tk": "göterilmek",
+        "tk": "ýokary galmak",
         "en": "to rise",
         "uz": "ko'tarilmoq",
         "tg": "бархостан",
@@ -334,7 +334,7 @@
       "pos": "adj./n.",
       "meaning": {
         "ru": "неожиданный; случайность",
-        "tk": "garaşylmadyk; hadysa",
+        "tk": "garaşylmadyk",
         "en": "unexpected",
         "uz": "kutilmagan",
         "tg": "ғайричашмдошт",
@@ -360,7 +360,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "очевидный",
-        "tk": "aç-açan",
+        "tk": "äşgär",
         "en": "obvious",
         "uz": "ravshan",
         "tg": "аён",
@@ -399,7 +399,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "тенденция",
-        "tk": "tendensiýa",
+        "tk": "meýil",
         "en": "trend",
         "uz": "tendentsiya",
         "tg": "тамойул",
@@ -438,7 +438,7 @@
       "pos": "adv./adj.",
       "meaning": {
         "ru": "индивидуальный, единичный",
-        "tk": "ayratyn",
+        "tk": "ayratyn, aýratyn",
         "en": "individual, exceptional",
         "uz": "individual, istisno",
         "tg": "фардӣ, истисноӣ",
@@ -490,7 +490,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "не быть",
-        "tk": "däl",
+        "tk": "bolmazlyk",
         "en": "to be not",
         "uz": "bo'lmaslik",
         "tg": "набудан",
@@ -516,7 +516,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "распускаться, давать волю",
-        "tk": "goýbermek",
+        "tk": "özüni erk bermek",
         "en": "to indulge",
         "uz": "berilmoq",
         "tg": "худро ба ҳаром додан",
@@ -529,7 +529,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "стройный",
-        "tk": "inçe boýly",
+        "tk": "inçe",
         "en": "slim",
         "uz": "nozik",
         "tg": "лoғар",
@@ -542,7 +542,7 @@
       "pos": "n./v.",
       "meaning": {
         "ru": "отговорка",
-        "tk": "bahana",
+        "tk": "bagyşlaň",
         "en": "excuse",
         "uz": "kechirim",
         "tg": "бахшиш",
@@ -582,7 +582,7 @@
       "pos": "v./adv.",
       "explanation": {
         "ru": "«即» — книжное «то есть, а именно». Также наречие «сразу, тотчас».",
-        "tk": "«即» — kitaby «ýagny». Hal hökmünde «derrew».",
+        "tk": "'即' — resmi 'ýagny, şol'. Goş. 'derrew'.",
         "en": "'即' — formal 'namely, that is'. Adv. 'immediately'.",
         "uz": "'即' — rasmiy 'ya'ni, bu'. Adv. 'darhol'.",
         "tg": "'即' — расмии 'яъне, яъне'. Зарф. 'дарҳол'.",
@@ -592,7 +592,7 @@
         {
           "zh": "「旦」是象形字，即太阳从地平线上升起。",
           "ru": "«Дань» — пиктограмма: солнце поднимается над горизонтом.",
-          "tk": "«Dan» — iýeroglif: gün gözýetimden çykýar.",
+          "tk": "'旦' piktogramma — gün gorizontdan ýokary çykýar.",
           "en": "'旦' is a pictograph — the sun rises above the horizon.",
           "uz": "'旦' — pikogramma: quyosh ufq ustidan chiqadi.",
           "tg": "'旦' пиктограмма аст — офтоб аз уфуқ боло мебарояд.",
@@ -601,7 +601,7 @@
         {
           "zh": "这些人的体重变化表现出清晰的模式，即周末之后体重升高，在工作日体重减轻。",
           "ru": "Их вес показывает чёткий паттерн: после выходных — выше, в рабочие дни — ниже.",
-          "tk": "Olaryň agramynda anyk nusga bar: dynç günlerinden soň ýokary, iş günlerinde aşak.",
+          "tk": "Olaryň agramy anyk bir nagyş görkezýär: dynç günlerinden soň ýokary, iş günlerinde pes.",
           "en": "Their weight shows a clear pattern: higher after weekends, lower on workdays.",
           "uz": "Ularning vazni aniq qonuniyatni ko'rsatadi: dam olish kunlaridan keyin yuqori, ish kunlarida past.",
           "tg": "Вазни онҳо қонунияти равшанро нишон медиҳад: баъд аз рӯзҳои истироҳат баландтар, дар рӯзҳои корӣ пасттар.",
@@ -610,7 +610,7 @@
         {
           "zh": "不懂即问是他最大的优点。",
           "ru": "Не понимаешь — сразу спрашивай: это его большое достоинство.",
-          "tk": "Düşünmeseň — derrew soramak onuň iň uly artykmaçlygy.",
+          "tk": "Düşünmedik wagtyňda soramak onuň iň uly güýji.",
           "en": "Asking when you don't understand is his biggest strength.",
           "uz": "Tushunmaganida so'rash uning eng katta kuchli tomoni.",
           "tg": "Пурсидан, вақте ки нафаҳмидӣ, бузургтарин қуввати ӯст.",
@@ -619,7 +619,7 @@
         {
           "zh": "汉字「字」代表上下四方，即所有的空间。",
           "ru": "Иероглиф «цзы» означает верх-низ и четыре стороны — то есть всё пространство.",
-          "tk": "«Tszy» iýeroglifi ýokary-aşak we dört tarapy aňladýar — ýagny ähli giňişlik.",
+          "tk": "'Zi' ýokary-aşakly we dört tarapy aňladýar — ýagny, ähli giňişlik.",
           "en": "'Zi' means up-down and four directions — i.e., all space.",
           "uz": "'Zi' yuqori-past va to'rt tomonni anglatadi — ya'ni butun fazo.",
           "tg": "«Зи» маънои боло-поён ва чор тарафро дорад — яъне тамоми фазо.",
@@ -628,7 +628,7 @@
         {
           "zh": "会议定于下周一上午九点，即北京时间九点召开。",
           "ru": "Совещание назначено на понедельник, 9:00 по пекинскому времени.",
-          "tk": "Maslahat duşenbe güni, Pekin wagty bilen sagat 9:00-de bellenildi.",
+          "tk": "Duşuşyk duşenbe güni, Pekin wagty bilen 9:00-a bellendi.",
           "en": "The meeting is set for Monday, 9:00 Beijing time.",
           "uz": "Uchrashuv dushanba kuni Pekin vaqti bilan 9:00 ga belgilangan.",
           "tg": "Ҷаласа барои рӯзи душанбе, соати 9:00 ба вақти Пекин муқаррар шудааст.",
@@ -646,7 +646,7 @@
         {
           "zh": "会议定于下周一下午三点即15点召开。",
           "ru": "Совещание назначено на понедельник, 15:00.",
-          "tk": "Maslahat duşenbe güni sagat 15:00-de bellenildi.",
+          "tk": "Duşuşyk duşenbe güni sagat 15:00-da bellenildi.",
           "en": "The meeting is set for Monday at 15:00.",
           "uz": "Uchrashuv dushanba kuni 15:00 ga belgilangan.",
           "tg": "Ҷаласа барои рӯзи душанбе соати 15:00 муқаррар шудааст.",
@@ -655,7 +655,7 @@
         {
           "zh": "即学即用，是学习外语的好方法。",
           "ru": "Учиться и сразу использовать — хороший метод для иностранного языка.",
-          "tk": "Öwrenmek we derrew ulanmak — daşary ýurt dili üçin gowy usul.",
+          "tk": "Öwren we derrew ulan — daşary ýurt dilini öwrenmegiň gowy usuly.",
           "en": "Learn and immediately use — a good way to study a foreign language.",
           "uz": "O'rganing va darhol foydalaning — chet tilini o'rganishning yaxshi usuli.",
           "tg": "Омӯзед ва фавран истифода баред — роҳи хуби омӯхтани забони хориҷӣ.",
@@ -664,7 +664,7 @@
         {
           "zh": "他即兴表演了一段舞蹈。",
           "ru": "Он импровизированно станцевал.",
-          "tk": "Ol tötänleýin tans etdi.",
+          "tk": "Ol tansy improwizasiýa etdi.",
           "en": "He improvised a dance.",
           "uz": "U raqsni improvizatsiya qildi.",
           "tg": "Вай рақси бадеҳаро иҷро кард.",
@@ -747,7 +747,7 @@
       "pos": "adj./adv.",
       "explanation": {
         "ru": "«个别» — «единичный, отдельный». О людях: «поговорить с каждым отдельно».",
-        "tk": "«个别» — «ayratyn, aýry-aýry».",
+        "tk": "'个別' — 'ayratyn, bir-bir'.",
         "en": "'个别' — 'individual, one by one'.",
         "uz": "'个别' — 'individual, birma-bir'.",
         "tg": "'个别' — 'инфиродӣ, яктогӣ'.",
@@ -757,7 +757,7 @@
         {
           "zh": "除了个别人以外，多数人体重的增加会从周六开始。",
           "ru": "Кроме отдельных людей, у большинства вес начинает расти с субботы.",
-          "tk": "Aýry-aýry adamlardan başga, köp adamda agram şenbe gününden ösüp başlaýar.",
+          "tk": "Az sanly adamlaryňkydan başga, köp adamyň agramy şenbe güni ýokary galyp başlaýar.",
           "en": "Except for a few, most people's weight starts rising on Saturday.",
           "uz": "Bir nechtasidan tashqari, ko'pchilikning vazni shanba kuni ko'tarila boshlaydi.",
           "tg": "Ба ғайр аз чанд нафар, вазни аксари одамон рӯзи шанбе баланд шудан мегирад.",
@@ -766,7 +766,7 @@
         {
           "zh": "他经常采取个别谈话的方式了解情况和解决问题。",
           "ru": "Он часто прибегает к индивидуальным беседам для выяснения и решения вопросов.",
-          "tk": "Ol köplenç ýagdaýy öwrenmek we meseleleri çözmek üçin aýry-aýry söhbetdeşlik ulanýar.",
+          "tk": "Ol köplenç aýratyn söhbetdeşlikleri ulanyp, meseleleri düşünýär we çözýär.",
           "en": "He often uses individual conversations to understand and solve problems.",
           "uz": "U ko'pincha muammolarni tushunish va hal qilish uchun individual suhbatlardan foydalanadi.",
           "tg": "Вай аксар вақт гуфтугӯҳои инфиродиро барои фаҳмидан ва ҳал кардани мушкилот истифода мебарад.",
@@ -775,7 +775,7 @@
         {
           "zh": "教练针对他的技术特点进行了个别训练。",
           "ru": "Тренер провёл индивидуальную тренировку с учётом его навыков.",
-          "tk": "Tälimçi onuň tehniki aýratynlyklaryna görä aýratyn maşk geçirdi.",
+          "tk": "Tälimçi onuň tehnikasyna laýyk aýratyn tälim geçirdi.",
           "en": "The coach did individual training tailored to his technique.",
           "uz": "Murabbiy uning texnikasiga moslashtirilgan individual mashg'ulot o'tkazdi.",
           "tg": "Мураббӣ машқҳои инфиродиро мувофиқи техникаи ӯ гузаронид.",
@@ -784,7 +784,7 @@
         {
           "zh": "天气预报说今晚有小到中雨，个别地区可能有大雨。",
           "ru": "Прогноз: сегодня вечером небольшой дождь, местами возможен сильный.",
-          "tk": "Howa çaklamasy: bu gün agşam az ýagar, aýry-aýry ýerlerde güýçli bolup biler.",
+          "tk": "Çaklama: şu gije ýagtydan ortaça ýagyn, käbir ýerlerde güýçli bolmagy mümkin.",
           "en": "Forecast: light to moderate rain tonight, possibly heavy in some areas.",
           "uz": "Prognoz: bugun kechqurun kuchsizdan o'rtacha yomg'ir, ba'zi hududlarda kuchli bo'lishi mumkin.",
           "tg": "Пешгӯӣ: имшаб борони кам то миёна, дар баъзе минтақаҳо эҳтимолан шадид.",
@@ -793,7 +793,7 @@
         {
           "zh": "个别同学还没有交作业，请尽快交。",
           "ru": "Отдельные студенты ещё не сдали работу — сдайте как можно скорее.",
-          "tk": "Aýry-aýry okuwçylar işini tabşyrmady — dessine tabşyryň.",
+          "tk": "Käbir okuwçylar öý işini tabşyrmady — haýyş, tiz tabşyryň.",
           "en": "A few students haven't submitted homework — please do so soon.",
           "uz": "Bir necha o'quvchi uy vazifasini topshirmadi — iltimos, tezroq topshiring.",
           "tg": "Якчанд донишҷӯ вазифаи хонагиро супорида нашудаанд — лутфан ба зудӣ супориш диҳед.",
@@ -802,7 +802,7 @@
         {
           "zh": "个别问题需要单独解决。",
           "ru": "Отдельные вопросы нужно решать индивидуально.",
-          "tk": "Aýry meseleleri aýratyn çözmeli.",
+          "tk": "Käbir meseleler aýratyn çözgütleri talap edýär.",
           "en": "Certain issues need separate solutions.",
           "uz": "Ba'zi muammolar alohida yechimlarni talab qiladi.",
           "tg": "Баъзе масъалаҳо ҳалли алоҳида талаб мекунанд.",
@@ -811,7 +811,7 @@
         {
           "zh": "老师对个别学生进行了辅导。",
           "ru": "Учитель позанимался с отдельными учениками.",
-          "tk": "Mugallym aýry okuwçylar bilen sapak geçdi.",
+          "tk": "Mugallym birnäçe okuwça aýratyn sapak berdi.",
           "en": "The teacher tutored a few students individually.",
           "uz": "O'qituvchi bir nechta o'quvchilarga alohida dars berdi.",
           "tg": "Муаллим ба якчанд донишҷӯ алоҳида дарс дод.",
@@ -820,7 +820,7 @@
         {
           "zh": "个别情况下可以例外。",
           "ru": "В отдельных случаях возможны исключения.",
-          "tk": "Aýry ýagdaýlarda kadadan çykmak mümkin.",
+          "tk": "Aýratyn ýagdaýlarda kadadan çykma ýasalyp bilner.",
           "en": "In exceptional cases, exceptions can be made.",
           "uz": "Istisno holatlarda, istisnolar qilinishi mumkin.",
           "tg": "Дар ҳолатҳои истисноӣ, истисноҳо карда мешаванд.",
@@ -829,7 +829,7 @@
         {
           "zh": "只有个别人反对这个方案。",
           "ru": "Только единицы против этого плана.",
-          "tk": "Diňe bir-iki adam bu meýilnama garşy.",
+          "tk": "Bu meýilnama diňe az sanly adam garşy.",
           "en": "Only a handful oppose this plan.",
           "uz": "Faqat bir nechtasi bu rejaga qarshi.",
           "tg": "Танҳо якчанд нафар ба ин нақша муқобилат мекунанд.",
@@ -838,7 +838,7 @@
         {
           "zh": "个别人可能对海鲜过敏。",
           "ru": "У отдельных людей может быть аллергия на морепродукты.",
-          "tk": "Aýry adamlarda deňiz önümlerine allergiýa bolup biler.",
+          "tk": "Käbir adamlar deňiz önümlerine allergiýasy bolup biler.",
           "en": "Some individuals may be allergic to seafood.",
           "uz": "Ba'zi odamlar dengiz mahsulotlariga allergiyasi bo'lishi mumkin.",
           "tg": "Баъзе одамон метавонанд ба ғизои баҳрӣ ҳассосият дошта бошанд.",
@@ -912,7 +912,7 @@
       "pos": "v./prefix",
       "explanation": {
         "ru": "«非» — «не быть, не». Пишется как префикс или в конструкции «非……不可» («обязательно»).",
-        "tk": "«非» — «däl». Prefiks ýa-da «非……不可» («hökman») gurluşynda.",
+        "tk": "'非' — 'däl'. Şeýle hem '非……不可' manyda 'hökman' manysynda ulanylýar.",
         "en": "'非' — 'not'. Also in '非……不可' meaning 'must'.",
         "uz": "'非' — 'emas'. Shuningdek, '非……不可' iborasida 'kerak' ma'nosini beradi.",
         "tg": "'非' — 'не'. Инчунин дар '非……不可' маънои 'бояд'-ро дорад.",
@@ -922,7 +922,7 @@
         {
           "zh": "在非语言的交流中，眼睛起着重要的作用。",
           "ru": "В невербальном общении глаза играют важную роль.",
-          "tk": "Dil däl aragatnaşykda gözler möhüm rol oýnaýar.",
+          "tk": "Söz däl aragatnaşykda gözler esasy rol oýnaýar.",
           "en": "In nonverbal communication, eyes play a key role.",
           "uz": "Og'zaki bo'lmagan muloqotda ko'zlar asosiy rol o'ynaydi.",
           "tg": "Дар муоширати ғайривербалӣ чашмҳо нақши калидӣ мебозанд.",
@@ -931,7 +931,7 @@
         {
           "zh": "我们公司的技术部门都是专业人员，非专业人员做服务工作。",
           "ru": "В техническом отделе — профессионалы, непрофессионалы занимаются обслуживанием.",
-          "tk": "Tehniki bölümde hünärmenler, hünärmen däller bolsa hyzmat işi bilen meşgullanýar.",
+          "tk": "Biziň tehniki toparymyz hünärmenler; hünärmen däl adamlar hyzmaty ýerine ýetirýärler.",
           "en": "Our tech team is professionals; non-professionals handle service.",
           "uz": "Bizning texnik jamoamiz mutaxassislardir; nomutaxassislar xizmat ko'rsatish bilan shug'ullanadilar.",
           "tg": "Дастаи техникии мо мутахассисанд; ғайримутахассисон хидматрасонӣ мекунанд.",
@@ -940,7 +940,7 @@
         {
           "zh": "工作日和周末体重的临时变化应该被视为正常现象，而非真正的体重增加。",
           "ru": "Временные колебания веса в рабочие дни и выходные — норма, а не настоящий набор веса.",
-          "tk": "Iş günlerinde we dynç günlerinde agramyň wagtlaýyn üýtgemegi kadaly — hakyky semizlik däl.",
+          "tk": "Wagtlaýyn iş güni/dynç güni agramyň üýtgemegi adaty zat, hakyky agram artmagy däl.",
           "en": "Temporary weekday/weekend weight change is normal, not real weight gain.",
           "uz": "Vaqtinchalik ish kuni/dam olish kuni vazn o'zgarishi normaldir, haqiqiy vazn ortishi emas.",
           "tg": "Тағйири вазни муваққатии рӯзҳои корӣ/истироҳатӣ муқаррарӣ аст, на афзоиши воқеии вазн.",
@@ -949,7 +949,7 @@
         {
           "zh": "成功有时候并非想象中那么难。",
           "ru": "Успех иногда не так труден, как кажется.",
-          "tk": "Üstünlik käte pikir edişiň ýaly kyn däl.",
+          "tk": "Üstünlik käwagt göz öňüne getirilişi ýaly kyn däl.",
           "en": "Success is sometimes not as hard as imagined.",
           "uz": "Muvaffaqiyat ba'zan tasavvur qilinganidek qiyin emas.",
           "tg": "Муваффақият баъзан он қадар душвор нест, ки тасаввур мешавад.",
@@ -958,7 +958,7 @@
         {
           "zh": "他非要离婚，我们谁也拦不住。",
           "ru": "Он во что бы то ни стало хочет развестись — мы не можем его остановить.",
-          "tk": "Ol hökman aýrylyşmak isleýär — hiç birimiz saklap bilemzok.",
+          "tk": "Ol aýrylyşmak isleýär — biz ony saklap bilmeris.",
           "en": "He insists on divorcing — we can't stop him.",
           "uz": "U ajrashishni talab qilmoqda — biz uni to'xtata olmaymiz.",
           "tg": "Ӯ ба талоқ исрор мекунад — мо наметавонем ӯро боздорем.",
@@ -967,7 +967,7 @@
         {
           "zh": "我本不想提这件事，你又何必非要我说出来呢？",
           "ru": "Я не хотел об этом говорить — зачем вынуждаешь?",
-          "tk": "Men bu barada aýtmak islemädim — näme üçin hökman aýtdyrýarsyň?",
+          "tk": "Men muny agzamak islemedim — näme üçin meni mejbur edýärsiňiz?",
           "en": "I didn't want to mention it — why force me?",
           "uz": "Men buni aytishni xohlamadim — nega meni majburlaysiz?",
           "tg": "Ман намехостам онро зикр кунам — чаро маро маҷбур мекунед?",
@@ -976,7 +976,7 @@
         {
           "zh": "有些家长已经习惯了这种竞争，非让自家的孩子考第一名不可。",
           "ru": "Некоторые родители настаивают, чтобы ребёнок был первым.",
-          "tk": "Käbir ene-atalar çagasynyň birinji bolmagyny hökman isleýärler.",
+          "tk": "Käbir ene-atalar çagalarynyň birinji orunda durmagyny isleýärler.",
           "en": "Some parents insist their child rank first.",
           "uz": "Ba'zi ota-onalar farzandining birinchi o'rinni egallashini talab qiladi.",
           "tg": "Баъзе волидон исрор мекунанд, ки фарзанди онҳо ҷои аввалро гирад.",
@@ -985,7 +985,7 @@
         {
           "zh": "补办学生证的事非你本人去不可。",
           "ru": "За дубликатом студенческого должен прийти именно ты.",
-          "tk": "Talyplar şahadatnamasynyň nusgasyny hut özüň almaly.",
+          "tk": "Talyp şahsyýetnamasyny täzeden almak üçin özüňiz gitmeli.",
           "en": "You must personally go for the student ID reissue.",
           "uz": "Talaba guvohnomasini qayta olish uchun shaxsan o'zingiz borishingiz kerak.",
           "tg": "Барои аз нав додани шиносномаи донишҷӯ бояд шахсан худатон равед.",
@@ -994,7 +994,7 @@
         {
           "zh": "这个地方非去不可，太美了。",
           "ru": "Сюда обязательно надо попасть — очень красиво.",
-          "tk": "Bu ýere hökman gitmeli — örän owadan.",
+          "tk": "Bu ýere hökman baryň — bu ajaýyp ýer.",
           "en": "You must visit this place — it's stunning.",
           "uz": "Bu joyga albatta tashrif buyurishingiz kerak — u hayratlanarli.",
           "tg": "Шумо бояд ба ин ҷо ташриф оред — он ҳайратангез аст.",
@@ -1003,7 +1003,7 @@
         {
           "zh": "非工作人员请勿入内。",
           "ru": "Посторонним вход воспрещён.",
-          "tk": "Işgär däller girmesin.",
+          "tk": "Diňe işgärler üçin.",
           "en": "Staff only.",
           "uz": "Faqat xodimlar uchun.",
           "tg": "Танҳо барои кормандон.",
@@ -1117,7 +1117,7 @@
       "word_b": "暂时",
       "common": {
         "ru": "Оба — «на короткий срок».",
-        "tk": "Ikisi hem «gysga wagt üçin».",
+        "tk": "Ikisi hem 'gysga wagt üçin' diýmegi aňladýar.",
         "en": "Both mean 'for a short time'.",
         "uz": "Ikkalasi ham 'qisqa vaqt uchun' ma'nosini bildiradi.",
         "tg": "Ҳарду маънои 'барои вақти кӯтоҳ'-ро доранд.",
@@ -1154,7 +1154,7 @@
         "pinyin": "guàhào",
         "meaning": {
           "ru": "записаться к врачу",
-          "tk": "hat ýazmak",
+          "tk": "hasaba durmak (keselhanada)",
           "en": "to register (at hospital)",
           "uz": "ro'yxatdan o'tish (kasalxonada)",
           "tg": "ба қайд гирифтан (дар беморхона)",
@@ -1166,7 +1166,7 @@
         "pinyin": "jízhěn",
         "meaning": {
           "ru": "скорая помощь",
-          "tk": "gyssagly kömek",
+          "tk": "tiz kömek",
           "en": "emergency",
           "uz": "shoshilinch yordam",
           "tg": "таъҷилӣ",
@@ -1178,7 +1178,7 @@
         "pinyin": "jiùhùchē",
         "meaning": {
           "ru": "скорая",
-          "tk": "tiz kömek maşyny",
+          "tk": "tiz kömek ulagy",
           "en": "ambulance",
           "uz": "tez yordam",
           "tg": "ёрии таъҷилӣ",
@@ -1190,7 +1190,7 @@
         "pinyin": "nèikē",
         "meaning": {
           "ru": "терапия",
-          "tk": "iç keseller bölümi",
+          "tk": "iç keselleri",
           "en": "internal medicine",
           "uz": "ichki kasalliklar",
           "tg": "терапия",
@@ -1238,7 +1238,7 @@
         "pinyin": "xiāohuà",
         "meaning": {
           "ru": "пищеварение",
-          "tk": "iýmit siňdirmek",
+          "tk": "iýmit siňdiriş",
           "en": "digestion",
           "uz": "hazm qilish",
           "tg": "ҳазм",
@@ -1250,7 +1250,7 @@
         "pinyin": "yǎng",
         "meaning": {
           "ru": "чесаться",
-          "tk": "gyjyklamak",
+          "tk": "gyjyşýan",
           "en": "itchy",
           "uz": "qichishadigan",
           "tg": "хоришдор",
@@ -1262,7 +1262,7 @@
         "pinyin": "tù",
         "meaning": {
           "ru": "рвать",
-          "tk": "gussmak",
+          "tk": "gusmak",
           "en": "to vomit",
           "uz": "qusmoq",
           "tg": "қай кардан",
@@ -1274,7 +1274,7 @@
   "application": {
     "discussion": {
       "ru": "Согласны ли вы с фразой «похудеть можно только через диету»? Что эффективнее?",
-      "tk": "«Arryklamak diňe berhiz arkaly bolýar» diýen pikire ylalaşýarsyňyzmy?",
+      "tk": "Agramyň ýitmegi üçin iýmitlenişe üns bermek gerek diýen pikire goşulýarsyňyzmy? Haýsy has täsirli?",
       "en": "Do you agree that weight loss requires dieting? What's more effective?",
       "uz": "Vazn yo'qotish parhezni talab qiladi degan fikrga qo'shilasizmi? Nima samaraliroq?",
       "tg": "Шумо розӣ ҳастед, ки кам кардани вазн парҳезро талаб мекунад? Чӣ бештар самаранок аст?",

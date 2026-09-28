@@ -2,7 +2,7 @@
   "title": {
     "zh": "锯掉生活的「筐底」",
     "ru": "Отпилить «дно корзины» в жизни",
-    "tk": "Durmuşyň «sebet düýbüni» byçgy bilen kesmek",
+    "tk": "Sebediň düýbüni kesmek",
     "en": "Cutting Off the 'Bottom of the Basket'",
     "uz": "Hayot savatining «tubini» arralash",
     "tg": "Буридани «тахти сабад»-и ҳаёт",
@@ -18,7 +18,7 @@
   "warmup": {
     "question": {
       "ru": "Любите ли вы баскетбол? Знаете, как он появился?",
-      "tk": "Basketboly halaýarsyňyzmy? Onuň nähili dörändigini bilýärsiňizmi?",
+      "tk": "Basketboly halaýarmyňyz? Onuň nähili başlanandygyny bilýärmiňizmi?",
       "en": "Do you like basketball? Do you know how it began?",
       "uz": "Basketbolni yoqtirasizmi? U qanday boshlanganini bilasizmi?",
       "tg": "Баскетболро дӯст медоред? Медонед, ки он чӣ тавр оғоз ёфтааст?",
@@ -48,7 +48,7 @@
       "pos": "v./n.",
       "meaning": {
         "ru": "пилить; пила",
-        "tk": "byçgy bilen kesmek; byçgy",
+        "tk": "pylamak; pyçgy",
         "en": "to saw; saw",
         "uz": "arralamoq; arra",
         "tg": "дидан; арра",
@@ -74,7 +74,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "тренировать(ся)",
-        "tk": "maşk etmek",
+        "tk": "türgenleşmek",
         "en": "to train",
         "uz": "mashq qilmoq",
         "tg": "машқ кардан",
@@ -100,7 +100,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "пункт, проект",
-        "tk": "bölüm, taslama",
+        "tk": "zat, taslama",
         "en": "item, project",
         "uz": "element, loyiha",
         "tg": "банд, лоиҳа",
@@ -126,7 +126,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "класть, помещать",
-        "tk": "goýmak",
+        "tk": "ýüklemek",
         "en": "to load",
         "uz": "yuklamoq",
         "tg": "бор кардан",
@@ -139,7 +139,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "вдохновлять",
-        "tk": "ylham bermek",
+        "tk": "ruhlandyrmak",
         "en": "to inspire",
         "uz": "ilhomlantirmoq",
         "tg": "илҳом бахшидан",
@@ -217,7 +217,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "бросать в кольцо",
-        "tk": "sebede top atmak",
+        "tk": "atmak (basketbol)",
         "en": "to shoot (a basket)",
         "uz": "savatga tashlash",
         "tg": "партофтан (ба сабад)",
@@ -269,7 +269,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "с перерывами",
-        "tk": "arakesmeli",
+        "tk": "arakesme",
         "en": "intermittent",
         "uz": "uzluksiz",
         "tg": "давомнок",
@@ -308,7 +308,7 @@
       "pos": "conj.",
       "meaning": {
         "ru": "тем более",
-        "tk": "hatda",
+        "tk": "goý, hatda",
         "en": "let alone",
         "uz": "u yoqda tursin",
         "tg": "чӣ расад ба",
@@ -321,7 +321,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "болельщик",
-        "tk": "janköýer",
+        "tk": "top oýny muşdagy",
         "en": "ball-game fan",
         "uz": "to'p o'yini muxlisi",
         "tg": "мухлиси бозии тӯб",
@@ -360,7 +360,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "гладкий",
-        "tk": "rowan",
+        "tk": "tekiz",
         "en": "smooth",
         "uz": "silliq",
         "tg": "ҳамвор",
@@ -399,7 +399,7 @@
       "pos": "adv.",
       "meaning": {
         "ru": "зачем, к чему",
-        "tk": "näme üçin, näme gerek",
+        "tk": "näme üçin kynsanyp ýörmeli",
         "en": "why bother",
         "uz": "nega ovora bo'lish kerak",
         "tg": "чаро ранҷур шудан",
@@ -412,7 +412,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "благодаря",
-        "tk": "sagbolsun",
+        "tk": "säbäpli",
         "en": "thanks to",
         "uz": "tufayli",
         "tg": "ба шарофати",
@@ -425,7 +425,7 @@
       "pos": "adv.",
       "meaning": {
         "ru": "поспешно",
-        "tk": "desse",
+        "tk": "derrew",
         "en": "promptly",
         "uz": "darhol",
         "tg": "дарҳол",
@@ -451,7 +451,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "мучить, донимать",
-        "tk": "alada goýmak",
+        "tk": "biynjalyk etmek",
         "en": "to trouble",
         "uz": "bezovta qilmoq",
         "tg": "бало кардан",
@@ -464,7 +464,7 @@
       "pos": "n./v.",
       "meaning": {
         "ru": "мышление",
-        "tk": "pikirleniş",
+        "tk": "pikir etmek",
         "en": "thinking",
         "uz": "o'ylash",
         "tg": "фикр кардан",
@@ -477,7 +477,7 @@
       "pos": "adj./v.",
       "meaning": {
         "ru": "тупой, остолбенелый",
-        "tk": "haýran",
+        "tk": "peti; durgunlaşmak",
         "en": "dull; to stagnate",
         "uz": "zerikarli; turg'unlik",
         "tg": "кундра; рукуд кардан",
@@ -490,7 +490,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "вызывать",
-        "tk": "döretmek",
+        "tk": "sebäp bolmak",
         "en": "to cause",
         "uz": "sabab bo'lmoq",
         "tg": "сабаб шудан",
@@ -503,7 +503,7 @@
       "pos": "adv./v.",
       "meaning": {
         "ru": "словно",
-        "tk": "ýaly",
+        "tk": "ýaly bolup",
         "en": "as if",
         "uz": "go'yo",
         "tg": "гуё",
@@ -530,7 +530,7 @@
       "pos": "conj.",
       "explanation": {
         "ru": "«何况» — «тем более, что уж говорить о…». Усиливает во второй части.",
-        "tk": "«何况» — «hatda,... barada aýtsaň».",
+        "tk": "'何况' 'goý, üstesine-de' diýmegi aňladýar.",
         "en": "'何况' means 'let alone, what's more'.",
         "uz": "'何况' 'qolaversa, bundan tashqari' degan ma'noni bildiradi.",
         "tg": "'何况' маънои 'чи тавр, боз ҳам' дорад.",
@@ -540,7 +540,7 @@
         {
           "zh": "缺少了激烈紧张的气氛，连运动员都不满意，更何况看比赛的球迷呢？",
           "ru": "Не хватало напряжения — даже игроки были недовольны, что уж говорить о болельщиках!",
-          "tk": "Dartgynlyk ýok boldy — hatda oýunçylar nägile boldular, janköýerler barada aýtsaň näme!",
+          "tk": "Dartgynlylyk bolmasa, hatda oýunçylar hem göwnühoş bolmady, muşdaklar nähili bolsun!",
           "en": "Without tension, even the players were unhappy, let alone the fans!",
           "uz": "Zo'riqishsiz, hatto o'yinchilar ham norozi edi, muxlislar u yoqda tursin!",
           "tg": "Бе шиддат, ҳатто бозигарон норизо буданд, то дараҷае ки мухлисон!",
@@ -549,7 +549,7 @@
         {
           "zh": "北京的发展变化太快，我这个土生土长的老北京还常迷路呢，何况你一个外地人。",
           "ru": "Пекин меняется так быстро, что я, коренной житель, часто теряюсь, что уж говорить о приезжем.",
-          "tk": "Pekin şeýle çalt üýtgeýär welin, men ýerli bolsam-da ýitirip galýaryn, gelen adamy aýtsaň näme.",
+          "tk": "Pekin şeýle çalt üýtgeýär welin, hatda men, ýerli ýaşaýjy, köplenç ýitirýärin — myhman nähili bolsun.",
           "en": "Beijing changes so fast that even I, a native, often get lost — let alone a visitor.",
           "uz": "Pekin shunchalik tez o'zgaryaptiki, hatto men, mahalliy bo'lsam ham, tez-tez adashib qolaman — mehmonga aytmasa ham bo'ladi.",
           "tg": "Пекин ба қадар тез тағйир меёбад, ки ҳатто ман, ки дар ин ҷо таваллуд шудаам, аксар вақт гум мешавам — то дараҷае ки меҳмон.",
@@ -558,7 +558,7 @@
         {
           "zh": "这辆车外观漂亮，安全性高，又何况价钱也就比上次看的那辆贵了几千块，小王有点儿动心了。",
           "ru": "Машина красивая, безопасная, да и цена всего на пару тысяч выше — Сяо Ван заинтересовался.",
-          "tk": "Maşyn owadan, howpsuz, hem-de bahasy öňki görenimizden birnäçe müň gymmat — Sýao Wan gyzyklandy.",
+          "tk": "Maşyn owadan we howpsuz — hem-de bary-ýogy birnäçe müň gymmat — Sýao Wan gyzyklandy.",
           "en": "The car is nice and safe — and only a few thousand pricier — Xiao Wang became interested.",
           "uz": "Mashina yaxshi va xavfsiz — va faqat bir necha ming qimmatroq — Syao Van qiziqib qoldi.",
           "tg": "Мошин хуб ва бехатар аст — ва танҳо чанд ҳазор қиматтар — Сяо Ван шавқманд шуд.",
@@ -567,7 +567,7 @@
         {
           "zh": "上海冬天没有暖气，屋子里冷得让人伸不出手，何况李阳还是病人，自然是受不了的。",
           "ru": "В Шанхае зимой нет отопления — холодно, руки не вытащишь, а Ли Ян ещё и больной — ему особенно тяжело.",
-          "tk": "Şanhaýda gyşyn ýyladyş ýok — elleriňi çykaryp bolmaýar, Li Ýan hem syrkaw — oňa aýratyn agyr.",
+          "tk": "Şanhaýda gyşda merkezi ýyladyş ýok — doňdurýan sowuk, Li Ýang hem syrkaw — aýratyn kyn.",
           "en": "Shanghai has no central heating in winter — freezing cold, and Li Yang is sick — especially hard.",
           "uz": "Shanxayda qishda markaziy isitish yo'q — muzdek sovuq, va Li Yang kasal — ayniqsa qiyin.",
           "tg": "Шанхай дар зимистон гармии марказӣ надорад — хунукии яхкунанда, ва Ли Ян бемор аст — махсусан душвор.",
@@ -576,7 +576,7 @@
         {
           "zh": "这段山路比较危险，何况天快黑了，还是让我来开吧。",
           "ru": "Эта горная дорога опасна, и темнеет — давай я поведу.",
-          "tk": "Bu dag ýoly howply, hem garaňky düşýär — men sürerin.",
+          "tk": "Bu dag ýoly howply, hem garaňkylaýar — maňa sürmäge rugsat ber.",
           "en": "This mountain road is dangerous, and it's getting dark — let me drive.",
           "uz": "Bu tog' yo'li xavfli, ustiga qorong'i tushmoqda — ruxsat bering, men haydayman.",
           "tg": "Ин роҳи кӯҳӣ хатарнок аст, ва торик мешавад — бигзор ман ронда кунам.",
@@ -585,7 +585,7 @@
         {
           "zh": "大人都容易犯错，何况是孩子呢？",
           "ru": "Даже взрослые легко ошибаются — что уж о детях.",
-          "tk": "Ulylar hem aňsat ýalňyşýar — çagalar barada aýtsaň näme.",
+          "tk": "Hatda ulular hem aňsatlyk bilen ýalňyşýarlar — çagalar nätjek.",
           "en": "Even adults easily make mistakes — let alone children.",
           "uz": "Hatto kattalar ham osonlikcha xato qiladi — bolalar-chi, u yoqda tursin.",
           "tg": "Ҳатто калонсолон ба осонӣ хато мекунанд — то дараҷае ки кӯдакон.",
@@ -594,7 +594,7 @@
         {
           "zh": "妈妈都劝不动他，更何况我呢？",
           "ru": "Даже мама его не уговорила — что уж говорить обо мне.",
-          "tk": "Ejesi-de ynandyryp bilmedi — men barada aýtsaň näme.",
+          "tk": "Hatda ejesi hem ony ynandyryp bilmedi — men nätjek.",
           "en": "Even his mother couldn't persuade him — let alone me.",
           "uz": "Hatto onasi ham uni ko'ndira olmadi — men-chi, u yoqda tursin.",
           "tg": "Ҳатто модари ӯ натавонист ӯро бовар кунонад — то дараҷае ки ман.",
@@ -603,7 +603,7 @@
         {
           "zh": "这么难的题，老师都要想半天，何况我们呢。",
           "ru": "Такая сложная задача — даже учитель думает долго, что уж говорить о нас.",
-          "tk": "Şeýle kyn mesele — mugallym hem uzak oýlanýar, biz barada aýtsaň näme.",
+          "tk": "Şeýle kyn mesele — hatda mugallym hem uzak oýlanýar, biz nätjek.",
           "en": "Such a hard problem — even the teacher ponders long, let alone us.",
           "uz": "Shunday qiyin masala — hatto o'qituvchi ham uzoq o'ylaydi, biz-chi, u yoqda tursin.",
           "tg": "Чунин масъалаи душвор — ҳатто муаллим ба муддати тӯлонӣ фикр мекунад, то мо чӣ гунаем.",
@@ -612,7 +612,7 @@
         {
           "zh": "大人都会犯错，何况孩子。",
           "ru": "Даже взрослые ошибаются — что уж о детях.",
-          "tk": "Ulylar hem ýalňyşýar — çagalar barada aýtsaň näme.",
+          "tk": "Hatda ulular hem ýalňyşýarlar — çagalar nätjek.",
           "en": "Even adults make mistakes — let alone children.",
           "uz": "Hatto kattalar ham xato qiladi — bolalar-chi, u yoqda tursin.",
           "tg": "Ҳатто калонсолон хато мекунанд — то кӯдакон чӣ гунаанд.",
@@ -621,7 +621,7 @@
         {
           "zh": "这么远的路我走不动，何况还下着雨。",
           "ru": "Такой путь мне не осилить, тем более под дождём.",
-          "tk": "Beýle uzak ýoly men ýöräp bilemok, hem ýagýar.",
+          "tk": "Men beýle aralygy ýöräp bilmerin — esasanam ýagyşda.",
           "en": "I can't walk such a distance — especially in the rain.",
           "uz": "Men bunday masofani yura olmayman — ayniqsa yomg'irda.",
           "tg": "Ман чунин масофаро пиёда рафта наметавонам — хусусан дар борон.",
@@ -697,7 +697,7 @@
       "pos": "adv.",
       "explanation": {
         "ru": "«何必» — «зачем, к чему». В риторическом вопросе — «не стоит».",
-        "tk": "«何必» — «näme gerek, näme üçin». Ritoriki soragda «zerur däl».",
+        "tk": "'何必' 'näme üçin kynsynamaly' diýmegi aňladýar. Ritoriki — 'zerurlyk ýok'.",
         "en": "'何必' means 'why bother'. Rhetorical — 'no need'.",
         "uz": "'何必' 'nega ovora bo'lish kerak' degani. Ritorik — 'hojat yo'q'.",
         "tg": "'何必' маънои 'чаро заҳмат кашидан' дорад. Саволӣ — 'ҳоҷат нест'.",
@@ -707,7 +707,7 @@
         {
           "zh": "何必这么麻烦呢？把篮筐的底去掉不就行了吗？",
           "ru": "Зачем так мучиться? Разве нельзя просто отпилить дно корзины?",
-          "tk": "Beýle kynçylyk näme üçin? Sebediň düýbüni kesip taşlasa bolmaýarmy?",
+          "tk": "Näme üçin kynsynamaly? Aşagyny kesip aýyryp bilmersiňmi?",
           "en": "Why bother? Can't you just saw off the bottom?",
           "uz": "Nega ovora bo'lasiz? Pastki qismini arralab tashlasangiz bo'lmaydimi?",
           "tg": "Чаро ин қадар заҳмат кашем? Оё шумо наметавонед танҳо поёни онро буред?",
@@ -716,7 +716,7 @@
         {
           "zh": "食堂楼下就有个小超市，何必去学校外边呢？",
           "ru": "Под столовой есть магазин — зачем идти за пределы школы?",
-          "tk": "Naharhananyň aşagynda dükan bar — mekdebiň daşyna gitmek näme üçin?",
+          "tk": "Kafeteriýanyň aşagynda dükan bar — näme üçin uniwersitetden daşary gitmeli?",
           "en": "There's a store under the cafeteria — why go off campus?",
           "uz": "Oshxona ostida do'kon bor — nega kampusdan tashqariga chiqasiz?",
           "tg": "Дар зери ошхона мағоза ҳаст — чаро аз донишгоҳ берун рафтан лозим аст?",
@@ -725,7 +725,7 @@
         {
           "zh": "你何必亲自送一趟呢？叫个快递不就行了？",
           "ru": "Зачем самому ехать? Вызови курьера.",
-          "tk": "Näme üçin özüň ýöreýärsiň? Kýurýer çagyr.",
+          "tk": "Näme üçin özüň gitmeli? Kuriýer çagyr.",
           "en": "Why go yourself? Call a courier.",
           "uz": "Nega o'zingiz borasiz? Kuryer chaqiring.",
           "tg": "Чаро худатон равед? Курьерро даъват кунед.",
@@ -734,7 +734,7 @@
         {
           "zh": "早知道你就有这本书，我何必去买呢。",
           "ru": "Знал бы, что у тебя есть эта книга — зачем бы покупал.",
-          "tk": "Bu kitapyň bardygyny bilenimde, näme üçin satyn alardym.",
+          "tk": "Bu kitabyň bardygyny bilenimde, ony satyn almazdym.",
           "en": "Had I known you had this book, I wouldn't have bought it.",
           "uz": "Bu kitobingiz borligini bilganimda, uni sotib olmagan bo'lardim.",
           "tg": "Агар медонастам, ки шумо ин китобро доред, ман онро намехаридам.",
@@ -743,7 +743,7 @@
         {
           "zh": "既然她已经拒绝了你，你何必再追呢？",
           "ru": "Раз она тебе отказала — зачем навязываться?",
-          "tk": "Ol saňa ret berensoň, yzyndan gitmegiň näme gerek?",
+          "tk": "Ol seni ret edensoň, näme üçin yzyndan kowýarsyň?",
           "en": "Since she turned you down, why keep chasing?",
           "uz": "U sizni rad etganidan keyin, nega orqasidan quvishda davom etasiz?",
           "tg": "Азбаски вай шуморо рад кард, чаро боз таъқиб кунед?",
@@ -752,7 +752,7 @@
         {
           "zh": "为这点小事儿生气，何必呢？",
           "ru": "Из-за такой мелочи злиться — к чему?",
-          "tk": "Beýle ownuk üçin gaharlanmak — näme gerek?",
+          "tk": "Şeýle ownuk zada gaharlanmak — näme üçin özüňi biynjalyk edýärsiň?",
           "en": "Getting angry over such a trifle — why bother?",
           "uz": "Bunday arzimas narsa uchun jahli chiqish — nega bezovta bo'lasiz?",
           "tg": "Барои чунин чизҳои хурд хашмгин шудан — барои чӣ?",
@@ -761,7 +761,7 @@
         {
           "zh": "你何必跟他一般见识？",
           "ru": "Зачем с ним связываться?",
-          "tk": "Onuň bilen näme üçin işiň bar?",
+          "tk": "Näme üçin onuň derejesine düşýärsiň?",
           "en": "Why stoop to his level?",
           "uz": "Nega uning darajasiga tushasiz?",
           "tg": "Чаро ба дараҷаи ӯ фуромадан лозим?",
@@ -770,7 +770,7 @@
         {
           "zh": "事情都过去了，何必再提？",
           "ru": "Всё прошло — к чему вспоминать?",
-          "tk": "Iş geçdi — ýatlamagyň näme gerek?",
+          "tk": "Gutardy — näme üçin ýene ýatlarsyň?",
           "en": "It's over — why bring it up?",
           "uz": "Tugadi — nega buni yana ko'tarasiz?",
           "tg": "Тамом шуд — барои чӣ онро ба миён овардан?",
@@ -779,7 +779,7 @@
         {
           "zh": "这么近，何必打车呢，走路就行。",
           "ru": "Так близко — зачем такси, пешком.",
-          "tk": "Şeýle ýakyn — taksiniň näme gerek, pyýada git.",
+          "tk": "Örän ýakyn — näme üçin taksi tutýarsyň, ýöne ýöräber.",
           "en": "So close — why take a taxi, just walk.",
           "uz": "Juda yaqin — nega taksi olasiz, piyoda yuring.",
           "tg": "Хеле наздик — барои чӣ таксӣ гирифтан, пиёда рав.",
@@ -788,7 +788,7 @@
         {
           "zh": "你已经道歉了，又何必自责呢？",
           "ru": "Ты уже извинился — к чему себя винить?",
-          "tk": "Ötünç soradyň — özüňi näme üçin günäkärleýärsiň?",
+          "tk": "Sen eýýäm ötünç soradyň — näme üçin özüňi günäkärleýärsiň?",
           "en": "You already apologized — why blame yourself?",
           "uz": "Siz allaqachon kechirim so'radingiz — nega o'zingizni ayblaysiz?",
           "tg": "Ту аллакай узр пурсидӣ — барои чӣ худро айбдор мекунӣ?",
@@ -862,7 +862,7 @@
       "pos": "v.",
       "explanation": {
         "ru": "«多亏» — «благодаря кому-то/чему-то». Подчёркивает удачное стечение обстоятельств.",
-        "tk": "«多亏» — «sagbolsun».",
+        "tk": "'Çok sag bol' (birine/bir zada) 'sag bolsun' diýmegi aňladýar.",
         "en": "'多亏' means 'thanks to (sb/sth)'.",
         "uz": "'多亏' 'rahmat (kimga/nimaga)' degan ma'noni bildiradi.",
         "tg": "'多亏' маънои 'шарофати (касе/чизе)' дорад.",
@@ -872,7 +872,7 @@
         {
           "zh": "多亏了他这句话，人们如梦初醒。",
           "ru": "Благодаря его словам люди словно очнулись.",
-          "tk": "Onuň bu sözi sagbolsun, adamlar huşuna geldiler.",
+          "tk": "Onuň sözleri sebäpli adamlar oýandylar.",
           "en": "Thanks to his words, people woke up.",
           "uz": "Uning so'zlari tufayli odamlar uyg'ondi.",
           "tg": "Ба шарофати суханони ӯ, мардум бедор шуданд.",
@@ -881,7 +881,7 @@
         {
           "zh": "赵老师，谢谢您，多亏您给我那瓶药，很管用。",
           "ru": "Учитель Чжао, спасибо — благодаря вашему лекарству мне стало лучше.",
-          "tk": "Çžao mugallym, sag boluň — beren dermanyňyz sagbolsun, gaty peýdaly boldy.",
+          "tk": "Zhao mugallym, sag boluň — şol derman hakykatdan-da kömek etdi.",
           "en": "Teacher Zhao, thanks — that medicine really helped.",
           "uz": "Zhao o'qituvchi, rahmat — o'sha dori haqiqatan yordam berdi.",
           "tg": "Устод Чжао, ташаккур — он дору воқеан кӯмак кард.",
@@ -890,7 +890,7 @@
         {
           "zh": "今天搬家多亏有你在，你可帮我大忙了。",
           "ru": "Сегодня с переездом благодаря тебе — ты очень помог.",
-          "tk": "Bu gün göçmekde seniň bardygyň sagbolsun — köp kömek etdiň.",
+          "tk": "Şu gün göçmäge gelip kömek edeniňiz üçin sag boluň — siz gaty uly kömek etdiňiz.",
           "en": "Thanks to you being here for the move today — you were a huge help.",
           "uz": "Bugun ko'chishda shu yerda bo'lganingiz uchun rahmat — siz juda katta yordam berdingiz.",
           "tg": "Ташаккур барои он ки имрӯз ҳангоми кӯчидан дар ин ҷо будӣ — ту кӯмаки калон кардӣ.",
@@ -899,7 +899,7 @@
         {
           "zh": "多亏你提醒，要不然我就忘了。",
           "ru": "Спасибо, что напомнил — иначе бы забыл.",
-          "tk": "Ýatladanyň sagbolsun — ýogsam ýatdan çykarardym.",
+          "tk": "Ýatlatanyňyz üçin sag boluň — ýogsam ýatdan çykarardym.",
           "en": "Thanks for the reminder — otherwise I'd forget.",
           "uz": "Eslatganingiz uchun rahmat — aks holda unutib qo'yardim.",
           "tg": "Ташаккур барои ёдрасӣ — вагарна ман фаромӯш мекардам.",
@@ -908,7 +908,7 @@
         {
           "zh": "多亏带伞了，否则会被淋湿。",
           "ru": "Хорошо, что взял зонт — иначе промок бы.",
-          "tk": "Saýawan alanym gowy boldy — ýogsam öl-ýagyp galardym.",
+          "tk": "Bir saýawan alanym gowy boldy — ýogsam örän çyg bolardym.",
           "en": "Good thing I brought an umbrella — otherwise I'd be soaked.",
           "uz": "Yaxshi bo'ldi soyabon olganim — aks holda ho'l bo'lardim.",
           "tg": "Хуб шуд, ки чатр гирифтам — вагарна ман тар мешудам.",
@@ -917,7 +917,7 @@
         {
           "zh": "多亏医生及时抢救，他才脱离了危险。",
           "ru": "Благодаря своевременной помощи врачей он избежал опасности.",
-          "tk": "Lukmanlaryň dessine kömegi sagbolsun, ol howpdan gutuldy.",
+          "tk": "Lukmanlaryň öz wagtynda kömegi bilen ol howpdan gutuldy.",
           "en": "Thanks to the doctors' timely help, he escaped danger.",
           "uz": "Shifokorlarning o'z vaqtida yordami tufayli u xavfdan qutuldi.",
           "tg": "Ба шарофати кӯмаки саривақтии духтурон, ӯ аз хатар раҳо ёфт.",
@@ -926,7 +926,7 @@
         {
           "zh": "多亏你告诉我这件事，否则我会上当。",
           "ru": "Хорошо, что ты сказал — иначе я бы попался.",
-          "tk": "Bu zady maňa aýdanyň gowy boldy — ýogsam aldanyp galardym.",
+          "tk": "Maňa aýtanyňyz gowy boldy — ýogsam aldanyp galardym.",
           "en": "Good you told me — I'd have been cheated.",
           "uz": "Aytganingiz yaxshi bo'ldi — aldanib qolardim.",
           "tg": "Хуб шуд, ки ба ман гуфтед — вагарна маро фиреб медоданд.",
@@ -935,7 +935,7 @@
         {
           "zh": "多亏邻居帮忙，我们才搬完家。",
           "ru": "Только благодаря помощи соседей мы переехали.",
-          "tk": "Goňşularyň kömegi sagbolsun, biz göçüp gutardyk.",
+          "tk": "Goňşularyň kömegi bilen göçmegi tamamladýk.",
           "en": "Thanks to the neighbors' help, we finished moving.",
           "uz": "Qo'shnilarning yordami tufayli ko'chishni tugatdik.",
           "tg": "Ба шарофати кӯмаки ҳамсояҳо, мо кӯчиданро ба анҷом расондем.",
@@ -944,7 +944,7 @@
         {
           "zh": "多亏有网络，我们才能随时联系。",
           "ru": "Только благодаря интернету мы всегда на связи.",
-          "tk": "Internet sagbolsun, biz hemişe habarlaşyp bilýäris.",
+          "tk": "Internetiň kömegi bilen hemişe aragatnaşykda bolup bilýäris.",
           "en": "Thanks to the internet, we can always stay in touch.",
           "uz": "Internet tufayli biz doimo aloqada bo'la olamiz.",
           "tg": "Ба шарофати интернет, мо ҳамеша дар тамос буда метавонем.",
@@ -953,7 +953,7 @@
         {
           "zh": "多亏老师耐心讲解，我才听懂。",
           "ru": "Благодаря терпеливому объяснению учителя я понял.",
-          "tk": "Mugallymyň sabyrly düşündirişi sagbolsun, düşündim.",
+          "tk": "Mugallymyň sabyry bilen düşündim.",
           "en": "Thanks to the teacher's patience, I understood.",
           "uz": "O'qituvchining sabri tufayli men tushundim.",
           "tg": "Ба шарофати сабри муаллим, ман фаҳмидам.",
@@ -1066,7 +1066,7 @@
       "word_b": "强烈",
       "common": {
         "ru": "Оба — «сильный, интенсивный».",
-        "tk": "Ikisi hem «güýçli».",
+        "tk": "Ikisi hem 'güýçli, ýiti' diýmegi aňladýar.",
         "en": "Both mean 'strong, intense'.",
         "uz": "Ikkalasi ham 'kuchli, shiddatli' ma'nosini bildiradi.",
         "tg": "Ҳарду маънои 'қавӣ, шиддатнок'-ро доранд.",
@@ -1103,7 +1103,7 @@
         "pinyin": "tàijíquán",
         "meaning": {
           "ru": "тайцзицюань",
-          "tk": "taýtsziçýuan",
+          "tk": "Taý-Çi",
           "en": "Tai Chi",
           "uz": "Tay Chi",
           "tg": "Тай Чи",
@@ -1127,7 +1127,7 @@
         "pinyin": "wǔshù",
         "meaning": {
           "ru": "ушу",
-          "tk": "uşu",
+          "tk": "söweş sungaty",
           "en": "martial arts",
           "uz": "jang san'ati",
           "tg": "ҳунарҳои размӣ",
@@ -1139,7 +1139,7 @@
         "pinyin": "jìlù",
         "meaning": {
           "ru": "рекорд",
-          "tk": "rekord",
+          "tk": "ýazgy",
           "en": "record",
           "uz": "yozib olmoq",
           "tg": "рекорд",
@@ -1151,7 +1151,7 @@
         "pinyin": "xiàngqí",
         "meaning": {
           "ru": "шахматы (китайские)",
-          "tk": "şaňmat",
+          "tk": "Hytaý küştü",
           "en": "Chinese chess",
           "uz": "Xitoy shaxmati",
           "tg": "шатранҷи чинӣ",
@@ -1211,7 +1211,7 @@
   "application": {
     "discussion": {
       "ru": "Каким спортом вы занимаетесь? Что он даёт вам?",
-      "tk": "Haýsy sport bilen meşgullanýarsyňyz? Size näme berýär?",
+      "tk": "Haýsy sport bilen meşgullanýarsyň? Ol saňa nämäni berýär?",
       "en": "What sport do you do? What does it give you?",
       "uz": "Qaysi sport turi bilan shug'ullanasiz? Bu sizga nima beradi?",
       "tg": "Шумо кадом варзишро анҷом медиҳед? Он ба шумо чӣ медиҳад?",

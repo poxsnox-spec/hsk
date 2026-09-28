@@ -2,7 +2,7 @@
   "title": {
     "zh": "北京的四合院",
     "ru": "Пекинские сыхэюани",
-    "tk": "Pekiniň syheýuanlary",
+    "tk": "Pekin dörtburç howlylary",
     "en": "Beijing Quadrangle Courtyards",
     "uz": "Pekin sixeyuanlari",
     "tg": "Сихэюанҳои Пекин",
@@ -18,7 +18,7 @@
   "warmup": {
     "question": {
       "ru": "Какие здания на картинках вы знаете?",
-      "tk": "Suratlardaky jaýlardan haýsysyny bilýärsiňiz?",
+      "tk": "Suratlardaky haýsy binalary bilýärsiňiz?",
       "en": "Which buildings in the pictures do you know?",
       "uz": "Rasmlardagi qaysi binolarni bilasiz?",
       "tg": "Кадом биноҳоро дар расмҳо медонед?",
@@ -48,7 +48,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "сыхэюань (четырёхдворный дом)",
-        "tk": "syheýuan",
+        "tk": "dörtburç howly",
         "en": "quadrangle courtyard",
         "uz": "to'rtburchak hovli",
         "tg": "ҳавлии чоркунҷа",
@@ -87,7 +87,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "здание, архитектура",
-        "tk": "binagärlik",
+        "tk": "bina",
         "en": "building",
         "uz": "bino",
         "tg": "бино",
@@ -126,7 +126,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "квадратный",
-        "tk": "inedördül",
+        "tk": "kwadrat",
         "en": "square",
         "uz": "kvadrat",
         "tg": "майдон",
@@ -165,7 +165,7 @@
       "pos": "n./v.",
       "meaning": {
         "ru": "представлять",
-        "tk": "wekillik etmek",
+        "tk": "aňlatmak",
         "en": "to represent",
         "uz": "ifodalamoq",
         "tg": "намояндагӣ кардан",
@@ -178,7 +178,7 @@
       "pos": "adv.",
       "meaning": {
         "ru": "обычно",
-        "tk": "adatça",
+        "tk": "adaty ýagdaýda",
         "en": "usually",
         "uz": "odatda",
         "tg": "одатан",
@@ -191,7 +191,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "стоять рядом",
-        "tk": "bir hatarda durmak",
+        "tk": "ýanyňda durmak",
         "en": "to stand side by side",
         "uz": "yonma-yon turmoq",
         "tg": "паҳлӯи ҳам истодан",
@@ -204,7 +204,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "образовывать",
-        "tk": "emele getirmek",
+        "tk": "düzmek",
         "en": "to constitute",
         "uz": "tashkil etmoq",
         "tg": "ташкил додан",
@@ -217,7 +217,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "старшие родственники",
-        "tk": "uly ýaşlylar",
+        "tk": "uly agza",
         "en": "senior member",
         "uz": "katta a'zo",
         "tg": "аъзои калонсол",
@@ -256,7 +256,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "вести быт",
-        "tk": "durmuş ýöretmek",
+        "tk": "gündelik durmuş",
         "en": "daily life",
         "uz": "kundalik hayot",
         "tg": "ҳаёти ҳаррӯза",
@@ -269,7 +269,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "принимать (гостей)",
-        "tk": "kabul etmek",
+        "tk": "almak",
         "en": "to receive",
         "uz": "olmoq",
         "tg": "гирифтан",
@@ -295,7 +295,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "боковой флигель",
-        "tk": "gapdal jaý",
+        "tk": "ganat otagy",
         "en": "wing room",
         "uz": "yon xona",
         "tg": "болохона",
@@ -360,7 +360,7 @@
       "pos": "conj.",
       "meaning": {
         "ru": "а, зато (сравн.)",
-        "tk": "emma, bolsa",
+        "tk": "bolsa (garşylyk)",
         "en": "while (contrast)",
         "uz": "holbuki (qarama-qarshilik)",
         "tg": "дар ҳоле ки (муқобилат)",
@@ -399,7 +399,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "уют, интерес к жизни",
-        "tk": "lezzet",
+        "tk": "jady, gyzyklanma",
         "en": "charm, interest",
         "uz": "joziba, qiziqish",
         "tg": "ҷаззобӣ, шавқ",
@@ -412,7 +412,7 @@
       "pos": "conj.",
       "meaning": {
         "ru": "поэтому",
-        "tk": "şeýlelik bilen",
+        "tk": "şonuň üçin",
         "en": "therefore",
         "uz": "shuning uchun",
         "tg": "бинобар ин",
@@ -425,7 +425,7 @@
       "pos": "prep.",
       "meaning": {
         "ru": "быть, считаться",
-        "tk": "bolmak",
+        "tk": "bolmak (passiw belligi)",
         "en": "to be (passive marker)",
         "uz": "bo‘lmoq (majhul nisbat belgisi)",
         "tg": "будан (нишонаи маҷҳул)",
@@ -464,7 +464,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "общаться",
-        "tk": "aragatnaşyk etmek",
+        "tk": "aragatnaşyk saklamak",
         "en": "to make contact",
         "uz": "aloqa qilmoq",
         "tg": "тамос гирифтан",
@@ -477,7 +477,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "жизнь, дни",
-        "tk": "durmuş",
+        "tk": "durmuş, günler",
         "en": "life, days",
         "uz": "hayot, kunlar",
         "tg": "ҳаёт, рӯзҳо",
@@ -490,7 +490,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "полный, достаточный",
-        "tk": "doly",
+        "tk": "ýeterlik",
         "en": "ample",
         "uz": "keng",
         "tg": "фаровон",
@@ -503,7 +503,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "заставлять (книжн.)",
-        "tk": "etdirmek",
+        "tk": "etmek, sebäp bolmak",
         "en": "to make, cause",
         "uz": "qilmoq, sabab bo'lmoq",
         "tg": "сохтан, ба вуҷуд овардан",
@@ -516,7 +516,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "близкий, тёплый",
-        "tk": "mähirli",
+        "tk": "ýyly, mähirli",
         "en": "warm, cordial",
         "uz": "iliq, samimiy",
         "tg": "гарм, самимӣ",
@@ -555,7 +555,7 @@
       "pos": "n./adj.",
       "meaning": {
         "ru": "противоречие",
-        "tk": "gapma-garşylyk",
+        "tk": "konflikt",
         "en": "conflict",
         "uz": "mojaro",
         "tg": "низо",
@@ -568,7 +568,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "густой, глубокий",
-        "tk": "goýy",
+        "tk": "güýçli, çuň",
         "en": "strong, deep",
         "uz": "kuchli, chuqur",
         "tg": "қавӣ, амиқ",
@@ -582,7 +582,7 @@
       "pos": "adj.",
       "explanation": {
         "ru": "«所谓» — «так называемый». Часто перед пояснением термина; иногда с иронией.",
-        "tk": "«所谓» — «atlandyrylýan». Köplenç adalgany düşündirmek üçin; käte degişme bilen.",
+        "tk": "'Sözde' — 'sözde'. Bir termini düşündirmekden öň ulanylýar; käte degişme manyly.",
         "en": "'所谓' — 'so-called'. Used before explaining a term; sometimes ironic.",
         "uz": "'所谓' — 'go'yo'. Atamani tushuntirishdan oldin ishlatiladi; ba'zan kinoya bilan.",
         "tg": "'所谓' — 'ба ном'. Пеш аз шарҳи истилоҳ истифода мешавад; баъзан мазҳакаомез.",
@@ -592,7 +592,7 @@
         {
           "zh": "所谓四合，「四」指东、西、南、北四面，「合」就是四面房屋围在一起。",
           "ru": "Так называемое «сыхэ»: «сы» — четыре стороны — восток, запад, юг, север; «хэ» — смыкаться.",
-          "tk": "Atlandyrylýan «syhe»: «sy» — dört tarap — gündogar, günbatar, günorta, demirgazyk; «he» — birleşmek.",
+          "tk": "'Sihe' — 'si' dört tarapy aňladýar; 'he' gurşap almagy aňladýar.",
           "en": "'Sihe' — 'si' means four directions; 'he' means enclosing.",
           "uz": "'Sihe' — 'si' to'rt yo'nalishni bildiradi; 'he' o'rab olishni bildiradi.",
           "tg": "'Sihe' — 'si' маънои чор ҷонибро дорад; 'he' маънои иҳотакуниро дорад.",
@@ -601,7 +601,7 @@
         {
           "zh": "很多时候，烦恼是自己找来的，这就是所谓的「自寻烦恼」。",
           "ru": "Часто troubles мы создаём сами — это и называется «сам себе trouble».",
-          "tk": "Köplenç aladany özümiz döredýäris — bu «özüňe alada tapmak» diýilýär.",
+          "tk": "Köplenç kynçylyklar öz-özünden döreýär — muňa 'özüňe kynçylyk döretmek' diýilýär.",
           "en": "Often troubles are self-created — this is what's called 'asking for trouble'.",
           "uz": "Ko'pincha muammolar o'z-o'zidan yaratiladi — bu 'muammoni o'zingiz chaqirish' deb ataladi.",
           "tg": "Аксар вақт мушкилот аз худи одам сар мезанад — ин ҳамон чизест, ки 'дарди сарро худ харидан' меноманд.",
@@ -610,7 +610,7 @@
         {
           "zh": "他所谓的「新闻」，其实我们早就知道了！",
           "ru": "Его так называемые «новости» мы давно знаем!",
-          "tk": "Onuň atlandyrylýan «habarlaryny» biz eýýäm bilýäris!",
+          "tk": "Onuň sözde 'habary' — biz muny öňden bäri bilýäris!",
           "en": "His so-called 'news' — we've known for ages!",
           "uz": "Uning 'yangiliklari' deb atalgan narsa — biz allaqachon bilamiz!",
           "tg": "«Хабар»-и ба ном ӯ — мо инро кайҳо медонем!",
@@ -619,7 +619,7 @@
         {
           "zh": "现在市场上所谓的「健康食品」其实没有统一的标准。",
           "ru": "Так называемые «здоровые продукты» на рынке не имеют единого стандарта.",
-          "tk": "Bazardaky atlandyrylýan «sagdyn azyklar» ýeke-täk standarta eýe däl.",
+          "tk": "Bazarda sözde 'saglykly iýmitleriň' bitewi standarty ýok.",
           "en": "So-called 'health foods' on the market have no unified standard.",
           "uz": "Bozordagi 'sog'lom oziq-ovqatlar' deb atalgan mahsulotlar yagona standartga ega emas.",
           "tg": "«Ғизоҳои солим»-и ба ном дар бозор стандарти ягона надоранд.",
@@ -628,7 +628,7 @@
         {
           "zh": "所谓「知己」，就是真正了解你的人。",
           "ru": "Так называемый «чжицзи» — тот, кто действительно тебя понимает.",
-          "tk": "Atlandyrylýan «çžitszi» — seni hakykatdan düşünýän adam.",
+          "tk": "'Zhi ji' seni hakykatdan düşünýän adama degişlidir.",
           "en": "'Zhi ji' refers to someone who truly understands you.",
           "uz": "'Zhi ji' sizni chinakam tushunadigan kishini anglatadi.",
           "tg": "«Зи ҷи» ба шахсе ишора мекунад, ки шуморо воқеан мефаҳмад.",
@@ -637,7 +637,7 @@
         {
           "zh": "这就是所谓的「眼见为实」。",
           "ru": "Это и есть так называемое «увидеть своими глазами».",
-          "tk": "Bu hut «öz gözüň bilen görmek» atlandyrylýar.",
+          "tk": "Bu \"görmek - ynanylmakdyr\" diýilýän zat.",
           "en": "This is what's called 'seeing is believing'.",
           "uz": "Bu \"ko'rish - ishonish\" deb ataladigan narsa.",
           "tg": "Ин ҳамон чизест, ки «дидан — бовар кардан аст» ном дорад.",
@@ -646,7 +646,7 @@
         {
           "zh": "所谓「专家」，应该有真正的专业知识。",
           "ru": "Так называемый «эксперт» должен иметь реальные специальные знания.",
-          "tk": "Atlandyrylýan «hünärmen» hakyky hünär bilimine eýe bolmaly.",
+          "tk": "\"Hünärmen\" diýilýän adam hakyky hünär bilimine eýe bolmaly.",
           "en": "A so-called 'expert' should have real professional knowledge.",
           "uz": "\"Mutaxassis\" deb ataluvchi kishi haqiqiy kasbiy bilimga ega bo'lishi kerak.",
           "tg": "«Мутахассиси» ба ном бояд дониши касбии воқеӣ дошта бошад.",
@@ -655,7 +655,7 @@
         {
           "zh": "这所房子，所谓「三室一厅」，其实很小。",
           "ru": "Этот дом — так называемая «трёхкомнатная с гостиной» — на самом деле очень маленький.",
-          "tk": "Bu jaý — atlandyrylýan «üç otagly we zal» — aslynda gaty kiçi.",
+          "tk": "Bu jaý — \"3 ýatakly\" diýilýän — aslynda gaty kiçi.",
           "en": "This house — a so-called '3-bedroom' — is actually very small.",
           "uz": "Bu uy — \"3 xonali\" deb ataluvchi — aslida juda kichkina.",
           "tg": "Ин хона — «3-хобхона»-и ба ном — дар асл хеле хурд аст.",
@@ -664,7 +664,7 @@
         {
           "zh": "他们的所谓「合作」不过是个借口。",
           "ru": "Их так называемое «сотрудничество» — просто отговорка.",
-          "tk": "Olaryň atlandyrylýan «hyzmatdaşlygy» diňe bahana.",
+          "tk": "Olaryň \"hyzmatdaşlygy\" diýilýän zat diňe bahana.",
           "en": "Their so-called 'cooperation' is just an excuse.",
           "uz": "Ularning \"hamkorlik\" deb ataluvchi narsasi shunchaki bahona.",
           "tg": "«Ҳамкории» ба номи онҳо танҳо баҳона аст.",
@@ -673,7 +673,7 @@
         {
           "zh": "所谓成功，就是不断努力的结果。",
           "ru": "Так называемый успех — результат постоянных усилий.",
-          "tk": "Atlandyrylýan üstünlik — yzygiderli tagallalaryň netijesi.",
+          "tk": "\"Üstünlik\" diýilýän zat yzygiderli tagallanyň netijesidir.",
           "en": "So-called success is the result of continuous effort.",
           "uz": "\"Muvaffaqiyat\" deb ataluvchi narsa doimiy harakat natijasidir.",
           "tg": "Муваффақияти ба ном натиҷаи кӯшиши доимӣ аст.",
@@ -747,7 +747,7 @@
       "pos": "conj./m.",
       "explanation": {
         "ru": "«则» как союз — «а, зато» (сравнение); как счётное слово — для текстов/новостей.",
-        "tk": "«则» baglaýjy hökmünde «emma, bolsa»; san sözi hökmünde tekstler üçin.",
+        "tk": "\"則\" baglaýjy hökmünde — \"wagt, emma\" (gapma-garşylyk); tekst/habar üçin ölçeg sözi.",
         "en": "'则' as conjunction — 'while, but' (contrast); as MW for texts/news.",
         "uz": "'则' bog'lovchi sifatida — 'holbuki, lekin' (qarama-qarshilik); matnlar/yangiliklar uchun MW sifatida.",
         "tg": "'则' ҳамчун пайвандак — 'дар ҳоле ки, аммо' (муқобилат); ҳамчун воҳиди ченак барои матн/хабарҳо.",
@@ -757,7 +757,7 @@
         {
           "zh": "有的人家喜欢种草、养花、种竹子，有的人家则喜欢用大盆养金鱼。",
           "ru": "Кто-то любит травы, цветы, бамбук — а кто-то золотых рыбок в тазиках.",
-          "tk": "Kimdir bir zat ot, gül, bambuk ösdürýär, kimdir bir zat altyn balyklary bakýar.",
+          "tk": "Käbirleri otlar, güller, bambuk ösdürýärler — beýlekiler bolsa howuzlarda altyn balyk saklaýarlar.",
           "en": "Some grow herbs, flowers, bamboo — while others keep goldfish in basins.",
           "uz": "Ba'zilar ko'katlar, gullar, bambuk o'stiradi — boshqalari esa idishlarda oltin baliq boqadi.",
           "tg": "Баъзеҳо гиёҳҳо, гулҳо, бамбук мепарваранд — баъзеҳо бошад, моҳии тилоӣ дар тағораҳо нигоҳ медоранд.",
@@ -766,7 +766,7 @@
         {
           "zh": "猫享受独处的快乐，而狗则是希望和别人分享快乐。",
           "ru": "Кошка наслаждается одиночеством, а собака хочет разделить радость с другими.",
-          "tk": "Pişik ýeke-täk durmagy halaýar, it bolsa beýlekiler bilen paýlaşmak isleýär.",
+          "tk": "Pişikler ýalňyzlygy halaýarlar, itler bolsa beýlekiler bilen şatlygy paýlaşmak isleýärler.",
           "en": "Cats enjoy solitude, while dogs want to share joy with others.",
           "uz": "Mushuklar yolg'izlikni yoqtiradi, itlar esa boshqalar bilan quvonchni baham ko'rishni xohlaydi.",
           "tg": "Гурбаҳо танҳоӣро дӯст медоранд, сагҳо бошад, шодӣ бо дигарон мубодила кардан мехоҳанд.",
@@ -775,7 +775,7 @@
         {
           "zh": "在第七课，我们学习了两则成语故事。",
           "ru": "В седьмом уроке мы выучили две истории об идиомах.",
-          "tk": "Ýedinji sapakda biz iki idiom hekaýasyny öwrendik.",
+          "tk": "7-nji sapakda biz iki sany idiom hekaýasyny öwrendik.",
           "en": "In lesson 7 we learned two idiom stories.",
           "uz": "7-darsda biz ikkita ibora hikoyasini o'rgandik.",
           "tg": "Дар дарси 7 мо ду ҳикояи ибораҳоро омӯхтем.",
@@ -784,7 +784,7 @@
         {
           "zh": "今天的报纸上有一则非常重要的新闻。",
           "ru": "В сегодняшней газете очень важная новость.",
-          "tk": "Bu günki gazetde örän möhüm habar bar.",
+          "tk": "Şu günki gazetde örän möhüm bir habar bar.",
           "en": "Today's paper has a very important piece of news.",
           "uz": "Bugungi gazetada juda muhim bir yangilik bor.",
           "tg": "Дар рӯзномаи имрӯза як хабари хеле муҳим ҳаст.",
@@ -793,7 +793,7 @@
         {
           "zh": "北京的冬天，有风则寒，无风则暖。",
           "ru": "Пекинская зима: с ветром — холодно, без ветра — тепло.",
-          "tk": "Pekiniň gyşy: şemally — sowuk, şemalsyz — ýyly.",
+          "tk": "Pekin gyşy: ýel bilen — sowuk; ýelsiz — ýyly.",
           "en": "Beijing winter: with wind — cold; without wind — warm.",
           "uz": "Pekin qishi: shamol bo'lsa — sovuq; shamol bo'lmasa — iliq.",
           "tg": "Зимистони Пекин: бо шамол — хунук; бе шамол — гарм.",
@@ -802,7 +802,7 @@
         {
           "zh": "他喜欢安静，我则喜欢热闹。",
           "ru": "Он любит тишину, а я — оживление.",
-          "tk": "Ol sessizligi halaýar, men bolsa janlylygy.",
+          "tk": "Ol arkaýynlygy halaýar, men bolsa janlylygy halaýaryn.",
           "en": "He likes quiet, while I like liveliness.",
           "uz": "U jimjitlikni yaxshi ko'radi, men esa jonli hayotni yaxshi ko'raman.",
           "tg": "Ӯ оромиро дӯст медорад, ман бошад, ҷоннокӣ.",
@@ -811,7 +811,7 @@
         {
           "zh": "哥哥爱看书，弟弟则爱运动。",
           "ru": "Старший брат любит читать, а младший — спорт.",
-          "tk": "Agasy kitap okamagy halaýar, inisi bolsa sporty.",
+          "tk": "Uly dogan okamagy gowy görýär, kiçisi sporty.",
           "en": "The older brother loves reading, the younger loves sports.",
           "uz": "Aka o'qishni yaxshi ko'radi, uka esa sportni.",
           "tg": "Бародари калонӣ китобхониро дӯст медорад, бародари хурдӣ варзишро.",
@@ -820,7 +820,7 @@
         {
           "zh": "我读了一则寓言故事。",
           "ru": "Я прочёл одну притчу.",
-          "tk": "Men bir pritça okadym.",
+          "tk": "Men bir tymsal okadym.",
           "en": "I read a fable.",
           "uz": "Men bir ertak o'qidim.",
           "tg": "Ман як масал хондам.",
@@ -829,7 +829,7 @@
         {
           "zh": "报纸上登了一则寻人启事。",
           "ru": "В газете объявление о розыске человека.",
-          "tk": "Gazetde adam gözlemek barada yglan çap edildi.",
+          "tk": "Gazetde ýitirim bolan adam barada bildiriş çap edildi.",
           "en": "A missing-person notice was published in the paper.",
           "uz": "Gazetada yo'qolgan shaxs haqida e'lon chop etildi.",
           "tg": "Эълони ҷустуҷӯи шахси гумшуда дар рӯзнома нашр шуд.",
@@ -838,7 +838,7 @@
         {
           "zh": "「欲速则不达」，做事不能太着急。",
           "ru": "«Поспешишь — людей насмешишь» — не надо спешить.",
-          "tk": "«Howlukmak — işi bozmak» — howlukmaly däl.",
+          "tk": "'Howlukmaçlyk zyýan getirýär' — işleri howlukma.",
           "en": "'Haste makes waste' — don't rush things.",
           "uz": "'Shoshilgan — qolgan' — ishlarni shoshirmang.",
           "tg": "«Шитоб корро вайрон мекунад» — ба кор шитоб накун.",
@@ -912,7 +912,7 @@
       "pos": "конструкция",
       "explanation": {
         "ru": "«为……所……» — пассив книжного стиля: «быть сделанным кем-то».",
-        "tk": "«为……所……» — kitaby passiw gurluş.",
+        "tk": "'为……所……' — resmi passiw: 'bir zat tarapyndan edilmek'.",
         "en": "'为……所……' — formal passive: 'to be done by'.",
         "uz": "'为……所……' — rasmiy passiv: 'tomonidan bajarilmoq'.",
         "tg": "'为……所……' — шакли расмии маҷҳул: 'аз тарафи касе иҷро шудан'.",
@@ -922,7 +922,7 @@
         {
           "zh": "院子不仅拉近了人与自然的关系，也让家里人在此得到了感情的交流，对创造生活情趣起了很大作用，因而最为人们所喜爱。",
           "ru": "Двор не только приближает к природе, но и создаёт пространство для общения семьи — поэтому его так любят.",
-          "tk": "Howly diňe tebigata ýakynlaşdyrman, maşgalanyň aragatnaşyk ýeri hem bolýar — şol sebäpden iň köp söýülýär.",
+          "tk": "Howly adamlary tebigata ýakynlaşdyrmak bilen birga, maşgala meýdançasy bolup hem hyzmat edýär — şonuň üçin iň söýgüli.",
           "en": "The courtyard not only brings people closer to nature but also serves as family space — thus most beloved.",
           "uz": "Hovli nafaqat odamlarni tabiatga yaqinlashtiradi, balki oilaviy makon bo'lib ham xizmat qiladi — shuning uchun eng sevimli.",
           "tg": "Ҳавлӣ на танҳо одамонро ба табиат наздик мекунад, балки ҳамчун фазои оилавӣ хизмат мекунад — бинобар ин маҳбубтарин аст.",
@@ -931,7 +931,7 @@
         {
           "zh": "认识他的人，没有人不为他认真的工作态度所感动。",
           "ru": "Все, кто его знал, были тронуты его серьёзным отношением к работе.",
-          "tk": "Onuň bilen tanyşlaryň hemmesi işe çynlakaý garaýşyna haýran galdylar.",
+          "tk": "Onu tanayanlaryň hemmesi onuň çynlakaý iş garaýşyndan täsirlendi.",
           "en": "Everyone who knew him was moved by his serious work attitude.",
           "uz": "Uni tanigan har bir kishi uning jiddiy mehnat munosabatidan ta'sirlandi.",
           "tg": "Ҳама касоне, ки ӯро мешинохтанд, аз муносибати ҷиддии ӯ ба кор таъсир гирифтанд.",
@@ -940,7 +940,7 @@
         {
           "zh": "有了科学，大自然就可以更好地为人所用。",
           "ru": "Благодаря науке природа может лучше служить человеку.",
-          "tk": "Ylym arkaly tebigat adama has gowy hyzmat edýär.",
+          "tk": "Ylym bilen tebigat adamlara has gowy hyzmat edip biler.",
           "en": "With science, nature can better serve humans.",
           "uz": "Fan yordamida tabiat insonlarga yaxshiroq xizmat qilishi mumkin.",
           "tg": "Бо илм, табиат метавонад беҳтар ба одамон хизмат кунад.",
@@ -949,7 +949,7 @@
         {
           "zh": "这座桥为世人所知。",
           "ru": "Этот мост известен всему миру.",
-          "tk": "Bu köpri bütin dünýä bilinýär.",
+          "tk": "Bu köpri dünýä belli.",
           "en": "This bridge is known to the world.",
           "uz": "Bu ko'prik dunyoga ma'lum.",
           "tg": "Ин пул ба ҷаҳон маълум аст.",
@@ -967,7 +967,7 @@
         {
           "zh": "这个观点为多数人所支持。",
           "ru": "Эту точку зрения поддерживает большинство.",
-          "tk": "Bu pikiri köpçülik goldaýar.",
+          "tk": "Bu garaýyş köplük tarapyndan goldanýar.",
           "en": "This view is supported by the majority.",
           "uz": "Bu fikr ko'pchilik tomonidan qo'llab-quvvatlanadi.",
           "tg": "Ин ақида аз ҷониби аксарият дастгирӣ мешавад.",
@@ -985,7 +985,7 @@
         {
           "zh": "此事为人所不解。",
           "ru": "Это дело непонятно людям.",
-          "tk": "Bu iş adamlara düşnüksiz.",
+          "tk": "Bu meselä halk düşünmeýär.",
           "en": "This matter is not understood by people.",
           "uz": "Bu masala odamlar tomonidan tushunilmaydi.",
           "tg": "Ин масъала аз ҷониби одамон фаҳмида намешавад.",
@@ -994,7 +994,7 @@
         {
           "zh": "他的作品为广大读者所喜爱。",
           "ru": "Его произведения любимы широкой публикой.",
-          "tk": "Onuň eserleri köpçülik tarapyndan söýülýär.",
+          "tk": "Onuň eserlerini giň okyjylar köp görýärler.",
           "en": "His works are loved by a broad readership.",
           "uz": "Uning asarlari keng kitobxonlar tomonidan seviladi.",
           "tg": "Асарҳои ӯ аз ҷониби хонандагон васеъ дӯст дошта мешаванд.",
@@ -1003,7 +1003,7 @@
         {
           "zh": "这种生活方式为他所推崇。",
           "ru": "Такой образ жизни он превозносит.",
-          "tk": "Şeýle durmuş ýöretmegi ol ýokary tutýar.",
+          "tk": "Ol bu durmuş ýoluny goldaýar.",
           "en": "He advocates this way of life.",
           "uz": "U bu hayot tarzini targ'ib qiladi.",
           "tg": "Ӯ ин тарзи зиндагиро тарғиб мекунад.",
@@ -1077,7 +1077,7 @@
       "pos": "глагол направления",
       "explanation": {
         "ru": "«动词+起» — соединение, установление связи: «拉起 / 关闭起».",
-        "tk": "«动词+起» — baglanyşdyrmak.",
+        "tk": "'Işlik + 起' — baglanyşdyrmak, döretmek: 'çekmek, ýapmak'.",
         "en": "'Verb + 起' — connecting, establishing: 'pull up, close up'.",
         "uz": "'Fe'l + 起' — bog'lash, o'rnatish: 'tortib ko'tarmoq, yopmoq'.",
         "tg": "'Феъл + 起' — пайвасткунӣ, барқароркунӣ: 'кашидан, пӯшидан'.",
@@ -1087,7 +1087,7 @@
         {
           "zh": "只要关闭起大门，四合院内便形成一个封闭式的小环境。",
           "ru": "Стоит закрыть ворота — и сыхэюань становится замкнутым мирком.",
-          "tk": "Diňe gapyny ýapsaň, syheýuan ýapyk kiçi dünýä öwrülýär.",
+          "tk": "Diňe derwezäni ýap, howly ýapyk kiçi dünýä öwrülýär.",
           "en": "Just close the gate, and the courtyard becomes a closed mini-world.",
           "uz": "Faqat darvozani yopsangiz, hovli yopiq kichik dunyoga aylanadi.",
           "tg": "Танҳо дарвозаро пӯшед, ва ҳавлӣ ба як ҷаҳони хурди пӯшида табдил меёбад.",
@@ -1096,7 +1096,7 @@
         {
           "zh": "拉起手，我们就是好朋友。",
           "ru": "Возьмёмся за руки — и мы уже друзья.",
-          "tk": "Elleri tutuşsak, biz dost.",
+          "tk": "Elleri tut, biz dost bolýarys.",
           "en": "Hold hands, and we're friends.",
           "uz": "Qo'l ushlashsak, biz do'stmiz.",
           "tg": "Дастҳоро гиред, ва мо дӯстон ҳастем.",
@@ -1105,7 +1105,7 @@
         {
           "zh": "对公司来说，最重要的是建立起一套行之有效的制度。",
           "ru": "Для компании главное — построить эффективную систему.",
-          "tk": "Kompaniýa üçin iň möhümi — netijeli ulgam gurmak.",
+          "tk": "Bir kompaniýa üçin iň möhümi täsirli ulgam gurmakdyr.",
           "en": "For a company, the key is to build an effective system.",
           "uz": "Kompaniya uchun asosiy narsa samarali tizim qurishdir.",
           "tg": "Барои як ширкат, муҳим сохтани низоми самарабахш аст.",
@@ -1132,7 +1132,7 @@
         {
           "zh": "请把桌子摆起来。",
           "ru": "Поставьте столы, пожалуйста.",
-          "tk": "Stollary goýuň.",
+          "tk": "Stollary gurnaň.",
           "en": "Please set up the tables.",
           "uz": "Iltimos, stollarni tayyorlang.",
           "tg": "Лутфан мизҳоро омода кунед.",
@@ -1150,7 +1150,7 @@
         {
           "zh": "我们要团结起所有的力量。",
           "ru": "Нам нужно объединить все силы.",
-          "tk": "Biz ähli güýçleri birleşdirmeli.",
+          "tk": "Biz ähli güýçleri birleşdirmelidiris.",
           "en": "We must unite all forces.",
           "uz": "Biz barcha kuchlarni birlashtirishimiz kerak.",
           "tg": "Мо бояд ҳамаи қувваҳоро муттаҳид кунем.",
@@ -1159,7 +1159,7 @@
         {
           "zh": "老师想起了一个好办法。",
           "ru": "Учитель придумал хороший способ.",
-          "tk": "Mugallym gowy usul tapdy.",
+          "tk": "Mugallym gowy bir pikir tapdy.",
           "en": "The teacher thought of a good idea.",
           "uz": "O'qituvchi yaxshi fikr o'ylab topdi.",
           "tg": "Муаллим фикри хубро ба ёд овард.",
@@ -1168,7 +1168,7 @@
         {
           "zh": "他点起了一支烟。",
           "ru": "Он закурил сигарету.",
-          "tk": "Ol çilim tutady.",
+          "tk": "Ol çilim ýakdy.",
           "en": "He lit a cigarette.",
           "uz": "U sigaret tutatdi.",
           "tg": "Ӯ сигорро даргиронд.",
@@ -1281,7 +1281,7 @@
       "word_b": "常常",
       "common": {
         "ru": "Оба — «часто, обычно».",
-        "tk": "Ikisi hem «adatça, köplenç».",
+        "tk": "Ikisi hem 'adaty, köplenç' diýmegi aňladýar.",
         "en": "Both mean 'usually, often'.",
         "uz": "Ikkalasi ham 'odatda, tez-tez' ma'nosini bildiradi.",
         "tg": "Ҳарду маънои 'одатан, аксар вақт'-ро доранд.",
@@ -1354,7 +1354,7 @@
         "pinyin": "táijiē",
         "meaning": {
           "ru": "ступеньки",
-          "tk": "basgançak",
+          "tk": "basgançaklar",
           "en": "steps",
           "uz": "zinapoyalar",
           "tg": "зинаҳо",
@@ -1390,7 +1390,7 @@
         "pinyin": "sùshè",
         "meaning": {
           "ru": "общежитие",
-          "tk": "umumy ýaşaýyş jaýy",
+          "tk": "ýatakhana",
           "en": "dormitory",
           "uz": "yotoqxona",
           "tg": "хобгоҳ",
@@ -1414,7 +1414,7 @@
         "pinyin": "dàshà",
         "meaning": {
           "ru": "высотное здание",
-          "tk": "beýik bina",
+          "tk": "köşk",
           "en": "mansion",
           "uz": "qasr",
           "tg": "қаср",
@@ -1438,7 +1438,7 @@
   "application": {
     "discussion": {
       "ru": "Какое здание вы находите самым красивым в вашем городе?",
-      "tk": "Şäheriňizdäki iň owadan binany haýsy hasaplaýarsyňyz?",
+      "tk": "Şäheriňizdäki haýsy binany iň gözel hasaplaýarsyňyz?",
       "en": "Which building in your city do you find most beautiful?",
       "uz": "Shahringizdagi qaysi bino sizga eng chiroyli tuyuladi?",
       "tg": "Кадом бино дар шаҳри шумо ба назаратон зеботарин аст?",

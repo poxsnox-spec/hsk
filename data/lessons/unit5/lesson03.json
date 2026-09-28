@@ -2,7 +2,7 @@
   "title": {
     "zh": "纸上谈兵",
     "ru": "Битва на бумаге",
-    "tk": "Kagyzda söweşmek",
+    "tk": "Kürsüde strateg bolmak",
     "en": "Being an Armchair Strategist",
     "uz": "Qog'ozda jang",
     "tg": "Ҷанг дар коғаз",
@@ -18,7 +18,7 @@
   "warmup": {
     "question": {
       "ru": "Знаете ли вы историю периода Сражающихся царств?",
-      "tk": "Uruşýan patyşalyklar döwrüniň taryhyny bilýärsiňizmi?",
+      "tk": "Siz Uruşýan Döwletler döwrüniň taryhyny bilýärsiňizmi?",
       "en": "Do you know the history of the Warring States period?",
       "uz": "Urushayotgan davlatlar davri tarixini bilasizmi?",
       "tg": "Оё таърихи давраи Ҷанги Давлатҳоро медонед?",
@@ -48,7 +48,7 @@
       "pos": "идиом",
       "meaning": {
         "ru": "бумажный стратег",
-        "tk": "kagyzda söweşiji",
+        "tk": "kürsüde oturup strategiýa düzýän",
         "en": "armchair strategist",
         "uz": "quruq strateg",
         "tg": "стратеги курсиӣ",
@@ -61,7 +61,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "военное дело",
-        "tk": "harby iş",
+        "tk": "harby işler",
         "en": "military affairs",
         "uz": "harbiy ishlar",
         "tg": "корҳои ҳарбӣ",
@@ -126,7 +126,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "принцип, разум",
-        "tk": "pikir, esas",
+        "tk": "prinsip",
         "en": "principle",
         "uz": "tamoyil",
         "tg": "принсип",
@@ -139,7 +139,7 @@
       "pos": "adv.",
       "meaning": {
         "ru": "рано или поздно",
-        "tk": "ir-hem-giç",
+        "tk": "ir-u-giç",
         "en": "sooner or later",
         "uz": "ertami-kechmi",
         "tg": "дер ё зуд",
@@ -178,7 +178,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "слабый",
-        "tk": "güýçsüz",
+        "tk": "gowşak",
         "en": "weak",
         "uz": "kuchsiz",
         "tg": "заиф",
@@ -204,7 +204,7 @@
       "pos": "v./n.",
       "meaning": {
         "ru": "приказывать; приказ",
-        "tk": "buýurmak; buýruk",
+        "tk": "buýurmak",
         "en": "to command",
         "uz": "buyruq bermoq",
         "tg": "фармон додан",
@@ -230,7 +230,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "позиция",
-        "tk": "pozisiýa",
+        "tk": "orun",
         "en": "position",
         "uz": "mavqe",
         "tg": "мавқеъ",
@@ -243,7 +243,7 @@
       "pos": "adj./adv.",
       "meaning": {
         "ru": "абсолютный; абсолютно",
-        "tk": "mutlak; asla",
+        "tk": "mutlak",
         "en": "absolute",
         "uz": "mutlaq",
         "tg": "мутлақ",
@@ -256,7 +256,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "инициативный",
-        "tk": "işjen",
+        "tk": "öz başlangyjy bilen",
         "en": "on one's initiative",
         "uz": "o'z tashabbusi bilan",
         "tg": "бо ташаббуси худ",
@@ -269,7 +269,7 @@
       "pos": "v./n.",
       "meaning": {
         "ru": "бросать вызов",
-        "tk": "çagyryş",
+        "tk": "çagyryş etmek",
         "en": "to challenge",
         "uz": "chaqirmoq",
         "tg": "баҳс кардан",
@@ -282,7 +282,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "ругать",
-        "tk": "sögmek",
+        "tk": "kargamak",
         "en": "to curse",
         "uz": "qarg'amoq",
         "tg": "лаънат кардан",
@@ -295,7 +295,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "трус",
-        "tk": "gorkak",
+        "tk": "goward",
         "en": "coward",
         "uz": "qo'rqoq",
         "tg": "тарсон",
@@ -321,7 +321,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "переводить, отзывать",
-        "tk": "çagyryp almak",
+        "tk": "geçirmek",
         "en": "to transfer",
         "uz": "o'tkazmoq",
         "tg": "интиқол додан",
@@ -386,7 +386,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "останавливать",
-        "tk": "päsgel bermek",
+        "tk": "durmak",
         "en": "to stop",
         "uz": "to'xtatmoq",
         "tg": "боздоштан",
@@ -399,7 +399,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "назначать",
-        "tk": "belilemek",
+        "tk": "bellemek",
         "en": "to appoint",
         "uz": "tayinlamoq",
         "tg": "таъин кардан",
@@ -412,7 +412,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "самостоятельный",
-        "tk": "özbaşdak",
+        "tk": "garaşsyz",
         "en": "independent",
         "uz": "mustaqil",
         "tg": "мустақил",
@@ -425,7 +425,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "квалификация",
-        "tk": "hünär derejesi",
+        "tk": "kwalifikasiýa",
         "en": "qualification",
         "uz": "malaka",
         "tg": "тахассус",
@@ -438,7 +438,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "глупый, бестолковый",
-        "tk": "akylsyz",
+        "tk": "kellesi garyşyk",
         "en": "muddleheaded",
         "uz": "boshqasi aralashgan",
         "tg": "саргумроҳ",
@@ -451,7 +451,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "наша эра",
-        "tk": "bizim eramyz",
+        "tk": "Hristian eýýamy",
         "en": "Christian era",
         "uz": "milodiy davr",
         "tg": "Давраи насронӣ",
@@ -477,7 +477,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "пренебрегать",
-        "tk": "äsgermezlik etmek",
+        "tk": "ýokarydan seretmek",
         "en": "to look down upon",
         "uz": "past nazar bilan qaramoq",
         "tg": "бо назари ҳақорат нигоҳ кардан",
@@ -556,7 +556,7 @@
       "pos": "глагол направления",
       "explanation": {
         "ru": "«动词+得过/不过» — «превосходить / уступать».",
-        "tk": "«动词+得过/不过» — «ýeňmek / ýeňilmek».",
+        "tk": "'V + 得​过/不​过' — 'geçmek / ýetmezlik'",
         "en": "'V + 得过/不过' — 'to surpass / to fall short'.",
         "uz": "'V + 得过/不过' — 'ustun kelmoq / ortda qolmoq'.",
         "tg": "'V + 得过/不过' — 'бартарӣ доштан / кам мондан'.",
@@ -566,7 +566,7 @@
         {
           "zh": "跟别人谈论起军事来，没有人说得过他。",
           "ru": "В разговорах о военном деле никто не мог его превзойти.",
-          "tk": "Harby iş barada gürrüňde hiç kim ondan öňe geçip bilmedi.",
+          "tk": "Harby gepleşiklerde ondan öňe geçýän ýokdy.",
           "en": "In military talk, no one could outdo him.",
           "uz": "Harbiy suhbatda hech kim undan oshib tusha olmasdi.",
           "tg": "Дар гуфтугӯи ҳарбӣ, ҳеҷ кас наметавонист аз ӯ пеш гузарад.",
@@ -575,7 +575,7 @@
         {
           "zh": "年轻人记忆力好，这一点我比不过你们。",
           "ru": "У молодых память лучше — в этом я вам уступаю.",
-          "tk": "Ýaşlaryň ýady gowy — bu meselede men size ýetip bilemok.",
+          "tk": "Ýaşlaryň ýady has gowy — bu meselede men seniň bilen deňeşip bilmerin.",
           "en": "Young people have better memory — I can't match you in this.",
           "uz": "Yoshlarning xotirasi yaxshiroq — bu borada men siz bilan tenglasha olmayman.",
           "tg": "Ҷавонон хотираи беҳтар доранд — ман дар ин кор ба шумо баробар шуда наметавонам.",
@@ -584,7 +584,7 @@
         {
           "zh": "我们的原材料贵，人工费用高，产品在价格上肯定竞争不过他们。",
           "ru": "Наше сырьё дороже, оплата труда выше — в цене мы точно не потягаемся.",
-          "tk": "Çig malymyz gymmat, zähmet haky ýokary — bahada bäsdeşlik edip bilemzok.",
+          "tk": "Biziň materiallarymyz gymmat, işçi güýjüniň çykdajylary ýokary — biz baha boýunça bäsleşip bilmeris.",
           "en": "Our materials are pricier, labor costs higher — we can't compete on price.",
           "uz": "Bizning materiallarimiz qimmatroq, mehnat xarajatlari yuqoriroq — narx bo'yicha raqobatlasha olmaymiz.",
           "tg": "Маводи мо гаронтар, хароҷоти меҳнатӣ баландтар — мо дар нарх рақобат карда наметавонем.",
@@ -593,7 +593,7 @@
         {
           "zh": "李阳受过专业训练，一般人比不过他。",
           "ru": "Ли Ян прошёл профессиональную подготовку — обычному не сравниться.",
-          "tk": "Li Ýan hünär taýýarlygyny geçdi — adaty adam ýetip bilmez.",
+          "tk": "Li Ýan professional tälim aldy — adaty adamlar deňeşdirip bilmez.",
           "en": "Li Yang had professional training — ordinary people can't compare.",
           "uz": "Li Yang professional tayyorgarlikka ega edi — oddiy odamlar tenglasha olmaydi.",
           "tg": "Ли Ян таълими касбӣ дошт — одамони оддӣ муқоиса карда наметавонанд.",
@@ -602,7 +602,7 @@
         {
           "zh": "虽然他已经五十多岁了，但干起活儿来，谁也累不过他。",
           "ru": "Хотя ему за пятьдесят, в работе никто его не переработает.",
-          "tk": "Ol elliden geçen bolsa-da, işde hiç kim ondan ýadamaz.",
+          "tk": "Elliden geçen bolsa-da, ondan zyýada işläp biljek ýok.",
           "en": "Though over fifty, no one can outwork him.",
           "uz": "Ellikdan oshgan bo'lsa-da, hech kim undan ko'proq ishlay olmaydi.",
           "tg": "Ҳарчанд зиёда аз панҷоҳ сол дорад, ҳеҷ кас аз ӯ бештар кор карда наметавонад.",
@@ -611,7 +611,7 @@
         {
           "zh": "这道题太难了，我做不过。",
           "ru": "Задача слишком сложная — я не справлюсь.",
-          "tk": "Bu mesele gaty kyn — men başaryp bilemok.",
+          "tk": "Bu mesele gaty kyn — men ony çözüp bilemok.",
           "en": "This problem is too hard — I can't do it.",
           "uz": "Bu muammo juda qiyin — men buni uddalay olmayman.",
           "tg": "Ин масъала хеле душвор аст — ман онро ҳал карда наметавонам.",
@@ -620,7 +620,7 @@
         {
           "zh": "他跑得比我快，我追不过。",
           "ru": "Он бегает быстрее меня — мне не догнать.",
-          "tk": "Ol menden çalt ylgýar — men kowup bilemok.",
+          "tk": "Ol has çalt ylgaýar — men ony tutup bilemok.",
           "en": "He runs faster — I can't catch him.",
           "uz": "U tezroq yuguradi — men uni tuta olmayman.",
           "tg": "Ӯ тезтар медавад — ман ӯро дастгир карда наметавонам.",
@@ -629,7 +629,7 @@
         {
           "zh": "我说不过他，就先听他说吧。",
           "ru": "Мне его не переубедить — послушаю.",
-          "tk": "Men onyň bilen jedelleşip bilemok — gulak asaýyn.",
+          "tk": "Men onuň bilen jedelde ýeňip bilmerin — gel, ilki diňleýeli.",
           "en": "I can't out-argue him — let's listen first.",
           "uz": "Men u bilan bahslashib ustun kela olmayman — avval tinglaylik.",
           "tg": "Ман дар баҳс аз ӯ боло баромада наметавонам — биёед аввал гӯш кунем.",
@@ -638,7 +638,7 @@
         {
           "zh": "他力气大得惊人，谁也扳不过他。",
           "ru": "Он невероятно силён — никто его не переборет.",
-          "tk": "Onuň güýji haýran galdyryjy — hiç kim ony ýeňip bilmez.",
+          "tk": "Ol aşa güýçli — hiç kim ondan üstün çykyp bilmez.",
           "en": "He's incredibly strong — no one can overpower him.",
           "uz": "U nihoyatda kuchli — hech kim uni yenga olmaydi.",
           "tg": "Ӯ ба таври боварнакарданӣ қавӣ аст — ҳеҷ кас ӯро шикаст дода наметавонад.",
@@ -647,7 +647,7 @@
         {
           "zh": "这个小孩很聪明，大人也说不过他。",
           "ru": "Этот ребёнок очень умён — даже взрослые не могут его переспорить.",
-          "tk": "Bu çaga örän akylly — hatda ulular hem oňa garşy aýdyp bilemez.",
+          "tk": "Bu çaga örän akylly — hatda ulular hem onuň bilen jedelde ýeňip bilmeýärler.",
           "en": "This child is very smart — even adults can't out-argue him.",
           "uz": "Bu bola juda aqlli — hatto kattalar ham u bilan bahslashib ustun kela olmaydi.",
           "tg": "Ин кӯдак хеле зирак аст — ҳатто калонсолон дар баҳс аз ӯ боло баромада наметавонанд.",
@@ -722,7 +722,7 @@
       "pos": "adv.",
       "explanation": {
         "ru": "«迟早» — «рано или поздно».",
-        "tk": "«迟早» — «ir-hem-giç».",
+        "tk": "'Ça-zao' 'ir-u-giç' diýmegi aňladýar.",
         "en": "'迟早' means 'sooner or later'.",
         "uz": "'迟早' 'sooner or later' degani.",
         "tg": "'迟早' маънои 'дер ё зуд'-ро дорад.",
@@ -732,7 +732,7 @@
         {
           "zh": "如果让他当了大将，迟早会害了赵国。",
           "ru": "Если он станет генералом, рано или поздно это погубит Чжао.",
-          "tk": "Ol serkerde bolsa, ir-hem-giç Çžaoguo-ny zaýalar.",
+          "tk": "Eger ol general bolsa, ir-u-giç Çao döwletini weýran eder.",
           "en": "If he becomes a general, sooner or later he'll ruin Zhao.",
           "uz": "Agar u general bo'lsa, ertami-kechmi Chjaoni xarob qiladi.",
           "tg": "Агар ӯ генерал шавад, дер ё зуд Чжаоро хароб мекунад.",
@@ -741,7 +741,7 @@
         {
           "zh": "随着网络技术的发展，这些问题迟早都会得到解决。",
           "ru": "С развитием сетевых технологий эти проблемы рано или поздно решатся.",
-          "tk": "Tor tehnologiýalarynyň ösmegi bilen bu meseleler ir-hem-giç çözüler.",
+          "tk": "Tor tehnologiýasy bilen bu meseleler ir-u-giç çözüler.",
           "en": "With network tech, these problems will be solved sooner or later.",
           "uz": "Tarmoq texnologiyasi bilan bu muammolar ertami-kechmi hal qilinadi.",
           "tg": "Бо технологияи шабакавӣ, ин масъалаҳо дер ё зуд ҳал хоҳанд шуд.",
@@ -750,7 +750,7 @@
         {
           "zh": "如果不重视技术研究和产品开发，我们迟早会被别人挤出市场。",
           "ru": "Если не重视 НИОКР, нас рано или поздно вытеснят с рынка.",
-          "tk": "Tehnologiýa we önüm işläp çykmaga üns bermesek, bizi ir-hem-giç bazardan gysarlar.",
+          "tk": "Ylmy-barlaglary we ösüşi äsgermesek, iru-gijä bazardan çykarylaris.",
           "en": "If we neglect R&D, we'll be pushed out of the market sooner or later.",
           "uz": "Agar biz ilmiy-tadqiqot ishlariga e'tibor bermasak, ertami-kechmi bozordan siqib chiqarilamiz.",
           "tg": "Агар мо таҳқиқот ва таҳияро сарфи назар кунем, дер ё зуд аз бозор берун карда мешавем.",
@@ -759,7 +759,7 @@
         {
           "zh": "你要认真学习，否则迟早会后悔。",
           "ru": "Учись серьёзно, иначе рано или поздно пожалеешь.",
-          "tk": "Çynlakaý oka, ýogsam ir-hem-giç puşman edersiň.",
+          "tk": "Yhlasly oka, ýogsam iru-gijä puşman bolarsyň.",
           "en": "Study hard, or you'll regret it sooner or later.",
           "uz": "Qattiq o'qishing kerak, aks holda ertami-kechmi afsuslanasan.",
           "tg": "Бо ҷидду ҷаҳд таҳсил кун, вагарна дер ё зуд пушаймон мешавӣ.",
@@ -768,7 +768,7 @@
         {
           "zh": "真相迟早会大白的。",
           "ru": "Правда рано или поздно раскроется.",
-          "tk": "Hakykat ir-hem-giç aýan bolar.",
+          "tk": "Hakykat iru-gijä ýüze çykar.",
           "en": "The truth will come out sooner or later.",
           "uz": "Haqiqat ertami-kechmi oshkor bo'ladi.",
           "tg": "Ҳақиқат дер ё зуд ошкор мешавад.",
@@ -777,7 +777,7 @@
         {
           "zh": "这种坏习惯迟早要改。",
           "ru": "Эту дурную привычку рано или поздно придётся бросить.",
-          "tk": "Bu erbet endigi ir-hem-giç taşlamaly.",
+          "tk": "Bu erbet endigi iru-gijä taşlamaly.",
           "en": "This bad habit must be dropped sooner or later.",
           "uz": "Bu yomon odatdan ertami-kechmi voz kechish kerak.",
           "tg": "Ин одати бад бояд дер ё зуд тарк карда шавад.",
@@ -786,7 +786,7 @@
         {
           "zh": "迟到的人迟早会被批评。",
           "ru": "Тот, кто опаздывает, рано или поздно получит выговор.",
-          "tk": "Gijä galýan ir-hem-giç käýilýär.",
+          "tk": "Gijä galanlar iru-gijä tankyt ediler.",
           "en": "Those who are late will be criticized sooner or later.",
           "uz": "Kechikkanlar ertami-kechmi tanqid qilinadi.",
           "tg": "Онҳое, ки дер мекунанд, дер ё зуд танқид карда мешаванд.",
@@ -795,7 +795,7 @@
         {
           "zh": "谎言迟早会被识破。",
           "ru": "Ложь рано или поздно раскроется.",
-          "tk": "Ýalan ir-hem-giç aýan bolar.",
+          "tk": "Ýalanlar iru-gijä paş ediler.",
           "en": "Lies will be exposed sooner or later.",
           "uz": "Yolg'onlar ertami-kechmi fosh bo'ladi.",
           "tg": "Дурӯғҳо дер ё зуд фош мешаванд.",
@@ -804,7 +804,7 @@
         {
           "zh": "努力迟早会有回报的。",
           "ru": "Усилия рано или поздно воздадутся.",
-          "tk": "Tagallalar ir-hem-giç öwezini dolýar.",
+          "tk": "Tagallalar iru ýa-da giç öz miwesini berer.",
           "en": "Efforts will pay off sooner or later.",
           "uz": "Harakatlar ertami-kechmi o'z samarasini beradi.",
           "tg": "Кӯшишҳо дер ё зуд самар медиҳанд.",
@@ -813,7 +813,7 @@
         {
           "zh": "迟早你得自己做决定。",
           "ru": "Рано или поздно тебе придётся решить самому.",
-          "tk": "Ir-hem-giç özüň karar bermeli bolarsyň.",
+          "tk": "Iru ýa-da giç özüň karar bermeli bolarsyň.",
           "en": "Sooner or later you'll have to decide yourself.",
           "uz": "Ertami-kechmi o'zing qaror qabul qilishingga to'g'ri keladi.",
           "tg": "Дер ё зуд худат бояд қарор бигирӣ.",
@@ -887,7 +887,7 @@
       "pos": "adv.",
       "explanation": {
         "ru": "«再三» — «неоднократно». Может стоять и перед, и после глагола.",
-        "tk": "«再三» — «gaýta-gaýta».",
+        "tk": "'Ýene-de' 'gaýta-gaýta' diýmegi aňladýar. Feilden öň ýa-da soň gelip biler.",
         "en": "'再三' means 'again and again'. Can come before or after verb.",
         "uz": "'再三' 'again and again' degani. Fe'ldan oldin yoki keyin kelishi mumkin.",
         "tg": "'再三' маънои 'такрор ва такрор'-ро дорад. Метавонад пеш ё баъд аз феъл ояд.",
@@ -897,7 +897,7 @@
         {
           "zh": "赵括的母亲再三阻止赵王任命儿子为大将。",
           "ru": "Мать Чжао Ко неоднократно отговаривала вана назначать сына генералом.",
-          "tk": "Çžao Konyň ejesi wanyň ogly serkerde bellemegini gaýta-gaýta saklady.",
+          "tk": "Zhao Kuonyň ejesi patyşanyň ogluny wezipä bellemegini gaýta-gaýta bes etdi.",
           "en": "Zhao Kuo's mother repeatedly stopped the king from appointing her son.",
           "uz": "Chjao Kuo onasi podshohni o'g'lini tayinlashdan bir necha marta to'xtatdi.",
           "tg": "Модари Чжао Куо пайваста шоҳро аз таъин кардани писари худ бозмедошт.",
@@ -906,7 +906,7 @@
         {
           "zh": "我最近这段时间特别忙，实在没时间参加小王的活动，可他再三邀请，出于礼貌，我只好答应了。",
           "ru": "Я очень занят — не до мероприятия Сяо Вана, но он трижды приглашал — из вежливости пришлось согласиться.",
-          "tk": "Men gaty meşgul — Sýao Wanyň çäresine wagt ýok, ýöne ol gaýta-gaýta çagyrdy — edeplik üçin razy boldum.",
+          "tk": "Men işden başym çykanok, ýöne ol meni gaýta-gaýta çagyrdy — edeplilik üçin razy boldum.",
           "en": "I'm swamped, but he invited me repeatedly — out of politeness I agreed.",
           "uz": "Ishim boshimdan oshgan, lekin u qayta-qayta taklif qildi — odob saqlab rozi bo'ldim.",
           "tg": "Ман бисёр банд ҳастам, аммо ӯ маро пайваста даъват мекард — аз рӯи одоб розӣ шудам.",
@@ -915,7 +915,7 @@
         {
           "zh": "朋友请他做公司的总经理，他考虑再三，最后还是客气地拒绝了。",
           "ru": "Друг предложил ему пост генерального директора — подумав много раз, он вежливо отказался.",
-          "tk": "Dosty oňa baş direktor wezipesini teklip etdi — ol köp oýlanyp, sypaýylyk bilen ret etdi.",
+          "tk": "Bir dosty oňa baş müdir wezipesini teklip etdi — köp oýlanandan soň, ol edeplilik bilen ýüz öwürdi.",
           "en": "A friend offered him the GM position — after much thought, he politely declined.",
           "uz": "Do'sti unga bosh direktor lavozimini taklif qildi — ko'p o'ylab, xushmuomalalik bilan rad etdi.",
           "tg": "Дӯст ба ӯ вазифаи директори генералиро пешниҳод кард — баъди андешаи зиёд ӯ бо одоб рад кард.",
@@ -924,7 +924,7 @@
         {
           "zh": "他再三道歉，我才原谅了他。",
           "ru": "Он много раз извинялся — только тогда я его простил.",
-          "tk": "Ol gaýta-gaýta ötünç sorady — şonda men ony bagyşladym.",
+          "tk": "Ol men ony bagyşlamazdan öň birnäçe gezek ötünç sorady.",
           "en": "He apologized repeatedly before I forgave him.",
           "uz": "U men kechirishimdan oldin qayta-qayta kechirim so'radi.",
           "tg": "Ӯ пайваста узр мепурсид, то ки ман ӯро бахшидам.",
@@ -933,7 +933,7 @@
         {
           "zh": "医生再三叮嘱他要按时吃药。",
           "ru": "Врач неоднократно напоминал принимать лекарство вовремя.",
-          "tk": "Lukman oňa dermany wagtynda içmegi gaýta-gaýta aýtdy.",
+          "tk": "Lukman oňa dermanlary wagtynda içmegi birnäçe gezek ýatlatdy.",
           "en": "The doctor repeatedly reminded him to take medicine on time.",
           "uz": "Shifokor unga dorini vaqtida ichishni qayta-qayta eslatdi.",
           "tg": "Духтур пайваста ба ӯ ёдовар мешуд, ки доруро сари вақт истеъмол кунад.",
@@ -942,7 +942,7 @@
         {
           "zh": "妈妈再三嘱咐我路上小心。",
           "ru": "Мама неоднократно напоминала мне быть осторожным в пути.",
-          "tk": "Ejem ýolda seresap bolmagy gaýta-gaýta aýtdy.",
+          "tk": "Ejem maňa ýolda seresap bolmagy birnäçe gezek ýatlatdy.",
           "en": "Mom repeatedly reminded me to be careful on the road.",
           "uz": "Onam menga yo'lda ehtiyot bo'lishni qayta-qayta eslatdi.",
           "tg": "Модарам пайваста ба ман ёдовар мешуд, ки дар роҳ эҳтиёткор бошам.",
@@ -951,7 +951,7 @@
         {
           "zh": "我再三考虑，还是决定不去。",
           "ru": "Я много раз думал и всё же решил не идти.",
-          "tk": "Men köp oýlandym, gitmezlik kararyna geldim.",
+          "tk": "Men birnäçe gezek oýlanyp, gitmezligi karar etdim.",
           "en": "I thought it over repeatedly and decided not to go.",
           "uz": "Men qayta-qayta o'ylab ko'rdim va bormaslikka qaror qildim.",
           "tg": "Ман пайваста андеша кардам ва қарор додам, ки наравам.",
@@ -960,7 +960,7 @@
         {
           "zh": "领导再三强调安全问题。",
           "ru": "Руководитель неоднократно подчёркивал вопросы безопасности.",
-          "tk": "Ýolbaşçy howpsuzlyk meselesini gaýta-gaýta nygtady.",
+          "tk": "Ýolbaşçy howpsuzlygy birnäçe gezek nygtady.",
           "en": "The leader repeatedly stressed safety.",
           "uz": "Rahbar xavfsizlikni qayta-qayta ta'kidladi.",
           "tg": "Роҳбар пайваста ба амният таъкид мекард.",
@@ -969,7 +969,7 @@
         {
           "zh": "他再三请求，我才答应帮他。",
           "ru": "Он много раз просил — я согласился помочь.",
-          "tk": "Ol gaýta-gaýta haýyş etdi — men kömek etmäge razy boldum.",
+          "tk": "Ol birnäçe gezek ýalbardy — men kömek etmäge razy boldum.",
           "en": "He begged repeatedly — I agreed to help.",
           "uz": "U qayta-qayta yolvordi — yordam berishga rozi bo'ldim.",
           "tg": "Вай борҳо илтимос кард — ман розӣ шудам, ки кӯмак кунам.",
@@ -978,7 +978,7 @@
         {
           "zh": "这道题我再三检查，还是有错。",
           "ru": "Эту задачу я проверял несколько раз — всё равно есть ошибка.",
-          "tk": "Bu meseläni birnäçe gezek barladym — ýene ýalňyş bar.",
+          "tk": "Men bu maşky birnäçe gezek barladym — henizem ýalňyşlyk bar.",
           "en": "I checked this exercise several times — still an error.",
           "uz": "Men bu mashqni bir necha marta tekshirdim — hali ham xato bor.",
           "tg": "Ман ин машқро чанд маротиба тафтиш кардам — ҳоло ҳам хато ҳаст.",
@@ -1052,7 +1052,7 @@
       "pos": "adj.",
       "explanation": {
         "ru": "«糊涂» — «глупый, бестолковый; спутанный в мыслях».",
-        "tk": "«糊涂» — «akylsyz, kellesi garışyk».",
+        "tk": "'糊塗' 'kellesi garışyk, aljyraňňy' diýmegi aňladýar.",
         "en": "'糊涂' means 'muddleheaded, confused'.",
         "uz": "'糊涂' 'muddleheaded, confused' degani.",
         "tg": "'糊涂' маънои 'саргумроҳ, ошуфта'-ро дорад.",
@@ -1062,7 +1062,7 @@
         {
           "zh": "可是，糊涂的赵王哪里听得进去！",
           "ru": "Но бестолковый ван Чжао куда там — не стал слушать!",
-          "tk": "Emma akylsyz Çžao wany gulak asmady!",
+          "tk": "Ýöne kellesi garışyk Çžao şasy gulak asmady!",
           "en": "But the muddleheaded King of Zhao wouldn't listen!",
           "uz": "Ammo sarosimaga tushgan Chjao podshosi quloq solmadi!",
           "tg": "Аммо подшоҳи саргуми Зҳао гӯш накард!",
@@ -1071,7 +1071,7 @@
         {
           "zh": "你这脑子可真糊涂，银行卡的密码怎么能忘了呢？",
           "ru": "Ну и голова — как можно забыть пароль от карты?",
-          "tk": "Kelläň gaty garışyk — bank kartynyň parolyny nähili ýatdan çykaryp bolar?",
+          "tk": "Nähili garışyk — bank PIN kodyňy nädip ýatdan çykaryp bilýärsiň?",
           "en": "How muddled — how can you forget your bank PIN?",
           "uz": "Qanday sarosima — bank PIN-kodingizni qanday unutishingiz mumkin?",
           "tg": "Чӣ қадар саргумӣ — чӣ тавр метавонед PIN-и бонки худро фаромӯш кунед?",
@@ -1080,7 +1080,7 @@
         {
           "zh": "人老了，有时会糊涂。",
           "ru": "С возрастом люди становятся забывчивыми.",
-          "tk": "Adam garraýança käte kellesi garışýar.",
+          "tk": "Adamlar garraýança, käwagt kelleleri garışýar.",
           "en": "As people age, they sometimes get confused.",
           "uz": "Odamlar qariganda, ba'zan sarosimaga tushib qoladilar.",
           "tg": "Ҳангоми пир шудан, одамон баъзан саргум мешаванд.",
@@ -1089,7 +1089,7 @@
         {
           "zh": "他一时糊涂，做了错事。",
           "ru": "Он по глупости совершил ошибку.",
-          "tk": "Ol akylsyzlyk edip, ýalňyş iş etdi.",
+          "tk": "Ol akmaklyk pursatynda ýalňyşlyk etdi.",
           "en": "He made a mistake in a moment of foolishness.",
           "uz": "U ahmoqlik lahzalarida xatoga yo'l qo'ydi.",
           "tg": "Вай дар лаҳзаи нодонӣ хато кард.",
@@ -1098,7 +1098,7 @@
         {
           "zh": "别装糊涂了，你明明知道。",
           "ru": "Не прикидывайся дурачком — ты прекрасно знаешь.",
-          "tk": "Akylsyz görünme — sen gowy bilýärsiň.",
+          "tk": "Akmaklyk etme — sen muny gowy bilýärsiň.",
           "en": "Don't play dumb — you clearly know.",
           "uz": "O'zingizni bilmaganga solmang — siz aniq bilasiz.",
           "tg": "Худро нодон накун — ту равшан медонӣ.",
@@ -1107,7 +1107,7 @@
         {
           "zh": "年龄大了，脑子糊涂也正常。",
           "ru": "С возрастом быть забывчивым — нормально.",
-          "tk": "Ýaş uly bolanda kelläniň garışmagy adaty.",
+          "tk": "Ýaşyň ulaldygyça, kelläňiň çaşmagy adaty zat.",
           "en": "As you age, getting confused is normal.",
           "uz": "Qariganingizda, sarosimaga tushish odatiy holdir.",
           "tg": "Ҳангоми пир шудан, саргум шудан муқаррарӣ аст.",
@@ -1116,7 +1116,7 @@
         {
           "zh": "这事把我搞糊涂了。",
           "ru": "Это дело меня запутало.",
-          "tk": "Bu iş meni bulaşdyrdy.",
+          "tk": "Bu meniň kellämi çaşyrdy.",
           "en": "This has muddled me.",
           "uz": "Bu meni sarosimaga soldi.",
           "tg": "Ин маро ошуфта кард.",
@@ -1125,7 +1125,7 @@
         {
           "zh": "他糊涂了一辈子，老了反而明白事理了。",
           "ru": "Он всю жизнь был несообразительным, а к старости вдруг поумнел.",
-          "tk": "Ol bütin ömrüni kellesi garışyk geçirdi, garraansoň akylly boldy.",
+          "tk": "Ol ömrüniň dowamynda kellä çaşyk ýaşady — ýöne garrylygynda paýhasly boldy.",
           "en": "He was muddleheaded all his life — but in old age he became wise.",
           "uz": "U butun umri chalkash bo'ldi — ammo qariganda dono bo'ldi.",
           "tg": "Ӯ тамоми умраш ошуфтаҳол буд — вале дар пиронсолӣ доно шуд.",
@@ -1134,7 +1134,7 @@
         {
           "zh": "你在学习上不能糊涂，要认真。",
           "ru": "В учёбе нельзя быть рассеянным — надо серьёзно.",
-          "tk": "Okuwda kelläň garışyk bolmaly däl — çynlakaý bolmaly.",
+          "tk": "Okuwda kelläňi çaşyrmaly däl — çynlakaý bolmaly.",
           "en": "In studies, you can't be confused — you must be serious.",
           "uz": "O'qishda chalkashib ketolmaysan — jiddiy bo'lishing kerak.",
           "tg": "Дар таҳсил шумо наметавонед ошуфта бошед — бояд ҷиддӣ бошед.",
@@ -1143,7 +1143,7 @@
         {
           "zh": "最近事情太多，我都有点儿糊涂了。",
           "ru": "В последнее время столько дел — я совсем запутался.",
-          "tk": "Soňky wagtlarda iş köp — men bulaşdym.",
+          "tk": "Gaty köp zat bolup geçdi — meniň kelläm çaşdy.",
           "en": "So much has been going on — I'm muddled.",
           "uz": "Shuncha narsa bo'lib o'tdi — boshim chalkashib ketdi.",
           "tg": "Бисёр чизҳо рӯй дода истодаанд — ман ошуфта шудаам.",
@@ -1256,7 +1256,7 @@
       "word_b": "成功",
       "common": {
         "ru": "Оба — «добиться цели».",
-        "tk": "Ikisi hem «maksada ýetmek».",
+        "tk": "Ikisi hem 'maksada ýetmek' manyny berýär.",
         "en": "Both mean 'to reach the goal'.",
         "uz": "Ikkalasi ham 'maqsadga erishish' ma'nosini bildiradi.",
         "tg": "Ҳарду маънои 'ба мақсад расидан'-ро доранд.",
@@ -1293,7 +1293,7 @@
         "pinyin": "qiāng",
         "meaning": {
           "ru": "винтовка",
-          "tk": "tüpeň",
+          "tk": "ýarag",
           "en": "gun",
           "uz": "qurol",
           "tg": "милтиқ",
@@ -1305,7 +1305,7 @@
         "pinyin": "shèjī",
         "meaning": {
           "ru": "стрельба",
-          "tk": "atylgy",
+          "tk": "atyşyk",
           "en": "shooting",
           "uz": "otishma",
           "tg": "тирандозӣ",
@@ -1377,7 +1377,7 @@
   "application": {
     "discussion": {
       "ru": "Как связать теорию с практикой? Приведите пример из жизни.",
-      "tk": "Teoriýany praktika bilen nähili baglanyşdyrmaly? Durmuşdan mysal getiriň.",
+      "tk": "Teoriýany praktika bilen nähili baglanyşdyrýarsyňyz? Bir mysal getiriň.",
       "en": "How do you connect theory with practice? Give an example.",
       "uz": "Nazariyani amaliyot bilan qanday bog'laysiz? Misol keltiring.",
       "tg": "Чӣ тавр назарияро бо амалия мепайвандед? Мисол оред.",

@@ -18,7 +18,7 @@
   "warmup": {
     "question": {
       "ru": "Как по-китайски называются части тела? Заполните.",
-      "tk": "Bedeniň bölekleri hytaýça nähili aýdylýar?",
+      "tk": "Hytaý dilinde beden agzalary nähili atlandyrylýar? Dolduryň.",
       "en": "How are body parts called in Chinese? Fill in.",
       "uz": "Xitoy tilida tana a'zolari qanday ataladi? To'ldiring.",
       "tg": "Дар забони чинӣ узвҳои бадан чӣ гуна ном бурда мешаванд? Пур кунед.",
@@ -67,7 +67,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "радиостанция",
-        "tk": "radio stantsiýa",
+        "tk": "radio stansiýasy",
         "en": "radio station",
         "uz": "radiostantsiya",
         "tg": "радиostantsiya",
@@ -80,7 +80,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "любящие (о паре)",
-        "tk": "söýgili",
+        "tk": "söýgüli (jübüt barada)",
         "en": "loving (of a couple)",
         "uz": "mehribon (juftlik haqida)",
         "tg": "меҳрубон (дар бораи ҷуфт)",
@@ -106,7 +106,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "попасть в шорт-лист",
-        "tk": "sanawa girmek",
+        "tk": "sanawa goşulmak",
         "en": "to be shortlisted",
         "uz": "saralashdan o'tmoq",
         "tg": "ба рӯйхат дохил шудан",
@@ -119,7 +119,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "член жюри",
-        "tk": "emin agzasy",
+        "tk": "sudýa",
         "en": "judge",
         "uz": "hakam",
         "tg": "довор",
@@ -145,7 +145,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "быть парализованным",
-        "tk": "ysmaz bolmak",
+        "tk": "ysgyn bolmak",
         "en": "to be paralyzed",
         "uz": "falaj bo'lmoq",
         "tg": "фалаҷ шудан",
@@ -184,7 +184,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "жаловаться",
-        "tk": "zeýrenmek",
+        "tk": "şikaýat etmek",
         "en": "to complain",
         "uz": "shikoyat qilmoq",
         "tg": "шикоят кардан",
@@ -197,7 +197,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "заботиться, беречь",
-        "tk": "goramak, gaýrat etmek",
+        "tk": "ideg etmek",
         "en": "to take care of",
         "uz": "g'amxo'rlik qilmoq",
         "tg": "ғамхорӣ кардан",
@@ -210,7 +210,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "брак",
-        "tk": "nika",
+        "tk": "nikah",
         "en": "marriage",
         "uz": "nikoh",
         "tg": "издивоҷ",
@@ -223,7 +223,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "ссориться",
-        "tk": "uruşmak",
+        "tk": "dawa etmek",
         "en": "to quarrel",
         "uz": "janjallashmoq",
         "tg": "ҷанҷол кардан",
@@ -236,7 +236,7 @@
       "pos": "идиом",
       "meaning": {
         "ru": "уважать друг друга как гостей",
-        "tk": "myhman ýaly hormatlamak",
+        "tk": "myhman ýaly hormat goýmak",
         "en": "to respect like guests",
         "uz": "mehmonlardek hurmat qilmoq",
         "tg": "мисли меҳмонон эҳтиром кардан",
@@ -249,7 +249,7 @@
       "pos": "adv.",
       "meaning": {
         "ru": "про себя",
-        "tk": "içinden",
+        "tk": "gizlin",
         "en": "secretly",
         "uz": "yashirincha",
         "tg": "пинҳонӣ",
@@ -262,7 +262,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "доходить по очереди",
-        "tk": "nobata gelmek",
+        "tk": "gezekleşmek",
         "en": "to take turns",
         "uz": "navbatlashmoq",
         "tg": "навбатӣ кардан",
@@ -353,7 +353,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "кривой, корявый",
-        "tk": "eğri-büğri",
+        "tk": "egri",
         "en": "crooked",
         "uz": "qiyshiq",
         "tg": "каҷ",
@@ -366,7 +366,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "передавать",
-        "tk": "uzatmak",
+        "tk": "tabşyrmak",
         "en": "to hand over",
         "uz": "uzatmoq",
         "tg": "додан, супоридан",
@@ -405,7 +405,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "рассказывать",
-        "tk": "beýan etmek",
+        "tk": "gürrüň bermek",
         "en": "to narrate",
         "uz": "hikoya qilmoq",
         "tg": "ҳикоя кардан",
@@ -431,7 +431,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "торопить",
-        "tk": "howlukdyrmak",
+        "tk": "çagyrmak",
         "en": "to urge",
         "uz": "undamoq",
         "tg": "ташвиқ кардан",
@@ -444,7 +444,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "ждать",
-        "tk": "garaşmak",
+        "tk": "saklamak",
         "en": "to wait",
         "uz": "kutmoq",
         "tg": "интизор шудан",
@@ -457,7 +457,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "комар",
-        "tk": "çiwe",
+        "tk": "çybyn",
         "en": "mosquito",
         "uz": "chivin",
         "tg": "пашша",
@@ -470,7 +470,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "полночь",
-        "tk": "ýary gije",
+        "tk": "ýarygije",
         "en": "midnight",
         "uz": "yarim tun",
         "tg": "нимишабӣ",
@@ -483,7 +483,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "кусать (о насекомом)",
-        "tk": "çakmak",
+        "tk": "dişlemek",
         "en": "to bite",
         "uz": "tishlamoq",
         "tg": "газидан",
@@ -509,7 +509,7 @@
       "pos": "v./adj.",
       "meaning": {
         "ru": "шуметь; шумный",
-        "tk": "gykylyk etmek; gykylykly",
+        "tk": "ses etmek; sesli",
         "en": "to make noise; noisy",
         "uz": "shovqin qilmoq; shovqinli",
         "tg": "ғавғо кардан; ғавғоӣ",
@@ -522,7 +522,7 @@
       "pos": "m.",
       "meaning": {
         "ru": "счётное слово (для пунктов, наград)",
-        "tk": "san sözi (maddalar üçin)",
+        "tk": "ölçeg sözi (zatlar, baýraklar üçin)",
         "en": "measure word (for items, awards)",
         "uz": "miqdor so'zi (narsalar, mukofotlar uchun)",
         "tg": "вожаи миқдор (барои чизҳо, ҷоизаҳо)",
@@ -535,7 +535,7 @@
       "pos": "идиом",
       "meaning": {
         "ru": "делить горе и радость",
-        "tk": "gama-gatlygy paýlaşmak",
+        "tk": "gamy-gussany paýlaşmak",
         "en": "to share weal and woe",
         "uz": "qiyinchilik va quvonchni baham ko'rmoq",
         "tg": "ғаму шодиро якҷоя кашидан",
@@ -549,7 +549,7 @@
       "pos": "pron.",
       "explanation": {
         "ru": "«如何» — местоимение, используется для вопроса о способе действия. Может стоять в конце предложения для выяснения состояния или мнения.",
-        "tk": "«如何» — hereket usulyny soramak üçin ulanylýan çalyşma. Sözlemiň soňunda hem bolup bilner.",
+        "tk": "'nähili' sözi usuly soramak üçin ulanylýan çalyşma. Sözlemiň soňunda hem gelip biler.",
         "en": "'如何' is a pronoun used to ask about manner. Can also be sentence-final.",
         "uz": "'如何' — 'qanday qilib' ma'nosini so'rash uchun ishlatiladigan olmosh. Gap oxirida ham kelishi mumkin.",
         "tg": "'如何' — ҷонишине, ки барои пурсидани тарз истифода мешавад. Дар охири ҷумла ҳам омада метавонад.",
@@ -568,7 +568,7 @@
         {
           "zh": "评委叫第一对夫妻说说他俩是如何恩爱的。",
           "ru": "Жюри попросило первую пару рассказать, как они любят друг друга.",
-          "tk": "Emin agzalary birinji jübüti nähili söýüşýändiklerini aýtmaga çagyrdy.",
+          "tk": "Kazylar birinji jübüte biri-birini nähili söýýändiklerini soradylar.",
           "en": "The judges asked the first couple how they loved each other.",
           "uz": "Hakamlar birinchi juftlikdan bir-birlarini qanday sevishlarini so'rashdi.",
           "tg": "Доварон аз ҷуфти аввал пурсиданд, ки чӣ гуна якдигарро дӯст медоранд.",
@@ -577,7 +577,7 @@
         {
           "zh": "我们希望由你来负责解决这个问题，如何？",
           "ru": "Хотим, чтобы ты взялся за решение, как тебе?",
-          "tk": "Bu meseläni çözmegi öz üstüňe almagyňy isleýäris, nähili?",
+          "tk": "Siziň jogapkärçiligi öz üstüňize almagyňyzy isleýäris, nähili?",
           "en": "We'd like you to take charge, how about it?",
           "uz": "Siz mas'ul bo'lishingizni istaymiz, rozimisiz?",
           "tg": "Мо мехоҳем, ки шумо масъул шавед, розӣ ҳастед?",
@@ -586,7 +586,7 @@
         {
           "zh": "你知道这个汉字如何读吗？",
           "ru": "Ты знаешь, как читается этот иероглиф?",
-          "tk": "Bu iýeroglifiň nähili okalýandygyny bilýärsiňmi?",
+          "tk": "Bu nyşany nähili okamalydygyny bilýärsiňizmi?",
           "en": "Do you know how to read this character?",
           "uz": "Bu ieroglifni qanday o'qishni bilasizmi?",
           "tg": "Шумо медонед, ки ин иероглифро чӣ гуна хонед?",
@@ -595,7 +595,7 @@
         {
           "zh": "请你告诉我，如何才能在短期内提高听力。",
           "ru": "Пожалуйста, скажи, как можно быстро улучшить восприятие на слух.",
-          "tk": "Haýyş, aýdyň, eşitmek ukybyny nähili gysga wagtda ýokarlandyryp bolar.",
+          "tk": "Gysga wagtyň içinde diňlemäni nähili gowulandyrmalydygyny maňa aýdyň.",
           "en": "Please tell me how to improve listening in a short time.",
           "uz": "Iltimos, qisqa vaqt ichida tinglashni qanday yaxshilashni ayting.",
           "tg": "Лутфан ба ман гӯед, ки дар вақти кӯтоҳ шуниданро чӣ гуна беҳтар кунам.",
@@ -604,7 +604,7 @@
         {
           "zh": "现在的年轻人该如何处理工作和生活的关系？",
           "ru": "Как современной молодёжи совмещать работу и личную жизнь?",
-          "tk": "Häzirki ýaşlar iş bilen şahsy durmuşyň gatnaşygyny nähili çözmeli?",
+          "tk": "Şu günki ýaşlar iş bilen şahsy durmuşy nähili deňleşdirmeli?",
           "en": "How should today's youth balance work and personal life?",
           "uz": "Bugungi yoshlar ish va shaxsiy hayotni qanday muvozanatlashi kerak?",
           "tg": "Ҷавонони имрӯз бояд кор ва ҳаёти шахсиро чӣ гуна мувозинат кунанд?",
@@ -622,7 +622,7 @@
         {
           "zh": "情况如何？能按期完成任务吗？",
           "ru": "Как обстановка? Сможем выполнить задачу в срок?",
-          "tk": "Ýagdaý nähili? Işi wagtynda ýerine ýetirip bilerismi?",
+          "tk": "Ýagdaý nähili? Wezipesini wagtynda tamamlap bilerismi?",
           "en": "How's the situation? Can we finish the task on time?",
           "uz": "Vaziyat qanday? Vazifani o'z vaqtida tugata olamizmi?",
           "tg": "Вазъият чӣ гуна аст? Вазифаро сари вақт иҷро карда метавонем?",
@@ -631,7 +631,7 @@
         {
           "zh": "这道题如何做，你能给我讲讲吗？",
           "ru": "Не объяснишь, как решать эту задачу?",
-          "tk": "Bu meseläni nähili çözmelidigini düşündirip bilermisiň?",
+          "tk": "Bu maşky nädip ýerine ýetirmelidigini düşündirip bilersiňizmi?",
           "en": "Can you explain how to do this exercise?",
           "uz": "Bu mashqni qanday bajarishni tushuntira olasizmi?",
           "tg": "Шумо метавонед шарҳ диҳед, ки ин машқро чӣ гуна иҷро кунам?",
@@ -640,7 +640,7 @@
         {
           "zh": "如何学习一门外语，每个人都有自己的方法。",
           "ru": "У каждого свой способ учить иностранный язык.",
-          "tk": "Daşary ýurt dilini nähili öwrenmelidigi barada her kimiň öz usuly bar.",
+          "tk": "Her kimde daşary ýurt dilini öwrenmegiň öz usuly bar.",
           "en": "Everyone has their own way of learning a foreign language.",
           "uz": "Har kimning chet tilini o'rganishda o'z usuli bor.",
           "tg": "Ҳар кас дар омӯзиши забони хориҷӣ тарзи худиро дорад.",
@@ -737,7 +737,7 @@
       "pos": "v.",
       "explanation": {
         "ru": "«靠» — глагол: «прислоняться, опираться», «полагаться на», «находиться рядом».",
-        "tk": "«靠» — işlik: «daýanmak», «bil baglamak», «ýakyn durmak».",
+        "tk": "'靠' 'bir zada daýanmak', 'bir zada bil baglamak', 'ýakyn bolmak' manylaryny aňladýar.",
         "en": "'靠' means 'to lean against', 'to rely on', 'to be near'.",
         "uz": "'靠' — 'suyanmoq', 'tayanmoq', 'yaqin bo'lmoq' ma'nolarini bildiradi.",
         "tg": "'靠' — 'такя кардан', 'умед бастан', 'наздик будан' маъноҳоро дорад.",
@@ -747,7 +747,7 @@
         {
           "zh": "王老师喜欢靠着桌子讲课。",
           "ru": "Учитель Ван любит читать лекции, опираясь на стол.",
-          "tk": "Wan mugallym stola daýanyp sapak bermegi halaýar.",
+          "tk": "Mugallym Wan leksiýa aýdanda stoluň üstüne daýanmagy halaýar.",
           "en": "Teacher Wang likes to lean on the desk while lecturing.",
           "uz": "Ustoz Vang ma'ruza o'qiyotganda stolga suyanishni yaxshi ko'radi.",
           "tg": "Устод Ванг ҳангоми дарс гуфтан ба миз такя карданро дӯст медорад.",
@@ -756,7 +756,7 @@
         {
           "zh": "男人的头靠在女人的肩膀上，睡着了。",
           "ru": "Голова мужчины лежала на плече женщины, он заснул.",
-          "tk": "Erkegiň kellesi aýalyň egnine daýanyp, uklap galypdyr.",
+          "tk": "Ol adamyň kellesi aýalyň egnine daýanyp, ukudan galdy.",
           "en": "The man's head leaned on the woman's shoulder, and he fell asleep.",
           "uz": "Erkakning boshi ayolning yelkasiga suyandi va u uxlab qoldi.",
           "tg": "Сари мард ба китфи зан такя кард ва вай хоб рафт.",
@@ -765,7 +765,7 @@
         {
           "zh": "在家靠父母，出门靠朋友。",
           "ru": "Дома опираешься на родителей, вдали от дома — на друзей.",
-          "tk": "Öýde ene-ataňa daýan, daşarda dostlaryňa.",
+          "tk": "Öýde ata-eneňe bil bagla; öýden daşda dostlaryňa bil bagla.",
           "en": "At home rely on parents; away from home, on friends.",
           "uz": "Uyda ota-onaga tayanasan, uydan tashqarida — do'stlarga.",
           "tg": "Дар хона ба волидон такя мекунӣ; берун аз хона — ба дӯстон.",
@@ -774,7 +774,7 @@
         {
           "zh": "我的座位是靠窗的，可以看到外面的风景。",
           "ru": "Моё место — у окна, можно смотреть на пейзаж.",
-          "tk": "Menim ornum penjiräniň ýanynda, daşardaky görnüşi görüp bolýar.",
+          "tk": "Meniň ýerim penjiriň ýanynda — görnüşi görüp bilersiňiz.",
           "en": "My seat is by the window — you can see the view.",
           "uz": "Mening joyim deraza yonida — manzarani ko'rish mumkin.",
           "tg": "Ҷои ман дар паҳлӯи тиреза аст — манзараро дидан мумкин аст.",
@@ -783,7 +783,7 @@
         {
           "zh": "想成功不能光靠运气，还要靠努力。",
           "ru": "Чтобы добиться успеха, нельзя полагаться только на удачу — нужны усилия.",
-          "tk": "Üstünlik gazanmak üçin diňe bagta bil baglap bolmaýar — tagalla hem gerek.",
+          "tk": "Üstünlik gazanmak üçin diňe bagta bil baglap bolmaýar — tagalla gerek.",
           "en": "To succeed you can't rely on luck alone — you need effort.",
           "uz": "Muvaffaqiyatga erishish uchun faqat omadga tayanib bo'lmaydi — harakat kerak.",
           "tg": "Барои муваффақ шудан танҳо ба бахт такя кардан мумкин нест — кӯшиш лозим аст.",
@@ -792,7 +792,7 @@
         {
           "zh": "这家饭店靠着地铁站，交通很方便。",
           "ru": "Этот ресторан рядом с метро, очень удобно добираться.",
-          "tk": "Bu restoran metronyň ýanynda, gitmek aňsat.",
+          "tk": "Bu restoran metro ýakynynda — örän amatly.",
           "en": "This restaurant is near the subway — very convenient.",
           "uz": "Bu restoran metro yonida — juda qulay.",
           "tg": "Ин тарабхона назди метро аст — хеле қулай.",
@@ -801,7 +801,7 @@
         {
           "zh": "他靠着墙站着，一言不发。",
           "ru": "Он стоял, прислонившись к стене, и молчал.",
-          "tk": "Ol diwara daýanyp, hiç zat aýtman durdy.",
+          "tk": "Ol diwara ýönekeyip, hiç zat aýtman durdy.",
           "en": "He stood leaning against the wall, saying nothing.",
           "uz": "U devorga suyanib, hech narsa demasdan turdi.",
           "tg": "Вай ба девор такя карда, чизе нагуфта истод.",
@@ -810,7 +810,7 @@
         {
           "zh": "现在找工作，光靠学历是不够的。",
           "ru": "Сейчас при поиске работы одного диплома недостаточно.",
-          "tk": "Häzir iş gözläninde diňe diplom ýeterlik däl.",
+          "tk": "Häzirki döwürde diňe diplom bilen iş tapyp bolmaýar.",
           "en": "Nowadays a diploma alone isn't enough to find a job.",
           "uz": "Hozirgi kunda faqat diplom ish topish uchun yetarli emas.",
           "tg": "Дар замони имрӯз танҳо диплом барои ёфтани кор кофӣ нест.",
@@ -828,7 +828,7 @@
         {
           "zh": "她一个人靠在沙发上，静静地看书。",
           "ru": "Она сидела одна на диване, тихо читая книгу.",
-          "tk": "Ol diwanda ýeke özi oturyp, sessiz kitap okaýardy.",
+          "tk": "Ol diwanda ýeke özi oturyp, sessizje kitap okaýardy.",
           "en": "She sat alone on the sofa, quietly reading a book.",
           "uz": "U divanda yolg'iz o'tirib, jimgina kitob o'qidi.",
           "tg": "Вай танҳо дар диван нишаста, хомӯшона китоб хонд.",
@@ -925,7 +925,7 @@
       "pos": "adv.",
       "explanation": {
         "ru": "«居然» — наречие, выражает удивление: «оказывается», «вопреки ожиданиям».",
-        "tk": "«居然» — hal, geň galmaklygy bildirýär: «garaşylmadyk ýagdaýda».",
+        "tk": "'居然' geň galmagy aňladýar: 'garaşylmadyk ýagdaýda'.",
         "en": "'居然' indicates surprise: 'unexpectedly'.",
         "uz": "'居然' — hayratni bildiradi: 'kutilmaganda'.",
         "tg": "'居然' — ҳайратро ифода мекунад: 'ногаҳон'.",
@@ -935,7 +935,7 @@
         {
           "zh": "这么简单的题，你居然也不会做？",
           "ru": "Такую простую задачу ты, оказывается, тоже не можешь решить?",
-          "tk": "Beýle ýönekeý meseläni hem çözüp bilmeýärsiňmi?",
+          "tk": "Şeýle ýönekeý mesele — senem çözüp bilmeýärsiňmi?",
           "en": "Such a simple problem — and you can't solve it either?",
           "uz": "Bunchalik oddiy muammo — siz ham hal qila olmaysizmi?",
           "tg": "Масъалаи ин қадар оддӣ — шумо ҳам ҳал карда наметавонед?",
@@ -944,7 +944,7 @@
         {
           "zh": "没想到居然在这儿碰到你！",
           "ru": "Не думал, что встречу тебя именно здесь!",
-          "tk": "Seni şu ýerde duşjak boljakdygymy pikir hem etmedim!",
+          "tk": "Seni bu ýerde duşaryma garaşmadym!",
           "en": "Didn't expect to run into you here!",
           "uz": "Sizni bu yerda uchratamiz deb o'ylamagan edim!",
           "tg": "Шуморо дар ин ҷо вохӯрам гумон намекардам!",
@@ -953,7 +953,7 @@
         {
           "zh": "这个女人居然放弃这次机会！",
           "ru": "Эта женщина, оказывается, отказалась от такой возможности!",
-          "tk": "Bu aýal bu mümkinçilikden ýüz öwürdi!",
+          "tk": "Bu aýal hakykatdanam şeýle mümkinçilikden ýüz öwürdi!",
           "en": "This woman actually gave up such an opportunity!",
           "uz": "Bu ayol haqiqatan ham bunday imkoniyatdan voz kechdi!",
           "tg": "Ин зан воқеан аз чунин имконият даст кашид!",
@@ -962,7 +962,7 @@
         {
           "zh": "他居然真的通过了考试，太让人意外了。",
           "ru": "Он, оказывается, действительно сдал экзамен — очень неожиданно.",
-          "tk": "Ol hakykatdan hem ekzamenden geçdi — garaşylmadyk zat.",
+          "tk": "Ol hakykatdanam ekzameni geçdi — nähili geň!",
           "en": "He actually passed the exam — how surprising.",
           "uz": "U imtihondan o'tdi — qanday hayratlanarli.",
           "tg": "Вай имтиҳонро супорид — чӣ ҳайратовар.",
@@ -971,7 +971,7 @@
         {
           "zh": "昨天我们找了一整天，他居然一直在家里。",
           "ru": "Вчера мы искали его весь день, а он, оказывается, всё время был дома.",
-          "tk": "Düýn biz ony bütin gün gözledik, ol bolsa öýde eken.",
+          "tk": "Düýn bütin gün gözledik — ol bolsa öýde eken.",
           "en": "Yesterday we searched all day — and he was home the whole time.",
           "uz": "Kecha kun bo'yi qidirdik — u esa uyda edi.",
           "tg": "Дирӯз тамоми рӯз ҷустем — вай дар хона буд.",
@@ -980,7 +980,7 @@
         {
           "zh": "这次比赛他居然得了第一名。",
           "ru": "В этом соревновании он, оказывается, занял первое место.",
-          "tk": "Bu ýaryşda ol birinji orny eýeledi.",
+          "tk": "Bu ýaryşda ol garaşylmadyk ýagdaýda birinji orny eýeledi.",
           "en": "In this competition, he unexpectedly took first place.",
           "uz": "Bu musobaqada u kutilmaganda birinchi o'rinni egalladi.",
           "tg": "Дар ин мусобиқа вай ногаҳон ҷои аввалро гирифт.",
@@ -989,7 +989,7 @@
         {
           "zh": "我昨天买了一张彩票，居然中了！",
           "ru": "Вчера купил лотерейный билет — и, оказывается, выиграл!",
-          "tk": "Düýn bir lotereýa bileti satyn aldym — ýeňiş gazandym!",
+          "tk": "Düýn lotereýa bileti satyn aldym — we hakykatdanam utdum!",
           "en": "I bought a lottery ticket yesterday — and actually won!",
           "uz": "Kecha lotereya chiptasi sotib oldim — va yutdim!",
           "tg": "Дирӯз чиптаи лотерея харидам — ва бурдам!",
@@ -998,7 +998,7 @@
         {
           "zh": "他看起来很年轻，居然已经五十多岁了。",
           "ru": "Он выглядит молодо, а ему, оказывается, уже за пятьдесят.",
-          "tk": "Ol ýaş görünýär, emma eýýäm elliden geçen eken.",
+          "tk": "Ol ýaş görünýär, ýöne geň galdyryjy ýagdaýda elliden geçen.",
           "en": "He looks young, but he's surprisingly over fifty.",
           "uz": "U yosh ko'rinadi, lekin ellikdan oshgan — hayratlanarli.",
           "tg": "Вай ҷавон менамояд, аммо аз панҷоҳ гузаштааст — ҳайратовар.",
@@ -1007,7 +1007,7 @@
         {
           "zh": "这么重要的事，他居然忘了。",
           "ru": "Такое важное дело он, оказывается, забыл.",
-          "tk": "Beýle möhüm zady ol ýatdan çykarypdyr.",
+          "tk": "Şeýle möhüm mesele — ol muny ýatdan çykardy.",
           "en": "Such an important matter — and he forgot it.",
           "uz": "Bunchalik muhim ish — u esa uni unutdi.",
           "tg": "Кори ин қадар муҳим — вай онро фаромӯш кард.",
@@ -1016,7 +1016,7 @@
         {
           "zh": "你居然还记得我的生日，我太感动了！",
           "ru": "Ты, оказывается, ещё помнишь мой день рождения — как трогательно!",
-          "tk": "Sen meniň doglan günümi henizem ýatda saklaýarsyň — örän täsirli!",
+          "tk": "Sen meniň doglan günümi henizem ýatlaýarsyň — men gaty täsirlendim!",
           "en": "You still remember my birthday — I'm so touched!",
           "uz": "Siz hali ham tug'ilgan kunimni eslaysiz — juda ta'sirlandim!",
           "tg": "Шумо ҳанӯз рӯзи таваллуди маро дар ёд доред — хеле таъсир кардам!",
@@ -1152,7 +1152,7 @@
       "word_b": "怎么",
       "common": {
         "ru": "Оба — местоимения, могут использоваться для вопроса о способе.",
-        "tk": "Ikisi hem çalyşma, usul soramak üçin ulanylýar.",
+        "tk": "Ikisi hem hal-ýagdaýy soraýan çalyşmalar.",
         "en": "Both are pronouns asking about manner.",
         "uz": "Ikkalasi ham usul haqida so'raydigan olmosh.",
         "tg": "Ҳар ду ҷонишине, ки дар бораи тарз мепурсанд.",
@@ -1197,7 +1197,7 @@
         "pinyin": "wàigōng",
         "meaning": {
           "ru": "дедушка по матери",
-          "tk": "mamanyň kakasy",
+          "tk": "ene tarapdan ata",
           "en": "maternal grandfather",
           "uz": "ona tomondan bobo",
           "tg": "бобои модарӣ",
@@ -1209,7 +1209,7 @@
         "pinyin": "lǎolao",
         "meaning": {
           "ru": "бабушка по матери",
-          "tk": "mamanyň ejesi",
+          "tk": "ene tarapdan ene",
           "en": "maternal grandmother",
           "uz": "ona tomondan buvi",
           "tg": "бибии модарӣ",
@@ -1221,7 +1221,7 @@
         "pinyin": "gūgu",
         "meaning": {
           "ru": "тётя (сестра отца)",
-          "tk": "kakanyň aýal dogany",
+          "tk": "kaka tarapdan daýza",
           "en": "paternal aunt",
           "uz": "ota tomondan xola",
           "tg": "холаи падарӣ",
@@ -1233,7 +1233,7 @@
         "pinyin": "jiùjiu",
         "meaning": {
           "ru": "дядя (брат матери)",
-          "tk": "mamanyň erkek dogany",
+          "tk": "ene tarapdan daýy",
           "en": "maternal uncle",
           "uz": "ona tomondan tog'a",
           "tg": "тағои модарӣ",
@@ -1245,7 +1245,7 @@
         "pinyin": "tàitai",
         "meaning": {
           "ru": "супруга (уваж.)",
-          "tk": "aýal (hormatly)",
+          "tk": "halal aýal",
           "en": "wife (respectful)",
           "uz": "xotin (hurmat bilan)",
           "tg": "зан (бо эҳтиром)",
@@ -1257,7 +1257,7 @@
         "pinyin": "xiǎoqi",
         "meaning": {
           "ru": "мелочный, жадный",
-          "tk": "gaýrym",
+          "tk": "pyssy",
           "en": "stingy",
           "uz": "qizg'anchiq",
           "tg": "хасис",
@@ -1269,7 +1269,7 @@
         "pinyin": "zhōudào",
         "meaning": {
           "ru": "внимательный",
-          "tk": "ünsli",
+          "tk": "pikirli",
           "en": "thoughtful",
           "uz": "e'tiborli",
           "tg": "диққатнок",
@@ -1281,7 +1281,7 @@
         "pinyin": "tǎnshuài",
         "meaning": {
           "ru": "откровенный",
-          "tk": "açyk",
+          "tk": "akýürek",
           "en": "frank",
           "uz": "samimiy",
           "tg": "самимӣ",
@@ -1293,7 +1293,7 @@
   "application": {
     "discussion": {
       "ru": "Согласны ли вы, что «родительская любовь бескорыстна и велика»? Приведите пример.",
-      "tk": "«Ene-atanyň söýgüsi beýik» diýen pikire ylalaşýarsyňyzmy?",
+      "tk": "«Ata-enäniň söýgüsi özüne bähbitli däl we beýik» diýen pikire goşulýarsyňyzmy? Mysal getiriň.",
       "en": "Do you agree 'parental love is selfless and great'? Give an example.",
       "uz": "«Ota-ona sevgisi fidoyi va buyukdir» degan fikrga qo'shilasizmi? Misol keltiring.",
       "tg": "Оё бо фикри «муҳаббати волидон беғараз ва бузург аст» розӣ ҳастед? Мисол оред.",

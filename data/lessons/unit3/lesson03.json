@@ -2,7 +2,7 @@
   "title": {
     "zh": "别样鲁迅",
     "ru": "Другой Лу Синь",
-    "tk": "Başgaça Lu Sýun",
+    "tk": "Siziň bilmeýän Lu Şunyz",
     "en": "The Lu Xun You Don't Know",
     "uz": "Boshqacha Lu Sin",
     "tg": "Лу Син дигар",
@@ -18,7 +18,7 @@
   "warmup": {
     "question": {
       "ru": "Кто такой Лу Синь? Что вы о нём знаете?",
-      "tk": "Lu Sýun kim? Onuň barada näme bilýärsiňiz?",
+      "tk": "Lu Xun kimdi? Onuň hakda näme bilýärsiňiz?",
       "en": "Who was Lu Xun? What do you know about him?",
       "uz": "Lu Xun kim edi? U haqida nimalarni bilasiz?",
       "tg": "Лу Син ки буд? Шумо дар бораи ӯ чӣ медонед?",
@@ -61,7 +61,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "выдающийся, заметный",
-        "tk": "tapawutly",
+        "tk": "meşhur",
         "en": "prominent",
         "uz": "taniqli",
         "tg": "машҳур",
@@ -74,7 +74,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "литератор",
-        "tk": "edebiýatçy",
+        "tk": "ýazyjy",
         "en": "writer",
         "uz": "yozuvchi",
         "tg": "нависанда",
@@ -87,7 +87,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "считать(ся)",
-        "tk": "hasaplamak",
+        "tk": "hasap etmek",
         "en": "to count as",
         "uz": "hisoblanmoq",
         "tg": "ҳисобидан",
@@ -113,7 +113,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "эксперт, знаток",
-        "tk": "bilermen",
+        "tk": "hünärmen",
         "en": "expert",
         "uz": "mutaxassis",
         "tg": "мутахассис",
@@ -126,7 +126,7 @@
       "pos": "adv.",
       "meaning": {
         "ru": "лично",
-        "tk": "özüň",
+        "tk": "şahsy",
         "en": "personally",
         "uz": "shaxsan",
         "tg": "шахсан",
@@ -152,7 +152,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "новая история",
-        "tk": "häzirki döwür",
+        "tk": "häzirki zaman",
         "en": "modern times",
         "uz": "zamonaviy davr",
         "tg": "замони муосир",
@@ -191,7 +191,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "закуска, десерт",
-        "tk": "süýjülik",
+        "tk": "desert",
         "en": "dessert",
         "uz": "desert",
         "tg": "десерт",
@@ -204,7 +204,7 @@
       "pos": "v./prep.",
       "meaning": {
         "ru": "быть, как",
-        "tk": "hökmünde",
+        "tk": "hökmünde, bolup",
         "en": "as, being",
         "uz": "sifatida, bo'lib",
         "tg": "ҳамчун, будан",
@@ -230,7 +230,7 @@
       "pos": "v./adj.",
       "meaning": {
         "ru": "разбираться, придавать значение",
-        "tk": "üns bermek",
+        "tk": "aýratyn üns bermek",
         "en": "to be particular about",
         "uz": "talab qilmoq",
         "tg": "диққат додан ба",
@@ -256,7 +256,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "хутун, переулок",
-        "tk": "hutun (köçe)",
+        "tk": "ýol",
         "en": "alley",
         "uz": "yo'lak",
         "tg": "кӯча",
@@ -282,7 +282,7 @@
       "pos": "n./m.",
       "meaning": {
         "ru": "первый; счётное слово для песен/стихов",
-        "tk": "birinji; goşgy üçin san sözi",
+        "tk": "birinji; aýdym/şygyr üçin ölçeg birligi",
         "en": "first; MW for songs/poems",
         "uz": "birinchi; qo'shiq/she'r uchun o'lchov birligi",
         "tg": "аввал; воҳиди ченак барои сурудҳо/шеърҳо",
@@ -295,7 +295,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "роскошный",
-        "tk": "haşamly",
+        "tk": "kaşaň",
         "en": "luxurious",
         "uz": "hashamatli",
         "tg": "боҳашамат",
@@ -308,7 +308,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "посещать (вежл.)",
-        "tk": "gulmek",
+        "tk": "baryp görmek",
         "en": "to visit",
         "uz": "tashrif buyurmoq",
         "tg": "дидан",
@@ -321,7 +321,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "общение",
-        "tk": "aragatnaşyk",
+        "tk": "jemgyýetçilik aragatnaşygy",
         "en": "social contact",
         "uz": "ijtimoiy aloqa",
         "tg": "муоширати иҷтимоӣ",
@@ -334,7 +334,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "щедрый",
-        "tk": "saýy",
+        "tk": "jomart",
         "en": "generous",
         "uz": "saxiy",
         "tg": "саховатманд",
@@ -347,7 +347,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "гостеприимный",
-        "tk": "myhmansöýer",
+        "tk": "myhmançylykly",
         "en": "hospitable",
         "uz": "mehmondo'st",
         "tg": "меҳмоннавоз",
@@ -360,7 +360,7 @@
       "pos": "идиом",
       "meaning": {
         "ru": "созывать друзей",
-        "tk": "dostlary çagyrmak",
+        "tk": "dostlary ýygnamak",
         "en": "to call friends together",
         "uz": "do'stlarni chaqirmoq",
         "tg": "дӯстонро даъват кардан",
@@ -373,7 +373,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "угощать, принимать",
-        "tk": "kabul etmek",
+        "tk": "myhman almak",
         "en": "to entertain",
         "uz": "mehmon qilmoq",
         "tg": "зиёфат кардан",
@@ -386,7 +386,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "высококлассный",
-        "tk": "ýokary derejeli",
+        "tk": "ýokary hilli",
         "en": "high-grade",
         "uz": "yuqori sifatli",
         "tg": "баландсифат",
@@ -438,7 +438,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "бросить (привычку)",
-        "tk": "taşlamak",
+        "tk": "ýüz döndürmek",
         "en": "to give up",
         "uz": "voz kechmoq",
         "tg": "даст кашидан",
@@ -464,7 +464,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "материалы, данные",
-        "tk": "maglumat",
+        "tk": "maglumat, material",
         "en": "data, material",
         "uz": "ma'lumot, material",
         "tg": "маълумот, мавод",
@@ -477,7 +477,7 @@
       "pos": "adv.",
       "meaning": {
         "ru": "когда-то, раньше",
-        "tk": "bir wagtlar",
+        "tk": "bir wagtlar, öňler",
         "en": "once, in the past",
         "uz": "bir vaqtlar, o'tmishda",
         "tg": "як вақт, дар гузашта",
@@ -490,7 +490,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "описывать",
-        "tk": "suratlandyrmak",
+        "tk": "beýan etmek",
         "en": "to describe",
         "uz": "tasvirlamoq",
         "tg": "тавсиф кардан",
@@ -503,7 +503,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "сонный, затуманенный",
-        "tk": "ukuly",
+        "tk": "ukusy gelen",
         "en": "drowsy",
         "uz": "uyquchan",
         "tg": "хоболуд",
@@ -516,7 +516,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "неторопливый, отдалённый",
-        "tk": "haýallyk",
+        "tk": "asuda",
         "en": "leisurely",
         "uz": "bemalol",
         "tg": "осуда",
@@ -529,7 +529,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "образный, яркий",
-        "tk": "şekilli",
+        "tk": "aýdyň",
         "en": "vivid",
         "uz": "yorqin",
         "tg": "равшан",
@@ -543,7 +543,7 @@
       "pos": "v.",
       "explanation": {
         "ru": "«算» — «считать(ся), признавать». «算了» — «ладно, хватит».",
-        "tk": "«算» — «hasaplamak». «算了» — «bolýar, ýeter».",
+        "tk": "'算' — 'hasap etmek, saymak'. '算了' — 'zyýany ýok, goý, unut'",
         "en": "'算' — 'to count as, regard as'. '算了' — 'never mind, forget it'.",
         "uz": "'算' — 'hisoblamoq, deb hisoblamoq'. '算了' — 'mayli, qo'ya qol'.",
         "tg": "'算' — 'ҳисобидан, ба ҳисоб гирифтан'. '算了' — 'ҳеҷ гап не, фаромӯш кун'.",
@@ -553,7 +553,7 @@
         {
           "zh": "例如著名的文学家鲁迅，在吃喝这件事上，就算是个地道的行家。",
           "ru": "Например, известный писатель Лу Синь в еде и питье был настоящим знатоком.",
-          "tk": "Mysal üçin meşhur ýazyjy Lu Sýun nahar-içgi boýunça hakyky bilermen boldy.",
+          "tk": "Meselem, meşhur ýazyjy Lu Şun hakyky aşpezdi.",
           "en": "For example, famous writer Lu Xun was a true gourmet.",
           "uz": "Masalan, mashhur yozuvchi Lu Sin haqiqiy gurman edi.",
           "tg": "Масалан, нависандаи машҳур Лу Син як гастрономи ҳақиқӣ буд.",
@@ -562,7 +562,7 @@
         {
           "zh": "这钱就算我借给你的，将来你有了的时候再还我。",
           "ru": "Считай, что я тебе одолжил — вернёшь, когда будут деньги.",
-          "tk": "Bu puly saňa karz beren hasapla — puluň bolanda yzyna ber.",
+          "tk": "Bergi hasap et — mümkin bolanda yzyna ber.",
           "en": "Consider it a loan — pay me back when you can.",
           "uz": "Buni qarz deb hisobla — imkoning bo'lganda menga qaytar.",
           "tg": "Онро қарз ҳисоб кун — ҳар вақте ки тавонӣ, ба ман баргардон.",
@@ -571,7 +571,7 @@
         {
           "zh": "不就是一个空瓶子吗？扔掉算了。",
           "ru": "Подумаешь, пустая бутылка — выброси и всё.",
-          "tk": "Bir boş çüýşe-ä — zyňyber, gutardy.",
+          "tk": "Diňe boş çüýşe — ony zyňyň.",
           "en": "Just an empty bottle — throw it away.",
           "uz": "Shunchaki bo'sh shisha — uni tashlab yubor.",
           "tg": "Танҳо як шишаи холӣ — онро парто.",
@@ -580,7 +580,7 @@
         {
           "zh": "算了吧，你跑得再快，也追不上会飞的鸟啊。",
           "ru": "Да брось, как бы быстро ты ни бежал, летящую птицу не догонишь.",
-          "tk": "Goý, näçe çalt ylgasaň-da, uçýan guşy kowup ýetmersiň.",
+          "tk": "Goý, unut — näçe çalt ylgasaňam, uçýan guşy tutup bilmersiň.",
           "en": "Forget it — no matter how fast you run, you can't catch a flying bird.",
           "uz": "Qo'y — qanchalik tez yugursang ham, uchayotgan qushni tuta olmaysan.",
           "tg": "Фаромӯш кун — ҳар қадар тез давоӣ, ту паррандаи парвозкунандаро наметавонӣ дошта бошӣ.",
@@ -589,7 +589,7 @@
         {
           "zh": "从我家去公司，坐几站地铁就到了，算很方便。",
           "ru": "Из дома на работу — несколько станций метро, считается очень удобно.",
-          "tk": "Öýden işe metro birnäçe duralga — amatly hasaplanýar.",
+          "tk": "Öýden ofise çenli birnäçe metro duralgasy — gaty amatly.",
           "en": "From home to the office is a few subway stops — quite convenient.",
           "uz": "Uydan ofisgacha bir necha metro bekati — ancha qulay.",
           "tg": "Аз хона то офис чанд истгоҳи метро — хеле қулай.",
@@ -598,7 +598,7 @@
         {
           "zh": "这事就当没发生过，算了。",
           "ru": "Считай, этого не было — забудь.",
-          "tk": "Bu zat bolmadyk ýaly hasapla — goý.",
+          "tk": "Hiç wagt bolmadyk ýaly hasap et — unut.",
           "en": "Consider it never happened — forget it.",
           "uz": "Bu hech qachon bo'lmagandek hisobla — unut.",
           "tg": "Гуё ки ҳеҷ гоҳ рӯй надодааст — фаромӯш кун.",
@@ -616,7 +616,7 @@
         {
           "zh": "这次就算我请客吧。",
           "ru": "Считай, что в этот раз угощаю я.",
-          "tk": "Bu gezek men myhmançylyk edýärin hasapla.",
+          "tk": "Buny meniň myhmançylygym hasaplalyň.",
           "en": "Let's count this as my treat.",
           "uz": "Buni mening mehmondorchiligim deb hisoblaylik.",
           "tg": "Биё инро ҳамчун меҳмоннавозии ман ҳисоб кунем.",
@@ -634,7 +634,7 @@
         {
           "zh": "算了，别争了。",
           "ru": "Ладно, хватит спорить.",
-          "tk": "Bolýar, jedelleşmäň.",
+          "tk": "Bolýar — jedeli goýuň.",
           "en": "Alright — stop arguing.",
           "uz": "Xo'p — janjallashishni bas qil.",
           "tg": "Хуб — баҳсро бас кун.",
@@ -712,7 +712,7 @@
       "pos": "v./prep.",
       "explanation": {
         "ru": "«作为» — «использовать как»; как предлог — «в качестве».",
-        "tk": "«作为» — «hökmünde ulanmak»; goşma söz hökmünde «-hökmünde».",
+        "tk": "'作为' — 'hökmünde ulanmak'; predlog 'hökmünde, bolup'.",
         "en": "'作为' — 'to use as'; prep. 'as, being'.",
         "uz": "'作为' — 'sifatida foydalanmoq'; predlog 'sifatida, bo'lib'.",
         "tg": "'作为' — 'истифода бурдан ҳамчун'; пеш. 'ҳамчун, будан'.",
@@ -722,7 +722,7 @@
         {
           "zh": "作为大作家、大学问家，鲁迅对吃很讲究。",
           "ru": "Как большой писатель и учёный, Лу Синь был придирчив к еде.",
-          "tk": "Uly ýazyjy we alym hökmünde Lu Sýun iýmit meselesine üns berýärdi.",
+          "tk": "Beýik ýazyjy we alym hökmünde Lu Şun iýmit meselesinde örän ünsli bolupdyr.",
           "en": "As a great writer and scholar, Lu Xun was particular about food.",
           "uz": "Buyuk yozuvchi va olim sifatida Lu Xun ovqatga nisbatan talabchan edi.",
           "tg": "Ҳамчун нависанда ва олими бузург, Лу Син ба хӯрок эътибони хосса дошт.",
@@ -731,7 +731,7 @@
         {
           "zh": "北海公园离家最近，所以我把那儿作为每晚散步的去处。",
           "ru": "Парк Бэйхай ближе всего — я сделал его местом вечерних прогулок.",
-          "tk": "Beýhai seýilgähi öýe iň ýakyn — men ony agşam gezelenji üçin ýer etdim.",
+          "tk": "Beýhai seýilgähi iň ýakyn — men ony agşamky gezelenç ýerim edindim.",
           "en": "Beihai Park is closest — I made it my evening walk spot.",
           "uz": "Beihai bog'i eng yaqin — men uni kechki sayr joyim qilib oldim.",
           "tg": "Боғи Бэйҳай аз ҳама наздик аст — ман онро ҷои сайру гашти бегоҳии худ кардам.",
@@ -740,7 +740,7 @@
         {
           "zh": "经理要请我去吃顿饭，说是作为我加班的表扬。",
           "ru": "Менеджер пригласил поесть — в знак благодарности за переработку.",
-          "tk": "Menejer nahar çagyrdy — iş wagtyndan soň zähmetimiň sylagy hökmünde.",
+          "tk": "Menejer işden soňky goşmaça wagty üçin minnetdarlyk hökmünde meni nahara çagyrdy.",
           "en": "The manager invited me for a meal as praise for overtime.",
           "uz": "Menejer qo'shimcha ishlaganim uchun maqtov sifatida meni ovqatga taklif qildi.",
           "tg": "Мудир маро барои корҳои изофа вақт ба хӯрок даъват кард.",
@@ -749,7 +749,7 @@
         {
           "zh": "西红柿是世界上种植非常普遍的蔬菜，中国作为主要生产国之一也在扩大种植面积。",
           "ru": "Томат — самая распространённая овощная культура, и Китай как один из основных производителей расширяет посевы.",
-          "tk": "Pomidor iň ýaýran gök önüm, Hytaý esasy öndürijileriň biri hökmünde ekin meýdanyny giňeldýär.",
+          "tk": "Pomidor giň ösdürilýän gök önümdir, we esasy öndüriji hökmünde Hytaý öz meýdanlaryny giňeldýär.",
           "en": "Tomato is a widely grown vegetable, and China as a major producer is expanding its fields.",
           "uz": "Pomidor keng yetishtiriladigan sabzavot bo'lib, yirik ishlab chiqaruvchi Xitoy o'z dalalarini kengaytirmoqda.",
           "tg": "Помидор як сабзавоти васеъ парваришшаванда аст ва Чин ҳамчун истеҳсолкунандаи асосӣ соҳаҳои худро васеъ мекунад.",
@@ -758,7 +758,7 @@
         {
           "zh": "作为一名教师，治病救人不是我的职责。",
           "ru": "Как учитель, лечить людей — не моя обязанность.",
-          "tk": "Mugallym hökmünde adamlary bejermek meniň borjum däl.",
+          "tk": "Mugallym hökmünde, hassalary bejermek meniň işim däl.",
           "en": "As a teacher, treating the sick isn't my job.",
           "uz": "O'qituvchi sifatida, kasallarni davolash mening ishim emas.",
           "tg": "Ҳамчун муаллим, табобати беморон кори ман нест.",
@@ -767,7 +767,7 @@
         {
           "zh": "他作为公司的代表参加了会议。",
           "ru": "Он присутствовал на совещании как представитель компании.",
-          "tk": "Ol kompaniýanyň wekili hökmünde maslahata gatnaşdy.",
+          "tk": "Ol kompaniýanyň wekili hökmünde gatnaşdy.",
           "en": "He attended as the company's representative.",
           "uz": "U kompaniya vakili sifatida qatnashdi.",
           "tg": "Вай ҳамчун намояндаи ширкат иштирок кард.",
@@ -785,7 +785,7 @@
         {
           "zh": "作为父母，应该多关心孩子。",
           "ru": "Как родители, должны больше заботиться о детях.",
-          "tk": "Ene-ata hökmünde çagalara has köp üns bermeli.",
+          "tk": "Ene-ata hökmünde, biz çagalara has köp alada etmeli.",
           "en": "As parents, we should care more for children.",
           "uz": "Ota-ona sifatida biz bolalarga ko'proq g'amxo'rlik qilishimiz kerak.",
           "tg": "Ҳамчун волидон, мо бояд бештар ба кӯдакон ғамхорӣ кунем.",
@@ -803,7 +803,7 @@
         {
           "zh": "他作为一名医生，非常有责任心。",
           "ru": "Как врач, он очень ответственный.",
-          "tk": "Lukman hökmünde ol örän jogapkärli.",
+          "tk": "Lukman hökmünde ol gaty jogapkär.",
           "en": "As a doctor, he's very responsible.",
           "uz": "Shifokor sifatida u juda mas'uliyatli.",
           "tg": "Ҳамчун духтур, вай хеле масъулиятшинос аст.",
@@ -878,7 +878,7 @@
       "pos": "adv.",
       "explanation": {
         "ru": "«曾经» — «когда-то, ранее». О прошлом опыте, часто с «过».",
-        "tk": "«曾经» — «bir wagtlar». Geçmiş tejribe barada.",
+        "tk": "'曾经' — 'bir wagtlar, öň'. Geçmiş tejribe üçin, köplenç '过' bilen ulanylýar.",
         "en": "'曾经' — 'once, formerly'. For past experience, often with '过'.",
         "uz": "'曾经' — 'bir vaqtlar, ilgari'. O'tmish tajribasi uchun, ko'pincha '过' bilan.",
         "tg": "'曾经' — 'як вақт, пештар'. Барои таҷрибаи гузашта, аксар вақт бо '过'.",
@@ -888,7 +888,7 @@
         {
           "zh": "郁达夫在1933年曾经作诗形容他。",
           "ru": "Юй Дафу в 1933 году написал о нём стихи.",
-          "tk": "Ýuý Dafu 1933-nji ýylda ony beýan edip goşgy ýazdy.",
+          "tk": "Ýu Dafu bir gezek 1933-nji ýylda ony beýan edýän goşgy ýazypdyr.",
           "en": "Yu Dafu once wrote a poem describing him in 1933.",
           "uz": "Yu Dafu bir marta 1933-yilda uni tasvirlab she'r yozgan.",
           "tg": "Ю Дафу соли 1933 шеъре навишт, ки ӯро тавсиф мекунад.",
@@ -897,7 +897,7 @@
         {
           "zh": "鲁迅曾经说他是将别人喝牛奶、咖啡的时间用来学习。",
           "ru": "Лу Синь говорил, что использовал время, пока другие пили молоко и кофе, для учёбы.",
-          "tk": "Lu Sýun başgalar süýt we kofe içen wagtyny okamak üçin ulanýandygyny aýdardy.",
+          "tk": "Lu Şun onuň başgalaryň kofe arakesme wagtyny okuw üçin ulanandygyny aýdypdyr.",
           "en": "Lu Xun said he used others' coffee-break time for study.",
           "uz": "Lu Xun o'zining boshqalarning kofe-break vaqtini o'qishga sarflaganini aytgan.",
           "tg": "Лу Син гуфт, ки вақти танаффуси дигаронро барои таҳсил истифода мебурд.",
@@ -906,7 +906,7 @@
         {
           "zh": "孔子曾经带着学生周游各国14年，传播他的思想。",
           "ru": "Конфуций 14 лет путешествовал со своими учениками, распространяя своё учение.",
-          "tk": "Konfusiý 14 ýyl okuwçylary bilen syýahat edip, öz taglymatyny ýaýratdy.",
+          "tk": "Konfusiý bir gezek şägirtleri bilen 14 ýyl syýahat edip, pikirlerini ýaýradypdyr.",
           "en": "Confucius once traveled with his students for 14 years, spreading his ideas.",
           "uz": "Konfutsiy bir marta shogirdlari bilan 14 yil sayohat qilib, o'z g'oyalarini tarqatgan.",
           "tg": "Конфуций як вақт бо шогирдонаш 14 сол сафар карда, ғояҳои худро паҳн мекард.",
@@ -915,7 +915,7 @@
         {
           "zh": "我曾经和他一起工作过两年。",
           "ru": "Я когда-то работал с ним два года.",
-          "tk": "Men bir wagtlar onuň bilen iki ýyl işledim.",
+          "tk": "Men bir gezek onuň bilen iki ýyl işledim.",
           "en": "I once worked with him for two years.",
           "uz": "Men bir marta u bilan ikki yil ishlaganman.",
           "tg": "Ман як вақт бо ӯ ду сол кор кардам.",
@@ -951,7 +951,7 @@
         {
           "zh": "我曾经迷过一阵子摄影。",
           "ru": "Я когда-то увлекался фотографией.",
-          "tk": "Men bir wagtlar fotografiýa bilen gyzyklandym.",
+          "tk": "Men bir wagtlar fotografiýa bilen gyzyklanýardym.",
           "en": "I was once into photography.",
           "uz": "Men bir vaqtlar fotografiyaga qiziqardim.",
           "tg": "Ман як вақт ба аксбардорӣ шавқ доштам.",
@@ -969,7 +969,7 @@
         {
           "zh": "我曾经看过这部电影，非常感人。",
           "ru": "Я когда-то видел этот фильм — очень трогательный.",
-          "tk": "Men bir wagtlar bu filmi gördüm — örän täsirli.",
+          "tk": "Men bu filmi bir wagtlar gören — örän täsirli.",
           "en": "I once saw this film — very moving.",
           "uz": "Men bu filmni bir marta ko'rgandim — juda ta'sirli.",
           "tg": "Ман як бор ин филмро дидам — хеле таъсирбахш.",
@@ -1044,7 +1044,7 @@
       "pos": "adv.",
       "explanation": {
         "ru": "«亲自» — «лично, сам». Подчёркивает, что действие выполняет сам субъект, а не через других.",
-        "tk": "«亲自» — «özüň, hut özüň».",
+        "tk": "'亲自' — 'şahsy, özü'. Eýeniň muny özi ýerine ýetirýändigini nygtaýar.",
         "en": "'亲自' — 'personally, in person'. Emphasizes the subject does it themselves.",
         "uz": "'亲自' — 'shaxsan, o'zi'. Eganing o'zi bajarishini ta'kidlaydi.",
         "tg": "'亲自' — 'шахсан, худаш'. Таъкид мекунад, ки субъект худаш ин корро мекунад.",
@@ -1054,7 +1054,7 @@
         {
           "zh": "鲁迅不但会吃，还会亲自动手做。",
           "ru": "Лу Синь не только умел есть, но и сам готовил.",
-          "tk": "Lu Sýun diňe iýmegi bilmän, özi hem bişirýärdi.",
+          "tk": "Lu Xun diňe gowy iýmitlenmän, özi hem nahar bişirýärdi.",
           "en": "Lu Xun not only ate well but cooked himself.",
           "uz": "Lu Xun nafaqat yaxshi ovqatlanardi, balki o'zi ham pishirardi.",
           "tg": "Лу Син на танҳо хуб мехӯрд, балки худаш ҳам пухтугузор мекард.",
@@ -1063,7 +1063,7 @@
         {
           "zh": "老人总是亲自喂养他的猴子。",
           "ru": "Старик всегда сам кормил своих обезьян.",
-          "tk": "Goja hemişe öz meýmynlerini özi iýmitlendirýärdi.",
+          "tk": "Goja adam hemişe maýmynlaryny özi iýmitlendirýärdi.",
           "en": "The old man always fed his monkeys himself.",
           "uz": "Chol har doim maymunlarini o'zi boqardi.",
           "tg": "Пирамард ҳамеша маймунҳояшро худаш ғизо медод.",
@@ -1072,7 +1072,7 @@
         {
           "zh": "这份礼物是市长亲自为生病的小女孩儿做的。",
           "ru": "Этот подарок мэр лично сделал для больной девочки.",
-          "tk": "Bu sowgady mer şahsyýet syrkaw gyzjagaz üçin ýasady.",
+          "tk": "Şäher häkimi bu sowgady syrkaw gyz üçin özi ýasady.",
           "en": "The mayor personally made this gift for the sick girl.",
           "uz": "Shahar hokimi bu sovg'ani kasal qiz uchun shaxsan o'zi tayyorladi.",
           "tg": "Мэр ин тӯҳфаро барои духтари бемор шахсан худаш сохт.",
@@ -1081,7 +1081,7 @@
         {
           "zh": "今年我的业绩全公司第一，新年晚会上，总裁亲自给我发了奖金。",
           "ru": "В этом году я лучший по показателям — на новогоднем вечере сам президент вручил мне премию.",
-          "tk": "Bu ýyl görkezijim boýunça iň gowy — Täze ýyl agşamynda prezident özi maňa sylag berdi.",
+          "tk": "Şu ýyl men kompaniýada birinji boldum — Täze ýyl dabarasynyň çäginde premýany maňa prezidentiň özi berdi.",
           "en": "This year I topped the company — the president personally gave me the bonus at the New Year gala.",
           "uz": "Bu yil men kompaniyada birinchi bo'ldim — prezident bonusni menga Yangi yil bazmida shaxsan o'zi berdi.",
           "tg": "Ин сол ман дар ширкат аввал шудам — президент шахсан дар ҷашни Соли Нав ба ман мукофот дод.",
@@ -1090,7 +1090,7 @@
         {
           "zh": "希望您能亲自来参加这次活动。",
           "ru": "Надеемся, вы лично придёте на это мероприятие.",
-          "tk": "Bu çärä özüňiz gelmegiňize umyt edýäris.",
+          "tk": "Çärä şahsy gatnaşmagyňyza umyt edýäris.",
           "en": "We hope you'll attend the event in person.",
           "uz": "Tadbirda shaxsan ishtirok etishingizga umid qilamiz.",
           "tg": "Мо умедворем, ки шумо дар чорабинӣ шахсан иштирок хоҳед кард.",
@@ -1099,7 +1099,7 @@
         {
           "zh": "老师亲自批改我们的作业。",
           "ru": "Учитель сам проверяет наши работы.",
-          "tk": "Mugallym biziň işlerimizi özi barlaýar.",
+          "tk": "Mugallym öý işimizi şahsy özi barlaýar.",
           "en": "The teacher personally grades our homework.",
           "uz": "O'qituvchi uy vazifamizni shaxsan baholaydi.",
           "tg": "Муаллим вазифаи хонагии моро шахсан баҳо медиҳад.",
@@ -1108,7 +1108,7 @@
         {
           "zh": "我亲自去机场接他。",
           "ru": "Я лично поеду за ним в аэропорт.",
-          "tk": "Men ony howa menzilinden özüm garşylaýaryn.",
+          "tk": "Men ony howa menzilinden özüm alyp gelerin.",
           "en": "I'll pick him up at the airport myself.",
           "uz": "Men uni aeroportdan o'zim olib ketaman.",
           "tg": "Ман худам ӯро дар фурудгоҳ пешвоз мегирам.",
@@ -1117,7 +1117,7 @@
         {
           "zh": "他亲自下厨做了几道菜。",
           "ru": "Он сам приготовил несколько блюд.",
-          "tk": "Ol özi birnäçe nahar bişirdi.",
+          "tk": "Ol şahsy özi birnäçe nahar bişirdi.",
           "en": "He personally cooked a few dishes.",
           "uz": "U shaxsan bir nechta taom tayyorladi.",
           "tg": "Вай шахсан чанд таом пухт.",
@@ -1126,7 +1126,7 @@
         {
           "zh": "经理亲自打电话道歉。",
           "ru": "Менеджер лично позвонил и извинился.",
-          "tk": "Menejer hut özi jaň edip ötünç sorady.",
+          "tk": "Menejer özüniň ötünç soramak üçin şahsy jaň etdi.",
           "en": "The manager personally called to apologize.",
           "uz": "Menejer kechirim so'rash uchun shaxsan qo'ng'iroq qildi.",
           "tg": "Мудир шахсан занг зада узрхоҳӣ кард.",
@@ -1135,7 +1135,7 @@
         {
           "zh": "这事儿必须你亲自去办。",
           "ru": "Это дело должны сделать именно вы лично.",
-          "tk": "Bu işi hut özüňiz etmeli.",
+          "tk": "Sen muny özüň çözmeli.",
           "en": "You must handle this yourself.",
           "uz": "Buni o'zingiz hal qilishingiz kerak.",
           "tg": "Шумо бояд инро худатон ҳал кунед.",
@@ -1249,7 +1249,7 @@
       "word_b": "自己",
       "common": {
         "ru": "Оба означают «сам, лично».",
-        "tk": "Ikisi hem «öz».",
+        "tk": "Ikisi hem 'özüň, şahsy' diýmegi aňladýar.",
         "en": "Both mean 'self, personally'.",
         "uz": "Ikkalasi ham 'o'zi, shaxsan' ma'nosini bildiradi.",
         "tg": "Ҳарду маънои 'худ, шахсан'-ро доранд.",
@@ -1310,7 +1310,7 @@
         "pinyin": "fēngsú",
         "meaning": {
           "ru": "обычай",
-          "tk": "urp-adat",
+          "tk": "adat",
           "en": "custom",
           "uz": "maxsus",
           "tg": "расм",
@@ -1334,7 +1334,7 @@
         "pinyin": "zhìxù",
         "meaning": {
           "ru": "порядок",
-          "tk": "tertibi",
+          "tk": "tertip",
           "en": "order",
           "uz": "buyurtma",
           "tg": "тартиб",
@@ -1346,7 +1346,7 @@
         "pinyin": "quánlì",
         "meaning": {
           "ru": "власть",
-          "tk": "häkimiýet",
+          "tk": "güýç",
           "en": "power",
           "uz": "kuch",
           "tg": "қудрат",
@@ -1406,7 +1406,7 @@
   "application": {
     "discussion": {
       "ru": "Какой известный человек вам нравится? Расскажите о нём и о его влиянии.",
-      "tk": "Haýsy meşhur adam size ýaraýar? Onuň barada we täsiri barada gürrüň beriň.",
+      "tk": "Haýsy meşhur adamy halaýarsyň? Onuň/onuň täsiri barada gürrüň ber.",
       "en": "Which famous person do you like? Talk about him/her and their influence.",
       "uz": "Qaysi mashhur shaxsni yoqtirasiz? U haqida va uning ta'siri haqida gapirib bering.",
       "tg": "Кадом шахси машҳурро дӯст медоред? Дар бораи ӯ/вай ва таъсири онҳо суҳбат кунед.",

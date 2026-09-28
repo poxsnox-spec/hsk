@@ -2,7 +2,7 @@
   "title": {
     "zh": "海外用户玩儿微信",
     "ru": "WeChat за рубежом",
-    "tk": "Daşary ýurtda WeChat",
+    "tk": "WeChat-iň daşary ýurtly ulanyjylary",
     "en": "Overseas Users of WeChat",
     "uz": "Chet elda WeChat-dan foydalanish",
     "tg": "Корбарони хориҷӣ дар WeChat",
@@ -18,7 +18,7 @@
   "warmup": {
     "question": {
       "ru": "Какими мессенджерами вы пользуетесь? Что такое WeChat?",
-      "tk": "Haýsy habarlaşyk programmasyny ulanýarsyňyz? WeChat näme?",
+      "tk": "Haýsy habarlaşyk programmalaryny ulanýarsyňyz? WeChat näme?",
       "en": "What messengers do you use? What is WeChat?",
       "uz": "Qaysi messenjerlardan foydalanasiz? WeChat nima?",
       "tg": "Шумо кадом паёмрасонҳоро истифода мебаред? WeChat чист?",
@@ -61,7 +61,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "жонглировать мячом",
-        "tk": "topy oýnamak",
+        "tk": "top zyňmak",
         "en": "to juggle a ball",
         "uz": "to'pni havoda o'ynatish",
         "tg": "тӯббозӣ кардан",
@@ -87,7 +87,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "транслировать в прямом эфире",
-        "tk": "göni ýaýlym",
+        "tk": "göni ýaýlymda görkezmek",
         "en": "to live-stream",
         "uz": "jonli efirga uzatmoq",
         "tg": "пахши зинда кардан",
@@ -100,7 +100,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "малыш, сокровище",
-        "tk": "çaga, hazyna",
+        "tk": "bäbek, hazyna",
         "en": "baby, treasure",
         "uz": "chaqaloq, xazina",
         "tg": "кӯдак, ганҷ",
@@ -126,7 +126,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "пропагандировать, рекламировать",
-        "tk": "wagyz etmek",
+        "tk": "mälim etmek",
         "en": "to publicize",
         "uz": "e'lon qilmoq",
         "tg": "эълон кардан",
@@ -139,7 +139,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "размах (стиль)",
-        "tk": "gerim",
+        "tk": "stil, göwrüm",
         "en": "style, scale",
         "uz": "uslub, ko'lam",
         "tg": "услуб, миқёс",
@@ -152,7 +152,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "продвигать",
-        "tk": "ýaýratmak",
+        "tk": "ösdürmek",
         "en": "to promote",
         "uz": "targ'ib qilmoq",
         "tg": "пешбурд кардан",
@@ -178,7 +178,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "проводить (собрание)",
-        "tk": "geçirmek",
+        "tk": "geçirmek (ýygnak)",
         "en": "to hold (a meeting)",
         "uz": "o'tkazmoq (yig'ilish)",
         "tg": "гузарондан (ҷаласа)",
@@ -191,7 +191,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "сотрудничать",
-        "tk": "hyzmatdaşlyk",
+        "tk": "hyzmatdaşlyk etmek",
         "en": "to cooperate",
         "uz": "hamkorlik qilmoq",
         "tg": "ҳамкорӣ кардан",
@@ -230,7 +230,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "осуществлять",
-        "tk": "amala aşyrmak",
+        "tk": "düşünmek",
         "en": "to realize",
         "uz": "amalga oshirmoq",
         "tg": "дарк кардан",
@@ -243,7 +243,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "охватывать",
-        "tk": "gurşap almak",
+        "tk": "ýapmak",
         "en": "to cover",
         "uz": "qoplamoq",
         "tg": "пӯшонидан",
@@ -256,7 +256,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "мобильный",
-        "tk": "ykjam",
+        "tk": "jübi",
         "en": "mobile",
         "uz": "mobil",
         "tg": "мобилӣ",
@@ -321,7 +321,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "фон, контекст",
-        "tk": "fon, gurşaw",
+        "tk": "fon",
         "en": "background",
         "uz": "fon",
         "tg": "замина",
@@ -360,7 +360,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "разрабатывать",
-        "tk": "işläp çykmak",
+        "tk": "ösdürmek",
         "en": "to develop",
         "uz": "rivojlantirmoq",
         "tg": "рушд додан",
@@ -399,7 +399,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "деятельность, бизнес",
-        "tk": "iş, hyzmat",
+        "tk": "işewürlik",
         "en": "business",
         "uz": "biznes",
         "tg": "тиҷорат",
@@ -425,7 +425,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "личный, индивидуальный",
-        "tk": "şahsy",
+        "tk": "şahsyýet",
         "en": "individual",
         "uz": "shaxs",
         "tg": "шахс",
@@ -438,7 +438,7 @@
       "pos": "conj.",
       "meaning": {
         "ru": "а также",
-        "tk": "şeýle-de",
+        "tk": "şeýle hem",
         "en": "as well as",
         "uz": "shuningdek",
         "tg": "инчунин",
@@ -464,7 +464,7 @@
       "pos": "adj.",
       "meaning": {
         "ru": "развитый",
-        "tk": "ösendirilen",
+        "tk": "ösdürilen",
         "en": "developed",
         "uz": "rivojlangan",
         "tg": "рушдёфта",
@@ -477,7 +477,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "новаторство",
-        "tk": "täzeçillik",
+        "tk": "innowasiýa etmek",
         "en": "to innovate",
         "uz": "innovatsiya qilmoq",
         "tg": "навоварӣ кардан",
@@ -503,7 +503,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "позиция, статус",
-        "tk": "orun",
+        "tk": "ýagdaý",
         "en": "position",
         "uz": "lavozim",
         "tg": "мавқеъ",
@@ -516,7 +516,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "управлять, вести бизнес",
-        "tk": "dolandırmak",
+        "tk": "dolandyrmak",
         "en": "to manage",
         "uz": "boshqarmoq",
         "tg": "идора кардан",
@@ -529,7 +529,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "продавать",
-        "tk": "satyş",
+        "tk": "satmak",
         "en": "to sell",
         "uz": "sotmoq",
         "tg": "фурӯхтан",
@@ -542,7 +542,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "нацеливать на",
-        "tk": "niýetlenmek",
+        "tk": "maksat edinmek",
         "en": "to target",
         "uz": "mo'ljallamoq",
         "tg": "ҳадаф гирифтан",
@@ -568,7 +568,7 @@
       "pos": "v.",
       "meaning": {
         "ru": "представлять (бренд)",
-        "tk": "wekillik etmek",
+        "tk": "goldamak",
         "en": "to endorse",
         "uz": "qo'llab-quvvatlamoq",
         "tg": "тасдиқ кардан",
@@ -581,7 +581,7 @@
       "pos": "n.",
       "meaning": {
         "ru": "китайского происхождения (за рубежом)",
-        "tk": "hytaý asylly",
+        "tk": "Hytaýdan gelip çykan",
         "en": "of Chinese origin",
         "uz": "xitoylik",
         "tg": "аз пайдоиши чинӣ",
@@ -608,7 +608,7 @@
       "pos": "conj.",
       "explanation": {
         "ru": "«以及» — «а также, и». Соединяет однородные члены с указанием на главное/второстепенное.",
-        "tk": "«以及» — «şeýle-de». Bir jynsly agzalary birleşdirýär.",
+        "tk": "'以及' 'şeýle hem, we' diýmegi aňladýar. Esasy/ikinji tertibi görkezýän zatlary baglanyşdyrýar.",
         "en": "'以及' means 'as well as, and'. Connects items showing primary/secondary order.",
         "uz": "'以及' 'shuningdek, va' ma'nosini bildiradi. Asosiy/ikkinchi darajali tartibni ko'rsatuvchi elementlarni bog'laydi.",
         "tg": "'以及' маънои 'инчунин, ва'-ро дорад. Ашёро бо нишон додани тартиби асосӣ/дуюмдараҷа мепайвандад.",
@@ -618,7 +618,7 @@
         {
           "zh": "吃饭时不要用筷子敲打碗、盘子以及桌面。",
           "ru": "За едой не стучи палочками по чашке, тарелке и столу.",
-          "tk": "Nahar iýende çöp taýajyklar bilen käse, tabak we stoluň üstüne urmaň.",
+          "tk": "Iýip otyrkaň çöp taýajyklary çüýşä, tabaga ýa-da stoluň üstüne kakmaň.",
           "en": "Don't tap chopsticks on bowl, plate or table while eating.",
           "uz": "Ovqatlanayotganda tayoqchalarni kosa, likopcha yoki stolga urmang.",
           "tg": "Ҳангоми хӯрок хӯрдан бо чӯбча ба коса, табақ ё миз назанед.",
@@ -627,7 +627,7 @@
         {
           "zh": "学校的领导、教师以及一些学生代表观看了演出。",
           "ru": "Руководство школы, учителя и представители учеников смотрели представление.",
-          "tk": "Mekdebiň ýolbaşçylary, mugallymlar we okuwçy wekilleri tomaşa etdiler.",
+          "tk": "Mekdep ýolbaşçylary, mugallymlar we okuwçy wekilleri çykyşy tomaşa etdiler.",
           "en": "School leaders, teachers, and student representatives watched the performance.",
           "uz": "Maktab rahbarlari, o'qituvchilar va o'quvchilar vakillari chiqishni tomosha qilishdi.",
           "tg": "Роҳбарони мактаб, муаллимон ва намояндагони донишҷӯён намоишро тамошо карданд.",
@@ -636,7 +636,7 @@
         {
           "zh": "由于中国互联网的用户数量以及市场成熟程度等都低于发达国家，在产品创新上难有领导地位。",
           "ru": "Поскольку число пользователей и зрелость рынка в Китае были ниже, чем в развитых странах, в инновациях было сложно лидировать.",
-          "tk": "Hytaýyň ulanyjy sany we bazar ýetişik derejesi ösen ýurtlardan pes bolansoň, täzeçillikde öňe geçmek kyn boldy.",
+          "tk": "Hytaýyň ulanyjy sany we bazar ösüş derejesi ösen ýurtlardan pes bolany üçin, innowasiýada öňdebaryjy bolmak kyn boldy.",
           "en": "Because China's user numbers and market maturity were lower than developed countries, leading in innovation was hard.",
           "uz": "Xitoyning foydalanuvchilar soni va bozor yetukligi rivojlangan mamlakatlarga qaraganda pastroq bo'lganligi sababli, innovatsiyada yetakchilik qilish qiyin edi.",
           "tg": "Азбаски шумораи корбарон ва камолоти бозори Чин аз кишварҳои рушдёфта пасттар буд, пешсаф будан дар инноватсия душвор буд.",
@@ -645,7 +645,7 @@
         {
           "zh": "会议讨论了公司的销售计划、市场策略以及新产品。",
           "ru": "На совещании обсудили план продаж, маркетинговую стратегию и новые продукты.",
-          "tk": "Maslahatda satyş meýilnamasy, marketing strategiýasy we täze önümler maslahatlaşyldy.",
+          "tk": "Duşuşykda satuw meýilnamalary, marketing strategiýasy we täze önümler ara alnyp maslahatlaşyldy.",
           "en": "The meeting discussed sales plans, marketing strategy, and new products.",
           "uz": "Yig'ilishda savdo rejalari, marketing strategiyasi va yangi mahsulotlar muhokama qilindi.",
           "tg": "Дар ҷаласа нақшаҳои фурӯш, стратегияи маркетинг ва маҳсулоти нав баррасӣ шуданд.",
@@ -654,7 +654,7 @@
         {
           "zh": "他喜欢音乐、电影以及旅游。",
           "ru": "Он любит музыку, кино и путешествия.",
-          "tk": "Ol aýdym-sazy, kinony we syýahaty halaýar.",
+          "tk": "Ol aýdym-sazy, kinolary we syýahaty halaýar.",
           "en": "He likes music, movies, and travel.",
           "uz": "U musiqa, kino va sayohatni yaxshi ko'radi.",
           "tg": "Ӯ мусиқӣ, филмҳо ва сайёҳиро дӯст медорад.",
@@ -663,7 +663,7 @@
         {
           "zh": "会议邀请了老师、学生以及家长参加。",
           "ru": "На собрание пригласили учителей, учеников и родителей.",
-          "tk": "Maslahata mugallymlar, okuwçylar we ene-atalar çagyryldy.",
+          "tk": "Duşuşyga mugallymlar, okuwçylar we ene-atalar çagyryldy.",
           "en": "Teachers, students and parents were invited to the meeting.",
           "uz": "Yig'ilishga o'qituvchilar, o'quvchilar va ota-onalar taklif qilindi.",
           "tg": "Муаллимон, донишҷӯён ва волидон ба ҷаласа даъват шуданд.",
@@ -672,7 +672,7 @@
         {
           "zh": "请把姓名、年龄以及联系方式写下来。",
           "ru": "Запишите имя, возраст и контактные данные.",
-          "tk": "Ady, ýaşy we aragatnaşyk maglumatlaryny ýazyň.",
+          "tk": "Adyňyzy, ýaşyňyzy we aragatnaşyk maglumatlaryňyzy ýazyň.",
           "en": "Write your name, age, and contact details.",
           "uz": "Ismingizni, yoshingizni va aloqa ma'lumotlaringizni yozing.",
           "tg": "Ном, синну сол ва маълумоти тамоси худро нависед.",
@@ -681,7 +681,7 @@
         {
           "zh": "这份报告涉及经济、文化以及教育。",
           "ru": "Этот отчёт касается экономики, культуры и образования.",
-          "tk": "Bu hasabat ykdysadyýet, medeniýet we bilim barada.",
+          "tk": "Bu hasabat ykdysadyýeti, medeniýeti we bilimi öz içine alýar.",
           "en": "This report covers economy, culture, and education.",
           "uz": "Bu hisobot iqtisodiyot, madaniyat va ta'limni qamrab oladi.",
           "tg": "Ин ҳисобот иқтисод, фарҳанг ва маорифро дар бар мегирад.",
@@ -690,7 +690,7 @@
         {
           "zh": "他负责招聘、培训以及人事管理。",
           "ru": "Он отвечает за найм, обучение и кадровое управление.",
-          "tk": "Ol işe almak, okatmak we kadr dolandyryşyna jogapkär.",
+          "tk": "Ol işe almak, tälim bermek we kadrlar dolandyryşy üçin jogapkärdir.",
           "en": "He's responsible for hiring, training, and personnel management.",
           "uz": "U ishga yollash, o'qitish va kadrlar boshqaruvi uchun javobgar.",
           "tg": "Ӯ барои корпартоӣ, омӯзиш ва идораи кормандон масъул аст.",
@@ -699,7 +699,7 @@
         {
           "zh": "水果、蔬菜以及粮食都要吃。",
           "ru": "Нужно есть и фрукты, и овощи, и зерновые.",
-          "tk": "Miwe, gök önüm we däne iýilmeli.",
+          "tk": "Biz miweler, gök önümler we däne önümlerini iýmeli.",
           "en": "We should eat fruits, vegetables, and grains.",
           "uz": "Biz mevalar, sabzavotlar va don mahsulotlarini iste'mol qilishimiz kerak.",
           "tg": "Мо бояд мева, сабзавот ва ғалладонагӣ хӯрем.",
@@ -773,7 +773,7 @@
       "pos": "n.",
       "explanation": {
         "ru": "«程度» — «степень, уровень».",
-        "tk": "«程度» — «dereje».",
+        "tk": "'程 度' 'dereje, dereje' diýmekdir.",
         "en": "'程度' means 'degree, level'.",
         "uz": "'程度' 'daraja, saviya' ma'nosini bildiradi.",
         "tg": "'程度' маънои 'дараҷа, сатҳ'-ро дорад.",
@@ -783,7 +783,7 @@
         {
           "zh": "由于中国互联网的用户数量以及市场成熟程度等都低于发达国家。",
           "ru": "Потому что число пользователей и степень зрелости рынка в Китае ниже, чем в развитых странах.",
-          "tk": "Hytaýyň ulanyjy sany we bazar ýetişik derejesi ösen ýurtlardan pes.",
+          "tk": "Sebäbi Hytaýyň ulanyjy sany we bazaryň ýetişik derejesi ösen ýurtlardan pes.",
           "en": "Because China's user numbers and market maturity level are below developed countries.",
           "uz": "Chunki Xitoyning foydalanuvchilar soni va bozor yetukligi darajasi rivojlangan mamlakatlardan past.",
           "tg": "Зеро шумораи корбарон ва сатҳи камолоти бозори Чин аз кишварҳои рушдёфта пасттар аст.",
@@ -792,7 +792,7 @@
         {
           "zh": "问题已经发展到了十分严重的程度。",
           "ru": "Проблема достигла очень серьёзной степени.",
-          "tk": "Mesele gaty agyr derejä ýetdi.",
+          "tk": "Mesele örän çynlakaý derejä ýetdi.",
           "en": "The problem has reached a very serious level.",
           "uz": "Muammo juda jiddiy darajaga yetdi.",
           "tg": "Мушкилот ба сатҳи хеле ҷиддӣ расидааст.",
@@ -801,7 +801,7 @@
         {
           "zh": "在很大程度上，一个人的未来取决于他所受的教育。",
           "ru": "В значительной степени будущее человека зависит от его образования.",
-          "tk": "Köp derejede adamyň geljegi bilimine bagly.",
+          "tk": "Uly derejede, adamyň geljegi bilime bagly.",
           "en": "To a large extent, a person's future depends on education.",
           "uz": "Katta darajada, insonning kelajagi ta'limga bog'liq.",
           "tg": "Ояндаи одам то андозаи зиёд ба таълим вобаста аст.",
@@ -810,7 +810,7 @@
         {
           "zh": "他的汉语水平到了能读小说的程度。",
           "ru": "Его китайский достиг уровня чтения романов.",
-          "tk": "Onuň hytaý dili roman okap bilýän derejä ýetdi.",
+          "tk": "Onuň hytaý dili roman okamak derejesine ýetdi.",
           "en": "His Chinese reached the level of reading novels.",
           "uz": "Uning xitoy tili roman o'qish darajasiga yetdi.",
           "tg": "Забони чинии ӯ ба сатҳи хондани романҳо расид.",
@@ -819,7 +819,7 @@
         {
           "zh": "受伤的程度并不严重。",
           "ru": "Степень повреждения не серьёзная.",
-          "tk": "Ýaralanma derejesi agyr däl.",
+          "tk": "Şikesiň derejesi çynlakaý däl.",
           "en": "The degree of injury is not serious.",
           "uz": "Jarohat darajasi jiddiy emas.",
           "tg": "Дараҷаи ҷароҳат ҷиддӣ нест.",
@@ -828,7 +828,7 @@
         {
           "zh": "这件事的严重程度超出了我们的想象。",
           "ru": "Серьёзность этого дела превзошла наше воображение.",
-          "tk": "Bu işiň agyrlygy biziň pikirimizden geçdi.",
+          "tk": "Agzybelliň derejesi biziň göz öňüne getirenimizden hem ýokary boldy.",
           "en": "The severity exceeded our imagination.",
           "uz": "Jiddiylik bizning tasavvurimizdan oshib ketdi.",
           "tg": "Шиддат аз тасаввури мо зиёдтар буд.",
@@ -837,7 +837,7 @@
         {
           "zh": "每个人的接受程度不一样。",
           "ru": "Степень восприятия у каждого своя.",
-          "tk": "Her kimiň kabul ediş derejesi başga.",
+          "tk": "Her kimsiň kabul ediş derejesi dürli-dürli.",
           "en": "Everyone's level of acceptance differs.",
           "uz": "Har kimning qabul qilish darajasi turlicha.",
           "tg": "Сатҳи қабули ҳар кас фарқ мекунад.",
@@ -855,7 +855,7 @@
         {
           "zh": "他们的程度差不多。",
           "ru": "Их уровень примерно одинаков.",
-          "tk": "Olaryň derejesi takmynan deň.",
+          "tk": "Olaryň derejeleri takmynan deň.",
           "en": "Their levels are about the same.",
           "uz": "Ularning darajalari taxminan bir xil.",
           "tg": "Сатҳҳои онҳо тақрибан якхелаанд.",
@@ -864,7 +864,7 @@
         {
           "zh": "在一定程度上我同意你的看法。",
           "ru": "В определённой степени я с тобой согласен.",
-          "tk": "Belli bir derejede men seniň pikiriňe razy.",
+          "tk": "Belli bir derejede men seniň bilen ylalaşýaryn.",
           "en": "To some extent, I agree with you.",
           "uz": "Ma'lum darajada sizga qo'shilaman.",
           "tg": "То андозае, ман бо шумо розӣ ҳастам.",
@@ -938,7 +938,7 @@
       "pos": "сравнение",
       "explanation": {
         "ru": "«发达» — прилагательное, «развитый». «发展» — глагол, «развивать(ся)».",
-        "tk": "«发达» — sypat, «ösen». «发展» — işlik, «ösdürmek».",
+        "tk": "'Ösen' sypat bolup 'ösdürilen' manyny berýär; 'ösdürmek' işlik bolup 'ösdürmek' manyny berýär.",
         "en": "'发达' is adjective 'developed'; '发展' is verb 'to develop'.",
         "uz": "'发达' — 'rivojlangan' ma'nosini bildiruvchi sifat; '发展' — 'rivojlanmoq' ma'nosini bildiruvchi fe'l.",
         "tg": "'发达' сифати 'рушдёфта' аст; '发展' феъли 'рушд кардан' аст.",
@@ -957,7 +957,7 @@
         {
           "zh": "这个城市正在大力发展经济。",
           "ru": "Город активно развивает экономику.",
-          "tk": "Şäher ykdysadyýeti güýçli ösdürýär.",
+          "tk": "Şäher öz ykdysadyýetini işjeň ösdürýär.",
           "en": "The city is actively developing its economy.",
           "uz": "Shahar iqtisodiyotini faol rivojlantirmoqda.",
           "tg": "Шаҳр фаъолона иқтисоди худро рушд медиҳад.",
@@ -966,7 +966,7 @@
         {
           "zh": "由于中国互联网的用户数量以及市场成熟程度等都低于发达国家。",
           "ru": "Потому что число пользователей и зрелость рынка ниже, чем в развитых странах.",
-          "tk": "Hytaýyň ulanyjy sany we bazar ýetişigi ösen ýurtlardan pes.",
+          "tk": "Sebäbi Hytaýyň ulanyjy sany we bazar ýetişenligi ösen ýurtlardan pes.",
           "en": "Because China's user numbers and market maturity are below developed countries.",
           "uz": "Chunki Xitoyning foydalanuvchilar soni va bozor yetukligi rivojlangan davlatlardan past.",
           "tg": "Зеро шумораи корбарон ва камолоти бозори Чин аз кишварҳои рушдёфта пасттар аст.",
@@ -984,7 +984,7 @@
         {
           "zh": "这个地区的交通很发达。",
           "ru": "В этом районе очень развитый транспорт.",
-          "tk": "Bu sebitiň ulaglary gaty ösen.",
+          "tk": "Bu ýerdäki ulag gatnawy gaty ösen.",
           "en": "Transportation here is very developed.",
           "uz": "Bu yerda transport juda rivojlangan.",
           "tg": "Нақлиёт дар ин ҷо хеле рушд кардааст.",
@@ -993,7 +993,7 @@
         {
           "zh": "我们要发展创新技术。",
           "ru": "Нам нужно развивать инновационные технологии.",
-          "tk": "Biz täzeçil tehnologiýalary ösdürmeli.",
+          "tk": "Biz innowasion tehnologiýalary ösdürmeli.",
           "en": "We must develop innovative technologies.",
           "uz": "Biz innovatsion texnologiyalarni rivojlantirishimiz kerak.",
           "tg": "Мо бояд технологияҳои инноватсионӣ таҳия кунем.",
@@ -1002,7 +1002,7 @@
         {
           "zh": "发达国家的生活水平较高。",
           "ru": "В развитых странах уровень жизни выше.",
-          "tk": "Ösen ýurtlarda durmuş derejesi ýokary.",
+          "tk": "Ösüşen ýurtlarda ýaşaýyş derejesi has ýokary.",
           "en": "Developed countries have higher living standards.",
           "uz": "Rivojlangan davlatlarda turmush darajasi yuqoriroq.",
           "tg": "Кишварҳои рушдёфта сатҳи баландтари зиндагӣ доранд.",
@@ -1011,7 +1011,7 @@
         {
           "zh": "学校要发展学生的个性。",
           "ru": "Школа должна развивать индивидуальность учеников.",
-          "tk": "Mekdep okuwçylaryň şahsyýetini ösdürmeli.",
+          "tk": "Mekdepler okuwçylaryň şahsyýetini ösdürmeli.",
           "en": "Schools should develop students' personalities.",
           "uz": "Maktablar o'quvchilarning shaxsiyatini rivojlantirishi kerak.",
           "tg": "Мактабҳо бояд шахсияти хонандагонро инкишоф диҳанд.",
@@ -1029,7 +1029,7 @@
         {
           "zh": "他的肌肉很发达。",
           "ru": "У него хорошо развита мускулатура.",
-          "tk": "Onuň myşsalary gaty ösen.",
+          "tk": "Onuň myşsalary gowy ösen.",
           "en": "His muscles are well developed.",
           "uz": "Uning mushaklari yaxshi rivojlangan.",
           "tg": "Мускулҳои ӯ хуб инкишоф ёфтаанд.",
@@ -1145,7 +1145,7 @@
       "word_b": "发展",
       "common": {
         "ru": "Связаны по смыслу, но не взаимозаменяемы.",
-        "tk": "Bagly, ýöne çalşylmaýar.",
+        "tk": "Many taýdan baglanyşykly, ýöne çalşyp bolmaýar.",
         "en": "Related in meaning but not interchangeable.",
         "uz": "Ma'nosi jihatidan bog'liq, ammo o'zaro almashtirib bo'lmaydi.",
         "tg": "Маънои наздик дорад, аммо ивазшаванда нест.",
@@ -1206,7 +1206,7 @@
         "pinyin": "guāngpán",
         "meaning": {
           "ru": "диск",
-          "tk": "disk",
+          "tk": "CD/DVD",
           "en": "CD/DVD",
           "uz": "CD/DVD",
           "tg": "CD/DVD",
@@ -1230,7 +1230,7 @@
         "pinyin": "yìngjiàn",
         "meaning": {
           "ru": "аппаратное обеспечение",
-          "tk": "apparatura",
+          "tk": "apparat üpjünçiligi",
           "en": "hardware",
           "uz": "apparat",
           "tg": "таҷҳизот",
@@ -1302,7 +1302,7 @@
   "application": {
     "discussion": {
       "ru": "Какие технологии изменили вашу жизнь? Что они дали вам — хорошее и плохое?",
-      "tk": "Haýsy tehnologiýalar durmuşyňyzy üýtgetdi? Näme berdi — gowy we erbet?",
+      "tk": "Haýsy tehnologiýalar durmuşyňyzy üýtgetdi? Olar näme getirdi — gowy we erbet?",
       "en": "What technologies changed your life? What did they bring — good and bad?",
       "uz": "Qaysi texnologiyalar hayotingizni o'zgartirdi? Ular nima olib keldi — yaxshi va yomon?",
       "tg": "Кадом технологияҳо ҳаёти шуморо тағйир доданд? Онҳо чӣ оварданд — хуб ва бад?",
