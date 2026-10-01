@@ -596,6 +596,17 @@ try:
 except Exception as _e:
     print("[hsk6] не удалось подключить:", _e)
 
+
+
+@app.route("/sitemap.xml")
+def sitemap_xml():
+    return send_from_directory(str(STATIC), "sitemap.xml", mimetype="application/xml")
+
+
+@app.route("/robots.txt")
+def robots_txt():
+    return send_from_directory(str(STATIC), "robots.txt", mimetype="text/plain")
+
 if __name__ == "__main__":
     print("Запуск на http://127.0.0.1:5000")
     print("PUBLIC_URL =", PUBLIC_URL or "(из текущего запроса)")
