@@ -5,7 +5,6 @@
 const LS = {
   srs:      "hsk6_srs",
   settings: "hsk6_srs_settings",
-  lang:     "hsk6_lang",
   pos:      "hsk6_last_index",
   viewed:   "hsk6_viewed",
 };
@@ -21,6 +20,172 @@ const SRS_MIN = 60 * 1000;
 const SRS_DAY = 24 * 60 * SRS_MIN;
 const AUTO_ADD_AFTER_MS = 60 * 1000;
 
+// ---------- i18n для HSK6 ----------
+const T6 = {
+  ru: {
+    subtitle: "2460 слов · Уровень C1",
+    meta: "DeepSeek · 3 примера · глубокое объяснение",
+    loaded: "Загружено", words: "слов",
+    in_srs: "В SRS", due: "К повторению",
+    explain_title: "Глубокое объяснение",
+    examples_title: "Примеры",
+    meaning: "Что значит",
+    when_used: "Где используется",
+    when_not_used: "Где НЕ используется",
+    collocations: "Типичные сочетания",
+    nuance: "Нюанс vs синонимы",
+    register: "Регистр",
+    generating: "Генерация…",
+    loading: "Загрузка…",
+    loading_list: "Загрузка списка…",
+    error: "Ошибка",
+    error_loading: "Ошибка загрузки",
+    added_to_srs: "Слово добавлено в SRS",
+    review_done: "Review завершён",
+    deck_done: "Колода завершена",
+    no_due: "Нет карточек к повторению",
+    srs_again: "Забыл",
+    srs_hard: "Трудно",
+    srs_good: "Хорошо",
+    srs_easy: "Легко",
+  },
+  en: {
+    subtitle: "2460 words · Level C1",
+    meta: "DeepSeek · 3 examples · deep explanation",
+    loaded: "Loaded", words: "words",
+    in_srs: "In SRS", due: "Due",
+    explain_title: "Deep explanation",
+    examples_title: "Examples",
+    meaning: "Meaning",
+    when_used: "Where it's used",
+    when_not_used: "Where NOT to use",
+    collocations: "Typical collocations",
+    nuance: "Nuance vs synonyms",
+    register: "Register",
+    generating: "Generating…",
+    loading: "Loading…",
+    loading_list: "Loading list…",
+    error: "Error",
+    error_loading: "Loading error",
+    added_to_srs: "Word added to SRS",
+    review_done: "Review finished",
+    deck_done: "Deck finished",
+    no_due: "No cards due",
+    srs_again: "Again",
+    srs_hard: "Hard",
+    srs_good: "Good",
+    srs_easy: "Easy",
+  },
+  tk: {
+    subtitle: "2460 söz · Dereje C1",
+    meta: "DeepSeek · 3 mysal · çuň düşündiriş",
+    loaded: "Ýüklenen", words: "söz",
+    in_srs: "SRS-de", due: "Gaýtalamaga",
+    explain_title: "Çuň düşündiriş",
+    examples_title: "Mysallar",
+    meaning: "Manysy",
+    when_used: "Nirede ulanylýar",
+    when_not_used: "Nirede ULANYLMAÝAR",
+    collocations: "Adaty söz düzümleri",
+    nuance: "Sinonimlerden tapawudy",
+    register: "Stil",
+    generating: "Döredilýär…",
+    loading: "Ýüklenýär…",
+    loading_list: "Sanaw ýüklenýär…",
+    error: "Ýalňyşlyk",
+    error_loading: "Ýüklemek säwligi",
+    added_to_srs: "Söz SRS-e goşuldy",
+    review_done: "Gaýtalama gutardy",
+    deck_done: "Kartlar gutardy",
+    no_due: "Gaýtalamaga karta ýok",
+    srs_again: "Ýatdan çykardym",
+    srs_hard: "Kyn",
+    srs_good: "Gowy",
+    srs_easy: "Aňsat",
+  },
+  uz: {
+    subtitle: "2460 so'z · C1 daraja",
+    meta: "DeepSeek · 3 misol · chuqur tushuntirish",
+    loaded: "Yuklandi", words: "so'z",
+    in_srs: "SRS'da", due: "Takrorlashga",
+    explain_title: "Chuqur tushuntirish",
+    examples_title: "Misollar",
+    meaning: "Ma'nosi",
+    when_used: "Qayerda ishlatiladi",
+    when_not_used: "Qayerda ISHLATILMAYDI",
+    collocations: "Odatiy birikmalar",
+    nuance: "Sinonimlardan farqi",
+    register: "Uslub",
+    generating: "Yaratilmoqda…",
+    loading: "Yuklanmoqda…",
+    loading_list: "Ro'yxat yuklanmoqda…",
+    error: "Xatolik",
+    error_loading: "Yuklashda xatolik",
+    added_to_srs: "So'z SRS'ga qo'shildi",
+    review_done: "Takrorlash tugadi",
+    deck_done: "Kartalar tugadi",
+    no_due: "Takrorlash uchun karta yo'q",
+    srs_again: "Yana",
+    srs_hard: "Qiyin",
+    srs_good: "Yaxshi",
+    srs_easy: "Oson",
+  },
+  tg: {
+    subtitle: "2460 калима · Сатҳи C1",
+    meta: "DeepSeek · 3 мисол · шарҳи амиқ",
+    loaded: "Бор карда шуд", words: "калима",
+    in_srs: "Дар SRS", due: "Барои такрор",
+    explain_title: "Шарҳи амиқ",
+    examples_title: "Мисолҳо",
+    meaning: "Маъно",
+    when_used: "Куҷо истифода мешавад",
+    when_not_used: "Куҷо ИСТИФОДА НАМЕШАВАД",
+    collocations: "Таркибҳои маъмул",
+    nuance: "Фарқ аз синонимҳо",
+    register: "Услуб",
+    generating: "Сохта мешавад…",
+    loading: "Боргирӣ…",
+    loading_list: "Рӯйхат боргирӣ мешавад…",
+    error: "Хато",
+    error_loading: "Хатои боргирӣ",
+    added_to_srs: "Калима ба SRS илова шуд",
+    review_done: "Такрор анҷом ёфт",
+    deck_done: "Кортҳо анҷом ёфтанд",
+    no_due: "Барои такрор корт нест",
+    srs_again: "Боз",
+    srs_hard: "Душвор",
+    srs_good: "Хуб",
+    srs_easy: "Осон",
+  },
+  id: {
+    subtitle: "2460 kata · Level C1",
+    meta: "DeepSeek · 3 contoh · penjelasan mendalam",
+    loaded: "Dimuat", words: "kata",
+    in_srs: "Di SRS", due: "Untuk diulang",
+    explain_title: "Penjelasan mendalam",
+    examples_title: "Contoh",
+    meaning: "Arti",
+    when_used: "Di mana digunakan",
+    when_not_used: "Di mana TIDAK digunakan",
+    collocations: "Kolokasi umum",
+    nuance: "Nuansa vs sinonim",
+    register: "Register",
+    generating: "Menghasilkan…",
+    loading: "Memuat…",
+    loading_list: "Memuat daftar…",
+    error: "Kesalahan",
+    error_loading: "Gagal memuat",
+    added_to_srs: "Kata ditambahkan ke SRS",
+    review_done: "Ulasan selesai",
+    deck_done: "Dek selesai",
+    no_due: "Tidak ada kartu untuk diulang",
+    srs_again: "Lagi",
+    srs_hard: "Sulit",
+    srs_good: "Bagus",
+    srs_easy: "Mudah",
+  },
+};
+
 let state = {
   words: [],
   index: 0,
@@ -33,6 +198,36 @@ let state = {
   reviewQueue: [],
   reviewPos: 0,
 };
+
+function currentLang() {
+  if (typeof getLang === "function") {
+    try { const l = getLang(); if (l) return l; } catch(e) {}
+  }
+  try { const raw = localStorage.getItem("hsk5_lang"); if (raw) return raw; } catch(e) {}
+  return "ru";
+}
+
+function t6(key) {
+  const l = state.lang || "ru";
+  return (T6[l] && T6[l][key]) || (T6.en && T6.en[key]) || key;
+}
+
+function updateUiTexts() {
+  const map = {
+    "t-subtitle": "subtitle",
+    "t-meta": "meta",
+    "t-explain-title": "explain_title",
+    "t-examples-title": "examples_title",
+    "t-srs-again": "srs_again",
+    "t-srs-hard": "srs_hard",
+    "t-srs-good": "srs_good",
+    "t-srs-easy": "srs_easy",
+  };
+  for (const [id, key] of Object.entries(map)) {
+    const el = document.getElementById(id);
+    if (el) el.textContent = t6(key);
+  }
+}
 
 // ---------- localStorage ----------
 function lsGet(k, def) {
@@ -169,7 +364,7 @@ function srsApplyRating(key, rating) {
   return c;
 }
 
-// ---------- Tracking просмотров ----------
+// ---------- Tracking ----------
 function loadViewed() { return lsGet(LS.viewed, {}); }
 function saveViewed(v) { lsSet(LS.viewed, v); }
 function markViewed(hanzi) {
@@ -180,8 +375,7 @@ function markViewed(hanzi) {
 }
 function autoAddIfLong(hanzi, viewStartAt) {
   if (!hanzi || !viewStartAt) return false;
-  const elapsed = Date.now() - viewStartAt;
-  if (elapsed < AUTO_ADD_AFTER_MS) return false;
+  if (Date.now() - viewStartAt < AUTO_ADD_AFTER_MS) return false;
   const db = srsLoad();
   if (db[hanzi]) return false;
   db[hanzi] = srsCardDefaults(Date.now());
@@ -329,31 +523,11 @@ function renderIntro() {
   $("progress-fill").style.width = "0%";
   const srsTotal = countSrsCards();
   const due = countDueCards();
-  $("deck-info").innerHTML = `Загружено: ${state.words.length} слов<br>
-    <span style="font-size:12px">В SRS: <b>${srsTotal}</b> · К повторению: <b>${due}</b></span>`;
-  renderLangPicker();
+  $("deck-info").innerHTML =
+    `${t6("loaded")}: ${state.words.length} ${t6("words")}<br>
+     <span style="font-size:12px">${t6("in_srs")}: <b>${srsTotal}</b> · ${t6("due")}: <b>${due}</b></span>`;
   injectReviewButton();
   updateReviewBadge();
-}
-
-function renderLangPicker() {
-  const host = $("lang-picker");
-  host.innerHTML = "";
-  const langs = [["ru","Рус"],["en","En"],["tk","Tk"],["uz","Uz"],["tg","Tg"],["id","Id"]];
-  for (const [code, label] of langs) {
-    const b = document.createElement("span");
-    b.className = "lang-chip" + (code === state.lang ? " active" : "");
-    b.textContent = label;
-    b.onclick = () => {
-      state.lang = code;
-      lsSet(LS.lang, code);
-      state.contentCache.clear();
-      _sortedWords = null;
-      renderLangPicker();
-      if ($("card").style.display !== "none") renderCurrent();
-    };
-    host.appendChild(b);
-  }
 }
 
 function renderCard() {
@@ -364,10 +538,9 @@ function renderCard() {
 }
 
 async function renderCurrent() {
-  // авто-добавить предыдущее слово, если долго смотрел
   if (state.viewHanzi && state.viewStartAt) {
     const added = autoAddIfLong(state.viewHanzi, state.viewStartAt);
-    if (added) toast("Слово добавлено в SRS");
+    if (added) toast(t6("added_to_srs"));
   }
 
   const w = currentWord();
@@ -383,8 +556,8 @@ async function renderCurrent() {
   $("counter").textContent = `${currentPosition() + 1} / ${currentTotal()}${state.isReview ? " · REVIEW" : ""}`;
   $("progress-fill").style.width = `${((currentPosition() + 1) / currentTotal()) * 100}%`;
 
-  $("explain-body").innerHTML = `<span class="explain-loading">Генерация…</span>`;
-  $("examples-body").innerHTML = `<span class="explain-loading">Генерация…</span>`;
+  $("explain-body").innerHTML = `<span class="explain-loading">${t6("generating")}</span>`;
+  $("examples-body").innerHTML = `<span class="explain-loading">${t6("generating")}</span>`;
 
   if (state.contentCache.has(w.id)) {
     renderContent(state.contentCache.get(w.id));
@@ -402,7 +575,7 @@ async function renderCurrent() {
       renderContent(gen);
     }
   } catch (e) {
-    $("explain-body").innerHTML = `<span style="color:var(--cinnabar)">Ошибка: ${e.message}</span>`;
+    $("explain-body").innerHTML = `<span style="color:var(--cinnabar)">${t6("error")}: ${e.message}</span>`;
   }
   prefetchNext(1);
   updateSrsPreviews();
@@ -411,11 +584,11 @@ async function renderCurrent() {
 function renderContent(data) {
   const exp = data.explanation || {};
   const sections = [];
-  if (exp.meaning)       sections.push(["Что значит", exp.meaning]);
-  if (exp.when_used)     sections.push(["Где используется", exp.when_used]);
-  if (exp.when_not_used) sections.push(["Где НЕ используется", exp.when_not_used]);
-  if (exp.nuance)        sections.push(["Нюанс vs синонимы", exp.nuance]);
-  if (exp.register)      sections.push(["Регистр", exp.register]);
+  if (exp.meaning)       sections.push([t6("meaning"), exp.meaning]);
+  if (exp.when_used)     sections.push([t6("when_used"), exp.when_used]);
+  if (exp.when_not_used) sections.push([t6("when_not_used"), exp.when_not_used]);
+  if (exp.nuance)        sections.push([t6("nuance"), exp.nuance]);
+  if (exp.register)      sections.push([t6("register"), exp.register]);
 
   let html = "";
   for (const [label, text] of sections) {
@@ -426,7 +599,7 @@ function renderContent(data) {
   }
   if (exp.collocations && exp.collocations.length) {
     html += `<div class="explain-section">
-      <div class="explain-label">Типичные сочетания</div>
+      <div class="explain-label">${t6("collocations")}</div>
       <div class="collocations">${exp.collocations.map(c =>
         `<span class="colloc">${escapeHtml(c.zh)}</span>`).join("")}</div>
     </div>`;
@@ -458,14 +631,13 @@ function updateSrsPreviews() {
 async function rateAndNext(rating) {
   const w = currentWord();
   if (!w) return;
-
   autoAddIfLong(w.hanzi, state.viewStartAt);
   srsApplyRating(w.hanzi, rating);
 
   if (state.isReview) {
     state.reviewPos += 1;
     if (state.reviewPos >= state.reviewQueue.length) {
-      toast("Review завершён");
+      toast(t6("review_done"));
       state.isReview = false;
       renderIntro();
       return;
@@ -474,7 +646,7 @@ async function rateAndNext(rating) {
     state.index = Math.min(state.index + 1, state.words.length - 1);
     lsSet(LS.pos, state.index);
     if (state.index >= state.words.length - 1 && w === state.words[state.words.length - 1]) {
-      toast("Колода завершена");
+      toast(t6("deck_done"));
       renderIntro();
       return;
     }
@@ -485,10 +657,8 @@ async function rateAndNext(rating) {
 async function startReview() {
   const db = srsLoad();
   const now = Date.now();
-  let due = Object.entries(db)
-    .filter(([h, c]) => (c.due || 0) <= now)
-    .map(([h]) => h);
-  if (!due.length) { toast("Нет карточек к повторению"); return; }
+  let due = Object.entries(db).filter(([h, c]) => (c.due || 0) <= now).map(([h]) => h);
+  if (!due.length) { toast(t6("no_due")); return; }
   for (let i = due.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [due[i], due[j]] = [due[j], due[i]];
@@ -501,18 +671,20 @@ async function startReview() {
 }
 
 async function init() {
-  state.lang = lsGet(LS.lang, "ru");
+  state.lang = currentLang();
   state.index = lsGet(LS.pos, 0);
+
+  updateUiTexts();
 
   $("start-btn").onclick = async () => {
     try {
       if (!state.words.length) {
-        $("deck-info").textContent = "Загрузка списка…";
+        $("deck-info").textContent = t6("loading_list");
         await loadWords();
       }
       state.isReview = false;
       renderCard();
-    } catch (e) { toast("Ошибка загрузки: " + e.message); }
+    } catch (e) { toast(t6("error_loading") + ": " + e.message); }
   };
 
   $("back-btn").onclick = () => {
@@ -526,10 +698,36 @@ async function init() {
   });
 
   try { await loadWords(); renderIntro(); }
-  catch (e) { $("deck-info").textContent = "Ошибка: " + e.message; }
+  catch (e) { $("deck-info").textContent = t6("error_loading") + ": " + e.message; }
 
   window.addEventListener("beforeunload", () => {
     if (state.viewHanzi && state.viewStartAt) autoAddIfLong(state.viewHanzi, state.viewStartAt);
+  });
+
+  window.addEventListener("lang_changed", () => {
+    const nl = currentLang();
+    if (nl !== state.lang) {
+      state.lang = nl;
+      state.contentCache.clear();
+      _sortedWords = null;
+      updateUiTexts();
+      if ($("card").style.display !== "none") renderCurrent();
+      else renderIntro();
+    }
+  });
+
+  window.addEventListener("storage", (e) => {
+    if (e.key === "hsk5_lang") {
+      const nl = e.newValue || "ru";
+      if (nl !== state.lang) {
+        state.lang = nl;
+        state.contentCache.clear();
+        _sortedWords = null;
+        updateUiTexts();
+        if ($("card").style.display !== "none") renderCurrent();
+        else renderIntro();
+      }
+    }
   });
 
   document.addEventListener("keydown", e => {

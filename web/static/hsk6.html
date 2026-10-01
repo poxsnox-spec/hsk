@@ -35,7 +35,6 @@ body {
     radial-gradient(circle at 20% 30%, rgba(180,160,120,0.05) 0%, transparent 40%),
     radial-gradient(circle at 80% 70%, rgba(180,160,120,0.05) 0%, transparent 40%);
 }
-
 .progress-bar {
   position: fixed; top: 0; left: 0; right: 0; height: 3px;
   background: var(--paper-edge); z-index: 10;
@@ -43,6 +42,28 @@ body {
 .progress-fill {
   height: 100%; width: 0%; background: var(--cinnabar);
   transition: width 0.4s ease;
+}
+.back-home {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 11;
+  padding: 8px 16px;
+  color: var(--ink-soft);
+  background: rgba(245, 240, 230, 0.92);
+  backdrop-filter: blur(6px);
+  border: 1px solid var(--paper-edge);
+  border-radius: 4px;
+  text-decoration: none;
+  font-family: var(--font-body);
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  transition: background .15s, color .15s, border-color .15s;
+}
+.back-home:hover {
+  background: var(--paper-warm);
+  color: var(--cinnabar);
+  border-color: var(--cinnabar-soft);
 }
 
 .wrap { width: 100%; max-width: 820px; padding: 64px 0 130px; }
@@ -75,19 +96,8 @@ body {
   margin-top: 40px; font-size: 13px; color: var(--ink-faint);
   line-height: 1.7;
 }
-#lang-picker {
-  display: flex; gap: 6px; margin-top: 20px; flex-wrap: wrap; justify-content: center;
-}
-.lang-chip {
-  padding: 6px 14px; border: 1px solid var(--paper-edge);
-  background: var(--paper-warm); border-radius: 3px;
-  font-size: 12px; cursor: pointer; color: var(--ink-soft);
-  letter-spacing: 0.06em; text-transform: uppercase;
-}
-.lang-chip.active { background: var(--cinnabar); color: var(--paper); border-color: var(--cinnabar); }
 
 #card { display: none; }
-
 .top {
   display: flex; justify-content: space-between; align-items: center;
   color: var(--ink-faint); font-size: 13px; letter-spacing: 0.04em;
@@ -110,12 +120,11 @@ body {
   font-size: 19px; color: var(--ink); text-align: center;
   margin-bottom: 48px; line-height: 1.5;
 }
-
 .explain {
   background: var(--paper-warm); border: 1px solid var(--paper-edge);
   border-radius: 4px; padding: 30px 34px; margin-bottom: 40px;
 }
-.explain h2 {
+.explain h2, .examples h2 {
   font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
   color: var(--cinnabar); font-weight: 600; margin-bottom: 22px;
 }
@@ -134,10 +143,6 @@ body {
 }
 .explain-loading { color: var(--ink-faint); font-style: italic; font-size: 14px; }
 
-.examples h2 {
-  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
-  color: var(--cinnabar); font-weight: 600; margin-bottom: 22px;
-}
 .example { padding: 18px 0; border-bottom: 1px solid var(--paper-edge); }
 .example:last-child { border-bottom: none; }
 .example-num { font-size: 12px; color: var(--ink-faint); margin-bottom: 8px; letter-spacing: 0.06em; }
@@ -194,14 +199,14 @@ body {
 <body>
 
 <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+<a href="/" class="back-home" title="HSK 5 Learner">← HSK 5 Learner</a>
 
 <div class="wrap" id="intro">
   <h1>中文 · HSK 6</h1>
-  <h2>2500 词 · Уровень C1</h2>
-  <div class="meta">DeepSeek · 3 примера · глубокое объяснение</div>
+  <h2 id="t-subtitle">2500 词 · Уровень C1</h2>
+  <div class="meta" id="t-meta">DeepSeek · 3 примера · глубокое объяснение</div>
   <button id="start-btn">START</button>
-  <div id="lang-picker"></div>
-  <div class="col-deck" id="deck-info">Загрузка…</div>
+  <div class="col-deck" id="deck-info">…</div>
 </div>
 
 <div class="wrap" id="card">
@@ -214,22 +219,34 @@ body {
   <div class="translation" id="translation">…</div>
 
   <div class="explain" id="explain">
-    <h2>Глубокое объяснение</h2>
-    <div class="explain-loading" id="explain-body">Генерация…</div>
+    <h2 id="t-explain-title">Глубокое объяснение</h2>
+    <div class="explain-loading" id="explain-body">…</div>
   </div>
 
   <div class="examples" id="examples">
-    <h2>Примеры</h2>
-    <div class="explain-loading" id="examples-body">Генерация…</div>
+    <h2 id="t-examples-title">Примеры</h2>
+    <div class="explain-loading" id="examples-body">…</div>
   </div>
 </div>
 
 <div class="srs-bar" id="srs-bar" style="display:none">
   <div id="rate-wrap" style="display:flex; justify-content:center; width:100%; gap:12px">
-    <button class="srs-btn again" data-rate="1">Again<span class="prev" id="p1">—</span></button>
-    <button class="srs-btn hard" data-rate="2">Hard<span class="prev" id="p2">—</span></button>
-    <button class="srs-btn good" data-rate="3">Good<span class="prev" id="p3">—</span></button>
-    <button class="srs-btn easy" data-rate="4">Easy<span class="prev" id="p4">—</span></button>
+    <button class="srs-btn again" data-rate="1">
+      <span class="srs-label" id="t-srs-again">Again</span>
+      <span class="prev" id="p1">—</span>
+    </button>
+    <button class="srs-btn hard" data-rate="2">
+      <span class="srs-label" id="t-srs-hard">Hard</span>
+      <span class="prev" id="p2">—</span>
+    </button>
+    <button class="srs-btn good" data-rate="3">
+      <span class="srs-label" id="t-srs-good">Good</span>
+      <span class="prev" id="p3">—</span>
+    </button>
+    <button class="srs-btn easy" data-rate="4">
+      <span class="srs-label" id="t-srs-easy">Easy</span>
+      <span class="prev" id="p4">—</span>
+    </button>
   </div>
 </div>
 
