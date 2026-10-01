@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HSK 6 · 2500 词</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: #f5f0e6;
+  --paper-warm: #ede5d3;
+  --paper-edge: #e0d6bf;
+  --ink: #2a2520;
+  --ink-soft: #5a4f42;
+  --ink-faint: #8a7a68;
+  --cinnabar: #a63a2a;
+  --cinnabar-soft: #c8624f;
+  --jade: #4a7c59;
+  --amber: #c68a2e;
+  --marker: rgba(244, 226, 157, 0.68);
+  --font-hanzi: "Noto Serif SC", "Songti SC", "SimSun", serif;
+  --font-pinyin: "Charis SIL", "Times New Roman", serif;
+  --font-body: "Inter", -apple-system, sans-serif;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 0 24px;
+  background-image:
+    radial-gradient(circle at 20% 30%, rgba(180,160,120,0.05) 0%, transparent 40%),
+    radial-gradient(circle at 80% 70%, rgba(180,160,120,0.05) 0%, transparent 40%);
+}
+
+.progress-bar {
+  position: fixed; top: 0; left: 0; right: 0; height: 3px;
+  background: var(--paper-edge); z-index: 10;
+}
+.progress-fill {
+  height: 100%; width: 0%; background: var(--cinnabar);
+  transition: width 0.4s ease;
+}
+
+.wrap { width: 100%; max-width: 820px; padding: 64px 0 130px; }
+
+#intro {
+  display: flex; flex-direction: column; align-items: center;
+  justify-content: center; min-height: 80vh; text-align: center;
+  gap: 20px;
+}
+#intro h1 {
+  font-family: var(--font-hanzi); font-size: 64px; font-weight: 700;
+  letter-spacing: 0.06em; color: var(--ink);
+}
+#intro h2 {
+  font-size: 22px; font-weight: 400; color: var(--ink-soft);
+  letter-spacing: 0.08em;
+}
+#intro .meta { font-size: 14px; color: var(--ink-faint); margin-top: 8px; }
+#start-btn {
+  margin-top: 40px; padding: 18px 56px;
+  background: var(--cinnabar); color: var(--paper);
+  border: none; border-radius: 4px;
+  font-family: var(--font-body); font-size: 18px; font-weight: 600;
+  letter-spacing: 0.12em; cursor: pointer;
+  transition: transform .15s, box-shadow .15s;
+}
+#start-btn:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(166,58,42,.3); }
+#start-btn:active { transform: translateY(0); }
+#intro .col-deck {
+  margin-top: 40px; font-size: 13px; color: var(--ink-faint);
+  line-height: 1.7;
+}
+#lang-picker {
+  display: flex; gap: 6px; margin-top: 20px; flex-wrap: wrap; justify-content: center;
+}
+.lang-chip {
+  padding: 6px 14px; border: 1px solid var(--paper-edge);
+  background: var(--paper-warm); border-radius: 3px;
+  font-size: 12px; cursor: pointer; color: var(--ink-soft);
+  letter-spacing: 0.06em; text-transform: uppercase;
+}
+.lang-chip.active { background: var(--cinnabar); color: var(--paper); border-color: var(--cinnabar); }
+
+#card { display: none; }
+
+.top {
+  display: flex; justify-content: space-between; align-items: center;
+  color: var(--ink-faint); font-size: 13px; letter-spacing: 0.04em;
+  margin-bottom: 56px;
+}
+.top .brand { font-weight: 500; cursor: pointer; }
+.top .brand:hover { color: var(--cinnabar); }
+.top .counter { font-variant-numeric: tabular-nums; }
+
+.hanzi {
+  font-family: var(--font-hanzi); font-size: 88px; font-weight: 700;
+  line-height: 1.1; text-align: center; letter-spacing: 0.02em;
+  margin-bottom: 8px;
+}
+.pinyin {
+  font-family: var(--font-pinyin); font-size: 20px; color: var(--ink-soft);
+  text-align: center; letter-spacing: 0.06em; margin-bottom: 12px;
+}
+.translation {
+  font-size: 19px; color: var(--ink); text-align: center;
+  margin-bottom: 48px; line-height: 1.5;
+}
+
+.explain {
+  background: var(--paper-warm); border: 1px solid var(--paper-edge);
+  border-radius: 4px; padding: 30px 34px; margin-bottom: 40px;
+}
+.explain h2 {
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--cinnabar); font-weight: 600; margin-bottom: 22px;
+}
+.explain-section { margin-bottom: 20px; }
+.explain-section:last-child { margin-bottom: 0; }
+.explain-label {
+  font-size: 12px; letter-spacing: 0.06em; color: var(--ink-faint);
+  text-transform: uppercase; margin-bottom: 6px; font-weight: 500;
+}
+.explain-text { font-size: 15px; line-height: 1.7; color: var(--ink); }
+.collocations { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+.colloc {
+  background: var(--paper); border: 1px solid var(--paper-edge);
+  padding: 4px 10px; border-radius: 3px;
+  font-family: var(--font-hanzi); font-size: 15px;
+}
+.explain-loading { color: var(--ink-faint); font-style: italic; font-size: 14px; }
+
+.examples h2 {
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--cinnabar); font-weight: 600; margin-bottom: 22px;
+}
+.example { padding: 18px 0; border-bottom: 1px solid var(--paper-edge); }
+.example:last-child { border-bottom: none; }
+.example-num { font-size: 12px; color: var(--ink-faint); margin-bottom: 8px; letter-spacing: 0.06em; }
+.example-zh {
+  font-family: var(--font-hanzi); font-size: 22px; line-height: 1.6;
+  margin-bottom: 8px;
+}
+.example-zh mark {
+  background: var(--marker); color: var(--ink);
+  padding: 0 2px; border-radius: 2px; font-weight: 700;
+}
+.example-py {
+  font-family: var(--font-pinyin); font-size: 14px;
+  color: var(--ink-soft); margin-bottom: 6px; letter-spacing: 0.02em;
+}
+.example-ru { font-size: 15px; color: var(--ink-soft); line-height: 1.55; font-style: italic; }
+
+.srs-bar {
+  position: fixed; bottom: 0; left: 0; right: 0;
+  background: var(--paper); border-top: 1px solid var(--paper-edge);
+  padding: 16px 24px; display: flex; justify-content: center; gap: 12px;
+  z-index: 10; flex-wrap: wrap;
+}
+.srs-btn {
+  background: var(--paper-warm); border: 1px solid var(--paper-edge);
+  color: var(--ink); padding: 12px 24px; border-radius: 4px;
+  font-family: var(--font-body); font-size: 14px; font-weight: 500;
+  cursor: pointer; transition: all 0.15s; min-width: 110px;
+  display: flex; flex-direction: column; align-items: center; gap: 2px;
+}
+.srs-btn .prev { font-size: 11px; color: var(--ink-faint); font-weight: 400; }
+.srs-btn:hover { background: var(--paper-edge); }
+.srs-btn.again { color: var(--cinnabar); border-color: var(--cinnabar-soft); }
+.srs-btn.hard { color: var(--amber); border-color: var(--amber); }
+.srs-btn.good { color: var(--jade); border-color: var(--jade); }
+.srs-btn.easy { color: var(--ink-soft); }
+
+.toast {
+  position: fixed; bottom: 100px; left: 50%; transform: translateX(-50%);
+  background: var(--ink); color: var(--paper);
+  padding: 10px 20px; border-radius: 4px; font-size: 13px;
+  z-index: 20; opacity: 0; transition: opacity .3s;
+}
+.toast.show { opacity: 1; }
+@media (max-width: 640px) {
+  .hanzi { font-size: 64px; }
+  #intro h1 { font-size: 48px; }
+  .wrap { padding: 40px 0 130px; }
+  .srs-btn { padding: 10px 14px; min-width: 76px; font-size: 13px; }
+  .srs-btn .prev { font-size: 10px; }
+}
+</style>
+</head>
+<body>
+
+<div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+
+<div class="wrap" id="intro">
+  <h1>中文 · HSK 6</h1>
+  <h2>2500 词 · Уровень C1</h2>
+  <div class="meta">DeepSeek · 3 примера · глубокое объяснение</div>
+  <button id="start-btn">START</button>
+  <div id="lang-picker"></div>
+  <div class="col-deck" id="deck-info">Загрузка…</div>
+</div>
+
+<div class="wrap" id="card">
+  <div class="top">
+    <span class="brand" id="back-btn">← HSK 6 · 2500 词</span>
+    <span class="counter" id="counter">— / —</span>
+  </div>
+  <div class="hanzi" id="hanzi">…</div>
+  <div class="pinyin" id="pinyin">…</div>
+  <div class="translation" id="translation">…</div>
+
+  <div class="explain" id="explain">
+    <h2>Глубокое объяснение</h2>
+    <div class="explain-loading" id="explain-body">Генерация…</div>
+  </div>
+
+  <div class="examples" id="examples">
+    <h2>Примеры</h2>
+    <div class="explain-loading" id="examples-body">Генерация…</div>
+  </div>
+</div>
+
+<div class="srs-bar" id="srs-bar" style="display:none">
+  <div id="rate-wrap" style="display:flex; justify-content:center; width:100%; gap:12px">
+    <button class="srs-btn again" data-rate="1">Again<span class="prev" id="p1">—</span></button>
+    <button class="srs-btn hard" data-rate="2">Hard<span class="prev" id="p2">—</span></button>
+    <button class="srs-btn good" data-rate="3">Good<span class="prev" id="p3">—</span></button>
+    <button class="srs-btn easy" data-rate="4">Easy<span class="prev" id="p4">—</span></button>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="/static/i18n.js"></script>
+<script src="/static/hsk6.js"></script>
+</body>
+</html>

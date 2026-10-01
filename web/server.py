@@ -42,7 +42,7 @@ PUBLIC_URL = os.environ.get("PUBLIC_URL", "")
 
 # ==== РЕЖИМ ГОСТЯ (без логина) до указанной даты ====
 from datetime import datetime
-GUEST_MODE_UNTIL = datetime(2026, 10, 1, 0, 0, 0)
+GUEST_MODE_UNTIL = datetime(2027, 10, 1, 0, 0, 0)
 
 
 def _guest_mode_active() -> bool:
@@ -584,6 +584,17 @@ def admin_delete_user(uid):
 def health():
     return jsonify({"status": "ok"})
 
+
+
+
+# ============================================================
+# HSK 6 module
+# ============================================================
+try:
+    import hsk6
+    hsk6.register(app)
+except Exception as _e:
+    print("[hsk6] не удалось подключить:", _e)
 
 if __name__ == "__main__":
     print("Запуск на http://127.0.0.1:5000")

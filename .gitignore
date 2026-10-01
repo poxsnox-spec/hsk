@@ -1,21 +1,32 @@
+# Python
 __pycache__/
 *.pyc
 *.pyo
+
+# Virtual environments
 .venv/
 venv/
 env/
+
+# IDE
 .idea/
 .vscode/
-_analysis/
-_translate/
+
+# Backups
 *.bak
 *.bak2
 *.bak3
 *.pre_*.bak
-server_log.txt
-test_mail.py
 
-# Одноразовые скрипты
+# Logs
+server_log.txt
+
+# Temp / one-off scripts
+test_mail.py
+_analysis/
+_translate/
+
+# One-off scripts
 install_*.py
 fix_*.py
 sprint*.py
@@ -46,7 +57,13 @@ project_report.txt
 _patch_*.py
 copy_audio.py
 run_local.bat
+
+# Secrets / local DB
 data/users.db
 data/secret.key
-_patch_*.py
-run_local.bat
+
+# HSK6 local cache
+hsk6_data/hsk6.sqlite
+
+# Git commit message scratch
+COMMIT_MSG.txt
