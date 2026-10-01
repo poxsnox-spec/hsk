@@ -8,7 +8,8 @@
     "tk": "Barlag we sargyt",
     "uz": "Ko'rikdan o'tkazish va buyurtma berish",
     "tg": "Муоина ва фармоиш",
-    "id": "Inspeksi dan pemesanan"
+    "id": "Inspeksi dan pemesanan",
+    "tr": "Denetim ve Sipariş"
   },
   "title": {
     "zh": "这是我们公司的产品体验区",
@@ -17,7 +18,8 @@
     "tk": "Biziň önüm görkeziş zaly",
     "uz": "Bizning mahsulot namoyish zali",
     "tg": "Толори намоиши маҳсулоти мо",
-    "id": "Ruang pameran produk kami"
+    "id": "Ruang pameran produk kami",
+    "tr": "Ürün showroomumuz"
   },
   "status": "stub",
   "goals": {},

@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = ROOT / "hsk6_data" / "hsk6.sqlite"
 STATIC = ROOT / "web" / "static"
 
-LANGS = ["ru", "en", "tk", "uz", "tg", "id"]
+LANGS = ["ru", "en", "tk", "uz", "tg", "id", "tr"]
 
 _db_lock = threading.Lock()
 
@@ -57,6 +57,7 @@ USER_PROMPT = """Слово: {hanzi} ({pinyin}) — {translation}
 LANG_NAMES = {
     "ru": "русский", "en": "English", "tk": "türkmen dili",
     "uz": "o'zbek tili", "tg": "тоҷикӣ", "id": "Bahasa Indonesia",
+    "tr": "Türkçe",
 }
 
 

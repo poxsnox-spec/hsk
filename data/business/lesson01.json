@@ -8,7 +8,8 @@
     "tk": "Müşderileri kabul etmek",
     "uz": "Mijozlarni qabul qilish",
     "tg": "Қабули мизоҷон",
-    "id": "Penerimaan klien"
+    "id": "Penerimaan klien",
+    "tr": "İş Misafirlerini Karşılama"
   },
   "title": {
     "zh": "我已经给两位订好酒店了",
@@ -18,7 +19,8 @@
     "tk": "Men size eýýäm myhmanhana bron etdim",
     "uz": "Men sizga mehmonxona band qilib qo'ydim",
     "tg": "Ман аллакай барои шумо меҳмонхона фармоиш додам",
-    "id": "Saya sudah memesan hotel untuk Anda"
+    "id": "Saya sudah memesan hotel untuk Anda",
+    "tr": "İkiniz için oteli çoktan ayırttım"
   },
   "goals": {
     "zh": [
@@ -55,6 +57,11 @@
       "Menangani kegiatan bisnis seperti penjemputan di bandara dan check-in hotel.",
       "Gunakan aplikasi pelacak penerbangan dan pemesanan hotel.",
       "Deklarasikan barang bawaan dengan benar di bea cukai Tiongkok."
+    ],
+    "tr": [
+      "Havaalanı karşılama ve otel girişi gibi iş faaliyetlerini halledin.",
+      "Uçuş takip ve otel rezervasyon uygulamalarını kullanın.",
+      "Çin gümrüğünde eşyalarını doğru beyan et."
     ]
   },
   "warmup": {
@@ -65,7 +72,8 @@
       "tk": "Taýýarlygyňyza esaslanyp pikir alyşyň:",
       "uz": "Tayyorgarligingizga asoslanib muhokama qiling:",
       "tg": "Дар асоси омодагии худ муҳокима кунед:",
-      "id": "Diskusikan berdasarkan persiapan Anda:"
+      "id": "Diskusikan berdasarkan persiapan Anda:",
+      "tr": "Hazırlığınıza dayanarak tartışın:"
     },
     "items": [
       {
@@ -75,7 +83,8 @@
         "tk": "Iş saparynda haýsy programmalary ulanyp bilersiňiz?",
         "uz": "Ish safari davomida qaysi ilovalardan foydalanishingiz mumkin?",
         "tg": "Дар сафари тиҷоратӣ кадом барномаҳоро истифода бурда метавонед?",
-        "id": "Aplikasi apa yang mungkin Anda gunakan dalam perjalanan bisnis?"
+        "id": "Aplikasi apa yang mungkin Anda gunakan dalam perjalanan bisnis?",
+        "tr": "İş seyahatinde hangi uygulamaları kullanabilirsiniz?"
       },
       {
         "zh": "办理酒店入住的过程是怎样的？",
@@ -84,7 +93,8 @@
         "tk": "Myhmanhana ýerleşmegiň tertibi nähili?",
         "uz": "Mehmonxonaga joylashish jarayoni qanday?",
         "tg": "Раванди бақайдгирӣ дар меҳмонхона чӣ гуна аст?",
-        "id": "Bagaimana proses check-in hotel?"
+        "id": "Bagaimana proses check-in hotel?",
+        "tr": "Otel giriş işlemi nasıl gerçekleşir?"
       },
       {
         "zh": "出入境时哪些物品需要向中国海关申报？",
@@ -93,7 +103,8 @@
         "tk": "Hytaý gümrükhanasynda haýsy zatlary beýan etmeli?",
         "uz": "Xitoy bojxona postida qaysi buyumlarni deklaratsiya qilish kerak?",
         "tg": "Кадом ашёро дар гумруки Чин бояд эълон кард?",
-        "id": "Barang apa saja yang harus dideklarasikan di bea cukai Tiongkok?"
+        "id": "Barang apa saja yang harus dideklarasikan di bea cukai Tiongkok?",
+        "tr": "Çin gümrüğünde hangi eşyalar beyan edilmelidir?"
       }
     ]
   },
@@ -106,7 +117,8 @@
         "tk": "Howa menzilinde",
         "uz": "Aeroportda",
         "tg": "Дар фурудгоҳ",
-        "id": "Di bandara"
+        "id": "Di bandara",
+        "tr": "Havalimanında"
       },
       "audio": "dialog_airport.mp3",
       "lines": [
@@ -119,7 +131,8 @@
           "tk": "Şenžene hoş geldiňiz!",
           "uz": "Shenzhenga xush kelibsiz!",
           "tg": "Хуш омадед ба Шенzhen!",
-          "id": "Selamat datang di Shenzhen!"
+          "id": "Selamat datang di Shenzhen!",
+          "tr": "Shenzhen'e hoş geldiniz!"
         },
         {
           "speaker": "安娜",
@@ -130,7 +143,8 @@
           "tk": "Sag boluň. Bagyşlaň — howa ýaramaz boldy, uçuşymyz gijä galdy. Şeýle hem, gümrükhanada barlanan ýükümizdäki käbir zatlary beýan etmeli boldum, garaşdyranymyz üçin bagyşlaň.",
           "uz": "Rahmat. Kechirasiz — ob-havo yomon bo'lib, parvozimiz kechiktirildi. Shuningdek, bojxonada ro'yxatdan o'tkazilgan yukimizdagi ba'zi buyumlarni deklaratsiya qilishimizga to'g'ri keldi, sizni kutdirganimiz uchun kechirasiz.",
           "tg": "Ташаккур. Бубахшед — ҳавои бад, парвози мо ба таъхир афтод. Инчунин, дар гумрук мо бояд баъзе ашёро дар бағоҷи қайдшуда эълон мекардем, бубахшед, ки шуморо интизор кардем.",
-          "id": "Terima kasih. Maaf — cuaca buruk, penerbangan kami tertunda. Selain itu, di bea cukai kami harus mendeklarasikan beberapa barang di bagasi tercatat kami, maaf membuat Anda menunggu."
+          "id": "Terima kasih. Maaf — cuaca buruk, penerbangan kami tertunda. Selain itu, di bea cukai kami harus mendeklarasikan beberapa barang di bagasi tercatat kami, maaf membuat Anda menunggu.",
+          "tr": "Teşekkür ederim. Üzgünüm — kötü hava, uçuşumuz gecikti. Ayrıca, gümrükte bazı eşyaları bagajımızda beyan etmemiz gerekti, beklettiğimiz için özür dilerim."
         },
         {
           "speaker": "孟安诺",
@@ -141,7 +155,8 @@
           "tk": "Alada etmäň — “Feichangzhun” programmasynda gijä galmany gördüm we wagty birnäçe e-poçta jogap bermek üçin ulandym.",
           "uz": "Hechqisi yo'q — \"Feichangzhun\"da kechikishni ko'rdim va vaqtdan bir nechta elektron xatlarga javob berish uchun foydalandim.",
           "tg": "Ғам нахӯред — ман таъхирро дар «Фейчангжун» дидам ва вақтро барои ҷавоб додан ба чанд почтаи электронӣ истифода кардам.",
-          "id": "Tidak masalah — saya melihat penundaannya di \"Feichangzhun\" dan menggunakan waktunya untuk membalas beberapa email."
+          "id": "Tidak masalah — saya melihat penundaannya di \"Feichangzhun\" dan menggunakan waktunya untuk membalas beberapa email.",
+          "tr": "Endişelenme — “Feichangzhun”daki gecikmeyi gördüm ve zamanı birkaç e-postayı yanıtlamak için kullandım."
         },
         {
           "speaker": "安娜",
@@ -152,7 +167,8 @@
           "tk": "“Feichangzhun”?",
           "uz": "\"Feichangzhun\"mi?",
           "tg": "«Фейчангжун»?",
-          "id": "\"Feichangzhun\"?"
+          "id": "\"Feichangzhun\"?",
+          "tr": "“Feichangzhun”?"
         },
         {
           "speaker": "孟安诺",
@@ -163,7 +179,8 @@
           "tk": "Hawa, bu programma real wagtda uçuş maglumatlaryny görkezýär we bilet bron etmäge mümkinçilik berýär — iş saparlary üçin örän amatly.",
           "uz": "Ha, bu ilova real vaqtda parvoz ma'lumotlarini ko'rsatadi va chipta band qilish imkonini beradi — ish safarlari uchun juda qulay.",
           "tg": "Бале, ин барнома маълумоти парвозро дар вақти воқеӣ нишон медиҳад ва имкон медиҳад, ки чипта фармоиш диҳед — барои сафарҳои тиҷоратӣ хеле қулай аст.",
-          "id": "Ya, aplikasi ini menampilkan informasi penerbangan secara real-time dan memungkinkan Anda memesan tiket — sangat praktis untuk perjalanan bisnis."
+          "id": "Ya, aplikasi ini menampilkan informasi penerbangan secara real-time dan memungkinkan Anda memesan tiket — sangat praktis untuk perjalanan bisnis.",
+          "tr": "Evet, bu uygulama gerçek zamanlı uçuş bilgisi gösteriyor ve bilet almanızı sağlıyor — iş seyahatleri için çok kullanışlı."
         },
         {
           "speaker": "安娜",
@@ -174,7 +191,8 @@
           "tk": "A, bu “uçak”daky “fēi” eken — men ony “örän” manyly “fēi” diýip pikir edipdim. Men hem ýükläp alaryn. Ýeri gelende aýtsam, siziň hytaý diliňiz gaty tebigy.",
           "uz": "Oh, bu “samolyot”dagi “fēi” ekan — men “juda”dagi “fēi” deb o‘ylagandim. Men ham yuklab olaman. Aytgancha, sizning xitoy tilingiz juda tabiiy.",
           "tg": "Оҳ, ин “фэй” аз “ҳавопаймо” аст — ман фикр мекардам, ки “фэй” аз “хеле” аст. Ман ҳам онро зеркашӣ мекунам. Дар омади гап, забони хитоии шумо хеле табиӣ аст.",
-          "id": "Oh, itu “fēi” dari “pesawat” — saya kira “fēi” dari “sangat”. Saya akan mengunduhnya juga. Ngomong-ngomong, bahasa Mandarin Anda sangat autentik."
+          "id": "Oh, itu “fēi” dari “pesawat” — saya kira “fēi” dari “sangat”. Saya akan mengunduhnya juga. Ngomong-ngomong, bahasa Mandarin Anda sangat autentik.",
+          "tr": "Ah, bu “uçak”tan gelen “fēi” — ben “çok”tan gelen “fēi” sanmıştım. Ben de indireceğim. Bu arada, Çincen çok otantik."
         },
         {
           "speaker": "孟安诺",
@@ -185,7 +203,8 @@
           "tk": "Siziň hem hytaý diliňiz ajaýyp — telefonda hatda sizi hytaýly diýip pikir etdim!",
           "uz": "Sizning xitoy tilingiz ham juda yaxshi — telefonda hatto sizni xitoylik deb o‘yladim!",
           "tg": "Забони хитоии шумо ҳам олӣ аст — дар телефон ман ҳатто фикр кардам, ки шумо хитоӣ ҳастед!",
-          "id": "Bahasa Mandarin Anda juga bagus — di telepon saya bahkan mengira Anda orang Tionghoa!"
+          "id": "Bahasa Mandarin Anda juga bagus — di telepon saya bahkan mengira Anda orang Tionghoa!",
+          "tr": "Sizin Çinceniz de harika — telefonda sizi Çinli bile sandım!"
         },
         {
           "speaker": "安娜",
@@ -196,7 +215,8 @@
           "tk": "Siz meni öwýärsiňiz. Tanyşdyraýyn: bu Jýson, biziň satyn alyş bölümimiziň baş müdiri, bu bolsa Xunda-dan Men Annuo.",
           "uz": "Siz meni maqtayapsiz. Tanishtirib qo‘yay: bu Jason, bizning xarid bo‘limimiz bosh menejeri, bu esa Xunda kompaniyasidan Men Annuo.",
           "tg": "Шумо маро ситоиш мекунед. Иҷозат диҳед муаррифӣ кунам: ин Ҷейсон, менеҷери умумии шӯъбаи хариди мо, ва ин Мэн Аннуо аз Шунда.",
-          "id": "Anda terlalu memuji. Izinkan saya memperkenalkan: ini Jason, manajer umum departemen pengadaan kami, dan ini Meng Annuo dari Xunda."
+          "id": "Anda terlalu memuji. Izinkan saya memperkenalkan: ini Jason, manajer umum departemen pengadaan kami, dan ini Meng Annuo dari Xunda.",
+          "tr": "İltifat ediyorsunuz. Tanıştırayım: bu Jason, satın alma departmanımızın genel müdürü, ve bu da Xunda'dan Meng Annuo."
         },
         {
           "speaker": "孟安诺",
@@ -207,7 +227,8 @@
           "tk": "Salam, jenap Men!",
           "uz": "Assalomu alaykum, janob Men!",
           "tg": "Салом, ҷаноби Мэн!",
-          "id": "Halo, Tuan Meng!"
+          "id": "Halo, Tuan Meng!",
+          "tr": "Merhaba, Bay Meng!"
         },
         {
           "speaker": "孟安诺",
@@ -218,7 +239,8 @@
           "tk": "Salam, jenap Jýson. Men premium awtoulag çagyrdym — ol ýerasty awtoulag duralgasynda. Geliň, lift bilen aşak düşeliň. Men siziň myhmanhananyzyny eýýäm bron edip goýdum, ilki bilen ýerleşeliň.",
           "uz": "Assalomu alaykum, janob Jason. Men premium avtomobil chaqirdim — u yer ostidagi avtoturargohda. Keling, liftda pastga tushamiz. Mehmonxonangizni allaqachon band qilib qo‘ydim, avval ro‘yxatdan o‘tamiz.",
           "tg": "Салом, ҷаноби Ҷейсон. Ман мошини премиум даъват кардам — он дар таваққуфгоҳи зеризаминӣ аст. Биёед бо лифт поён равем. Ман аллакай меҳмонхонаи шуморо фармоиш додам, биёед аввал ҷойгир шавем.",
-          "id": "Halo, Tuan Jason. Saya memesan mobil premium — mobilnya ada di parkir bawah tanah. Mari kita turun dengan lift. Saya sudah memesan hotel Anda, mari kita check-in dulu."
+          "id": "Halo, Tuan Jason. Saya memesan mobil premium — mobilnya ada di parkir bawah tanah. Mari kita turun dengan lift. Saya sudah memesan hotel Anda, mari kita check-in dulu.",
+          "tr": "Merhaba, Bay Jason. Premium bir araba çağırdım — yeraltı otoparkında. Asansörle aşağı inelim. Otelinizi zaten ayarladım, önce giriş yapalım."
         },
         {
           "speaker": "Jason",
@@ -229,7 +251,8 @@
           "tk": "Bolýar!",
           "uz": "Yaxshi!",
           "tg": "Хуб!",
-          "id": "Oke!"
+          "id": "Oke!",
+          "tr": "Tamam!"
         }
       ]
     },
@@ -241,7 +264,8 @@
         "tk": "Myhmanhananyň kabulhanasynda",
         "uz": "Mehmonxona qabulxonasida",
         "tg": "Дар қабулгоҳи меҳмонхона",
-        "id": "Di resepsionis hotel"
+        "id": "Di resepsionis hotel",
+        "tr": "Otel resepsiyonunda"
       },
       "audio": "dialog_hotel.mp3",
       "lines": [
@@ -254,7 +278,8 @@
           "tk": "Salam, jenap! Siziň bronuňyz barmy?",
           "uz": "Assalomu alaykum, janob! Joy band qilganmisiz?",
           "tg": "Салом, ҷаноб! Шумо фармоиш доред?",
-          "id": "Halo, Tuan! Apakah Anda sudah memesan kamar?"
+          "id": "Halo, Tuan! Apakah Anda sudah memesan kamar?",
+          "tr": "Merhaba efendim! Rezervasyonunuz var mı?"
         },
         {
           "speaker": "孟安诺",
@@ -265,7 +290,8 @@
           "tk": "Hawa, iki sany lýuks king otag, 23-den 26-na çenli.",
           "uz": "Ha, ikkita lyuks keng xona, 23-dan 26-gacha.",
           "tg": "Бале, ду ҳуҷраи делюкс бо кати калон, аз 23 то 26.",
-          "id": "Ya, dua kamar deluxe king, dari tanggal 23 sampai 26."
+          "id": "Ya, dua kamar deluxe king, dari tanggal 23 sampai 26.",
+          "tr": "Evet, iki deluxe king oda, 23'ünden 26'sına kadar."
         },
         {
           "speaker": "服务员",
@@ -276,7 +302,8 @@
           "tk": "Bolýar, haýyş, şahsyýetnamaňyzy görkeziň.",
           "uz": "Yaxshi, iltimos, shaxsni tasdiqlovchi hujjatingizni ko‘rsating.",
           "tg": "Хуб, лутфан шиносномаи худро нишон диҳед.",
-          "id": "Baik, mohon tunjukkan identitas Anda."
+          "id": "Baik, mohon tunjukkan identitas Anda.",
+          "tr": "Tamam, lütfen kimliğinizi gösterin."
         },
         {
           "speaker": "安娜",
@@ -287,7 +314,8 @@
           "tk": "Ine, biziň pasportlarymyz.",
           "uz": "Mana pasportlarimiz.",
           "tg": "Ин шиносномаҳои мо.",
-          "id": "Ini paspor kami."
+          "id": "Ini paspor kami.",
+          "tr": "Pasaportlarımız burada."
         },
         {
           "speaker": "服务员",
@@ -298,7 +326,8 @@
           "tk": "Ulgam siziň umumy otag tölegiňiziň 1800 ýuwan bolandygyny görkezýär.",
           "uz": "Tizimda ko‘rsatilishicha, xonalar uchun jami to‘lov 1800 yuan.",
           "tg": "Система нишон медиҳад, ки ҳаққи умумии ҳуҷраи шумо 1800 юан аст.",
-          "id": "Sistem menunjukkan total biaya kamar Anda adalah 1.800 yuan."
+          "id": "Sistem menunjukkan total biaya kamar Anda adalah 1.800 yuan.",
+          "tr": "Sistem toplam oda ücretinizin 1.800 yuan olduğunu gösteriyor."
         },
         {
           "speaker": "安娜",
@@ -309,7 +338,8 @@
           "tk": "Ine, meniň kredit kartym.",
           "uz": "Mana kredit kartam.",
           "tg": "Ин корти кредитии ман.",
-          "id": "Ini kartu kredit saya."
+          "id": "Ini kartu kredit saya.",
+          "tr": "Kredi kartım burada."
         },
         {
           "speaker": "服务员",
@@ -320,7 +350,8 @@
           "tk": "Ilki bilen, girew hökmünde 2000 ýuwanlyk öňünden awtorizasiýa saklarys; otag tölegi hasaplaşykda aýrylar.",
           "uz": "Avval garov sifatida 2000 yuan miqdorida oldindan avtorizatsiya muzlatiladi; xona narxi hisob-kitob paytida yechib olinadi.",
           "tg": "Аввал мо 2000 юанро ҳамчун пешпардохт манъ мекунем; ҳаққи ҳуҷра ҳангоми ҳисоббаробаркунӣ тарҳ карда мешавад.",
-          "id": "Pertama, kami akan membekukan pra-otorisasi sebesar 2.000 yuan sebagai deposit; tarif kamar akan dipotong saat penyelesaian."
+          "id": "Pertama, kami akan membekukan pra-otorisasi sebesar 2.000 yuan sebagai deposit; tarif kamar akan dipotong saat penyelesaian.",
+          "tr": "İlk olarak, depozito olarak 2.000 yuan ön provizyon bloke edeceğiz; oda ücreti ödeme sırasında düşülecektir."
         },
         {
           "speaker": "安娜",
@@ -331,7 +362,8 @@
           "tk": "Bolýar.",
           "uz": "Yaxshi.",
           "tg": "Хуб.",
-          "id": "Oke."
+          "id": "Oke.",
+          "tr": "Tamam."
         },
         {
           "speaker": "服务员",
@@ -342,7 +374,8 @@
           "tk": "Bular otag açarlaryňyz. Çykyş 12:00-den öň. Ertirlik nahary 2-nji gatda, 7-den 10-a çenli, açyk bufet.",
           "uz": "Mana xona kalitlaringiz. Chiqish 12:00 dan oldin. Nonushta 2-qavatda, 7 dan 10 gacha, bufet.",
           "tg": "Ин калидҳои ҳуҷраи шумо. Ҳисоббаробаркунӣ то соати 12:00 аст. Наҳорӣ аз соати 7 то 10 дар ошёнаи дуюм, буфет мебошад.",
-          "id": "Ini kunci kamar Anda. Check-out sebelum pukul 12.00. Sarapan dari pukul 7 hingga 10 di lantai 2, prasmanan."
+          "id": "Ini kunci kamar Anda. Check-out sebelum pukul 12.00. Sarapan dari pukul 7 hingga 10 di lantai 2, prasmanan.",
+          "tr": "Oda anahtarlarınız burada. Çıkış 12:00'den önce. Kahvaltı 2. katta 7 ile 10 arasında, açık büfe."
         }
       ]
     }
@@ -358,7 +391,8 @@
         "tk": "gijikdirmek",
         "uz": "kechiktirmoq",
         "tg": "таъхир кардан",
-        "id": "menunda"
+        "id": "menunda",
+        "tr": "geciktirmek"
       },
       "simple": {
         "ru": "«延误» — значит опоздать по сравнению с установленным временем.",
@@ -366,7 +400,8 @@
         "tk": "«Gijikdirmek» bellenen wagtdan soň bolmagy aňladýar.",
         "uz": "“Kechikish” belgilangan vaqtdan keyin bo‘lishni bildiradi.",
         "tg": "«Таъхир» маънои дертар аз вақти муқарраршуда расиданро дорад.",
-        "id": "“延误” berarti lebih lambat dari waktu yang telah ditetapkan."
+        "id": "“延误” berarti lebih lambat dari waktu yang telah ditetapkan.",
+        "tr": "\"延误\", belirlenen saatten daha geç olmak anlamına gelir."
       },
       "examples": [
         {
@@ -376,7 +411,8 @@
           "tk": "Kaşgara uçýan CA1477 reýsi 13:20-de uçmalydy, ýöne güýçli gar sebäpli indi 21:00-de uçmagyna garaşylýar — takmynan 8 sagat gijikme.",
           "uz": "Qashqarga CA1477 reysi 13:20 ga belgilangan edi, ammo kuchli qor tufayli endi 21:00 da uchishi kutilmoqda — taxminan 8 soat kechikish.",
           "tg": "Парвози CA1477 ба Қошғар барои соати 13:20 ба нақша гирифта шуда буд, аммо аз сабаби бориши шадид ҳоло парвоз дар соати 21:00 интизор меравад — таъхири тақрибан 8 соат.",
-          "id": "Penerbangan CA1477 ke Kashgar dijadwalkan pukul 13.20, tetapi karena salju lebat kini diperkirakan lepas landas pukul 21.00 — tertunda sekitar 8 jam."
+          "id": "Penerbangan CA1477 ke Kashgar dijadwalkan pukul 13.20, tetapi karena salju lebat kini diperkirakan lepas landas pukul 21.00 — tertunda sekitar 8 jam.",
+          "tr": "Kaşgar'a giden CA1477 seferi 13:20 için planlanmıştı, ancak yoğun kar nedeniyle şimdi 21:00'de kalkması bekleniyor — yaklaşık 8 saatlik bir gecikme."
         }
       ],
       "question": {
@@ -385,7 +421,8 @@
         "tk": "Uçuşlaryň gijikmegine adatça näme sebäp bolýar?",
         "uz": "Parvozlar odatda nima sababdan kechikadi?",
         "tg": "Одатан чӣ боиси таъхири парвоз мегардад?",
-        "id": "Apa yang biasanya menyebabkan keterlambatan penerbangan?"
+        "id": "Apa yang biasanya menyebabkan keterlambatan penerbangan?",
+        "tr": "Uçuş gecikmelerine genellikle ne sebep olur?"
       }
     },
     {
@@ -398,7 +435,8 @@
         "tk": "gümrük",
         "uz": "bojxona",
         "tg": "гумрук",
-        "id": "bea cukai"
+        "id": "bea cukai",
+        "tr": "gümrük"
       },
       "simple": {
         "ru": "«海关» — государственный орган, который проверяет товары и物品 на границе, взимает пошлины.",
@@ -406,7 +444,8 @@
         "tk": "«Gümrük» — serhetde harytlary barlaýan we paýlary ýygnaýan döwlet edarasydyr.",
         "uz": "“Bojxona” — chegarada tovarlarni tekshiruvchi va boj yig‘uvchi davlat organi.",
         "tg": "«Гумрук» мақоми давлатӣ аст, ки молро дар сарҳад тафтиш мекунад ва боҷ ҷамъоварӣ менамояд.",
-        "id": "“海关” adalah badan negara yang memeriksa barang di perbatasan dan memungut bea masuk."
+        "id": "“海关” adalah badan negara yang memeriksa barang di perbatasan dan memungut bea masuk.",
+        "tr": "\"海关\", sınırda malları kontrol eden ve gümrük vergilerini toplayan devlet organıdır."
       },
       "examples": [
         {
@@ -416,7 +455,8 @@
           "tk": "Daşary ýurda syýahat etmezden ýa-da okamazdan öň, gümrükden näme getirip bolmaýandygyny onlaýn barlamak iň gowusydyr.",
           "uz": "Chetga sayohat yoki o‘qishga ketishdan oldin bojxonadan nimalarni olib o‘tish mumkin emasligini internetdan tekshirib olgan ma’qul.",
           "tg": "Пеш аз сафар ё таҳсил дар хориҷа, беҳтар аст, ки дар интернет тафтиш кунед, ки чӣ чизро тавассути гумрук овардан мумкин нест.",
-          "id": "Sebelum bepergian atau belajar ke luar negeri, sebaiknya cek di internet apa yang tidak boleh dibawa melewati bea cukai."
+          "id": "Sebelum bepergian atau belajar ke luar negeri, sebaiknya cek di internet apa yang tidak boleh dibawa melewati bea cukai.",
+          "tr": "Yurt dışına seyahat etmeden veya okumadan önce, gümrükten neleri geçiremeyeceğinizi internetten kontrol etmek en iyisidir."
         }
       ],
       "question": {
@@ -425,7 +465,8 @@
         "tk": "Hytaý gümrükden näme geçirip bolmaýar?",
         "uz": "Xitoy bojxonasidan nimalarni olib o‘tish mumkin emas?",
         "tg": "Чӣ чизро тавассути гумруки Чин овардан мумкин нест?",
-        "id": "Apa yang tidak boleh melewati bea cukai Tiongkok?"
+        "id": "Apa yang tidak boleh melewati bea cukai Tiongkok?",
+        "tr": "Çin gümrüğünden ne geçemez?"
       }
     },
     {
@@ -438,7 +479,8 @@
         "tk": "ýük tabşyrmak",
         "uz": "topshirmoq (yukni)",
         "tg": "супоридан (бор)",
-        "id": "menitipkan (bagasi)"
+        "id": "menitipkan (bagasi)",
+        "tr": "(bagaj) emanet etmek"
       },
       "simple": {
         "ru": "«托运» — сдать вещи транспортной компании. В аэропорту обычно сдаём крупный багаж, чтобы не нести его в салон.",
@@ -446,7 +488,8 @@
         "tk": "«Ýük tabşyrmak» zatlary transport kompaniýasyna tabşyrmagy aňladýar. Aeroportda uly ýükleri uçarda götermeli bolmazlyk üçin barlagdan geçirýäris.",
         "uz": "“Topshirish” narsalarni transport kompaniyasiga berishni bildiradi. Aeroportda katta yuklarni ro‘yxatdan o‘tkazamiz, shunda ularni samolyotga olib chiqish shart bo‘lmaydi.",
         "tg": "«Супоридан» маънои чизеро ба ширкати нақлиёт доданро дорад. Дар фурудгоҳ мо бори калонро супорида, сабти ном мекунем, то ки онро ба ҳавопаймо набардем.",
-        "id": "“托运” berarti menyerahkan barang kepada perusahaan transportasi. Di bandara kami menitipkan bagasi besar agar tidak perlu membawanya ke kabin."
+        "id": "“托运” berarti menyerahkan barang kepada perusahaan transportasi. Di bandara kami menitipkan bagasi besar agar tidak perlu membawanya ke kabin.",
+        "tr": "\"托运\", eşyaları bir nakliye şirketine teslim etmek anlamına gelir. Havalimanında büyük bagajları uçağa taşımak zorunda kalmamak için check-in yaparız."
       },
       "examples": [
         {
@@ -456,7 +499,8 @@
           "tk": "Bizde köp ýük bar, şonuň üçin ony tabşyrmak üçin aeroporta ir gelmeli.",
           "uz": "Bizda yuk ko‘p, shuning uchun uni ro‘yxatdan o‘tkazish uchun aeroportga erta yetib borishimiz kerak.",
           "tg": "Мо бори зиёд дорем ва бояд барвақт ба фурудгоҳ расида, онро супорида сабти ном кунем.",
-          "id": "Kami membawa banyak bagasi dan perlu tiba di bandara lebih awal untuk menitipkannya."
+          "id": "Kami membawa banyak bagasi dan perlu tiba di bandara lebih awal untuk menitipkannya.",
+          "tr": "Çok bagajımız var ve check-in yapmak için havaalanına erken varmamız gerekiyor."
         }
       ],
       "question": {
@@ -465,7 +509,8 @@
         "tk": "Uçanda adatça nämäni tabşyrýarsyňyz?",
         "uz": "Samolyotda uchayotganda odatda nimalarni ro‘yxatdan o‘tkazasiz?",
         "tg": "Ҳангоми парвоз одатан чӣ чизро супорида сабти ном мекунед?",
-        "id": "Apa yang biasanya Anda titipkan saat naik pesawat?"
+        "id": "Apa yang biasanya Anda titipkan saat naik pesawat?",
+        "tr": "Uçarken genellikle neyi check-in yaparsın?"
       }
     },
     {
@@ -478,7 +523,8 @@
         "tk": "beýan etmek",
         "uz": "deklaratsiya qilmoq",
         "tg": "эълон кардан",
-        "id": "mendeklarasikan"
+        "id": "mendeklarasikan",
+        "tr": "beyan etmek"
       },
       "simple": {
         "ru": "«申报» — письменно сообщить в соответствующие органы. На таможне вы заполняете декларацию на物品, требующие说明.",
@@ -486,7 +532,8 @@
         "tk": "«Beýan etmek» ýazmaça habar bermegi aňladýar. Gümrükde görkezilmeli zatlar üçin beýannama formyny doldurýarsyňyz.",
         "uz": "“Deklaratsiya qilish” yozma ravishda xabar berishni bildiradi. Bojxonada ko‘rsatilishi kerak bo‘lgan narsalar uchun deklaratsiya shaklini to‘ldirasiz.",
         "tg": "«Эълон» маънои хаттӣ хабар доданро дорад. Дар гумрук барои молҳое, ки бояд нишон дода шаванд, шумо варақаи эъломияро пур мекунед.",
-        "id": "“申报” berarti melaporkan secara tertulis. Di bea cukai, Anda mengisi formulir deklarasi untuk barang yang perlu dicantumkan."
+        "id": "“申报” berarti melaporkan secara tertulis. Di bea cukai, Anda mengisi formulir deklarasi untuk barang yang perlu dicantumkan.",
+        "tr": "\"申报\", yazılı olarak bildirmek anlamına gelir. Gümrükte, belirtilmesi gereken eşyalar için bir beyan formu doldurursunuz."
       },
       "examples": [
         {
@@ -496,7 +543,8 @@
           "tk": "Hytaýyň gümrük gullugy 400-den gowrak çilimiň beýan edilmegini talap edýär.",
           "uz": "Xitoy bojxona qoidalariga ko‘ra, 400 dan ortiq sigaretani deklaratsiya qilish talab etiladi.",
           "tg": "Гумруки Чин талаб мекунад, ки зиёда аз 400 сигор эълон карда шавад.",
-          "id": "Bea cukai Tiongkok mewajibkan deklarasi lebih dari 400 batang rokok."
+          "id": "Bea cukai Tiongkok mewajibkan deklarasi lebih dari 400 batang rokok.",
+          "tr": "Çin gümrükleri 400'den fazla sigara beyan edilmesini gerektirir."
         }
       ],
       "question": {
@@ -505,7 +553,8 @@
         "tk": "Ýurduňyza girenizde haýsy zatlar beýan edilmeli?",
         "uz": "Mamlakatingizga kirishda qaysi narsalarni deklaratsiya qilish kerak?",
         "tg": "Ҳангоми ворид шудан ба кишвари шумо кадом молҳоро бояд эълон кард?",
-        "id": "Barang apa saja yang harus dideklarasikan saat masuk ke negara Anda?"
+        "id": "Barang apa saja yang harus dideklarasikan saat masuk ke negara Anda?",
+        "tr": "Ülkenize girerken hangi eşyaların beyan edilmesi gerekir?"
       }
     },
     {
@@ -518,7 +567,8 @@
         "tk": "real wagt",
         "uz": "real vaqtda",
         "tg": "вақти воқеӣ",
-        "id": "waktu nyata"
+        "id": "waktu nyata",
+        "tr": "gerçek zamanlı"
       },
       "simple": {
         "ru": "«实时» — синхронно с происходящим.",
@@ -526,7 +576,8 @@
         "tk": "«Real wagt» häzir bolup geçýän waka bilen sinhron manyny berýär.",
         "uz": "“实时” nima bo‘layotgani bilan sinxron tarzda degan ma’noni bildiradi.",
         "tg": "«Вақти воқеӣ» маънои ҳамзамон бо он чизе, ки рӯй медиҳад, аст.",
-        "id": "\"Waktu nyata\" berarti sinkron dengan apa yang sedang terjadi."
+        "id": "\"Waktu nyata\" berarti sinkron dengan apa yang sedang terjadi.",
+        "tr": "\"实时\", olanlarla eşzamanlı olarak anlamına gelir."
       },
       "examples": [
         {
@@ -536,7 +587,8 @@
           "tk": "«Real wagt awtobus» programmasy ýolagçylara awtobusynyň nirede bolandygyny real wagtda görmäge mümkinçilik berýär.",
           "uz": "“Real vaqtda avtobus” ilovasi yo‘lovchilarga avtobusi qayerda ekanini real vaqtda ko‘rish imkonini beradi.",
           "tg": "Барномаи «Автобуси вақти воқеӣ» ба мусофирон имкон медиҳад, ки дар вақти воқеӣ бубинанд, ки автобусашон дар куҷост.",
-          "id": "Aplikasi \"Bus Waktu Nyata\" memungkinkan penumpang melihat posisi bus mereka secara waktu nyata."
+          "id": "Aplikasi \"Bus Waktu Nyata\" memungkinkan penumpang melihat posisi bus mereka secara waktu nyata.",
+          "tr": "“Gerçek Zamanlı Otobüs” uygulaması, yolcuların otobüslerinin nerede olduğunu gerçek zamanlı görmesini sağlar."
         }
       ],
       "question": {
@@ -545,7 +597,8 @@
         "tk": "Puluňyzyň ýuana bolan real wagt kursy näçe?",
         "uz": "Valyutangizning yuanga nisbatan real vaqtdagi kursi qanday?",
         "tg": "Қурби вақти воқеии пули шумо ба юан чӣ қадар аст?",
-        "id": "Berapa kurs waktu nyata mata uang Anda terhadap yuan?"
+        "id": "Berapa kurs waktu nyata mata uang Anda terhadap yuan?",
+        "tr": "Para biriminizin yuana karşı gerçek zamanlı kuru nedir?"
       }
     },
     {
@@ -558,7 +611,8 @@
         "tk": "görkezmek, ekranda görkezmek",
         "uz": "ko‘rsatmoq, namoyish etmoq",
         "tg": "нишон додан, намоиш додан",
-        "id": "menampilkan, menunjukkan"
+        "id": "menampilkan, menunjukkan",
+        "tr": "sergilemek, göstermek"
       },
       "simple": {
         "ru": "«显示» — давать увидеть (обычно данные: температура, пульс, расстояние, время).",
@@ -566,7 +620,8 @@
         "tk": "«Görkezmek» maglumatlary (temperatura, ýürek urşy, aralyk, wagt) görkezmegi aňladýar.",
         "uz": "“显示” (ma’lumotlarni: harorat, yurak urishi, masofa, vaqtni) ko‘rsatishni bildiradi.",
         "tg": "«Нишон додан» маънои нишон додани (маълумот: ҳарорат, суръати дил, масофа, вақт)-ро дорад.",
-        "id": "\"Menampilkan\" berarti menunjukkan (data: suhu, detak jantung, jarak, waktu)."
+        "id": "\"Menampilkan\" berarti menunjukkan (data: suhu, detak jantung, jarak, waktu).",
+        "tr": "\"显示\", göstermek anlamına gelir (veri: sıcaklık, kalp atış hızı, mesafe, süre)."
       },
       "examples": [
         {
@@ -576,7 +631,8 @@
           "tk": "Termometr beden temperaturasyny görkezýär — çaganyňky 36,5°C.",
           "uz": "Termometr tana haroratini ko‘rsatadi — chaqaloqniki 36,5°C.",
           "tg": "Термометр ҳарорати баданро нишон медиҳад — ҳарорати кӯдак 36.5°C аст.",
-          "id": "Termometer menunjukkan suhu tubuh — suhu bayi 36,5°C."
+          "id": "Termometer menunjukkan suhu tubuh — suhu bayi 36,5°C.",
+          "tr": "Termometre vücut sıcaklığını gösteriyor — bebeğinki 36,5°C."
         }
       ],
       "question": {
@@ -585,7 +641,8 @@
         "tk": "Telefon öçmekçi bolanda ekranda näme peýda bolýar?",
         "uz": "Telefon deyarli o‘chib qolayotganda ekranda nima paydo bo‘ladi?",
         "tg": "Вақте ки телефон қариб хомӯш мешавад, дар экран чӣ пайдо мешавад?",
-        "id": "Apa yang muncul di layar saat ponsel hampir mati?"
+        "id": "Apa yang muncul di layar saat ponsel hampir mati?",
+        "tr": "Telefon neredeyse bittiğinde ekranda ne görünür?"
       }
     },
     {
@@ -598,7 +655,8 @@
         "tk": "bron etmek, öňünden sargyt etmek",
         "uz": "band qilmoq, oldindan buyurtma qilmoq",
         "tg": "фармоиш додан, ҷойгир кардан",
-        "id": "memesan, memesan lebih awal"
+        "id": "memesan, memesan lebih awal",
+        "tr": "rezerve etmek, ayırtmak"
       },
       "simple": {
         "ru": "«预订» — заказать заранее.",
@@ -606,7 +664,8 @@
         "tk": "«Bron etmek» öňünden sargyt etmegi aňladýar.",
         "uz": "“预订” oldindan buyurtma qilish degan ma’noni bildiradi.",
         "tg": "«Фармоиш додан» маънои пешакӣ фармоиш доданро дорад.",
-        "id": "\"Memesan\" berarti memesan terlebih dahulu."
+        "id": "\"Memesan\" berarti memesan terlebih dahulu.",
+        "tr": "\"预订\", önceden sipariş vermek anlamına gelir."
       },
       "examples": [
         {
@@ -616,7 +675,8 @@
           "tk": "Anna 3-nji awgustda iş bilen Şanhaýa gidýär; 15-nji iýulda ol eýýäm onlaýn myhmanhana bron etdi.",
           "uz": "Anna 3-avgust kuni ish yuzasidan Shanxayga boradi; 15-iyulda u allaqachon onlayn mehmonxona band qilgan edi.",
           "tg": "Анна 3 август ба Шанхай ба сафари корӣ меравад; 15 июл вай аллакай тавассути интернет меҳмонхона фармоиш додааст.",
-          "id": "Anna pergi ke Shanghai untuk urusan bisnis pada 3 Agustus; pada 15 Juli ia sudah memesan hotel secara online."
+          "id": "Anna pergi ke Shanghai untuk urusan bisnis pada 3 Agustus; pada 15 Juli ia sudah memesan hotel secara online.",
+          "tr": "Anna 3 Ağustos'ta iş için Şanghay'a gidiyor; 15 Temmuz'da zaten çevrimiçi bir otel rezervasyonu yaptı."
         }
       ],
       "question": {
@@ -625,7 +685,8 @@
         "tk": "Myhmanhana we bilet bron etmek üçin adatça haýsy programmany ulanýarsyňyz?",
         "uz": "Mehmonxona va chiptalarni band qilish uchun odatda qaysi ilovadan foydalanasiz?",
         "tg": "Шумо одатан кадом барномаро барои фармоиш додани меҳмонхонаҳо ва чиптаҳо истифода мебаред?",
-        "id": "Aplikasi apa yang biasanya Anda gunakan untuk memesan hotel dan tiket?"
+        "id": "Aplikasi apa yang biasanya Anda gunakan untuk memesan hotel dan tiket?",
+        "tr": "Otel ve bilet rezervasyonu yapmak için genellikle hangi uygulamayı kullanıyorsunuz?"
       }
     },
     {
@@ -638,7 +699,8 @@
         "tk": "satyn almak",
         "uz": "sotib olmoq",
         "tg": "харидан",
-        "id": "membeli"
+        "id": "membeli",
+        "tr": "satın almak"
       },
       "simple": {
         "ru": "«采购» — выбирать и покупать в соответствии с потребностями.",
@@ -646,7 +708,8 @@
         "tk": "“Satyn almak” zerurlyga görä saýlamak we satyn almak diýmekdir.",
         "uz": "“Xarid qilish” ehtiyojga qarab tanlab sotib olishni bildiradi.",
         "tg": "«Харид» маънои интихоб ва харидани чизеро аз рӯи эҳтиёҷ дорад.",
-        "id": "“采购” berarti memilih dan membeli berdasarkan kebutuhan."
+        "id": "“采购” berarti memilih dan membeli berdasarkan kebutuhan.",
+        "tr": "\"采购\", ihtiyaçlara göre seçip satın almak anlamına gelir."
       },
       "examples": [
         {
@@ -656,7 +719,8 @@
           "tk": "Kompaniýa jemi 800,000 ýüan möçberinde 100 sany täze kompýuter satyn aldy.",
           "uz": "Kompaniya jami 800 000 yuan evaziga 100 ta yangi kompyuter sotib oldi.",
           "tg": "Ширкат 100 компютери навро ба маблағи умумии 800 000 юан харид.",
-          "id": "Perusahaan membeli 100 komputer baru dengan total 800.000 yuan."
+          "id": "Perusahaan membeli 100 komputer baru dengan total 800.000 yuan.",
+          "tr": "Şirket toplam 800.000 yuan karşılığında 100 yeni bilgisayar satın aldı."
         }
       ],
       "question": {
@@ -665,7 +729,8 @@
         "tk": "Satyn alyş bölümi, satyn alyjy, satyn alyş müdiri, satyn alyş bölüminiň başlygy nähili tapawutlanýar?",
         "uz": "Xarid bo‘limi, xarid xodimi, xarid menejeri, xarid bo‘limi boshlig‘i o‘rtasida qanday farq bor?",
         "tg": "Шӯъбаи харид, корманди харид, мудири харид, сардори шӯъбаи харид чӣ фарқ доранд?",
-        "id": "Apa perbedaan 采购部, 采购员, 采购经理, 采购部部长?"
+        "id": "Apa perbedaan 采购部, 采购员, 采购经理, 采购部部长?",
+        "tr": "采购部, 采购员, 采购经理, 采购部部长 arasında ne fark var?"
       }
     },
     {
@@ -678,7 +743,8 @@
         "tk": "premium awtoulag hyzmaty",
         "uz": "premium avtomobil xizmati",
         "tg": "хадамоти мошини премиум",
-        "id": "layanan mobil premium"
+        "id": "layanan mobil premium",
+        "tr": "premium araç hizmeti"
       },
       "simple": {
         "ru": "«专车» — машина, обслуживающая конкретного человека или заказ.",
@@ -686,7 +752,8 @@
         "tk": "“Ýörite awtoulag” belli bir adama ýa-da sargyt üçin hyzmat edýän awtoulagdyr.",
         "uz": "“Maxsus avtomobil” muayyan shaxs yoki buyurtmaga xizmat qiluvchi avtomobildir.",
         "tg": "«Мошини махсус» мошинест, ки ба шахси мушаххас ё фармоиши мушаххас хизмат мекунад.",
-        "id": "“专车” adalah mobil yang melayani orang atau pesanan tertentu."
+        "id": "“专车” adalah mobil yang melayani orang atau pesanan tertentu.",
+        "tr": "\"专车\", belirli bir kişiye veya siparişe hizmet eden bir arabadır."
       },
       "examples": [
         {
@@ -696,7 +763,8 @@
           "tk": "Ofisden aeroporta taksi, premium awtoulag ýa-da biznes mikroawtobus bilen gitmek mümkin: premium adaty taksiden has oňat we has gymmat; biznes mikroawtobus iň gymmat.",
           "uz": "Ofisdan aeroportgacha taksi, premium avtomobil yoki biznes mikroavtobusda borish mumkin: premium oddiy taksidan qulayroq va qimmatroq; biznes mikroavtobus eng qimmat.",
           "tg": "Аз офис то фурудгоҳ метавонед таксӣ, мошини премиум ё микроавтобуси тиҷоратӣ гиред: премиум нисбат ба таксии оддӣ беҳтар ва гаронтар аст; микроавтобуси тиҷоратӣ аз ҳама гаронтар аст.",
-          "id": "Dari kantor ke bandara Anda bisa naik taksi, mobil premium, atau van bisnis: premium lebih nyaman dan lebih mahal daripada taksi biasa; van bisnis paling mahal."
+          "id": "Dari kantor ke bandara Anda bisa naik taksi, mobil premium, atau van bisnis: premium lebih nyaman dan lebih mahal daripada taksi biasa; van bisnis paling mahal.",
+          "tr": "Ofisten havaalanına taksi, premium araç veya business van ile gidebilirsiniz: premium normal taksiden daha güzel ve daha pahalıdır; business van en pahalıdır."
         }
       ],
       "question": {
@@ -705,7 +773,8 @@
         "tk": "Haýsy ulag serişdesini saýlaýarsyňyz we näme üçin?",
         "uz": "Qaysi transportni tanlaysiz va nima uchun?",
         "tg": "Кадом намуди наклиётро интихоб мекунед ва чаро?",
-        "id": "Transportasi mana yang Anda pilih dan mengapa?"
+        "id": "Transportasi mana yang Anda pilih dan mengapa?",
+        "tr": "Hangi ulaşım aracını seçiyorsunuz ve neden?"
       }
     },
     {
@@ -718,7 +787,8 @@
         "tk": "görkezmek, öndürmek",
         "uz": "ko‘rsatmoq, taqdim etmoq",
         "tg": "нишон додан, пешниҳод кардан",
-        "id": "menunjukkan, menghasilkan"
+        "id": "menunjukkan, menghasilkan",
+        "tr": "göstermek, üretmek"
       },
       "simple": {
         "ru": "«出示» — достать и показать документ (удостоверение, паспорт).",
@@ -726,7 +796,8 @@
         "tk": "“Görkezmek” resminamany (şahsyýetnama, pasport) çykaryp görkezmek diýmekdir.",
         "uz": "“Ko‘rsatish” hujjatni (shaxsni tasdiqlovchi hujjat, pasport) olib chiqib ko‘rsatishni bildiradi.",
         "tg": "«Нишон додан» маънои гирифта нишон додани ҳуҷҷатро дорад (шиноснома, паспорт).",
-        "id": "“出示” berarti mengeluarkan dan menunjukkan dokumen (KTP, paspor)."
+        "id": "“出示” berarti mengeluarkan dan menunjukkan dokumen (KTP, paspor).",
+        "tr": "\"出示\", bir belgeyi (kimlik, pasaport) çıkarıp göstermek anlamına gelir."
       },
       "examples": [
         {
@@ -736,7 +807,8 @@
           "tk": "Resmi ekzamende gapyda işgärlere şahsyýetnamaňyzy/pasportyňyzy we ekzamen biletiniňizi görkezmeli.",
           "uz": "Rasmiy imtihonda eshik oldida xodimlarga shaxsni tasdiqlovchi hujjat/pasport va imtihonga kirish ruxsatnomasini ko‘rsatishingiz shart.",
           "tg": "Дар имтиҳони расмӣ, шумо бояд дар даромадгоҳ ба кормандон шиноснома/паспорт ва билети имтиҳонро нишон диҳед.",
-          "id": "Pada ujian resmi, Anda harus menunjukkan KTP/paspor dan kartu ujian kepada petugas di pintu."
+          "id": "Pada ujian resmi, Anda harus menunjukkan KTP/paspor dan kartu ujian kepada petugas di pintu.",
+          "tr": "Resmi bir sınavda, kapıda görevlilere kimlik/pasaport ve sınav giriş belgenizi göstermelisiniz."
         }
       ],
       "question": {
@@ -745,7 +817,8 @@
         "tk": "Haýsy ýagdaýlarda şahsyýetnamaňyzy görkezmeli?",
         "uz": "Qanday holatlarda shaxsni tasdiqlovchi hujjatni ko‘rsatishingiz kerak?",
         "tg": "Дар кадом ҳолатҳо бояд шиноснома нишон диҳед?",
-        "id": "Dalam situasi apa Anda harus menunjukkan identitas?"
+        "id": "Dalam situasi apa Anda harus menunjukkan identitas?",
+        "tr": "Hangi durumlarda kimlik göstermek zorundasın?"
       }
     },
     {
@@ -758,7 +831,8 @@
         "tk": "resminamalar, şahsyýetnama",
         "uz": "hujjatlar, shaxsni tasdiqlovchi hujjat",
         "tg": "ҳуҷҷатҳо, шиноснома",
-        "id": "kredensial, identitas"
+        "id": "kredensial, identitas",
+        "tr": "kimlik bilgileri, kimlik"
       },
       "simple": {
         "ru": "«证件» — документ, удостоверяющий личность или статус: паспорт, ID, студенческий, диплом и т.д.",
@@ -766,7 +840,8 @@
         "tk": "“Resminama” şahsyýeti ýa-da ýagdaýy tassyklaýan resminamadyr: pasport, şahsyýetnama, talyp bileti, diplom we ş.m.",
         "uz": "“Hujjat” shaxs yoki maqomni tasdiqlovchi hujjat: pasport, shaxsni tasdiqlovchi hujjat, talaba bileti, diplom va hokazo.",
         "tg": "«Ҳуҷҷат» ҳуҷҷатест, ки шахсият ё мақомро тасдиқ мекунад: паспорт, шиноснома, корти донишҷӯ, диплом ва ғайра.",
-        "id": "“证件” adalah dokumen yang membuktikan identitas atau status: paspor, KTP, kartu pelajar, ijazah, dll."
+        "id": "“证件” adalah dokumen yang membuktikan identitas atau status: paspor, KTP, kartu pelajar, ijazah, dll.",
+        "tr": "\"证件\", kimliği veya statüyü kanıtlayan bir belgedir: pasaport, kimlik, öğrenci kartı, diploma vb."
       },
       "examples": [
         {
@@ -776,7 +851,8 @@
           "tk": "Bagyşlaň, resminamasiz şahsyýetiňizi tassyk edip bilmerin we sizi goýberip bilmerin.",
           "uz": "Kechirasiz, shaxsni tasdiqlovchi hujjatsiz shaxsingizni tasdiqlay olmayman va sizni kiritolmayman.",
           "tg": "Бубахшед, бе ҳуҷҷат ман наметавонам шахсияти шуморо тасдиқ кунам ва наметавонам шуморо дохил кунам.",
-          "id": "Maaf, tanpa identitas saya tidak dapat memverifikasi identitas Anda dan tidak dapat mengizinkan Anda masuk."
+          "id": "Maaf, tanpa identitas saya tidak dapat memverifikasi identitas Anda dan tidak dapat mengizinkan Anda masuk.",
+          "tr": "Üzgünüm, kimlik olmadan kimliğinizi doğrulayamam ve sizi içeri alamam."
         }
       ],
       "question": {
@@ -785,7 +861,8 @@
         "tk": "Ýurduňyzda haýsy möhüm resminamalar bar?",
         "uz": "Mamlakatingizda qanday muhim hujjatlar mavjud?",
         "tg": "Дар кишвари шумо кадом ҳуҷҷатҳои муҳим мавҷуданд?",
-        "id": "Dokumen penting apa saja yang ada di negara Anda?"
+        "id": "Dokumen penting apa saja yang ada di negara Anda?",
+        "tr": "Ülkenizde hangi önemli belgeler var?"
       }
     },
     {
@@ -798,7 +875,8 @@
         "tk": "jemi mukdary",
         "uz": "umumiy summa",
         "tg": "маблағи умумӣ",
-        "id": "jumlah total"
+        "id": "jumlah total",
+        "tr": "toplam miktar"
       },
       "simple": {
         "ru": "«总额» — общее количество.",
@@ -806,7 +884,8 @@
         "tk": "“Jemi mukdar” jemi mukdary aňladýar.",
         "uz": "“Umumiy summa” — bu total amount.",
         "tg": "«Маблағи умумӣ» маблағи умумӣ аст.",
-        "id": "\"总额\" berarti jumlah total."
+        "id": "\"总额\" berarti jumlah total.",
+        "tr": "\"总额\", toplam tutardır."
       },
       "examples": [
         {
@@ -816,7 +895,8 @@
           "tk": "Sýao Wan aýda 8,000 ýuan gazanýar; ýyllyk jemi 96,000 ýuan.",
           "uz": "Syao Van oyiga 8000 yuan topadi; yillik umumiy summasi 96 000 yuan.",
           "tg": "Сяо Ван дар як моҳ 8000 юан мегирад; маблағи умумии солона 96000 юан аст.",
-          "id": "Xiao Wang berpenghasilan 8.000 per bulan; total tahunannya 96.000 yuan."
+          "id": "Xiao Wang berpenghasilan 8.000 per bulan; total tahunannya 96.000 yuan.",
+          "tr": "Xiao Wang ayda 8.000 kazanıyor; yıllık toplam 96.000 yuan."
         }
       ],
       "question": {
@@ -825,7 +905,8 @@
         "tk": "2022-nji ýylda Hytaýyň daşary söwda jemi näçe boldy?",
         "uz": "2022-yilda Xitoyning umumiy tashqi savdo hajmi qancha edi?",
         "tg": "Дар соли 2022 ҳаҷми умумии савдои хориҷии Чин чӣ қадар буд?",
-        "id": "Berapa total perdagangan luar negeri Tiongkok pada tahun 2022?"
+        "id": "Berapa total perdagangan luar negeri Tiongkok pada tahun 2022?",
+        "tr": "2022'de Çin'in toplam dış ticareti neydi?"
       }
     },
     {
@@ -838,7 +919,8 @@
         "tk": "doňdurmak (hasap)",
         "uz": "muzlatish (hisobni)",
         "tg": "блок кардан (ҳисоб)",
-        "id": "membekukan (rekening)"
+        "id": "membekukan (rekening)",
+        "tr": "dondurmak (hesap)"
       },
       "simple": {
         "ru": "«冻结» — деньги на карте есть, но банк временно не даёт ими пользоваться.",
@@ -846,7 +928,8 @@
         "tk": "“Doňdurmak” puluň kartda bar, ýöne bankyň onuň ulanylmagyny wagtlaýynça bloklaýandygyny aňladýar.",
         "uz": "“Muzlatish” pul kartada bor, lekin bank vaqtincha undan foydalanishni bloklaydi degani.",
         "tg": "«Блок кардан» маънои онро дорад, ки пул дар корт ҳаст, аммо бонк муваққатан истифодаи онро манъ мекунад.",
-        "id": "\"冻结\" berarti uang ada di kartu tetapi bank sementara memblokir penggunaannya."
+        "id": "\"冻结\" berarti uang ada di kartu tetapi bank sementara memblokir penggunaannya.",
+        "tr": "\"冻结\", paranın kartta olduğu ancak bankanın kullanımını geçici olarak engellediği anlamına gelir."
       },
       "examples": [
         {
@@ -856,7 +939,8 @@
           "tk": "Bank kartym doňduruldy — pul alyp bilemok.",
           "uz": "Mening bank kartam muzlatilgan — pul yecha olmayapman.",
           "tg": "Корти бонкии ман блок шудааст — ман наметавонам пул гирам.",
-          "id": "Kartu bank saya dibekukan — saya tidak bisa menarik uang."
+          "id": "Kartu bank saya dibekukan — saya tidak bisa menarik uang.",
+          "tr": "Banka kartım donduruldu — para çekemiyorum."
         }
       ],
       "question": {
@@ -865,7 +949,8 @@
         "tk": "Bank haçan hasaby doňdurýar?",
         "uz": "Bank hisobni qachon muzlatadi?",
         "tg": "Бонк кай ҳисобро блок мекунад?",
-        "id": "Kapan bank membekukan rekening?"
+        "id": "Kapan bank membekukan rekening?",
+        "tr": "Bir banka hesabı ne zaman dondurur?"
       }
     },
     {
@@ -878,7 +963,8 @@
         "tk": "öňünden awtorizasiýa",
         "uz": "oldindan avtorizatsiya",
         "tg": "пешакӣ",
-        "id": "pra-otorisasi"
+        "id": "pra-otorisasi",
+        "tr": "ön yetkilendirme"
       },
       "simple": {
         "ru": "«预授权» — при оплате в отеле/прокате карта замораживает примерную сумму до окончательного расчёта.",
@@ -886,7 +972,8 @@
         "tk": "“Öňünden awtorizasiýa” myhmanhana/karz beriji siziň kartyňyzda gutarnykly hasaplaşyga çenli çak edilýän mukdary doňdurýar.",
         "uz": "“Oldindan avtorizatsiya” — mehmonxona/ijaraga beruvchi yakuniy hisob-kitobgacha kartangizda taxminiy summani muzlatib qo‘yishi.",
         "tg": "«Пешакӣ» вақте аст, ки меҳмонхона/иҷора маблағи тахминиро дар корти шумо то ҳисобкунии ниҳоӣ блок мекунад.",
-        "id": "\"预授权\" adalah ketika hotel/penyewaan membekukan perkiraan jumlah di kartu Anda sampai penyelesaian akhir."
+        "id": "\"预授权\" adalah ketika hotel/penyewaan membekukan perkiraan jumlah di kartu Anda sampai penyelesaian akhir.",
+        "tr": "\"预授权\", bir otelin/kiralama şirketinin nihai ödemeye kadar kartınızda tahmini bir tutarı bloke etmesidir."
       },
       "examples": [
         {
@@ -896,7 +983,8 @@
           "tk": "Salam, otag tölegiňiz jemi 1,800 ýuan; ilki bilen 2,000 ýuanlyk öňünden awtorizasiýany doňdurarys.",
           "uz": "Assalomu alaykum, xonangizning umumiy narxi 1800 yuan; avval 2000 yuanlik oldindan avtorizatsiyani muzlatamiz.",
           "tg": "Салом, маблағи умумии ҳуҷраи шумо 1800 юан аст; аввал мо пешакӣ 2000 юанро блок мекунем.",
-          "id": "Halo, total biaya kamar Anda adalah 1.800 yuan; pertama kami akan membekukan pra-otorisasi sebesar 2.000 yuan."
+          "id": "Halo, total biaya kamar Anda adalah 1.800 yuan; pertama kami akan membekukan pra-otorisasi sebesar 2.000 yuan.",
+          "tr": "Merhaba, toplam oda ücretiniz 1.800 yuan; önce 2.000 yuanlık bir ön provizyon bloke edeceğiz."
         }
       ],
       "question": {
@@ -905,7 +993,8 @@
         "tk": "Öňünden awtorizasiýa adatça haçan ulanylýar?",
         "uz": "Oldindan avtorizatsiya odatda qachon qo‘llaniladi?",
         "tg": "Пешакӣ одатан кай истифода мешавад?",
-        "id": "Kapan pra-otorisasi biasanya digunakan?"
+        "id": "Kapan pra-otorisasi biasanya digunakan?",
+        "tr": "Ön yetkilendirme genellikle ne zaman kullanılır?"
       }
     },
     {
@@ -918,7 +1007,8 @@
         "tk": "girew",
         "uz": "garov puli",
         "tg": "гарав",
-        "id": "deposit"
+        "id": "deposit",
+        "tr": "mevduat"
       },
       "simple": {
         "ru": "«押金» — дополнительная сумма за аренду/проживание; возвращают при выезде, если ничего не потеряно/сломано.",
@@ -926,7 +1016,8 @@
         "tk": "“Girew” kärende/myhmanhana üçin goşmaça mukdar; hiç zat ýitirilmese ýa-da döwülmese, çykyş wagtynda yzyna gaýtarylýar.",
         "uz": "“Garov puli” — ijara/mehmonxona uchun qo‘shimcha summa; hech narsa yo‘qolmasa yoki buzilmasa, chiqishda qaytariladi.",
         "tg": "«Гарав» маблағи иловагӣ барои иҷора/меҳмонхона аст; ҳангоми баромад, агар чизе гум нашуда ё шикаста нашуда бошад, баргардонида мешавад.",
-        "id": "\"押金\" adalah jumlah tambahan untuk sewa/hotel; dikembalikan saat check-out jika tidak ada yang hilang atau rusak."
+        "id": "\"押金\" adalah jumlah tambahan untuk sewa/hotel; dikembalikan saat check-out jika tidak ada yang hilang atau rusak.",
+        "tr": "\"押金\", kira/otel için ek bir tutardır; hiçbir şey kaybolmaz veya kırılmazsa çıkışta iade edilir."
       },
       "examples": [
         {
@@ -936,7 +1027,8 @@
           "tk": "Tehnologiýa we endikler üýtgänsoň, köp myhmanhana indi girew almaýar — diňe otag tölegini alýar.",
           "uz": "Texnologiya va odatlar o‘zgarishi bilan ko‘plab mehmonxonalar endi garov puli olmaydi — faqat xona haqi.",
           "tg": "Бо тағйир ёфтани технология ва одатҳо, бисёр меҳмонхонаҳо дигар гарав намегиранд — танҳо ҳаққи ҳуҷра.",
-          "id": "Dengan perubahan teknologi dan kebiasaan, banyak hotel tidak lagi mengenakan deposit — hanya biaya kamar."
+          "id": "Dengan perubahan teknologi dan kebiasaan, banyak hotel tidak lagi mengenakan deposit — hanya biaya kamar.",
+          "tr": "Teknoloji ve alışkanlıklar değiştikçe, birçok otel artık depozito almıyor — yalnızca oda ücreti."
         }
       ],
       "question": {
@@ -945,7 +1037,8 @@
         "tk": "Myhmanhanalardan başga ýene nirelerde girew goýulýar?",
         "uz": "Mehmonxonalardan tashqari yana qayerda depozit talab qilinadi?",
         "tg": "Ғайр аз меҳмонхонаҳо дар куҷои дигар вадиъа талаб карда мешавад?",
-        "id": "Di mana lagi selain hotel yang memerlukan deposit?"
+        "id": "Di mana lagi selain hotel yang memerlukan deposit?",
+        "tr": "Otellerin dışında başka nerede depozito gerekir?"
       }
     },
     {
@@ -958,7 +1051,8 @@
         "tk": "hasap-kitaby hasaplaşmak",
         "uz": "hisob-kitob qilmoq",
         "tg": "ҳисобро баста кардан",
-        "id": "menyelesaikan pembayaran"
+        "id": "menyelesaikan pembayaran",
+        "tr": "hesap kapatmak"
       },
       "simple": {
         "ru": "«结算» — подсчитать общую сумму.",
@@ -966,7 +1060,8 @@
         "tk": "«结算» jemi mukdary hasaplamak diýmegi aňladýar.",
         "uz": "“结算” umumiy summani hisoblash ma'nosini bildiradi.",
         "tg": "«Ҳисобкунӣ» маънои ҳисоб кардани маблағи умумиро дорад.",
-        "id": "“结算” berarti menghitung jumlah total."
+        "id": "“结算” berarti menghitung jumlah total.",
+        "tr": "\"结算\", toplam tutarı hesaplamak anlamına gelir."
       },
       "examples": [
         {
@@ -976,7 +1071,8 @@
           "tk": "Ähli taslama gutarandan soň, baş edara siziň bilen ähli çykdajylary hasaplaşar.",
           "uz": "Butun loyihadan so'ng, bosh ofis siz bilan barcha xarajatlarni hisob-kitob qiladi.",
           "tg": "Баъди тамоми лоиҳа, маркази асосӣ ҳамаи хароҷотро бо шумо ҳисоб мекунад.",
-          "id": "Setelah seluruh proyek selesai, kantor pusat akan menyelesaikan semua biaya dengan Anda."
+          "id": "Setelah seluruh proyek selesai, kantor pusat akan menyelesaikan semua biaya dengan Anda.",
+          "tr": "Tüm projeden sonra, merkez ofis tüm masrafları sizinle hesaplaşacak."
         }
       ],
       "question": {
@@ -985,7 +1081,8 @@
         "tk": "Hasaplaşyk adatça haçan geçirilýär?",
         "uz": "Hisob-kitob odatda qachon amalga oshiriladi?",
         "tg": "Ҳисобкунӣ одатан кай анҷом дода мешавад?",
-        "id": "Kapan penyelesaian pembayaran biasanya dilakukan?"
+        "id": "Kapan penyelesaian pembayaran biasanya dilakukan?",
+        "tr": "Ödeme genellikle ne zaman yapılır?"
       }
     },
     {
@@ -998,7 +1095,8 @@
         "tk": "tutmak",
         "uz": "ushlab qolmoq",
         "tg": "кам кардан",
-        "id": "memotong"
+        "id": "memotong",
+        "tr": "düşmek"
       },
       "simple": {
         "ru": "«扣除» — вычесть из общей суммы.",
@@ -1006,7 +1104,8 @@
         "tk": "«扣除» jemiden aýyrmak diýmegi aňladýar.",
         "uz": "“扣除” umumiy summadan ayirish ma'nosini bildiradi.",
         "tg": "«Кам кардан» маънои аз ҳаҷми умумӣ тарҳ карданро дорад.",
-        "id": "“扣除” berarti mengurangi dari total."
+        "id": "“扣除” berarti mengurangi dari total.",
+        "tr": "\"扣除\", toplamdan çıkarmak anlamına gelir."
       },
       "examples": [
         {
@@ -1016,7 +1115,8 @@
           "tk": "Hasaplaşykda otag bahasy deslapky rugsatdan tutulýar.",
           "uz": "Hisob-kitob paytida xona narxi oldindan avtorizatsiyadan ushlab qolinadi.",
           "tg": "Ҳангоми ҳисобкунӣ, нархи ҳуҷра аз пешакӣ кам карда мешавад.",
-          "id": "Saat penyelesaian, tarif kamar dipotong dari pra-otorisasi."
+          "id": "Saat penyelesaian, tarif kamar dipotong dari pra-otorisasi.",
+          "tr": "Hesap kapanışında oda ücreti ön provizyondan düşülür."
         },
         {
           "zh": "小王每月税前工资8800元，扣除保险和税以后，实际工资收入是7500元。",
@@ -1025,7 +1125,8 @@
           "tk": "Sýao Wanyň salgytdan öňki aýlygy 8,800; ätiýaçlyk we salgytdan soň — 7,500 arassa.",
           "uz": "Syao Vangning soliqdan oldingi maoshi 8800; sug'urta va soliqdan keyin — 7500 sof.",
           "tg": "Маоши пеш аз андози Сяо Ван 8,800 аст; баъд аз суғурта ва андоз — 7,500 холис.",
-          "id": "Gaji sebelum pajak Xiao Wang adalah 8.800; setelah asuransi dan pajak — 7.500 bersih."
+          "id": "Gaji sebelum pajak Xiao Wang adalah 8.800; setelah asuransi dan pajak — 7.500 bersih.",
+          "tr": "Xiao Wang'ın vergi öncesi maaşı 8.800; sigorta ve vergiden sonra — net 7.500."
         }
       ],
       "question": {
@@ -1034,7 +1135,8 @@
         "tk": "Siziň ýurduňyzda aýlyklardan näme tutulýar?",
         "uz": "Sizning mamlakatingizda maoshdan nima ushlab qolinadi?",
         "tg": "Дар кишвари шумо аз маош чӣ кам карда мешавад?",
-        "id": "Apa yang dipotong dari gaji di negara Anda?"
+        "id": "Apa yang dipotong dari gaji di negara Anda?",
+        "tr": "Ülkenizde maaşlardan ne kesilir?"
       }
     }
   ],
@@ -1050,12 +1152,14 @@
         "tk": "Kimdir biriniň hytaý dilini öwmek üçin ulanylýar. «地道» = asyl, sap, standart.",
         "uz": "Kimningdir xitoy tilini maqtash uchun ishlatiladi. “地道” = asl, sof, standart.",
         "tg": "Барои таъриф кардани забони хитоии касе истифода мешавад. «Асил» = ҳақиқӣ, пок, стандартӣ.",
-        "id": "Digunakan untuk memuji bahasa Mandarin seseorang. “地道” = asli, murni, standar."
+        "id": "Digunakan untuk memuji bahasa Mandarin seseorang. “地道” = asli, murni, standar.",
+        "tr": "Birinin Çincesini övmek için kullanılır. “地道” = özgün, saf, standart."
       },
       "tk": "Siziň hytaý diliňiz gaty tebigy.",
       "uz": "Xitoychangiz juda tabiiy.",
       "tg": "Забони хитоии шумо хеле асил аст.",
-      "id": "Bahasa Mandarin Anda sangat autentik."
+      "id": "Bahasa Mandarin Anda sangat autentik.",
+      "tr": "Çinceniz çok otantik."
     },
     {
       "zh": "我在电话里还以为您是中国人呢！",
@@ -1068,12 +1172,14 @@
         "tk": "Başga görnüşleri: «您这汉语说得和中国人完全没两样啊», «您是外国人吗？怎么汉语说得这么好».",
         "uz": "Boshqa variantlar: “您这汉语说得和中国人完全没两样啊”, “您是外国人吗？怎么汉语说得这么好”.",
         "tg": "Вариантҳои дигар: «Шумо ин забони хитоиро мисли хитоиҳо гап мезанед», «Шумо хориҷӣ ҳастед? Чӣ тавр забони хитоиро ин қадар хуб медонед».",
-        "id": "Varian lain: “您这汉语说得和中国人完全没两样啊”, “您是外国人吗？怎么汉语说得这么好”."
+        "id": "Varian lain: “您这汉语说得和中国人完全没两样啊”, “您是外国人吗？怎么汉语说得这么好”.",
+        "tr": "Diğer varyantlar: “您这汉语说得和中国人完全没两样啊”, “您是外国人吗？怎么汉语说得这么好”."
       },
       "tk": "Telefonda men hatda sizi hytaýly diýip pikir etdim!",
       "uz": "Telefonda hatto sizni xitoylik deb o'yladim!",
       "tg": "Дар телефон ман ҳатто фикр кардам, ки шумо хитоӣ ҳастед!",
-      "id": "Di telepon saya bahkan mengira Anda orang Tionghoa!"
+      "id": "Di telepon saya bahkan mengira Anda orang Tionghoa!",
+      "tr": "Telefonda seni Çinli bile sandım!"
     },
     {
       "zh": "请出示一下证件。",
@@ -1086,12 +1192,14 @@
         "tk": "Resepsiýalarda, kitaphanalarda, synaglarda ulanylýar — şahsyýeti tassyklamaly bolanda.",
         "uz": "Resepsiya, kutubxonalar, imtihonlarda ishlatiladi — shaxsni tasdiqlash zarur bo'lganda.",
         "tg": "Дар мизҳои қабул, китобхонаҳо, имтиҳонҳо истифода мешавад — ҳар вақте ки шахсият бояд тасдиқ карда шавад.",
-        "id": "Digunakan di meja resepsionis, perpustakaan, ujian — kapan pun identitas harus dikonfirmasi."
+        "id": "Digunakan di meja resepsionis, perpustakaan, ujian — kapan pun identitas harus dikonfirmasi.",
+        "tr": "Resepsiyonlarda, kütüphanelerde, sınavlarda — kimliğin doğrulanması gereken her yerde kullanılır."
       },
       "tk": "Şahsyýetnamaňyzy görkeziň.",
       "uz": "Iltimos, guvohnomangizni ko'rsating.",
       "tg": "Лутфан шиносномаи худро нишон диҳед.",
-      "id": "Tolong tunjukkan identitas Anda."
+      "id": "Tolong tunjukkan identitas Anda.",
+      "tr": "Lütfen kimliğinizi gösterin."
     },
     {
       "zh": "先冻结您2000元的预授权作为押金，结算时房费会从预授权中扣除。",
@@ -1104,12 +1212,14 @@
         "tk": "Myhmanhana resepsiýa işgärleriniň barlag wagtynda aýdýan umumy jümlesi.",
         "uz": "Mehmonxona resepsionistlari ro'yxatdan o'tishda aytadigan odatiy ibora.",
         "tg": "Ибораи маъмулие, ки кормандони қабулгоҳи меҳмонхона ҳангоми бақайдгирӣ мегӯянд.",
-        "id": "Frasa umum yang diucapkan resepsionis hotel saat check-in."
+        "id": "Frasa umum yang diucapkan resepsionis hotel saat check-in.",
+        "tr": "Otel resepsiyonistlerinin girişte söylediği yaygın bir ifade."
       },
       "tk": "Ilki bilen 2,000 ýuanlyk öňünden awtorizasiýa saklanar; hasaplaşykda otag nyrhy aýrylar.",
       "uz": "Avval depozit sifatida 2000 yuan miqdorida oldindan avtorizatsiya muzlatiladi; hisob-kitobda xona narxi chegirib tashlanadi.",
       "tg": "Мо аввал 2000 юанро ҳамчун пешпардохт қатъ мекунем; ҳангоми ҳисобкунӣ нархи ҳуҷра тарҳ карда мешавад.",
-      "id": "Kami akan terlebih dahulu membekukan pra-otorisasi 2.000 yuan sebagai deposit; pada saat penyelesaian, tarif kamar akan dipotong."
+      "id": "Kami akan terlebih dahulu membekukan pra-otorisasi 2.000 yuan sebagai deposit; pada saat penyelesaian, tarif kamar akan dipotong.",
+      "tr": "Önce depozito olarak 2.000 yuanlık bir ön provizyon bloke edeceğiz; ödeme sırasında oda ücreti düşülecek."
     }
   ],
   "grammar": [
@@ -1121,7 +1231,8 @@
         "tk": "Çeşmäni/ýeri görkezýär: “bir zadyň üstünde / içinde”.",
         "uz": "Manba/joyni bildiradi: “biror narsada / ichida”.",
         "tg": "Сарчашма/ҷойро ишора мекунад: «дар болои / дар дохили чизе».",
-        "id": "Menandai sumber/tempat: “di / pada sesuatu”."
+        "id": "Menandai sumber/tempat: “di / pada sesuatu”.",
+        "tr": "Kaynağı/yeri belirtir: “bir şeyin üzerinde / içinde”."
       },
       "examples": [
         {
@@ -1131,7 +1242,8 @@
           "tk": "Men gijikme baradaky maglumaty “Feichangzhun”da gördüm.",
           "uz": "Kechikish haqidagi ma'lumotni “Feichangzhun”da ko'rdim.",
           "tg": "Ман маълумоти таъхирро дар «Feichangzhun» дидам.",
-          "id": "Saya melihat info keterlambatan di “Feichangzhun”."
+          "id": "Saya melihat info keterlambatan di “Feichangzhun”.",
+          "tr": "Gecikme bilgisini “Feichangzhun”da gördüm."
         }
       ]
     },
@@ -1143,7 +1255,8 @@
         "tk": "“Diňe wagty şuňa sarp et…”",
         "uz": "“Faqat vaqtdan foydalanib…”",
         "tg": "«Танҳо вақтро барои... истифода баред»",
-        "id": "“Gunakan saja waktunya untuk…”"
+        "id": "“Gunakan saja waktunya untuk…”",
+        "tr": "“Sadece zamanı ... için kullan”"
       },
       "examples": [
         {
@@ -1153,7 +1266,8 @@
           "tk": "Men wagty birnäçe e-poçta jogap bermek üçin ulandym.",
           "uz": "Men vaqtdan bir nechta elektron pochta xabarlariga javob berish uchun foydalandim.",
           "tg": "Ман вақтро барои ҷавоб додан ба якчанд почтаи электронӣ истифода кардам.",
-          "id": "Saya menggunakan waktunya untuk membalas beberapa email."
+          "id": "Saya menggunakan waktunya untuk membalas beberapa email.",
+          "tr": "Zamanı birkaç e-postayı yanıtlamak için kullandım."
         }
       ]
     },
@@ -1165,7 +1279,8 @@
         "tk": "“(Ýalňyşlyk bilen) pikir etdim…” — geň galmak bilen.",
         "uz": "“(Xato o'ylab)…” — hayrat bilan.",
         "tg": "«(Хато) фикр кардам...» — бо ҳайрат.",
-        "id": "“(Secara keliru) mengira…” — dengan keterkejutan."
+        "id": "“(Secara keliru) mengira…” — dengan keterkejutan.",
+        "tr": "“(Yanlışlıkla) sandım…” — şaşkınlıkla."
       },
       "examples": [
         {
@@ -1175,7 +1290,8 @@
           "tk": "Telefonda men hatda seni hytaýly diýip pikir etdim!",
           "uz": "Telefonda hatto sizni xitoylik deb o'yladim!",
           "tg": "Дар телефон ман ҳатто фикр кардам, ки шумо чинӣ ҳастед!",
-          "id": "Di telepon saya bahkan mengira Anda orang Tionghoa!"
+          "id": "Di telepon saya bahkan mengira Anda orang Tionghoa!",
+          "tr": "Telefonda seni Çinli bile sandım!"
         }
       ]
     },
@@ -1187,7 +1303,8 @@
         "tk": "“Kimdir biri üçin eýýäm bron edildi” (netije).",
         "uz": "“Kimdir uchun allaqachon band qilingan” (natija).",
         "tg": "«Аллакай барои касе фармоиш дода шудааст» (натиҷа).",
-        "id": "“Sudah dipesan untuk seseorang” (hasil)."
+        "id": "“Sudah dipesan untuk seseorang” (hasil).",
+        "tr": "“Birisi için zaten rezerve edilmiş” (sonuç)."
       },
       "examples": [
         {
@@ -1197,7 +1314,8 @@
           "tk": "Men size ikinize myhmanhanany eýýäm bron etdim.",
           "uz": "Men siz ikkingiz uchun mehmonxonani allaqachon band qildim.",
           "tg": "Ман аллакай меҳмонхонаро барои шумо ду нафар фармоиш додам.",
-          "id": "Saya sudah memesan hotel untuk kalian berdua."
+          "id": "Saya sudah memesan hotel untuk kalian berdua.",
+          "tr": "İkiniz için oteli çoktan ayırttım."
         }
       ]
     },
@@ -1209,7 +1327,8 @@
         "tk": "Amal shemasy: “ilki…, …da bolsa…”.",
         "uz": "Jarayon sxemasi: “avval…, …da … bo'ladi”.",
         "tg": "Схемаи раванд: «аввал..., ҳангоми... ...мешавад».",
-        "id": "Skema proses: “pertama…, pada… akan…”."
+        "id": "Skema proses: “pertama…, pada… akan…”.",
+        "tr": "Bir süreç şeması: “önce…, …'de … olacak”."
       },
       "examples": [
         {
@@ -1219,7 +1338,8 @@
           "tk": "Ilki 2,000 ýuan sakla; hasaplaşykda aýrylar.",
           "uz": "Avval 2000 yuan muzlatiladi; hisob-kitobda chegirib tashlanadi.",
           "tg": "Аввал 2000 юан қатъ кунед; ҳангоми ҳисобкунӣ он тарҳ карда мешавад.",
-          "id": "Pertama bekukan 2.000 yuan; pada saat penyelesaian akan dipotong."
+          "id": "Pertama bekukan 2.000 yuan; pada saat penyelesaian akan dipotong.",
+          "tr": "İlk olarak 2.000 yuan bloke edilir; ödeme sırasında düşülecektir."
         }
       ]
     }
@@ -1234,7 +1354,8 @@
           "tk": "Annaň uçary näme üçin gijikdi?",
           "uz": "Nega Annaning parvozi kechiktirildi?",
           "tg": "Чаро парвози Анна таъхир кард?",
-          "id": "Mengapa penerbangan Anna tertunda?"
+          "id": "Mengapa penerbangan Anna tertunda?",
+          "tr": "Anna'nın uçuşu neden ertelendi?"
         },
         "a": {
           "zh": "因为天气不好。",
@@ -1243,7 +1364,8 @@
           "tk": "Howanyň ýaramazlygy sebäpli.",
           "uz": "Yomon ob-havo tufayli.",
           "tg": "Аз сабаби обу ҳавои бад.",
-          "id": "Karena cuaca buruk."
+          "id": "Karena cuaca buruk.",
+          "tr": "Kötü hava nedeniyle."
         }
       },
       {
@@ -1254,7 +1376,8 @@
           "tk": "Anna we Jason gümrükde näme etdiler?",
           "uz": "Anna va Jeyson bojxonada nima qilishdi?",
           "tg": "Анна ва Ҷейсон дар гумрук чӣ кор карданд?",
-          "id": "Apa yang dilakukan Anna dan Jason di bea cukai?"
+          "id": "Apa yang dilakukan Anna dan Jason di bea cukai?",
+          "tr": "Anna ve Jason gümrükte ne yaptı?"
         },
         "a": {
           "zh": "有些托运的行李需要申报。",
@@ -1263,7 +1386,8 @@
           "tk": "Barlagdan geçiriljek goşmaça ýükleri yglan etdiler.",
           "uz": "Ro'yxatdan o'tkazilgan yuklarni deklaratsiya qildi.",
           "tg": "Баъзе бағоҷи супоридашударо эълон карданд.",
-          "id": "Mendeklarasikan beberapa bagasi tercatat."
+          "id": "Mendeklarasikan beberapa bagasi tercatat.",
+          "tr": "Bazı kayıtlı bagajları beyan etti."
         }
       },
       {
@@ -1274,7 +1398,8 @@
           "tk": "Meng Annuo Annanyň ötünç soramagyna nähili jogap berdi?",
           "uz": "Men Annuo Annaning kechirim so'rashiga qanday javob berdi?",
           "tg": "Мэн Аннуо ба узрхоҳии Анна чӣ гуна ҷавоб дод?",
-          "id": "Bagaimana Meng Annuo menanggapi permintaan maaf Anna?"
+          "id": "Bagaimana Meng Annuo menanggapi permintaan maaf Anna?",
+          "tr": "Meng Annuo, Anna'nın özrünü nasıl karşıladı?"
         },
         "a": {
           "zh": "他说没事儿，自己利用时间回了邮件。",
@@ -1283,7 +1408,8 @@
           "tk": "Ol alada etmäniň ýokdugyny, wagty e-poçta jogap bermek üçin ulanandygyny aýtdy.",
           "uz": "U hechqisi yo'q, vaqtni elektron pochta xatlariga javob berishga ishlatdim, dedi.",
           "tg": "Ӯ гуфт, ҳеҷ ғам нест, ӯ вақтро барои ҷавоб додан ба почтаи электронӣ истифода бурд.",
-          "id": "Dia bilang tidak masalah, dia menggunakan waktunya untuk membalas email."
+          "id": "Dia bilang tidak masalah, dia menggunakan waktunya untuk membalas email.",
+          "tr": "Sorun yok dedi, zamanı e-postaları yanıtlamak için kullandı."
         }
       },
       {
@@ -1294,7 +1420,8 @@
           "tk": "«Feichangzhun» näme? Onuň adynyň nähili aýratynlygy bar?",
           "uz": "“Feichangzhun” nima? Uning nomida qanday o'ziga xoslik bor?",
           "tg": "«Фэйчанчжун» чист? Дар номи он чӣ хусусият дорад?",
-          "id": "Apa itu \"Feichangzhun\"? Apa yang istimewa dari namanya?"
+          "id": "Apa itu \"Feichangzhun\"? Apa yang istimewa dari namanya?",
+          "tr": "“Feichangzhun” nedir? Adının özelliği ne?"
         },
         "a": {
           "zh": "是一个实时显示航班信息的APP。名字借用“非常准”的谐音，用“飞机”的“飞”代替“非常”的“非”。",
@@ -1303,7 +1430,8 @@
           "tk": "Hakyky wagtda uçuş maglumatlaryny görkezýän programma. Onuň ady «非常准» (örän takyk) sözüne söz oýny edýär, ýöne «非» harpy «飞» (uçar) bilen çalşyrylýar.",
           "uz": "Real vaqtda parvoz ma'lumotlari ilovasi. Uning nomi “非常准” (juda aniq) so'z o'yini bo'lib, “非” harfini “飞” (samolyot) bilan almashtiradi.",
           "tg": "Барномаи иттилооти парвоз дар вақти воқеӣ. Номи он бо «非常准» (хеле дақиқ) бозӣ мекунад, аммо «非»-ро бо «飞» (тайёра) иваз мекунад.",
-          "id": "Aplikasi info penerbangan real-time. Namanya merupakan plesetan dari \"非常准\" (sangat akurat) tetapi mengganti \"非\" dengan \"飞\" (pesawat)."
+          "id": "Aplikasi info penerbangan real-time. Namanya merupakan plesetan dari \"非常准\" (sangat akurat) tetapi mengganti \"非\" dengan \"飞\" (pesawat).",
+          "tr": "Gerçek zamanlı bir uçuş bilgisi uygulaması. Adı “非常准” (çok doğru) ile kelime oyunu yapıyor ama “非” yerine “飞” (uçak) koyuyor."
         }
       },
       {
@@ -1314,7 +1442,8 @@
           "tk": "Anna bilen Meng Annuo biri-biriniň hytaý dilini nähili öwdüler?",
           "uz": "Anna va Men Annuo bir-birlarining xitoy tilini qanday maqtashdi?",
           "tg": "Анна ва Мэн Аннуо забони чинии якдигарро чӣ гуна таъриф карданд?",
-          "id": "Bagaimana Anna dan Meng Annuo saling memuji bahasa Mandarin satu sama lain?"
+          "id": "Bagaimana Anna dan Meng Annuo saling memuji bahasa Mandarin satu sama lain?",
+          "tr": "Anna ve Meng Annuo birbirlerinin Çincesini nasıl övdü?"
         },
         "a": {
           "zh": "安娜说孟安诺说得地道；孟安诺说以为安娜是中国人。",
@@ -1323,7 +1452,8 @@
           "tk": "Anna Mengiň hakyky hytaýly ýaly gepleýändigini aýtdy; Meng Anna hytaýly hasaplandygyny aýtdy.",
           "uz": "Anna Menning tili tabiiy ekanini aytdi; Men esa Annani xitoylik deb o'ylaganini aytdi.",
           "tg": "Анна гуфт, ки Мэн асил ҳарф мезанад; Мэн гуфт, ки ӯ фикр мекард Анна чинӣ аст.",
-          "id": "Anna bilang Meng berbicara dengan autentik; Meng bilang dia mengira Anna orang Tionghoa."
+          "id": "Anna bilang Meng berbicara dengan autentik; Meng bilang dia mengira Anna orang Tionghoa.",
+          "tr": "Anna, Meng'in otantik konuştuğunu söyledi; Meng, Anna'yı Çinli sandığını söyledi."
         }
       },
       {
@@ -1334,7 +1464,8 @@
           "tk": "Meng haýsy otaglary bron etdi?",
           "uz": "Men qanday xonalarni band qildi?",
           "tg": "Мэн кадом ҳуҷраҳоро фармоиш дод?",
-          "id": "Kamar apa yang dipesan Meng?"
+          "id": "Kamar apa yang dipesan Meng?",
+          "tr": "Meng hangi odaları rezerve etti?"
         },
         "a": {
           "zh": "两间高级大床房，23号到26号。",
@@ -1343,7 +1474,8 @@
           "tk": "Iki sany lýuks bir adamlyk otag, 23-nji–26-njy.",
           "uz": "Ikkita lyuks king xona, 23–26-sanalar.",
           "tg": "Ду ҳуҷраи люкси шоҳона, аз 23 то 26.",
-          "id": "Dua kamar deluxe king, tanggal 23–26."
+          "id": "Dua kamar deluxe king, tanggal 23–26.",
+          "tr": "İki lüks king oda, 23–26."
         }
       },
       {
@@ -1354,7 +1486,8 @@
           "tk": "Kabul ediş işgäri Jason bilen nähili hasaplaşar?",
           "uz": "Qabulxona xodimi Jeyson bilan qanday hisob-kitob qiladi?",
           "tg": "Ресепшионист бо Ҷейсон чӣ гуна ҳисоббаробар мекунад?",
-          "id": "Bagaimana resepsionis akan menyelesaikan pembayaran dengan Jason?"
+          "id": "Bagaimana resepsionis akan menyelesaikan pembayaran dengan Jason?",
+          "tr": "Resepsiyonist Jason'la nasıl hesaplaşacak?"
         },
         "a": {
           "zh": "先从信用卡预授权中扣除房费。",
@@ -1363,7 +1496,8 @@
           "tk": "Ilki bilen, kredit kartynyň öňünden awtorizasiýasyndan aýyrar.",
           "uz": "Avval kredit karta oldindan avtorizatsiyasidan yechib olinadi.",
           "tg": "Аввал аз пешпардохти корти кредитӣ кам мекунад.",
-          "id": "Pertama, potong dari pra-otorisasi kartu kredit."
+          "id": "Pertama, potong dari pra-otorisasi kartu kredit.",
+          "tr": "İlk olarak, kredi kartı ön provizyonundan düşün."
         }
       }
     ],
@@ -1376,7 +1510,8 @@
           "tk": "Olaryň uçuşy howa şertleri sebäpli gijä galdy.",
           "uz": "Ularning parvozi ob-havo sababli kechiktirildi.",
           "tg": "Парвози онҳо бо сабаби обу ҳаво ба таъхир афтод.",
-          "id": "Penerbangan mereka tertunda karena cuaca."
+          "id": "Penerbangan mereka tertunda karena cuaca.",
+          "tr": "Uçuşları hava nedeniyle ertelendi."
         },
         "answer": true
       },
@@ -1388,7 +1523,8 @@
           "tk": "Meng uzak wagt garaşdy we göwni ýetmedi.",
           "uz": "Men uzoq kutdi va norozi bo'ldi.",
           "tg": "Мэн дер интизор шуд ва норозӣ буд.",
-          "id": "Meng menunggu lama dan tidak senang."
+          "id": "Meng menunggu lama dan tidak senang.",
+          "tr": "Meng uzun süre bekledi ve mutsuz oldu."
         },
         "answer": false
       },
@@ -1400,7 +1536,8 @@
           "tk": "«Feichangzhun» diňe uçuş maglumatlaryny görkezýär, bilet alyp bilmeýär.",
           "uz": "“Feichangzhun” faqat parvoz ma'lumotlarini ko'rsatadi, chipta band qila olmaydi.",
           "tg": "«Фэйчанчжун» танҳо иттилооти парвозро нишон медиҳад, чипта фармоиш дода наметавонад.",
-          "id": "\"Feichangzhun\" hanya menampilkan info penerbangan, tidak bisa memesan tiket."
+          "id": "\"Feichangzhun\" hanya menampilkan info penerbangan, tidak bisa memesan tiket.",
+          "tr": "“Feichangzhun” yalnızca uçuş bilgilerini gösterir, bilet satın alınamaz."
         },
         "answer": false
       },
@@ -1412,7 +1549,8 @@
           "tk": "Jeýsonyň wezipesi satyn alyş işgäri.",
           "uz": "Jasonning lavozimi xarid bo'yicha kotib.",
           "tg": "Вазифаи Ҷейсон котиби харид аст.",
-          "id": "Posisi Jason adalah staf pengadaan."
+          "id": "Posisi Jason adalah staf pengadaan.",
+          "tr": "Jason'ın pozisyonu satın alma memuru."
         },
         "answer": false
       },
@@ -1424,7 +1562,8 @@
           "tk": "Anna resepsiýoniste pasportyny görkezdi.",
           "uz": "Anna qabulxona xodimiga pasportini ko'rsatdi.",
           "tg": "Анна ба қабулгоҳ шиносномаи худро нишон дод.",
-          "id": "Anna menunjukkan paspornya kepada resepsionis."
+          "id": "Anna menunjukkan paspornya kepada resepsionis.",
+          "tr": "Anna resepsiyoniste pasaportunu gösterdi."
         },
         "answer": true
       },
@@ -1436,7 +1575,8 @@
           "tk": "Anna kepillik tölegini nagt töledi.",
           "uz": "Anna depozitni naqd pulda to'ladi.",
           "tg": "Анна пардохти пешакӣро нақдӣ супорид.",
-          "id": "Anna membayar deposit secara tunai."
+          "id": "Anna membayar deposit secara tunai.",
+          "tr": "Anna depozitoyu nakit ödedi."
         },
         "answer": false
       }
@@ -1450,7 +1590,8 @@
           "tk": "Syýahat üçin myhmanhana we biletleri öňünden ___ gowy.",
           "uz": "Sayohat uchun mehmonxona va chiptalarni oldindan ___ yaxshi.",
           "tg": "Барои сафар беҳтараш ҳуҷраи меҳмонхона ва чиптаҳоро пешакӣ ___.",
-          "id": "Untuk perjalanan, sebaiknya ___ hotel dan tiket terlebih dahulu."
+          "id": "Untuk perjalanan, sebaiknya ___ hotel dan tiket terlebih dahulu.",
+          "tr": "Bir gezi için, en iyisi otel ve biletleri önceden ___."
         },
         "options": [
           "订购",
@@ -1468,7 +1609,8 @@
           "tk": "Meniň bu taksi programmasy halaýaryn — sen hem ony ___ gerek.",
           "uz": "Menga bu taksi ilovasi yoqadi — siz ham uni ___ kerak.",
           "tg": "Ман ин барномаи таксиро дӯст медорам — шумо ҳам бояд онро ___.",
-          "id": "Saya suka aplikasi taksi ini — kamu juga harus ___ nya."
+          "id": "Saya suka aplikasi taksi ini — kamu juga harus ___ nya.",
+          "tr": "Bu taksi uygulamasını seviyorum — sen de ___ denemelisin."
         },
         "options": [
           "上传",
@@ -1486,7 +1628,8 @@
           "tk": "Bir daşary ýurtly aýdym-sazly türkmençe gürleýär — haýran galdyryjy!",
           "uz": "Chet ellik kishi xitoy tilini juda ___ gapiradi — hayratlanarli!",
           "tg": "Як хориҷӣ чинӣ хеле ___ гап мезанад — аҷоиб!",
-          "id": "Orang asing berbicara bahasa Mandarin begitu ___ — luar biasa!"
+          "id": "Orang asing berbicara bahasa Mandarin begitu ___ — luar biasa!",
+          "tr": "Bir yabancı Çince'yi o kadar ___ konuşuyor ki — inanılmaz!"
         },
         "options": [
           "地道",
@@ -1504,7 +1647,8 @@
           "tk": "Şahsyýetnamaňyzy ýitirseňiz, täzeden bermek proseduralaryny ___ üçin polisiýa bölümine gidiň.",
           "uz": "Agar shaxsni tasdiqlovchi hujjatingizni yo'qotsangiz, qayta berish tartib-qoidalarini ___ uchun politsiya bo'limiga boring.",
           "tg": "Агар шиносномаи худро гум кунед, ба шуъбаи полис равед, то расмиёти аз нав додани онро ___.",
-          "id": "Jika Anda kehilangan KTP, pergi ke kantor polisi untuk ___ prosedur penerbitan ulang."
+          "id": "Jika Anda kehilangan KTP, pergi ke kantor polisi untuk ___ prosedur penerbitan ulang.",
+          "tr": "Kimliğinizi kaybederseniz, yeniden düzenleme prosedürleri için karakola gidin."
         },
         "options": [
           "办理",
@@ -1522,7 +1666,8 @@
           "tk": "___ — töleg we hasaplaşyk tapawutlananda; POS bankdan öňünden tassyklama soraýar.",
           "uz": "___ — to'lov va hisob-kitob farq qilganda; POS bankdan oldindan ruxsat so'raydi.",
           "tg": "___ — вақте ки пардохт ва ҳисобкунӣ фарқ мекунанд; POS аз бонк пешакӣ иҷозат мепурсад.",
-          "id": "___ — ketika pembayaran dan penyelesaian berbeda; mesin POS meminta pra-persetujuan dari bank."
+          "id": "___ — ketika pembayaran dan penyelesaian berbeda; mesin POS meminta pra-persetujuan dari bank.",
+          "tr": "___ — ödeme ile mutabakat farklı olduğunda; POS bankadan ön onay ister."
         },
         "options": [
           "预订",
@@ -1540,7 +1685,8 @@
           "tk": "Kart ýitirilse, bankdan ony wagtlaýyn ___ sorap bilersiňiz.",
           "uz": "Agar karta yo'qolsa, bankdan uni vaqtincha ___ so'rashingiz mumkin.",
           "tg": "Агар корт гум шавад, шумо метавонед аз бонк хоҳиш кунед, ки онро муваққатан ___.",
-          "id": "Jika kartu hilang, Anda dapat meminta bank untuk sementara ___ nya."
+          "id": "Jika kartu hilang, Anda dapat meminta bank untuk sementara ___ nya.",
+          "tr": "Kart kaybolursa, bankadan geçici olarak ___ isteyebilirsiniz."
         },
         "options": [
           "扣除",
@@ -1558,7 +1704,8 @@
           "tk": "Alipay balyňyz 600+ bolsa, umumy welosipedler üçin ___ gerek däl.",
           "uz": "Agar Alipay ballingiz 600 dan yuqori bo'lsa, umumiy velosipedlar uchun ___ kerak emas.",
           "tg": "Агар холҳои Alipay-и шумо 600+ бошад, барои велосипедҳои умумӣ ___ лозим нест.",
-          "id": "Jika skor Alipay Anda 600+, Anda tidak perlu ___ untuk sepeda bersama."
+          "id": "Jika skor Alipay Anda 600+, Anda tidak perlu ___ untuk sepeda bersama.",
+          "tr": "Alipay puanınız 600+ ise, paylaşımlı bisikletler için ___ gerekmez."
         },
         "options": [
           "基金",
@@ -1576,7 +1723,8 @@
           "tk": "BeiDou global derejede ___ takyk ýerleşişi üpjün edýär.",
           "uz": "BeiDou butun dunyo bo'ylab ___ aniq joylashuvni ta'minlaydi.",
           "tg": "Бэйдоу дар саросари ҷаҳон ҷойгиршавии дақиқи ___ таъмин мекунад.",
-          "id": "BeiDou menyediakan penentuan posisi yang ___ presisi secara global."
+          "id": "BeiDou menyediakan penentuan posisi yang ___ presisi secara global.",
+          "tr": "BeiDou küresel olarak ___ hassas konumlandırma sağlar."
         },
         "options": [
           "按时",
@@ -1595,7 +1743,8 @@
         "tk": "Annanyň gündeligi",
         "uz": "Annaning kundaligi",
         "tg": "Рӯзномаи Анна",
-        "id": "Buku harian Anna"
+        "id": "Buku harian Anna",
+        "tr": "Anna'nın günlüğü"
       },
       "text": {
         "zh": "2022年7月23日 雷雨\n今天我们来到深圳，天气不好，航班（　）了。过海关的时候，我们带的一些物品需要（　），耽误了很长时间，到达出口的时候，讯达公司的孟安诺已经在等我们了。他等了很久，我以为他会很无聊，没想到他早就在“飞常准”上看到航班信息了，他（　）利用等我们的时间（　）了几封邮件，什么工作都没耽误。",
@@ -1604,7 +1753,8 @@
         "tk": "2022-nji ýylyň 23-nji iýuly, ýyldyrymly ýagyş.\nŞu gün Şenžene geldik — howa ýaramaz, uçuşymyz (　) boldy. Gümrükde käbir zatlary (　) gerek boldy, köp wagt aldy. Çykyşa ýetende, Xundadan Meng Annuo eýýäm garaşýardy. Ol köp wagt garaşdy — men onuň içi geçer öýdüpdim, ýöne ol eýýäm «Feichangzhun» programmasynda uçuş maglumatyny görüp, garaşma wagtyny birnäçe e-poçta (　) üçin (　) ulanypdy — hiç zat gijä galmady.",
         "uz": "2022-yil 23-iyul, momaqaldiroq.\nBugun biz Shenzhenga yetib keldik — ob-havo yomon edi, parvozimiz (　). Bojxona nazoratida ba'zi narsalarni (　) kerak bo'ldi, bu ancha vaqt oldi. Chiqish joyiga yetganimizda, Xundadan Meng Annuo allaqachon kutib turardi. U uzoq vaqt kutgan edi — zerikkan bo'ladi deb o'yladim, lekin u allaqachon “Feichangzhun”da parvoz ma'lumotlarini ko'rib, kutish vaqtidan (　) bir nechta elektron xatni (　) — hech narsa kechikmadi.",
         "tg": "23 июли соли 2022, раъду барқ.\nИмрӯз мо ба Шэньчжэн омадем — ҳаво бад буд, парвози мо (　) шуд. Дар гумрук баъзе молҳоро бояд (　) мекарданд, вақти зиёд сарф шуд. Вақте ки ба баромадгоҳ расидем, Мэн Аннуо аз Сюнда аллакай интизор буд. Ӯ муддати тӯлонӣ интизор шуда буд — ман фикр мекардам, ки ӯ дилгир мешавад, аммо ӯ аллакай маълумоти парвозро дар «Фэйчанчжун» дида буд ва (　) вақти интизориро барои (　) чанд почтаи электронӣ истифода бурд — ҳеҷ чиз ба таъхир наафтод.",
-        "id": "23 Juli 2022, badai petir.\nHari ini kami tiba di Shenzhen — cuaca buruk, penerbangan kami (　). Di bea cukai beberapa barang harus (　), butuh waktu lama. Ketika kami mencapai pintu keluar, Meng Annuo dari Xunda sudah menunggu. Dia sudah menunggu lama — saya pikir dia akan bosan, tetapi dia sudah melihat info penerbangan di \"Feichangzhun\" dan (　) menggunakan waktu menunggu untuk (　) beberapa email — tidak ada yang tertunda."
+        "id": "23 Juli 2022, badai petir.\nHari ini kami tiba di Shenzhen — cuaca buruk, penerbangan kami (　). Di bea cukai beberapa barang harus (　), butuh waktu lama. Ketika kami mencapai pintu keluar, Meng Annuo dari Xunda sudah menunggu. Dia sudah menunggu lama — saya pikir dia akan bosan, tetapi dia sudah melihat info penerbangan di \"Feichangzhun\" dan (　) menggunakan waktu menunggu untuk (　) beberapa email — tidak ada yang tertunda.",
+        "tr": "23 Temmuz 2022, gök gürültülü fırtına.\nBugün Shenzhen'e vardık — kötü hava, uçuşumuz (　) idi. Gümrükte bazı eşyaların (　) gerekti, uzun sürdü. Çıkışa vardığımızda, Xunda'dan Meng Annuo zaten bekliyordu. Uzun süre beklemişti — sıkılmıştır diye düşündüm, ama o zaten “Feichangzhun”dan uçuş bilgisini görmüş ve (　) bekleme süresini birkaç e-posta (　) için kullanmıştı — hiçbir şey gecikmemişti."
       },
       "answers": [
         {
@@ -1614,7 +1764,8 @@
           "tk": "gijä galdy",
           "uz": "kechiktirildi",
           "tg": "ба таъхир афтод",
-          "id": "tertunda"
+          "id": "tertunda",
+          "tr": "gecikmiş"
         },
         {
           "zh": "申报",
@@ -1623,7 +1774,8 @@
           "tk": "beýan etmek",
           "uz": "deklaratsiya qilish",
           "tg": "эълон кардан",
-          "id": "mendeklarasikan"
+          "id": "mendeklarasikan",
+          "tr": "beyan etmek"
         },
         {
           "zh": "正好",
@@ -1632,7 +1784,8 @@
           "tk": "diňe",
           "uz": "hozirgina",
           "tg": "танҳо",
-          "id": "baru saja"
+          "id": "baru saja",
+          "tr": "sadece"
         },
         {
           "zh": "回",
@@ -1641,7 +1794,8 @@
           "tk": "jogap berdi",
           "uz": "javob berdi",
           "tg": "ҷавоб дод ба",
-          "id": "membalas"
+          "id": "membalas",
+          "tr": "yanıtladı"
         }
       ]
     }

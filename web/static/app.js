@@ -387,13 +387,1004 @@ const MENU_ITEMS = [
 // ============================================================
 // What's New banner (v2 — с историей)
 // ============================================================
-const WN_VERSION = "2026-10-01-hsk6";
+const WN_VERSION = "2026-10-02-turkish-i18n-coming";
 const WN_KEY = "hsk5_whatsnew_dismissed_" + WN_VERSION;
+
+const WN_CONTENT = {
+  "ru": {
+    "title": "Что нового — 2 октября 2026 г.",
+    "subtitle": "Турецкий уже здесь! Теперь 7 языков во всём приложении — интерфейс, слова HSK 6, уроки HSK 5 и Business Chinese.",
+    "items": [
+      {
+        "t": "Баннер теперь следует за вашим языком",
+        "d": "Этот баннер What's New теперь полностью переведён — переключите язык интерфейса, и он изменится вместе с вами, как и остальная часть приложения."
+      },
+      {
+        "t": "Новый язык: Türkçe (tr)",
+        "d": "Полный интерфейс теперь доступен на турецком: меню, кнопки, подписи, каждый экран. Выберите его с помощью кнопки-глобуса 🌐 в правом нижнем углу."
+      },
+      {
+        "t": "Слова HSK 6 на турецком",
+        "d": "Все 2 460 словарных статей теперь имеют турецкие переводы, наряду с русским, английским, туркменским, узбекским, таджикским и индонезийским."
+      },
+      {
+        "t": "Уроки HSK 5 на турецком",
+        "d": "Все 18 уроков полностью переведены: заголовки, лексика, объяснения грамматики, сравнения, упражнения."
+      },
+      {
+        "t": "Business Chinese на турецком",
+        "d": "Все 15 уроков бизнес-курса теперь полностью доступны для чтения на турецком."
+      },
+      {
+        "t": "Иконки флагов в выборе языка",
+        "d": "Во всплывающем окне теперь отображаются аккуратные круглые флаги для каждого языка, загружаемые с быстрого CDN и одинаково отображаемые на Windows, macOS, Linux, iOS и Android."
+      },
+      {
+        "t": "TTS-читалка HSK 6",
+        "d": "Одна круглая кнопка 🔊 в правом верхнем углу карточки HSK 6. Нажмите её один раз: приложение читает всю карточку по порядку — иероглиф → пиньинь → перевод → подробное объяснение → каждый пример. Нажмите ещё раз, чтобы остановить. Нажмите R, чтобы переключить её с клавиатуры."
+      },
+      {
+        "t": "Назад в основное приложение",
+        "d": "Небольшая кнопка ← HSK 5 Learner теперь находится в левом верхнем углу каждого экрана HSK 6, чтобы вы могли мгновенно вернуться назад, не теряя прогресс."
+      },
+      {
+        "t": "Автоматические добавления в SRS",
+        "d": "Если вы проводите над словом более 1 минуты, оно автоматически добавляется в вашу колоду SRS. Без лишних кликов."
+      }
+    ],
+    "prev": {
+      "label": "Предыдущие обновления (1 октября 2026 г.) — модуль HSK 6",
+      "items": [
+        {
+          "t": "Новое: модуль HSK 6 (中文 HSK 6)",
+          "d": "Отдельный учебный раздел с полным официальным списком лексики HSK 6: 2 460 слов, каждое с пиньинем и переводами."
+        },
+        {
+          "t": "Глубокие объяснения от ИИ",
+          "d": "Для каждого слова — на базе DeepSeek: значение, когда используется, когда не используется, сочетаемость, нюансы по сравнению с синонимами, регистр."
+        },
+        {
+          "t": "3 примера предложений на каждое слово",
+          "d": "Бытовой, публицистический и абстрактный/академический регистры, с пиньинем и переводом."
+        },
+        {
+          "t": "Жёлтая подсветка других слов HSK6",
+          "d": "Внутри каждого примера предложения."
+        },
+        {
+          "t": "SRS в стиле Anki для HSK 6",
+          "d": "Отдельная колода с Again / Hard / Good / Easy, шагами обучения, ease, lapses."
+        },
+        {
+          "t": "Умный кэш SQLite",
+          "d": "Каждое сгенерированное объяснение используется всеми пользователями; повторные просмотры не расходуют токены API."
+        },
+        {
+          "t": "Google Analytics 4 + Search Console",
+          "d": "Настроены для аналитики трафика."
+        },
+        {
+          "t": "sitemap.xml + robots.txt",
+          "d": "Для правильной индексации Google и другими поисковыми системами."
+        }
+      ]
+    },
+    "older": {
+      "label": "Ещё раньше (28 сентября 2026 г.) — Business Chinese",
+      "items": [
+        {
+          "t": "Новое: Business Chinese (商务中文)",
+          "d": "5 модулей, 15 уроков, полная программа. Доступно с кнопки 🧳 в правом верхнем углу главного экрана."
+        },
+        {
+          "t": "Урок 1 полностью разработан",
+          "d": "2 диалога (аэропорт + отель), 17 карточек лексики с подробными объяснениями, 4 выражения, 5 грамматических конструкций и упражнения."
+        },
+        {
+          "t": "Аудио для урока 1",
+          "d": "Со встроенным плеером: воспроизведение / ±5 с / скорость 0.5×–2.0×."
+        },
+        {
+          "t": "Переработанный туркменский",
+          "d": "Весь курс HSK 5 и Business теперь используют свежий перевод DeepSeek."
+        }
+      ],
+      "older": {
+        "label": "Ещё раньше (26 сентября 2026 г.) — Переводы и SRS",
+        "sections": [
+          {
+            "h": "Переводы и SRS",
+            "items": [
+              {
+                "t": "6 языков",
+                "d": "English, Русский, Türkmen, O'zbek, Тоҷикӣ, Indonesia. Полный интерфейс + переводы уроков."
+              },
+              {
+                "t": "SRS в стиле Anki",
+                "d": "Шаги обучения (1m → 10m → 1d), ease factor, lapses, delay bonus."
+              },
+              {
+                "t": "Настройки SRS",
+                "d": "Настройте шаги обучения, интервал выпуска, ease, easy bonus и другое."
+              },
+              {
+                "t": "Статистика SRS",
+                "d": "Удержание, распределение состояний, прогноз на 7 дней."
+              },
+              {
+                "t": "Выбор уроков в SRS",
+                "d": "Выбирайте конкретные уроки перед повторением."
+              },
+              {
+                "t": "Аудио на карточках SRS",
+                "d": "Нажмите 🔊, чтобы услышать слово (836 слов)."
+              },
+              {
+                "t": "Экспорт / импорт SRS",
+                "d": "Резервная копия JSON для переноса между устройствами."
+              }
+            ]
+          },
+          {
+            "h": "Грамматика и контент",
+            "items": [
+              {
+                "t": "Подробная грамматика HSK 5",
+                "d": "Все 64 пункта получают формулу, когда использовать, частые ошибки, сравнение и упражнения."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "coming": {
+      "label": "Скоро",
+      "items": [
+        {
+          "t": "Упражнения из рабочей тетради HSK 5",
+          "d": "Разделы аудирования, чтения и письма в каждом уроке HSK 5 — настоящие интерактивные упражнения вместо заглушки."
+        },
+        {
+          "t": "HSK 5 (нижний уровень) — 下册",
+          "d": "Вторая половина курса HSK 5: ещё 18 уроков, что удваивает всю программу."
+        }
+      ]
+    }
+  },
+  "tk": {
+    "title": "Täzelikler — 2026-njy ýylyň 2-nji oktýabry",
+    "subtitle": "Türk dili goşuldy! Indi ähli programmada 7 dil bar — interfeýs, HSK 6 sözleri, HSK 5 sapaklary we Business Chinese.",
+    "items": [
+      {
+        "t": "Banner indi siziň diliňize eýerýär",
+        "d": "Bu What's New banneri indi doly terjime edildi — interfeýs dilini üýtgediň we ol hem programmanyň beýleki bölekleri ýaly siziň bilen bilelikde üýtgeýär."
+      },
+      {
+        "t": "Täze dil: Türkçe (tr)",
+        "d": "Doly interfeýs indi türk dilinde elýeterli: menýular, düwmeler, bellikler, ähli ekranlar. Ony aşaky sag burçdaky globus düwmesinden 🌐 saýlaň."
+      },
+      {
+        "t": "HSK 6 sözleri türk dilinde",
+        "d": "Ähli 2,460 söz düzümi indi türk diline terjime edildi, rus, iňlis, türkmen, özbek, täjik we indonez dilleri bilen birlikde."
+      },
+      {
+        "t": "HSK 5 sapaklary türk dilinde",
+        "d": "Ähli 18 sapak doly terjime edildi: atlar, söz düzümi, grammatika düşündirişleri, deňeşdirmeler, maşklar."
+      },
+      {
+        "t": "Business Chinese türk dilinde",
+        "d": "Işewürlik kursynyň ähli 15 sapagy indi türk dilinde doly okalýar."
+      },
+      {
+        "t": "Dil saýlaýjyda baýdak nyşanlary",
+        "d": "Açylýan penjire indi her dil üçin arassa tegelek baýdaklary görkezýär, çalt CDN-den ýüklenýär we Windows, macOS, Linux, iOS we Android-de birmeňzeş görkezilýär."
+      },
+      {
+        "t": "HSK 6 TTS okyjy",
+        "d": "HSK 6 kartynyň ýokarky sag burçunda bir tegelek 🔊 düwmesi. Ony bir gezek basyň: programma tutuş karty yzygiderli okaýar — harf → pinyin → terjime → çuň düşündiriş → her mysal. Durmak üçin ýene basyň. Klawiaturadan açmak üçin R basyň."
+      },
+      {
+        "t": "Esasy programma dolan",
+        "d": "Her HSK 6 ekranynyň ýokarky çep burçunda kiçijik ← HSK 5 Learner düwmesi ýerleşýär, şeýlelikde öňe gidişiňizi ýitirmän derrew yzyna dolanyp bilersiňiz."
+      },
+      {
+        "t": "Awtomatik SRS goşmalary",
+        "d": "Eger bir söze 1 minutdan köp wagt sarp etseňiz, ol awtomatik ýagdaýda SRS toplumyňyza goşulýar. Goşmaça basmak gerek däl."
+      }
+    ],
+    "prev": {
+      "label": "Öňki täzelikler (2026-njy ýylyň 1-nji oktýabry) — HSK 6 moduly",
+      "items": [
+        {
+          "t": "Täze: HSK 6 moduly (中文 HSK 6)",
+          "d": "Resmi HSK 6 söz düzüminiň doly sanawy bilen aýratyn öwreniş bölümi: 2,460 söz, hersinde pinyin we terjimeler."
+        },
+        {
+          "t": "Çuň AI düşündirişleri",
+          "d": "Her söz üçin — DeepSeek tarapyndan: many, haçan ulanylýar, haçan ulanylmaýar, birleşmeler, sinonimlerden tapawudy, stil."
+        },
+        {
+          "t": "Her söz üçin 3 mysal sözlem",
+          "d": "Gündelik, žurnalistik we abstrakt/akademik stiller, pinyin we terjime bilen."
+        },
+        {
+          "t": "Beýleki HSK6 sözleriniň sary reňkde belllenmegi",
+          "d": "Her mysal sözlemiň içinde."
+        },
+        {
+          "t": "HSK 6 üçin Anki stilindäki SRS",
+          "d": "Again / Hard / Good / Easy, öwreniş ädimleri, aňsatlyk, ýalňyşlyklar bilen aýratyn toplum."
+        },
+        {
+          "t": "Akylly SQLite keşi",
+          "d": "Her döredilen düşündiriş ähli ulanyjylar arasynda paýlaşylýar; gaýtadan görüşler nol API token sarp edýär."
+        },
+        {
+          "t": "Google Analytics 4 + Search Console",
+          "d": "Trafik seljermeleri üçin guruldy."
+        },
+        {
+          "t": "sitemap.xml + robots.txt",
+          "d": "Google we beýleki gözleg ulgamlary tarapyndan dogry indekslemek üçin."
+        }
+      ]
+    },
+    "older": {
+      "label": "Has öň (2026-njy ýylyň 28-nji sentýabry) — Business Chinese",
+      "items": [
+        {
+          "t": "Täze: Business Chinese (商务中文)",
+          "d": "5 modul, 15 sapak, doly okuw meýilnamasy. Esasy ekranyň ýokarky sag burçundaky 🧳 düwmesinden elýeterli."
+        },
+        {
+          "t": "1-nji sapak doly işlenip düzüldi",
+          "d": "2 dialog (howa menzili + myhmanhana), jikme-jik düşündirişli 17 söz karty, 4 aňlatma, 5 grammatika guraly we maşklar."
+        },
+        {
+          "t": "1-nji sapak üçin audio",
+          "d": "Içerki pleýer bilen: pleý / ±5s / tizlik 0.5×–2.0×."
+        },
+        {
+          "t": "Türkmen dili täzeden terjime edildi",
+          "d": "Tutuş HSK 5 kursy we Business indi täze DeepSeek terjimesini ulanýar."
+        }
+      ],
+      "older": {
+        "label": "Has öň (2026-njy ýylyň 26-njy sentýabry) — Terjimeler we SRS",
+        "sections": [
+          {
+            "h": "Terjimeler we SRS",
+            "items": [
+              {
+                "t": "6 dil",
+                "d": "English, Русский, Türkmen, O'zbek, Тоҷикӣ, Indonesia. Doly interfeýs + sapak terjimeleri."
+              },
+              {
+                "t": "Anki stilindäki SRS",
+                "d": "Öwreniş ädimleri (1m → 10m → 1d), aňsatlyk faktory, ýalňyşlyklar, gijikme bonusy."
+              },
+              {
+                "t": "SRS sazlamalary",
+                "d": "Öwreniş ädimlerini, gutarýyş aralygyny, aňsatlygy, aňsat bonusy we başgalaryny üýtgediň."
+              },
+              {
+                "t": "SRS statistikasy",
+                "d": "Saklama derejesi, ýagdaý paýlanyşy, 7 günlük çaklama."
+              },
+              {
+                "t": "SRS-de sapak saýlaýjy",
+                "d": "Gaýtalamazdan öň aýratyn sapaklary saýlaň."
+              },
+              {
+                "t": "SRS kartlarynda audio",
+                "d": "Sözi eşitmek üçin 🔊 basyň (836 söz)."
+              },
+              {
+                "t": "SRS eksport / import",
+                "d": "Enjamlar arasynda geçmek üçin JSON ätiýaçlyk nusgasy."
+              }
+            ]
+          },
+          {
+            "h": "Grammatika we mazmun",
+            "items": [
+              {
+                "t": "Jikme-jik HSK 5 grammatikasy",
+                "d": "Ähli 64 nokat formula, haçan ulanmaly, umumy ýalňyşlyklar, deňeşdirme we maşklar bilen üpjün edilýär."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "coming": {
+      "label": "Tiz wagtda",
+      "items": [
+        {
+          "t": "HSK 5 iş kitabyndaky maşklar",
+          "d": "HSK 5-iň her sapagynda diňleme, okama we ýazma bölümleri — ýerine goýlan zatlaryň ýerine hakyky interaktiw maşklar."
+        },
+        {
+          "t": "HSK 5 (Aşaky) — 下册",
+          "d": "HSK 5 kursynyň ikinji ýarymy: ýene 18 sapak, bütin okuw meýilnamasyny iki esse artdyrýar."
+        }
+      ]
+    }
+  },
+  "uz": {
+    "title": "Nima yangi — 2026-yil 2-oktabr",
+    "subtitle": "Turk tili qo'shildi! Endi butun ilovada 7 til — interfeys, HSK 6 so'zlari, HSK 5 darslari va Business Chinese.",
+    "items": [
+      {
+        "t": "Banner endi sizning tilingizga moslashadi",
+        "d": "Ushbu What's New banneri endi to'liq tarjima qilingan — interfeys tilini o'zgartiring va u xuddi ilovaning qolgan qismi kabi siz bilan birga o'zgaradi."
+      },
+      {
+        "t": "Yangi til: Türkçe (tr)",
+        "d": "To'liq interfeys endi turk tilida mavjud: menyular, tugmalar, yorliqlar, har bir ekran. Uni pastki o'ng burchakdagi globus tugmasi 🌐 orqali tanlang."
+      },
+      {
+        "t": "HSK 6 so'zlari turk tilida",
+        "d": "Barcha 2,460 lug'at yozuvi endi rus, ingliz, turkman, o'zbek, tojik va indonez tillari qatorida turk tiliga ham tarjima qilingan."
+      },
+      {
+        "t": "HSK 5 darslari turk tilida",
+        "d": "Barcha 18 dars to'liq tarjima qilingan: sarlavhalar, lug'at, grammatika tushuntirishlari, taqqoslashlar, mashqlar."
+      },
+      {
+        "t": "Business Chinese turk tilida",
+        "d": "Biznes kursining barcha 15 darsi endi turk tilida to'liq o'qish mumkin."
+      },
+      {
+        "t": "Til tanlashda bayroq belgilari",
+        "d": "Qalqib chiquvchi oyna endi har bir til uchun toza dumaloq bayroqlarni ko'rsatadi, ular tezkor CDN dan yuklanadi va Windows, macOS, Linux, iOS hamda Android da bir xil ko'rinishda chiqadi."
+      },
+      {
+        "t": "HSK 6 TTS o'quvchi",
+        "d": "HSK 6 kartasining yuqori o'ng burchagida bitta dumaloq 🔊 tugmasi. Uni bir marta bosing: ilova butun kartani ketma-ket o'qiydi — ieroglif → pinyin → tarjima → chuqur tushuntirish → har bir misol. To'xtatish uchun yana bosing. Klaviaturadan yoqish/o'chirish uchun R tugmasini bosing."
+      },
+      {
+        "t": "Asosiy ilovaga qaytish",
+        "d": "Endi har bir HSK 6 ekranining yuqori chap burchagida kichik ← HSK 5 Learner tugmasi joylashgan, shu bilan taraqqiyotingizni yo'qotmasdan darhol orqaga qaytishingiz mumkin."
+      },
+      {
+        "t": "Avtomatik SRS qo'shimchalari",
+        "d": "Agar bir so'z ustida 1 daqiqadan ko'proq vaqt o'tkazsangiz, u avtomatik ravishda SRS to'plamingizga qo'shiladi. Qo'shimcha bosishlar kerak emas."
+      }
+    ],
+    "prev": {
+      "label": "Oldingi yangilanishlar (2026-yil 1-oktabr) — HSK 6 moduli",
+      "items": [
+        {
+          "t": "Yangi: HSK 6 moduli (中文 HSK 6)",
+          "d": "Rasmiy HSK 6 lug'at ro'yxatining to'liq to'plami bilan mustaqil o'quv bo'limi: 2,460 so'z, har biri pinyin va tarjimalar bilan."
+        },
+        {
+          "t": "Chuqur AI tushuntirishlari",
+          "d": "Har bir so'z uchun — DeepSeek tomonidan taqdim etiladi: ma'nosi, qachon ishlatiladi, qachon ishlatilmaydi, birikmalar, sinonimlarga nisbatan nozik farq, uslub."
+        },
+        {
+          "t": "Har bir so'z uchun 3 ta misol gap",
+          "d": "Kundalik, jurnalistik va mavhum/akademik uslublar, pinyin va tarjima bilan."
+        },
+        {
+          "t": "Boshqa HSK6 so'zlarini sariq rangda ajratib ko'rsatish",
+          "d": "Har bir misol gap ichida."
+        },
+        {
+          "t": "HSK 6 uchun Anki uslubidagi SRS",
+          "d": "Alohida to'plam: Again / Hard / Good / Easy, o'rganish qadamlari, ease, lapses."
+        },
+        {
+          "t": "Aqlli SQLite kesh",
+          "d": "Har bir yaratilgan tushuntirish barcha foydalanuvchilar o'rtasida bo'lishiladi; takroriy ko'rishlar nol API token sarflaydi."
+        },
+        {
+          "t": "Google Analytics 4 + Search Console",
+          "d": "Trafik tahlillari uchun sozlangan."
+        },
+        {
+          "t": "sitemap.xml + robots.txt",
+          "d": "Google va boshqa qidiruv tizimlari tomonidan to'g'ri indekslash uchun."
+        }
+      ]
+    },
+    "older": {
+      "label": "Undan oldinroq (2026-yil 28-sentabr) — Business Chinese",
+      "items": [
+        {
+          "t": "Yangi: Business Chinese (商务中文)",
+          "d": "5 modul, 15 dars, to'liq o'quv dasturi. Asosiy ekranning yuqori o'ng burchagidagi 🧳 tugmasi orqali kirish mumkin."
+        },
+        {
+          "t": "1-dars to'liq ishlab chiqilgan",
+          "d": "2 ta dialog (aeroport + mehmonxona), batafsil tushuntirishlar bilan 17 ta lug'at kartasi, 4 ta ibora, 5 ta grammatik qolip va mashqlar."
+        },
+        {
+          "t": "1-dars uchun audio",
+          "d": "O'rnatilgan pleyer bilan: ijro / ±5s / tezlik 0.5×–2.0×."
+        },
+        {
+          "t": "Turkman tili qayta tarjima qilindi",
+          "d": "Butun HSK 5 kursi va Business endi yangi DeepSeek tarjimasidan foydalanadi."
+        }
+      ],
+      "older": {
+        "label": "Undan oldinroq (2026-yil 26-sentabr) — Tarjimalar va SRS",
+        "sections": [
+          {
+            "h": "Tarjimalar va SRS",
+            "items": [
+              {
+                "t": "6 til",
+                "d": "English, Русский, Türkmen, O'zbek, Тоҷикӣ, Indonesia. To'liq interfeys + dars tarjimalari."
+              },
+              {
+                "t": "Anki uslubidagi SRS",
+                "d": "O'rganish qadamlari (1m → 10m → 1d), ease factor, lapses, kechikish bonusi."
+              },
+              {
+                "t": "SRS sozlamalari",
+                "d": "O'rganish qadamlarini, bitirish intervalini, ease, oson bonus va boshqalarni sozlang."
+              },
+              {
+                "t": "SRS statistikasi",
+                "d": "Saqlanish darajasi, holat taqsimoti, 7 kunlik prognoz."
+              },
+              {
+                "t": "SRS da dars tanlash",
+                "d": "Takrorlashdan oldin aniq darslarni tanlang."
+              },
+              {
+                "t": "SRS kartalarida audio",
+                "d": "So'zni eshitish uchun 🔊 ga bosing (836 so'z)."
+              },
+              {
+                "t": "SRS ni eksport / import qilish",
+                "d": "Qurilmalar o'rtasida ko'chirish uchun JSON zaxira nusxasi."
+              }
+            ]
+          },
+          {
+            "h": "Grammatika va kontent",
+            "items": [
+              {
+                "t": "Batafsil HSK 5 grammatikasi",
+                "d": "Barcha 64 punkt formula, qachon ishlatish, keng tarqalgan xatolar, taqqoslash va mashqlarni oladi."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "coming": {
+      "label": "Tez orada",
+      "items": [
+        {
+          "t": "HSK 5 Workbook mashqlari",
+          "d": "Har bir HSK 5 darsida Tinglash, O'qish va Yozish bo'limlari — vaqtinchalik o'rinbosar o'rniga haqiqiy interaktiv mashqlar."
+        },
+        {
+          "t": "HSK 5 (Quyi) — 下册",
+          "d": "HSK 5 kursining ikkinchi yarmi: yana 18 ta dars, butun o'quv dasturini ikki baravar oshiradi."
+        }
+      ]
+    }
+  },
+  "tg": {
+    "title": "Чи нав аст — 2 октябри 2026",
+    "subtitle": "Туркӣ омад! Ҳоло 7 забон дар тамоми барнома — интерфейс, калимаҳои HSK 6, дарсҳои HSK 5 ва Business Chinese.",
+    "items": [
+      {
+        "t": "Баннер ҳоло забони шуморо пайгирӣ мекунад",
+        "d": "Ин баннери What's New ҳоло пурра тарҷума шудааст — забони интерфейсро иваз кунед ва он мисли тамоми барнома бо шумо тағйир меёбад."
+      },
+      {
+        "t": "Забони нав: Türkçe (tr)",
+        "d": "Интерфейси пурра ҳоло ба забони туркӣ дастрас аст: менюҳо, тугмаҳо, тамғаҳо, ҳар як экран. Онро аз тугмаи глобус 🌐 дар кунҷи поёни рост интихоб кунед."
+      },
+      {
+        "t": "Калимаҳои HSK 6 ба забони туркӣ",
+        "d": "Ҳамаи 2,460 вуруди луғавӣ ҳоло тарҷумаҳои туркӣ доранд, дар баробари русӣ, англисӣ, туркменӣ, узбекӣ, тоҷикӣ ва индонезӣ."
+      },
+      {
+        "t": "Дарсҳои HSK 5 ба забони туркӣ",
+        "d": "Ҳамаи 18 дарс пурра тарҷума шудаанд: сарлавҳаҳо, луғат, шарҳҳои грамматикӣ, муқоисаҳо, машқҳо."
+      },
+      {
+        "t": "Business Chinese ба забони туркӣ",
+        "d": "Ҳамаи 15 дарси курси тиҷоратӣ ҳоло пурра ба забони туркӣ хонда мешаванд."
+      },
+      {
+        "t": "Нишонаҳои парчам дар интихобкунандаи забон",
+        "d": "Попуп ҳоло барои ҳар як забон парчамҳои мудаввари тоза нишон медиҳад, ки аз CDN-и тез бор карда шуда, дар Windows, macOS, Linux, iOS ва Android якхела намоиш дода мешаванд."
+      },
+      {
+        "t": "Хонандаи TTS барои HSK 6",
+        "d": "Як тугмаи мудаввари 🔊 дар кунҷи болоии рости корти HSK 6. Як маротиба клик кунед: барнома тамоми кортро пайдарпай мехонад — ҳарф → пинйин → тарҷума → шарҳи амиқ → ҳар як мисол. Барои қатъ кардан боз клик кунед. Барои аз клавиатура иваз кардан R-ро пахш кунед."
+      },
+      {
+        "t": "Бозгашт ба барномаи асосӣ",
+        "d": "Тугмаи хурди ← HSK 5 Learner ҳоло дар кунҷи болоии чапи ҳар як экрани HSK 6 ҷойгир аст, то шумо метавонед фавран бе гум кардани пешрафт баргардед."
+      },
+      {
+        "t": "Иловаҳои худкори SRS",
+        "d": "Агар шумо беш аз 1 дақиқа барои як калима сарф кунед, он ба таври худкор ба дастаи SRS-и шумо илова мешавад. Кликҳои иловагӣ не."
+      }
+    ],
+    "prev": {
+      "label": "Навсозиҳои пешина (1 октябри 2026) — модули HSK 6",
+      "items": [
+        {
+          "t": "Нав: модули HSK 6 (中文 HSK 6)",
+          "d": "Бахши омӯзишии алоҳида бо рӯйхати пурраи расмии луғати HSK 6: 2,460 калима, ҳар як бо пинйин ва тарҷумаҳо."
+        },
+        {
+          "t": "Шарҳҳои амиқи AI",
+          "d": "Барои ҳар як калима — бо дастгирии DeepSeek: маъно, кай истифода мешавад, кай истифода намешавад, ҳамнишинӣ, фарқият аз синонимҳо, услуб."
+        },
+        {
+          "t": "3 ҷумлаи мисол барои ҳар як калима",
+          "d": "Услубҳои ҳаррӯза, журналистӣ ва абстрактӣ/академӣ, бо пинйин ва тарҷума."
+        },
+        {
+          "t": "Рангкунии зард барои дигар калимаҳои HSK6",
+          "d": "Дар дохили ҳар як ҷумлаи мисол."
+        },
+        {
+          "t": "SRS ба услуби Anki барои HSK 6",
+          "d": "Дастаи алоҳида бо Again / Hard / Good / Easy, қадамҳои омӯзиш, осонӣ, хатоҳо."
+        },
+        {
+          "t": "Кэши интеллектуалии SQLite",
+          "d": "Ҳар як шарҳи тавлидшуда дар байни ҳамаи корбарон мубодила мешавад; дидани такрорӣ ҳеҷ токени API сарф намекунад."
+        },
+        {
+          "t": "Google Analytics 4 + Search Console",
+          "d": "Барои таҳлили трафик танзим шудааст."
+        },
+        {
+          "t": "sitemap.xml + robots.txt",
+          "d": "Барои индексатсияи дуруст аз ҷониби Google ва дигар муҳаррикҳои ҷустуҷӯ."
+        }
+      ]
+    },
+    "older": {
+      "label": "Боз ҳам пештар (28 сентябри 2026) — Business Chinese",
+      "items": [
+        {
+          "t": "Нав: Business Chinese (商务中文)",
+          "d": "5 модул, 15 дарс, барномаи пурраи таълимӣ. Аз тугмаи 🧳 дар кунҷи болоии рости экрани асосӣ дастрас аст."
+        },
+        {
+          "t": "Дарси 1 пурра коркард шудааст",
+          "d": "2 муколама (фурудгоҳ + меҳмонхона), 17 корти луғавӣ бо шарҳҳои муфассал, 4 ибора, 5 қолаби грамматикӣ ва машқҳо."
+        },
+        {
+          "t": "Аудио барои дарси 1",
+          "d": "Бо плеери дарунсохт: play / ±5s / суръат 0.5×–2.0×."
+        },
+        {
+          "t": "Туркменӣ аз нав тарҷума шуд",
+          "d": "Тамоми курси HSK 5 ва Business ҳоло тарҷумаи нави DeepSeek-ро истифода мебаранд."
+        }
+      ],
+      "older": {
+        "label": "Боз ҳам пештар (26 сентябри 2026) — Тарҷумаҳо ва SRS",
+        "sections": [
+          {
+            "h": "Тарҷумаҳо ва SRS",
+            "items": [
+              {
+                "t": "6 забон",
+                "d": "English, Русский, Türkmen, O'zbek, Тоҷикӣ, Indonesia. Интерфейси пурра + тарҷумаҳои дарсҳо."
+              },
+              {
+                "t": "SRS ба услуби Anki",
+                "d": "Қадамҳои омӯзиш (1m → 10m → 1d), омили осонӣ, хатоҳо, бонуси таъхир."
+              },
+              {
+                "t": "Танзимоти SRS",
+                "d": "Қадамҳои омӯзиш, фосилаи хатм, осонӣ, бонуси осон ва ғайраро танзим кунед."
+              },
+              {
+                "t": "Омори SRS",
+                "d": "Сатҳи нигоҳдорӣ, тақсимоти ҳолат, пешгӯии 7-рӯза."
+              },
+              {
+                "t": "Интихобкунандаи дарс дар SRS",
+                "d": "Пеш аз такрор дарсҳои мушаххасро интихоб кунед."
+              },
+              {
+                "t": "Аудио дар кортҳои SRS",
+                "d": "Барои шунидани калима 🔊-ро пахш кунед (836 калима)."
+              },
+              {
+                "t": "Содирот / Воридоти SRS",
+                "d": "Нусхаи JSON барои интиқол байни дастгоҳҳо."
+              }
+            ]
+          },
+          {
+            "h": "Грамматика ва Мундариҷа",
+            "items": [
+              {
+                "t": "Грамматикаи муфассали HSK 5",
+                "d": "Ҳамаи 64 нуқта формула, кай истифода мешавад, хатоҳои маъмул, муқоиса ва машқҳоро мегиранд."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "coming": {
+      "label": "Ба наздикӣ",
+      "items": [
+        {
+          "t": "Машқҳои китоби корӣ HSK 5",
+          "d": "Бахшҳои шунидан, хондан ва навиштан дар ҳар дарси HSK 5 — машқҳои воқеии интерактивӣ ба ҷои ҷойнишин."
+        },
+        {
+          "t": "HSK 5 (Поён) — 下册",
+          "d": "Нисфи дуюми курси HSK 5: 18 дарси иловагӣ, ки тамоми барномаро дучанд мекунад."
+        }
+      ]
+    }
+  },
+  "id": {
+    "title": "Apa yang baru — 2 Oktober 2026",
+    "subtitle": "Bahasa Turki sudah hadir! Kini 7 bahasa di seluruh aplikasi — UI, kata HSK 6, pelajaran HSK 5, dan Business Chinese.",
+    "items": [
+      {
+        "t": "Banner sekarang mengikuti bahasa Anda",
+        "d": "Banner What's New ini sekarang sepenuhnya diterjemahkan — ganti bahasa antarmuka dan banner akan berubah bersama Anda, sama seperti bagian lain dari aplikasi."
+      },
+      {
+        "t": "Bahasa baru: Türkçe (tr)",
+        "d": "Seluruh antarmuka kini tersedia dalam bahasa Turki: menu, tombol, label, setiap layar. Pilih dari tombol globe 🌐 di sudut kanan bawah."
+      },
+      {
+        "t": "Kata HSK 6 dalam bahasa Turki",
+        "d": "Semua 2.460 entri kosakata kini memiliki terjemahan bahasa Turki, bersama dengan bahasa Rusia, Inggris, Turkmenistan, Uzbek, Tajik, dan Indonesia."
+      },
+      {
+        "t": "Pelajaran HSK 5 dalam bahasa Turki",
+        "d": "Semua 18 pelajaran diterjemahkan sepenuhnya: judul, kosakata, penjelasan tata bahasa, perbandingan, latihan."
+      },
+      {
+        "t": "Business Chinese dalam bahasa Turki",
+        "d": "Semua 15 pelajaran kursus bisnis kini dapat dibaca sepenuhnya dalam bahasa Turki."
+      },
+      {
+        "t": "Ikon bendera di pemilih bahasa",
+        "d": "Popup kini menampilkan bendera bulat yang rapi untuk setiap bahasa, dimuat dari CDN cepat dan dirender secara identik di Windows, macOS, Linux, iOS dan Android."
+      },
+      {
+        "t": "Pembaca TTS HSK 6",
+        "d": "Satu tombol bulat 🔊 di sudut kanan atas kartu HSK 6. Klik sekali: aplikasi membaca seluruh kartu secara berurutan — karakter → pinyin → terjemahan → penjelasan mendalam → setiap contoh. Klik lagi untuk berhenti. Tekan R untuk mengaktifkannya dari keyboard."
+      },
+      {
+        "t": "Kembali ke aplikasi utama",
+        "d": "Tombol kecil ← HSK 5 Learner kini berada di sudut kiri atas setiap layar HSK 6, sehingga Anda dapat kembali secara instan tanpa kehilangan kemajuan."
+      },
+      {
+        "t": "Penambahan SRS otomatis",
+        "d": "Jika Anda menghabiskan lebih dari 1 menit pada sebuah kata, kata itu otomatis ditambahkan ke dek SRS Anda. Tanpa klik tambahan."
+      }
+    ],
+    "prev": {
+      "label": "Pembaruan sebelumnya (1 Okt 2026) — Modul HSK 6",
+      "items": [
+        {
+          "t": "Baru: Modul HSK 6 (中文 HSK 6)",
+          "d": "Bagian pembelajaran mandiri dengan daftar kosakata resmi HSK 6 lengkap: 2.460 kata, masing-masing dengan pinyin dan terjemahan."
+        },
+        {
+          "t": "Penjelasan AI mendalam",
+          "d": "Untuk setiap kata — didukung oleh DeepSeek: arti, kapan digunakan, kapan tidak digunakan, kolokasi, nuansa vs. sinonim, register."
+        },
+        {
+          "t": "3 contoh kalimat per kata",
+          "d": "Register sehari-hari, jurnalistik, dan abstrak/akademik, dengan pinyin dan terjemahan."
+        },
+        {
+          "t": "Penyorotan kuning untuk kata HSK6 lainnya",
+          "d": "Di dalam setiap contoh kalimat."
+        },
+        {
+          "t": "SRS gaya Anki untuk HSK 6",
+          "d": "Dek terpisah dengan Again / Hard / Good / Easy, langkah pembelajaran, ease, lapses."
+        },
+        {
+          "t": "Cache SQLite pintar",
+          "d": "Setiap penjelasan yang dihasilkan dibagikan ke semua pengguna; tampilan berulang tidak memakan token API."
+        },
+        {
+          "t": "Google Analytics 4 + Search Console",
+          "d": "Disiapkan untuk wawasan lalu lintas."
+        },
+        {
+          "t": "sitemap.xml + robots.txt",
+          "d": "Untuk pengindeksan yang tepat oleh Google dan mesin pencari lainnya."
+        }
+      ]
+    },
+    "older": {
+      "label": "Bahkan lebih awal (28 Sep 2026) — Business Chinese",
+      "items": [
+        {
+          "t": "Baru: Business Chinese (商务中文)",
+          "d": "5 modul, 15 pelajaran, kurikulum lengkap. Dapat diakses dari tombol 🧳 di sudut kanan atas layar utama."
+        },
+        {
+          "t": "Pelajaran 1 dikembangkan sepenuhnya",
+          "d": "2 dialog (bandara + hotel), 17 kartu kosakata dengan penjelasan rinci, 4 ekspresi, 5 pola tata bahasa, dan latihan."
+        },
+        {
+          "t": "Audio untuk Pelajaran 1",
+          "d": "Dengan pemutar bawaan: putar / ±5s / kecepatan 0.5×–2.0×."
+        },
+        {
+          "t": "Terjemahan ulang bahasa Turkmenistan",
+          "d": "Seluruh kursus HSK 5 dan Business kini menggunakan terjemahan DeepSeek yang baru."
+        }
+      ],
+      "older": {
+        "label": "Bahkan lebih awal (26 Sep 2026) — Terjemahan & SRS",
+        "sections": [
+          {
+            "h": "Terjemahan & SRS",
+            "items": [
+              {
+                "t": "6 bahasa",
+                "d": "Inggris, Русский, Türkmen, O'zbek, Тоҷикӣ, Indonesia. UI lengkap + terjemahan pelajaran."
+              },
+              {
+                "t": "SRS gaya Anki",
+                "d": "Langkah pembelajaran (1m → 10m → 1d), faktor ease, lapses, bonus penundaan."
+              },
+              {
+                "t": "Pengaturan SRS",
+                "d": "Sesuaikan langkah pembelajaran, interval kelulusan, ease, bonus mudah, dan lainnya."
+              },
+              {
+                "t": "Statistik SRS",
+                "d": "Tingkat retensi, distribusi status, prakiraan 7 hari."
+              },
+              {
+                "t": "Pemilih pelajaran di SRS",
+                "d": "Pilih pelajaran tertentu sebelum meninjau."
+              },
+              {
+                "t": "Audio pada kartu SRS",
+                "d": "Ketuk 🔊 untuk mendengar kata (836 kata)."
+              },
+              {
+                "t": "Ekspor / Impor SRS",
+                "d": "Cadangan JSON untuk berpindah antar perangkat."
+              }
+            ]
+          },
+          {
+            "h": "Tata Bahasa & Konten",
+            "items": [
+              {
+                "t": "Tata bahasa HSK 5 terperinci",
+                "d": "Semua 64 poin mendapatkan formula, kapan digunakan, kesalahan umum, perbandingan, dan latihan."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "coming": {
+      "label": "Segera hadir",
+      "items": [
+        {
+          "t": "Latihan HSK 5 Workbook",
+          "d": "Bagian Mendengarkan, Membaca, dan Menulis pada setiap pelajaran HSK 5 — latihan interaktif nyata, bukan sekadar placeholder."
+        },
+        {
+          "t": "HSK 5 (Bawah) — 下册",
+          "d": "Paruh kedua kursus HSK 5: 18 pelajaran lagi, sehingga seluruh kurikulum menjadi dua kali lipat."
+        }
+      ]
+    }
+  },
+  "tr": {
+    "title": "Yenilikler — 2 Ekim 2026",
+    "subtitle": "Türkçe geldi! Artık tüm uygulamada 7 dil var — arayüz, HSK 6 kelimeleri, HSK 5 dersleri ve Business Chinese.",
+    "items": [
+      {
+        "t": "Afiş artık dilinizi takip ediyor",
+        "d": "Bu What's New afişi artık tamamen çevrildi — arayüz dilini değiştirin, uygulamanın geri kalanı gibi o da sizinle birlikte değişir."
+      },
+      {
+        "t": "Yeni dil: Türkçe (tr)",
+        "d": "Arayüzün tamamı artık Türkçe olarak kullanılabilir: menüler, düğmeler, etiketler, her ekran. Sağ alt köşedeki 🌐 dünya düğmesinden seçin."
+      },
+      {
+        "t": "HSK 6 kelimeleri Türkçe olarak",
+        "d": "2.460 kelimenin tamamı artık Rusça, İngilizce, Türkmence, Özbekçe, Tacikçe ve Endonezce ile birlikte Türkçe çevirilere de sahip."
+      },
+      {
+        "t": "HSK 5 dersleri Türkçe olarak",
+        "d": "18 dersin tamamı tamamen çevrildi: başlıklar, kelimeler, dilbilgisi açıklamaları, karşılaştırmalar, alıştırmalar."
+      },
+      {
+        "t": "Business Chinese Türkçe olarak",
+        "d": "İş Çincesi kursunun 15 dersinin tamamı artık Türkçe olarak okunabilir."
+      },
+      {
+        "t": "Dil seçicide bayrak simgeleri",
+        "d": "Açılır pencere artık her dil için temiz dairesel bayraklar gösteriyor; hızlı bir CDN'den yükleniyor ve Windows, macOS, Linux, iOS ve Android'de aynı şekilde görüntüleniyor."
+      },
+      {
+        "t": "HSK 6 TTS okuyucu",
+        "d": "HSK 6 kartının sağ üst köşesinde yuvarlak bir 🔊 düğmesi. Bir kez tıklayın: uygulama tüm kartı sırayla okur — karakter → pinyin → çeviri → derin açıklama → her örnek. Durdurmak için tekrar tıklayın. Klavyeden açıp kapatmak için R tuşuna basın."
+      },
+      {
+        "t": "Ana uygulamaya dön",
+        "d": "Her HSK 6 ekranının sol üst köşesinde artık küçük bir ← HSK 5 Learner düğmesi var, böylece ilerlemenizi kaybetmeden anında geri dönebilirsiniz."
+      },
+      {
+        "t": "Otomatik SRS eklemeleri",
+        "d": "Bir kelime üzerinde 1 dakikadan fazla zaman geçirirseniz, otomatik olarak SRS destenize eklenir. Ekstra tıklama yok."
+      }
+    ],
+    "prev": {
+      "label": "Önceki güncellemeler (1 Ekim 2026) — HSK 6 modülü",
+      "items": [
+        {
+          "t": "Yeni: HSK 6 modülü (中文 HSK 6)",
+          "d": "Tam resmi HSK 6 kelime listesini içeren bağımsız bir öğrenme bölümü: 2.460 kelime, her biri pinyin ve çevirilerle."
+        },
+        {
+          "t": "Derin AI açıklamaları",
+          "d": "Her kelime için — DeepSeek tarafından desteklenir: anlam, ne zaman kullanılır, ne zaman kullanılmaz, eşdizimler, eşanlamlılarla nüans farkı, kayıt."
+        },
+        {
+          "t": "Her kelime için 3 örnek cümle",
+          "d": "Günlük, gazetecilik ve soyut/akademik kayıtlar, pinyin ve çeviri ile."
+        },
+        {
+          "t": "Diğer HSK6 kelimelerinin sarı vurgulanması",
+          "d": "Her örnek cümlenin içinde."
+        },
+        {
+          "t": "HSK 6 için Anki tarzı SRS",
+          "d": "Again / Hard / Good / Easy, öğrenme adımları, kolaylık, unutmalar içeren ayrı deste."
+        },
+        {
+          "t": "Akıllı SQLite önbelleği",
+          "d": "Oluşturulan her açıklama tüm kullanıcılar arasında paylaşılır; tekrar görüntülemeler sıfır API token maliyeti getirir."
+        },
+        {
+          "t": "Google Analytics 4 + Search Console",
+          "d": "Trafik içgörüleri için kuruldu."
+        },
+        {
+          "t": "sitemap.xml + robots.txt",
+          "d": "Google ve diğer arama motorları tarafından düzgün indeksleme için."
+        }
+      ]
+    },
+    "older": {
+      "label": "Daha da önce (28 Eylül 2026) — Business Chinese",
+      "items": [
+        {
+          "t": "Yeni: Business Chinese (商务中文)",
+          "d": "5 modül, 15 ders, tam müfredat. Ana ekrandaki sağ üstteki 🧳 düğmesinden erişilebilir."
+        },
+        {
+          "t": "Ders 1 tamamen geliştirildi",
+          "d": "2 diyalog (havaalanı + otel), ayrıntılı açıklamalı 17 kelime kartı, 4 ifade, 5 dilbilgisi kalıbı ve alıştırmalar."
+        },
+        {
+          "t": "Ders 1 için ses",
+          "d": "Yerleşik oynatıcı ile: oynat / ±5sn / hız 0.5×–2.0×."
+        },
+        {
+          "t": "Türkmence yeniden çevrildi",
+          "d": "Tüm HSK 5 kursu ve Business artık yeni bir DeepSeek çevirisi kullanıyor."
+        }
+      ],
+      "older": {
+        "label": "Daha da önce (26 Eylül 2026) — Çeviriler ve SRS",
+        "sections": [
+          {
+            "h": "Çeviriler ve SRS",
+            "items": [
+              {
+                "t": "6 dil",
+                "d": "İngilizce, Русский, Türkmen, O'zbek, Тоҷикӣ, Indonesia. Tam arayüz + ders çevirileri."
+              },
+              {
+                "t": "Anki tarzı SRS",
+                "d": "Öğrenme adımları (1d → 10d → 1g), kolaylık faktörü, unutmalar, gecikme bonusu."
+              },
+              {
+                "t": "SRS ayarları",
+                "d": "Öğrenme adımlarını, mezuniyet aralığını, kolaylığı, kolay bonusu ve daha fazlasını ayarlayın."
+              },
+              {
+                "t": "SRS istatistikleri",
+                "d": "Hatırlama oranı, durum dağılımı, 7 günlük tahmin."
+              },
+              {
+                "t": "SRS'de ders seçici",
+                "d": "İncelemeden önce belirli dersleri seçin."
+              },
+              {
+                "t": "SRS kartlarında ses",
+                "d": "Kelimeyi duymak için 🔊 simgesine dokunun (836 kelime)."
+              },
+              {
+                "t": "SRS'yi Dışa / İçe Aktar",
+                "d": "Cihazlar arasında taşımak için JSON yedeği."
+              }
+            ]
+          },
+          {
+            "h": "Dilbilgisi ve İçerik",
+            "items": [
+              {
+                "t": "Ayrıntılı HSK 5 dilbilgisi",
+                "d": "64 maddenin tamamı formül, ne zaman kullanılacağı, yaygın hatalar, karşılaştırma ve alıştırmalar içerir."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "coming": {
+      "label": "Çok yakında",
+      "items": [
+        {
+          "t": "HSK 5 Çalışma Kitabı alıştırmaları",
+          "d": "Her HSK 5 dersinde Dinleme, Okuma ve Yazma bölümleri — yer tutucu yerine gerçek etkileşimli alıştırmalar."
+        },
+        {
+          "t": "HSK 5 (Alt) — 下册",
+          "d": "HSK 5 kursunun ikinci yarısı: 18 ders daha, tüm müfredatı ikiye katlıyor."
+        }
+      ]
+    }
+  },
+  "en": {
+    "items": [
+      {
+        "t": "The banner now follows your language",
+        "d": "This What's New banner is now fully translated — switch the interface language and it changes with you, just like the rest of the app."
+      }
+    ],
+    "coming": {
+      "label": "Coming soon",
+      "items": [
+        {
+          "t": "HSK 5 Workbook exercises",
+          "d": "Listening, Reading, and Writing sections on every HSK 5 lesson — real interactive exercises instead of a placeholder."
+        },
+        {
+          "t": "HSK 5 (Lower) — 下册",
+          "d": "The second half of the HSK 5 course: 18 more lessons, doubling the whole curriculum."
+        }
+      ]
+    }
+  }
+};
 
 function wnShowBanner() {
   try { if (localStorage.getItem(WN_KEY) === "1") return; } catch (e) {}
   const host = document.getElementById("whatsnew-host");
   if (!host) return;
+
+  const lang = (typeof getLang === "function") ? getLang() : "en";
+  const C = WN_CONTENT[lang] || WN_CONTENT.en;
+
+  const renderItems = (items) => (items || []).map(it =>
+    `<li><b>${it.t}</b> — ${it.d}</li>`
+  ).join("");
 
   host.innerHTML = `
     <div id="wn-banner" style="
@@ -401,9 +1392,9 @@ function wnShowBanner() {
       margin:14px 0 18px;
       padding:18px 20px 16px;
       border-radius:14px;
-      background:linear-gradient(135deg, rgba(166,58,42,0.12), rgba(240,180,40,0.08));
-      border:1px solid rgba(200,98,79,0.35);
-      box-shadow:0 8px 28px rgba(166,58,42,0.15);
+      background:linear-gradient(135deg, rgba(225,29,72,0.10), rgba(240,180,40,0.06));
+      border:1px solid rgba(225,29,72,0.35);
+      box-shadow:0 8px 28px rgba(225,29,72,0.14);
       animation:wnFadeIn .5s ease;
     ">
       <style>
@@ -411,15 +1402,30 @@ function wnShowBanner() {
         @keyframes wnPop { 0% { transform:scale(.6); } 60% { transform:scale(1.12); } 100% { transform:scale(1); } }
         #wn-banner ul { margin:8px 0 0; padding-left:22px; }
         #wn-banner li { margin:5px 0; color:#D9E6F2; font-size:13.5px; line-height:1.55; }
-        #wn-banner b { color:#FFB0A0; }
-        #wn-banner .wn-old { margin-top:14px; padding-top:12px; border-top:1px dashed rgba(200,98,79,0.25); }
+        #wn-banner b { color:#FF9AA6; }
+        #wn-banner .wn-old { margin-top:14px; padding-top:12px; border-top:1px dashed rgba(225,29,72,0.25); }
         #wn-banner .wn-old summary { cursor:pointer; color:#8B9AAB; font-size:12.5px; list-style:none; }
         #wn-banner .wn-old summary::-webkit-details-marker { display:none; }
-        #wn-banner .wn-old summary:before { content:"▸ "; color:#FFB0A0; }
+        #wn-banner .wn-old summary:before { content:"▸ "; color:#FF9AA6; }
         #wn-banner .wn-old[open] summary:before { content:"▾ "; }
         #wn-banner .wn-old-body { margin-top:10px; padding-left:4px; opacity:.85; }
         #wn-banner .wn-old-body h4 { color:#A6B4C2; font-size:12px; text-transform:uppercase; letter-spacing:.4px; margin:10px 0 4px; font-weight:600; }
         #wn-banner .wn-old-body li { font-size:12.5px; color:#A6B4C2; }
+        #wn-banner .wn-coming {
+          margin-top:16px;
+          padding:14px 16px 12px;
+          border-radius:10px;
+          background:linear-gradient(135deg, rgba(240,180,40,0.10), rgba(240,180,40,0.03));
+          border:1px solid rgba(240,180,40,0.4);
+        }
+        #wn-banner .wn-coming-title {
+          display:flex; align-items:center; gap:8px;
+          font-size:12px; font-weight:700; letter-spacing:.6px;
+          text-transform:uppercase; color:#F0C674; margin-bottom:6px;
+        }
+        #wn-banner .wn-coming ul { margin-top:4px; }
+        #wn-banner .wn-coming li { color:#E6D9A6; }
+        #wn-banner .wn-coming b { color:#F0C674; }
       </style>
       <button id="wn-close" type="button" title="Dismiss" style="
         position:absolute;top:8px;right:10px;
@@ -427,105 +1433,36 @@ function wnShowBanner() {
         font-size:20px;cursor:pointer;line-height:1;padding:4px 8px;
       ">✕</button>
       <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px">
-        <span style="font-size:24px;animation:wnPop .5s ease">🔥</span>
-        <span style="font-size:16px;font-weight:700;color:#E6EDF5">What's new — October 1, 2026</span>
+        <span style="font-size:24px;animation:wnPop .5s ease">🇹🇷</span>
+        <span style="font-size:16px;font-weight:700;color:#E6EDF5">${C.title}</span>
       </div>
-      <div style="font-size:13px;color:#A6B4C2;margin-bottom:6px">
-        Massive update: a dedicated <b>HSK 6 module</b> with 2,460 words,
-        AI-generated deep explanations, and its own SRS deck.
-      </div>
-      <ul>
-        <li><b>New: HSK 6 module (中文 HSK 6)</b> — a standalone learning section
-        with the full official HSK 6 vocabulary list: <b>2,460 words</b>, each
-        with pinyin and translations in 6 languages. Open it via the red
-        <b>中文 HSK 6</b> button in the top-right corner.</li>
+      <div style="font-size:13px;color:#A6B4C2;margin-bottom:6px">${C.subtitle}</div>
+      <ul>${renderItems(C.items)}</ul>
 
-        <li><b>Deep AI explanation for every word</b> — powered by DeepSeek.
-        Each word comes with: what it really means, where it's used, where it's
-        <i>not</i> used (and what to use instead), typical collocations,
-        nuance vs. close synonyms, and register
-        (colloquial / neutral / literary / official).</li>
-
-        <li><b>3 HSK6-level example sentences per word</b> — in three different
-        registers: everyday, journalistic, and abstract/academic. Each with
-        pinyin and translation.</li>
-
-        <li><b>Yellow highlighting of other HSK6 words</b> — inside every
-        generated sentence, any other word from the HSK 6 list is marked with
-        a yellow marker, so you can learn vocabulary in context.</li>
-
-        <li><b>Anki-style SRS for HSK 6</b> — a separate deck with
-        Again / Hard / Good / Easy ratings, learning steps, ease factor,
-        lapses — the same engine used by HSK 5, but with its own independent
-        progress.</li>
-
-        <li><b>Auto-add on long view</b> — if you look at a word for more
-        than 1 minute, it's automatically added to your SRS deck. No extra
-        clicks.</li>
-
-        <li><b>Review mode with due counter</b> — a dedicated <b>REVIEW</b>
-        button on the start screen shows how many cards are due right now
-        and starts a focused review session.</li>
-
-        <li><b>Smart caching — no wasted tokens</b> — every generated
-        explanation is saved in a shared database. The next time <i>any</i>
-        user opens the same word in the same language, it loads instantly
-        from the cache — zero extra API cost.</li>
-
-        <li><b>Keyboard-first navigation</b> — <b>Space</b> = Good,
-        <b>1</b> / <b>2</b> / <b>3</b> / <b>4</b> =
-        Again / Hard / Good / Easy. Works without any clicks.</li>
-      </ul>
+      ${C.coming ? `
+      <div class="wn-coming">
+        <div class="wn-coming-title">🚧 ${C.coming.label}</div>
+        <ul>${renderItems(C.coming.items)}</ul>
+      </div>` : ""}
 
       <details class="wn-old">
-        <summary>Previous updates (Sep 28, 2026) — Business Chinese</summary>
+        <summary>${C.prev.label}</summary>
         <div class="wn-old-body">
-          <ul>
-            <li><b>New: Business Chinese (商务中文)</b> — 5 modules,
-            15 lessons, full curriculum. Reachable from the top-right
-            🧳 button on the main screen.</li>
-            <li><b>Lesson 1 fully developed</b> — 2 dialogs (airport + hotel),
-            17 vocabulary cards with detailed explanations, 4 expressions,
-            5 grammar patterns, and exercises (comprehension, true/false,
-            multiple choice, fill-in-the-blank).</li>
-            <li><b>Audio for Lesson 1</b> — listen to dialogs and vocabulary
-            with the built-in player: play / ±5s / speed 0.5×–2.0×.</li>
-            <li><b>Business content in 6 languages</b> — Russian, English,
-            Turkmen, O'zbek, Тоҷикӣ, Indonesia.</li>
-            <li><b>Retranslated Turkmen</b> — the entire HSK 5 course and
-            Business now use a fresh DeepSeek translation.</li>
-          </ul>
+          <ul>${renderItems(C.prev.items)}</ul>
 
           <details class="wn-old" style="margin-top:14px">
-            <summary>Even earlier (Sep 26, 2026) — Translations &amp; SRS</summary>
+            <summary>${C.older.label}</summary>
             <div class="wn-old-body">
-              <h4>Translations &amp; SRS</h4>
-              <ul>
-                <li><b>6 languages</b> — English, Русский, Türkmen, O'zbek,
-                Тоҷикӣ, Indonesia. Full UI + lesson translations.</li>
-                <li><b>Anki-style SRS</b> — learning steps (1m → 10m → 1d),
-                ease factor, lapses, delay bonus.</li>
-                <li><b>SRS settings</b> — tweak learning steps, graduating
-                interval, ease, easy bonus, and more.</li>
-                <li><b>SRS stats</b> — retention rate, state distribution,
-                7-day forecast.</li>
-                <li><b>Lesson picker in SRS</b> — pick specific lessons
-                before reviewing.</li>
-                <li><b>Audio on SRS cards</b> — tap 🔊 to hear the word
-                (836 words).</li>
-                <li><b>Export / Import SRS</b> — JSON backup for moving
-                between devices.</li>
-                <li><b>Language picker on first launch</b> — choose your
-                language right away.</li>
-              </ul>
-              <h4>Grammar &amp; Content</h4>
-              <ul>
-                <li><b>Detailed HSK 5 grammar</b> — all 64 points get
-                formula, when-to-use, common mistakes, comparison, and
-                exercises.</li>
-                <li><b>Grammar UI</b> — new blocks render on every grammar
-                card.</li>
-              </ul>
+              <ul>${renderItems(C.older.items)}</ul>
+
+              <details class="wn-old" style="margin-top:14px">
+                <summary>${C.older.older.label}</summary>
+                <div class="wn-old-body">
+                  ${C.older.older.sections.map(s =>
+                    `<h4>${s.h}</h4><ul>${renderItems(s.items)}</ul>`
+                  ).join("")}
+                </div>
+              </details>
             </div>
           </details>
         </div>

@@ -8,7 +8,8 @@
     "tk": "Söhbetdeşlik we uýumlaşmak",
     "uz": "Suhbat va moslashuv",
     "tg": "Мусоҳиба ва мутобиқшавӣ",
-    "id": "Wawancara dan adaptasi"
+    "id": "Wawancara dan adaptasi",
+    "tr": "Mülakat ve İşe Alıştırma"
   },
   "title": {
     "zh": "欢迎你参加今天的面试",
@@ -17,7 +18,8 @@
     "tk": "Söhbetdeşlige hoş geldiňiz",
     "uz": "Suhbatga xush kelibsiz",
     "tg": "Ба мусоҳиба хуш омадед",
-    "id": "Selamat datang untuk wawancara"
+    "id": "Selamat datang untuk wawancara",
+    "tr": "Mülakata hoş geldiniz"
   },
   "status": "stub",
   "goals": {},

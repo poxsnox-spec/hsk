@@ -8,7 +8,8 @@
     "tk": "Müşderileri kabul etmek",
     "uz": "Mijozlarni qabul qilish",
     "tg": "Қабули мизоҷон",
-    "id": "Penerimaan klien"
+    "id": "Penerimaan klien",
+    "tr": "Müşterileri Karşılama"
   },
   "title": {
     "zh": "很荣幸为二位接风洗尘",
@@ -17,7 +18,8 @@
     "tk": "Sizi kabul etmek meniň üçin hormat",
     "uz": "Sizga ziyofat uyushtirish men uchun sharaf",
     "tg": "Барои ман ифтихор аст, ки ба шумо қабул ташкил кунам",
-    "id": "Merupakan kehormatan bagi saya untuk mengadakan resepsi untuk Anda"
+    "id": "Merupakan kehormatan bagi saya untuk mengadakan resepsi untuk Anda",
+    "tr": "Size bir resepsiyon vermek benim için onurdur"
   },
   "status": "stub",
   "goals": {},

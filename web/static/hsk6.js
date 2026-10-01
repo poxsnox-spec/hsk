@@ -1,4 +1,4 @@
-// HSK6 · SRS + генерация через DeepSeek
+// HSK6 · SRS + генерация через DeepSeek + авточитатель (одна кнопка)
 (function(){
 "use strict";
 
@@ -20,8 +20,41 @@ const SRS_MIN = 60 * 1000;
 const SRS_DAY = 24 * 60 * SRS_MIN;
 const AUTO_ADD_AFTER_MS = 60 * 1000;
 
-// ---------- i18n для HSK6 ----------
+// ---------- i18n ----------
 const T6 = {
+  tr: {
+    subtitle: "2460 kelime · C1 Seviyesi",
+    meta: "DeepSeek · 3 örnek · derin açıklama",
+    loaded: "Yüklendi",
+    words: "kelime",
+    in_srs: "SRS'de",
+    due: "Vadesi gelen",
+    explain_title: "Derin açıklama",
+    examples_title: "Örnekler",
+    meaning: "Anlam",
+    when_used: "Nerede kullanılır",
+    when_not_used: "Nerede kullanılmaz",
+    collocations: "Tipik eşdizimler",
+    nuance: "Eş anlamlılarla nüans farkı",
+    register: "Dil düzeyi",
+    generating: "Oluşturuluyor…",
+    loading: "Yükleniyor…",
+    loading_list: "Liste yükleniyor…",
+    error: "Hata",
+    error_loading: "Yükleme hatası",
+    added_to_srs: "Kelime SRS'ye eklendi",
+    review_done: "Tekrar tamamlandı",
+    deck_done: "Deste tamamlandı",
+    no_due: "Vadesi gelen kart yok",
+    srs_again: "Tekrar",
+    srs_hard: "Zor",
+    srs_good: "İyi",
+    srs_easy: "Kolay",
+    tts_no_voice: "Bu dil için yüklü ses yok",
+    tts_not_supported: "Tarayıcı konuşmayı desteklemiyor",
+    tts_nothing: "Henüz okunacak bir şey yok — oluşturmayı bekleyin",
+  },
+
   ru: {
     subtitle: "2460 слов · Уровень C1",
     meta: "DeepSeek · 3 примера · глубокое объяснение",
@@ -48,6 +81,9 @@ const T6 = {
     srs_hard: "Трудно",
     srs_good: "Хорошо",
     srs_easy: "Легко",
+    tts_no_voice: "Голос для этого языка не установлен",
+    tts_not_supported: "Браузер не поддерживает озвучку",
+    tts_nothing: "Нечего читать — дождитесь генерации",
   },
   en: {
     subtitle: "2460 words · Level C1",
@@ -75,6 +111,9 @@ const T6 = {
     srs_hard: "Hard",
     srs_good: "Good",
     srs_easy: "Easy",
+    tts_no_voice: "No voice for this language installed",
+    tts_not_supported: "Browser doesn't support speech",
+    tts_nothing: "Nothing to read yet — wait for generation",
   },
   tk: {
     subtitle: "2460 söz · Dereje C1",
@@ -102,6 +141,9 @@ const T6 = {
     srs_hard: "Kyn",
     srs_good: "Gowy",
     srs_easy: "Aňsat",
+    tts_no_voice: "Bu dil üçin ses ýok",
+    tts_not_supported: "Brauzer sesini goldamaýar",
+    tts_nothing: "Okajak zat ýok — garaşyň",
   },
   uz: {
     subtitle: "2460 so'z · C1 daraja",
@@ -129,6 +171,9 @@ const T6 = {
     srs_hard: "Qiyin",
     srs_good: "Yaxshi",
     srs_easy: "Oson",
+    tts_no_voice: "Bu til uchun ovoz yo'q",
+    tts_not_supported: "Brauzer ovozni qo'llamaydi",
+    tts_nothing: "O'qish uchun hech narsa yo'q",
   },
   tg: {
     subtitle: "2460 калима · Сатҳи C1",
@@ -156,6 +201,9 @@ const T6 = {
     srs_hard: "Душвор",
     srs_good: "Хуб",
     srs_easy: "Осон",
+    tts_no_voice: "Барои ин забон овоз нест",
+    tts_not_supported: "Браузер овозро дастгирӣ намекунад",
+    tts_nothing: "Барои хондан чизе нест",
   },
   id: {
     subtitle: "2460 kata · Level C1",
@@ -183,6 +231,9 @@ const T6 = {
     srs_hard: "Sulit",
     srs_good: "Bagus",
     srs_easy: "Mudah",
+    tts_no_voice: "Tidak ada suara untuk bahasa ini",
+    tts_not_supported: "Browser tidak mendukung suara",
+    tts_nothing: "Belum ada yang dibaca",
   },
 };
 
@@ -197,6 +248,7 @@ let state = {
   isReview: false,
   reviewQueue: [],
   reviewPos: 0,
+  currentContent: null,
 };
 
 function currentLang() {
@@ -229,7 +281,130 @@ function updateUiTexts() {
   }
 }
 
-// ---------- localStorage ----------
+// ============================================================
+// TTS — одна кнопка читает всё
+// ============================================================
+const TTS = (function(){
+  const synth = window.speechSynthesis;
+  const supported = !!synth;
+  let voices = [];
+  let isPlaying = false;
+  let stopFlag = false;
+  let voicesReady = false;
+
+  const LANG_MAP = {
+    ru: ["ru-RU", "ru"],
+    en: ["en-US", "en-GB", "en"],
+    tk: ["tk-TM", "tr-TR", "tr", "en-US"],
+    uz: ["uz-UZ", "uz", "tr-TR", "en-US"],
+    tg: ["tg-TJ", "fa-IR", "fa", "ru-RU", "en-US"],
+    id: ["id-ID", "id", "en-US"],
+    tr: ["tr-TR", "tr", "en-US"],
+    zh: ["zh-CN", "zh-Hans", "zh"],
+  };
+
+  function refreshVoices() {
+    if (!supported) return;
+    voices = synth.getVoices() || [];
+    if (voices.length) voicesReady = true;
+  }
+  if (supported) {
+    refreshVoices();
+    try { synth.addEventListener("voiceschanged", refreshVoices); } catch(e){}
+    setTimeout(refreshVoices, 500);
+    setTimeout(refreshVoices, 1500);
+  }
+
+  function pickVoice(langKey) {
+    const candidates = LANG_MAP[langKey] || [langKey];
+    for (const code of candidates) {
+      const base = code.split("-")[0].toLowerCase();
+      const v = voices.find(x => (x.lang || "").toLowerCase() === code.toLowerCase())
+             || voices.find(x => (x.lang || "").toLowerCase().startsWith(base + "-"))
+             || voices.find(x => (x.lang || "").toLowerCase() === base);
+      if (v) return v;
+    }
+    return null;
+  }
+
+  function hasNativeVoice(langKey) {
+    const candidates = LANG_MAP[langKey] || [langKey];
+    const nativeCode = candidates[0];
+    const base = nativeCode.split("-")[0].toLowerCase();
+    return voices.some(x => (x.lang || "").toLowerCase().startsWith(base));
+  }
+
+  function updateBtn() {
+    const b = document.getElementById("tts-btn");
+    if (!b) return;
+    if (isPlaying) {
+      b.classList.add("playing");
+      b.textContent = "⏹";
+      b.title = "Стоп";
+    } else {
+      b.classList.remove("playing");
+      b.textContent = "🔊";
+      b.title = "Слушать карточку";
+    }
+  }
+
+  function stop() {
+    if (!supported) return;
+    stopFlag = true;
+    try { synth.cancel(); } catch(e) {}
+    isPlaying = false;
+    updateBtn();
+  }
+
+  function speakOne(text, langKey) {
+    return new Promise((resolve) => {
+      if (stopFlag) { resolve(); return; }
+      if (!supported || !text) { resolve(); return; }
+      const u = new SpeechSynthesisUtterance(text);
+      const v = pickVoice(langKey);
+      if (v) u.voice = v;
+      else if (voices[0]) u.voice = voices[0];
+      u.lang = (v && v.lang) || (LANG_MAP[langKey] || [langKey])[0];
+      u.rate = 0.95;
+      u.pitch = 1.0;
+      u.onend = () => resolve();
+      u.onerror = () => resolve();
+      try { synth.speak(u); } catch(e) { resolve(); }
+    });
+  }
+
+  // items: [{text, lang}, ...]
+  async function playQueue(items, onFallback) {
+    if (!supported) { onFallback && onFallback("unsupported"); return; }
+    stop();
+    stopFlag = false;
+    isPlaying = true;
+    updateBtn();
+
+    const anyFallback = items.some(it => !hasNativeVoice(it.lang));
+    if (anyFallback && onFallback) onFallback("no_voice");
+
+    for (const item of items) {
+      if (stopFlag) break;
+      await speakOne(item.text, item.lang);
+    }
+
+    isPlaying = false;
+    stopFlag = false;
+    updateBtn();
+  }
+
+  return {
+    supported,
+    stop,
+    playQueue,
+    isPlaying: () => isPlaying,
+  };
+})();
+
+// ============================================================
+// localStorage
+// ============================================================
 function lsGet(k, def) {
   try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : def; }
   catch(e){ return def; }
@@ -460,7 +635,8 @@ const $ = id => document.getElementById(id);
 function toast(msg) {
   const t = $("toast");
   t.textContent = msg; t.classList.add("show");
-  setTimeout(() => t.classList.remove("show"), 1800);
+  clearTimeout(t._timer);
+  t._timer = setTimeout(() => t.classList.remove("show"), 2400);
 }
 function escapeHtml(s) {
   return String(s || "").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
@@ -517,6 +693,7 @@ function updateReviewBadge() {
 }
 
 function renderIntro() {
+  TTS.stop();
   $("intro").style.display = "flex";
   $("card").style.display = "none";
   $("srs-bar").style.display = "none";
@@ -538,6 +715,7 @@ function renderCard() {
 }
 
 async function renderCurrent() {
+  TTS.stop();
   if (state.viewHanzi && state.viewStartAt) {
     const added = autoAddIfLong(state.viewHanzi, state.viewStartAt);
     if (added) toast(t6("added_to_srs"));
@@ -560,7 +738,8 @@ async function renderCurrent() {
   $("examples-body").innerHTML = `<span class="explain-loading">${t6("generating")}</span>`;
 
   if (state.contentCache.has(w.id)) {
-    renderContent(state.contentCache.get(w.id));
+    state.currentContent = state.contentCache.get(w.id);
+    renderContent(state.currentContent);
     updateSrsPreviews();
     return;
   }
@@ -568,10 +747,12 @@ async function renderCurrent() {
     const data = await fetchWord(w.id);
     if (data.content) {
       state.contentCache.set(w.id, data.content);
+      state.currentContent = data.content;
       renderContent(data.content);
     } else {
       const gen = await generateContent(w.id);
       state.contentCache.set(w.id, gen);
+      state.currentContent = gen;
       renderContent(gen);
     }
   } catch (e) {
@@ -629,6 +810,7 @@ function updateSrsPreviews() {
 }
 
 async function rateAndNext(rating) {
+  TTS.stop();
   const w = currentWord();
   if (!w) return;
   autoAddIfLong(w.hanzi, state.viewStartAt);
@@ -670,6 +852,68 @@ async function startReview() {
   renderCard();
 }
 
+// ============================================================
+// ЕДИНАЯ ФУНКЦИЯ ЧТЕНИЯ: кнопка читает всё подряд
+// ============================================================
+function buildReadQueue() {
+  const w = currentWord();
+  if (!w) return [];
+  const data = state.currentContent;
+  const lang = state.lang;
+  const tr = (w.translations && w.translations[lang]) || (w.translations && w.translations.en) || "";
+
+  const q = [];
+  // 1) сам иероглиф
+  q.push({ text: w.hanzi, lang: "zh" });
+  // 2) pinyin (читаем китайским голосом — ближе к произношению)
+  if (w.pinyin) q.push({ text: w.pinyin, lang: "zh" });
+  // 3) перевод
+  if (tr) q.push({ text: tr, lang: lang });
+
+  // 4) глубокое объяснение
+  if (data && data.explanation) {
+    const exp = data.explanation;
+    const parts = [];
+    if (exp.meaning)       parts.push(exp.meaning);
+    if (exp.when_used)     parts.push(exp.when_used);
+    if (exp.when_not_used) parts.push(exp.when_not_used);
+    if (exp.nuance)        parts.push(exp.nuance);
+    if (exp.register)      parts.push(exp.register);
+    if (parts.length) q.push({ text: parts.join(". "), lang: lang });
+  }
+
+  // 5) примеры: сначала китайский, потом перевод
+  if (data && data.sentences && data.sentences.length) {
+    for (const s of data.sentences) {
+      if (s.zh) q.push({ text: s.zh, lang: "zh" });
+      if (s.translation) q.push({ text: s.translation, lang: lang });
+    }
+  }
+  return q;
+}
+
+function readAll() {
+  const w = currentWord();
+  if (!w) return;
+  if (!state.currentContent) { toast(t6("tts_nothing")); return; }
+  const queue = buildReadQueue();
+  if (!queue.length) { toast(t6("tts_nothing")); return; }
+  if (!TTS.supported) { toast(t6("tts_not_supported")); return; }
+
+  TTS.playQueue(queue, (reason) => {
+    if (reason === "no_voice") toast(t6("tts_no_voice"));
+    if (reason === "unsupported") toast(t6("tts_not_supported"));
+  });
+}
+
+function onTtsClick() {
+  if (TTS.isPlaying()) {
+    TTS.stop();
+  } else {
+    readAll();
+  }
+}
+
 async function init() {
   state.lang = currentLang();
   state.index = lsGet(LS.pos, 0);
@@ -688,10 +932,15 @@ async function init() {
   };
 
   $("back-btn").onclick = () => {
+    TTS.stop();
     if (state.viewHanzi && state.viewStartAt) autoAddIfLong(state.viewHanzi, state.viewStartAt);
     state.isReview = false;
     renderIntro();
   };
+
+  // Единая TTS-кнопка
+  const ttsBtn = $("tts-btn");
+  if (ttsBtn) ttsBtn.onclick = onTtsClick;
 
   document.querySelectorAll("#rate-wrap .srs-btn").forEach(b => {
     b.onclick = () => rateAndNext(parseInt(b.dataset.rate, 10));
@@ -731,13 +980,23 @@ async function init() {
   });
 
   document.addEventListener("keydown", e => {
+    // TTS по пробелу — работает и на intro, и на карточке
+    if (e.code === "Space" && !$("card").style.display.match(/none/i)) {
+      // если фокус не в input
+      const tag = (e.target && e.target.tagName) || "";
+      if (tag === "INPUT" || tag === "TEXTAREA") return;
+    }
     if ($("card").style.display === "none") return;
+
     if (e.code === "Space") {
       e.preventDefault();
       rateAndNext(3);
     }
     if (e.key >= "1" && e.key <= "4") {
       rateAndNext(parseInt(e.key, 10));
+    }
+    if (e.key === "r" || e.key === "R") {
+      onTtsClick();
     }
   });
 }

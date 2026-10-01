@@ -8,7 +8,8 @@
     "tk": "Barlag we sargyt",
     "uz": "Ko'rikdan o'tkazish va buyurtma berish",
     "tg": "Муоина ва фармоиш",
-    "id": "Inspeksi dan pemesanan"
+    "id": "Inspeksi dan pemesanan",
+    "tr": "Denetim ve Sipariş"
   },
   "title": {
     "zh": "这家工厂的规模可真不小",
@@ -17,7 +18,8 @@
     "tk": "Bu zawod hakykatdanam uly",
     "uz": "Bu zavod haqiqatan ham yirik",
     "tg": "Ин корхона воқеан калон аст",
-    "id": "Pabrik ini benar-benar besar"
+    "id": "Pabrik ini benar-benar besar",
+    "tr": "Bu fabrika gerçekten büyük"
   },
   "status": "stub",
   "goals": {},

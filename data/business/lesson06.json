@@ -8,7 +8,8 @@
     "tk": "Barlag we sargyt",
     "uz": "Ko'rikdan o'tkazish va buyurtma berish",
     "tg": "Муоина ва фармоиш",
-    "id": "Inspeksi dan pemesanan"
+    "id": "Inspeksi dan pemesanan",
+    "tr": "Denetim ve Sipariş"
   },
   "title": {
     "zh": "我接受这个报价",
@@ -17,7 +18,8 @@
     "tk": "Men bu teklibi kabul edýärin",
     "uz": "Men bu taklifni qabul qilaman",
     "tg": "Ман ин пешниҳодро қабул мекунам",
-    "id": "Saya menerima tawaran ini"
+    "id": "Saya menerima tawaran ini",
+    "tr": "Bu teklifi kabul ediyorum"
   },
   "status": "stub",
   "goals": {},

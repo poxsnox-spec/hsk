@@ -8,7 +8,8 @@
     "tk": "Müşderileri kabul etmek",
     "uz": "Mijozlarni qabul qilish",
     "tg": "Қабули мизоҷон",
-    "id": "Penerimaan klien"
+    "id": "Penerimaan klien",
+    "tr": "Müşterileri Karşılama"
   },
   "title": {
     "zh": "请您确认一下日程安排",
@@ -17,7 +18,8 @@
     "tk": "Meýilnamany tassyklaň",
     "uz": "Jadvalni tasdiqlang",
     "tg": "Ҷадвали вақтро тасдиқ кунед",
-    "id": "Konfirmasikan jadwal"
+    "id": "Konfirmasikan jadwal",
+    "tr": "Programı onayla"
   },
   "status": "stub",
   "goals": {},

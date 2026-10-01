@@ -8,7 +8,8 @@
     "tk": "Öňe sürmek we satuw",
     "uz": "Targ'ib qilish va sotish",
     "tg": "Ташвиқ ва фурӯш",
-    "id": "Promosi dan penjualan"
+    "id": "Promosi dan penjualan",
+    "tr": "Tanıtım ve Satış"
   },
   "title": {
     "zh": "我们的广告最好新旧结合",
@@ -17,7 +18,8 @@
     "tk": "Mahabatda köne we täze zady utgaşdyrmaly",
     "uz": "Reklama eski va yangini uyg'unlashtirishi kerak",
     "tg": "Таблиғ бояд куҳна ва навро якҷоя кунад",
-    "id": "Periklanan perlu menggabungkan yang lama dan yang baru"
+    "id": "Periklanan perlu menggabungkan yang lama dan yang baru",
+    "tr": "Reklamcılığın eski ve yeniyi birleştirmesi gerekiyor"
   },
   "status": "stub",
   "goals": {},

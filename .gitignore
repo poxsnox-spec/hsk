@@ -66,4 +66,10 @@ data/secret.key
 hsk6_data/hsk6.sqlite
 
 # Git commit message scratch
+COMMIT_MSG.txt_tr_cache.json 
+data/**/*.pre_tr.bak 
+_banner_tr_cache.json 
+_tr_cache.json
+_banner_tr_cache.json
 COMMIT_MSG.txt
+data/**/*.pre_tr.bak

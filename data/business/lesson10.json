@@ -8,7 +8,8 @@
     "tk": "Sergä gatnaşmak",
     "uz": "Ko'rgazmada ishtirok etish",
     "tg": "Иштирок дар намоишгоҳ",
-    "id": "Partisipasi dalam pameran"
+    "id": "Partisipasi dalam pameran",
+    "tr": "Sergiye Katılım"
   },
   "title": {
     "zh": "在官网平台申请品牌展位",
@@ -17,7 +18,8 @@
     "tk": "Saýtda brend stendi üçin arza",
     "uz": "Saytda brend-stend uchun ariza",
     "tg": "Дархост барои стенди бренд дар сайт",
-    "id": "Pendaftaran untuk stan merek di situs web"
+    "id": "Pendaftaran untuk stan merek di situs web",
+    "tr": "Web sitesinde bir marka standı için başvuru"
   },
   "status": "stub",
   "goals": {},

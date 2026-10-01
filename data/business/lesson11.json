@@ -8,7 +8,8 @@
     "tk": "Sergä gatnaşmak",
     "uz": "Ko'rgazmada ishtirok etish",
     "tg": "Иштирок дар намоишгоҳ",
-    "id": "Partisipasi dalam pameran"
+    "id": "Partisipasi dalam pameran",
+    "tr": "Sergiye Katılım"
   },
   "title": {
     "zh": "我边介绍边给您演示",
@@ -17,7 +18,8 @@
     "tk": "Bir wagtyň özünde gürrüň bererin we görkezerin",
     "uz": "Bir vaqtning o'zida aytib beraman va ko'rsataman",
     "tg": "Ҳамзамон ҳикоя мекунам ва нишон медиҳам",
-    "id": "Saya akan menjelaskan dan menunjukkan sekaligus"
+    "id": "Saya akan menjelaskan dan menunjukkan sekaligus",
+    "tr": "Aynı anda hem açıklayacağım hem göstereceğim"
   },
   "status": "stub",
   "goals": {},
