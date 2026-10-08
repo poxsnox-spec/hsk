@@ -3209,7 +3209,7 @@ function tabText(c) {
     <div class="text-tr">${escapeHtml(tr)}</div>`;
   c.appendChild(w);
 
-  const audioUrl = `/audio/unit${L.unit}/lesson${String(L.index).padStart(2, "0")}/textbook_1.mp3`;
+  const audioUrl = `https://github.com/poxsnox-spec/hsk/releases/download/audio-lessons-v1/unit${L.unit}_lesson${String(L.index).padStart(2, "0")}_textbook_1.mp3`;
   const btnPlay = document.getElementById("btn-play");
   const icon = document.getElementById("play-icon");
   const label = document.getElementById("play-label");
@@ -3330,7 +3330,7 @@ function tabVocab(c) {
   c.appendChild(w);
 
   // === Аудиоплеер ===
-  const audioUrl = `/audio/unit${L.unit}/lesson${String(L.index).padStart(2, "0")}/vocab.mp3`;
+  const audioUrl = `https://github.com/poxsnox-spec/hsk/releases/download/audio-lessons-v1/unit${L.unit}_lesson${String(L.index).padStart(2, "0")}_vocab.mp3`;
   const btn = document.getElementById("vocab-play-all");
   const icon = document.getElementById("vpa-icon");
   const label = document.getElementById("vpa-label");

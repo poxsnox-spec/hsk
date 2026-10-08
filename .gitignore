@@ -102,3 +102,9 @@ scripts/build_hsk5_lower_p6.py
 scripts/build_hsk5_lower_p7.py
 scripts/translate_hsk5_lower.py
 scripts/dump_pdf_text.py
+# Release staging
+release_assets/
+
+# Audio mp3 (moved to GitHub Releases)
+data/audio/unit*/
+release_assets/
