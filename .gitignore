@@ -91,3 +91,14 @@ HSK-5-Workbook2.pdf
 
 # Installation scripts (already covered by install_*.py)
 scripts/install_audio.py
+
+# HSK5 lower one-off scripts (не коммитить, но оставить локально)
+scripts/build_hsk5_lower.py
+scripts/build_hsk5_lower_p2.py
+scripts/build_hsk5_lower_p3.py
+scripts/build_hsk5_lower_p4.py
+scripts/build_hsk5_lower_p5.py
+scripts/build_hsk5_lower_p6.py
+scripts/build_hsk5_lower_p7.py
+scripts/translate_hsk5_lower.py
+scripts/dump_pdf_text.py
