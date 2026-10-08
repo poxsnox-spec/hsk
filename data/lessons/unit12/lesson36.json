@@ -1,0 +1,941 @@
+{
+  "title": {
+    "zh": "老舍与养花",
+    "ru": "Лао Шэ и цветы",
+    "tk": "",
+    "en": "Lao She and his flowers",
+    "uz": "",
+    "tg": "",
+    "id": "",
+    "tr": ""
+  },
+  "audio_files": {
+    "textbook_1": "textbook_36_1.mp3",
+    "vocab": "vocab_36.mp3",
+    "workbook_36_1": "workbook_36_1.mp3"
+  },
+  "warmup": {
+    "question": {
+      "zh": "你知道哪些有关养花的词语，请写在下面的横线上，并说说它们分别是什么意思。你养过花吗？介绍一下你在这方面的经验。",
+      "ru": "Какие слова о выращивании цветов вы знаете? Запишите и объясните. Есть ли у вас опыт?",
+      "tk": "",
+      "en": "What words about growing flowers do you know? Write them and explain. Do you have any experience?",
+      "uz": "",
+      "tg": "",
+      "id": "",
+      "tr": ""
+    },
+    "answers": []
+  },
+  "text_zh": "作家老舍先生爱花，他养的花很多，满满摆了一院子。可除非是那些好种易活、自己会奋斗的花草，否则他是不养的。因为他知道北京的气候对养花来说，不算很好，想把南方的名花养活并非易事。\n老舍把养花当作一种生活乐趣。他不在乎花开得大小好坏，只要开花，他就高兴。每天老舍像好朋友似的照管着花草。工作的时候，经常写几十个字，就到院中去转转，瞧瞧这棵，看看那朵，有时拿起剪刀给它们剪剪枝，有时蹲下捡几块小石头放在花盆里做点儿装饰，然后回到屋中再写一会儿，然后再出去，就这样脑力和体力很好地结合，身心也得到放松。\n写作是件艰苦的工作，养花也是如此。有时赶上狂风暴雨，情况紧急，他就得劳驾全家人抢救花草。几百盆花，要很快地抢到屋里去，累得腰酸腿疼，热汗直流。第二天，天气好了，又得一盆盆地搬出去。可是，他并不抱怨，在他看来，任何事都要有付出，不然怎么会有回报？这是生活的真理。\n一来二去，他慢慢地总结出一些养花的经验：有的花喜干，就别多浇水；有的花喜欢潮湿的环境，就别放在太阳地里。给花换盆剪枝施肥的活儿他越做越熟练，花生病长虫他也知道如何应付了。看着院子里那鲜艳的花朵，老舍自豪地说，“不是乱吹，这就是知识啊！多得些知识，一定不是坏事。”\n老舍很有爱心，更懂得快乐要分享。每到昙花开放的时候，他就约上几位朋友来家里赏花庆祝。花分根了，一棵分为几棵，他会毫无保留地送给朋友们。看着友人高兴地拿走自己的劳动果实，老舍心里十分欢喜。有一次，送牛奶的小伙子进门就夸“好香”，这让老舍先生感到格外高兴。\n当然，也有伤心的时候。一年夏天，下了暴雨，邻居家的墙倒了，菊花被砸死了一百多棵，这下可把老舍难受坏了，一连几天人们都看不到他脸上的笑容。\n“有喜有悲，有笑有泪”，这是老舍对养花、对生活的体验。“我不知道花草们受我的照顾，感谢我不感谢，反正我要感谢它们。”老舍在自己的文章中这样写道。从中我们不难看出老舍先生对大自然的热爱，对生活的热爱。",
+  "text_translation": {
+    "zh": "",
+    "ru": "Писатель Лао Шэ любил цветы и разводил их в большом количестве — целый двор был ими уставлен. Но брался он только за неприхотливые растения, которые сами умеют бороться за себя. Он считал выращивание цветов радостью жизни: не важно, крупные цветы или мелкие — если цветут, уже хорошо. За работой он выходил во двор, рассматривал, подрезал, подправлял — так умственный труд сочетался с физическим, и душа отдыхала. Но бывало и трудно: в грозу приходилось всей семьёй спасать цветы, переносить сотни горшков, потом обратно. Лао Шэ не жаловался: без усилий не бывает награды. Постепенно он набрался опыта: одним цветам нужно меньше воды, другим — больше тени, как удобрять и бороться с вредителями. Глядя на яркие цветы, он с гордостью говорил: «Это же знание!» Он с радостью делился с друзьями — приглашал полюбоваться эпифиллумом, раздавал отростки. Но были и печали: однажды ливень обрушил соседскую стену и убил больше сотни хризантем — Лао Шэ несколько дней ходил мрачный. «Есть радость и печаль, смех и слёзы» — так он говорил о цветах и о жизни. «Не знаю, благодарны ли цветы за мою заботу — но я благодарен им». В этих словах — любовь к природе и к жизни.",
+    "tk": "",
+    "en": "The writer Lao She loved flowers and grew many — the whole yard was filled with them. But he only kept easy-to-grow plants that could fend for themselves; Beijing's climate isn't ideal for gardening, and growing famous southern flowers is no easy task. Gardening was a joy of life for him: size and quality didn't matter — if they bloomed, he was happy. He tended them like dear friends; while writing, he'd often go out to the yard, inspect, prune, place pebbles for decoration — combining mental and physical activity, relaxing body and mind. But there were hard times too: in storms the whole family had to rush hundreds of pots indoors and out again — no complaining, though, since without effort there's no reward. Over time he gained experience: some flowers like dry soil, some like moisture; he grew skilled at repotting, pruning, fertilizing, and dealing with pests. Gazing at the bright blossoms he'd proudly say, 'This is knowledge!' He loved sharing: invited friends to admire the epiphyllum, gave away seedlings. But there were sorrows too: once a rainstorm knocked down a neighbour's wall and killed over a hundred chrysanthemums — Lao She was depressed for days. 'Joy and sorrow, laughter and tears' — that was his experience of flowers and life. 'I don't know if the plants are grateful for my care — but I'm grateful to them.' In those words: love of nature, love of life.",
+    "uz": "",
+    "tg": "",
+    "id": "",
+    "tr": ""
+  },
+  "vocabulary": [
+    {
+      "hanzi": "养",
+      "pinyin": "yǎng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "выращивать, разводить",
+        "tk": "",
+        "en": "to raise, to keep, to grow",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "除非",
+      "pinyin": "chúfēi",
+      "pos": "conj.",
+      "meaning": {
+        "zh": "",
+        "ru": "если только не, разве что",
+        "tk": "",
+        "en": "only if, unless",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "奋斗",
+      "pinyin": "fèndòu",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "бороться, добиваться",
+        "tk": "",
+        "en": "to fight, to strive",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "乐趣",
+      "pinyin": "lèqù",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "удовольствие, радость",
+        "tk": "",
+        "en": "joy, pleasure",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "在乎",
+      "pinyin": "zàihu",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "заботиться, придавать значение",
+        "tk": "",
+        "en": "to care, to mind",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "朵",
+      "pinyin": "duǒ",
+      "pos": "m.",
+      "meaning": {
+        "zh": "",
+        "ru": "счётное слово для цветов и облаков",
+        "tk": "",
+        "en": "used for flowers and clouds",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "剪刀",
+      "pinyin": "jiǎndāo",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "ножницы",
+        "tk": "",
+        "en": "scissors",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "捡",
+      "pinyin": "jiǎn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "подбирать, поднимать",
+        "tk": "",
+        "en": "to pick up",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "装饰",
+      "pinyin": "zhuāngshì",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "украшение, декор",
+        "tk": "",
+        "en": "decoration",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "结合",
+      "pinyin": "jiéhé",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "соединять, сочетать",
+        "tk": "",
+        "en": "to combine, to integrate",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "暴雨",
+      "pinyin": "bàoyǔ",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "ливень",
+        "tk": "",
+        "en": "rainstorm",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "紧急",
+      "pinyin": "jǐnjí",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "срочный, экстренный",
+        "tk": "",
+        "en": "urgent, emergent",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "劳驾",
+      "pinyin": "láojià",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "будьте добры, потрудитесь",
+        "tk": "",
+        "en": "to trouble sb. to do sth.",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "抢救",
+      "pinyin": "qiǎngjiù",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "спасать, срочно помогать",
+        "tk": "",
+        "en": "to rescue, to save",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "腰",
+      "pinyin": "yāo",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "поясница, талия",
+        "tk": "",
+        "en": "waist",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "直",
+      "pinyin": "zhí",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "непрерывно, прямо",
+        "tk": "",
+        "en": "continuously, straight",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "不然",
+      "pinyin": "bùrán",
+      "pos": "conj.",
+      "meaning": {
+        "zh": "",
+        "ru": "иначе, а то",
+        "tk": "",
+        "en": "or else, otherwise",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "回报",
+      "pinyin": "huíbào",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "воздавать, окупаться",
+        "tk": "",
+        "en": "to repay, to requite",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "真理",
+      "pinyin": "zhēnlǐ",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "истина",
+        "tk": "",
+        "en": "truth",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "浇",
+      "pinyin": "jiāo",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "поливать",
+        "tk": "",
+        "en": "to water, to pour",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "潮湿",
+      "pinyin": "cháoshī",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "влажный, сырой",
+        "tk": "",
+        "en": "wet, moist",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "施肥",
+      "pinyin": "shīféi",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "удобрять",
+        "tk": "",
+        "en": "to apply fertilizer",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "熟练",
+      "pinyin": "shúliàn",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "опытный, натренированный",
+        "tk": "",
+        "en": "skilled, practiced",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "应付",
+      "pinyin": "yìngfu",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "справляться, управляться",
+        "tk": "",
+        "en": "to handle, to cope with",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "鲜艳",
+      "pinyin": "xiānyàn",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "яркий, цветастый",
+        "tk": "",
+        "en": "bright-colored",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "自豪",
+      "pinyin": "zìháo",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "гордый",
+        "tk": "",
+        "en": "proud",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "吹",
+      "pinyin": "chuī",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "хвастаться, дуть",
+        "tk": "",
+        "en": "to boast, to brag",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "爱心",
+      "pinyin": "àixīn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "любовь, милосердие",
+        "tk": "",
+        "en": "love, compassion",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "分享",
+      "pinyin": "fēnxiǎng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "делиться",
+        "tk": "",
+        "en": "to share",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "昙花",
+      "pinyin": "tánhuā",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "эпифиллум (цветок)",
+        "tk": "",
+        "en": "broad-leaved epiphyllum",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "庆祝",
+      "pinyin": "qìngzhù",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "праздновать",
+        "tk": "",
+        "en": "to celebrate",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "保留",
+      "pinyin": "bǎoliú",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "сохранять, оставлять",
+        "tk": "",
+        "en": "to reserve, to save",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "菊花",
+      "pinyin": "júhuā",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "хризантема",
+        "tk": "",
+        "en": "chrysanthemum",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "砸",
+      "pinyin": "zá",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "разбивать, обрушивать",
+        "tk": "",
+        "en": "to crush, to smash",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "悲伤",
+      "pinyin": "bēishāng",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "печальный, скорбный",
+        "tk": "",
+        "en": "sad, sorrowful",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "反正",
+      "pinyin": "fǎnzhèng",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "всё равно, как бы то ни было",
+        "tk": "",
+        "en": "anyway, no matter what",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "热爱",
+      "pinyin": "rè'ài",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "горячо любить",
+        "tk": "",
+        "en": "to love ardently",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "除非",
+      "pos": "conj./prep.",
+      "explanation": {
+        "ru": "«除非» — союз: «только если не, разве что»; часто с «才, 否则, 不然». Как предлог: «кроме, за исключением».",
+        "en": "«除非» — conjunction: 'only if, unless'; often with 才, 否则, 不然. As preposition: 'except for'."
+      },
+      "formula": {
+        "ru": "除非 + A，否则 + B；除非 + A，才 + B",
+        "en": "除非 + A，否则 + B; 除非 + A，才 + B"
+      },
+      "examples": [
+        {
+          "zh": "可除非是那些好种易活、自己会奋斗的花草，否则他是不养的。",
+          "ru": "Но если это не были неприхотливые растения, умеющие бороться за себя сами, он их не разводил.",
+          "en": "But unless the plants were easy to grow and self-sufficient, he wouldn't keep them."
+        },
+        {
+          "zh": "除非急需一大笔钱，我才会考虑卖了这房子。",
+          "ru": "Только если мне срочно понадобится крупная сумма, я подумаю о продаже дома.",
+          "en": "Only if I desperately need a big sum would I consider selling the house."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "他工作时不喜欢别人打扰，__。",
+          "answer": "除非有急事，否则别人的电话他都不接"
+        }
+      ]
+    },
+    {
+      "word": "直",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«直» — наречие: «прямо, напрямик, непосредственно»; также «непрерывно, постоянно».",
+        "en": "«直» — adverb: 'straight, directly'; also 'continuously, non-stop'."
+      },
+      "formula": {
+        "ru": "直 + 单音节动词",
+        "en": "直 + monosyllabic verb"
+      },
+      "examples": [
+        {
+          "zh": "几百盆花，要很快地抢到屋里去，累得腰酸腿疼，热汗直流。",
+          "ru": "Несколько сотен горшков нужно быстро унести в дом — до боли в пояснице и ногах, пот льётся ручьём.",
+          "en": "Hundreds of pots had to be quickly carried inside — back and legs aching, sweat pouring down."
+        },
+        {
+          "zh": "这趟车可以直达北京，非常方便。",
+          "ru": "Этот поезд идёт прямо до Пекина, очень удобно.",
+          "en": "This train goes directly to Beijing — very convenient."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "早晨6点，闹钟在我头上__，我真不想起床。",
+          "answer": "直响"
+        }
+      ]
+    },
+    {
+      "word": "反正",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«反正» — наречие: «так или иначе, в любом случае, всё равно». Также подчёркивает решимость.",
+        "en": "«反正» — adverb: 'anyway, in any case, regardless'. Also emphasizes determination."
+      },
+      "formula": {
+        "ru": "反正 + 小句",
+        "en": "反正 + clause"
+      },
+      "examples": [
+        {
+          "zh": "我不知道花草们受我的照顾，感谢我不感谢，反正我要感谢它们。",
+          "ru": "Не знаю, благодарны ли цветы за мою заботу — но в любом случае я благодарен им.",
+          "en": "I don't know if the plants are grateful for my care — but in any case, I'm grateful to them."
+        },
+        {
+          "zh": "你别再说了，反正我是不会考虑的。",
+          "ru": "Не говори больше — я всё равно не буду это рассматривать.",
+          "en": "Don't say any more — I won't consider it anyway."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "算了，__，还是别打扰他们了。",
+          "answer": "反正不是什么要紧事"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "应付",
+      "word_b": "处理",
+      "common": {
+        "ru": "Оба глагола означают «принимать меры в отношении человека или дела».",
+        "en": "Both verbs mean 'to take measures towards a person or matter'."
+      },
+      "differences": [
+        {
+          "ru": "«应付» — акцент на подходящем реагировании; также «делать что-то несерьёзно, для вида».",
+          "en": "«应付» — focuses on responding appropriately; also 'to do sth perfunctorily'."
+        },
+        {
+          "ru": "«处理» — акцент на решении проблемы; также «распоряжаться, устраивать» и «уценить, распродать».",
+          "en": "«处理» — focuses on solving a problem; also 'to arrange, dispose of' and 'to sell at a discount'."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "zh": "行为2",
+      "ru": "Поведение 2",
+      "en": "Behavior 2"
+    },
+    "words": [
+      {
+        "hanzi": "拆",
+        "pinyin": "chāi",
+        "meaning": {
+          "zh": "",
+          "ru": "разбирать, разбирать на части",
+          "en": "to dismantle"
+        }
+      },
+      {
+        "hanzi": "撕",
+        "pinyin": "sī",
+        "meaning": {
+          "zh": "",
+          "ru": "рвать, разрывать",
+          "en": "to tear"
+        }
+      },
+      {
+        "hanzi": "摸",
+        "pinyin": "mō",
+        "meaning": {
+          "zh": "",
+          "ru": "трогать, щупать",
+          "en": "to touch"
+        }
+      },
+      {
+        "hanzi": "拍",
+        "pinyin": "pāi",
+        "meaning": {
+          "zh": "",
+          "ru": "хлопать, фотографировать",
+          "en": "to pat, to shoot"
+        }
+      },
+      {
+        "hanzi": "抓",
+        "pinyin": "zhuā",
+        "meaning": {
+          "zh": "",
+          "ru": "хватать",
+          "en": "to grab"
+        }
+      },
+      {
+        "hanzi": "捡",
+        "pinyin": "jiǎn",
+        "meaning": {
+          "zh": "",
+          "ru": "подбирать",
+          "en": "to pick up"
+        }
+      },
+      {
+        "hanzi": "摘",
+        "pinyin": "zhāi",
+        "meaning": {
+          "zh": "",
+          "ru": "срывать, собирать",
+          "en": "to pluck"
+        }
+      },
+      {
+        "hanzi": "披",
+        "pinyin": "pī",
+        "meaning": {
+          "zh": "",
+          "ru": "накидывать, надевать на плечи",
+          "en": "to drape over"
+        }
+      },
+      {
+        "hanzi": "偷",
+        "pinyin": "tōu",
+        "meaning": {
+          "zh": "",
+          "ru": "воровать",
+          "en": "to steal"
+        }
+      },
+      {
+        "hanzi": "抢",
+        "pinyin": "qiǎng",
+        "meaning": {
+          "zh": "",
+          "ru": "отбирать, хватать",
+          "en": "to grab, to rob"
+        }
+      },
+      {
+        "hanzi": "捐",
+        "pinyin": "juān",
+        "meaning": {
+          "zh": "",
+          "ru": "жертвовать",
+          "en": "to donate"
+        }
+      },
+      {
+        "hanzi": "扶",
+        "pinyin": "fú",
+        "meaning": {
+          "zh": "",
+          "ru": "поддерживать, помогать идти",
+          "en": "to support"
+        }
+      },
+      {
+        "hanzi": "挡",
+        "pinyin": "dǎng",
+        "meaning": {
+          "zh": "",
+          "ru": "заслонять, блокировать",
+          "en": "to block"
+        }
+      },
+      {
+        "hanzi": "拦",
+        "pinyin": "lán",
+        "meaning": {
+          "zh": "",
+          "ru": "останавливать, преграждать",
+          "en": "to stop, to intercept"
+        }
+      },
+      {
+        "hanzi": "退",
+        "pinyin": "tuì",
+        "meaning": {
+          "zh": "",
+          "ru": "возвращать, отступать",
+          "en": "to return, to retreat"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "zh": "话题讨论：人与自然。1. 描述一个给你留下深刻印象的自然景观，说说你的感受。2. 有人说，大自然和人类就像母子一样，你同意这种说法吗？3. 有人认为人类应该尊重大自然，也有人认为人类可以征服大自然，你同意哪种观点？",
+      "ru": "Обсуждение: человек и природа. 1. Опишите яркое природное явление. 2. Природа и человек как мать и дитя? Согласны? 3. Уважать природу или покорять её?",
+      "tk": "",
+      "en": "Discussion: human and nature. 1. Describe a striking natural scene. 2. Nature and humans like mother and child? Agree? 3. Respect or conquer nature?",
+      "uz": "",
+      "tg": "",
+      "id": "",
+      "tr": ""
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "audio": "workbook_36_1.mp3",
+        "prompt": {
+          "zh": "老舍养什么花？",
+          "ru": "Какие цветы выращивал Лао Шэ?",
+          "en": "What flowers did Lao She grow?"
+        },
+        "options": [
+          "南方的名花",
+          "容易养的花",
+          "北京本地的花",
+          "什么花都喜欢"
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": [
+      {
+        "type": "mc",
+        "prompt": {
+          "zh": "作者对养花的态度是什么？",
+          "ru": "Как автор относится к выращиванию цветов?",
+          "en": "What is the author's attitude to gardening?"
+        },
+        "options": [
+          "很累",
+          "有喜有悲",
+          "浪费时间",
+          "没有意义"
+        ],
+        "answer": 1
+      }
+    ],
+    "writing": [
+      {
+        "type": "make_sentence",
+        "words": [
+          "唯一",
+          "她",
+          "我生命中",
+          "是",
+          "在乎的人"
+        ],
+        "answer": "她是我生命中唯一在乎的人。"
+      },
+      {
+        "type": "make_sentence",
+        "words": [
+          "需要设计",
+          "这次",
+          "服装",
+          "色彩鲜艳的",
+          "演出"
+        ],
+        "answer": "这次演出需要设计色彩鲜艳的服装。"
+      },
+      {
+        "type": "short_essay",
+        "words": [
+          "奋斗",
+          "热爱",
+          "熟练",
+          "庆祝",
+          "不然"
+        ],
+        "min_length": 80
+      }
+    ]
+  }
+}

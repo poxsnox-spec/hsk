@@ -1,0 +1,1054 @@
+{
+  "title": {
+    "zh": "植物会出汗",
+    "ru": "Растения тоже потеют",
+    "tk": "Ösümlikler hem derleýär",
+    "en": "Plants also sweat",
+    "uz": "O'simliklar ham terlaydi",
+    "tg": "Растаниҳо ҳам арақ мекунанд",
+    "id": "Tumbuhan juga berkeringat",
+    "tr": "Bitkiler de terler"
+  },
+  "audio_files": {
+    "textbook_1": "textbook_35_1.mp3",
+    "vocab": "vocab_35.mp3",
+    "workbook_35_1": "workbook_35_1.mp3"
+  },
+  "warmup": {
+    "question": {
+      "zh": "请问问你的同学或朋友，他们在炎热的夏天运动之后，常常用什么办法给自己降温。",
+      "ru": "Спросите друга: чем он обычно охлаждается после спорта в жаркий летний день?",
+      "tk": "Dostuňyzdan soraň: ol yssy tomus güni sportdan soň adatça näme bilen salkynlaýar?",
+      "en": "Ask a friend: what do they usually do to cool down after sports on a hot summer day?",
+      "uz": "Do'stingizdan so'rang: u issiq yoz kunida sportdan keyin odatda nima bilan salqinlashadi?",
+      "tg": "Аз дӯстатон бипурсед: ӯ одатан баъди варзиш дар рӯзи гарми тобистон бо чӣ хунук мешавад?",
+      "id": "Tanyakan kepada teman: apa yang biasanya dia lakukan untuk mendinginkan tubuh setelah berolahraga di hari musim panas yang terik?",
+      "tr": "Bir arkadaşına sor: sıcak bir yaz gününde spordan sonra genellikle neyle serinler?"
+    },
+    "answers": [
+      "秩序"
+    ]
+  },
+  "text_zh": "炎热的夏天，踢完一场球赛，每个队员都已经是汗如雨下。如果这个时候，能到大树下歇一歇，喝口凉开水，吃个冰激凌，放松放松肌肉，缓解一下疲劳，那一定是件美事，可以很快恢复活力。不过，你知道吗，我们之所以能在大树下享受这种湿润荫凉，也是因为大树在“出汗”呢！\n人体要保持相对稳定的温度，一旦温度上升，大脑就会指挥我们的身体赶快出汗，这时所有汗腺开始工作，汗水就从毛孔里冒了出来。大树出的“汗”，通常是从叶片的气孔里冒出来的，不过，这种“出汗”可不是为了降低温度，而是为了运输养分。\n我们都知道这样的常识——植物的根会吸收养分和水分，但是你有没有想过，植物是怎么控制这些成分，把它们运输到十几米甚至上百米的树梢的呢？\n最初人们认为大树是通过毛细作用来提水的。所谓“毛细作用”，简单来说，就是水会顺着很细很细的管子向上“爬”，我们在家可以用一个比较细的玻璃管体验一下。玻璃管越细，水爬升的高度就越高。可是，经过测验计算发现，以大树输送管道的尺寸产生的毛细作用，根本无法把水分送到几十米高的地方。\n实际上，大树利用的是枝干顶端的那些叶片。叶子通过不停地向空气中释放水汽，迫使树干中的水分自动前来补充，这样节节传递，就像是把树根吸收的水分给抽了上来。因为跟蒸腾作用有关，这种特殊的提升力就被称为“蒸腾拉力”。不过，这个大树内部的供水系统具体的运转状况是怎么样的，它们遵守的是一种什么样的秩序，为什么会产生如此巨大的拉力，到目前还是个谜。",
+  "text_translation": {
+    "zh": "",
+    "ru": "Жарким летом после футбола каждый игрок обливается потом. Как приятно отдохнуть под деревом, выпить прохладной воды, съесть мороженое, расслабить мышцы и снять усталость! Но знаете ли вы, что этой прохладой и влагой под деревом мы обязаны тому, что дерево тоже «потеет»? Человек поддерживает стабильную температуру: чуть что — мозг командует потеть, железы работают, пот выступает из пор. «Пот» дерева выходит из устьиц листьев — но не для охлаждения, а для транспорта питательных веществ. Сначала думали, что дерево поднимает воду капиллярным эффектом, но расчёты показали: при диаметре сосудов дерева капиллярный эффект не поднимет воду на десятки метров. Оказывается, дерево использует листья: они выпускают пар в воздух, заставляя воду в стволе автоматически подтягиваться — как насос. Это называется «транспирационной тягой». Впрочем, как именно работает эта система и почему возникает такая мощная тяга — до сих пор загадка.",
+    "tk": "Yssy tomusda, bir futbol oýnundan soň, her bir oýunçy derden ýaňa bolupdy. Şol wagt ullakan agajyň aşagynda dynç alyp, sowuk suw içip, morožnyý iýip, myşsalaryňy boşadyp, ýadawlygy aýyrsaň — bu gaty ajaýyp bolardy we çalt özüňe gelip bolardy. Ýöne bilýäňmi, agajyň aşagynda şeýle çygly we salkyn ýerde dynç almagymyz agajyň hem «derlemegi» sebäpli bolýar! Adam bedeni deňagramly temperaturany saklamaly: temperatura ýokarlanan badyna, beýni bedenimize derlemegi buýurýar, şonda ähli der mäzleri işläp başlaýar we der deri gözeneklerinden çykýar. Agajyň «deri» adatça ýapraklaryň öýjüklerinden çykýar, ýöne bu «derlemek» temperaturany peseltmek üçin däl, eýsem iýmit maddalaryny daşamak üçin. Biz hemmämiz bilýäris — ösümligiň köki iýmit we suw siňdirýär, ýöne ösümlik bu maddalary nädip dolandyryp, onlarça, hatda ýüzlerçe metr beýiklikdäki agajyň depesine çenli äkidýär? Ilkibaşda adamlar agajyň suwy kapillýar hadysasy arkaly göterýär öýdüpdirler. «Kapillýar hadysasy» diýilýän zat, ýönekeý aýdanda, suwuň inçe turbajyklaryň içinden ýokary «dyrmaşmagy». Öýde inçe aýna turbajyk bilen synag edip görüp bolýar. Turbajyk näçe inçe bolsa, suw şonça beýik göterilýär. Ýöne ölçeg we hasaplama görkezdi: agajyň geçiriji turbalarynyň ölçeginde döreýän kapillýar hadysasy suwy onlarça metr beýiklige çykaryp bilmeýär. Aslynda, agajyň şahalarynyň ujundaky ýapraklary ulanýar. Ýapraklar howa yzygiderli suw buguny goýberip, agajyň göwresindäki suwy öz-özünden doldurmaga mejbur edýär, şeýlelikde bölek-bölek geçirýär,",
+    "en": "On a hot summer day, after a football match, everyone is drenched in sweat. How wonderful it would be to rest under a big tree, drink cool water, eat ice cream, relax the muscles and relieve fatigue! But did you know that the coolness and moisture under the tree are thanks to the tree also 'sweating'? The human body maintains a stable temperature: once it rises, the brain tells the body to sweat, glands work, sweat comes out of the pores. A tree's 'sweat' comes out through the stomata of its leaves — but not for cooling: it's for transporting nutrients. People first thought trees lifted water via capillary action, but calculations showed that at the tree's pipe diameters, capillary action can't lift water dozens of meters. In fact, the tree uses the leaves at the tips of its branches: they keep releasing water vapor into the air, forcing water in the trunk to automatically replenish, stage by stage — like pumping water up. Because it's related to transpiration, this special lifting force is called 'transpiration pull'. How exactly the tree's internal water-supply system works, what order it follows, and why such a huge pull arises — remains a mystery.",
+    "uz": "Issiq yozda, bir futbol o'yinidan so'ng, har bir o'yinchi terdan suv bo'lib ketgan. Agar shu payt katta daraxt tagida dam olib, salqin suv ichib, muzqaymoq yeb, mushaklarni bo'shashtirib, charchoqni yengillashtirsak, bu juda yoqimli bo'lardi va tezda kuch-quvvatga to'lardik. Ammo bilasizmi, daraxt tagida bunday salqin va nam joydan bahramand bo'lishimiz daraxtning ham «terlashi» tufaylidir! Inson tanasi nisbatan barqaror haroratni saqlashi kerak: harorat ko'tarilishi bilan miya tanamizga darhol terlashni buyuradi, shunda barcha ter bezlari ishlay boshlaydi va ter ter teshiklaridan chiqadi. Daraxtning «teri» odatda barglarning og'izchalaridan chiqadi, ammo bu «terlash» haroratni pasaytirish uchun emas, balki ozuqa moddalarini tashish uchun. Biz hammamiz bilamiz — o'simlik ildizi ozuqa va suvni o'zlashtiradi, lekin o'simlik bu moddalarni qanday boshqarib, ularni o'nlab, hatto yuzlab metr balandlikdagi daraxt uchiga yetkazadi? Dastlab odamlar daraxt suvni kapillyar hodisa orqali ko'taradi deb o'ylashgan. «Kapillyar hodisa» deganda, oddiy qilib aytganda, suv juda ingichka naychalar bo'ylab yuqoriga «chiqadi». Uyda ingichka shisha naycha bilan sinab ko'rish mumkin. Naycha qanchalik ingichka bo'lsa, suv shunchalik baland ko'tariladi. Ammo o'lchash va hisoblash shuni ko'rsatdiki, daraxtning o'tkazuvchi naychalari o'lchamida hosil bo'ladigan kapillyar hodisa suvni o'nlab metr balandlikka chiqara olmaydi. Aslida, daraxt shoxlar uchidagi barglardan foydalanadi. Barglar havoga doimiy suv bug'ini chiqarib, daraxt tanasidagi suvni o'z-o'zidan to'ldirishga majbur qiladi, shu tarzda bo'g'in-bo'g'in uzatiladi,",
+    "tg": "Дар тобистони гарм, баъди як бозии футбол, ҳар як бозингар аз арақ ғарқ шудааст. Агар дар ин вақт зери дарахти калон каме истироҳат кунем, оби хунук нӯшем, яхмос хӯрем, мушакҳоро суст кунем ва хастагиро кам кунем, ин албатта кори хушҳолӣ мебуд ва зуд қувваи худро барқарор мекунем. Аммо медонед, ки мо ба шарофати он ки дарахт низ «арақ мекунад», дар зери дарахт аз ин намиву салқинӣ баҳра мебарем! Бадани инсон бояд ҳарорати нисбатан устуворро нигоҳ дорад: ҳарорат баланд шавад, майна ба бадани мо фармон медиҳад, ки зуд арақ кунем, он гоҳ ҳамаи ғадудҳои арақ кор мекунанд ва арақ аз сӯрохиҳо мебарояд. «Арақи» дарахт одатан аз сӯрохиҳои барг мебарояд, аммо ин «арақ кардан» барои паст кардани ҳарорат нест, балки барои интиқоли моддаҳои ғизоӣ аст. Ҳамаи мо инро медонем — решаи растанӣ моддаҳои ғизоӣ ва обро ҷаббида мегирад, аммо оё шумо фикр кардаед, ки растанӣ ин компонентҳоро чӣ тавр идора карда, онҳоро ба даҳҳо, ҳатто садҳо метр баландии нӯги дарахт мерасонад? Дар аввал одамон фикр мекарданд, ки дарахт обро тавассути падидаи капиллярӣ боло мебардорад. «Падидаи капиллярӣ» ба таври оддӣ маънои онро дорад, ки об аз найчаҳои хеле тунук ба боло «мебарояд». Дар хона бо найчаи шишагии нисбатан тунук озмоиш кардан мумкин аст. Найча ҳар қадар тунук бошад, об ҳамон қадар баланд бардошта мешавад. Аммо баъди ченкунӣ ва ҳисоб маълум шуд, ки падидаи капиллярии дар андозаи найчаҳои интиқолии дарахт ба вуҷудоянда обро ба даҳҳо метр баландӣ расонида наметавонад. Дар асл, дарахт баргҳои нӯги шохаҳоро истифода мебарад. Баргҳо пайваста буғи обро ба ҳаво мебароранд ва обро дар танаи дарахт маҷбур мекунанд, ки худ ба худ пурра шавад, ҳамин тавр дараҷа ба дараҷа интиқол меёбад,",
+    "id": "Pada musim panas yang terik, setelah pertandingan sepak bola, setiap pemain sudah bermandikan keringat. Jika saat itu kita bisa beristirahat di bawah pohon besar, minum air dingin, makan es krim, mengendurkan otot, dan meredakan kelelahan, itu pasti menyenangkan dan kita bisa cepat pulih. Namun, tahukah kamu, kita bisa menikmati kesejukan dan kelembapan di bawah pohon besar itu juga karena pohon besar sedang 'berkeringat'! Tubuh manusia harus menjaga suhu yang relatif stabil; begitu suhu naik, otak akan memerintahkan tubuh kita untuk segera berkeringat, saat itu semua kelenjar keringat mulai bekerja, dan keringat keluar dari pori-pori. 'Keringat' pohon besar biasanya keluar dari stomata daun, tetapi 'berkeringat' ini bukan untuk menurunkan suhu, melainkan untuk mengangkut nutrisi. Kita semua tahu hal umum ini — akar tanaman menyerap nutrisi dan air, tetapi pernahkah kamu berpikir, bagaimana tanaman mengendalikan komponen-komponen ini dan mengangkutnya ke pucuk pohon yang tingginya belasan meter bahkan ratusan meter? Awalnya orang mengira pohon besar menaikkan air melalui kapilaritas. 'Kapilaritas', sederhananya, adalah air 'merambat' ke atas melalui pipa yang sangat halus. Di rumah kita bisa mencobanya dengan pipa kaca yang cukup halus. Semakin halus pipa kaca, semakin tinggi air naik. Namun, setelah pengukuran dan perhitungan, ditemukan bahwa kapilaritas yang dihasilkan oleh ukuran pipa pengangkut pohon besar sama sekali tidak mampu mengantarkan air ke tempat setinggi puluhan meter. Sebenarnya, pohon besar memanfaatkan daun-daun di ujung cabang. Daun terus-menerus melepaskan uap air ke udara, memaksa air di dalam batang pohon datang sendiri untuk mengisi, sehingga diteruskan tahap demi tahap,",
+    "tr": "Sıcak bir yaz gününde, bir futbol maçından sonra her oyuncu ter içinde kalmıştır. O anda büyük bir ağacın altında dinlenip serin su içmek, dondurma yemek, kasları gevşetip yorgunluğu atmak ne güzel olurdu; insan hemen canlanırdı. Ama biliyor musunuz, ağacın altında bu serin ve nemli ortamdan yararlanabilmemiz, ağacın da 'terlemesi' sayesindedir! İnsan vücudu nispeten sabit bir sıcaklığı korumalıdır; sıcaklık yükselince beyin vücudumuza hemen terlemeyi emreder, bütün ter bezleri çalışmaya başlar ve ter gözeneklerden dışarı çıkar. Ağacın 'teri' genellikle yaprakların stomalarından çıkar, ancak bu 'terleme' sıcaklığı düşürmek için değil, besin maddelerini taşımak içindir. Hepimiz şunu biliriz: bitkinin kökü besin ve suyu emer, ama hiç düşündünüz mü, bitki bu maddeleri nasıl kontrol edip on, hatta yüz metre yükseklikteki ağaç tepelerine kadar taşır? Başlangıçta insanlar ağacın suyu kılcallık yoluyla yukarı çektiğini düşünüyordu. 'Kılcallık', basitçe söylemek gerekirse, suyun çok ince borular boyunca yukarı 'tırmanmasıdır'. Evde ince bir cam boruyla bunu deneyebiliriz. Cam boru ne kadar inceyse su o kadar yükseğe çıkar. Ancak ölçüm ve hesaplamalar, ağacın taşıma borularının boyutunda oluşan kılcallığın suyu onlarca metre yükseğe çıkaramayacağını gösterdi. Aslında ağaç, dalların ucundaki yaprakları kullanır. Yapraklar sürekli havaya su buharı salarak gövdedeki suyun kendiliğinden gelip yerini doldurmasını sağlar; böylece katman katman iletilir,"
+  },
+  "vocabulary": [
+    {
+      "hanzi": "炎热",
+      "pinyin": "yánrè",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "жаркий, знойный",
+        "tk": "yssy, gyzgyn",
+        "en": "scorching, burning hot",
+        "uz": "issiq, jazirama",
+        "tg": "гарм, тафсон",
+        "id": "panas, terik",
+        "tr": "sıcak, kavurucu"
+      }
+    },
+    {
+      "hanzi": "歇",
+      "pinyin": "xiē",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "отдыхать, передохнуть",
+        "tk": "dynç almak",
+        "en": "to rest, to take a rest",
+        "uz": "dam olmoq",
+        "tg": "истироҳат кардан",
+        "id": "beristirahat",
+        "tr": "dinlenmek"
+      }
+    },
+    {
+      "hanzi": "开水",
+      "pinyin": "kāishuǐ",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "кипяток",
+        "tk": "gaýnag suw",
+        "en": "boiled water",
+        "uz": "qaynoq suv",
+        "tg": "оби ҷӯш",
+        "id": "air mendidih",
+        "tr": "kaynamış su"
+      }
+    },
+    {
+      "hanzi": "冰激凌",
+      "pinyin": "bīngjīlíng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "мороженое",
+        "tk": "morojny",
+        "en": "ice cream",
+        "uz": "muzqaymoq",
+        "tg": "яхмос",
+        "id": "es krim",
+        "tr": "dondurma"
+      }
+    },
+    {
+      "hanzi": "肌肉",
+      "pinyin": "jīròu",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "мышцы",
+        "tk": "myşsa",
+        "en": "muscle",
+        "uz": "muskul",
+        "tg": "мушак",
+        "id": "otot",
+        "tr": "kas"
+      }
+    },
+    {
+      "hanzi": "恢复",
+      "pinyin": "huīfù",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "восстанавливать, восстанавливаться",
+        "tk": "dikeltmek, öňki halyna getirmek",
+        "en": "to recover, to regain",
+        "uz": "tiklamoq, qayta tiklamoq",
+        "tg": "барқарор кардан, барқарор шудан",
+        "id": "memulihkan, pulih",
+        "tr": "geri kazanmak, iyileşmek"
+      }
+    },
+    {
+      "hanzi": "湿润",
+      "pinyin": "shīrùn",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "влажный",
+        "tk": "çygly",
+        "en": "moist, humid",
+        "uz": "nam",
+        "tg": "намнок",
+        "id": "lembap",
+        "tr": "nemli"
+      }
+    },
+    {
+      "hanzi": "荫凉",
+      "pinyin": "yīnliáng",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "тенистый и прохладный",
+        "tk": "kölegeli we salkyn",
+        "en": "shady and cool",
+        "uz": "soyali va salqin",
+        "tg": "сояафкан ва хунук",
+        "id": "rindang dan sejuk",
+        "tr": "gölgeli ve serin"
+      }
+    },
+    {
+      "hanzi": "指挥",
+      "pinyin": "zhǐhuī",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "командовать, управлять",
+        "tk": "buýurmak, dolandyrmak",
+        "en": "to command, to direct",
+        "uz": "buyruq bermoq, boshqarmoq",
+        "tg": "фармон додан, идора кардан",
+        "id": "memerintah, mengarahkan",
+        "tr": "komuta etmek, yönetmek"
+      }
+    },
+    {
+      "hanzi": "赶快",
+      "pinyin": "gǎnkuài",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "скорее, поскорее",
+        "tk": "tiz",
+        "en": "at once, hurriedly",
+        "uz": "tez",
+        "tg": "зуд",
+        "id": "cepat",
+        "tr": "çabuk"
+      }
+    },
+    {
+      "hanzi": "汗腺",
+      "pinyin": "hànxiàn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "потовые железы",
+        "tk": "ter mäzleri",
+        "en": "sweat gland",
+        "uz": "ter bezlari",
+        "tg": "ғадудҳои арақ",
+        "id": "kelenjar keringat",
+        "tr": "ter bezleri"
+      }
+    },
+    {
+      "hanzi": "毛孔",
+      "pinyin": "máokǒng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "поры",
+        "tk": "gözenek",
+        "en": "pore",
+        "uz": "teri teshigi",
+        "tg": "сӯрохи пӯст",
+        "id": "pori",
+        "tr": "gözenek"
+      }
+    },
+    {
+      "hanzi": "冒",
+      "pinyin": "mào",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "просачиваться, выделяться",
+        "tk": "çykarmak, bölüp çykarmak",
+        "en": "to emit, to give off",
+        "uz": "chiqarmoq, ajralib chiqmoq",
+        "tg": "баровардан, ҷудо шудан",
+        "id": "memancarkan, mengeluarkan",
+        "tr": "yaymak, salıvermek"
+      }
+    },
+    {
+      "hanzi": "片",
+      "pinyin": "piàn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "ломтик, пластинка",
+        "tk": "bölek, ýaprak",
+        "en": "flat and thin piece",
+        "uz": "bo'lak, yaproq",
+        "tg": "порча, варақ",
+        "id": "potongan, lembaran",
+        "tr": "dilim, yaprak"
+      }
+    },
+    {
+      "hanzi": "常识",
+      "pinyin": "chángshí",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "здравый смысл, общие знания",
+        "tk": "umumy bilim",
+        "en": "common knowledge",
+        "uz": "umumiy bilim",
+        "tg": "дониши умумӣ",
+        "id": "pengetahuan umum",
+        "tr": "genel kültür"
+      }
+    },
+    {
+      "hanzi": "根",
+      "pinyin": "gēn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "корень",
+        "tk": "kök",
+        "en": "root",
+        "uz": "ildiz",
+        "tg": "реша",
+        "id": "akar",
+        "tr": "kök"
+      }
+    },
+    {
+      "hanzi": "吸收",
+      "pinyin": "xīshōu",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "впитывать, поглощать",
+        "tk": "siňdirmek, özüne siňdirmek",
+        "en": "to absorb, to take in",
+        "uz": "singdirmoq, o'ziga singdirmoq",
+        "tg": "ҷаббидан, фурӯ бурдан",
+        "id": "menyerap, menyerap",
+        "tr": "emmek, absorbe etmek"
+      }
+    },
+    {
+      "hanzi": "控制",
+      "pinyin": "kòngzhì",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "контролировать, управлять",
+        "tk": "dolandyrmak",
+        "en": "to control",
+        "uz": "boshqarmoq",
+        "tg": "идора кардан",
+        "id": "mengontrol",
+        "tr": "kontrol etmek"
+      }
+    },
+    {
+      "hanzi": "成分",
+      "pinyin": "chéngfèn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "состав, компонент",
+        "tk": "düzümi, komponent",
+        "en": "element, component",
+        "uz": "tarkib, komponent",
+        "tg": "таркиб, ҷузъ",
+        "id": "komposisi, komponen",
+        "tr": "bileşen, içerik"
+      }
+    },
+    {
+      "hanzi": "梢",
+      "pinyin": "shāo",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "верхушка, кончик",
+        "tk": "uç, şahajyk",
+        "en": "tip, thin end of a twig",
+        "uz": "uchi, shoxcha",
+        "tg": "нӯг, нӯги шоха",
+        "id": "ujung, ujung ranting",
+        "tr": "uç, dal ucu"
+      }
+    },
+    {
+      "hanzi": "管子",
+      "pinyin": "guǎnzi",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "трубка, труба",
+        "tk": "turba, turbaç",
+        "en": "tube, pipe",
+        "uz": "nay, quvur",
+        "tg": "найча, қубур",
+        "id": "tabung, pipa",
+        "tr": "boru, tüp"
+      }
+    },
+    {
+      "hanzi": "玻璃",
+      "pinyin": "bāli",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "стекло",
+        "tk": "aýna",
+        "en": "glass",
+        "uz": "shisha",
+        "tg": "шиша",
+        "id": "kaca",
+        "tr": "cam"
+      }
+    },
+    {
+      "hanzi": "测验",
+      "pinyin": "cèyàn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "проверять, тестировать",
+        "tk": "synag",
+        "en": "to test",
+        "uz": "sinov",
+        "tg": "озмоиш",
+        "id": "tes",
+        "tr": "test"
+      }
+    },
+    {
+      "hanzi": "根本",
+      "pinyin": "gēnběn",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "вовсе не, совершенно не",
+        "tk": "asla, düýbünden",
+        "en": "at all, simply",
+        "uz": "aslo, umuman",
+        "tg": "ҳаргиз, асло",
+        "id": "sama sekali, tidak sama sekali",
+        "tr": "hiç, asla"
+      }
+    },
+    {
+      "hanzi": "枝干",
+      "pinyin": "zhīgàn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "ветви и ствол",
+        "tk": "şahalar we sütün",
+        "en": "branch, limb",
+        "uz": "shoxlar va tana",
+        "tg": "шоху тана",
+        "id": "cabang dan batang",
+        "tr": "dal ve gövde"
+      }
+    },
+    {
+      "hanzi": "释放",
+      "pinyin": "shìfàng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "выделять, освобождать",
+        "tk": "goýbermek, azat etmek",
+        "en": "to release, to emit",
+        "uz": "qo'yib yubormoq, ozod qilmoq",
+        "tg": "озод кардан, раҳо кардан",
+        "id": "melepaskan, membebaskan",
+        "tr": "serbest bırakmak, salıvermek"
+      }
+    },
+    {
+      "hanzi": "自动",
+      "pinyin": "zìdòng",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "автоматически, самопроизвольно",
+        "tk": "awtomatik",
+        "en": "voluntarily, spontaneously",
+        "uz": "avtomatik",
+        "tg": "автоматӣ",
+        "id": "otomatis",
+        "tr": "otomatik"
+      }
+    },
+    {
+      "hanzi": "补充",
+      "pinyin": "bǔchōng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "восполнять, дополнять",
+        "tk": "doldurmak, goşmak",
+        "en": "to supplement, to replenish",
+        "uz": "to'ldirmoq, qo'shmoq",
+        "tg": "пур кардан, илова кардан",
+        "id": "menambah, melengkapi",
+        "tr": "tamamlamak, eklemek"
+      }
+    },
+    {
+      "hanzi": "抽",
+      "pinyin": "chōu",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "вытягивать, откачивать",
+        "tk": "çekmek, sorup almak",
+        "en": "to draw, to obtain by drawing",
+        "uz": "tortmoq, so'rib olmoq",
+        "tg": "кашидан, баровардан",
+        "id": "menarik, mengambil dengan cara menyedot",
+        "tr": "çekmek, çekerek elde etmek"
+      }
+    },
+    {
+      "hanzi": "蒸腾",
+      "pinyin": "zhēngténg",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "испаряться",
+        "tk": "bugarmak",
+        "en": "to rise, to vaporize",
+        "uz": "bug'lanish",
+        "tg": "бухоршавӣ",
+        "id": "menguap",
+        "tr": "buharlaşmak"
+      }
+    },
+    {
+      "hanzi": "特殊",
+      "pinyin": "tèshū",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "особенный, специальный",
+        "tk": "ýörite, aýratyn",
+        "en": "special, particular",
+        "uz": "maxsus, alohida",
+        "tg": "махсус, хос",
+        "id": "khusus, istimewa",
+        "tr": "özel, hususi"
+      }
+    },
+    {
+      "hanzi": "内部",
+      "pinyin": "nèibù",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "внутренняя часть",
+        "tk": "içki",
+        "en": "inside, interior",
+        "uz": "ichki",
+        "tg": "дохилӣ",
+        "id": "dalam",
+        "tr": "iç"
+      }
+    },
+    {
+      "hanzi": "系统",
+      "pinyin": "xìtǒng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "система",
+        "tk": "ulgam",
+        "en": "system",
+        "uz": "tizim",
+        "tg": "система",
+        "id": "sistem",
+        "tr": "sistem"
+      }
+    },
+    {
+      "hanzi": "状况",
+      "pinyin": "zhuàngkuàng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "состояние, положение",
+        "tk": "ýagdaý",
+        "en": "condition, situation",
+        "uz": "holat",
+        "tg": "ҳолат",
+        "id": "keadaan",
+        "tr": "durum"
+      }
+    },
+    {
+      "hanzi": "秩序",
+      "pinyin": "zhìxù",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "порядок",
+        "tk": "tertip",
+        "en": "order, orderly state",
+        "uz": "tartib",
+        "tg": "тартиб",
+        "id": "ketertiban",
+        "tr": "düzen"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "赶快",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«赶快» — наречие: «скорее, поторапливайся», сделать что-то в сжатые сроки.",
+        "en": "«赶快» — adverb: 'hurry up, at once' — do something within a tight timeframe.",
+        "tk": "«赶快» — hal: «tiz, howluk», gysga wagtda bir zady etmek.",
+        "uz": "«赶快» — ravish: «tezroq, shoshil», qisqa muddatda biror narsa qilmoq.",
+        "tg": "«赶快» — зарф: «зудтар, шитоб кун», кореро дар муддати кӯтоҳ анҷом додан.",
+        "id": "«赶快» — adverbia: 'cepat, bergegas' — melakukan sesuatu dalam waktu singkat.",
+        "tr": "«赶快» — zarf: 'çabuk, acele et' — bir şeyi kısa sürede yapmak."
+      },
+      "formula": {
+        "ru": "赶快 + 动词",
+        "en": "赶快 + verb",
+        "tk": "tiz",
+        "uz": "tez",
+        "tg": "зуд",
+        "id": "cepat",
+        "tr": "çabuk"
+      },
+      "examples": [
+        {
+          "zh": "一旦温度上升，大脑就会指挥我们的身体赶快出汗。",
+          "ru": "Как только температура поднимается, мозг командует телу быстрее потеть.",
+          "en": "Once the temperature rises, the brain instructs the body to sweat quickly.",
+          "tk": "Temperatura ýokarlanan badyna, beýni bedenimize tiz-ter tiz derlemegi buýurýar.",
+          "uz": "Harorat ko'tarilishi bilanoq, miya tanamizga tezroq terlashni buyuradi.",
+          "tg": "Ҳамин ки ҳарорат баланд мешавад, майна ба бадани мо фармон медиҳад, ки зудтар арақ кунем.",
+          "id": "Begitu suhu naik, otak akan memerintahkan tubuh kita untuk segera berkeringat.",
+          "tr": "Sıcaklık yükselir yükselmez, beyin vücudumuza hemen terlemesini emreder."
+        },
+        {
+          "zh": "这份材料下午开会要用，你赶快把它复印一下。",
+          "ru": "Эти материалы нужны на совещании после обеда, срочно сделай копию.",
+          "en": "These materials are needed for the afternoon meeting — make copies right away.",
+          "tk": "Bu materiallar günortandan soňky ýygnakda gerek bolar, derrew ony köpeldip çyk.",
+          "uz": "Bu materiallar tushdan keyingi yig'ilishda kerak bo'ladi, darhol undan nusxa ko'chir.",
+          "tg": "Ин мавод барои ҷаласаи баъд аз нисфирӯзӣ лозим аст, зуд онро нусхабардорӣ кун.",
+          "id": "Bahan ini akan digunakan untuk rapat sore nanti, segera fotokopi bahan ini.",
+          "tr": "Bu materyaller öğleden sonraki toplantıda kullanılacak, hemen onu fotokopi çek."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "__，要不该赶上堵车了。",
+          "answer": "赶快走吧"
+        }
+      ]
+    },
+    {
+      "word": "片",
+      "pos": "n./m.",
+      "explanation": {
+        "ru": "«片» — существительное: «плоский тонкий предмет»; счётное слово для плоских предметов, звуков, пейзажей.",
+        "en": "«片» — noun: 'a flat thin piece'; measure word for flat objects, sounds, scenery.",
+        "tk": "«片» — at: 'ýasy ýuka zat'; tekiz zatlar, sesler, manzaralar üçin san sözi.",
+        "uz": "«片» — ot: 'yassi yupqa narsa'; yassi narsalar, tovushlar, manzaralar uchun sanoq so'zi.",
+        "tg": "«片» — исм: 'чизи мустаҳками тунук'; калимаи шумориш барои ашёи ҳамвор, садоҳо, манзараҳо.",
+        "id": "«片» — kata benda: 'benda tipis pipih'; kata bantu bilangan untuk benda pipih, bunyi, pemandangan.",
+        "tr": "«片» — isim: 'yassı ince şey'; yassı nesneler, sesler, manzaralar için ölçü sözcüğü."
+      },
+      "formula": {
+        "ru": "一片 + 名词",
+        "en": "一片 + noun",
+        "tk": "bir bölek + at",
+        "uz": "bir bo'lak + ot",
+        "tg": "як пора + исм",
+        "id": "satu potong + kata benda",
+        "tr": "bir parça + isim"
+      },
+      "examples": [
+        {
+          "zh": "大树出的“汗”，通常是从叶片的气孔里冒出来的。",
+          "ru": "«Пот» большого дерева обычно выступает из устьиц листовых пластинок.",
+          "en": "The tree's 'sweat' usually comes out through the leaf blades' stomata.",
+          "tk": "Uly agajyň \"deri\" adatça ýapraklaryň stomatalaryndan çykýar.",
+          "uz": "Katta daraxtning \"teri\" odatda barglarning stomatalaridan chiqadi.",
+          "tg": "\"Арақи\" дарахти калон одатан аз стоматҳои баргҳо мебарояд.",
+          "id": "\"Keringat\" pohon besar biasanya keluar dari stomata daun.",
+          "tr": "Büyük ağacın \"teri\" genellikle yaprak stomatalarından çıkar."
+        },
+        {
+          "zh": "窗外有一棵大树，秋风中，叶子一片片地掉落下来。",
+          "ru": "За окном большое дерево — осенний ветер срывает один за другим листья.",
+          "en": "Outside the window a big tree — in the autumn wind, leaves fall one by one.",
+          "tk": "Penjiräniň daşynda uly bir agaç bar, güýz şemalynda ýapraklar birin-birin düşýär.",
+          "uz": "Deraza tashqarisida katta bir daraxt bor, kuz shamolida barglar birin-ketin to'kilmoqda.",
+          "tg": "Берун аз тиреза дарахти калоне ҳаст, дар шамоли тирамоҳ баргҳо яктогӣ мерезанд.",
+          "id": "Di luar jendela ada pohon besar, dalam angin musim gugur, daun-daun berjatuhan satu per satu.",
+          "tr": "Pencerenin dışında büyük bir ağaç var, sonbahar rüzgarında yapraklar birer birer düşüyor."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "今天早上我吃了两__面包。",
+          "answer": "片"
+        }
+      ]
+    },
+    {
+      "word": "根本",
+      "pos": "n./adj./adv.",
+      "explanation": {
+        "ru": "«根本» — сущ.: «основа, суть»; прил.: «основной, главный»; нареч.: «вовсе не, совершенно не» (в отрицаниях).",
+        "en": "«根本» — noun: 'root, basis'; adj.: 'fundamental'; adv.: 'at all, simply' (in negatives).",
+        "tk": "«根本» — at: 'kök, esas'; syp.: 'esasy, binýatly'; hal: 'asla, düýbünden' (inkärde).",
+        "uz": "«根本» — ot: 'ildiz, asos'; sft.: 'asosiy, tub'; rvsh.: 'aslo, mutlaqo' (inkorda).",
+        "tg": "«根本» — исм: 'реша, асос'; сиф.: 'асосӣ, бунёдӣ'; зарф: 'ҳаргиз, тамоман' (дар инкор).",
+        "id": "«根本» — nomina: 'akar, dasar'; adj.: 'fundamental, pokok'; adv.: 'sama sekali, sungguh' (dalam negasi).",
+        "tr": "«根本» — isim: 'kök, esas'; sıf.: 'temel, esaslı'; zarf: 'hiç, asla' (olumsuzlukta)."
+      },
+      "formula": {
+        "ru": "根本 + 不/没 + 动词",
+        "en": "根本 + 不/没 + verb",
+        "tk": "asla",
+        "uz": "aslo",
+        "tg": "ҳеҷ",
+        "id": "sama sekali",
+        "tr": "asla"
+      },
+      "examples": [
+        {
+          "zh": "经过测验计算发现，以大树输送管道的尺寸产生的毛细作用，根本无法把水分送到几十米高的地方。",
+          "ru": "Расчёты показали, что капиллярный эффект в трубках дерева вовсе не способен поднять воду на десятки метров.",
+          "en": "Calculations revealed that capillary action in a tree's pipes simply cannot lift water dozens of meters high.",
+          "tk": "Hasaplamalar görkezdi, agajyň geçiriji turbalarynyň ölçeglerinde döreýän kapillyar hadysa suwy onlarça metr beýiklige çykaryp bilmeýär.",
+          "uz": "Hisob-kitoblar shuni ko'rsatdiki, daraxtning o'tkazuvchi quvurlari o'lchamlarida yuzaga keladigan kapillyar hodisa suvni o'nlab metr balandlikka ko'tara olmaydi.",
+          "tg": "Ҳисобу китоб нишон дод, ки падидаи капиллярӣ дар андозаи қубурҳои интиқоли дарахт ҳеҷ гоҳ наметавонад обро ба даҳҳо метр баландӣ расонад.",
+          "id": "Perhitungan menunjukkan bahwa efek kapiler yang dihasilkan oleh ukuran pipa pengangkut pohon sama sekali tidak mampu mengangkut air ke tempat setinggi puluhan meter.",
+          "tr": "Hesaplamalar, ağacın taşıma borularının boyutlarında oluşan kılcallık etkisinin suyu onlarca metre yükseğe çıkaramayacağını ortaya koydu."
+        },
+        {
+          "zh": "他根本就是在故意找我们的麻烦。",
+          "ru": "Он просто нарочно ищет, к чему бы придраться.",
+          "en": "He is simply deliberately making trouble for us.",
+          "tk": "Ol biziň bilen bilgeşleýin kynçylyk döredýär.",
+          "uz": "U bizga ataylab muammo chiqarmoqda.",
+          "tg": "Вай барои мо қасдан мушкилӣ месозад.",
+          "id": "Dia memang sengaja mencari masalah dengan kita.",
+          "tr": "O kesinlikle kasten bize sorun çıkarıyor."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "你觉得他说的话有道理吗？——__。",
+          "answer": "根本没有道理"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "特殊",
+      "word_b": "特别",
+      "common": {
+        "ru": "Как прилагательные оба означают «не такой, как все».",
+        "en": "As adjectives both mean 'different from the ordinary'.",
+        "tk": "Aýratyn vs Aýratyn",
+        "uz": "Maxsus vs Alohida",
+        "tg": "Махсус vs Хос",
+        "id": "Khusus vs Istimewa",
+        "tr": "Özel vs Hususi"
+      },
+      "differences": [
+        {
+          "ru": "«特殊» — чаще в письменной речи, обозначает необычное качество.",
+          "en": "«特殊» — mostly literary, denotes an unusual quality.",
+          "tk": "«特殊» — köplenç ýazmaça sözleýişde ulanylýar, adaty bolmadyk hilini aňladýar.",
+          "uz": "«特殊» — koʻproq yozma nutqda ishlatiladi, gʻayrioddiy sifatni bildiradi.",
+          "tg": "«特殊» — бештар дар нутқи хаттӣ истифода мешавад, сифати ғайриоддӣро ифода мекунад.",
+          "id": "«特殊» — lebih sering dalam bahasa tulis, menunjukkan kualitas yang tidak biasa.",
+          "tr": "«特殊» — daha çok yazı dilinde kullanılır, alışılmadık bir niteliği belirtir."
+        },
+        {
+          "ru": "«特别» — и в устной, и в письменной речи; может быть наречием: «особенно».",
+          "en": "«特别» — used in both speech and writing; can be an adverb meaning 'especially'.",
+          "tk": "«特别» — hem gepleşikde, hem ýazuwda ulanylýar; hal sözi bolup biler: «esasanam».",
+          "uz": "«特别» — ham og'zaki, ham yozma nutqda; ravish bo'lishi mumkin: «ayniqsa».",
+          "tg": "«特别» — ҳам дар нутқи шифоҳӣ, ҳам дар навишт; метавонад зарф бошад: «махсусан».",
+          "id": "«特别» — digunakan baik dalam bahasa lisan maupun tulisan; dapat berupa kata keterangan: «terutama».",
+          "tr": "«特别» — hem sözlü hem yazılı dilde kullanılır; zarf olabilir: «özellikle»."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "zh": "动物、植物",
+      "ru": "Животные, растения",
+      "en": "Animals and plants",
+      "tk": "Haýwanlar, ösümlikler",
+      "uz": "Hayvonlar, o'simliklar",
+      "tg": "Ҳайвонот, растанӣ",
+      "id": "Hewan, tumbuhan",
+      "tr": "Hayvanlar, bitkiler"
+    },
+    "words": [
+      {
+        "hanzi": "老鼠",
+        "pinyin": "lǎoshǔ",
+        "meaning": {
+          "zh": "",
+          "ru": "мышь, крыса",
+          "en": "mouse, rat",
+          "tk": "syçan, alaka",
+          "uz": "sichqon, kalamush",
+          "tg": "муш, каламуш",
+          "id": "tikus",
+          "tr": "fare, sıçan"
+        }
+      },
+      {
+        "hanzi": "蜜蜂",
+        "pinyin": "mìfēng",
+        "meaning": {
+          "zh": "",
+          "ru": "пчела",
+          "en": "bee",
+          "tk": "ary",
+          "uz": "asalari",
+          "tg": "занбӯр",
+          "id": "lebah",
+          "tr": "arı"
+        }
+      },
+      {
+        "hanzi": "蛇",
+        "pinyin": "shé",
+        "meaning": {
+          "zh": "",
+          "ru": "змея",
+          "en": "snake",
+          "tk": "ýylan",
+          "uz": "ilon",
+          "tg": "мор",
+          "id": "ular",
+          "tr": "yılan"
+        }
+      },
+      {
+        "hanzi": "狮子",
+        "pinyin": "shīzi",
+        "meaning": {
+          "zh": "",
+          "ru": "лев",
+          "en": "lion",
+          "tk": "arslan",
+          "uz": "sher",
+          "tg": "шер",
+          "id": "singa",
+          "tr": "aslan"
+        }
+      },
+      {
+        "hanzi": "兔子",
+        "pinyin": "tùzi",
+        "meaning": {
+          "zh": "",
+          "ru": "заяц, кролик",
+          "en": "rabbit",
+          "tk": "towşan",
+          "uz": "quyon",
+          "tg": "хаpгӯш",
+          "id": "kelinci",
+          "tr": "tavşan"
+        }
+      },
+      {
+        "hanzi": "大象",
+        "pinyin": "dàxiàng",
+        "meaning": {
+          "zh": "",
+          "ru": "слон",
+          "en": "elephant",
+          "tk": "pil",
+          "uz": "fil",
+          "tg": "фил",
+          "id": "gajah",
+          "tr": "fil"
+        }
+      },
+      {
+        "hanzi": "猴子",
+        "pinyin": "hóuzi",
+        "meaning": {
+          "zh": "",
+          "ru": "обезьяна",
+          "en": "monkey",
+          "tk": "maýmyn",
+          "uz": "maymun",
+          "tg": "маймун",
+          "id": "monyet",
+          "tr": "maymun"
+        }
+      },
+      {
+        "hanzi": "猪",
+        "pinyin": "zhū",
+        "meaning": {
+          "zh": "",
+          "ru": "свинья",
+          "en": "pig",
+          "tk": "doňuz",
+          "uz": "cho'chqa",
+          "tg": "хӯк",
+          "id": "babi",
+          "tr": "domuz"
+        }
+      },
+      {
+        "hanzi": "蝴蝶",
+        "pinyin": "húdié",
+        "meaning": {
+          "zh": "",
+          "ru": "бабочка",
+          "en": "butterfly",
+          "tk": "kebelek",
+          "uz": "kapalak",
+          "tg": "шабпарак",
+          "id": "kupu-kupu",
+          "tr": "kelebek"
+        }
+      },
+      {
+        "hanzi": "昆虫",
+        "pinyin": "kūnchóng",
+        "meaning": {
+          "zh": "",
+          "ru": "насекомое",
+          "en": "insect",
+          "tk": "mör-möjek",
+          "uz": "hasharot",
+          "tg": "ҳашарот",
+          "id": "serangga",
+          "tr": "böcek"
+        }
+      },
+      {
+        "hanzi": "小麦",
+        "pinyin": "xiǎomài",
+        "meaning": {
+          "zh": "",
+          "ru": "пшеница",
+          "en": "wheat",
+          "tk": "bugdaý",
+          "uz": "bug'doy",
+          "tg": "гандум",
+          "id": "gandum",
+          "tr": "buğday"
+        }
+      },
+      {
+        "hanzi": "竹子",
+        "pinyin": "zhúzi",
+        "meaning": {
+          "zh": "",
+          "ru": "бамбук",
+          "en": "bamboo",
+          "tk": "bambuk",
+          "uz": "bambuk",
+          "tg": "бамбук",
+          "id": "bambu",
+          "tr": "bambu"
+        }
+      },
+      {
+        "hanzi": "根",
+        "pinyin": "gēn",
+        "meaning": {
+          "zh": "",
+          "ru": "корень",
+          "en": "root",
+          "tk": "kök",
+          "uz": "ildiz",
+          "tg": "реша",
+          "id": "akar",
+          "tr": "kök"
+        }
+      },
+      {
+        "hanzi": "果实",
+        "pinyin": "guǒshí",
+        "meaning": {
+          "zh": "",
+          "ru": "плод",
+          "en": "fruit",
+          "tk": "miwe",
+          "uz": "meva",
+          "tg": "мева",
+          "id": "buah",
+          "tr": "meyve"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "zh": "话题讨论：植物的功能。1. 你喜欢什么样的植物？2. 在你的国家最常见或最有名的植物是什么？3. 在你的生活中，植物起了什么作用？",
+      "ru": "Обсуждение: роль растений. 1. Какие растения вам нравятся? 2. Самые известные растения вашей страны? 3. Какую роль растения играют в вашей жизни?",
+      "tk": "Çekişme: ösümlikleriň roly. 1. Haýsy ösümlikler size ýaraýar? 2. Ýurduňyzda iň meşhur ösümlikler? 3. Ösümlikler durmuşyňyzda nähili rol oýnaýar?",
+      "en": "Discussion: plants. 1. What plants do you like? 2. Most famous plants in your country? 3. Role of plants in your life?",
+      "uz": "Muhokama: o'simliklarning roli. 1. Qaysi o'simliklar sizga yoqadi? 2. Mamlakatingizdagi eng mashhur o'simliklar? 3. O'simliklar hayotingizda qanday rol o'ynaydi?",
+      "tg": "Муҳокима: нақши растаниҳо. 1. Кадом растаниҳо ба шумо писанд меоянд? 2. Машҳуртарин растаниҳои кишвари шумо? 3. Растаниҳо дар ҳаёти шумо чӣ нақш мебозанд?",
+      "id": "Diskusi: peran tumbuhan. 1. Tumbuhan apa yang Anda sukai? 2. Tumbuhan paling terkenal di negara Anda? 3. Peran tumbuhan dalam hidup Anda?",
+      "tr": "Tartışma: bitkilerin rolü. 1. Hangi bitkileri seversiniz? 2. Ülkenizdeki en ünlü bitkiler? 3. Bitkiler hayatınızda ne rol oynar?"
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "audio": "workbook_35_1.mp3",
+        "prompt": {
+          "zh": "植物为什么要出汗？",
+          "ru": "Почему растения «потеют»?",
+          "en": "Why do plants 'sweat'?"
+        },
+        "options": [
+          "为了降温",
+          "为了运输养分",
+          "为了开花",
+          "为了排毒"
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": [
+      {
+        "type": "mc",
+        "prompt": {
+          "zh": "大树是怎么把水运到高处的？",
+          "ru": "Как дерево поднимает воду наверх?",
+          "en": "How does a tree lift water up?"
+        },
+        "options": [
+          "毛细作用",
+          "水泵",
+          "蒸腾拉力",
+          "风"
+        ],
+        "answer": 2
+      }
+    ],
+    "writing": [
+      {
+        "type": "make_sentence",
+        "words": [
+          "缓解",
+          "吃什么",
+          "食物",
+          "有可能",
+          "疲劳"
+        ],
+        "answer": "吃什么食物有可能缓解疲劳？"
+      },
+      {
+        "type": "make_sentence",
+        "words": [
+          "交来的",
+          "这是他",
+          "补充材料",
+          "上次",
+          "面试后"
+        ],
+        "answer": "这是他上次面试后交来的补充材料。"
+      },
+      {
+        "type": "short_essay",
+        "words": [
+          "测验",
+          "特殊",
+          "秩序",
+          "歇",
+          "恢复"
+        ],
+        "min_length": 80
+      }
+    ]
+  }
+}

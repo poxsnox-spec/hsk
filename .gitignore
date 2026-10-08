@@ -73,3 +73,21 @@ _tr_cache.json
 _banner_tr_cache.json
 COMMIT_MSG.txt
 data/**/*.pre_tr.bak
+
+# DeepSeek API key
+.deepseek_key
+
+# Translation caches
+_translate_cache.json
+
+# Dumps / previews
+_sb_dump.txt
+_wb_dump.txt
+_schema_preview.json
+
+# Large source PDFs
+HSK-5-SB-2.pdf
+HSK-5-Workbook2.pdf
+
+# Installation scripts (already covered by install_*.py)
+scripts/install_audio.py

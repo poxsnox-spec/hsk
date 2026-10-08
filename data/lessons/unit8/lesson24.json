@@ -1,0 +1,920 @@
+{
+  "title": {
+    "zh": "支教行动",
+    "ru": "Помощь сельским школам",
+    "tk": "",
+    "en": "Volunteer teaching",
+    "uz": "",
+    "tg": "",
+    "id": "",
+    "tr": ""
+  },
+  "audio_files": {
+    "textbook_1": "textbook_24_1.mp3",
+    "vocab": "vocab_24.mp3",
+    "workbook_24_1": "workbook_24_1.mp3"
+  },
+  "warmup": {
+    "question": {
+      "zh": "中国有这样一些志愿者，他们会去经济不太发达的地区或农村的学校当老师，帮助那里的孩子学习。你听说过没有？你对志愿者有什么看法？",
+      "ru": "В Китае есть волонтёры, которые едут в отстающие регионы и сельские школы учить детей. Слышали ли вы о них? Что вы думаете о добровольцах?",
+      "tk": "",
+      "en": "In China, some volunteers go to underdeveloped regions or rural schools to teach and help children. Have you heard of them? What do you think of volunteers?",
+      "uz": "",
+      "tg": "",
+      "id": "",
+      "tr": ""
+    },
+    "answers": [
+      "冠军",
+      "支教"
+    ]
+  },
+  "text_zh": "来云南支教一年多，郝琳硕老师自己也记不清有多少次家访了。刚到时，一位叫赵福根的男生引起了她的注意。他上课从不发言，很多课不及格，平时也几乎不和同学交往。\n郝老师家访后得知，赵福根的父亲去世了，姐姐在外打工，他家里很穷，还得帮着妈妈做家务，是个体贴孝顺的孩子。“和他妈妈聊天才知道他很喜欢跳舞，”郝老师说，“我觉得这是个机会！”她鼓励福根在学校艺术节上表演，每周二带着他一起去找音乐老师排练。表演时，福根的蝴蝶舞得了舞蹈组的冠军，台下的同学们鼓起掌来，齐声地喊着“福根”的名字……\n之后，赵福根学习用功了，成绩也逐渐进步。他写了一篇题目为《那天的舞蹈和掌声》的作文，得了全班最高分，他朗读了自己的作文：“郝老师来到我家，那是第一次有老师来。她非常温柔……我永远都忘不了那热烈的掌声和同学们送我的糖，甜甜的。我感觉在学校也有人爱我了，我开始有勇气……”\n郝老师发现，山里的青壮年都出去闯世界，只有老人、孩子留守，“他们出去了还回来吗？大山以后谁来负责”？于是，郝老师组织了一个8周的研究型学习活动，主题是“让家乡的明天更美好”。她鼓励学生寻找村子的问题，通过了解历史地理情况、采访村里的老人、小组讨论等，最终提出解决方案。她和其他志愿者利用午休、周末等空闲时间给学生们指导和培训。\n学生们说：“以前，我们总认为建设家乡是大人的事，用不着我们操心。不过，现在我们明白了，建设家乡，人人有责，我们也要承担这个义务。这个任务很艰巨，我们要尽自己最大的力量。”\n郝琳硕觉得自己的收获远多于给孩子们的。“不管以后在哪儿，我都会继续用我的力量影响山里的孩子们，因为他们是国家的未来与希望。”",
+  "text_translation": {
+    "zh": "",
+    "ru": "Приехав в Юньнань учительствовать больше года назад, Хао Линьшо и сама не могла сосчитать, сколько раз ходила по домам учеников. Приехав, она заметила мальчика по имени Чжао Фугэнь. Он никогда не выступал на уроках, по многим предметам не сдавал, почти не общался с одноклассниками.\nПосле визита домой Хао узнала: отец Чжао Фугэня умер, старшая сестра работает в городе, семья очень бедная — мальчик помогает матери по дому, чуткий и почтительный ребёнок. «Поговорив с его матерью, я поняла — он очень любит танцевать», — сказала учительница Хао. — «Я почувствовала: вот шанс!» Она подбодрила Фугэня выступить на школьном празднике искусств, каждое воскресенье водила его к учителю музыки на репетицию. На выступлении танец бабочки Фугэня взял первое место в танцевальной категории; ученики в зале зааплодировали и хором выкрикивали его имя...\nПосле этого Чжао Фугэнь стал старательнее учиться, оценки постепенно улучшались. Он написал сочинение «Тот танец и аплодисменты» и получил высший балл в классе; мальчик прочёл его вслух: «Учительница Хао пришла к нам домой — первый раз учитель пришёл к нам. Она очень нежная... Я никогда не забуду те бурные аплодисменты и конфеты, что подарили одноклассники — такие сладкие. Я почувствовал, что в школе меня тоже любят, у меня появилась смелость...»\nУчительница Хао заметила: все молодые и взрослые мужчины в горах уходят «покорять мир», остаются лишь старики да дети — «вернутся ли они? Кто возьмёт на себя ответственность за горы в будущем?» Тогда Хао организовала 8-недельную исследовательскую учебную программу на тему «Сделать завтра родного края прекраснее». Она подбадривала учеников искать проблемы деревни, изучать историю и географию, брать интервью у стариков, обсуждать в группах и в итоге предлагать решения. Вместе с другими волонтёрами она использовала обеденные перерывы и выходные, чтобы консультировать и обучать школьников.\nУченики говорили: «Раньше мы считали, что строить родной край — дело взрослых, нам не о чем беспокоиться. Но теперь мы поняли: строить родной край — дело каждого, мы тоже должны нести эту обязанность. Задача очень трудная — мы приложим все свои силы».\nХао Линьшо считала, что получила гораздо больше, чем дала детям. «Где бы я ни была в будущем, я продолжу своими силами влиять на детей в горах — ведь они будущее и надежда страны».",
+    "tk": "",
+    "en": "Having spent over a year volunteering in Yunnan, Teacher Hao Linshuo could no longer count how many home visits she'd made. On arriving, one boy caught her attention — Zhao Fugen. He never spoke in class, failed many subjects, and hardly socialized with classmates.\nAfter visiting his home, Teacher Hao learned: Fugen's father had died, his older sister worked away, the family was very poor, and he helped his mother with housework — a thoughtful and filial child. 'Only after chatting with his mother did I learn he loves dancing,' said Teacher Hao. 'I felt this was an opportunity!' She encouraged Fugen to perform at the school arts festival, taking him every Tuesday to rehearse with the music teacher. During the performance, Fugen's butterfly dance won first prize in the dance category; classmates applauded and chanted his name...\nAfterwards, Zhao Fugen studied harder, his grades gradually improving. He wrote an essay titled 'That Day's Dance and Applause' and got the top score in class; he read it aloud: 'Teacher Hao came to my home — it was the first time a teacher had come. She was very gentle... I'll never forget the enthusiastic applause and the sweets my classmates gave me — so sweet. I felt that at school someone loved me too, and I began to have courage...'\nTeacher Hao noticed that young adults in the mountains all went out to seek their fortunes, leaving only the elderly and children behind — 'Will they come back? Who will take responsibility for the mountains?' So Teacher Hao organized an 8-week research-learning activity themed 'Making our hometown's tomorrow better.' She encouraged students to find the village's problems, understand its history and geography, interview the elderly, hold group discussions, and ultimately propose solutions. She and other volunteers used lunch breaks and weekends to guide and train the students.\nThe students said: 'We used to think building our hometown was adults' business, nothing for us to worry about. But now we understand: building our hometown is everyone's responsibility, and we must shoulder this duty. This task is arduous — we will do our utmost.'\nHao Linshuo felt her gains far exceeded what she gave the children. 'Wherever I go from now on, I will continue to use my strength to influence the children in the mountains — for they are the future and hope of the nation.'",
+    "uz": "",
+    "tg": "",
+    "id": "",
+    "tr": ""
+  },
+  "vocabulary": [
+    {
+      "hanzi": "支教",
+      "pinyin": "zhījiào",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "работать учителем в глубинке",
+        "tk": "",
+        "en": "to volunteer to teach in a backward region",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "行动",
+      "pinyin": "xíngdòng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "действие, акция",
+        "tk": "",
+        "en": "action, activity",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "家访",
+      "pinyin": "jiāfǎng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "ходить по домам учеников",
+        "tk": "",
+        "en": "to visit the parents of schoolchildren",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "发言",
+      "pinyin": "fāyán",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "выступать, говорить",
+        "tk": "",
+        "en": "to speak, to make a speech",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "及格",
+      "pinyin": "jígé",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "сдать (экзамен)",
+        "tk": "",
+        "en": "to pass an exam",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "交往",
+      "pinyin": "jiāowǎng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "общаться, поддерживать отношения",
+        "tk": "",
+        "en": "to associate, to contact",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "家务",
+      "pinyin": "jiāwù",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "домашние дела",
+        "tk": "",
+        "en": "household duties",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "体贴",
+      "pinyin": "tǐtiē",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "чуткий, заботливый",
+        "tk": "",
+        "en": "thoughtful, considerate",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "排练",
+      "pinyin": "páiliàn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "репетировать",
+        "tk": "",
+        "en": "to rehearse",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "蝴蝶",
+      "pinyin": "húdié",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "бабочка",
+        "tk": "",
+        "en": "butterfly",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "舞蹈",
+      "pinyin": "wǔdǎo",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "танец",
+        "tk": "",
+        "en": "dance",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "冠军",
+      "pinyin": "guànjūn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "чемпион, первое место",
+        "tk": "",
+        "en": "champion, first-prize winner",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "鼓掌",
+      "pinyin": "gǔzhǎng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "аплодировать",
+        "tk": "",
+        "en": "to applaud",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "用功",
+      "pinyin": "yònggōng",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "старательный, прилежный",
+        "tk": "",
+        "en": "hardworking, diligent",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "进步",
+      "pinyin": "jìnbù",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "делать успехи",
+        "tk": "",
+        "en": "to make progress, to improve",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "题目",
+      "pinyin": "tímù",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "заголовок, тема",
+        "tk": "",
+        "en": "title",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "朗读",
+      "pinyin": "lǎngdú",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "читать вслух",
+        "tk": "",
+        "en": "to read aloud",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "温柔",
+      "pinyin": "wēnróu",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "нежный, мягкий",
+        "tk": "",
+        "en": "gentle",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "热烈",
+      "pinyin": "rèliè",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "горячий, бурный",
+        "tk": "",
+        "en": "enthusiastic, ardent",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "勇气",
+      "pinyin": "yǒngqì",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "смелость",
+        "tk": "",
+        "en": "courage",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "青壮年",
+      "pinyin": "qīng-zhuàngnián",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "молодёжь и люди среднего возраста",
+        "tk": "",
+        "en": "young and middle-aged adults",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "闯",
+      "pinyin": "chuǎng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "пробиваться, идти в большой мир",
+        "tk": "",
+        "en": "to go around to accomplish goals",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "留守",
+      "pinyin": "liúshǒu",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "оставаться дома (о детях, стариках)",
+        "tk": "",
+        "en": "to stay behind",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "主题",
+      "pinyin": "zhǔtí",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "тема",
+        "tk": "",
+        "en": "theme, subject",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "地理",
+      "pinyin": "dìlǐ",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "география",
+        "tk": "",
+        "en": "geography",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "采访",
+      "pinyin": "cǎifǎng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "интервьюировать",
+        "tk": "",
+        "en": "to interview",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "利用",
+      "pinyin": "lìyòng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "использовать",
+        "tk": "",
+        "en": "to utilize, to make use of",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "空闲",
+      "pinyin": "kòngxián",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "свободный, досуг",
+        "tk": "",
+        "en": "leisurely, free",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "指导",
+      "pinyin": "zhǐdǎo",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "руководить, направлять",
+        "tk": "",
+        "en": "to guide, to instruct",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "培训",
+      "pinyin": "péixùn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "обучать, тренировать",
+        "tk": "",
+        "en": "to train",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "建设",
+      "pinyin": "jiànshè",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "строить, развивать",
+        "tk": "",
+        "en": "to build, to construct",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "操心",
+      "pinyin": "cāoxīn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "беспокоиться, заботиться",
+        "tk": "",
+        "en": "to worry about, to be concerned",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "承担",
+      "pinyin": "chéngdān",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "брать на себя",
+        "tk": "",
+        "en": "to undertake, to shoulder",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "义务",
+      "pinyin": "yìwù",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "обязанность, долг",
+        "tk": "",
+        "en": "duty, obligation",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "艰巨",
+      "pinyin": "jiānjù",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "трудный, ответственный",
+        "tk": "",
+        "en": "arduous, formidable",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "力量",
+      "pinyin": "lìliàng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "сила, мощь",
+        "tk": "",
+        "en": "strength, capability",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "收获",
+      "pinyin": "shōuhuò",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "урожай; приобретение",
+        "tk": "",
+        "en": "gain",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "行动",
+      "pos": "v./n.",
+      "explanation": {
+        "ru": "«行动» как глагол — «двигаться, действовать». Как существительное — «действие, акция».",
+        "en": "«行动» as a verb means 'to move, to act'. As a noun — 'action, activity'."
+      },
+      "examples": [
+        {
+          "zh": "他运动时受伤了，行动不便。",
+          "ru": "Он получил травму на тренировке — двигаться неудобно.",
+          "en": "He was injured exercising — hard to move."
+        },
+        {
+          "zh": "郝老师到云南参加支教行动。",
+          "ru": "Учительница Хао отправилась в Юньнань участвовать в программе добровольного преподавания.",
+          "en": "Teacher Hao went to Yunnan to join a volunteer teaching programme."
+        },
+        {
+          "zh": "我们应该勇敢面对困难，迅速采取行动，主动承担责任。",
+          "ru": "Мы должны смело встречать трудности, быстро действовать и активно брать на себя ответственность.",
+          "en": "We should face difficulties bravely, act quickly, and shoulder responsibility."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "好久不见了，你最近在忙什么呢？__。",
+          "answer": "我参加了一个公益行动。"
+        }
+      ]
+    },
+    {
+      "word": "义务",
+      "pos": "n./adj.",
+      "explanation": {
+        "ru": "«义务» как существительное — «юридическая или моральная обязанность». Как прилагательное — «бесплатный, неоплачиваемый».",
+        "en": "«义务» as a noun — 'legal or moral duty'. As an adjective — 'unpaid, voluntary'."
+      },
+      "examples": [
+        {
+          "zh": "不过，现在我们明白了，建设家乡，人人有责，我们也要承担这个义务。",
+          "ru": "Но теперь мы поняли: строить родной край — дело каждого, мы тоже должны нести эту обязанность.",
+          "en": "But now we understand: building our hometown is everyone's responsibility — we must shoulder this duty too."
+        },
+        {
+          "zh": "我们每个学期都要至少参加三次义务劳动。",
+          "ru": "Каждый семестр мы должны не менее трёх раз участвовать в субботниках.",
+          "en": "Every semester we must take part in at least three voluntary work sessions."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "question": "Родители обязаны заботиться о детях.",
+          "answer": "父母对子女有抚养的义务。"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "发言",
+      "word_b": "发表",
+      "common": {
+        "ru": "Оба глагола связаны с выражением мнений.",
+        "en": "Both verbs relate to expressing opinions."
+      },
+      "differences": [
+        {
+          "ru": "«发言» — говорить на собрании/уроке; может быть существительным (высказывание).",
+          "en": "«发言» — to speak at a meeting/class; can be a noun (statement)."
+        },
+        {
+          "ru": "«发表» — публично излагать мнение или печатать статью.",
+          "en": "«发表» — to publicly state an opinion or publish an article."
+        },
+        {
+          "ru": "«发言» — разделяемый глагол (можно вставить элементы), не принимает дополнение.",
+          "en": "«发言» is a separable verb (elements can be inserted), doesn't take an object."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "zh": "教学2 (Обучение 2)",
+      "ru": "Обучение 2",
+      "en": "Teaching 2"
+    },
+    "words": [
+      {
+        "hanzi": "测验",
+        "pinyin": "cèyàn",
+        "meaning": {
+          "zh": "",
+          "ru": "тест, проверка",
+          "en": "test, quiz"
+        }
+      },
+      {
+        "hanzi": "实验",
+        "pinyin": "shíyàn",
+        "meaning": {
+          "zh": "",
+          "ru": "эксперимент",
+          "en": "experiment"
+        }
+      },
+      {
+        "hanzi": "抄",
+        "pinyin": "chāo",
+        "meaning": {
+          "zh": "",
+          "ru": "списывать, копировать",
+          "en": "to copy"
+        }
+      },
+      {
+        "hanzi": "试卷",
+        "pinyin": "shìjuàn",
+        "meaning": {
+          "zh": "",
+          "ru": "экзаменационный лист",
+          "en": "exam paper"
+        }
+      },
+      {
+        "hanzi": "夏令营",
+        "pinyin": "xiàlìngyíng",
+        "meaning": {
+          "zh": "",
+          "ru": "летний лагерь",
+          "en": "summer camp"
+        }
+      },
+      {
+        "hanzi": "操场",
+        "pinyin": "cāochǎng",
+        "meaning": {
+          "zh": "",
+          "ru": "спортплощадка",
+          "en": "playground"
+        }
+      },
+      {
+        "hanzi": "用功",
+        "pinyin": "yònggōng",
+        "meaning": {
+          "zh": "",
+          "ru": "прилежный",
+          "en": "hardworking"
+        }
+      },
+      {
+        "hanzi": "辅导",
+        "pinyin": "fǔdǎo",
+        "meaning": {
+          "zh": "",
+          "ru": "репетиторство",
+          "en": "to tutor"
+        }
+      },
+      {
+        "hanzi": "收获",
+        "pinyin": "shōuhuò",
+        "meaning": {
+          "zh": "",
+          "ru": "приобретение, урожай",
+          "en": "gain, harvest"
+        }
+      },
+      {
+        "hanzi": "铃",
+        "pinyin": "líng",
+        "meaning": {
+          "zh": "",
+          "ru": "звонок",
+          "en": "bell"
+        }
+      },
+      {
+        "hanzi": "退步",
+        "pinyin": "tuìbù",
+        "meaning": {
+          "zh": "",
+          "ru": "регресс",
+          "en": "to regress"
+        }
+      },
+      {
+        "hanzi": "改正",
+        "pinyin": "gǎizhèng",
+        "meaning": {
+          "zh": "",
+          "ru": "исправлять",
+          "en": "to correct"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "zh": "外出的农民工：青壮年外出打工对农村可能产生什么影响？对城市可能产生什么影响？你认为，政府应该怎么帮助这些老人、孩子和农民工？",
+      "ru": "Уезжающие на заработки: как отъезд молодёжи влияет на деревню? На город? Как государство должно помогать оставшимся старикам и детям?",
+      "tk": "",
+      "en": "Migrant workers: what impact does young people leaving to work have on villages? On cities? How should the government help the elderly, children, and migrant workers?",
+      "uz": "",
+      "tg": "",
+      "id": "",
+      "tr": ""
+    },
+    "writing_prompt": {
+      "zh": "请以“大山的未来谁负责”为题，谈谈你的看法。尽量用上本课所学的生词，字数不少于100字。",
+      "ru": "Напишите эссе на тему «Кто в ответе за будущее гор», используя слова урока, не менее 100 иероглифов.",
+      "en": "Write an essay titled 'Who is responsible for the future of the mountains', using this lesson's vocabulary, at least 100 characters."
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "audio": "workbook_24_1.mp3",
+        "prompt": {
+          "zh": "赵福根是什么样的人？",
+          "ru": "Каким был Чжао Фугэнь?",
+          "en": "What kind of person was Zhao Fugen?"
+        },
+        "options": [
+          "成绩很好",
+          "不爱发言",
+          "喜欢逃课",
+          "交坏朋友"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_24_1.mp3",
+        "prompt": {
+          "zh": "女的在做什么？",
+          "ru": "Что делает женщина?",
+          "en": "What is the woman doing?"
+        },
+        "options": [
+          "考虑上网课",
+          "报名上网课",
+          "在试听网课",
+          "正在上网课"
+        ],
+        "answer": 0
+      }
+    ],
+    "reading": [
+      {
+        "type": "cloze",
+        "text_zh": "各位老师，我院五年前曾经公开征集听力考试试题，进行试题库15，当时工作取得了很好的效果。本学期，学院计划开展新题库的有关工作。",
+        "blanks": [
+          {
+            "position": 15,
+            "answer": "建设",
+            "options": [
+              "建立",
+              "建筑",
+              "建设",
+              "建议"
+            ]
+          }
+        ]
+      }
+    ],
+    "writing": [
+      {
+        "type": "make_sentence",
+        "words": [
+          "是",
+          "每个人的",
+          "促进",
+          "义务",
+          "社会进步"
+        ],
+        "answer": "促进社会进步是每个人的义务。"
+      },
+      {
+        "type": "make_sentence",
+        "words": [
+          "经常利用",
+          "我们",
+          "刘老师",
+          "来指导",
+          "空闲时间"
+        ],
+        "answer": "刘老师经常利用空闲时间来指导我们。"
+      },
+      {
+        "type": "make_sentence",
+        "words": [
+          "既温柔",
+          "的人",
+          "又体贴",
+          "是个",
+          "她丈夫"
+        ],
+        "answer": "她丈夫是个既温柔又体贴的人。"
+      },
+      {
+        "type": "short_essay",
+        "words": [
+          "义务",
+          "勇气",
+          "利用",
+          "承担",
+          "行动"
+        ],
+        "min_length": 80
+      }
+    ]
+  }
+}

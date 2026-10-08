@@ -1,0 +1,1011 @@
+{
+  "title": {
+    "zh": "鸟儿的护肤术",
+    "ru": "Уход за перьями у птиц",
+    "tk": "Guşlaryň ýelek ideg edişi",
+    "en": "How birds take care of their feathers",
+    "uz": "Qushlarning patlarga parvarishi",
+    "tg": "Нигоҳубини пари паррандаҳо",
+    "id": "Perawatan bulu burung",
+    "tr": "Kuşların tüy bakımı"
+  },
+  "audio_files": {
+    "textbook_1": "textbook_34_1.mp3",
+    "vocab": "vocab_34.mp3",
+    "workbook_34_1": "workbook_34_1.mp3"
+  },
+  "warmup": {
+    "question": {
+      "zh": "说起鸟儿，你会想到它们的哪些特征？请给老师和同学们讲一讲。",
+      "ru": "Когда вы думаете о птицах, какие их черты приходят на ум? Расскажите классу.",
+      "tk": "Guşlar barada pikir edeniňizde, olaryň haýsy aýratynlyklary ýadyňyza gelýär? Synpa aýdyň.",
+      "en": "When you think of birds, what features come to mind? Tell the class.",
+      "uz": "Qushlar haqida o'ylaganingizda, ularning qanday xususiyatlari yodingizga tushadi? Sinfga aytib bering.",
+      "tg": "Вақте ки дар бораи паррандаҳо фикр мекунед, кадом хусусиятҳои онҳо ба ёдатон меоянд? Ба синф нақл кунед.",
+      "id": "Ketika Anda memikirkan burung, ciri-ciri apa yang terlintas di pikiran Anda? Ceritakan kepada kelas.",
+      "tr": "Kuşları düşündüğünüzde, hangi özellikleri aklınıza geliyor? Sınıfa anlatın."
+    },
+    "answers": [
+      "池塘"
+    ]
+  },
+  "text_zh": "大家都接触过鸟儿吧？那你知道鸟儿最重要的特征是什么吗？是有翅膀会飞？还是吃昆虫？\n作为一只鸟儿，不管是天空中飞的，陆地上走的，或者能入水的，都必须拥有羽毛。没错儿，区分鸟儿和其他动物的唯一特征就是羽毛，而不是会不会飞！羽毛的作用很多，既可以保暖，又可以保护皮肤；羽毛上的颜色和斑还能充当保护色；当然，更关键的是，羽毛有助于飞行；甚至还有一些鸟儿的部分羽毛有“触觉”。总之，在鸟儿的生活中，羽毛充当着十分重要的角色。所以，鸟儿非常爱惜羽毛，每天都会花很长时间来保养自己的“羽衣”。\n整理羽毛是保养的基本功，它们只要有时间，就会情不自禁地背过头去，反复地啄着羽毛，就像随身带了一把梳子梳头发一样，顺便上上油，让羽毛更光滑。另外，鸟儿在理毛的时候，还会抓出一点儿寄生虫。\n毫无疑问，洗澡也是保养的一大基本项目。不过，鸟儿洗澡用不着肥皂，而且不同种类的鸟儿选择的“澡堂”也不一样，概括来说，就是以方便为原则。比如，海鸟在岛屿上生活，就会选择海水；知更鸟喜欢路旁的浅水坑；寒带的鸟呢，因为江河池塘不好找，只好以雪代水；而老鹰的洗澡方式更是直接，它们会在雨中张开双翅痛快地迎接洗礼！沙浴也是一些鸟儿喜欢的保养方式。所谓沙浴，就是用沙子洗澡，它们之所以放弃了用水洗澡，在很大程度上和它们的生活环境有关，它们大多生活在沙漠等干燥的环境，爱在地面上活动。\n另外，睡眠是鸟儿们最佳的保养方式，虽然我们很少看到睡眠中的鸟儿，那是因为它们通常会寻找一处秘密的地方休息。大多数鸟儿1天大约睡8小时，有些鸟儿差不多要睡1天，而另一些鸟儿几乎一点儿也就不用睡。",
+  "text_translation": {
+    "zh": "",
+    "ru": "Все мы видели птиц, но знаете ли вы, какая их черта самая главная? Не умение летать, а перья! Только перья отличают птиц от других животных. Они греют, защищают кожу, служат маскировкой, помогают летать, а у некоторых видов даже осязают. Неудивительно, что птицы так тщательно ухаживают за ними: чистят клювом, «смазывают» маслом, вылавливают паразитов. Купаются они тоже по-разному: морские — в море, малиновки — в лужах, полярные — в снегу, а орлы — прямо под дождём, распахнув крылья. Некоторые предпочитают «песчаные ванны» — особенно живущие в пустыне. Ну и, конечно, сон — лучший уход: большинство птиц спит около 8 часов в сутки, а некоторые — почти круглосуточно.",
+    "tk": "Hemmäňiz guşlary görüpsiz, welin olaryň iň möhüm aýratynlygyny bilýäňizmi? Ganatly bolup uçmakmy ýa-da mör-möjek iýmekmi? Bir guş bolmak üçin, asmanda uçýan, ýerde ýöreýän ýa-da suwa çümüp bilýän bolsa-da, hökman ýelekleri bolmaly. Hawa, guşlary beýleki haýwanlardan tapawutlandyrýan ýeke-täk aýratynlyk ýelekdir, uçmak däl! Ýelekleriň köp peýdasy bar: hem ýylylyk saklaýar, hem derini goraýar; ýelekdäki reňkler we tegmilller gorag reňki bolup biler; elbetde, iň möhümi, ýelek uçmaga kömek edýär; hatda käbir guşlaryň käbir ýeleklerinde \"duýgy\" hem bar. Gysgaça aýtsak, guşlaryň durmuşynda ýelek örän möhüm rol oýnaýar. Şonuň üçin guşlar ýeleklerine örän aýawly çemeleşýärler we her gün öz \"ýelek donlaryny\" bejermek üçin uzak wagt sarp edýärler.\n\nÝelekleri düzetmek bejerginiň esasy usulydyr; wagtlary bolsa, yzyna öwrülip, ýeleklerini gaýta-gaýta çoklap başlaýarlar, edil özi bilen darak göterip saç taralýan ýaly, şol bir wagtyň özünde ýag çalyp, ýelekleri has ýylmanak edýärler. Mundan başga-da, guşlar ýeleklerini düzedende, biraz parazit hem çykarýarlar.\n\nŞübhesiz, suwda ýuwunmak hem bejerginiň esasy bölümleriniň biridir. Ýöne guşlar ýuwunmak üçin sabyn ulanmaýarlar we dürli görnüşli guşlar dürli \"hammamlary\" saýlaýarlar; umumy aýdanda, amatlylyk ýörelgesine esaslanýarlar. Meselem, deňiz guşlary adalarda ýaşaýandyklary üçin deňiz suwuny saýlaýarlar; garaguşlar ýoluň gyrasyndaky ýalpak suw çukurlaryny halaýarlar; sowuk zolagyň guşlary bolsa derýa we howuz tapmak kyn bolany üçin gar bilen suwuň ornuny tutýarlar; bürgütleriň ýuwunmak usuly has göni: ýagyşda ganatlaryny açyp, şatlyk bilen suwa çümýärler! Gumda ýuwunmak hem käbir guşlaryň halaýan bejeriş usulydyr.",
+    "en": "We've all seen birds — but do you know their most important feature? Not flight, but feathers! Feathers are the only feature that distinguishes birds from other animals. They provide warmth, protect skin, serve as camouflage, help with flight, and some even have a tactile function. No wonder birds care for them so carefully: preening with their beaks, spreading oil, removing parasites. Their bathing methods vary: seabirds in the sea, robins in shallow puddles, polar birds in snow, and eagles directly in the rain with wings spread wide. Some prefer 'sand baths' — especially those living in deserts. And, of course, sleep is the best care: most birds sleep about 8 hours a day, some nearly the whole day.",
+    "uz": "Hammamiz qushlarni ko'rganmiz, lekin ularning eng muhim xususiyati nima ekanini bilasizmi? Qanotli bo'lib ucha olishmi yoki hasharotlar bilan oziqlanishmi? Qush bo'lish uchun, osmonda uchadigan, quruqlikda yuradigan yoki suvga tushadigan bo'lsa ham, albatta patlari bo'lishi kerak. Ha, qushlarni boshqa hayvonlardan ajratib turadigan yagona xususiyat — bu patlar, ucha olish emas! Patlarning ko'p foydasi bor: ham isitadi, ham terini himoya qiladi; patlardagi ranglar va dog'lar himoya rang vazifasini o'tashi mumkin; albatta, eng muhimi, patlar uchishga yordam beradi; hatto ba'zi qushlarning ayrim patlarida \"tuyg'u\" ham bor. Xullas, qushlar hayotida patlar juda muhim rol o'ynaydi. Shuning uchun qushlar patlariga juda ehtiyotkorlik bilan munosabatda bo'lishadi va har kuni o'zlarining \"pat liboslarini\" parvarish qilish uchun uzoq vaqt sarflashadi.\n\nPatlarni tartibga solish parvarishning asosiy usulidir; vaqtlari bo'lsa, orqalariga o'girilib, patlarini qayta-qayta cho'qishadi, xuddi o'zlari bilan taroq olib soch taragandek, shu bilan birga yog' surtib, patlarini yanada silliq qilishadi. Bundan tashqari, qushlar patlarini tartibga solayotganda, bir oz parazitlarni ham chiqarib tashlashadi.\n\nShubhasiz, cho'milish ham parvarishning asosiy qismlaridan biridir. Lekin qushlar cho'milish uchun sovun ishlatmaydilar va turli xil qushlar turli \"hammomlarni\" tanlaydilar; umuman aytganda, qulaylik tamoyiliga asoslanadilar. Masalan, dengiz qushlari orollarda yashagani uchun dengiz suvini tanlaydilar; qoraqushlar yo'l chetidagi sayoz suv ko'lmaklarini yaxshi ko'radilar; sovuq mintaqa qushlari esa daryo va hovuz topish qiyin bo'lgani uchun qor bilan suvning o'rnini to'ldiradilar; burgutlarning cho'milish usuli esa yanada to'g'ridan-to'g'ri: ular yomg'irda qanotlarini ochib, zavq bilan suvga cho'mishadi! Qumda cho'milish ham ba'zi qushlar yoqtiradigan parvarish usulidir.",
+    "tg": "Ҳамаи мо паррандаҳоро дидаем, аммо оё шумо медонед, ки муҳимтарин хусусияти онҳо чист? Оё болдор будан ва парвоз кардан аст ё ҳашарот хӯрдан? Барои парранда будан, хоҳ дар осмон парвоз кунад, хоҳ дар замин гардад ё ба об фурӯ равад, бояд пар дошта бошад. Бале, ягона хусусияте, ки паррандаҳоро аз дигар ҳайвонот фарқ мекунад, пар аст, на қобилияти парвоз! Парҳо фоидаи зиёд доранд: ҳам гармӣ нигоҳ медоранд, ҳам пӯстро ҳифз мекунанд; рангҳо ва доғҳои пар метавонанд ҳамчун ранги ҳимоявӣ хизмат кунанд; албатта, муҳимтаринаш ин аст, ки пар ба парвоз кӯмак мекунад; ҳатто баъзе паррандаҳо дар қисми парҳояшон \"ҳисси ломиса\" доранд. Хулоса, дар ҳаёти паррандаҳо пар нақши хеле муҳим мебозад. Бинобар ин, паррандаҳо ба парҳояшон хеле эҳтиёткорона муносибат мекунанд ва ҳар рӯз вақти зиёдро барои нигоҳубини \"либоси пари\" худ сарф мекунанд.\n\nТартиб додани пар асоси нигоҳубин аст; вақте ки вақт дошта бошанд, аз ақиб сар мегардонанд ва парҳояшонро такрор-такрор мечӯбанд, мисли он ки бо худ шона гирифта мӯйро шона мекунанд, дар ҳамон вақт равған мемоланд, то парҳо ҳамвортар шаванд. Илова бар ин, паррандаҳо ҳангоми тартиб додани парҳояшон каме паразитҳоро низ мебароваранд.\n\nБешубҳа, оббозӣ кардан низ яке аз қисмҳои асосии нигоҳубин аст. Аммо паррандаҳо барои оббозӣ собун истифода намебаранд ва навъҳои гуногуни паррандаҳо \"ҳаммом\"-ҳои гуногунро интихоб мекунанд; умуман, ба принсипи қулайӣ асос меёбанд. Масалан, паррандаҳои баҳрӣ дар ҷазираҳо зиндагӣ мекунанд, бинобар ин оби баҳрро интихоб мекунанд; мурғобиҳо кӯлчаҳои канори роҳро дӯст медоранд; паррандаҳои минтақаи хунук бошад, чунки дарёву ҳавзҳоро ёфтан душвор аст, ба ҷои об барфро истифода мебаранд; усули оббозии уқобҳо боз ҳам бевосита аст: онҳо дар борон болҳояшонро кушода, бо шодӣ ба оббозӣ мераванд! Оббозӣ дар рег низ яке аз усулҳои нигоҳубинест, ки баъзе паррандаҳо дӯст медоранд.",
+    "id": "Kita semua pernah melihat burung, bukan? Tapi tahukah kamu apa ciri terpenting burung? Apakah punya sayap dan bisa terbang? Atau makan serangga? Sebagai seekor burung, baik yang terbang di langit, berjalan di darat, atau yang bisa masuk ke air, semuanya harus memiliki bulu. Benar, satu-satunya ciri yang membedakan burung dari hewan lain adalah bulu, bukan kemampuan terbang! Bulu memiliki banyak fungsi: bisa menghangatkan, juga melindungi kulit; warna dan bercak pada bulu bisa berfungsi sebagai kamuflase; tentu saja, yang lebih penting, bulu membantu terbang; bahkan beberapa burung memiliki sebagian bulu yang berfungsi sebagai \"sentuhan\". Singkatnya, dalam kehidupan burung, bulu memainkan peran yang sangat penting. Jadi, burung sangat menyayangi bulunya, setiap hari menghabiskan waktu lama untuk merawat \"mantel bulu\" mereka.\n\nMerapikan bulu adalah keterampilan dasar dalam perawatan; setiap kali ada waktu, mereka tanpa sadar menoleh ke belakang dan berulang kali mematuk bulu mereka, seperti membawa sisir untuk menyisir rambut, sekaligus memberi minyak agar bulu lebih halus. Selain itu, saat merapikan bulu, burung juga mengeluarkan sedikit parasit.\n\nTidak diragukan lagi, mandi juga merupakan salah satu kegiatan dasar dalam perawatan. Namun, burung tidak perlu sabun untuk mandi, dan jenis burung yang berbeda memilih \"pemandian\" yang berbeda pula; secara umum, prinsipnya adalah yang praktis. Misalnya, burung laut yang hidup di pulau memilih air laut; burung robin menyukai genangan air dangkal di tepi jalan; burung di daerah dingin, karena sungai dan kolam sulit ditemukan, terpaksa menggunakan salju sebagai pengganti air; dan cara mandi elang bahkan lebih langsung, mereka membuka kedua sayap di bawah hujan untuk menyambut baptisan dengan gembira! Mandi pasir juga merupakan cara perawatan yang disukai sebagian burung.",
+    "tr": "Hepimiz kuşları görmüşüzdür, peki kuşların en önemli özelliğinin ne olduğunu biliyor musunuz? Kanatlı olup uçmak mı, yoksa böcek yemek mi? Bir kuş olmak için, ister gökyüzünde uçsun, ister karada yürüsün, ister suya girebilsin, mutlaka tüyleri olmalıdır. Evet, kuşları diğer hayvanlardan ayıran tek özellik tüylerdir, uçabilmek değil! Tüylerin birçok işlevi vardır: hem ısıtır, hem deriyi korur; tüylerdeki renkler ve lekeler kamuflaj görevi görebilir; elbette en önemlisi, tüyler uçmaya yardımcı olur; hatta bazı kuşların bazı tüylerinde \"dokunma\" duyusu bile vardır. Kısacası, kuşların yaşamında tüyler çok önemli bir rol oynar. Bu yüzden kuşlar tüylerine çok özen gösterir ve her gün \"tüy elbiselerini\" bakımı için uzun zaman harcarlar.\n\nTüyleri düzeltmek bakımın temelidir; ne zaman vakitleri olsa, kendiliğinden arkalarına dönüp tüylerini tekrar tekrar gagalarlar, sanki yanlarında bir tarak taşıyıp saç tarıyorlarmış gibi, aynı zamanda yağ sürerek tüylerini daha pürüzsüz hale getirirler. Ayrıca kuşlar tüylerini düzeltirken biraz parazit de çıkarırlar.\n\nŞüphesiz, yıkanmak da bakımın temel unsurlarından biridir. Ancak kuşlar yıkanmak için sabun kullanmaz ve farklı kuş türleri farklı \"banyolar\" seçer; genel olarak, kolaylık ilkesine dayanırlar. Örneğin, deniz kuşları adalarda yaşadıkları için deniz suyunu seçer; kızılgerdanlar yol kenarındaki sığ su birikintilerini sever; soğuk bölge kuşları ise nehir ve gölet bulmak zor olduğu için su yerine karı kullanır; kartalların yıkanma yöntemi ise daha da doğrudandır: yağmurda kanatlarını açıp keyifle vaftizi karşılarlar! Kum banyosu da bazı kuşların sevdiği bir bakım yöntemidir."
+  },
+  "vocabulary": [
+    {
+      "hanzi": "接触",
+      "pinyin": "jiēchù",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "контактировать, соприкасаться",
+        "tk": "aragatnaşyk saklamak, degmek",
+        "en": "to contact, to get in touch with",
+        "uz": "aloqaga o'tmoq, tegmoq",
+        "tg": "тамос кардан, дастрасӣ доштан",
+        "id": "menghubungi, bersentuhan",
+        "tr": "temas etmek, iletişime geçmek"
+      }
+    },
+    {
+      "hanzi": "特征",
+      "pinyin": "tèzhēng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "характерная черта",
+        "tk": "aýratynlyk",
+        "en": "feature, characteristic",
+        "uz": "xususiyat",
+        "tg": "хусусият",
+        "id": "ciri",
+        "tr": "özellik"
+      }
+    },
+    {
+      "hanzi": "翅膀",
+      "pinyin": "chìbǎng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "крыло",
+        "tk": "ganat",
+        "en": "wing",
+        "uz": "qanot",
+        "tg": "бол",
+        "id": "sayap",
+        "tr": "kanat"
+      }
+    },
+    {
+      "hanzi": "昆虫",
+      "pinyin": "kūnchóng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "насекомое",
+        "tk": "mör-möjek",
+        "en": "insect",
+        "uz": "hasharot",
+        "tg": "ҳашарот",
+        "id": "serangga",
+        "tr": "böcek"
+      }
+    },
+    {
+      "hanzi": "天空",
+      "pinyin": "tiānkōng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "небо",
+        "tk": "asman",
+        "en": "sky",
+        "uz": "osmon",
+        "tg": "осмон",
+        "id": "langit",
+        "tr": "gökyüzü"
+      }
+    },
+    {
+      "hanzi": "区分",
+      "pinyin": "qūfēn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "различать, отличать",
+        "tk": "tapawutlandyrmak",
+        "en": "to distinguish, to differentiate",
+        "uz": "farqlamoq",
+        "tg": "фарқ кардан",
+        "id": "membedakan",
+        "tr": "ayırt etmek"
+      }
+    },
+    {
+      "hanzi": "唯一",
+      "pinyin": "wéiyī",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "единственный",
+        "tk": "ýeke-täk",
+        "en": "only, sole",
+        "uz": "yagona",
+        "tg": "ягона",
+        "id": "satu-satunya",
+        "tr": "tek"
+      }
+    },
+    {
+      "hanzi": "斑",
+      "pinyin": "bān",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "пятно, полоса",
+        "tk": "tegmillik, zolak",
+        "en": "spot, speckle, stripe",
+        "uz": "dog', chiziq",
+        "tg": "доғ, рахи",
+        "id": "bintik, garis",
+        "tr": "leke, çizgi"
+      }
+    },
+    {
+      "hanzi": "充当",
+      "pinyin": "chōngdāng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "играть роль, служить",
+        "tk": "rol oýnamak, hyzmat etmek",
+        "en": "to serve as, to play the part of",
+        "uz": "rol o'ynamoq, xizmat qilmoq",
+        "tg": "нақш бозидан, хизмат кардан",
+        "id": "berperan sebagai, berfungsi sebagai",
+        "tr": "rol oynamak, hizmet etmek"
+      }
+    },
+    {
+      "hanzi": "总之",
+      "pinyin": "zǒngzhī",
+      "pos": "conj.",
+      "meaning": {
+        "zh": "",
+        "ru": "короче говоря",
+        "tk": "gysgaça aýdanda",
+        "en": "in short, in brief",
+        "uz": "qisqasi",
+        "tg": "хулоса",
+        "id": "singkatnya",
+        "tr": "kısacası"
+      }
+    },
+    {
+      "hanzi": "角色",
+      "pinyin": "juésè",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "роль, персонаж",
+        "tk": "rol",
+        "en": "role, part",
+        "uz": "rol",
+        "tg": "нақш",
+        "id": "peran",
+        "tr": "rol"
+      }
+    },
+    {
+      "hanzi": "爱惜",
+      "pinyin": "àixī",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "беречь, дорожить",
+        "tk": "göwün bermek, gadyryny bilmek",
+        "en": "to cherish, to treasure",
+        "uz": "asramoq, qadrlamoq",
+        "tg": "нигоҳ доштан, қадр кардан",
+        "id": "menjaga, menghargai",
+        "tr": "korumak, değer vermek"
+      }
+    },
+    {
+      "hanzi": "保养",
+      "pinyin": "bǎoyǎng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "ухаживать, поддерживать",
+        "tk": "seretmek, ideg etmek",
+        "en": "to take good care of",
+        "uz": "parvarish qilmoq, saqlamoq",
+        "tg": "нигоҳубин кардан, нигаҳдорӣ кардан",
+        "id": "merawat, memelihara",
+        "tr": "bakım yapmak, iyi bakmak"
+      }
+    },
+    {
+      "hanzi": "反复",
+      "pinyin": "fǎnfù",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "неоднократно, снова и снова",
+        "tk": "gaýta-gaýta",
+        "en": "repeatedly, over and over again",
+        "uz": "qayta-qayta",
+        "tg": "такрор",
+        "id": "berulang-ulang",
+        "tr": "tekrar tekrar"
+      }
+    },
+    {
+      "hanzi": "啄",
+      "pinyin": "zhuó",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "клевать",
+        "tk": "çokmak",
+        "en": "to peck",
+        "uz": "cho'qimoq",
+        "tg": "чӯкидан",
+        "id": "mematuk",
+        "tr": "gagalamak"
+      }
+    },
+    {
+      "hanzi": "随身",
+      "pinyin": "suíshēn",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "при себе, с собой",
+        "tk": "ýanynda götermek",
+        "en": "to carry with one",
+        "uz": "o'zi bilan olib yurmoq",
+        "tg": "ҳамроҳ доштан",
+        "id": "membawa bersama",
+        "tr": "yanında taşımak"
+      }
+    },
+    {
+      "hanzi": "梳子",
+      "pinyin": "shūzi",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "расчёска",
+        "tk": "darak",
+        "en": "comb",
+        "uz": "taroq",
+        "tg": "шона",
+        "id": "sisir",
+        "tr": "tarak"
+      }
+    },
+    {
+      "hanzi": "光滑",
+      "pinyin": "guānghuá",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "гладкий",
+        "tk": "süýüm-süýüm, tekiz",
+        "en": "smooth, glossy",
+        "uz": "silliq",
+        "tg": "ҳамвор",
+        "id": "halus, licin",
+        "tr": "pürüzsüz, parlak"
+      }
+    },
+    {
+      "hanzi": "抓",
+      "pinyin": "zhuā",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "хватать, ловить",
+        "tk": "tutmak, tutup almak",
+        "en": "to grab, to seize",
+        "uz": "ushlamoq, tutmoq",
+        "tg": "гирифтан, қапидан",
+        "id": "menangkap, menggenggam",
+        "tr": "yakalamak, tutmak"
+      }
+    },
+    {
+      "hanzi": "寄生",
+      "pinyin": "jìshēng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "паразитировать",
+        "tk": "parazitlik etmek",
+        "en": "to live on another animal",
+        "uz": "parazitlik qilmoq",
+        "tg": "паразитӣ кардан",
+        "id": "menumpang hidup",
+        "tr": "asalaklık etmek"
+      }
+    },
+    {
+      "hanzi": "肥皂",
+      "pinyin": "féizào",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "мыло",
+        "tk": "sabyn",
+        "en": "soap",
+        "uz": "sovun",
+        "tg": "собун",
+        "id": "sabun",
+        "tr": "sabun"
+      }
+    },
+    {
+      "hanzi": "种类",
+      "pinyin": "zhǒnglèi",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "вид, разновидность",
+        "tk": "görnüş",
+        "en": "kind, category",
+        "uz": "tur",
+        "tg": "навъ",
+        "id": "jenis",
+        "tr": "tür"
+      }
+    },
+    {
+      "hanzi": "概括",
+      "pinyin": "gàikuò",
+      "pos": "adj./v.",
+      "meaning": {
+        "zh": "",
+        "ru": "обобщённый; обобщать",
+        "tk": "jemlemek; gysgaltmak",
+        "en": "brief; to summarize",
+        "uz": "umumlashtirmoq; qisqacha bayon qilmoq",
+        "tg": "хулоса кардан; ҷамъбаст кардан",
+        "id": "meringkas; menyimpulkan",
+        "tr": "özetlemek; genelleştirmek"
+      }
+    },
+    {
+      "hanzi": "岛屿",
+      "pinyin": "dǎoyǔ",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "остров",
+        "tk": "ada",
+        "en": "island",
+        "uz": "orol",
+        "tg": "ҷазира",
+        "id": "pulau",
+        "tr": "ada"
+      }
+    },
+    {
+      "hanzi": "知更鸟",
+      "pinyin": "zhīgēngniǎo",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "малиновка",
+        "tk": "garğa",
+        "en": "robin, redbreast",
+        "uz": "qizilishton",
+        "tg": "булбул",
+        "id": "robin",
+        "tr": "kızılgerdan"
+      }
+    },
+    {
+      "hanzi": "坑",
+      "pinyin": "kēng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "яма, углубление",
+        "tk": "çukur, gowak",
+        "en": "pit, hollow",
+        "uz": "chuqur, o'ra",
+        "tg": "чоҳ, чуқурӣ",
+        "id": "lubang, cekungan",
+        "tr": "çukur, oyuk"
+      }
+    },
+    {
+      "hanzi": "池塘",
+      "pinyin": "chítáng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "пруд",
+        "tk": "howuz",
+        "en": "pond",
+        "uz": "hovuz",
+        "tg": "ҳавз",
+        "id": "kolam",
+        "tr": "gölet"
+      }
+    },
+    {
+      "hanzi": "老鹰",
+      "pinyin": "lǎoyīng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "орёл, ястреб",
+        "tk": "bürgüt, gyrgy",
+        "en": "eagle, hawk",
+        "uz": "burgut, qarchigʻay",
+        "tg": "уқоб, шоҳин",
+        "id": "elang, rajawali",
+        "tr": "kartal, şahin"
+      }
+    },
+    {
+      "hanzi": "痛快",
+      "pinyin": "tòngkuài",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "с удовольствием, от души",
+        "tk": "lezzetli, göwnüňden",
+        "en": "to one's heart's content",
+        "uz": "maza qilib, ko'ngildagidek",
+        "tg": "бо завқ, аз дил",
+        "id": "sepuasnya, dengan senang hati",
+        "tr": "gönlünce, doyasıya"
+      }
+    },
+    {
+      "hanzi": "迎接",
+      "pinyin": "yíngjiē",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "встречать, приветствовать",
+        "tk": "garşylamak",
+        "en": "to receive, to greet",
+        "uz": "qarshi olmoq",
+        "tg": "пешвоз гирифтан",
+        "id": "menyambut",
+        "tr": "karşılamak"
+      }
+    },
+    {
+      "hanzi": "洗礼",
+      "pinyin": "xǐlǐ",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "крещение, омовение",
+        "tk": "çokundyrylma, ýuwulma däbi",
+        "en": "baptism, washing ceremony",
+        "uz": "cho'qintirish, yuvish marosimi",
+        "tg": "таъмид, ғусл",
+        "id": "baptisan, upacara penyucian",
+        "tr": "vaftiz, yıkanma töreni"
+      }
+    },
+    {
+      "hanzi": "沙子",
+      "pinyin": "shāzi",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "песок",
+        "tk": "çäge",
+        "en": "sand",
+        "uz": "qum",
+        "tg": "рег",
+        "id": "pasir",
+        "tr": "kum"
+      }
+    },
+    {
+      "hanzi": "干燥",
+      "pinyin": "gānzào",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "сухой",
+        "tk": "gury",
+        "en": "dry, arid",
+        "uz": "quruq",
+        "tg": "хушк",
+        "id": "kering",
+        "tr": "kuru"
+      }
+    },
+    {
+      "hanzi": "秘密",
+      "pinyin": "mìmì",
+      "pos": "adj./n.",
+      "meaning": {
+        "zh": "",
+        "ru": "секретный; секрет",
+        "tk": "gizlin; syr",
+        "en": "secret",
+        "uz": "maxfiy; sir",
+        "tg": "маҳфӣ; сир",
+        "id": "rahasia",
+        "tr": "gizli; sır"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "总之",
+      "pos": "conj.",
+      "explanation": {
+        "ru": "«总之» — союз, подводит итог сказанному выше: «в общем, короче говоря».",
+        "en": "«总之» — conjunction, sums up what was said: 'in short, in a word'.",
+        "tk": "«总之» — baglaýjy, öň aýdylanlary jemleýär: «umuman aýdanyňda, gysgaça aýtsak».",
+        "uz": "«总之» — bog‘lovchi, yuqorida aytilganlarni umumlashtiradi: «umuman olganda, qisqasi».",
+        "tg": "«总之» — пайвандак, гуфтаҳои болоро ҷамъбаст мекунад: «дар маҷмӯъ, хулоса».",
+        "id": "«总之» — konjungsi, merangkum apa yang telah dikatakan: 'singkatnya, pendek kata'.",
+        "tr": "«总之» — bağlaç, yukarıda söylenenleri özetler: 'kısacası, sözün kısası'."
+      },
+      "formula": {
+        "ru": "……, 总之 + 总结性小句",
+        "en": "..., 总之 + summary clause",
+        "tk": "gysgaça aýdanyňda",
+        "uz": "qisqasi",
+        "tg": "хулоса",
+        "id": "singkatnya",
+        "tr": "kısacası"
+      },
+      "examples": [
+        {
+          "zh": "暑假我可能去上海、南京，还有杭州，总之，想去南方几个城市转转。",
+          "ru": "На летних каникулах я, возможно, поеду в Шанхай, Нанкин и Ханчжоу — короче, хочу проехаться по нескольким южным городам.",
+          "en": "In summer vacation I might go to Shanghai, Nanjing, and Hangzhou — in short, I want to tour several southern cities.",
+          "tk": "Tomusky dynç alyşda men Şanhaýa, Nankine we Hançžoua gitmegim mümkin, gysgaça aýtsam, günorta birnäçe şähere aýlanmak isleýärin.",
+          "uz": "Yozgi ta'tilda men Shanxay, Nankin va Xanchjouga borishim mumkin, qisqasi, janubdagi bir nechta shaharlarni kezishni xohlayman.",
+          "tg": "Дар таътили тобистон ман эҳтимол ба Шанхай, Нанкин ва Ханчжоу меравам, хулоса, мехоҳам ба чанд шаҳри ҷанубӣ сайр кунам.",
+          "id": "Libur musim panas saya mungkin pergi ke Shanghai, Nanjing, dan Hangzhou, singkatnya, saya ingin berkeliling ke beberapa kota di selatan.",
+          "tr": "Yaz tatilinde muhtemelen Şanghay, Nankin ve Hangzhou'ya gideceğim, kısacası, güneydeki birkaç şehri gezmek istiyorum."
+        },
+        {
+          "zh": "总之，在鸟儿的生活中，羽毛充当着十分重要的角色。",
+          "ru": "Словом, в жизни птиц перья играют очень важную роль.",
+          "en": "In short, feathers play a very important role in birds' lives.",
+          "tk": "Gysgaça aýdanyňda, guşlaryň durmuşynda ýelekler örän möhüm rol oýnaýar.",
+          "uz": "Xullas, qushlar hayotida patlar juda muhim rol o'ynaydi.",
+          "tg": "Хулоса, дар ҳаёти паррандагон парҳо нақши хеле муҳим мебозанд.",
+          "id": "Singkatnya, bulu memainkan peran yang sangat penting dalam kehidupan burung.",
+          "tr": "Kısacası, kuşların yaşamında tüyler çok önemli bir rol oynar."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "不管你去不去，__。",
+          "answer": "总之我都要去。"
+        }
+      ]
+    },
+    {
+      "word": "动词+过",
+      "pos": "structure",
+      "explanation": {
+        "ru": "Конструкция «动词+过» означает «через действие изменить направление» или «переместить положение».",
+        "en": "The pattern 'verb + 过' means 'change direction by action' or 'shift position'.",
+        "tk": "«Feil + 过» gurluşy «hereket arkaly ugruny üýtgetmek» ýa-da «ýagdaýyny üýtgetmek» manylaryny aňladýar.",
+        "uz": "«Fe'l + 过» konstruksiyasi «harakat orqali yo'nalishni o'zgartirish» yoki «holatni o'zgartirish» ma'nolarini bildiradi.",
+        "tg": "Тарҳи «Феъл + 过» маънои «тавассути амал самтро тағйир додан» ё «мавқеъро иваз кардан»-ро дорад.",
+        "id": "Pola «kata kerja + 过» berarti «mengubah arah melalui tindakan» atau «mengubah posisi».",
+        "tr": "«Fiil + 过» yapısı «eylem yoluyla yön değiştirmek» veya «konumu değiştirmek» anlamına gelir."
+      },
+      "formula": {
+        "ru": "动词 + 过",
+        "en": "verb + 过",
+        "tk": "işlik + 过",
+        "uz": "fe'l + 过",
+        "tg": "феъл + 过",
+        "id": "verba + 过",
+        "tr": "fiil + 过"
+      },
+      "examples": [
+        {
+          "zh": "他转过身，一句话也不说。",
+          "ru": "Он повернулся и не сказал ни слова.",
+          "en": "He turned around without saying a word.",
+          "tk": "Ol öwrüldi-de, bir söz hem aýtmady.",
+          "uz": "U yuzini o'girdi-da, bir og'iz ham so'z aytmadi.",
+          "tg": "Ӯ рӯй гардонд ва як сухан ҳам нагуфт.",
+          "id": "Dia berbalik tanpa mengucapkan sepatah kata pun.",
+          "tr": "Arkasını döndü ve tek bir kelime bile söylemedi."
+        },
+        {
+          "zh": "它们只要有时间，就会情不自禁地背过头去，反复地啄着羽毛。",
+          "ru": "Как только у них есть время, они невольно поворачивают голову назад и снова и снова перебирают перья клювом.",
+          "en": "Whenever they have time, they can't help turning their heads back and pecking their feathers repeatedly.",
+          "tk": "Wagt tapyp bilseler, özlerini saklap bilmän kellelerini yzyna öwürýärler we ýeleklerini gaýta-gaýta çokýarlar.",
+          "uz": "Qachonki vaqtlari bo'lsa, o'zlarini tutib turolmay boshlarini orqaga burib, patlarini qayta-qayta cho'qishadi.",
+          "tg": "Ҳар вақте ки вақт дошта бошанд, худро нигоҳ дошта наметавонанд ва сарашонро ба қафо гардонда, пару болро такрор ба такрор чунҷ мезананд.",
+          "id": "Setiap kali mereka punya waktu, mereka tidak bisa menahan diri untuk menoleh ke belakang dan mematuk bulu-bulunya berulang kali.",
+          "tr": "Ne zaman vakitleri olsa, kendilerini tutamayıp başlarını geriye çevirir ve tüylerini tekrar tekrar gagalarlar."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "你回__头就可以看见我了。",
+          "answer": "过"
+        }
+      ]
+    },
+    {
+      "word": "动词+开",
+      "pos": "structure",
+      "explanation": {
+        "ru": "Конструкция «动词+开» означает «развернуть, распахнуть, развернуться».",
+        "en": "The pattern 'verb + 开' means 'to spread, to unfold, to open wide'.",
+        "tk": "«Işlik + 开» gurluşy «ýazmak, açmak, ýaýratmak» manylaryny aňladýar.",
+        "uz": "«Fe'l + 开» konstruksiyasi «yoymoq, ochmoq, keng ochmoq» ma'nolarini bildiradi.",
+        "tg": "Сохтори «феъл + 开» маънои «кушодан, паҳн кардан, боз кардан»-ро дорад.",
+        "id": "Pola 'verba + 开' berarti 'menyebarkan, membuka lebar, mengembangkan'.",
+        "tr": "'Fiil + 开' yapısı 'yaymak, açmak, ardına kadar açmak' anlamına gelir."
+      },
+      "formula": {
+        "ru": "动词 + 开",
+        "en": "verb + 开",
+        "tk": "işlik + 开",
+        "uz": "fe'l + 开",
+        "tg": "феъл + 开",
+        "id": "verba + 开",
+        "tr": "fiil + 开"
+      },
+      "examples": [
+        {
+          "zh": "猴子突然站了起来，张开手臂，抱住了管理员。",
+          "ru": "Обезьяна вдруг встала, раскрыла объятия и обняла смотрителя.",
+          "en": "The monkey suddenly stood up, spread its arms, and hugged the keeper.",
+          "tk": "Maýmyn birden turup, gollaryny açdy we serdary gujaklady.",
+          "uz": "Maymun birdan o'rnidan turib, qo'llarini ochdi va qo'riqchini quchoqladi.",
+          "tg": "Маймун ногаҳон бархост, дастҳояшро кушод ва нигаҳбони боғро оғӯш гирифт.",
+          "id": "Monyet itu tiba-tiba berdiri, membuka tangannya, dan memeluk penjaga itu.",
+          "tr": "Maymun aniden ayağa kalktı, kollarını açtı ve bakıcıya sarıldı."
+        },
+        {
+          "zh": "而老鹰的洗澡方式更是直接，它们会在雨中张开双翅痛快地迎接洗礼！",
+          "ru": "А орлы моются ещё проще — они распахивают крылья под дождём, принимая такое «крещение»!",
+          "en": "Eagles bathe even more directly — they spread their wings in the rain, happily welcoming the shower!",
+          "tk": "Bürgütleriň suwa düşüş usuly has-da göni — olar ýagşyň astynda ganatlaryny giň açyp, şol «çokundyrylyşy» şatlyk bilen garşylaýarlar!",
+          "uz": "Burgutlarning cho'milish usuli yanada to'g'ridan-to'g'ri — ular yomg'ir ostida qanotlarini keng yoyib, bu «cho'miltirish»ni xursandchilik bilan qarshi oladilar!",
+          "tg": "Усули оббозӣ кардани уқобҳо боз ҳам соддатар аст — онҳо дар зери борон болҳои худро кушода, ин «таъмид»-ро бо шодӣ қабул мекунанд!",
+          "id": "Cara elang mandi bahkan lebih langsung — mereka membentangkan sayap di bawah hujan, dengan gembira menyambut 'baptisan' itu!",
+          "tr": "Kartalların yıkanma şekli ise daha da doğrudan — yağmurun altında kanatlarını açıp bu 'vaftizi' keyifle karşılarlar!"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "回家时，妈妈张__双臂迎接我。",
+          "answer": "开"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "反复",
+      "word_b": "重复",
+      "common": {
+        "ru": "Оба означают «больше одного раза».",
+        "en": "Both mean 'more than once'.",
+        "tk": "Gaýtalamak vs gaýtalamak",
+        "uz": "Takrorlash vs takrorlash",
+        "tg": "Такрор vs такрор",
+        "id": "Berulang vs mengulang",
+        "tr": "Tekrarlamak vs yinelemek"
+      },
+      "differences": [
+        {
+          "ru": "«反复» — наречие: «снова и снова»; также глагол о возврате болезни; существительное о нестабильности.",
+          "en": "«反复» — adverb: 'over and over'; also verb of illness relapsing; noun of instability.",
+          "tk": "«反复» — hal: «gaýta-gaýta»; şeýle hem keseliň gaýtalanmagy barada işlik; durnuksyzlyk barada at.",
+          "uz": "«反复» — ravish: «qayta-qayta»; shuningdek, kasallikning qaytalanishi haqida fe'l; beqarorlik haqida ot.",
+          "tg": "«反复» — зарф: «борҳо ва боз»; инчунин феъл дар бораи бозгашти беморӣ; исм дар бораи ноустуворӣ.",
+          "id": "«反复» — adverbia: «berulang-ulang»; juga verba tentang kambuhnya penyakit; nomina tentang ketidakstabilan.",
+          "tr": "«反复» — zarf: «tekrar tekrar»; ayrıca hastalığın nüksetmesiyle ilgili fiil; istikrarsızlıkla ilgili isim."
+        },
+        {
+          "ru": "«重复» — глагол: «повторять одно и то же».",
+          "en": "«重复» — verb: 'to repeat the same thing'.",
+          "tk": "«重复» — işlik: «bir zady gaýtalap durmak».",
+          "uz": "«重复» — fe'l: «bir xil narsani takrorlash».",
+          "tg": "«重复» — феъл: «як чизро такрор кардан».",
+          "id": "«重复» — kata kerja: «mengulangi hal yang sama».",
+          "tr": "«重复» — fiil: «aynı şeyi tekrarlamak»."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "zh": "地理环境",
+      "ru": "Географическая среда",
+      "en": "Geographical environment",
+      "tk": "Geografik gurşaw",
+      "uz": "Geografik muhit",
+      "tg": "Муҳити ҷуғрофӣ",
+      "id": "Lingkungan geografis",
+      "tr": "Coğrafi çevre"
+    },
+    "words": [
+      {
+        "hanzi": "天空",
+        "pinyin": "tiānkōng",
+        "meaning": {
+          "zh": "",
+          "ru": "небо",
+          "en": "sky",
+          "tk": "asman",
+          "uz": "osmon",
+          "tg": "осмон",
+          "id": "langit",
+          "tr": "gökyüzü"
+        }
+      },
+      {
+        "hanzi": "陆地",
+        "pinyin": "lùdì",
+        "meaning": {
+          "zh": "",
+          "ru": "земля, суша",
+          "en": "land",
+          "tk": "gury",
+          "uz": "quruqlik",
+          "tg": "хушкӣ",
+          "id": "daratan",
+          "tr": "kara"
+        }
+      },
+      {
+        "hanzi": "土地",
+        "pinyin": "tǔdì",
+        "meaning": {
+          "zh": "",
+          "ru": "земля, почва",
+          "en": "land, soil",
+          "tk": "ýer, toprak",
+          "uz": "yer, tuproq",
+          "tg": "замин, хок",
+          "id": "tanah, lahan",
+          "tr": "toprak, arazi"
+        }
+      },
+      {
+        "hanzi": "池塘",
+        "pinyin": "chítáng",
+        "meaning": {
+          "zh": "",
+          "ru": "пруд",
+          "en": "pond",
+          "tk": "howuz",
+          "uz": "hovuz",
+          "tg": "ҳавз",
+          "id": "kolam",
+          "tr": "gölet"
+        }
+      },
+      {
+        "hanzi": "沙漠",
+        "pinyin": "shāmò",
+        "meaning": {
+          "zh": "",
+          "ru": "пустыня",
+          "en": "desert",
+          "tk": "çöl",
+          "uz": "cho'l",
+          "tg": "биёбон",
+          "id": "gurun",
+          "tr": "çöl"
+        }
+      },
+      {
+        "hanzi": "沙滩",
+        "pinyin": "shātān",
+        "meaning": {
+          "zh": "",
+          "ru": "пляж",
+          "en": "beach",
+          "tk": "çäge",
+          "uz": "plyaj",
+          "tg": "соҳил",
+          "id": "pantai",
+          "tr": "plaj"
+        }
+      },
+      {
+        "hanzi": "岛屿",
+        "pinyin": "dǎoyǔ",
+        "meaning": {
+          "zh": "",
+          "ru": "остров",
+          "en": "island",
+          "tk": "ada",
+          "uz": "orol",
+          "tg": "ҷазира",
+          "id": "pulau",
+          "tr": "ada"
+        }
+      },
+      {
+        "hanzi": "岸",
+        "pinyin": "àn",
+        "meaning": {
+          "zh": "",
+          "ru": "берег",
+          "en": "bank",
+          "tk": "kenar",
+          "uz": "qirg'oq",
+          "tg": "соҳил",
+          "id": "tepi",
+          "tr": "kıyı"
+        }
+      },
+      {
+        "hanzi": "洞",
+        "pinyin": "dòng",
+        "meaning": {
+          "zh": "",
+          "ru": "пещера, дыра",
+          "en": "hole, cave",
+          "tk": "çukur, gowak",
+          "uz": "teshik, g'or",
+          "tg": "сӯрох, ғор",
+          "id": "lubang, gua",
+          "tr": "delik, mağara"
+        }
+      },
+      {
+        "hanzi": "木头",
+        "pinyin": "mùtou",
+        "meaning": {
+          "zh": "",
+          "ru": "дерево, древесина",
+          "en": "wood",
+          "tk": "agaç",
+          "uz": "yog'och",
+          "tg": "чӯб",
+          "id": "kayu",
+          "tr": "ahşap"
+        }
+      },
+      {
+        "hanzi": "石头",
+        "pinyin": "shítou",
+        "meaning": {
+          "zh": "",
+          "ru": "камень",
+          "en": "stone",
+          "tk": "daş",
+          "uz": "tosh",
+          "tg": "санг",
+          "id": "batu",
+          "tr": "taş"
+        }
+      },
+      {
+        "hanzi": "灰尘",
+        "pinyin": "huīchén",
+        "meaning": {
+          "zh": "",
+          "ru": "пыль",
+          "en": "dust",
+          "tk": "tozan",
+          "uz": "chang",
+          "tg": "ғубор",
+          "id": "debu",
+          "tr": "toz"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "zh": "话题讨论：养宠物。1. 你养过宠物吗？你对养宠物有什么看法？2. 如果你养过或正在养宠物，请说说你和宠物的故事。3. 如果你对养宠物没有兴趣，请说明原因。",
+      "ru": "Обсуждение: домашние питомцы. 1. У вас были питомцы? Как вы к этому относитесь? 2. Расскажите историю о питомце. 3. Если не интересуетесь — почему?",
+      "tk": "Çekişme: öý haýwanlary. 1. Siziň öý haýwanyňyz bar mydy? Siz munuň hakda nähili pikir edýärsiňiz? 2. Öý haýwany barada hekaýa aýdyň. 3. Eger gyzyklanmaýan bolsaňyz — näme üçin?",
+      "en": "Discussion: pets. 1. Have you had pets? What do you think? 2. Share a story. 3. If not interested — why?",
+      "uz": "Muhokama: uy hayvonlari. 1. Sizning uy hayvoningiz bo'lganmi? Bunga qanday qaraysiz? 2. Uy hayvoni haqida hikoya aytib bering. 3. Agar qiziqmasangiz — nima uchun?",
+      "tg": "Муҳокима: ҳайвоноти хонагӣ. 1. Шумо ҳайвоноти хонагӣ доштед? Ба ин чӣ гуна муносибат доред? 2. Дар бораи ҳайвоноти хонагӣ ҳикоя нақл кунед. 3. Агар шавқ надошта бошед — чаро?",
+      "id": "Diskusi: hewan peliharaan. 1. Apakah Anda pernah memiliki hewan peliharaan? Bagaimana pendapat Anda? 2. Ceritakan kisah tentang hewan peliharaan. 3. Jika tidak tertarik — mengapa?",
+      "tr": "Tartışma: evcil hayvanlar. 1. Hiç evcil hayvanınız oldu mu? Bu konuda ne düşünüyorsunuz? 2. Bir evcil hayvan hikâyesi anlatın. 3. İlgilenmiyorsanız — neden?"
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "audio": "workbook_34_1.mp3",
+        "prompt": {
+          "zh": "鸟儿最重要的特征是什么？",
+          "ru": "Какая самая важная черта птиц?",
+          "en": "What is the most important feature of birds?"
+        },
+        "options": [
+          "会飞",
+          "有翅膀",
+          "有羽毛",
+          "吃昆虫"
+        ],
+        "answer": 2
+      }
+    ],
+    "reading": [
+      {
+        "type": "mc",
+        "prompt": {
+          "zh": "鸟儿怎么保养羽毛？",
+          "ru": "Как птицы ухаживают за перьями?",
+          "en": "How do birds care for their feathers?"
+        },
+        "options": [
+          "用肥皂",
+          "梳理和洗澡",
+          "用沙子洗",
+          "不保养"
+        ],
+        "answer": 1
+      }
+    ],
+    "writing": [
+      {
+        "type": "make_sentence",
+        "words": [
+          "没接触过",
+          "的",
+          "业务",
+          "我从来",
+          "这方面"
+        ],
+        "answer": "我从来没接触过这方面的业务。"
+      },
+      {
+        "type": "make_sentence",
+        "words": [
+          "戏剧",
+          "今天学的",
+          "的种类",
+          "概括一下",
+          "请你"
+        ],
+        "answer": "请你概括一下今天学的戏剧的种类。"
+      },
+      {
+        "type": "short_essay",
+        "words": [
+          "秘密",
+          "唯一",
+          "痛快",
+          "爱惜",
+          "总之"
+        ],
+        "min_length": 80
+      }
+    ]
+  }
+}

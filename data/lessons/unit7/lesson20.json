@@ -1,0 +1,964 @@
+{
+  "title": {
+    "zh": "小人书摊",
+    "ru": "Ларьки с комиксами",
+    "tk": "",
+    "en": "Picture-story book stalls",
+    "uz": "",
+    "tg": "",
+    "id": "",
+    "tr": ""
+  },
+  "audio_files": {
+    "textbook_1": "textbook_20_1.mp3",
+    "vocab": "vocab_20.mp3",
+    "workbook_20_1": "workbook_20_1.mp3"
+  },
+  "warmup": {
+    "question": {
+      "zh": "请看下面的图片，试着找出本课跟它们有关的生词。请问问你的同学或朋友，他们小时候有哪些印象深刻的娱乐活动？现在还有没有这样的活动？",
+      "ru": "Посмотрите на картинки и найдите слова из словаря урока. Спросите друзей, какие развлечения были яркими в их детстве. Есть ли они сейчас?",
+      "tk": "",
+      "en": "Look at the pictures and find related vocabulary. Ask friends what entertainment left an impression in their childhood. Does it still exist?",
+      "uz": "",
+      "tg": "",
+      "id": "",
+      "tr": ""
+    },
+    "answers": [
+      "成人",
+      "连环画"
+    ]
+  },
+  "text_zh": "小人书，是一种以书的形式出版的连环画。在二十世纪五六十年代，那时候生活很单调，没有网络，没有动画片，读小人书是儿童最主要的娱乐之一。不仅小孩子爱看，还有无数的青少年和大人也爱看。\n随着小人书的流行，出现了从事租书业务的小人书摊，这对于那些想看又买不起书的人来说，只用很少的钱就能看一本，毫无疑问是件大好事。\n记得小时候，我家附近就有个小人书摊，就是一进街口靠墙的一个小棚子，里面用几块砖头支着粗糙的木头板子供人们坐着看书。棚子里有一张床板摆着各种题材的小人书，墙边还拉了几根绳子，一本书翻开搭在上面，五颜六色的，很好看。为了减少损坏程度，每本小人书都用牛皮纸加了层封皮，封皮上用毛笔写上书名，整齐漂亮的毛笔字能充分地显示出书摊主人的文化水平。摊主是位上了年纪、身材瘦小的老人，总是穿着一件灰色长衫，静静地坐在一边，陪着看书的人们。\n在这里看书的人大部分是附近住户的孩子，也有一些喜欢小人书的成人。租借小人书很便宜，在摊里看，每册1分钱，选好书坐下就看，看完连书带钱交给摊主；假如借走回家看，则每本每天2分钱，挑好书后交给摊主，摊主仔细地将租书人的姓名、地址和所借小人书的书名登记在本子上，收了租金就可以拿走了，第二天还书时再把记录一个一个地画掉，还书手续就算是办理好了。印象中似乎没有什么押金，全凭信用。我每天放学回家总要经过这家书摊，都要进去看看。\n然而，这种影响了数代人的小人书，如今只能在北京的潘家园、护国寺等地的旧书摊上找到，一些印刷精美、有特色的作品则身价大涨，成了收藏品，甚至进了博物馆。小人书和小人书摊已成为历史的记忆。",
+  "text_translation": {
+    "zh": "",
+    "ru": "«Сяожэньшу» — это комиксы, изданные в виде книги. В 1950-60-е годы жизнь была однообразной — ни интернета, ни мультфильмов; чтение комиксов было одним из главных развлечений детей. Их любили не только дети, но и бесчисленные подростки и взрослые.\nС ростом популярности комиксов появились ларьки по их прокату. Для тех, кто хотел читать, но не мог позволить себе купить книгу, — за копейки можно было прочесть один выпуск, что, безусловно, было большим благом.\nПомню, в детстве рядом с домом был такой ларёк — небольшой навес у стены в начале улицы, где грубые деревянные доски для сидения подпирали кирпичами. Внутри на щите были разложены комиксы на разные темы; у стены натянуты верёвки, на которых, как бельё, висели раскрытые книжки — пёстро и очень красиво. Чтобы книги меньше изнашивались, каждую обернули бумагой и подписали название кистью: аккуратный, красивый почерк выдавал культурный уровень хозяина. Хозяин — пожилой худощавый старик в сером халате — тихо сидел в стороне, составляя компанию читателям.\nЧитателями были в основном дети соседей, а также взрослые любители комиксов. Прокат был дешёвым: на месте — 1 фэнь за выпуск; можно было сесть и читать; вернув книгу, отдать деньги хозяину. Если брали домой — 2 фэня за книгу в день: выбрав, отдавали хозяину, тот аккуратно записывал в тетрадь имя, адрес и название книги, брал плату — и можно было уходить. Назавтра при возврате записи вычёркивались по одной — процедура завершалась. Помнится, залога не было — всё на доверии. Каждый день, возвращаясь из школы, я проходил мимо этого ларька и обязательно заглядывал.\nОднако эти комиксы, повлиявшие на несколько поколений, сегодня можно найти лишь на барахолках вроде Паньцзяюань или Хугоусы в Пекине. Некоторые изящно напечатанные, характерные издания сильно поднялись в цене и стали предметами коллекционирования, попали даже в музеи. Комиксы и их ларьки стали воспоминанием истории.",
+    "tk": "",
+    "en": "Xiaorenshu are picture-story books published in book form. In the 1950s-60s life was monotonous — no internet, no cartoons — so reading them was one of children's main entertainments. Not only kids loved them, but also countless teenagers and adults.\nWith their popularity came rental stalls. For those who wanted to read but couldn't afford to buy, one could read a book for very little money — undoubtedly a great thing.\nI remember there was such a stall near my home — a small shed against a wall at the street entrance, with rough wooden planks propped up by bricks for seating. Inside, a bed board displayed picture-story books on all kinds of subjects; strings were stretched along the wall, with open books draped over them — colourful and lovely. To reduce wear, each book was wrapped in kraft paper with the title written in brush characters — neat and beautiful handwriting revealed the owner's cultural level. The owner, a small elderly man in a grey gown, always sat quietly to one side, keeping the readers company.\nMost readers were neighbourhood children, along with some adults who loved the books. Rental was cheap: 1 fen per volume to read on the spot — sit down and read, then hand the book and money to the owner. If borrowed home, it cost 2 fen per book per day — after choosing, you handed the book to the owner, who carefully recorded your name, address and the book's title, took the fee — and off you went. Returning the next day, records were crossed out one by one — the return procedure done. As far as I recall there was no deposit — all based on trust. Every day after school I'd pass this stall and go in for a look.\nYet today these books, which influenced several generations, can only be found at second-hand stalls in Beijing's Panjiayuan or Huguosi. Some beautifully printed, distinctive editions have soared in value, becoming collector's items, even entering museums. Picture-story books and their stalls have become memories of history.",
+    "uz": "",
+    "tg": "",
+    "id": "",
+    "tr": ""
+  },
+  "vocabulary": [
+    {
+      "hanzi": "摊",
+      "pinyin": "tān",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "ларёк, палатка",
+        "tk": "",
+        "en": "stall, stand",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "出版",
+      "pinyin": "chūbǎn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "публиковать",
+        "tk": "",
+        "en": "to publish",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "连环画",
+      "pinyin": "liánhuánhuà",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "комикс",
+        "tk": "",
+        "en": "picture-story book",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "年代",
+      "pinyin": "niándài",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "десятилетие, годы",
+        "tk": "",
+        "en": "decade of a century",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "单调",
+      "pinyin": "dāndiào",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "однообразный",
+        "tk": "",
+        "en": "monotonous, dull",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "网络",
+      "pinyin": "wǎngluò",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "интернет, сеть",
+        "tk": "",
+        "en": "network, web",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "动画片",
+      "pinyin": "dònghuàpiàn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "мультфильм",
+        "tk": "",
+        "en": "animated cartoon",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "娱乐",
+      "pinyin": "yúlè",
+      "pos": "n./v.",
+      "meaning": {
+        "zh": "",
+        "ru": "развлечение; развлекать",
+        "tk": "",
+        "en": "entertainment; to entertain",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "无数",
+      "pinyin": "wúshù",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "бесчисленный",
+        "tk": "",
+        "en": "countless, innumerable",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "青少年",
+      "pinyin": "qīng-shàonián",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "подростки, молодёжь",
+        "tk": "",
+        "en": "youngsters, teenagers",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "从事",
+      "pinyin": "cóngshì",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "заниматься чем-л.",
+        "tk": "",
+        "en": "to engage in",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "毫无",
+      "pinyin": "háowú",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "вовсе не, ничуть",
+        "tk": "",
+        "en": "not in the least",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "疑问",
+      "pinyin": "yíwèn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "сомнение, вопрос",
+        "tk": "",
+        "en": "question, doubt",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "棚子",
+      "pinyin": "péngzi",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "навес, лачуга",
+        "tk": "",
+        "en": "shed, shack",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "砖头",
+      "pinyin": "zhuāntou",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "кирпич",
+        "tk": "",
+        "en": "brick",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "支",
+      "pinyin": "zhī",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "подпирать; счётное слово",
+        "tk": "",
+        "en": "to prop up; classifier for sticks",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "粗糙",
+      "pinyin": "cūcāo",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "грубый, шероховатый",
+        "tk": "",
+        "en": "rough, crude",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "木头",
+      "pinyin": "mùtou",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "дерево, древесина",
+        "tk": "",
+        "en": "wood, timber",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "题材",
+      "pinyin": "tícái",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "тема, сюжет",
+        "tk": "",
+        "en": "theme, subject matter",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "翻",
+      "pinyin": "fān",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "переворачивать, листать",
+        "tk": "",
+        "en": "to turn over",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "搭",
+      "pinyin": "dā",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "вешать, класть поверх",
+        "tk": "",
+        "en": "to hang over, to lay over",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "整齐",
+      "pinyin": "zhěngqí",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "аккуратный, ровный",
+        "tk": "",
+        "en": "tidy, orderly",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "年纪",
+      "pinyin": "niánjì",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "возраст",
+        "tk": "",
+        "en": "age",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "身材",
+      "pinyin": "shēncái",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "фигура, телосложение",
+        "tk": "",
+        "en": "figure, stature",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "成人",
+      "pinyin": "chéngrén",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "взрослый",
+        "tk": "",
+        "en": "adult",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "册",
+      "pinyin": "cè",
+      "pos": "m.",
+      "meaning": {
+        "zh": "",
+        "ru": "том, книга (счётн.)",
+        "tk": "",
+        "en": "volume",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "假如",
+      "pinyin": "jiǎrú",
+      "pos": "conj.",
+      "meaning": {
+        "zh": "",
+        "ru": "если, предположим",
+        "tk": "",
+        "en": "if, in case",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "登记",
+      "pinyin": "dēngjì",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "регистрировать",
+        "tk": "",
+        "en": "to register",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "记录",
+      "pinyin": "jìlù",
+      "pos": "n./v.",
+      "meaning": {
+        "zh": "",
+        "ru": "запись; записывать",
+        "tk": "",
+        "en": "record; to record",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "手续",
+      "pinyin": "shǒuxù",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "процедура, формальности",
+        "tk": "",
+        "en": "procedure",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "办理",
+      "pinyin": "bànlǐ",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "оформлять, вести дела",
+        "tk": "",
+        "en": "to handle, to deal with",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "押金",
+      "pinyin": "yājīn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "залог",
+        "tk": "",
+        "en": "cash pledge, deposit",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "凭",
+      "pinyin": "píng",
+      "pos": "v./prep.",
+      "meaning": {
+        "zh": "",
+        "ru": "полагаться; на основании",
+        "tk": "",
+        "en": "to rely on; on the basis of",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "印刷",
+      "pinyin": "yìnshuā",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "печатать",
+        "tk": "",
+        "en": "to print",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "涨",
+      "pinyin": "zhǎng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "расти, подниматься",
+        "tk": "",
+        "en": "to rise, to go up",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "收藏",
+      "pinyin": "shōucáng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "коллекционировать",
+        "tk": "",
+        "en": "to collect, to store up",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "动词+得/不+起",
+      "pos": "конструкция",
+      "explanation": {
+        "ru": "Конструкция «глагол + 得/不 + 起» означает, что субъект (не) может позволить себе или (не) способен выдержать какое-либо действие.",
+        "en": "The pattern 'verb + 得/不 + 起' means the subject can (or cannot) afford or endure a certain action."
+      },
+      "formula": {
+        "ru": "глагол + 得/不 + 起",
+        "en": "verb + 得/不 + 起"
+      },
+      "examples": [
+        {
+          "zh": "这对于那些想看又买不起书的人来说，只用很少的钱就能看一本。",
+          "ru": "Для тех, кто хочет читать, но не может позволить себе покупать книги, — можно прочесть за копейки.",
+          "en": "For those who want to read but can't afford books, they can read one for very little money."
+        },
+        {
+          "zh": "古时候，有个十分好学的年轻人，但他家里很穷，买不起灯。",
+          "ru": "В древности был очень любознательный юноша, но семья его была так бедна, что не могла позволить себе лампу.",
+          "en": "In ancient times, a studious young man's family was too poor to afford a lamp."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "我们应该降低价格，__。",
+          "answer": "让老百姓买得起。"
+        }
+      ]
+    },
+    {
+      "word": "支",
+      "pos": "v./m.",
+      "explanation": {
+        "ru": "«支» как глагол означает «подпирать, поддерживать». Как счётное слово используется для музыкальных произведений, отрядов и продолговатых предметов.",
+        "en": "«支» as a verb means 'to prop up'. As a classifier it's used for musical works, teams, or stick-like objects."
+      },
+      "examples": [
+        {
+          "zh": "他的两只手放在桌上，支着脑袋，正在想事情。",
+          "ru": "Он положил руки на стол и подпёр голову — о чём-то думал.",
+          "en": "He rested his hands on the table, propping up his head, thinking."
+        },
+        {
+          "zh": "给他十支枪，他就能拉起一支军队来。",
+          "ru": "Дайте ему десять ружей — и он соберёт целую армию.",
+          "en": "Give him ten rifles, and he can raise an army."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "快，这张桌子坏了，__。",
+          "answer": "用砖头支一下。"
+        }
+      ]
+    },
+    {
+      "word": "凭",
+      "pos": "v./prep.",
+      "explanation": {
+        "ru": "«凭» как глагол — «опираться, полагаться». Как предлог — «на основании, по», в конструкции «凭 + объект + глагол».",
+        "en": "«凭» as a verb means 'to rely on'. As a preposition — 'on the basis of', in the pattern '凭 + object + verb'."
+      },
+      "formula": {
+        "ru": "凭 + сущ. + глагол",
+        "en": "凭 + noun + verb"
+      },
+      "examples": [
+        {
+          "zh": "干工作不能光凭经验，还要有创新。",
+          "ru": "В работе нельзя полагаться только на опыт — нужны и инновации.",
+          "en": "You can't rely only on experience in work — you also need innovation."
+        },
+        {
+          "zh": "印象中似乎没有什么押金，全凭信用。",
+          "ru": "Кажется, залога не было — всё на доверии.",
+          "en": "I don't recall any deposit — it was all based on trust."
+        },
+        {
+          "zh": "请旅客们准备好车票，凭票进站。",
+          "ru": "Пассажиры, приготовьте билеты — вход по билетам.",
+          "en": "Passengers, please have your tickets ready — entry by ticket."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "question": "Как вы нашли этот дом?",
+          "answer": "你是凭什么找到这座房子的？"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "记录",
+      "word_b": "纪录",
+      "common": {
+        "ru": "Оба могут обозначать «запись, документация». Часто путают.",
+        "en": "Both can mean 'record, documentation' and are often confused."
+      },
+      "differences": [
+        {
+          "ru": "«记录» — глагол «записывать» или существительное «запись» (материал, человек).",
+          "en": "«记录» — verb 'to record' or noun 'record' (material, person)."
+        },
+        {
+          "ru": "«纪录» — существительное, обозначает «рекорд» или документальный фильм.",
+          "en": "«纪录» — noun meaning 'record (best result)' or documentary."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "zh": "单位、场所 (Организации и места)",
+      "ru": "Организации и места",
+      "en": "Organizations and places"
+    },
+    "words": [
+      {
+        "hanzi": "俱乐部",
+        "pinyin": "jùlèbù",
+        "meaning": {
+          "zh": "",
+          "ru": "клуб",
+          "en": "club"
+        }
+      },
+      {
+        "hanzi": "幼儿园",
+        "pinyin": "yòu'éryuán",
+        "meaning": {
+          "zh": "",
+          "ru": "детский сад",
+          "en": "kindergarten"
+        }
+      },
+      {
+        "hanzi": "博物馆",
+        "pinyin": "bówùguǎn",
+        "meaning": {
+          "zh": "",
+          "ru": "музей",
+          "en": "museum"
+        }
+      },
+      {
+        "hanzi": "酒吧",
+        "pinyin": "jiǔbā",
+        "meaning": {
+          "zh": "",
+          "ru": "бар",
+          "en": "bar"
+        }
+      },
+      {
+        "hanzi": "法院",
+        "pinyin": "fǎyuàn",
+        "meaning": {
+          "zh": "",
+          "ru": "суд",
+          "en": "court"
+        }
+      },
+      {
+        "hanzi": "海关",
+        "pinyin": "hǎiguān",
+        "meaning": {
+          "zh": "",
+          "ru": "таможня",
+          "en": "customs"
+        }
+      },
+      {
+        "hanzi": "生产",
+        "pinyin": "shēngchǎn",
+        "meaning": {
+          "zh": "",
+          "ru": "производить",
+          "en": "to produce"
+        }
+      },
+      {
+        "hanzi": "发明",
+        "pinyin": "fāmíng",
+        "meaning": {
+          "zh": "",
+          "ru": "изобретать",
+          "en": "to invent"
+        }
+      },
+      {
+        "hanzi": "设计",
+        "pinyin": "shèjì",
+        "meaning": {
+          "zh": "",
+          "ru": "проектировать",
+          "en": "to design"
+        }
+      },
+      {
+        "hanzi": "业务",
+        "pinyin": "yèwù",
+        "meaning": {
+          "zh": "",
+          "ru": "дело, бизнес",
+          "en": "business"
+        }
+      },
+      {
+        "hanzi": "项目",
+        "pinyin": "xiàngmù",
+        "meaning": {
+          "zh": "",
+          "ru": "проект",
+          "en": "project"
+        }
+      },
+      {
+        "hanzi": "效率",
+        "pinyin": "xiàolù",
+        "meaning": {
+          "zh": "",
+          "ru": "эффективность",
+          "en": "efficiency"
+        }
+      },
+      {
+        "hanzi": "合法",
+        "pinyin": "héfǎ",
+        "meaning": {
+          "zh": "",
+          "ru": "законный",
+          "en": "legal"
+        }
+      },
+      {
+        "hanzi": "公平",
+        "pinyin": "gōngpíng",
+        "meaning": {
+          "zh": "",
+          "ru": "справедливый",
+          "en": "fair"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "zh": "童年的生活与记忆：你的童年是在什么地方度过的？哪些人、事、东西给你留下了深刻印象？为什么？",
+      "ru": "Детство и воспоминания: где прошло ваше детство? Какие люди, события, вещи оставили глубокий след? Почему?",
+      "tk": "",
+      "en": "Childhood and memories: where did you spend your childhood? Which people, events or things left a deep impression? Why?",
+      "uz": "",
+      "tg": "",
+      "id": "",
+      "tr": ""
+    },
+    "writing_prompt": {
+      "zh": "请以“我的童年”为题，谈一谈你的童年时代。尽量用上本课所学的生词，字数不少于100字。",
+      "ru": "Напишите эссе на тему «Моё детство», используя слова урока, не менее 100 иероглифов.",
+      "en": "Write an essay titled 'My childhood', using this lesson's vocabulary, at least 100 characters."
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "audio": "workbook_20_1.mp3",
+        "prompt": {
+          "zh": "男的是什么意思？",
+          "ru": "Что имеет в виду мужчина?",
+          "en": "What does the man mean?"
+        },
+        "options": [
+          "很有收藏价值",
+          "内容过时陈旧",
+          "不值得再保留",
+          "《西游记》最好看"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_20_1.mp3",
+        "prompt": {
+          "zh": "女的遇到什么问题了？",
+          "ru": "С какой проблемой столкнулась женщина?",
+          "en": "What problem did the woman run into?"
+        },
+        "options": [
+          "没带够押金",
+          "办理的人多",
+          "图书馆闭馆",
+          "手续太复杂"
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": [
+      {
+        "type": "cloze",
+        "text_zh": "世界球王贝利在20多年的足球生涯里，15过1364场比赛，共踢进1282个球，并创造了一个队员在一场比赛中射进8个球的16。",
+        "blanks": [
+          {
+            "position": 15,
+            "answer": "参加",
+            "options": [
+              "参加",
+              "参与",
+              "投入",
+              "举办"
+            ]
+          },
+          {
+            "position": 16,
+            "answer": "纪录",
+            "options": [
+              "记录",
+              "纪录",
+              "成果",
+              "机会"
+            ]
+          }
+        ]
+      }
+    ],
+    "writing": [
+      {
+        "type": "make_sentence",
+        "words": [
+          "了",
+          "史学家",
+          "提出",
+          "不少疑问",
+          "对这个问题"
+        ],
+        "answer": "史学家对这个问题提出了不少疑问。"
+      },
+      {
+        "type": "make_sentence",
+        "words": [
+          "的",
+          "粗糙",
+          "这本书",
+          "比较",
+          "印刷质量"
+        ],
+        "answer": "这本书的印刷质量比较粗糙。"
+      },
+      {
+        "type": "make_sentence",
+        "words": [
+          "了",
+          "从事",
+          "周先生",
+          "文艺创作",
+          "已经很多年"
+        ],
+        "answer": "周先生从事文艺创作已经很多年了。"
+      },
+      {
+        "type": "short_essay",
+        "words": [
+          "手续",
+          "押金",
+          "记录",
+          "办理",
+          "登记"
+        ],
+        "min_length": 80
+      }
+    ]
+  }
+}

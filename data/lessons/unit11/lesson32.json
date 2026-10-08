@@ -1,0 +1,1039 @@
+{
+  "title": {
+    "zh": "身边的环保",
+    "ru": "Экология вокруг нас",
+    "tk": "Daş-töweregimizdäki ekologiýa",
+    "en": "Protecting the environment around us",
+    "uz": "Atrofimizdagi ekologiya",
+    "tg": "Экологияи атрофи мо",
+    "id": "Lingkungan di sekitar kita",
+    "tr": "Çevremizdeki çevre"
+  },
+  "audio_files": {
+    "textbook_1": "textbook_32_1.mp3",
+    "vocab": "vocab_32.mp3",
+    "workbook_32_1": "workbook_32_1.mp3"
+  },
+  "warmup": {
+    "question": {
+      "zh": "结合图片，请你举例说明人类对环境的破坏造成了哪些恶劣的影响。当我们谈论环境遭到污染和破坏时，常常提到哪些词语？",
+      "ru": "По картинке: приведите примеры того, какой вред наносит человек природе. Какие слова мы часто используем, когда говорим о загрязнении?",
+      "tk": "Surata seredip: adamzadyň tebigata nähili zyýan ýetirýändigine mysallar getiriň. Hapalanma barada gürrüň edenimizde haýsy sözleri ýygy-ýygydan ulanýarys?",
+      "en": "Look at the picture and give examples of the damage humans do to the environment. What words do we often use when talking about pollution?",
+      "uz": "Rasmga qarab: inson tabiatga qanday zarar yetkazishiga misollar keltiring. Ifoslanish haqida gapirganda qanday so'zlarni tez-tez ishlatamiz?",
+      "tg": "Аз рӯи расм: мисолҳо оред, ки одам ба табиат чӣ гуна зарар мерасонад. Ҳангоми сухан дар бораи ифлосшавӣ мо кадом калимаҳоро аксар вақт истифода мебарем?",
+      "id": "Berdasarkan gambar: berikan contoh kerusakan yang dilakukan manusia terhadap alam. Kata-kata apa yang sering kita gunakan ketika berbicara tentang pencemaran?",
+      "tr": "Resme göre: insanın doğaya ne gibi zararlar verdiğine örnekler verin. Kirlilikten bahsederken hangi kelimeleri sık kullanırız?"
+    },
+    "answers": [
+      "破坏"
+    ]
+  },
+  "text_zh": "如果你觉得地球上的一点儿小污染没什么关系，那你可就大错特错了！环境污染会危害动物、植物以及人类自身。\n有些生活在过去的动物，你今天再也看不到了，植物也面临着同样的危险。动植物的消失，部分原因是由于自然界的变化，比如洪水、地震等改变了它们生活的环境，但更大的原因则是人类对自然的破坏——有些地区的森林已经几乎被人砍光了，很多河流被污染，不再适合鱼类生存，有的地区原本是草原，如今已变为沙漠……从国际环保组织公布的数据可知，地球上一半以上的动植物正在消失，这是真实的情况，一点儿也不夸张。人类自身也饱受污染的危害。有些地区地表水已污染，地下水又被过量使用，水资源短缺问题就连科学家们也不知道该如何解决，目前世界上有17%的人无法享用干净的饮用水，而每年死于与空气污染有关的疾病的人比死于车祸的还要多。这些数据确实令人不安。\n一部分环境污染是由工业农业生产活动造成的，例如，大型工厂生产过程中，有的会产生大量废水；有的要大量燃烧煤炭，从而产生大量废气和废物。还有一部分污染和我们的日常生活密切相关，汽车尾气就是其中之一。此外，垃圾也会对环境造成严重的损害。\n幸运的是，越来越多的人敏感地认识到了环境问题的严重，并自觉地投入到了保护地球的行动中。生产中，增加环保设施，减少污染物排放，调整能源消费结构，逐步向可再生能源转变；而在日常生活中，改变生活习惯，尽量减少生活垃圾，做到垃圾分类。同时，尽量多骑自行车，多选择公共交通，少使用私家车。这些为此付出努力的人们令人尊敬，取得的成绩也令人鼓舞。\n地球是人类共同的家园，我们应该把它看作一个属于自己的大房间。房间脏了，消极的逃避和不符合实际的幻想都不能解决问题，为保持它的卫生每一个人都应付出行动，做出贡献。人类的命运由我们自己掌握，改变要靠我们自己。",
+  "text_translation": {
+    "zh": "",
+    "ru": "Если вам кажется, что немного загрязнения — это не страшно, вы сильно ошибаетесь. Загрязнение вредит животным, растениям и самому человеку. Многие виды исчезают, леса вырубаются, реки загрязнены, степи превращаются в пустыни. По данным экологов, больше половины видов флоры и фауны на планете исчезают — это не преувеличение. 17% людей на Земле не имеют доступа к чистой питьевой воде, а от болезней, связанных с загрязнением воздуха, умирает больше людей, чем в ДТП. Часть загрязнений — от промышленности и сельского хозяйства, часть — от повседневной жизни: выхлопные газы, мусор. Но есть и хорошая новость: всё больше людей ответственно относятся к экологии, внедряют экологические технологии, сортируют мусор, выбирают велосипед и общественный транспорт. Земля — наш общий дом, и судьба её в наших руках.",
+    "tk": "Eger ýer ýüzündäki azajyk hapalanmanyň zyýany ýok diýip pikir edýän bolsaňyz, gaty ýalňyşýarsyňyz! Daşky gurşawyň hapalanmagy haýwanlara, ösümliklere we adamyň özüne zyýan ýetirýär.\nGeçmişde ýaşan käbir haýwanlary bu gün indi görüp bilmersiňiz, ösümlikler hem şeýle howp astynda. Haýwanlaryň we ösümlikleriň ýok bolmagynyň bir bölegi tebigatyň üýtgemegi, meselem, suw joşgunlary, ýer titremeleri olaryň ýaşaýyş gurşawyny üýtgetmegi bilen bagly, ýöne has uly sebäp adamyň tebigata ýetirýän zyýanydyr — käbir sebitlerde tokaýlar diýen ýaly kesilip gutaryldy, köp derýalar hapalanyp, balyklaryň ýaşamagyna ýaramaz boldy, käbir sebitler öň çölli bolup, häzir çöl-çöle öwrüldi... Halkara daşky gurşawy goramak guramalarynyň çap eden maglumatlaryndan görnüşi ýaly, ýer ýüzündäki haýwanlaryň we ösümlikleriň ýarysyndan gowragy ýok bolup barýar, bu hakyky ýagdaý, asla çişirilme däl. Adamyň özi hem hapalanmanyň zyýanyny çekýär. Käbir sebitlerde ýer üstü suwlary hapalanan, ýerasty suwlar bolsa aşa köp ulanylýar, suw çykdajysy meselesini alymlar hem nähili çözmelidigini bilemzler, häzirki wagtda dünýäde adamlaryň 17%-i arassa içimlik suwundan peýdalanyp bilmeýär, howanyň hapalanmagy bilen bagly kesellerden ölýänleriň sany bolsa awtoulag heläkçiliginden ölýänlerden hem köp. Bu maglumatlar hakykatdan hem biynjalyk ediji.\nDaşky gurşawyň hapalanmagynyň bir bölegi senagat we oba hojalyk önümçilik işjeňliginden döreýär, meselem, uly zawodlaryň önümçilik prosesinde käbirleri köp mukdarda hapa suw öndürýär; käbirleri köp mukdarda kömür ýakýar, şeýlelik bilen köp mukdarda hapa gaz we galyndy öndürýär. Ýene bir bölegi biziň gündelik durmuşymyz bilen ýakyndan bagly, awtoulag çilimleri şolardan biridir. Mundan başga-da, zibil daşky gurşawa agyr zyýan ýetirýär.\nBagtymyza, barha köp adam daşky gurşaw meselesine duýgurlyk bilen düşünip başlady",
+    "en": "If you think a little pollution on Earth is no big deal — you're badly mistaken. Pollution harms animals, plants, and humans. Many species have already gone extinct; forests are being cut down, rivers polluted, grasslands turning into deserts. According to international environmental organizations, over half of the planet's species are disappearing — this is real, not exaggerated. 17% of the world's population has no access to clean drinking water, and more people die each year from air-pollution-related diseases than from car accidents. Some pollution comes from industry and agriculture, some from daily life — car exhaust, garbage. The good news: more and more people are aware and taking action — adding eco-friendly facilities, sorting waste, cycling, using public transport. The Earth is our shared home, and its fate is in our hands.",
+    "uz": "Agar siz Yer yuzidagi ozgina ifloslanish muhim emas deb o'ylasangiz, siz qattiq adashasiz! Atrof-muhit ifloslanishi hayvonlarga, o'simliklarga va insonning o'ziga zarar yetkazadi.\nO'tmishda yashagan ba'zi hayvonlarni bugun endi ko'ra olmaysiz, o'simliklar ham xuddi shunday xavf ostida. Hayvonlar va o'simliklarning yo'qolishiga qisman tabiatning o'zgarishi, masalan, suv toshqinlari, zilzilalar ularning yashash muhitini o'zgartirishi sabab bo'lgan, ammo eng katta sabab insonning tabiatga yetkazgan zararidir — ba'zi hududlarda o'rmonlar deyarli kesib tashlangan, ko'plab daryolar ifloslanib, baliqlar yashashi uchun yaroqsiz bo'lib qolgan, ba'zi hududlar ilgari dasht bo'lgan, endi esa cho'lga aylangan... Xalqaro atrof-muhitni muhofaza qilish tashkilotlari e'lon qilgan ma'lumotlardan ma'lum bo'lishicha, Yer yuzidagi hayvonlar va o'simliklarning yarmidan ko'pi yo'qolib bormoqda, bu haqiqiy holat, hech qanday mubolag'a emas. Insonning o'zi ham ifloslanish zararidan aziyat chekmoqda. Ba'zi hududlarda yer usti suvlari ifloslangan, yer osti suvlari esa haddan tashqari ko'p ishlatilmoqda, suv tanqisligi muammosini hatto olimlar ham qanday hal qilishni bilmaydi, hozirgi vaqtda dunyoda aholining 17 foizi toza ichimlik suvidan foydalana olmaydi, havoning ifloslanishi bilan bog'liq kasalliklardan o'layotganlar soni esa avtohalokatdan o'lganlardan ham ko'p. Bu ma'lumotlar haqiqatan ham tashvishlidir.\nAtrof-muhit ifloslanishining bir qismi sanoat va qishloq xo'jaligi ishlab chiqarish faoliyatidan kelib chiqadi, masalan, yirik zavodlarning ishlab chiqarish jarayonida ba'zilari ko'p miqdorda chiqindi suv hosil qiladi; ba'zilari ko'p miqdorda ko'mir yoqadi, natijada ko'p miqdorda chiqindi gaz va chiqindilar hosil bo'ladi. Yana bir qismi bizning kundalik hayotimiz bilan chambarchas bog'liq, avtomobil chiqindi gazlari shulardan biridir. Bundan tashqari, axlat ham atrof-muhitga jiddiy zarar yetkazadi.\nYaxshiyamki, tobora ko'proq odamlar atrof-muhit muammosini sezgir tarzda anglab yetmoqda",
+    "tg": "Агар шумо фикр кунед, ки каме ифлосшавӣ дар Замин аҳамияте надорад, шумо бад хато мекунед! Ифлосшавии муҳити зист ба ҳайвонот, растаниҳо ва худи инсон зарар мерасонад.\nБаъзе ҳайвоноте, ки дар гузашта зиндагӣ мекарданд, имрӯз дигар намебинед, растаниҳо низ дар ҳамин хавф қарор доранд. Нобудшавии ҳайвоноту растаниҳо қисман аз тағйироти табиат, масалан, обхезӣ, заминларза ба вуҷуд меояд, ки муҳити зисти онҳоро тағйир медиҳад, аммо сабаби калонтари он вайрон кардани табиат аз ҷониби инсон аст — дар баъзе минтақаҳо ҷангалҳо қариб пурра бурида шудаанд, бисёр дарёҳо ифлос шуда, барои зиндагии моҳӣ мувофиқ нестанд, баъзе минтақаҳо аввал дашт буданд, ҳоло биёбон шудаанд... Аз маълумоти ташкилотҳои байналмилалии ҳифзи муҳити зист маълум аст, ки зиёда аз нисфи ҳайвоноту растаниҳои Замин нобуд мешаванд, ин ҳолати воқеӣ аст, ҳеҷ гуна муболиға нест. Худи инсон низ аз зарари ифлосшавӣ азоб мекашад. Дар баъзе минтақаҳо обҳои рӯизаминӣ ифлос шудаанд, обҳои зеризаминӣ бошанд, аз ҳад зиёд истифода мешаванд, мушкили камбуди обро ҳатто олимон намедонанд, ки чӣ тавр ҳал кунанд, ҳоло дар ҷаҳон 17% одамон ба оби тозаи нӯшокӣ дастрасӣ надоранд, ва шумораи одамоне, ки ҳар сол аз бемориҳои марбут ба ифлосшавии ҳаво мебинанд, аз шумораи қурбониёни садамаҳои нақлиётӣ бештар аст. Ин маълумот воқеан ташвишовар аст.\nЯк қисми ифлосшавии муҳити зист аз фаъолияти истеҳсолии саноат ва кишоварзӣ ба вуҷуд меояд, масалан, дар раванди истеҳсоли корхонаҳои калон, баъзеашон миқдори зиёди обҳои партов ҳосил мекунанд; баъзеашон миқдори зиёди ангишт месӯзонанд, ки дар натиҷа миқдори зиёди газҳои партов ва партовҳо ҳосил мешаванд. Қисми дигари ифлосшавӣ бо ҳаёти ҳаррӯзаи мо зич алоқаманд аст, гази партови автомобилҳо яке аз онҳост. Ғайр аз ин, партовҳо низ ба муҳити зист зарари ҷиддӣ мерасонанд.\nХушбахтона, шумораи бештари одамон мушкили муҳити зистро ҳассосона дарк мекунанд",
+    "id": "Jika Anda menganggap sedikit polusi di Bumi tidak masalah, Anda sangat keliru! Polusi lingkungan membahayakan hewan, tumbuhan, dan manusia itu sendiri.\nBeberapa hewan yang hidup di masa lalu, hari ini tidak dapat Anda lihat lagi, tumbuhan juga menghadapi bahaya yang sama. Hilangnya hewan dan tumbuhan sebagian disebabkan oleh perubahan alam, seperti banjir, gempa bumi yang mengubah lingkungan tempat mereka hidup, tetapi penyebab yang lebih besar adalah perusakan alam oleh manusia — di beberapa daerah hutan sudah hampir ditebang habis oleh manusia, banyak sungai tercemar, tidak lagi cocok untuk kehidupan ikan, beberapa daerah yang awalnya padang rumput, kini telah berubah menjadi gurun... Dari data yang dipublikasikan organisasi lingkungan internasional dapat diketahui, lebih dari setengah hewan dan tumbuhan di Bumi sedang menghilang, ini adalah kenyataan yang sebenarnya, sama sekali tidak berlebihan. Manusia sendiri juga sangat menderita akibat polusi. Di beberapa daerah air permukaan sudah tercemar, air tanah digunakan secara berlebihan, masalah kelangkaan air bahkan para ilmuwan pun tidak tahu bagaimana mengatasinya, saat ini 17% orang di dunia tidak dapat menikmati air minum bersih, dan setiap tahun orang yang meninggal karena penyakit terkait polusi udara lebih banyak daripada yang meninggal karena kecelakaan mobil. Data-data ini memang mengkhawatirkan.\nSebagian polusi lingkungan disebabkan oleh kegiatan produksi industri dan pertanian, misalnya, dalam proses produksi pabrik besar, ada yang menghasilkan banyak air limbah; ada yang membakar batu bara dalam jumlah besar, sehingga menghasilkan banyak gas buang dan limbah. Sebagian polusi lainnya sangat erat kaitannya dengan kehidupan sehari-hari kita, asap knalpot mobil adalah salah satunya. Selain itu, sampah juga menyebabkan kerusakan serius pada lingkungan.\nUntungnya, semakin banyak orang yang dengan peka menyadari masalah lingkungan",
+    "tr": "Dünya'daki küçük bir kirliliğin önemsiz olduğunu düşünüyorsanız, çok yanılıyorsunuz! Çevre kirliliği hayvanlara, bitkilere ve insanın kendisine zarar verir.\nGeçmişte yaşamış bazı hayvanları bugün artık göremezsiniz, bitkiler de aynı tehlikeyle karşı karşıyadır. Hayvan ve bitkilerin yok olmasının bir kısmı doğal değişimlerden, örneğin seller, depremler gibi yaşam ortamlarını değiştiren olaylardan kaynaklanır, ancak daha büyük nedeni insanın doğaya verdiği zarardır — bazı bölgelerde ormanlar neredeyse tamamen kesilmiş, birçok nehir kirlenmiş, artık balıkların yaşamasına uygun değil, bazı bölgeler eskiden bozkırken şimdi çöle dönüşmüş... Uluslararası çevre örgütlerinin yayımladığı verilerden anlaşıldığına göre, Dünya'daki hayvan ve bitkilerin yarısından fazlası yok oluyor, bu gerçek bir durum, hiç de abartı değil. İnsanın kendisi de kirliliğin zararından çok çekiyor. Bazı bölgelerde yüzey suları kirlenmiş, yeraltı suları ise aşırı kullanılıyor, su kıtlığı sorununu bilim insanları bile nasıl çözeceğini bilmiyor, şu anda dünyada insanların %17'si temiz içme suyundan yararlanamıyor, hava kirliliğiyle ilgili hastalıklardan ölenlerin sayısı ise trafik kazalarından ölenlerden daha fazla. Bu veriler gerçekten endişe verici.\nÇevre kirliliğinin bir kısmı endüstriyel ve tarımsal üretim faaliyetlerinden kaynaklanır, örneğin, büyük fabrikaların üretim sürecinde bazıları çok miktarda atık su üretir; bazıları çok miktarda kömür yakar, böylece çok miktarda atık gaz ve atık üretir. Bir kısmı da günlük yaşamımızla yakından ilgilidir, araba egzozu bunlardan biridir. Ayrıca çöpler de çevreye ciddi zarar verir.\nNeyse ki, giderek daha fazla insan çevre sorununu duyarlı bir şekilde fark ediyor"
+  },
+  "vocabulary": [
+    {
+      "hanzi": "消失",
+      "pinyin": "xiāoshī",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "исчезать",
+        "tk": "ýitmek",
+        "en": "to disappear, to vanish",
+        "uz": "yo'qolmoq",
+        "tg": "нест шудан",
+        "id": "menghilang",
+        "tr": "kaybolmak"
+      }
+    },
+    {
+      "hanzi": "洪水",
+      "pinyin": "hóngshuǐ",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "наводнение",
+        "tk": "suw joşguny",
+        "en": "flood",
+        "uz": "suv toshqini",
+        "tg": "обхезӣ",
+        "id": "banjir",
+        "tr": "sel"
+      }
+    },
+    {
+      "hanzi": "地震",
+      "pinyin": "dìzhèn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "землетрясение",
+        "tk": "ýer titremesi",
+        "en": "earthquake",
+        "uz": "zilzila",
+        "tg": "заминларза",
+        "id": "gempa bumi",
+        "tr": "deprem"
+      }
+    },
+    {
+      "hanzi": "破坏",
+      "pinyin": "pòhuài",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "разрушать, ломать",
+        "tk": "weýran etmek, döwmek",
+        "en": "to destroy, to damage",
+        "uz": "buzmoq, vayron qilmoq",
+        "tg": "вайрон кардан, шикастан",
+        "id": "menghancurkan, merusak",
+        "tr": "yıkmak, bozmak"
+      }
+    },
+    {
+      "hanzi": "砍",
+      "pinyin": "kǎn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "рубить, срубать",
+        "tk": "çapmak, kesmek",
+        "en": "to cut, to chop, to fell",
+        "uz": "kesmoq, chopmoq",
+        "tg": "буридан, реза кардан",
+        "id": "memotong, menebang",
+        "tr": "kesmek, doğramak"
+      }
+    },
+    {
+      "hanzi": "生存",
+      "pinyin": "shēngcún",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "существовать, выживать",
+        "tk": "ýaşamak, gün geçirmek",
+        "en": "to live, to subsist",
+        "uz": "yashash, kun kechirmoq",
+        "tg": "зистан, зиндагӣ кардан",
+        "id": "hidup, bertahan hidup",
+        "tr": "yaşamak, hayatta kalmak"
+      }
+    },
+    {
+      "hanzi": "沙漠",
+      "pinyin": "shāmò",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "пустыня",
+        "tk": "çöl",
+        "en": "desert",
+        "uz": "cho'l",
+        "tg": "биёбон",
+        "id": "gurun",
+        "tr": "çöl"
+      }
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "объявлять, публиковать",
+        "tk": "yglan etmek, çap etmek",
+        "en": "to announce, to make public",
+        "uz": "e'lon qilmoq, chop etmoq",
+        "tg": "эълон кардан, нашр кардан",
+        "id": "mengumumkan, mempublikasikan",
+        "tr": "duyurmak, yayımlamak"
+      }
+    },
+    {
+      "hanzi": "数据",
+      "pinyin": "shùjù",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "данные",
+        "tk": "maglumat",
+        "en": "data",
+        "uz": "ma'lumot",
+        "tg": "маълумот",
+        "id": "data",
+        "tr": "veri"
+      }
+    },
+    {
+      "hanzi": "真实",
+      "pinyin": "zhēnshí",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "реальный, истинный",
+        "tk": "hakyky",
+        "en": "real, actual",
+        "uz": "haqiqiy",
+        "tg": "ҳақиқӣ",
+        "id": "nyata",
+        "tr": "gerçek"
+      }
+    },
+    {
+      "hanzi": "夸张",
+      "pinyin": "kuāzhāng",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "преувеличенный",
+        "tk": "ulaldylan",
+        "en": "exaggerated",
+        "uz": "mubolag'a",
+        "tg": "муболиға",
+        "id": "berlebihan",
+        "tr": "abartılı"
+      }
+    },
+    {
+      "hanzi": "资源",
+      "pinyin": "zīyuán",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "ресурсы",
+        "tk": "çeşme",
+        "en": "resource",
+        "uz": "resurs",
+        "tg": "захира",
+        "id": "sumber daya",
+        "tr": "kaynak"
+      }
+    },
+    {
+      "hanzi": "车祸",
+      "pinyin": "chēhuò",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "автокатастрофа",
+        "tk": "ýol heläkçiligi",
+        "en": "traffic accident",
+        "uz": "yo'l-transport halokati",
+        "tg": "садамаи нақлиёт",
+        "id": "kecelakaan lalu lintas",
+        "tr": "trafik kazası"
+      }
+    },
+    {
+      "hanzi": "不安",
+      "pinyin": "bù'ān",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "тревожный, беспокойный",
+        "tk": "biynjalyk",
+        "en": "upset, disturbed",
+        "uz": "bezovta",
+        "tg": "ноором",
+        "id": "gelisah",
+        "tr": "huzursuz"
+      }
+    },
+    {
+      "hanzi": "工业",
+      "pinyin": "gōngyè",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "промышленность",
+        "tk": "senagat",
+        "en": "industry",
+        "uz": "sanoat",
+        "tg": "саноат",
+        "id": "industri",
+        "tr": "sanayi"
+      }
+    },
+    {
+      "hanzi": "农业",
+      "pinyin": "nóngyè",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "сельское хозяйство",
+        "tk": "oba hojalygy",
+        "en": "agriculture",
+        "uz": "qishloq xo'jaligi",
+        "tg": "кишоварзӣ",
+        "id": "pertanian",
+        "tr": "tarım"
+      }
+    },
+    {
+      "hanzi": "生产",
+      "pinyin": "shēngchǎn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "производить",
+        "tk": "önümçilik",
+        "en": "to produce, to manufacture",
+        "uz": "ishlab chiqarish",
+        "tg": "истеҳсол",
+        "id": "produksi",
+        "tr": "üretim"
+      }
+    },
+    {
+      "hanzi": "大型",
+      "pinyin": "dàxíng",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "крупномасштабный",
+        "tk": "uly",
+        "en": "large-scale",
+        "uz": "yirik",
+        "tg": "калонҳаҷм",
+        "id": "besar",
+        "tr": "büyük ölçekli"
+      }
+    },
+    {
+      "hanzi": "工厂",
+      "pinyin": "gōngchǎng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "фабрика, завод",
+        "tk": "zawod, fabrika",
+        "en": "factory",
+        "uz": "zavod, fabrika",
+        "tg": "завод, фабрика",
+        "id": "pabrik",
+        "tr": "fabrika"
+      }
+    },
+    {
+      "hanzi": "废",
+      "pinyin": "fèi",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "отработанный, ненужный",
+        "tk": "biderek, peýdasız",
+        "en": "waste, useless",
+        "uz": "keraksiz, foydasiz",
+        "tg": "бекора, бефоида",
+        "id": "sia-sia, tidak berguna",
+        "tr": "atık, işe yaramaz"
+      }
+    },
+    {
+      "hanzi": "燃烧",
+      "pinyin": "ránshāo",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "гореть, сжигать",
+        "tk": "ýanmak, ýakmak",
+        "en": "to burn, to combust",
+        "uz": "yonmoq, kuydirmoq",
+        "tg": "сӯхтан, сӯзонидан",
+        "id": "membakar, terbakar",
+        "tr": "yanmak, yakmak"
+      }
+    },
+    {
+      "hanzi": "煤炭",
+      "pinyin": "méitàn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "уголь",
+        "tk": "kömür",
+        "en": "coal",
+        "uz": "ko'mir",
+        "tg": "ангишт",
+        "id": "batu bara",
+        "tr": "kömür"
+      }
+    },
+    {
+      "hanzi": "密切",
+      "pinyin": "mìqiè",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "тесный, близкий",
+        "tk": "ýakyn, ýakyndan",
+        "en": "close, intimate",
+        "uz": "yaqin, zich",
+        "tg": "наздик, зич",
+        "id": "dekat, erat",
+        "tr": "yakın, sıkı"
+      }
+    },
+    {
+      "hanzi": "尾气",
+      "pinyin": "wěiqì",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "выхлопные газы",
+        "tk": "çykindysy",
+        "en": "exhaust gas",
+        "uz": "chiqindi gazi",
+        "tg": "гази хориҷшаванда",
+        "id": "gas buang",
+        "tr": "egzoz gazı"
+      }
+    },
+    {
+      "hanzi": "幸运",
+      "pinyin": "xìngyùn",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "удачливый, счастливый",
+        "tk": "bagtly",
+        "en": "lucky, fortunate",
+        "uz": "omadli",
+        "tg": "хушбахт",
+        "id": "beruntung",
+        "tr": "şanslı"
+      }
+    },
+    {
+      "hanzi": "敏感",
+      "pinyin": "mǐngǎn",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "чувствительный, восприимчивый",
+        "tk": "duýgur, täsirli",
+        "en": "sensitive, susceptible",
+        "uz": "sezgir, ta'sirchan",
+        "tg": "ҳассос, таъсирпазир",
+        "id": "sensitif, peka",
+        "tr": "hassas, duyarlı"
+      }
+    },
+    {
+      "hanzi": "自觉",
+      "pinyin": "zìjué",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "сознательный",
+        "tk": "öz-özünden",
+        "en": "conscious, on one's own initiative",
+        "uz": "o'z-o'zidan",
+        "tg": "худхоҳона",
+        "id": "sadar",
+        "tr": "bilinçli"
+      }
+    },
+    {
+      "hanzi": "设施",
+      "pinyin": "shèshī",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "оборудование, инфраструктура",
+        "tk": "desgalar",
+        "en": "installation, facilities",
+        "uz": "inshoot",
+        "tg": "таъсис",
+        "id": "fasilitas",
+        "tr": "tesis"
+      }
+    },
+    {
+      "hanzi": "能源",
+      "pinyin": "néngyuán",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "энергоресурсы",
+        "tk": "energiýa",
+        "en": "energy resource",
+        "uz": "energiya",
+        "tg": "энергия",
+        "id": "energi",
+        "tr": "enerji"
+      }
+    },
+    {
+      "hanzi": "逐步",
+      "pinyin": "zhúbù",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "постепенно, шаг за шагом",
+        "tk": "kem-kemden",
+        "en": "gradually, step by step",
+        "uz": "bosqichma-bosqich",
+        "tg": "қадам ба қадам",
+        "id": "secara bertahap",
+        "tr": "adım adım"
+      }
+    },
+    {
+      "hanzi": "尽量",
+      "pinyin": "jǐnliàng",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "по возможности, стараться",
+        "tk": "mümkin boldugyça",
+        "en": "to the best of one's abilities",
+        "uz": "imkon qadar",
+        "tg": "то ҳадди имкон",
+        "id": "sebisa mungkin",
+        "tr": "mümkün olduğunca"
+      }
+    },
+    {
+      "hanzi": "私人",
+      "pinyin": "sīrén",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "частное лицо; личный",
+        "tk": "şahsy",
+        "en": "private",
+        "uz": "shaxsiy",
+        "tg": "шахсӣ",
+        "id": "pribadi",
+        "tr": "özel"
+      }
+    },
+    {
+      "hanzi": "尊敬",
+      "pinyin": "zūnjìng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "уважать",
+        "tk": "hormatlamak",
+        "en": "to respect, to esteem",
+        "uz": "hurmat qilmoq",
+        "tg": "эҳтиром кардан",
+        "id": "menghormati",
+        "tr": "saygı duymak"
+      }
+    },
+    {
+      "hanzi": "鼓舞",
+      "pinyin": "gǔwǔ",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "воодушевлять",
+        "tk": "ruhlandyrmak",
+        "en": "to encourage, to inspire",
+        "uz": "ruhlantirmoq",
+        "tg": "рӯҳбаланд кардан",
+        "id": "menyemangati",
+        "tr": "teşvik etmek"
+      }
+    },
+    {
+      "hanzi": "消极",
+      "pinyin": "xiāojí",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "пассивный, негативный",
+        "tk": "passiw, negatiw",
+        "en": "passive, inactive",
+        "uz": "passiv, salbiy",
+        "tg": "ғайрифаъол, манфӣ",
+        "id": "pasif, negatif",
+        "tr": "pasif, olumsuz"
+      }
+    },
+    {
+      "hanzi": "幻想",
+      "pinyin": "huànxiǎng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "иллюзия, фантазия",
+        "tk": "hyýal, fantaziýa",
+        "en": "fantasy, illusion",
+        "uz": "xayol, fantaziya",
+        "tg": "хаёл, фантазия",
+        "id": "fantasi, ilusi",
+        "tr": "fantezi, hayal"
+      }
+    },
+    {
+      "hanzi": "贡献",
+      "pinyin": "gòngxiàn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "вклад",
+        "tk": "goşant",
+        "en": "contribution",
+        "uz": "hissa",
+        "tg": "саҳм",
+        "id": "kontribusi",
+        "tr": "katkı"
+      }
+    },
+    {
+      "hanzi": "命运",
+      "pinyin": "mìngyùn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "судьба",
+        "tk": "ykgbal",
+        "en": "fate, destiny",
+        "uz": "taqdir",
+        "tg": "қисмат",
+        "id": "takdir",
+        "tr": "kader"
+      }
+    },
+    {
+      "hanzi": "掌握",
+      "pinyin": "zhǎngwò",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "владеть, управлять",
+        "tk": "eýelemek, dolandyrmak",
+        "en": "to take charge of, to control",
+        "uz": "egallamoq, boshqarmoq",
+        "tg": "азхуд кардан, идора кардан",
+        "id": "menguasai, mengendalikan",
+        "tr": "ele geçirmek, yönetmek"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "密切",
+      "pos": "adj./v.",
+      "explanation": {
+        "ru": "«密切» — прилагательное: «тесно связанный, близкий»; также «внимательный, тщательный»; глагол: «сближать, делать теснее».",
+        "en": "«密切» — adj.: 'closely related, close'; also 'attentive'; verb: 'to bring closer'.",
+        "tk": "«密切» — sypat: «ýakyndan bagly, ýakyn»; şeýle hem «ünsli, içgin»; işlik: «ýakynlaşdyrmak, has ýakyn etmek».",
+        "uz": "«密切» — sifat: «chambarchas bog'liq, yaqin»; shuningdek «diqqatli, sinchkov»; fe'l: «yaqinlashtirmoq, yanada yaqin qilmoq».",
+        "tg": "«密切» — сифат: «аз наздик алоқаманд, наздик»; инчунин «диққатнок, бодиққат»; феъл: «наздик кардан, наздиктар кардан».",
+        "id": "«密切» — kata sifat: 'berkaitan erat, dekat'; juga 'penuh perhatian, teliti'; kata kerja: 'mendekatkan, membuat lebih dekat'.",
+        "tr": "«密切» — sıfat: 'sıkı sıkıya bağlı, yakın'; ayrıca 'dikkatli, titiz'; fiil: 'yakınlaştırmak, daha yakın hale getirmek'."
+      },
+      "formula": {
+        "ru": "和/与……密切相关；密切地 + 动词",
+        "en": "和/与...密切相关；密切地 + verb",
+        "tk": "ýakyn; ýakyn arabaglanyşykda; ýakyndan + işlik",
+        "uz": "yaqin; yaqin aloqada; yaqindan + fe'l",
+        "tg": "наздик; дар робитаи наздик; аз наздик + феъл",
+        "id": "erat; berhubungan erat; erat + kata kerja",
+        "tr": "yakın; yakından ilişkili; yakından + fiil"
+      },
+      "examples": [
+        {
+          "zh": "还有一部分污染和我们的日常生活密切相关，汽车尾气就是其中之一。",
+          "ru": "Часть загрязнения тесно связана с нашей повседневной жизнью — выхлопные газы тому пример.",
+          "en": "Part of the pollution is closely tied to daily life — car exhaust is one example.",
+          "tk": "Bir bölegi hapalanma biziň gündelik durmuşymyz bilen ýakyndan baglydyr, awtoulag gazlary hem şolaryň biridir.",
+          "uz": "Ifloslanishning bir qismi kundalik hayotimiz bilan chambarchas bog'liq, avtomobil chiqindisi ham shulardan biridir.",
+          "tg": "Бахше аз ифлосшавӣ бо ҳаёти ҳаррӯзаи мо зич алоқаманд аст, газҳои автомобил яке аз онҳост.",
+          "id": "Sebagian polusi sangat erat kaitannya dengan kehidupan sehari-hari kita, asap knalpot mobil adalah salah satunya.",
+          "tr": "Kirliliğin bir kısmı günlük hayatımızla yakından ilişkilidir, araba egzozu da bunlardan biridir."
+        },
+        {
+          "zh": "刘医生密切地观察着李妈妈病情的发展。",
+          "ru": "Доктор Лю внимательно следил за развитием болезни мамы Ли.",
+          "en": "Dr. Liu closely monitored the development of Mama Li's illness.",
+          "tk": "Doktor Liu Li mamanyň keseliniň ösüşine ýakyndan syn etdi.",
+          "uz": "Doktor Liu Li onaning kasalligi rivojlanishini diqqat bilan kuzatdi.",
+          "tg": "Доктор Лю бодиққат рушди бемории модари Лиро назорат мекард.",
+          "id": "Dokter Liu dengan cermat mengamati perkembangan penyakit Mama Li.",
+          "tr": "Doktor Liu, Li Anne'nin hastalığının gelişimini yakından izledi."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "这种病传染性很强，__。",
+          "answer": "要密切注意。"
+        }
+      ]
+    },
+    {
+      "word": "尽量",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«尽量» — наречие: «стараться изо всех сил, по возможности».",
+        "en": "«尽量» — adverb: 'to the best of one's ability, as much as possible'.",
+        "tk": "«尽量» — hal: «mümkin boldugyça, eliňden gelenini etmek».",
+        "uz": "«尽量» — ravish: «iloji boricha, qo'ldan kelgancha harakat qilmoq».",
+        "tg": "«尽量» — зарф: «то ҳадди имкон, тамоми қувватро сарф кардан».",
+        "id": "«尽量» — adverbia: 'sebisa mungkin, semaksimal mungkin'.",
+        "tr": "«尽量» — zarf: 'mümkün olduğunca, elinden geleni yapmak'."
+      },
+      "formula": {
+        "ru": "尽量 + 动词",
+        "en": "尽量 + verb",
+        "tk": "mümkin boldugyça",
+        "uz": "iloji boricha",
+        "tg": "то ҳадди имкон",
+        "id": "sebisa mungkin",
+        "tr": "mümkün olduğunca"
+      },
+      "examples": [
+        {
+          "zh": "同时，尽量多骑自行车，多选择公共交通，少使用私家车。",
+          "ru": "И стараться больше ездить на велосипеде, пользоваться общественным транспортом, меньше — личным автомобилем.",
+          "en": "Also try to cycle more, use public transport more, and use private cars less.",
+          "tk": "Şeýle hem, mümkin boldugyça köp welosiped sürmeli, köp jemgyýetçilik ulagyny saýlamaly, hususy awtoulaglary az ulanmaly.",
+          "uz": "Shuningdek, imkon qadar ko'proq velosiped minish, ko'proq jamoat transportidan foydalanish, shaxsiy avtomobillarni kamroq ishlatish kerak.",
+          "tg": "Ҳамзамон, то ҳадди имкон бештар велосипед рондан, бештар нақлиёти ҷамъиятиро интихоб кардан, мошинҳои шахсиро камтар истифода бурдан лозим аст.",
+          "id": "Pada saat yang sama, usahakan lebih banyak bersepeda, lebih memilih transportasi umum, dan lebih sedikit menggunakan mobil pribadi.",
+          "tr": "Aynı zamanda, mümkün olduğunca çok bisiklet sürmeli, toplu taşımayı daha çok tercih etmeli, özel araçları daha az kullanmalı."
+        },
+        {
+          "zh": "老年人要尽量少吃油炸食品。",
+          "ru": "Пожилым людям следует по возможности избегать жареной еды.",
+          "en": "Elderly people should eat as little fried food as possible.",
+          "tk": "Garrylar mümkin boldugyça az gowrulan iýmit iýmeli.",
+          "uz": "Keksalar iloji boricha kam qovurilgan ovqat iste'mol qilishlari kerak.",
+          "tg": "Одамони солхӯрда бояд то ҳадди имкон камтар ғизои бирён истеъмол кунанд.",
+          "id": "Orang lanjut usia sebaiknya sesedikit mungkin makan makanan yang digoreng.",
+          "tr": "Yaşlılar mümkün olduğunca az kızarmış yiyecek yemelidir."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "明天单位有个活动，可能不能按时下班，__。",
+          "answer": "我会尽量早点回来。"
+        }
+      ]
+    },
+    {
+      "word": "逐步",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«逐步» — наречие: «шаг за шагом, постепенно». Обычно о действиях человека, не о природных явлениях.",
+        "en": "«逐步» — adverb: 'step by step, gradually'. Usually about human actions, not natural phenomena.",
+        "tk": "«逐步» — hal: 'ädimme-ädim, kem-kemden'. Adatça adam hereketleri barada, tebigy hadysalar barada däl.",
+        "uz": "«逐步» — ravish: 'qadam-baqadam, asta-sekin'. Odatda inson harakatlari haqida, tabiiy hodisalar haqida emas.",
+        "tg": "«逐步» — зарф: 'қадам ба қадам, тадриҷан'. Одатан дар бораи амалҳои инсон, на дар бораи ҳодисаҳои табиӣ.",
+        "id": "«逐步» — adverbia: 'langkah demi langkah, secara bertahap'. Biasanya tentang tindakan manusia, bukan fenomena alam.",
+        "tr": "«逐步» — zarf: 'adım adım, kademeli olarak'. Genellikle insan eylemleri hakkında, doğa olayları hakkında değil."
+      },
+      "formula": {
+        "ru": "逐步 + 动词",
+        "en": "逐步 + verb",
+        "tk": "tapgyrma-tapgyr",
+        "uz": "bosqichma-bosqich",
+        "tg": "марҳила ба марҳила",
+        "id": "secara bertahap",
+        "tr": "aşamalı olarak"
+      },
+      "examples": [
+        {
+          "zh": "调整能源消费结构，逐步向可再生能源转变。",
+          "ru": "Скорректировать структуру энергопотребления и постепенно перейти к возобновляемым источникам.",
+          "en": "Adjust the energy consumption structure and gradually shift to renewables.",
+          "tk": "Enerji sarp ediş gurluşyny düzedip, kem-kemden gaýtadan dikeldilýän çeşmelere geçmeli.",
+          "uz": "Energiya iste'moli tuzilmasini o'zgartirib, bosqichma-bosqich qayta tiklanuvchi manbalarga o'tish.",
+          "tg": "Сохтори истеҳсоли энергияро танзим карда, тадриҷан ба манбаъҳои барқароршаванда гузаштан лозим аст.",
+          "id": "Menyesuaikan struktur konsumsi energi dan secara bertahap beralih ke energi terbarukan.",
+          "tr": "Enerji tüketim yapısını ayarlayıp kademeli olarak yenilenebilir kaynaklara geçmek."
+        },
+        {
+          "zh": "现在受灾群众已逐步恢复了正常的生产生活。",
+          "ru": "Сейчас пострадавшие постепенно восстановили нормальную жизнь и производство.",
+          "en": "The affected people have gradually resumed normal life and work.",
+          "tk": "Häzir zyýan çeken ilat kem-kemden adaty önümçilik we durmuş işlerine gaýdyp başlady.",
+          "uz": "Hozir zarar ko'rgan aholi asta-sekin normal ishlab chiqarish va turmush faoliyatiga qaytdi.",
+          "tg": "Ҳоло аҳолии зарардида тадриҷан ба ҳаёти муқаррарии истеҳсолӣ ва рӯзгор баргашт.",
+          "id": "Saat ini masyarakat yang terdampak telah secara bertahap memulihkan kehidupan produksi dan kehidupan normal mereka.",
+          "tr": "Şu anda afetzedeler kademeli olarak normal üretim ve yaşamlarına döndüler."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "随着人们生活水平的不断提高，绿色食品__。",
+          "answer": "逐步走进了普通家庭。"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "鼓励",
+      "word_b": "鼓舞",
+      "common": {
+        "ru": "Оба глагола значат «воодушевлять, укреплять веру».",
+        "en": "Both verbs mean 'to encourage, to boost one's spirits'.",
+        "tk": "Höweslendirmek vs ruhlandyrmak",
+        "uz": "Rag'batlantirmoq vs ruhlantirmoq",
+        "tg": "Ҳавасманд кардан vs рӯҳбаланд кардан",
+        "id": "Mendorong vs membangkitkan semangat",
+        "tr": "Teşvik etmek vs cesaretlendirmek"
+      },
+      "differences": [
+        {
+          "ru": "«鼓励» — нейтральное, может использоваться и в негативном контексте; субъект — обычно человек или организация, конструкция «鼓励某人做某事».",
+          "en": "«鼓励» — neutral, can be used negatively; subject is usually a person or organization; pattern «鼓励某人做某事».",
+          "tk": "«鼓励» — neýtral, negatiw kontekstde hem ulanylyp bilner; subýekt — adatça adam ýa-da gurama, «鼓励某人做某事» gurluşy.",
+          "uz": "«鼓励» — neytral, salbiy kontekstda ham ishlatilishi mumkin; subyekt — odatda shaxs yoki tashkilot, «鼓励某人做某事» konstruksiyasi.",
+          "tg": "«鼓励» — бетараф, метавонад дар заминаи манфӣ низ истифода шавад; субъект — одатан шахс ё ташкилот, сохтори «鼓励某人做某事».",
+          "id": "«鼓励» — netral, dapat digunakan juga dalam konteks negatif; subjek — biasanya orang atau organisasi, konstruksi «鼓励某人做某事».",
+          "tr": "«鼓励» — nötr, olumsuz bağlamda da kullanılabilir; özne — genellikle bir kişi veya kuruluş, «鼓励某人做某事» yapısı."
+        },
+        {
+          "ru": "«鼓舞» — о воодушевлении от какого-то события; подлежащее — обычно абстрактное (победа, успех).",
+          "en": "«鼓舞» — inspiration from an event; subject is usually abstract (a victory, success).",
+          "tk": "«鼓舞» — birebir hadysadan ruhlanmak hakynda; eýe, adatça, abstrakt (ýeňiş, üstünlik).",
+          "uz": "«鼓舞» — bir voqeadan ruhlanish haqida; ega odatda mavhum (g'alaba, muvaffaqiyat).",
+          "tg": "«鼓舞» — дар бораи илҳом гирифтан аз ҳодиса; мубтадо одатан маҷҳул (ғалаба, муваффақият).",
+          "id": "«鼓舞» — tentang semangat yang timbul dari suatu peristiwa; subjeknya biasanya abstrak (kemenangan, kesuksesan).",
+          "tr": "«鼓舞» — bir olaydan ilhamlanma hakkında; özne genellikle soyuttur (zafer, başarı)."
+        },
+        {
+          "ru": "«鼓舞» также может быть прилагательным: «令人鼓舞».",
+          "en": "«鼓舞» can also be an adjective: 令人鼓舞.",
+          "tk": "«鼓舞» hem-de sypat bolup biler: «令人鼓舞».",
+          "uz": "«鼓舞» ham sifat boʻlishi mumkin: «令人鼓舞».",
+          "tg": "«鼓舞» инчунин метавонад сифат бошад: «令人鼓舞».",
+          "id": "«鼓舞» juga bisa menjadi kata sifat: «令人鼓舞».",
+          "tr": "«鼓舞» ayrıca sıfat olabilir: «令人鼓舞»."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "zh": "资源",
+      "ru": "Ресурсы",
+      "en": "Resources",
+      "tk": "Çeşmeler",
+      "uz": "Resurslar",
+      "tg": "Захираҳо",
+      "id": "Sumber Daya",
+      "tr": "Kaynaklar"
+    },
+    "words": [
+      {
+        "hanzi": "金属",
+        "pinyin": "jīnshǔ",
+        "meaning": {
+          "zh": "",
+          "ru": "металл",
+          "en": "metal",
+          "tk": "metal",
+          "uz": "metall",
+          "tg": "металл",
+          "id": "logam",
+          "tr": "metal"
+        }
+      },
+      {
+        "hanzi": "黄金",
+        "pinyin": "huángjīn",
+        "meaning": {
+          "zh": "",
+          "ru": "золото",
+          "en": "gold",
+          "tk": "altyn",
+          "uz": "oltin",
+          "tg": "тилло",
+          "id": "emas",
+          "tr": "altın"
+        }
+      },
+      {
+        "hanzi": "银",
+        "pinyin": "yín",
+        "meaning": {
+          "zh": "",
+          "ru": "серебро",
+          "en": "silver",
+          "tk": "kümüş",
+          "uz": "kumush",
+          "tg": "нуқра",
+          "id": "perak",
+          "tr": "gümüş"
+        }
+      },
+      {
+        "hanzi": "钢铁",
+        "pinyin": "gāngtiě",
+        "meaning": {
+          "zh": "",
+          "ru": "сталь",
+          "en": "steel",
+          "tk": "polat",
+          "uz": "po'lat",
+          "tg": "пӯлод",
+          "id": "baja",
+          "tr": "çelik"
+        }
+      },
+      {
+        "hanzi": "煤炭",
+        "pinyin": "méitàn",
+        "meaning": {
+          "zh": "",
+          "ru": "уголь",
+          "en": "coal",
+          "tk": "kömür",
+          "uz": "ko'mir",
+          "tg": "ангишт",
+          "id": "batu bara",
+          "tr": "kömür"
+        }
+      },
+      {
+        "hanzi": "能源",
+        "pinyin": "néngyuán",
+        "meaning": {
+          "zh": "",
+          "ru": "энергоресурсы",
+          "en": "energy resource",
+          "tk": "energiýa",
+          "uz": "energiya",
+          "tg": "энергия",
+          "id": "energi",
+          "tr": "enerji"
+        }
+      },
+      {
+        "hanzi": "原料",
+        "pinyin": "yuánliào",
+        "meaning": {
+          "zh": "",
+          "ru": "сырьё",
+          "en": "raw material",
+          "tk": "çig mal",
+          "uz": "xom ashyo",
+          "tg": "ашёи хом",
+          "id": "bahan mentah",
+          "tr": "hammadde"
+        }
+      },
+      {
+        "hanzi": "资源",
+        "pinyin": "zīyuán",
+        "meaning": {
+          "zh": "",
+          "ru": "ресурсы",
+          "en": "resources",
+          "tk": "çeşmeler",
+          "uz": "resurslar",
+          "tg": "захираҳо",
+          "id": "sumber daya",
+          "tr": "kaynaklar"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "zh": "话题讨论：环保。1. 说说你每天从身边观察到的不环保的行为。2. 结合自己的经历，谈谈你对环保的认识。3. 请介绍几件生活中我们可以做到的环保实事。",
+      "ru": "Обсуждение: охрана окружающей среды. 1. Какие неэкологичные действия вы наблюдаете? 2. Ваше понимание экологии. 3. Что реально можно сделать в быту?",
+      "tk": "Çekişme: daşky gurşawy goramak. 1. Haýsy ekologiýa zyýanly hereketleri görýärsiňiz? 2. Ekologiýa baradaky düşünjäňiz. 3. Gündelik durmuşda hakykatdan nämäni edip bolar?",
+      "en": "Discussion: environmental protection. 1. What non-eco behaviours do you observe? 2. Your understanding of eco issues. 3. What can we realistically do?",
+      "uz": "Muhokama: atrof-muhitni muhofaza qilish. 1. Qanday ekologiyaga zararli xatti-harakatlarni kuzatasiz? 2. Ekologiya haqidagi tushunchangiz. 3. Kundalik hayotda haqiqatda nima qilish mumkin?",
+      "tg": "Муҳокима: ҳифзи муҳити зист. 1. Кадом амалҳои ба экология зарароварро мушоҳида мекунед? 2. Фаҳмиши шумо дар бораи экология. 3. Дар ҳаёти ҳаррӯза воқеан чӣ кор кардан мумкин аст?",
+      "id": "Diskusi: perlindungan lingkungan. 1. Tindakan tidak ramah lingkungan apa yang Anda amati? 2. Pemahaman Anda tentang ekologi. 3. Apa yang benar-benar bisa dilakukan dalam kehidupan sehari-hari?",
+      "tr": "Tartışma: çevre koruma. 1. Hangi çevre dostu olmayan davranışları gözlemliyorsunuz? 2. Ekoloji anlayışınız. 3. Günlük hayatta gerçekte neler yapılabilir?"
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "audio": "workbook_32_1.mp3",
+        "prompt": {
+          "zh": "环境污染有什么危害？",
+          "ru": "Какой вред наносит загрязнение?",
+          "en": "What harm does pollution do?"
+        },
+        "options": [
+          "危害动植物和人类",
+          "只是视觉问题",
+          "与人类无关",
+          "只影响城市"
+        ],
+        "answer": 0
+      }
+    ],
+    "reading": [
+      {
+        "type": "mc",
+        "prompt": {
+          "zh": "作者对环保的态度是什么？",
+          "ru": "Какова позиция автора об охране окружающей среды?",
+          "en": "What is the author's attitude to environmental protection?"
+        },
+        "options": [
+          "悲观",
+          "无所谓",
+          "积极",
+          "愤怒"
+        ],
+        "answer": 2
+      }
+    ],
+    "writing": [
+      {
+        "type": "make_sentence",
+        "words": [
+          "爱护环境",
+          "父母",
+          "要",
+          "教育他",
+          "从小就"
+        ],
+        "answer": "父母要从小就教育他爱护环境。"
+      },
+      {
+        "type": "make_sentence",
+        "words": [
+          "这样",
+          "逐步",
+          "良好的习惯",
+          "形成一些",
+          "才能"
+        ],
+        "answer": "这样才能逐步形成一些良好的习惯。"
+      },
+      {
+        "type": "short_essay",
+        "words": [
+          "环保",
+          "掌握",
+          "自觉",
+          "破坏",
+          "贡献"
+        ],
+        "min_length": 80
+      }
+    ]
+  }
+}

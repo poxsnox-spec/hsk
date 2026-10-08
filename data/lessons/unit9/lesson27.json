@@ -1,0 +1,897 @@
+{
+  "title": {
+    "zh": "下棋",
+    "ru": "Игра в шахматы",
+    "tk": "",
+    "en": "Playing chess",
+    "uz": "",
+    "tg": "",
+    "id": "",
+    "tr": ""
+  },
+  "audio_files": {
+    "textbook_1": "textbook_27_1.mp3",
+    "vocab": "vocab_27.mp3",
+    "workbook_27_1": "workbook_27_1.mp3"
+  },
+  "warmup": {
+    "question": {
+      "zh": "下图中的棋类，你认识多少？请说一说它们的名称。除了这些以外，你还知道其他棋牌运动吗？",
+      "ru": "Какие настольные игры на картинках вы знаете? Назовите их. Знаете ли вы другие?",
+      "tk": "",
+      "en": "How many board games in the picture do you know? Name them. Do you know other board and card games?",
+      "uz": "",
+      "tg": "",
+      "id": "",
+      "tr": ""
+    },
+    "answers": [
+      "围棋",
+      "国际象棋",
+      "中国象棋"
+    ]
+  },
+  "text_zh": "我父亲是一位象棋教练。那一年，我大学放假回家，父亲要跟我下棋，我高兴地答应了。\n父亲让我先走三步。不到三分钟，我的棋子损失大半，棋盘上空空的，只剩下几个子了。没办法，眼睁睁看着父亲“将军”，我输了。\n我不服气，说：“这次运气不好，再来！”第二局又输了，“这次没发挥好，我们再来”！几局下来，基本上都是不到10分钟我就败下阵来。我有些灰心。父亲看看我说：“你初学棋，输是正常的。但是你要知道输在什么地方，要吸取教训。否则，你就再上下10年，也未必能赢。”\n“我知道，我技术没你好，经验也不足。”\n“这只是次要因素，不是最重要的。”\n“那最重要的是什么？”我奇怪地问。\n“最重要的问题在于你心态不对。你不够珍惜你的棋子。”\n“怎么不珍惜呀？我每走一步，都想半天。”我否认说。\n“那是后来。开始你是这样吗？我仔细观察过，你三分之二的棋子是在前三分之一的时间失去的。这期间你好像很有把握，下棋时不假思索，拿起来就走，失去了也不觉得可惜。因为你觉得棋子很多，失一两个不算什么。后三分之二的时间，你又犯了相反的错误：对棋子过于珍惜，每走一步都过于谨慎，一个棋子也不想失，反而一个一个都失去了。”\n说到这，父亲停下来，把棋子重新在棋盘上摆好，抬起头，看着我，问：“这是一盘待下的棋。我问你，下棋的基本原则是什么？”\n我想也没想，脱口而出：“赢啊！”\n“那是目的。”父亲用责备的眼光看了我一眼，“至于原则，是要考虑得失。有得必然有失，有失才会有得。每走一步，你事先都应该想清楚：为了赢得什么，你愿意失去什么，这样才可能赢。可惜，大部分人都像你这样，开始不考虑得失，等到后来失去得多了，又开始舍不得，后果就是屡下屡败。其实不仅是下棋，人生也是如此啊！”",
+  "text_translation": {
+    "zh": "",
+    "ru": "Мой отец — тренер по сянци. В тот год я приехал домой на университетские каникулы, отец предложил сыграть, и я с радостью согласился.\nОтец дал мне фору в три хода. Не прошло и трёх минут, как я потерял больше половины фигур, доска опустела — остались лишь несколько. Ничего не поделаешь: беспомощно глядя, как отец объявляет «шах!», я проиграл.\nНе смирившись, я сказал: «В этот раз не повезло, ещё раз!» Вторая партия — снова поражение. «На этот раз не вошёл в форму, ещё!» После нескольких партий я в основном сдавался меньше чем за десять минут. Я пал духом. Отец посмотрел на меня и сказал: «Ты только начинаешь играть, проигрывать — нормально. Но ты должен понимать, где проиграл, и извлекать урок. Иначе, сколько бы ты ни играл ещё десять лет, победы можешь так и не добиться».\n«Я знаю, моя техника хуже твоей, и опыта мало».\n«Это лишь второстепенные факторы, не самое главное».\n«А что самое главное?» — удивился я.\n«Самое главное — у тебя неправильный настрой. Ты недостаточно бережёшь свои фигуры».\n«Как это не берегу? Я над каждым ходом думаю по полдня», — возразил я.\n«Это позже. А в начале ты так делал? Я внимательно наблюдал: две трети твоих фигур потеряны в первую треть времени. В тот период ты будто был уверен в себе, играл не задумываясь, хватал и двигал — и о потерях не жалел. Потому что считал: фигур много, потерять одну-две ничего не значит. А в последние две трети ты совершил противоположную ошибку: стал слишком дорожить фигурами, над каждым ходом чрезмерно осторожничал, ни одну фигуру не хотел терять — и растерял их одну за другой».\nТут отец остановился, снова расставил фигуры на доске, поднял голову, взглянул на меня и спросил: «Это партия, которую предстоит играть. Скажи, каков основной принцип игры в шахматы?»\nЯ, не задумываясь, выпалил: «Победить!»\n«Это цель». Отец укоризненно взглянул на меня: «А принцип — это учитывать приобретения и потери. Где приобретение — там неизбежна потеря; есть потеря — будет и приобретение. Перед каждым ходом ты должен заранее ясно понимать: ради какого приобретения ты готов чем пожертвовать — тогда только возможна победа. Увы, большинство людей, как и ты: сначала не думают о приобретениях и потерях, а когда позже теряют много — начинают жалеть; результат — поражение за поражением. И не только в шахматах — в жизни то же самое!»",
+    "tk": "",
+    "en": "My father is a Chinese chess coach. That year I came home from university for the holidays; father wanted to play chess with me, and I happily agreed.\nFather gave me three moves' head start. In under three minutes I'd lost most of my pieces — the board was nearly empty, only a few left. Helplessly watching father announce 'check!', I lost.\nUnconvinced, I said: 'Bad luck this time — again!' Second game lost too. 'Didn't play well this time, again!' After several games, I usually lost in under ten minutes. I got discouraged. Father looked at me: 'You're a beginner — losing is normal. But you must know where you lost and learn the lesson. Otherwise, even ten more years of playing may not bring victory.'\n'I know — my skill is worse, and my experience lacking.'\n'Those are secondary factors, not the most important.'\n'Then what is?' I asked, puzzled.\n'The key problem is your attitude. You don't value your pieces enough.'\n'How so? I think half a day over every move!' I protested.\n'That's later. Was it like that at the start? I watched carefully: two-thirds of your pieces were lost in the first third of the time. During that period you seemed confident, playing without thinking, picking up and moving — and not regretting the losses. Because you thought: plenty of pieces, losing one or two is nothing. In the last two-thirds you made the opposite mistake: you valued the pieces too much, were too cautious with every move, unwilling to lose a single one — and lost them one by one.'\nFather paused, reset the pieces on the board, lifted his head, looked at me and asked: 'This is a game yet to be played. Tell me, what is the basic principle of chess?'\nWithout thinking I blurted: 'To win!' 'That's the goal.' Father glanced at me reproachfully. 'The principle is to weigh gains and losses. Where there's gain there is inevitably loss; only with loss comes gain. Before every move you should know clearly: for what gain are you willing to lose what? Only then can you win. Alas, most people are like you: at first they don't weigh gains and losses; later, having lost much, they begrudge — and lose again and again. And not only in chess — in life too!'",
+    "uz": "",
+    "tg": "",
+    "id": "",
+    "tr": ""
+  },
+  "vocabulary": [
+    {
+      "hanzi": "（象）棋",
+      "pinyin": "(xiàng)qí",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "шахматы (сянци)",
+        "tk": "",
+        "en": "(Chinese) chess, board game",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "教练",
+      "pinyin": "jiàoliàn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "тренер",
+        "tk": "",
+        "en": "coach, instructor",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "答应",
+      "pinyin": "dāying",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "соглашаться, обещать",
+        "tk": "",
+        "en": "to agree, to promise",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "损失",
+      "pinyin": "sǔnshī",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "терять, утрачивать",
+        "tk": "",
+        "en": "to lose",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "睁",
+      "pinyin": "zhēng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "открывать (глаза)",
+        "tk": "",
+        "en": "to open one's eyes",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "眼睁睁",
+      "pinyin": "yǎnzhēngzhēng",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "беспомощно (смотреть)",
+        "tk": "",
+        "en": "looking on helplessly",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "将军",
+      "pinyin": "jiāngjūn",
+      "pos": "n./v.",
+      "meaning": {
+        "zh": "",
+        "ru": "генерал; шах!",
+        "tk": "",
+        "en": "general; to check",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "服气",
+      "pinyin": "fúqì",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "признать поражение",
+        "tk": "",
+        "en": "to be convinced, to be won over",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "运气",
+      "pinyin": "yùnqi",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "удача",
+        "tk": "",
+        "en": "luck, fortune",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "局",
+      "pinyin": "jú",
+      "pos": "m.",
+      "meaning": {
+        "zh": "",
+        "ru": "партия (в игре)",
+        "tk": "",
+        "en": "game, set",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "发挥",
+      "pinyin": "fāhuī",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "проявить, реализовать",
+        "tk": "",
+        "en": "to bring into play",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "灰心",
+      "pinyin": "huīxīn",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "падать духом",
+        "tk": "",
+        "en": "discouraged",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "吸取",
+      "pinyin": "xīqǔ",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "извлекать, впитывать",
+        "tk": "",
+        "en": "to absorb, to draw",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "教训",
+      "pinyin": "jiàoxùn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "урок",
+        "tk": "",
+        "en": "lesson, moral",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "未必",
+      "pinyin": "wèibì",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "не обязательно",
+        "tk": "",
+        "en": "may not, not necessarily",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "次要",
+      "pinyin": "cìyào",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "второстепенный",
+        "tk": "",
+        "en": "less important, secondary",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "因素",
+      "pinyin": "yīnsù",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "фактор",
+        "tk": "",
+        "en": "factor",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "在于",
+      "pinyin": "zàiyú",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "заключаться в",
+        "tk": "",
+        "en": "to lie in, to consist in",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "心态",
+      "pinyin": "xīntài",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "психологическое состояние",
+        "tk": "",
+        "en": "psychology, mental attitude",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "珍惜",
+      "pinyin": "zhēnxī",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "дорожить",
+        "tk": "",
+        "en": "to cherish, to treasure",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "否认",
+      "pinyin": "fǒurèn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "отрицать",
+        "tk": "",
+        "en": "to deny",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "观察",
+      "pinyin": "guānchá",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "наблюдать",
+        "tk": "",
+        "en": "to observe, to watch",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "失去",
+      "pinyin": "shīqù",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "терять",
+        "tk": "",
+        "en": "to lose",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "期间",
+      "pinyin": "qījiān",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "период, время",
+        "tk": "",
+        "en": "time, period",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "把握",
+      "pinyin": "bǎwò",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "уверенность",
+        "tk": "",
+        "en": "assurance, confidence",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "不假思索",
+      "pinyin": "bùjiǎ-sīsuǒ",
+      "pos": "идиом",
+      "meaning": {
+        "zh": "",
+        "ru": "не задумываясь",
+        "tk": "",
+        "en": "without thinking or hesitation",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "犯",
+      "pinyin": "fàn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "совершать (ошибку)",
+        "tk": "",
+        "en": "to commit (an error)",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "过于",
+      "pinyin": "guòyú",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "слишком, чрезмерно",
+        "tk": "",
+        "en": "too, excessively",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "原则",
+      "pinyin": "yuánzé",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "принцип",
+        "tk": "",
+        "en": "principle, tenet",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "责备",
+      "pinyin": "zébèi",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "упрекать",
+        "tk": "",
+        "en": "to blame, to reproach",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "必然",
+      "pinyin": "bìrán",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "неизбежный",
+        "tk": "",
+        "en": "inevitable, certain",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "事先",
+      "pinyin": "shìxiān",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "заранее",
+        "tk": "",
+        "en": "beforehand, in advance",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "舍不得",
+      "pinyin": "shěbude",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "жалко, не хочется расставаться",
+        "tk": "",
+        "en": "to be unwilling to part with",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "后果",
+      "pinyin": "hòuguǒ",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "последствие",
+        "tk": "",
+        "en": "consequence, aftermath",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "屡",
+      "pinyin": "lǚ",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "неоднократно",
+        "tk": "",
+        "en": "repeatedly, time and again",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "动词+下来",
+      "pos": "конструкция",
+      "explanation": {
+        "ru": "«Глагол + 下来» означает завершение действия, иногда с оттенком отделения или фиксации.",
+        "en": "«Verb + 下来» indicates completion of an action, sometimes with a sense of separation or fixation."
+      },
+      "examples": [
+        {
+          "zh": "你的论文大概什么时候发表？定下来了吗？",
+          "ru": "Когда примерно опубликуют твою диссертацию? Уже решено?",
+          "en": "When will your thesis be published? Is it settled?"
+        },
+        {
+          "zh": "你看，那张纸是从这本书里撕下来的。",
+          "ru": "Смотри, этот лист вырван из этой книги.",
+          "en": "Look, that page was torn out of this book."
+        },
+        {
+          "zh": "几局下来，基本上都是不到10分钟我就败下阵来。",
+          "ru": "После нескольких партий я в основном сдавался меньше чем за 10 минут.",
+          "en": "After several games, I usually lost in under ten minutes."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "房间里太热了，__。",
+          "answer": "把外套脱下来吧"
+        }
+      ]
+    },
+    {
+      "word": "舍不得",
+      "pos": "v.",
+      "explanation": {
+        "ru": "«舍不得» — «жаль, не хочется расставаться / тратить / использовать». Утвердительная форма «舍得» обычно в вопросах или сравнениях.",
+        "en": "«舍不得» means 'to be unwilling to part with / spend / use'. The affirmative «舍得» is usually in questions or comparisons."
+      },
+      "examples": [
+        {
+          "zh": "把你最喜欢的玩具送给小朋友，你舍得吗？",
+          "ru": "Ты готов отдать свою любимую игрушку малышу?",
+          "en": "Would you give your favourite toy to a child?"
+        },
+        {
+          "zh": "可惜，大部分人都像你这样，开始不考虑得失，等到后来失去得多了，又开始舍不得，后果就是屡下屡败。",
+          "ru": "Увы, большинство людей, как и ты: сначала не думают о потерях, а позже, потеряв много, начинают жалеть — и в итоге терпят поражение за поражением.",
+          "en": "Alas, most people are like you: at first they ignore gains and losses; later, having lost much, they begrudge — and lose again and again."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "这么好的工作，你怎么__？！",
+          "answer": "舍得辞职"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "损失",
+      "word_b": "失去",
+      "common": {
+        "ru": "Оба глагола означают, что что-то было и исчезло.",
+        "en": "Both verbs mean something that existed is gone."
+      },
+      "differences": [
+        {
+          "ru": "«损失» — «уменьшение»; может быть существительным.",
+          "en": "«损失» — 'reduction'; can be a noun."
+        },
+        {
+          "ru": "«失去» — обычно «полностью лишиться»; не может быть существительным.",
+          "en": "«失去» — usually 'completely lose'; can't be a noun."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "zh": "家居2 (Домашние принадлежности 2)",
+      "ru": "Домашние принадлежности 2",
+      "en": "Household items 2"
+    },
+    "words": [
+      {
+        "hanzi": "夹子",
+        "pinyin": "jiāzi",
+        "meaning": {
+          "zh": "",
+          "ru": "зажим, прищепка",
+          "en": "clip, clamp"
+        }
+      },
+      {
+        "hanzi": "梳子",
+        "pinyin": "shūzi",
+        "meaning": {
+          "zh": "",
+          "ru": "расчёска",
+          "en": "comb"
+        }
+      },
+      {
+        "hanzi": "肥皂",
+        "pinyin": "féizào",
+        "meaning": {
+          "zh": "",
+          "ru": "мыло",
+          "en": "soap"
+        }
+      },
+      {
+        "hanzi": "扇子",
+        "pinyin": "shànzi",
+        "meaning": {
+          "zh": "",
+          "ru": "веер",
+          "en": "fan"
+        }
+      },
+      {
+        "hanzi": "剪刀",
+        "pinyin": "jiǎndāo",
+        "meaning": {
+          "zh": "",
+          "ru": "ножницы",
+          "en": "scissors"
+        }
+      },
+      {
+        "hanzi": "绳子",
+        "pinyin": "shéngzi",
+        "meaning": {
+          "zh": "",
+          "ru": "верёвка",
+          "en": "rope"
+        }
+      },
+      {
+        "hanzi": "锁",
+        "pinyin": "suǒ",
+        "meaning": {
+          "zh": "",
+          "ru": "замок; запирать",
+          "en": "lock"
+        }
+      },
+      {
+        "hanzi": "叉子",
+        "pinyin": "chāzi",
+        "meaning": {
+          "zh": "",
+          "ru": "вилка",
+          "en": "fork"
+        }
+      },
+      {
+        "hanzi": "锅",
+        "pinyin": "guō",
+        "meaning": {
+          "zh": "",
+          "ru": "кастрюля, котёл",
+          "en": "pot, pan"
+        }
+      },
+      {
+        "hanzi": "壶",
+        "pinyin": "hú",
+        "meaning": {
+          "zh": "",
+          "ru": "чайник, кувшин",
+          "en": "kettle, pot"
+        }
+      },
+      {
+        "hanzi": "盆",
+        "pinyin": "pén",
+        "meaning": {
+          "zh": "",
+          "ru": "таз, миска",
+          "en": "basin, tub"
+        }
+      },
+      {
+        "hanzi": "火柴",
+        "pinyin": "huǒchái",
+        "meaning": {
+          "zh": "",
+          "ru": "спички",
+          "en": "matches"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "zh": "人生如棋：课文中父亲是怎样教育孩子的？你同意父亲的观点吗？你对“得”与“失”有什么看法？",
+      "ru": "Жизнь как шахматы: как отец в тексте воспитывал сына? Согласны ли вы с ним? Что вы думаете о «приобретениях» и «потерях»?",
+      "tk": "",
+      "en": "Life is like chess: how did the father educate his child in the text? Do you agree with him? What's your view on 'gains' and 'losses'?",
+      "uz": "",
+      "tg": "",
+      "id": "",
+      "tr": ""
+    },
+    "writing_prompt": {
+      "zh": "请以“得与失”为题，谈谈你的看法。尽量用上本课所学的生词，字数不少于100字。",
+      "ru": "Напишите эссе на тему «Приобретения и потери», используя слова урока, не менее 100 иероглифов.",
+      "en": "Write an essay titled 'Gains and losses', using this lesson's vocabulary, at least 100 characters."
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "audio": "workbook_27_1.mp3",
+        "prompt": {
+          "zh": "男的遇到什么问题了？",
+          "ru": "С какой проблемой столкнулся мужчина?",
+          "en": "What problem did the man encounter?"
+        },
+        "options": [
+          "失去了工作",
+          "面试表现不错",
+          "在找实习单位",
+          "得到了试用机会"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_27_1.mp3",
+        "prompt": {
+          "zh": "女的比赛发挥得怎么样？",
+          "ru": "Как выступила женщина на соревновании?",
+          "en": "How did the woman perform in the competition?"
+        },
+        "options": [
+          "状态不稳定",
+          "发挥很出色",
+          "成绩不够理想",
+          "一定能拿冠军"
+        ],
+        "answer": 0
+      }
+    ],
+    "reading": [
+      {
+        "type": "cloze",
+        "text_zh": "有一个韩国家庭，收到别人送的两箱苹果。其中一箱苹果已有些15成熟了，如果不马上吃掉，很快就会烂掉；另一箱比较新鲜，还可以16长一点儿的时间。",
+        "blanks": [
+          {
+            "position": 15,
+            "answer": "过分",
+            "options": [
+              "明显",
+              "格外",
+              "过分",
+              "极其"
+            ]
+          },
+          {
+            "position": 16,
+            "answer": "保存",
+            "options": [
+              "持续",
+              "保存",
+              "延长",
+              "推迟"
+            ]
+          }
+        ]
+      }
+    ],
+    "writing": [
+      {
+        "type": "make_sentence",
+        "words": [
+          "估计",
+          "需要",
+          "准确的",
+          "事先做出",
+          "我们"
+        ],
+        "answer": "我们需要事先做出准确的估计。"
+      },
+      {
+        "type": "make_sentence",
+        "words": [
+          "你",
+          "已经",
+          "一切",
+          "拥有的",
+          "请珍惜"
+        ],
+        "answer": "请珍惜你已经拥有的一切。"
+      },
+      {
+        "type": "make_sentence",
+        "words": [
+          "把",
+          "吓坏了",
+          "都",
+          "老板的责备",
+          "职员们"
+        ],
+        "answer": "老板的责备把职员们都吓坏了。"
+      },
+      {
+        "type": "short_essay",
+        "words": [
+          "教训",
+          "把握",
+          "吸取",
+          "原则",
+          "后果"
+        ],
+        "min_length": 80
+      }
+    ]
+  }
+}

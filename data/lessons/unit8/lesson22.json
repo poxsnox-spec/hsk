@@ -1,0 +1,886 @@
+{
+  "title": {
+    "zh": "阅读与思考",
+    "ru": "Чтение и размышление",
+    "tk": "",
+    "en": "Reading and thinking",
+    "uz": "",
+    "tg": "",
+    "id": "",
+    "tr": ""
+  },
+  "audio_files": {
+    "textbook_1": "textbook_22_1.mp3",
+    "vocab": "vocab_22.mp3",
+    "workbook_22_1": "workbook_22_1.mp3"
+  },
+  "warmup": {
+    "question": {
+      "zh": "请看下面的图片并说说你知道的颜色。你喜欢写作文吗？你觉得有哪些提高写作水平的好方法？请给老师和同学们介绍一下。",
+      "ru": "Посмотрите на картинки и назовите цвета. Любите ли вы писать сочинения? Какие есть способы улучшить письмо? Расскажите.",
+      "tk": "",
+      "en": "Look at the pictures and name the colors. Do you like writing essays? What methods can improve writing? Tell the class.",
+      "uz": "",
+      "tg": "",
+      "id": "",
+      "tr": ""
+    },
+    "answers": [
+      "红",
+      "黄",
+      "绿",
+      "蓝"
+    ]
+  },
+  "text_zh": "很多家长可能过分强调阅读的作用，觉得多读书就能够把作文写得特别好。这个观点是不客观、不全面的，我们需要转变自己的观念。\n我曾经听一位美国的小学老师说，他们十分重视和学生一起讨论问题。比如，他们讨论过《卖火柴的小女孩儿》是写给谁看的，还讨论过灰姑娘的故事。老师讲完故事之后，问同学们：灰姑娘一旦进了这个王宫，成为王子的心上人，她的梦想实现了，一切幸福都属于她之后，这时她应该怎样对待她的继母，应该怎样对待她的两个姐姐？\n为什么要讨论这个问题呢？因为这是一种情感交换。老师和学生通过讨论得出的结论是：一个已经拥有巨大幸福的人，应该原谅和理解那些伤害过自己的人。另外还要承认人性中一些先天的不完美，就是说作为一个母亲，在自己的亲生女儿和不是亲生的灰姑娘之间，难免会更疼爱自己亲生的女儿，很难完全平等地对待她们。可能你觉得继母很自私，但这种行为有自然倾向的理由，与道德没有必然的关系。\n自从我听说了这件事，就开始思考应该如何阅读，除了阅读还应该做什么。你看这个老师在讲童话的时候，已经在有意识地把这种情感影响，甚至把人性的价值判断，都给了孩子们。如果只是单纯地主张阅读而不强调思考，那是片面的。\n“知识”两个字我始终认为它是要分开来谈的，“知”就是知感，“识”就是认识。所谓“知感”就是别人告诉你、说给你听、要求你记住的那一部分。但只有这一部分是不够的，还要有认识、思考。",
+  "text_translation": {
+    "zh": "",
+    "ru": "Многие родители, возможно, слишком подчёркивают роль чтения, полагая, что чем больше читаешь, тем лучше пишешь сочинения. Эта точка зрения необъективна и неполна — нам нужно изменить свои представления.\nЯ как-то слышал от американского учителя начальной школы, что они уделяют большое внимание обсуждению вопросов вместе с учениками. Например, они обсуждали, для кого написана «Девочка со спичками», и сказку о Золушке. После рассказа учитель спросил: как только Золушка войдёт во дворец, станет возлюбленной принца, её мечта осуществится и всё счастье будет ей принадлежать — как ей тогда относиться к мачехе и двум сводным сёстрам?\nЗачем обсуждать это? Потому что это обмен чувствами. Учитель и ученики пришли к выводу: человек, уже обладающий огромным счастьем, должен простить и понять тех, кто его ранил. Кроме того, нужно признать врождённое несовершенство человеческой природы: как мать между родной дочерью и неродной Золушкой непременно будет больше любить свою родную дочь, трудно относиться к ним полностью одинаково. Возможно, вы считаете мачеху эгоистичной, но такое поведение имеет естественные причины и не обязательно связано с моралью.\nС тех пор как я услышал эту историю, я стал думать, как нужно читать и что ещё, кроме чтения, нужно делать. Видите, этот учитель, рассказывая сказку, уже сознательно передавал детям это эмоциональное влияние и даже ценностные суждения о человеческой природе. Если только настаивать на чтении, не подчёркивая размышление, — это односторонне.\nЯ всегда считал, что слово «знание» нужно разделять: «зна-» — это восприятие, «-ние» — это понимание. Восприятие — то, что тебе сказали, сообщили, попросили запомнить. Но этого недостаточно — нужны ещё понимание и размышление.",
+    "tk": "",
+    "en": "Many parents may overemphasize the role of reading, thinking that the more one reads, the better one writes. This view is neither objective nor complete — we need to change our mindset.\nI once heard an American primary school teacher say they attach great importance to discussing questions together with students. For example, they discussed for whom The Little Match Girl was written, and the Cinderella story. After telling the story, the teacher asked: once Cinderella enters the palace and becomes the prince's beloved, once her dream is fulfilled and all happiness belongs to her — how should she then treat her stepmother and her two stepsisters?\nWhy discuss this? Because it is an exchange of feelings. Through discussion, teacher and students concluded: a person who already possesses great happiness should forgive and understand those who hurt them. Also, one must acknowledge certain innate imperfections in human nature — as a mother, between her own daughter and non-biological Cinderella, she will inevitably love her own daughter more, hard to treat them entirely equally. You may find the stepmother selfish, but such behaviour has natural grounds and isn't necessarily a matter of morality.\nEver since I heard about this, I began to think about how one should read and what else to do besides reading. See — this teacher, telling a fairy tale, was already consciously passing on this emotional influence and even value judgments about human nature. Merely advocating reading without emphasizing thinking is one-sided.\nI've always held that the word 'knowledge' should be split: 'know-' is perception, '-ledge' is understanding. Perception is the part others tell you, say to you, ask you to remember. But that alone is not enough — you need understanding and reflection.",
+    "uz": "",
+    "tg": "",
+    "id": "",
+    "tr": ""
+  },
+  "vocabulary": [
+    {
+      "hanzi": "过分",
+      "pinyin": "guòfèn",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "чрезмерный",
+        "tk": "",
+        "en": "excessive",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "强调",
+      "pinyin": "qiángdiào",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "подчёркивать",
+        "tk": "",
+        "en": "to emphasize",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "作文",
+      "pinyin": "zuòwén",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "сочинение",
+        "tk": "",
+        "en": "essay, composition",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "观点",
+      "pinyin": "guāndiǎn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "точка зрения",
+        "tk": "",
+        "en": "idea, opinion",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "客观",
+      "pinyin": "kèguān",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "объективный",
+        "tk": "",
+        "en": "objective",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "全面",
+      "pinyin": "quánmiàn",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "всесторонний",
+        "tk": "",
+        "en": "all-round, comprehensive",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "转变",
+      "pinyin": "zhuǎnbiàn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "менять(ся)",
+        "tk": "",
+        "en": "to change, to transform",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "观念",
+      "pinyin": "guānniàn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "представление, понятие",
+        "tk": "",
+        "en": "mentality, concept",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "火柴",
+      "pinyin": "huǒchái",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "спичка",
+        "tk": "",
+        "en": "match",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "灰",
+      "pinyin": "huī",
+      "pos": "n./adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "пепел; серый",
+        "tk": "",
+        "en": "dust; gray",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "一旦",
+      "pinyin": "yídàn",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "как только; если вдруг",
+        "tk": "",
+        "en": "once, when",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "王宫",
+      "pinyin": "wánggōng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "королевский дворец",
+        "tk": "",
+        "en": "royal palace",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "王子",
+      "pinyin": "wángzǐ",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "принц",
+        "tk": "",
+        "en": "prince",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "属于",
+      "pinyin": "shǔyú",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "принадлежать",
+        "tk": "",
+        "en": "to belong to",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "对待",
+      "pinyin": "duìdài",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "относиться, обращаться",
+        "tk": "",
+        "en": "to treat, to adopt an attitude",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "交换",
+      "pinyin": "jiāohuàn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "обменивать(ся)",
+        "tk": "",
+        "en": "to exchange",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "拥有",
+      "pinyin": "yōngyǒu",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "владеть, обладать",
+        "tk": "",
+        "en": "to own, to possess",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "巨大",
+      "pinyin": "jùdà",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "огромный",
+        "tk": "",
+        "en": "huge, tremendous",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "承认",
+      "pinyin": "chéngrèn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "признавать",
+        "tk": "",
+        "en": "to admit, to acknowledge",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "人性",
+      "pinyin": "rénxìng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "человеческая природа",
+        "tk": "",
+        "en": "human nature",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "完美",
+      "pinyin": "wánměi",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "идеальный",
+        "tk": "",
+        "en": "perfect, flawless",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "难免",
+      "pinyin": "nánmiǎn",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "неизбежный",
+        "tk": "",
+        "en": "hard to avoid",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "疼爱",
+      "pinyin": "téng'ài",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "горячо любить",
+        "tk": "",
+        "en": "to love dearly",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "平等",
+      "pinyin": "píngděng",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "равный",
+        "tk": "",
+        "en": "equal",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "自私",
+      "pinyin": "zìsī",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "эгоистичный",
+        "tk": "",
+        "en": "selfish",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "倾向",
+      "pinyin": "qīngxiàng",
+      "pos": "v./n.",
+      "meaning": {
+        "zh": "",
+        "ru": "склоняться; тенденция",
+        "tk": "",
+        "en": "to be inclined to; tendency",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "理由",
+      "pinyin": "lǐyóu",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "причина, основание",
+        "tk": "",
+        "en": "reason, ground",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "道德",
+      "pinyin": "dàodé",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "мораль, этика",
+        "tk": "",
+        "en": "morality, ethics",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "自从",
+      "pinyin": "zìcóng",
+      "pos": "prep.",
+      "meaning": {
+        "zh": "",
+        "ru": "с тех пор как",
+        "tk": "",
+        "en": "ever since",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "童话",
+      "pinyin": "tónghuà",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "сказка",
+        "tk": "",
+        "en": "fairy tale",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "价值",
+      "pinyin": "jiàzhí",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "ценность",
+        "tk": "",
+        "en": "value",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "单纯",
+      "pinyin": "dānchún",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "простой, чистый",
+        "tk": "",
+        "en": "simple, mere",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "主张",
+      "pinyin": "zhǔzhāng",
+      "pos": "v./n.",
+      "meaning": {
+        "zh": "",
+        "ru": "настаивать; точка зрения",
+        "tk": "",
+        "en": "to hold, to advocate; view",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "知感",
+      "pinyin": "zhīgǎn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "восприятие, осознание",
+        "tk": "",
+        "en": "sense, perception",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "一旦",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«一旦» — наречие, «как только», «если вдруг». Выражает неопределённое время, внезапно наступивший день, либо гипотетическую ситуацию.",
+        "en": "«一旦» is an adverb meaning 'once', 'if ever'. Expresses indefinite time or hypothetical situation."
+      },
+      "formula": {
+        "ru": "一旦 + условие, 就 ...",
+        "en": "一旦 + condition, 就 ..."
+      },
+      "examples": [
+        {
+          "zh": "灰姑娘一旦进了这个王宫，应该怎样对待她的继母？",
+          "ru": "Как только Золушка войдёт во дворец, как ей относиться к мачехе?",
+          "en": "Once Cinderella enters the palace, how should she treat her stepmother?"
+        },
+        {
+          "zh": "所谓私人空间，是指我们身体周围的一定的空间，一旦有人闯入这个空间，我们就会感觉不舒服。",
+          "ru": "Личное пространство — это определённое пространство вокруг тела; как только в него вторгается кто-то, нам становится некомфортно.",
+          "en": "Personal space is a certain space around our body; once someone intrudes, we feel uncomfortable."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "天冷了，多穿点儿，__。",
+          "answer": "一旦感冒就麻烦了。"
+        }
+      ]
+    },
+    {
+      "word": "难免",
+      "pos": "adj.",
+      "explanation": {
+        "ru": "«难免» — прилагательное, «трудно избежать, неизбежно».",
+        "en": "«难免» is an adjective meaning 'hard to avoid, inevitable'."
+      },
+      "examples": [
+        {
+          "zh": "刚开始工作，这样的错误是难免的。",
+          "ru": "В начале работы такие ошибки неизбежны.",
+          "en": "Such mistakes are unavoidable at the start of a job."
+        },
+        {
+          "zh": "朋友间难免会产生矛盾、误会甚至是伤害。",
+          "ru": "Между друзьями неизбежно возникают конфликты, недоразумения и даже обиды.",
+          "en": "Between friends there will inevitably be conflicts, misunderstandings, even hurt."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "刚刚退休的老人__。",
+          "answer": "难免有些不习惯。"
+        }
+      ]
+    },
+    {
+      "word": "自从",
+      "pos": "prep.",
+      "explanation": {
+        "ru": "«自从» — предлог, «с тех пор как», указывает на начало действия в прошлом.",
+        "en": "«自从» is a preposition meaning 'ever since', pointing to a past starting point."
+      },
+      "formula": {
+        "ru": "自从 + время/событие, ...",
+        "en": "自从 + time/event, ..."
+      },
+      "examples": [
+        {
+          "zh": "自从城市出现后，它就成为人类生活的中心。",
+          "ru": "С момента появления городов они стали центром человеческой жизни.",
+          "en": "Since cities appeared, they have become the centre of human life."
+        },
+        {
+          "zh": "自从我听说了这件事，就开始思考应该如何阅读。",
+          "ru": "С тех пор как я услышал эту историю, я стал думать, как нужно читать.",
+          "en": "Ever since I heard this story, I've been thinking about how to read."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "自从我来中国以后，__。",
+          "answer": "我的汉语进步了很多。"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "平等",
+      "word_b": "公平",
+      "common": {
+        "ru": "Оба прилагательных близки по смыслу, иногда взаимозаменяемы.",
+        "en": "Both adjectives have similar meanings; sometimes interchangeable."
+      },
+      "differences": [
+        {
+          "ru": "«平等» — акцент на равные права/положение.",
+          "en": "«平等» focuses on equal rights/status."
+        },
+        {
+          "ru": "«公平» — акцент на справедливости, беспристрастности.",
+          "en": "«公平» focuses on fairness, impartiality."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "zh": "写作表达 (Письмо и речь)",
+      "ru": "Письмо и речь",
+      "en": "Writing and expression"
+    },
+    "words": [
+      {
+        "hanzi": "论文",
+        "pinyin": "lùnwén",
+        "meaning": {
+          "zh": "",
+          "ru": "научная статья",
+          "en": "thesis, paper"
+        }
+      },
+      {
+        "hanzi": "主题",
+        "pinyin": "zhǔtí",
+        "meaning": {
+          "zh": "",
+          "ru": "тема",
+          "en": "theme"
+        }
+      },
+      {
+        "hanzi": "题目",
+        "pinyin": "tímù",
+        "meaning": {
+          "zh": "",
+          "ru": "заголовок, тема",
+          "en": "title"
+        }
+      },
+      {
+        "hanzi": "话题",
+        "pinyin": "huàtí",
+        "meaning": {
+          "zh": "",
+          "ru": "тема разговора",
+          "en": "topic"
+        }
+      },
+      {
+        "hanzi": "目录",
+        "pinyin": "mùlù",
+        "meaning": {
+          "zh": "",
+          "ru": "содержание",
+          "en": "contents"
+        }
+      },
+      {
+        "hanzi": "提纲",
+        "pinyin": "tígāng",
+        "meaning": {
+          "zh": "",
+          "ru": "план, конспект",
+          "en": "outline"
+        }
+      },
+      {
+        "hanzi": "标点",
+        "pinyin": "biāodiǎn",
+        "meaning": {
+          "zh": "",
+          "ru": "пунктуация",
+          "en": "punctuation"
+        }
+      },
+      {
+        "hanzi": "废话",
+        "pinyin": "fèihuà",
+        "meaning": {
+          "zh": "",
+          "ru": "болтовня",
+          "en": "nonsense"
+        }
+      },
+      {
+        "hanzi": "胡说",
+        "pinyin": "húshuō",
+        "meaning": {
+          "zh": "",
+          "ru": "говорить вздор",
+          "en": "to talk nonsense"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "zh": "灰姑娘应该怎么做：你读过《灰姑娘》这篇童话吗？如果你是灰姑娘，进入王宫以后，你会怎么对待继母和姐姐？作者认为应该承认人性中一些先天的不完美，你同意他的看法吗？",
+      "ru": "Как должна поступить Золушка? Читали ли вы эту сказку? Как бы вы поступили на её месте? Согласны ли вы с автором о врождённом несовершенстве человеческой природы?",
+      "tk": "",
+      "en": "What should Cinderella do? Have you read this fairy tale? If you were Cinderella, how would you treat your stepmother and sister? Do you agree with the author's view on innate imperfections?",
+      "uz": "",
+      "tg": "",
+      "id": "",
+      "tr": ""
+    },
+    "writing_prompt": {
+      "zh": "请以“假如我是灰姑娘”为题，谈谈你的看法。尽量用上本课所学的生词，字数不少于100字。",
+      "ru": "Напишите эссе на тему «Если бы я была Золушкой», используя слова урока, не менее 100 иероглифов.",
+      "en": "Write an essay titled 'If I were Cinderella', using this lesson's vocabulary, at least 100 characters."
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "audio": "workbook_22_1.mp3",
+        "prompt": {
+          "zh": "女的是什么意思？",
+          "ru": "Что имеет в виду женщина?",
+          "en": "What does the woman mean?"
+        },
+        "options": [
+          "要多读书",
+          "要多练习写作",
+          "多读书就能写好作文",
+          "多读书不一定能写好作文"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_22_1.mp3",
+        "prompt": {
+          "zh": "关于这些资料，男的是什么意思？",
+          "ru": "Что мужчина говорит о материалах?",
+          "en": "What does the man say about the materials?"
+        },
+        "options": [
+          "这些资料很重要",
+          "报名后就不能改",
+          "女的不太仔细",
+          "男的还没看过"
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": [
+      {
+        "type": "cloze",
+        "text_zh": "各持己见往往是人与人之间矛盾冲突的重要原因。人们在生活中15会与家人、朋友产生这样那样的矛盾。要避免这种情况出现，需要心理换位——16位置，试着站到对方立场上去思考。",
+        "blanks": [
+          {
+            "position": 15,
+            "answer": "难免",
+            "options": [
+              "难道",
+              "难免",
+              "难过",
+              "难受"
+            ]
+          },
+          {
+            "position": 16,
+            "answer": "交换",
+            "options": [
+              "转变",
+              "变化",
+              "变",
+              "交换"
+            ]
+          }
+        ]
+      }
+    ],
+    "writing": [
+      {
+        "type": "make_sentence",
+        "words": [
+          "不强调思考",
+          "而",
+          "单纯地",
+          "是片面的",
+          "主张阅读"
+        ],
+        "answer": "单纯地主张阅读而不强调思考是片面的。"
+      },
+      {
+        "type": "make_sentence",
+        "words": [
+          "他为公司",
+          "有价值的",
+          "提供了",
+          "很多",
+          "建议"
+        ],
+        "answer": "他为公司提供了很多有价值的建议。"
+      },
+      {
+        "type": "make_sentence",
+        "words": [
+          "存在着",
+          "仍然",
+          "现在",
+          "男女不平等的",
+          "现象"
+        ],
+        "answer": "现在仍然存在着男女不平等的现象。"
+      },
+      {
+        "type": "short_essay",
+        "words": [
+          "平等",
+          "观念",
+          "对待",
+          "一旦",
+          "自私"
+        ],
+        "min_length": 80
+      }
+    ]
+  }
+}

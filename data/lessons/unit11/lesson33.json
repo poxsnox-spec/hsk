@@ -1,0 +1,1071 @@
+{
+  "title": {
+    "zh": "以堵治堵——缓解交通有妙招",
+    "ru": "Пробка против пробки",
+    "tk": "Dykylygy dykylyk bilen bejermek — ulaglary ýeňilleşdirmegiň ajaýyp usuly",
+    "en": "Treating congestion with congestion",
+    "uz": "Tirbandlikni tirbandlik bilan davolash — transportni yengillashtirishning ajoyib usuli",
+    "tg": "Бандро бо банд мубориза — роҳи ҳалли олие барои сабук кардани нақлиёт",
+    "id": "Mengatasi kemacetan dengan kemacetan — cara cerdas meredakan lalu lintas",
+    "tr": "Tıkanıklığı tıkanıklıkla tedavi etmek — trafiği hafifletmenin dâhiyane bir yolu"
+  },
+  "audio_files": {
+    "textbook_1": "textbook_33_1.mp3",
+    "vocab": "vocab_33.mp3",
+    "workbook_33_1": "workbook_33_1.mp3"
+  },
+  "warmup": {
+    "question": {
+      "zh": "请你说说这幅图片反映了什么问题，它对你的生活有何影响。你知道哪些有关交通的词语？",
+      "ru": "Что показывает эта картинка? Как это влияет на вашу жизнь? Какие слова о транспорте вы знаете?",
+      "tk": "Bu surat näme görkezýär? Bu siziň durmuşyňyza nähili täsir edýär? Ulag barada haýsy sözleri bilýärsiňiz?",
+      "en": "What does this picture show? How does it affect your life? What transport-related words do you know?",
+      "uz": "Bu rasm nima ko'rsatadi? Bu sizning hayotingizga qanday ta'sir qiladi? Transport haqida qanday so'zlarni bilasiz?",
+      "tg": "Ин расм чӣ нишон медиҳад? Ин ба ҳаёти шумо чӣ тавр таъсир мерасонад? Шумо кадом калимаҳоро дар бораи наклиёт медонед?",
+      "id": "Apa yang ditunjukkan gambar ini? Bagaimana ini memengaruhi hidup Anda? Kata-kata tentang transportasi apa yang Anda tahu?",
+      "tr": "Bu resim ne gösteriyor? Bu hayatınızı nasıl etkiliyor? Ulaşımla ilgili hangi kelimeleri biliyorsunuz?"
+    },
+    "answers": [
+      "堵车"
+    ]
+  },
+  "text_zh": "城市汽车的数量迅速增长，最初还被视为是社会发展、经济繁荣的体现。但很快人们就发现了问题。随着车流量的增加，道路变得格外拥挤，堵车在大城市中已经成了家常便饭。\n解决交通拥堵的问题就要减少单位面积道路内的汽车数量，新建或加宽道路被公认为最基本的方法。但事实证明这只是我们美好的主观愿望，道路扩建的速度远远跟不上车流量增加的速度，面积的增加并未使道路空出空间来，甚至还会无形之中鼓励更多的司机开车上路，使得市中心的道路更加拥挤。\n那么，如何根治交通拥堵呢？这里我们不妨听听佩·詹森的故事。\n詹森一到欧洲环境保护署交通部工作，就接到了研究如何解决城市拥堵问题的任务。于是，他开始展开调查，研究收集上来的数据，归纳问题特点，并虚心咨询了有关专家。\n九月中旬的一天早晨，詹森照常提前出门赶在早高峰之前去交通部。他看到一个健身的人慢跑通过一个有过街天桥的路口时，为图省事没上天桥，而是横穿马路。结果，他被一辆车撞倒在地，虽然最后他只是受了点轻伤，而且有保险可以赔偿，但司机还是被吓得不轻。\n不过这件事倒是给了詹森启发：开车出行是为了省时省力，但如果情况相反呢？他决定要改变市民出行的观念，反其道而行之——让城市先堵起来，给司机制造麻烦，以堵治堵。\n经过多次努力，政府批准了他提出的改革措施，比如，增设红绿灯，让车辆不得不走走停停；在主要十字路口取消地下通道，让行人从地下重返地面；在购物广场、商务大厦的附近不建停车场等。同时，大力发展公共交通。\n半年过去了，虽然市民们有些抱怨，但效果非常明显，自愿放弃开私家车出门的人越来越多。这也难怪，与其堵在路上浪费时间和汽油，污染环境，倒不如改乘公交出行。这样一来，道路拥堵大为缓解。\n城市本是为人而建，如今却被汽车占有，詹森的目标很明确，就是期待能够解放城市，使之更适合人类生活。",
+  "text_translation": {
+    "zh": "",
+    "ru": "Рост числа машин сначала считался признаком prosperity. Но вскоре выяснилось: чем больше машин, тем плотнее пробки. Расширение дорог не помогает — оно только поощряет больше людей садиться за руль. Как же радикально решить проблему? Йенсен из Европейского экологического агентства предложил парадоксальное решение: «пробка против пробки» — не расширять дороги, а наоборот усложнить вождение: добавить светофоры, убрать подземные переходы, не строить парковки у торговых центров, развивать общественный транспорт. Через полгода поток частных машин резко сократился. Цель Йенсена — освободить город от машин и сделать его удобным для людей.",
+    "tk": "Şäherdäki awtoulaglaryň sany çalt artdy, başda bu jemgyýetçilik ösüşiniň we ykdysady gülläp ösmeginiň görnüşi hasaplanyldy. Ýöne tiz wagtdan adamlar meseläniň bardygyna göz ýetirdiler. Ulag akymynyň artmagy bilen ýollar aýratyn dykyz boldy, uly şäherlerde ulag dyknyşygy adaty bir zada öwrüldi.\nUlag dyknyşygy meselesini çözmek üçin bir meýdan birligindäki ýol içindäki awtoulaglaryň sanyny azaltmaly, täze ýol gurmak ýa-da ýoly giňeltmek iň esasy usul hökmünde ykrar edildi. Ýöne tejribe görkezdi welin, bu diňe biziň gözel subýektiw arzuwymyzdy, ýol giňeltmegiň tizligi ulag akymynyň artmagynyň tizligine ýetip bilmedi, meýdanyň artmagy ýolda boş ýer döretmedi, hatda duýdansyz görnüşde has köp sürüjini ýola çykmaga höweslendirip, şäher merkezindäki ýollary has hem dykyz etdi.\nOnda ulag dyknyşygyny nähili düýbünden çözeli? Bärde biz Pe Ýenseniň hekaýasyny diňläp bileris.\nÝensen Ýewropanyň daşky gurşawy goramak gullugynyň ulag bölümine işlän badyna, şäherlerdäki dyknyşyk meselesini nähili çözmeli diýen wezipäni aldy. Şeýlelikde, ol derňew geçirip başlady, ýygnanan maglumatlary öwrenip, meseläniň aýratynlyklaryny jemledi we degişli hünärmenlerden pespällik bilen maslahat sorady.\nSentýabryň ortalarynda bir gün irden Ýensen adaty ýagdaýda ir çykyp, ertirlik iň ýokary wagtyndan öň ulag bölümine gitdi. Ol bir bedenterbiýe bilen meşgullanýan adamyň ýol geçelgesi bolan çatrykdan ýöriş edip geçýänini gördi, ol ýeňillik üçin ýol geçelgesinden däl-de, göni ýoldan geçdi. Netijede, ol bir maşyn tarapyndan urulyp ýykyldy, ahyrsoňy ol diňe ýeňil ýaralandy we ätiýaçlyk tölegi hem bardy, ýöne sürüji gaty gorkdy.\nEmma bu waka Ýensene pikir berdi: maşyn sürmek wagt we güýç tygşytlamak üçin, ýöne ýagdaý tersine bolsa näme? Ol şäherlileriň syýahat etmek düşünjesini üýtgetmegi, tersine hereket etmegi — şäheri ilki dyknyşdyrmagy karar etdi.",
+    "en": "The growth in cars was first seen as a sign of prosperity. But soon problems appeared: more cars meant more congestion. Widening roads doesn't help — it encourages more driving. How to cure it? Jensen from the European Environment Agency proposed a paradoxical solution: 'congestion against congestion' — don't widen roads, make driving less convenient: more traffic lights, remove underpasses, don't build parking near shopping malls, develop public transport. Six months later, private-car use dropped sharply. Jensen's goal: free the city from cars and make it more liveable for people.",
+    "uz": "",
+    "tg": "",
+    "id": "",
+    "tr": ""
+  },
+  "vocabulary": [
+    {
+      "hanzi": "缓解",
+      "pinyin": "huǎnjiě",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "ослаблять, облегчать",
+        "tk": "ýeňletmek, gowşatmak",
+        "en": "to alleviate, to ease up",
+        "uz": "yengillashtirmoq, pasaytirmoq",
+        "tg": "сабук кардан, коҳиш додан",
+        "id": "meredakan, meringankan",
+        "tr": "hafifletmek, azaltmak"
+      }
+    },
+    {
+      "hanzi": "招儿",
+      "pinyin": "zhāor",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "приём, способ",
+        "tk": "usul, çäre",
+        "en": "trick, move, method",
+        "uz": "usul, chora",
+        "tg": "усул, чора",
+        "id": "trik, cara, metode",
+        "tr": "hile, yol, yöntem"
+      }
+    },
+    {
+      "hanzi": "繁荣",
+      "pinyin": "fánróng",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "процветающий",
+        "tk": "gülläp ösýän",
+        "en": "prosperous, thriving",
+        "uz": "gullab-yashnagan",
+        "tg": "шукуфанда",
+        "id": "makmur",
+        "tr": "müreffeh"
+      }
+    },
+    {
+      "hanzi": "体现",
+      "pinyin": "tǐxiàn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "отражать, воплощать",
+        "tk": "beýan etmek, şöhlelenmek",
+        "en": "to manifest, to reflect",
+        "uz": "namoyon qilmoq, aks ettirmoq",
+        "tg": "таҷассум кардан, инъикос кардан",
+        "id": "mewujudkan, mencerminkan",
+        "tr": "yansıtmak, tezahür ettirmek"
+      }
+    },
+    {
+      "hanzi": "拥挤",
+      "pinyin": "yōngjǐ",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "переполненный, тесный",
+        "tk": "dyknyşykly, gysyk",
+        "en": "crowded, congested",
+        "uz": "tirband, zich",
+        "tg": "серодам, танг",
+        "id": "penuh sesak, padat",
+        "tr": "kalabalık, sıkışık"
+      }
+    },
+    {
+      "hanzi": "家常",
+      "pinyin": "jiācháng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "повседневная жизнь семьи",
+        "tk": "maşgala durmuşy",
+        "en": "daily life of a family",
+        "uz": "oilaviy turmush",
+        "tg": "ҳаёти хонаводагӣ",
+        "id": "kehidupan keluarga sehari-hari",
+        "tr": "aile hayatı"
+      }
+    },
+    {
+      "hanzi": "面积",
+      "pinyin": "miànjī",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "площадь",
+        "tk": "meýdan",
+        "en": "area, space",
+        "uz": "maydon",
+        "tg": "масоҳат",
+        "id": "luas",
+        "tr": "alan"
+      }
+    },
+    {
+      "hanzi": "宽",
+      "pinyin": "kuān",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "широкий",
+        "tk": "giň",
+        "en": "wide, broad",
+        "uz": "keng",
+        "tg": "васеъ",
+        "id": "lebar",
+        "tr": "geniş"
+      }
+    },
+    {
+      "hanzi": "主观",
+      "pinyin": "zhǔguān",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "субъективный",
+        "tk": "subýektiw",
+        "en": "subjective",
+        "uz": "subyektiv",
+        "tg": "субъективӣ",
+        "id": "subjektif",
+        "tr": "öznel"
+      }
+    },
+    {
+      "hanzi": "扩大",
+      "pinyin": "kuòdà",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "расширять",
+        "tk": "giňeltmek",
+        "en": "to enlarge, to expand",
+        "uz": "kengaytirmoq",
+        "tg": "васеъ кардан",
+        "id": "memperluas",
+        "tr": "genişletmek"
+      }
+    },
+    {
+      "hanzi": "根治",
+      "pinyin": "gēnzhì",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "лечить радикально, искоренять",
+        "tk": "düýbünden bejermek, köküni guratmak",
+        "en": "to cure once and for all",
+        "uz": "butunlay davolash, ildizini quritish",
+        "tg": "тамоман муолиҷа кардан, решакан кардан",
+        "id": "menyembuhkan sampai tuntas, memberantas",
+        "tr": "kökünden tedavi etmek, kökünü kurutmak"
+      }
+    },
+    {
+      "hanzi": "不妨",
+      "pinyin": "bùfáng",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "почему бы и не, не мешает",
+        "tk": "bolýar, zyýany ýok",
+        "en": "might as well",
+        "uz": "mayli, zarari yo'q",
+        "tg": "мумкин аст, зарар надорад",
+        "id": "tidak ada salahnya, boleh saja",
+        "tr": "olabilir, zararı yok"
+      }
+    },
+    {
+      "hanzi": "展开",
+      "pinyin": "zhǎnkāi",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "разворачивать, развёртывать",
+        "tk": "açmak, ýaýratmak",
+        "en": "to launch, to carry out",
+        "uz": "ochmoq, yoymoq",
+        "tg": "кушодан, паҳн кардан",
+        "id": "membuka, menggelar",
+        "tr": "açmak, yaymak"
+      }
+    },
+    {
+      "hanzi": "归纳",
+      "pinyin": "guīnà",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "обобщать, подытоживать",
+        "tk": "jemlemek, netijä çykarmak",
+        "en": "to infer, to sum up",
+        "uz": "umumlashtirmoq, xulosa qilmoq",
+        "tg": "ҷамъбаст кардан, хулоса баровардан",
+        "id": "menyimpulkan, merangkum",
+        "tr": "genellemek, özetlemek"
+      }
+    },
+    {
+      "hanzi": "虚心",
+      "pinyin": "xūxīn",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "открытый, готовый учиться",
+        "tk": "açyk pikirli, kiçigöwünli",
+        "en": "open-minded, modest",
+        "uz": "ochiq fikrli, kamtar",
+        "tg": "кушодафикр, хокисор",
+        "id": "berpikiran terbuka, rendah hati",
+        "tr": "açık fikirli, alçakgönüllü"
+      }
+    },
+    {
+      "hanzi": "咨询",
+      "pinyin": "zīxún",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "консультироваться",
+        "tk": "maslahatlaşmak",
+        "en": "to consult",
+        "uz": "maslahatlashmoq",
+        "tg": "маслиҳат кардан",
+        "id": "berkonsultasi",
+        "tr": "danışmak"
+      }
+    },
+    {
+      "hanzi": "中旬",
+      "pinyin": "zhōngxún",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "середина месяца",
+        "tk": "aýyň ortalary",
+        "en": "middle ten days of a month",
+        "uz": "oyning o'rtalari",
+        "tg": "миёнаи моҳ",
+        "id": "pertengahan bulan",
+        "tr": "ayın ortası"
+      }
+    },
+    {
+      "hanzi": "照常",
+      "pinyin": "zhàocháng",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "как обычно, как всегда",
+        "tk": "adaty ýaly",
+        "en": "as usual",
+        "uz": "odatdagidek",
+        "tg": "ҳамешагӣ",
+        "id": "seperti biasa",
+        "tr": "her zamanki gibi"
+      }
+    },
+    {
+      "hanzi": "健身",
+      "pinyin": "jiànshēn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "поддерживать форму, тренироваться",
+        "tk": "saglygy saklamak, türgenleşmek",
+        "en": "to keep fit, to work out",
+        "uz": "sog'lom turmush tarzini saqlash, mashq qilish",
+        "tg": "тандурустӣ, машқ кардан",
+        "id": "menjaga kebugaran, berolahraga",
+        "tr": "formda kalmak, egzersiz yapmak"
+      }
+    },
+    {
+      "hanzi": "图",
+      "pinyin": "tú",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "ради, стремиться",
+        "tk": "islemek, göz dikmek",
+        "en": "to covet, to be after",
+        "uz": "orzu qilmoq, intilmoq",
+        "tg": "озуқ, талош кардан",
+        "id": "mendambakan, menginginkan",
+        "tr": "arzulamak, peşinde olmak"
+      }
+    },
+    {
+      "hanzi": "受伤",
+      "pinyin": "shòushāng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "получить травму",
+        "tk": "ýaralanmak",
+        "en": "to be hurt, to be injured",
+        "uz": "jarohatlanmoq",
+        "tg": "захмӣ шудан",
+        "id": "terluka",
+        "tr": "yaralanmak"
+      }
+    },
+    {
+      "hanzi": "保险",
+      "pinyin": "bǎoxiǎn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "страховка",
+        "tk": "ätiýaçlyk",
+        "en": "insurance",
+        "uz": "sug'urta",
+        "tg": "суғурта",
+        "id": "asuransi",
+        "tr": "sigorta"
+      }
+    },
+    {
+      "hanzi": "赔偿",
+      "pinyin": "péicháng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "компенсировать, возмещать",
+        "tk": "öwezini dolmak, kompensasiýa etmek",
+        "en": "to compensate",
+        "uz": "qoplamoq, tovon to'lamoq",
+        "tg": "ҷуброн кардан, товон додан",
+        "id": "mengganti, mengompensasi",
+        "tr": "tazmin etmek, telafi etmek"
+      }
+    },
+    {
+      "hanzi": "政府",
+      "pinyin": "zhèngfǔ",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "правительство",
+        "tk": "hökümet",
+        "en": "government",
+        "uz": "hukumat",
+        "tg": "ҳукумат",
+        "id": "pemerintah",
+        "tr": "hükümet"
+      }
+    },
+    {
+      "hanzi": "批准",
+      "pinyin": "pīzhǔn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "утверждать, ратифицировать",
+        "tk": "tassyklamak",
+        "en": "to ratify, to approve",
+        "uz": "tasdiqlamoq",
+        "tg": "тасдиқ кардан",
+        "id": "menyetujui",
+        "tr": "onaylamak"
+      }
+    },
+    {
+      "hanzi": "改革",
+      "pinyin": "gǎigé",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "реформировать",
+        "tk": "özgertmek",
+        "en": "to reform",
+        "uz": "islohot",
+        "tg": "ислоҳот",
+        "id": "mereformasi",
+        "tr": "reform"
+      }
+    },
+    {
+      "hanzi": "取消",
+      "pinyin": "qǔxiāo",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "отменять",
+        "tk": "ýatyrmak",
+        "en": "to cancel, to call off",
+        "uz": "bekor qilish",
+        "tg": "бекор кардан",
+        "id": "membatalkan",
+        "tr": "iptal etmek"
+      }
+    },
+    {
+      "hanzi": "行人",
+      "pinyin": "xíngrén",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "пешеход",
+        "tk": "pyýada",
+        "en": "pedestrian",
+        "uz": "piyoda",
+        "tg": "пиёда",
+        "id": "pejalan kaki",
+        "tr": "yaya"
+      }
+    },
+    {
+      "hanzi": "广场",
+      "pinyin": "guǎngchǎng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "площадь",
+        "tk": "meýdan",
+        "en": "square, plaza",
+        "uz": "maydon",
+        "tg": "майдон",
+        "id": "lapangan",
+        "tr": "meydan"
+      }
+    },
+    {
+      "hanzi": "商务",
+      "pinyin": "shāngwù",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "бизнес, деловые дела",
+        "tk": "işewürlik",
+        "en": "business affairs",
+        "uz": "tadbirkorlik",
+        "tg": "тиҷорат",
+        "id": "urusan bisnis",
+        "tr": "ticaret"
+      }
+    },
+    {
+      "hanzi": "大厦",
+      "pinyin": "dàshà",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "большое здание",
+        "tk": "bina",
+        "en": "large building, mansion",
+        "uz": "bino",
+        "tg": "бино",
+        "id": "gedung",
+        "tr": "bina"
+      }
+    },
+    {
+      "hanzi": "自愿",
+      "pinyin": "zìyuàn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "добровольно",
+        "tk": "meýletin",
+        "en": "to volunteer",
+        "uz": "ixtiyoriy",
+        "tg": "ихтиёрӣ",
+        "id": "relawan",
+        "tr": "gönüllü"
+      }
+    },
+    {
+      "hanzi": "难怪",
+      "pinyin": "nánguài",
+      "pos": "v./adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "неудивительно; вот почему",
+        "tk": "geň däl; şonuň üçinem",
+        "en": "to be understandable; no wonder",
+        "uz": "ajablanarli emas; shuning uchun",
+        "tg": "аҷаб нест; барои ҳамин",
+        "id": "tidak heran; itulah sebabnya",
+        "tr": "şaşılacak bir şey yok; bu yüzden"
+      }
+    },
+    {
+      "hanzi": "与其",
+      "pinyin": "yǔqí",
+      "pos": "conj.",
+      "meaning": {
+        "zh": "",
+        "ru": "чем..., лучше",
+        "tk": "ýerine",
+        "en": "rather than",
+        "uz": "o'rniga",
+        "tg": "ба ҷои",
+        "id": "daripada",
+        "tr": "yerine"
+      }
+    },
+    {
+      "hanzi": "汽油",
+      "pinyin": "qìyóu",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "бензин",
+        "tk": "benzin",
+        "en": "gasoline",
+        "uz": "benzin",
+        "tg": "бензин",
+        "id": "bensin",
+        "tr": "benzin"
+      }
+    },
+    {
+      "hanzi": "明确",
+      "pinyin": "míngquè",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "чёткий, ясный",
+        "tk": "anyk",
+        "en": "clear and definite",
+        "uz": "aniq",
+        "tg": "равшан",
+        "id": "jelas",
+        "tr": "açık"
+      }
+    },
+    {
+      "hanzi": "期待",
+      "pinyin": "qīdài",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "ожидать, надеяться",
+        "tk": "garaşmak, umyt etmek",
+        "en": "to look forward to",
+        "uz": "kutmoq, umid qilmoq",
+        "tg": "интизор шудан, умедвор будан",
+        "id": "menantikan, berharap",
+        "tr": "beklemek, ummak"
+      }
+    },
+    {
+      "hanzi": "解放",
+      "pinyin": "jiěfàng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "освобождать",
+        "tk": "azat etmek",
+        "en": "to liberate, to free",
+        "uz": "ozod qilmoq",
+        "tg": "озод кардан",
+        "id": "membebaskan",
+        "tr": "kurtarmak"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "照常",
+      "pos": "v./adv.",
+      "explanation": {
+        "ru": "«照常» — глагол: «идти как обычно»; наречие: «как всегда, без изменений».",
+        "en": "«照常» — verb: 'to go on as usual'; adverb: 'as usual, without change'.",
+        "tk": "«照常» — işlik: «adaty ýaly dowam etmek»; hal: «hemişeki ýaly, üýtgeşmesiz».",
+        "uz": "«照常» — fe'l: «odatdagidek davom etmoq»; ravish: «har doimgidek, o'zgarishsiz».",
+        "tg": "«照常» — феъл: «мисли ҳамешагӣ идома додан»; зарф: «ҳамешагӣ, бе тағйир».",
+        "id": "«照常» — verba: 'berjalan seperti biasa'; adverbia: 'seperti biasa, tanpa perubahan'.",
+        "tr": "«照常» — fiil: 'her zamanki gibi devam etmek'; zarf: 'her zamanki gibi, değişiklik olmadan'."
+      },
+      "formula": {
+        "ru": "照常 + 动词；一切照常",
+        "en": "照常 + verb; 一切照常",
+        "tk": "adaty ýagdaýda; hemme zat adaty ýagdaýda",
+        "uz": "odatdagidek; hamma narsa odatdagidek",
+        "tg": "тавре ки муқаррар аст; ҳама чиз тавре ки муқаррар аст",
+        "id": "seperti biasa; semuanya seperti biasa",
+        "tr": "her zamanki gibi; her şey her zamanki gibi"
+      },
+      "examples": [
+        {
+          "zh": "九月中旬的一天早晨，詹森照常提前出门赶在早高峰之前去交通部。",
+          "ru": "Однажды утром в середине сентября Йенсен, как обычно, вышел пораньше, чтобы доехать до министерства до часа пик.",
+          "en": "One mid-September morning, Jensen left early as usual to beat the rush hour to the ministry.",
+          "tk": "Sentýabr aýynyň ortalarynda bir gün irden, Jensen adaty bolşy ýaly ir çykyp, ertirlik iş wagtynyň öňüsyrasynda ulag ministrligine ýetmäge howlukdy.",
+          "uz": "Sentabr oyining o‘rtalarida bir kuni ertalab, Jensen odatdagidek erta chiqib, ertalabki tirbandlikdan oldin transport vazirligiga yetib bormoqchi bo‘ldi.",
+          "tg": "Як субҳе дар миёнаи сентябр, Ҷенсен мисли ҳамеша барвақт ба роҳ баромад, то пеш аз вақти авҷи ҳаракат ба вазорати нақлиёт бирасад.",
+          "id": "Suatu pagi pada pertengahan September, Jensen seperti biasa berangkat lebih awal untuk sampai ke kementerian transportasi sebelum jam sibuk.",
+          "tr": "Eylül ayının ortasında bir sabah, Jensen her zamanki gibi erken çıkıp yoğun saatten önce Ulaştırma Bakanlığı'na varmaya çalıştı."
+        },
+        {
+          "zh": "虽然战争临近，但这里的日常生活，一切照常。",
+          "ru": "Хотя война приближалась, повседневная жизнь здесь шла как обычно.",
+          "en": "Though war was approaching, daily life here went on as usual.",
+          "tk": "Uruş ýakynlaşsa-da, bu ýerdäki gündelik durmuş hemişeki ýaly dowam edýärdi.",
+          "uz": "Urush yaqinlashayotgan bo'lsa-da, bu yerdagi kundalik hayot odatdagidek davom etardi.",
+          "tg": "Ҳарчанд ҷанг наздик мешуд, ҳаёти ҳаррӯзаи ин ҷо мисли ҳамеша идома меёфт.",
+          "id": "Meskipun perang semakin dekat, kehidupan sehari-hari di sini berjalan seperti biasa.",
+          "tr": "Savaş yaklaşsa da buradaki günlük yaşam her zamanki gibi devam ediyordu."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "王医生，手术后__吗？",
+          "answer": "一般来说，手术后三个月就可以参加一般的运动了"
+        }
+      ]
+    },
+    {
+      "word": "难怪",
+      "pos": "v./adv.",
+      "explanation": {
+        "ru": "«难怪» — глагол: «нечего удивляться, понять и простить»; наречие: «вот почему, неудивительно».",
+        "en": "«难怪» — verb: 'to be understandable'; adverb: 'no wonder, that's why'.",
+        "tk": "«难怪» — işlik: «geň galmaly däl, düşünmeli we bagyşlamaly»; hal: «şonuň üçin, geň däl».",
+        "uz": "«难怪» — fe'l: «hayron qolmaslik, tushunish va kechirish»; ravish: «shuning uchun, ajablanarli emas».",
+        "tg": "«难怪» — феъл: «тааҷҷубовар нест, фаҳмидан ва бахшидан»; зарф: «бинобар ин, аҷаб нест».",
+        "id": "«难怪» — verba: 'tidak heran, maklum dan maafkan'; adverbia: 'itulah sebabnya, tidak mengherankan'.",
+        "tr": "«难怪» — fiil: 'şaşırmamak, anlayışla karşılamak'; zarf: 'bu yüzden, şaşılacak bir şey yok'."
+      },
+      "formula": {
+        "ru": "难怪 + 小句；这也难怪",
+        "en": "难怪 + clause; 这也难怪",
+        "tk": "Geň däl; şol sebäpli",
+        "uz": "Ajablanarli emas; shuning uchun",
+        "tg": "Тааҷҷубовар нест; аз ин рӯ",
+        "id": "Tidak heran; itu sebabnya",
+        "tr": "Şaşılacak bir şey yok; bu yüzden"
+      },
+      "examples": [
+        {
+          "zh": "这也难怪，与其堵在路上浪费时间和汽油，污染环境，倒不如改乘公交出行。",
+          "ru": "И неудивительно: чем стоять в пробке, терять время и бензин и загрязнять среду — лучше пересесть на общественный транспорт.",
+          "en": "No wonder — rather than waste time and petrol in traffic and pollute the environment, it's better to take public transport.",
+          "tk": "Bu hem geň däl, ýolda dykylmakda wagt we benzin ýitirmekden, daşky gurşawy hapalamakdan, jemgyýetçilik ulagyna geçmek gowudyr.",
+          "uz": "Buning ajablanarli joyi yo'q, yo'lda tiqilinchda vaqt va benzin yo'qotib, atrof-muhitni ifloslantirgandan ko'ra, jamoat transportiga o'tgan yaxshi.",
+          "tg": "Ин тааҷҷубовар нест, аз он ки дар роҳ монда вақт ва бензинро сарф карда, муҳити зистро ифлос кунем, беҳтар аст, ки ба нақлиёти ҷамъиятӣ гузарем.",
+          "id": "Tidak heran, daripada terjebak di jalan membuang waktu dan bensin serta mencemari lingkungan, lebih baik beralih ke transportasi umum.",
+          "tr": "Bu hiç de şaşırtıcı değil; trafikte sıkışıp zaman ve benzin harcayıp çevreyi kirletmektense toplu taşımaya geçmek daha iyidir."
+        },
+        {
+          "zh": "你的抽屉真乱，难怪总是找不到东西。",
+          "ru": "У тебя в ящике такой беспорядок — неудивительно, что ничего не находишь.",
+          "en": "Your drawer is so messy — no wonder you can never find anything.",
+          "tk": "Çekmeýiň gaty bulam-bujar, şonuň üçin hemişe zat tapmaýarsyň.",
+          "uz": "Tortmang juda tartibsiz, shuning uchun doim narsa topolmaysan.",
+          "tg": "Ҷевони ту хеле бетартиб аст, аз ин рӯ ҳамеша чизеро ёфта наметавонӣ.",
+          "id": "Lacimu sangat berantakan, pantas saja kamu selalu tidak menemukan barang.",
+          "tr": "Çekmecen çok dağınık, bu yüzden sürekli bir şey bulamıyorsun."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "李岩和我是小学同学，我们认识快20年了。——__。",
+          "answer": "难怪你们这么熟。"
+        }
+      ]
+    },
+    {
+      "word": "与其",
+      "pos": "conj.",
+      "explanation": {
+        "ru": "«与其» — союз, вводит отвергаемый вариант; в паре с «不如», «宁可»: «чем..., лучше...».",
+        "en": "«与其» — conjunction, introduces the rejected option; pairs with «不如», «宁可»: 'rather than..., better to...'.",
+        "tk": "«与其» — baglaýjy, ret edilýän warianty girizýär; «不如», «宁可» bilen jübütleşýär: «...dan görä, ... gowusy».",
+        "uz": "«与其» — bog‘lovchi, rad etilgan variantni kiritadi; «不如», «宁可» bilan juftlikda: «...dan ko‘ra, ... yaxshiroq».",
+        "tg": "«与其» — пайвандак, варианти радшударо ворид мекунад; бо «不如», «宁可» ҷуфт мешавад: «аз... беҳтар аст, ки...».",
+        "id": "«与其» — konjungsi, memperkenalkan opsi yang ditolak; berpasangan dengan «不如», «宁可»: 'daripada..., lebih baik...'.",
+        "tr": "«与其» — bağlaç, reddedilen seçeneği sunar; «不如», «宁可» ile birlikte kullanılır: '...maktansa, ... daha iyi'."
+      },
+      "formula": {
+        "ru": "与其 + A，不如 + B",
+        "en": "与其 + A，不如 + B",
+        "tk": "Munuň ýerine",
+        "uz": "Buning o'rniga",
+        "tg": "Ба ҷои он",
+        "id": "Daripada",
+        "tr": "Yerine"
+      },
+      "examples": [
+        {
+          "zh": "与其说是采访，不如说是向他学习。",
+          "ru": "Это не столько интервью, сколько учёба у него.",
+          "en": "It's less an interview than learning from him.",
+          "tk": "Bu söhbetdeşlik diýlenden ötri, ondan öwrenmekdir.",
+          "uz": "Bu intervyu emas, balki undan o'rganishdir.",
+          "tg": "Ин мусоҳиба не, балки аз ӯ омӯхтан аст.",
+          "id": "Ini bukan wawancara, melainkan belajar darinya.",
+          "tr": "Bu bir röportajdan ziyade ondan öğrenmek."
+        },
+        {
+          "zh": "与其找个不认真的小时工，我宁可自己打扫。",
+          "ru": "Чем брать нерадивого уборщика, я лучше сам уберу.",
+          "en": "Rather than hire a careless cleaner, I'd rather do it myself.",
+          "tk": "Biperwaý işleýän gündelikçi tutandan, özüm arassalaýyn.",
+          "uz": "Beparvo yollanma ishchi yollagandan ko'ra, o'zim tozalaganim ma'qul.",
+          "tg": "Аз коргари бепарво гирифтан, худам тоза мекунам.",
+          "id": "Daripada menyewa pekerja harian yang tidak serius, saya lebih memilih membersihkan sendiri.",
+          "tr": "İşini ciddiye almayan bir gündelikçi tutmaktansa kendim temizlerim."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "那些赶时髦的消费者，__。",
+          "answer": "与其说是买东西，不如说是买牌子"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "表现",
+      "word_b": "体现",
+      "common": {
+        "ru": "Оба глагола означают «проявлять, показывать».",
+        "en": "Both verbs mean 'to show, to manifest'.",
+        "tk": "Iki işlik hem «görkezmek, ýüze çykarmak» manylaryny aňladýar.",
+        "uz": "Ikkala fe'l ham «ko'rsatmoq, namoyon qilmoq» ma'nolarini bildiradi.",
+        "tg": "Ҳар ду феъл маънои «нишон додан, зоҳир кардан»-ро доранд.",
+        "id": "Kedua kata kerja berarti 'menunjukkan, mewujudkan'.",
+        "tr": "Her iki fiil de 'göstermek, ortaya koymak' anlamına gelir."
+      },
+      "differences": [
+        {
+          "ru": "«表现» — о стиле, эмоциях, отношении конкретного человека; может быть существительным «поведение».",
+          "en": "«表现» — about a person's style, emotion, attitude; can be a noun meaning 'behaviour'.",
+          "tk": "«表现» — belli bir adamyň stili, duýgulary, garaýşy barada; «özbaşdaklyk» manyda at bolup biler.",
+          "uz": "«表现» — muayyan shaxsning uslubi, his-tuyg'ulari, munosabati haqida; «xulq-atvor» ma'nosida ot bo'lishi mumkin.",
+          "tg": "«表现» — дар бораи услуб, эҳсосот, муносибати шахси мушаххас; метавонад исми «рафтор» бошад.",
+          "id": "«表现» — tentang gaya, emosi, sikap seseorang; bisa menjadi kata benda yang berarti 'perilaku'.",
+          "tr": "«表现» — belirli bir kişinin tarzı, duyguları, tutumu hakkında; 'davranış' anlamında isim olabilir."
+        },
+        {
+          "ru": "«体现» — о том, как явление, идея или сущность отражаются в чём-то конкретном.",
+          "en": "«体现» — about how a phenomenon, idea, or essence is reflected in something concrete.",
+          "tk": "«体现» — bir hadysanyň, ideýanyň ýa-da mahiyetiň anyk bir zadyň içinde beýan edilişi barada.",
+          "uz": "«体现» — bir hodisa, g'oya yoki mohiyatning aniq bir narsada aks etishi haqida.",
+          "tg": "«体现» — дар бораи он ки чӣ тавр як падида, ғоя ё моҳият дар чизи мушаххас инъикос меёбад.",
+          "id": "«体现» — tentang bagaimana suatu fenomena, gagasan, atau esensi tercermin dalam sesuatu yang konkret.",
+          "tr": "«体现» — bir olgunun, fikrin veya özün somut bir şeyde nasıl yansıdığı hakkında."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "zh": "交通",
+      "ru": "Транспорт",
+      "en": "Transport",
+      "tk": "Ulag",
+      "uz": "Transport",
+      "tg": "Нақлиёт",
+      "id": "Transportasi",
+      "tr": "Ulaşım"
+    },
+    "words": [
+      {
+        "hanzi": "卡车",
+        "pinyin": "kǎchē",
+        "meaning": {
+          "zh": "",
+          "ru": "грузовик",
+          "en": "truck",
+          "tk": "ýük maşyny",
+          "uz": "yuk mashinasi",
+          "tg": "мошини боркаш",
+          "id": "truk",
+          "tr": "kamyon"
+        }
+      },
+      {
+        "hanzi": "列车",
+        "pinyin": "lièchē",
+        "meaning": {
+          "zh": "",
+          "ru": "поезд, состав",
+          "en": "train",
+          "tk": "otly",
+          "uz": "poyezd",
+          "tg": "қатора",
+          "id": "kereta",
+          "tr": "tren"
+        }
+      },
+      {
+        "hanzi": "摩托车",
+        "pinyin": "mótuōchē",
+        "meaning": {
+          "zh": "",
+          "ru": "мотоцикл",
+          "en": "motorcycle",
+          "tk": "motosikl",
+          "uz": "mototsikl",
+          "tg": "мотосикл",
+          "id": "sepeda motor",
+          "tr": "motosiklet"
+        }
+      },
+      {
+        "hanzi": "行人",
+        "pinyin": "xíngrén",
+        "meaning": {
+          "zh": "",
+          "ru": "пешеход",
+          "en": "pedestrian",
+          "tk": "pyýada",
+          "uz": "piyoda",
+          "tg": "пиёда",
+          "id": "pejalan kaki",
+          "tr": "yaya"
+        }
+      },
+      {
+        "hanzi": "车厢",
+        "pinyin": "chēxiāng",
+        "meaning": {
+          "zh": "",
+          "ru": "вагон, салон",
+          "en": "carriage",
+          "tk": "wagon",
+          "uz": "vagon",
+          "tg": "вагон",
+          "id": "gerbong",
+          "tr": "vagon"
+        }
+      },
+      {
+        "hanzi": "车库",
+        "pinyin": "chēkù",
+        "meaning": {
+          "zh": "",
+          "ru": "гараж",
+          "en": "garage",
+          "tk": "garaž",
+          "uz": "garaj",
+          "tg": "гараж",
+          "id": "garasi",
+          "tr": "garaj"
+        }
+      },
+      {
+        "hanzi": "拐弯",
+        "pinyin": "guǎiwān",
+        "meaning": {
+          "zh": "",
+          "ru": "поворачивать",
+          "en": "to turn",
+          "tk": "öwürmek",
+          "uz": "burilmoq",
+          "tg": "тоб хӯрдан",
+          "id": "berbelok",
+          "tr": "dönmek"
+        }
+      },
+      {
+        "hanzi": "绕",
+        "pinyin": "rào",
+        "meaning": {
+          "zh": "",
+          "ru": "обходить, объезжать",
+          "en": "to detour",
+          "tk": "aýlanmak, dolanmak",
+          "uz": "aylanib o'tmoq, chetlab o'tmoq",
+          "tg": "гирд задан, давр задан",
+          "id": "memutar, memutari",
+          "tr": "dolanmak, etrafından dolaşmak"
+        }
+      },
+      {
+        "hanzi": "长途",
+        "pinyin": "chángtú",
+        "meaning": {
+          "zh": "",
+          "ru": "дальний рейс",
+          "en": "long-distance",
+          "tk": "uzak aralyk",
+          "uz": "uzoq masofa",
+          "tg": "масофаи дур",
+          "id": "jarak jauh",
+          "tr": "uzun mesafe"
+        }
+      },
+      {
+        "hanzi": "运输",
+        "pinyin": "yùnshū",
+        "meaning": {
+          "zh": "",
+          "ru": "перевозить",
+          "en": "to transport",
+          "tk": "daşamak",
+          "uz": "tashimoq",
+          "tg": "ҳамл кардан",
+          "id": "mengangkut",
+          "tr": "taşımak"
+        }
+      },
+      {
+        "hanzi": "汽油",
+        "pinyin": "qìyóu",
+        "meaning": {
+          "zh": "",
+          "ru": "бензин",
+          "en": "gasoline",
+          "tk": "benzin",
+          "uz": "benzin",
+          "tg": "бензин",
+          "id": "bensin",
+          "tr": "benzin"
+        }
+      },
+      {
+        "hanzi": "罚款",
+        "pinyin": "fákuǎn",
+        "meaning": {
+          "zh": "",
+          "ru": "штраф",
+          "en": "fine",
+          "tk": "jerime",
+          "uz": "jarima",
+          "tg": "ҷарима",
+          "id": "denda",
+          "tr": "para cezası"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "zh": "话题讨论：出行方式。1. 你们国家道路交通情况怎么样？2. 你平时出行一般采用何种方式？3. 你认为造成交通拥堵现象的主要原因是什么？应该如何解决？",
+      "ru": "Обсуждение: способы передвижения. 1. Как обстоят дела с транспортом в вашей стране? 2. Как вы обычно передвигаетесь? 3. В чём причина пробок и как их решать?",
+      "tk": "Çekişme: hereket usullary. 1. Ýurduňyzda ulag ýagdaýy nähili? 2. Adatça nähili hereket edýärsiňiz? 3. Dyknyşygyň sebäbi näme we olary nädip çözmeli?",
+      "en": "Discussion: transport. 1. What's transport like in your country? 2. How do you usually travel? 3. Causes of congestion and solutions.",
+      "uz": "Muhokama: harakatlanish usullari. 1. Mamlakatingizda transport ahvoli qanday? 2. Odatda qanday harakatlanasiz? 3. Tirbandliklarning sababi nima va ularni qanday hal qilish kerak?",
+      "tg": "Муҳокима: роҳҳои ҳаракат. 1. Дар кишвари шумо вазъи наклиёт чӣ гуна аст? 2. Шумо одатан чӣ гуна ҳаракат мекунед? 3. Сабаби бандшавии роҳҳо чист ва онҳоро чӣ тавр ҳал кардан мумкин аст?",
+      "id": "Diskusi: cara bepergian. 1. Bagaimana keadaan transportasi di negara Anda? 2. Bagaimana Anda biasanya bepergian? 3. Apa penyebab kemacetan dan bagaimana mengatasinya?",
+      "tr": "Tartışma: ulaşım yolları. 1. Ülkenizde ulaşım nasıl? 2. Genellikle nasıl seyahat edersiniz? 3. Trafik sıkışıklığının nedeni nedir ve nasıl çözülür?"
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "audio": "workbook_33_1.mp3",
+        "prompt": {
+          "zh": "詹森怎么解决堵车问题？",
+          "ru": "Как Йенсен решал проблему пробок?",
+          "en": "How did Jensen solve congestion?"
+        },
+        "options": [
+          "修更多路",
+          "让城市更堵",
+          "禁止开车",
+          "增加地铁"
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": [
+      {
+        "type": "mc",
+        "prompt": {
+          "zh": "詹森方法的核心理念是什么？",
+          "ru": "Какова главная идея метода Йенсена?",
+          "en": "What is the core idea of Jensen's method?"
+        },
+        "options": [
+          "修路越多越好",
+          "开车更方便",
+          "以堵治堵",
+          "增加停车场"
+        ],
+        "answer": 2
+      }
+    ],
+    "writing": [
+      {
+        "type": "make_sentence",
+        "words": [
+          "把",
+          "大意",
+          "请",
+          "这篇文章的",
+          "归纳一下"
+        ],
+        "answer": "请把这篇文章的大意归纳一下。"
+      },
+      {
+        "type": "make_sentence",
+        "words": [
+          "照常",
+          "他还是",
+          "第一个",
+          "来到单位",
+          "第二天早晨"
+        ],
+        "answer": "第二天早晨他还是照常第一个来到单位。"
+      },
+      {
+        "type": "short_essay",
+        "words": [
+          "交通",
+          "行人",
+          "拥挤",
+          "缓解",
+          "政府"
+        ],
+        "min_length": 80
+      }
+    ]
+  }
+}

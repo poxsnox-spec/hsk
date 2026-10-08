@@ -1,0 +1,996 @@
+{
+  "title": {
+    "zh": "汉字叔叔：一个美国人的汉字情缘",
+    "ru": "Дядюшка Ханьцзы: история любви американца к китайским иероглифам",
+    "tk": "",
+    "en": "Uncle Hanzi: The predestined love of an American for Chinese characters",
+    "uz": "",
+    "tg": "",
+    "id": "",
+    "tr": ""
+  },
+  "audio_files": {
+    "textbook_1": "textbook_21_1.mp3",
+    "vocab": "vocab_21.mp3",
+    "workbook_21_1": "workbook_21_1.mp3"
+  },
+  "warmup": {
+    "question": {
+      "zh": "说说你母语所使用的文字和中文有什么不同。简单介绍一下你在学习汉字时，遇到了哪些困难或问题，你是怎么解决的。",
+      "ru": "Расскажите, чем письменность вашего языка отличается от китайской. Какие трудности вы испытывали при изучении иероглифов и как их решали?",
+      "tk": "",
+      "en": "Tell how your native script differs from Chinese. What difficulties did you meet learning characters and how did you solve them?",
+      "uz": "",
+      "tg": "",
+      "id": "",
+      "tr": ""
+    },
+    "answers": [
+      "逻辑",
+      "死记硬背",
+      "演变"
+    ]
+  },
+  "text_zh": "1972年，22岁的理查德·希尔斯爱上了中文，但是他感觉汉字很复杂，汉字的一笔一画没有任何逻辑，只能死记硬背。一个偶然的机会，他发现如果了解汉字的来源和演变过程，再学习它就变得轻松、容易。但是他遗憾地发现，几乎没有一本英文书能充分解释汉字的字源。1994年，理查德得了心脏病，当时医生说他剩下的时间可能不多了。那时，他开始思考自己的人生，“我该怎么办？我该做什么？”“如果只能活24小时，我会打电话和朋友们说再见；如果我还能活一年，我要抓紧时间尽快把《说文解字》电脑化。”就这样，一部部古汉字经典进入他的资料库，仅仅复印、整理和把这些资料输入电脑就用了8年。2002年元旦，战胜疾病的他决定把自己创办的网站公开，让更多喜欢中文的人在学习汉字时，不再像他最初那样学得那么痛苦。\n2011年，有人把他的故事放到微博上，引起了广泛关注，他也因此被网友亲切地称呼为“汉字叔叔”。\n打开汉字叔叔克服种种困难、花光全部积蓄创办的网站，可以看到他收集整理的近10万个汉字，包含了它们演变的全部字形，当然也包括繁体字形和简体字形，还有普通话和部分方言读音、英文释义等内容，被网友称赞为“有图有真相”。\n更让人佩服的是，汉字叔叔将网站上的内容全部开放给网友免费下载。现在，有很多单位向理查德发出了工作邀请，而理查德选择了去北京师范大学教书，因为那里也有人在做汉字识别查询的研究。在北师大，他除了教物理，还有充分的时间继续研究他的汉字，完善他的网站。在中国，60多岁已经是退休的年纪了。但汉字叔叔每天的日程却安排得很满。他说：“我不会退休，我还要继续追求我的梦想，我要‘活到老，学到老’。”",
+  "text_translation": {
+    "zh": "",
+    "ru": "В 1972 году 22-летний Ричард Сирс влюбился в китайский, но иероглифы казались ему крайне сложными: в чертах не было никакой логики, приходилось зубрить. Случайно он обнаружил: если понять происхождение и эволюцию иероглифов, учить их становится легко. Но, к сожалению, почти ни одна книга на английском не объясняла этимологию в полной мере. В 1994 году у Ричарда случился сердечный приступ; врач сказал, что времени осталось немного. Тогда он задумался о жизни: «Что мне делать? Что я должен сделать?» — «Если мне осталось 24 часа — позвоню друзьям попрощаться. Если год — постараюсь как можно скорее оцифровать „Шовэнь цзецзы“». Так в его базу вошли классические труды по древним иероглифам; только копирование, упорядочивание и ввод в компьютер заняли восемь лет. 1 января 2002 года, победив болезнь, он решил открыть свой сайт для публики — чтобы как можно больше любителей китайского учили иероглифы без тех страданий, что выпали ему вначале.\nВ 2011 году кто-то выложил его историю в вейбо — она привлекла широкое внимание, и интернет-пользователи ласково прозвали его «Дядюшка Ханьцзы».\nОткрыв созданный им сайт — плод преодоления множества трудностей и всех его сбережений — можно увидеть почти 100 тысяч собранных и упорядоченных им иероглифов, включая все графические варианты их эволюции, конечно и традиционные, и упрощённые формы, а также чтения на путунхуа и в некоторых диалектах, английские толкования. Пользователи называют сайт «с картинками и правдой».\nЕщё более восхищает то, что Дядюшка Ханьцзы сделал всё содержимое сайта свободно доступным для скачивания. Сегодня многие организации приглашают Ричарда на работу, а он выбрал преподавание в Пекинском педагогическом университете, потому что там тоже ведутся исследования по распознаванию и поиску иероглифов. В БНУ он не только учит физике, но и имеет достаточно времени продолжать исследования и совершенствовать сайт. В Китае в 60 с лишним лет уже выходят на пенсию, но расписание Дядюшки Ханьцзы по-прежнему плотное. Он говорит: «Я не уйду на пенсию — продолжу pursue свою мечту. Я хочу учиться, пока жив».",
+    "tk": "",
+    "en": "In 1972, 22-year-old Richard Sears fell in love with Chinese, but found characters extremely complex — strokes had no logic, only rote memorization worked. By chance he discovered that understanding the origin and evolution of characters makes learning them easy. Yet regretfully, almost no English book explained their etymology fully. In 1994, Richard had a heart attack; the doctor said he might not have much time left. He began to ponder his life: 'What should I do? What should I do?' — 'If I only have 24 hours, I'll call friends to say goodbye; if I have a year, I'll hurry to digitize Shuowen Jiezi.' So classic works on ancient characters entered his database; simply copying, organizing, and inputting them took eight years. On New Year's Day 2002, having overcome his illness, he decided to open his website to the public — so that more Chinese lovers could learn characters without the pain he first endured.\nIn 2011, someone posted his story on Weibo — it drew wide attention, and netizens affectionately dubbed him 'Uncle Hanzi'.\nOpening the website he founded — the fruit of overcoming countless difficulties and spending all his savings — one can see nearly 100,000 characters he collected and organized, including all their evolutionary forms, both traditional and simplified, plus Mandarin and some dialect readings, English glosses, and more — netizens praise it as 'with pictures and the truth'.\nEven more admirable is that Uncle Hanzi made the entire site freely downloadable. Now many organizations have offered Richard jobs, and he chose to teach at Beijing Normal University, because research on character recognition and retrieval is also done there. At BNU he not only teaches physics but also has ample time to continue his research and perfect his site. In China, 60+ is retirement age, yet Uncle Hanzi's schedule is full. He says: 'I won't retire — I'll keep pursuing my dream. I want to learn as long as I live.'",
+    "uz": "",
+    "tg": "",
+    "id": "",
+    "tr": ""
+  },
+  "vocabulary": [
+    {
+      "hanzi": "情缘",
+      "pinyin": "qíngyuán",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "судьба, связь",
+        "tk": "",
+        "en": "predestined love, sentimental bond",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "逻辑",
+      "pinyin": "luójí",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "логика",
+        "tk": "",
+        "en": "logic",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "硬",
+      "pinyin": "yìng",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "твёрдо, упрямо",
+        "tk": "",
+        "en": "rigidly, mechanically",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "死记硬背",
+      "pinyin": "sǐjì-yìngbèi",
+      "pos": "идиом",
+      "meaning": {
+        "zh": "",
+        "ru": "зазубривать",
+        "tk": "",
+        "en": "to memorize mechanically",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "偶然",
+      "pinyin": "ǒurán",
+      "pos": "adj./adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "случайный; случайно",
+        "tk": "",
+        "en": "accidental; by chance",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "演变",
+      "pinyin": "yǎnbiàn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "эволюционировать",
+        "tk": "",
+        "en": "to change, to evolve",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "遗憾",
+      "pinyin": "yíhàn",
+      "pos": "adj./n.",
+      "meaning": {
+        "zh": "",
+        "ru": "сожаление",
+        "tk": "",
+        "en": "regretful; deep regret",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "心脏",
+      "pinyin": "xīnzàng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "сердце",
+        "tk": "",
+        "en": "heart",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "思考",
+      "pinyin": "sīkǎo",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "размышлять",
+        "tk": "",
+        "en": "to think deeply, to ponder",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "抓紧",
+      "pinyin": "zhuājǐn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "крепко схватить; успеть",
+        "tk": "",
+        "en": "to firmly grasp",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "尽快",
+      "pinyin": "jǐnkuài",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "как можно скорее",
+        "tk": "",
+        "en": "as soon as possible",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "经典",
+      "pinyin": "jīngdiǎn",
+      "pos": "n./adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "классика; классический",
+        "tk": "",
+        "en": "classics; classical",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "库",
+      "pinyin": "kù",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "хранилище",
+        "tk": "",
+        "en": "storehouse, bank",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "输入",
+      "pinyin": "shūrù",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "вводить",
+        "tk": "",
+        "en": "to input",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "元旦",
+      "pinyin": "yuándàn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "Новый год (1 января)",
+        "tk": "",
+        "en": "New Year's Day",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "疾病",
+      "pinyin": "jíbìng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "болезнь",
+        "tk": "",
+        "en": "disease, illness",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "创办",
+      "pinyin": "chuàngbàn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "основать",
+        "tk": "",
+        "en": "to establish, to set up",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "公开",
+      "pinyin": "gōngkāi",
+      "pos": "v./adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "обнародовать; открытый",
+        "tk": "",
+        "en": "to make known; open",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "最初",
+      "pinyin": "zuìchū",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "вначале, сначала",
+        "tk": "",
+        "en": "first, earliest",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "痛苦",
+      "pinyin": "tòngkǔ",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "мучительный",
+        "tk": "",
+        "en": "painful, suffering",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "微博",
+      "pinyin": "wēibó",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "вейбо (микроблог)",
+        "tk": "",
+        "en": "microblog",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "称呼",
+      "pinyin": "chēnghu",
+      "pos": "v./n.",
+      "meaning": {
+        "zh": "",
+        "ru": "называть; обращение",
+        "tk": "",
+        "en": "to call; form of address",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "克服",
+      "pinyin": "kèfú",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "преодолевать",
+        "tk": "",
+        "en": "to overcome, to conquer",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "收集",
+      "pinyin": "shōují",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "собирать",
+        "tk": "",
+        "en": "to collect, to gather",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "包含",
+      "pinyin": "bāohán",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "содержать",
+        "tk": "",
+        "en": "to contain, to include",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "繁体（字）",
+      "pinyin": "fántǐ(zì)",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "традиционные иероглифы",
+        "tk": "",
+        "en": "complex form, traditional characters",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "简体（字）",
+      "pinyin": "jiǎntǐ(zì)",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "упрощённые иероглифы",
+        "tk": "",
+        "en": "simplified form",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "方言",
+      "pinyin": "fāngyán",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "диалект",
+        "tk": "",
+        "en": "dialect",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "称赞",
+      "pinyin": "chēngzàn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "хвалить",
+        "tk": "",
+        "en": "to praise, to commend",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "真相",
+      "pinyin": "zhēnxiàng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "правда, истина",
+        "tk": "",
+        "en": "truth, fact",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "佩服",
+      "pinyin": "pèifú",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "восхищаться",
+        "tk": "",
+        "en": "to admire",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "开放",
+      "pinyin": "kāifàng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "открывать (доступ)",
+        "tk": "",
+        "en": "to open to the public",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "下载",
+      "pinyin": "xiàzài",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "скачивать",
+        "tk": "",
+        "en": "to download",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "单位",
+      "pinyin": "dānwèi",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "организация, учреждение",
+        "tk": "",
+        "en": "company, employer",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "识别",
+      "pinyin": "shíbié",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "распознавать",
+        "tk": "",
+        "en": "to recognize, to identify",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "查询",
+      "pinyin": "cháxún",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "запрашивать, искать",
+        "tk": "",
+        "en": "to search, to retrieve",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "物理",
+      "pinyin": "wùlǐ",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "физика",
+        "tk": "",
+        "en": "physics",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "完善",
+      "pinyin": "wánshàn",
+      "pos": "v./adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "совершенствовать; совершенный",
+        "tk": "",
+        "en": "to improve; perfect",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "退休",
+      "pinyin": "tuìxiū",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "выходить на пенсию",
+        "tk": "",
+        "en": "to retire",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "日程",
+      "pinyin": "rìchéng",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "расписание, график",
+        "tk": "",
+        "en": "schedule",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "追求",
+      "pinyin": "zhuīqiú",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "стремиться, добиваться",
+        "tk": "",
+        "en": "to pursue, to go after",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    },
+    {
+      "hanzi": "梦想",
+      "pinyin": "mèngxiǎng",
+      "pos": "n./v.",
+      "meaning": {
+        "zh": "",
+        "ru": "мечта; мечтать",
+        "tk": "",
+        "en": "dream; to dream",
+        "uz": "",
+        "tg": "",
+        "id": "",
+        "tr": ""
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "硬",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«硬» как наречие означает «настойчиво, упорно», а также «через силу, стиснув зубы».",
+        "en": "«硬» as an adverb means 'stubbornly, persistently' or 'by force, gritting one's teeth'."
+      },
+      "examples": [
+        {
+          "zh": "在中国历史故事“指鹿为马”中，赵高把鹿硬说成马。",
+          "ru": "В исторической притче «выдать оленя за коня» Чжао Гао упорно называл оленя конём.",
+          "en": "In the tale 'call a stag a horse', Zhao Gao stubbornly called a deer a horse."
+        },
+        {
+          "zh": "虽然中药汤有点儿苦，但为了治病，他还是硬把它喝下去了。",
+          "ru": "Хотя отвар был горьким, ради лечения он через силу его выпил.",
+          "en": "Though the herbal decoction was bitter, he forced himself to drink it for his health."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "明明是他忘了，他却__。",
+          "answer": "硬说是我没提醒他。"
+        }
+      ]
+    },
+    {
+      "word": "偶然",
+      "pos": "adj./adv.",
+      "explanation": {
+        "ru": "«偶然» как прилагательное — «случайный, неожиданный». Как наречие — «случайно, изредка».",
+        "en": "«偶然» as an adjective means 'accidental, unexpected'. As an adverb — 'by chance, occasionally'."
+      },
+      "examples": [
+        {
+          "zh": "一个偶然的机会，他发现如果了解汉字的来源和演变过程，再学习它就变得轻松、容易。",
+          "ru": "Случайно он обнаружил: если понять происхождение и эволюцию иероглифов, учить их становится легко.",
+          "en": "By chance he discovered that understanding the origin and evolution of characters makes learning easy."
+        },
+        {
+          "zh": "她专心地织着毛衣，偶然也会抬眼看一下墙上的挂钟。",
+          "ru": "Она сосредоточенно вязала свитер, изредка поднимая взгляд на настенные часы.",
+          "en": "She knitted intently, occasionally glancing at the wall clock."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "__彻底改变了他的命运。",
+          "answer": "一次偶然的相遇"
+        }
+      ]
+    },
+    {
+      "word": "尽快",
+      "pos": "adv.",
+      "explanation": {
+        "ru": "«尽快» — наречие, «как можно быстрее».",
+        "en": "«尽快» is an adverb meaning 'as soon as possible'."
+      },
+      "examples": [
+        {
+          "zh": "我要抓紧时间尽快把《说文解字》电脑化。",
+          "ru": "Я должен использовать время и как можно скорее оцифровать «Шовэнь цзецзы».",
+          "en": "I must hurry to digitize Shuowen Jiezi as soon as possible."
+        },
+        {
+          "zh": "新产品出了点儿问题，你和严经理尽快商量一下这事。",
+          "ru": "С новым продуктом проблемы — обсуди это с менеджером Янем как можно быстрее.",
+          "en": "There's a problem with the new product — discuss it with Manager Yan as soon as possible."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "question": "Ситуация у пациента опасная, отправьте его в больницу как можно скорее.",
+          "answer": "病人的情况很危险，尽快送他去医院。"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "偶然",
+      "word_b": "偶尔",
+      "common": {
+        "ru": "Оба наречия означают «не часто», иногда взаимозаменяемы.",
+        "en": "Both adverbs mean 'not often'; sometimes interchangeable."
+      },
+      "differences": [
+        {
+          "ru": "«偶然» — акцент на «внезапно, неожиданно», антоним к «必然».",
+          "en": "«偶然» focuses on 'suddenly, unexpectedly'; antonym of 必然."
+        },
+        {
+          "ru": "«偶尔» — акцент на «редко», антоним к «经常».",
+          "en": "«偶尔» focuses on 'rarely'; antonym of 经常."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "zh": "学科 (Дисциплины)",
+      "ru": "Учебные дисциплины",
+      "en": "Academic subjects"
+    },
+    "words": [
+      {
+        "hanzi": "哲学",
+        "pinyin": "zhéxué",
+        "meaning": {
+          "zh": "",
+          "ru": "философия",
+          "en": "philosophy"
+        }
+      },
+      {
+        "hanzi": "化学",
+        "pinyin": "huàxué",
+        "meaning": {
+          "zh": "",
+          "ru": "химия",
+          "en": "chemistry"
+        }
+      },
+      {
+        "hanzi": "物理",
+        "pinyin": "wùlǐ",
+        "meaning": {
+          "zh": "",
+          "ru": "физика",
+          "en": "physics"
+        }
+      },
+      {
+        "hanzi": "政治",
+        "pinyin": "zhèngzhì",
+        "meaning": {
+          "zh": "",
+          "ru": "политика",
+          "en": "politics"
+        }
+      },
+      {
+        "hanzi": "粘贴",
+        "pinyin": "zhāntiē",
+        "meaning": {
+          "zh": "",
+          "ru": "вставить (в файл)",
+          "en": "to paste"
+        }
+      },
+      {
+        "hanzi": "复制",
+        "pinyin": "fùzhì",
+        "meaning": {
+          "zh": "",
+          "ru": "копировать",
+          "en": "to copy"
+        }
+      },
+      {
+        "hanzi": "浏览",
+        "pinyin": "liúlǎn",
+        "meaning": {
+          "zh": "",
+          "ru": "просматривать",
+          "en": "to browse"
+        }
+      },
+      {
+        "hanzi": "删除",
+        "pinyin": "shānchú",
+        "meaning": {
+          "zh": "",
+          "ru": "удалять",
+          "en": "to delete"
+        }
+      },
+      {
+        "hanzi": "搜索",
+        "pinyin": "sōusuǒ",
+        "meaning": {
+          "zh": "",
+          "ru": "искать",
+          "en": "to search"
+        }
+      },
+      {
+        "hanzi": "文件",
+        "pinyin": "wénjiàn",
+        "meaning": {
+          "zh": "",
+          "ru": "файл, документ",
+          "en": "file"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "zh": "学汉语：出于什么目的或原因，你做出了学汉语的决定？你在学习过程中遇到过什么困难？你是怎么克服的？学汉语给你的生活带来了哪些改变？",
+      "ru": "Изучение китайского: почему вы решили учить китайский? Какие трудности встретили и как преодолели? Как изменилась ваша жизнь?",
+      "tk": "",
+      "en": "Learning Chinese: why did you decide to learn Chinese? What difficulties did you meet and how did you overcome them? How has your life changed?",
+      "uz": "",
+      "tg": "",
+      "id": "",
+      "tr": ""
+    },
+    "writing_prompt": {
+      "zh": "请以“我为什么学汉语”为题，谈一谈你的想法和经历。尽量用上本课所学的生词，字数不少于100字。",
+      "ru": "Напишите эссе на тему «Почему я учу китайский», используя слова урока, не менее 100 иероглифов.",
+      "en": "Write an essay titled 'Why I learn Chinese', using this lesson's vocabulary, at least 100 characters."
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "audio": "workbook_21_1.mp3",
+        "prompt": {
+          "zh": "男的遇到了什么问题？",
+          "ru": "С какой проблемой столкнулся мужчина?",
+          "en": "What problem did the man run into?"
+        },
+        "options": [
+          "修改套餐",
+          "设置密码",
+          "查询话费",
+          "下载文件"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "audio": "workbook_21_1.mp3",
+        "prompt": {
+          "zh": "女的打算干什么？",
+          "ru": "Что планирует делать женщина?",
+          "en": "What does the woman plan to do?"
+        },
+        "options": [
+          "参加期末考试",
+          "准备演讲比赛",
+          "查找论文资料",
+          "组织球赛活动"
+        ],
+        "answer": 2
+      }
+    ],
+    "reading": [
+      {
+        "type": "cloze",
+        "text_zh": "不可否认，传统纸质出版有着不可避免的局限。随着技术的发展和平书自身的15，从长远来看，很难说人们两千多年的阅读习惯不会改变。",
+        "blanks": [
+          {
+            "position": 15,
+            "answer": "完善",
+            "options": [
+              "先进",
+              "完善",
+              "深入",
+              "开放"
+            ]
+          }
+        ]
+      }
+    ],
+    "writing": [
+      {
+        "type": "make_sentence",
+        "words": [
+          "都需要",
+          "任何",
+          "行动之前",
+          "有完善的计划",
+          "采取"
+        ],
+        "answer": "任何行动之前都需要采取有完善的计划。"
+      },
+      {
+        "type": "make_sentence",
+        "words": [
+          "值得",
+          "成就",
+          "称赞",
+          "刘校长",
+          "在教改方面的"
+        ],
+        "answer": "刘校长在教改方面的成就值得称赞。"
+      },
+      {
+        "type": "make_sentence",
+        "words": [
+          "勇气",
+          "是为了",
+          "培养学生",
+          "活动的目的",
+          "克服困难的"
+        ],
+        "answer": "活动的目的是为了培养学生克服困难的勇气。"
+      },
+      {
+        "type": "short_essay",
+        "words": [
+          "梦想",
+          "抓紧",
+          "思考",
+          "遗憾",
+          "追求"
+        ],
+        "min_length": 80
+      }
+    ]
+  }
+}

@@ -1,0 +1,885 @@
+{
+  "title": {
+    "zh": "登门槛效应",
+    "ru": "Эффект «ноги в двери»",
+    "tk": "Aýak gapyda effekti",
+    "en": "Foot-in-the-door effect",
+    "uz": "Oyoqni eshikka qo'yish effekti",
+    "tg": "Таъсири «по дар»",
+    "id": "Efek kaki di pintu",
+    "tr": "Kapıya ayak basma etkisi"
+  },
+  "audio_files": {
+    "textbook_1": "textbook_31_1.mp3",
+    "vocab": "vocab_31.mp3",
+    "workbook_31_1": "workbook_31_1.mp3"
+  },
+  "warmup": {
+    "question": {
+      "zh": "如果你想请别人帮你做件事情，又担心对方不愿意，你一般会考虑哪些问题？你会以何种方式向对方提出请求呢？",
+      "ru": "Если вы хотите попросить кого-то о помощи и боитесь отказа — о чём вы обычно думаете? Как вы формулируете просьбу?",
+      "tk": "Kimdir birinden kömek soramak isleseňiz we ol ret etmeginden gorksaňyz — adatça nähili pikir edýärsiňiz? Haýyşyňyzy nähili beýan edýärsiňiz?",
+      "en": "If you want to ask someone for help but worry they'll refuse — what do you usually consider? How do you phrase your request?",
+      "uz": "Agar siz kimdandir yordam so'ramoqchi bo'lsangiz va u rad etishidan qo'rqsangiz — odatda nima haqida o'ylaysiz? Iltimosni qanday ifodalaysiz?",
+      "tg": "Агар шумо хоҳед, ки аз касе кӯмак пурсед ва аз рад шуданаш метарсед — одатан ба чӣ фикр мекунед? Хоҳишатонро чӣ тавр баён мекунед?",
+      "id": "Jika Anda ingin meminta bantuan seseorang tetapi takut ditolak — apa yang biasanya Anda pikirkan? Bagaimana Anda merumuskan permintaan Anda?",
+      "tr": "Birinden yardım istemek isteyip de reddedilmesinden korkuyorsanız — genellikle ne düşünürsünüz? İsteğinizi nasıl ifade edersiniz?"
+    },
+    "answers": [
+      "接受"
+    ]
+  },
+  "text_zh": "一个朋友在报社当编辑。一天他去请假，他先问领导：“您今天心情好吗？”领导说：“怎么了？”朋友答：“嗯，如果您心情好，我就说件事；心情不好就改天再说。”领导有了兴趣，假，就这样轻易地请好了。\n不得不说，这位朋友很会利用“登门槛效应”来处理问题。\n心理学家曾做过“登门槛技术”的现场实验。他们派人到两个社区，劝人们在屋前立一块“小心驾驶”的圆形标志。在第一个社区，研究人员直接向人们提出要求，结果很多人表示拒绝，接受率仅为17%。在第二个社区，研究人员把同样的事情分成两个步骤：先向大家出示一份赞成安全驾驶的请愿书，请求他们在上面签字，几周后再提出立牌要求，这次接受者竟然达到了55%。第一个步骤的签字是很容易的，几乎所有人都照做了，大家可能都没意识到，这个小小的“登门槛行为”对接下来的决定产生了重要影响。\n日常生活中也是这样。当你想要求某人做某件较大的事情，又担心对方不愿意做时，可以先向他/她提出做一件同类型的、比较容易的事。比如你想与一个女孩谈恋爱，如果一开始就迫切地提出要跟她约会，女孩可能会犹豫，甚至表现得很冷淡；如果你说“饭总是要吃的吧，一起吃饭吧”，她答应了，那接下来是去看电影还是泡酒吧都无所谓了。你想让同事帮你值班或写报告什么的，直接说八成儿会被拒绝，把事情模糊化，“能不能帮个小忙”，“不会占用你很多时间”，台阶一铺，事情就容易多了……\n你可能会说，这些小动作会让人觉得你很狡猾。但是不得不承认，有了这些小动作的帮助，别人的确更愿意接受你的请求。有时候，当你自认为了不起时，别人通常觉得你这人不过如此；可是当你放低身段时，会缩短与人的距离，别人并不会看不起你，反而会觉得你为人谦虚。实践证明，第二种人得到的总是比第一种人更多。",
+  "text_translation": {
+    "zh": "",
+    "ru": "У одного моего друга — редактора в газете — был случай с отгулом. Он сначала спросил у начальника про настроение, потом сказал, что если оно хорошее — он кое-что скажет. Начальник заинтересовался, и отгул получил легко. Это — «эффект ноги в двери»: сначала маленькая просьба, потом большая. Психологи ставили эксперименты: если сначала попросить подписать петицию, а потом разрешить поставить знак «Внимание! Дорога!» — процент согласившихся резко растёт. В быту так же: девушке проще согласиться пойти поесть, а потом уже и в кино; коллеге проще «маленькую просьбу» выполнить, чем сразу большой отчёт. Эти маленькие хитрости кажутся лукавыми, но они реально помогают — и когда человек «спускается с высоты», с ним приятнее иметь дело.",
+    "tk": "Bir dostum gazetede redaktor bolup işleýär. Bir gün ol rugsat soramaga gitdi, ilki bilen başlygyndan: \"Şu gün keýpiňiz gowumy?\" diýip sorady. Başlyk: \"Näme boldy?\" diýdi. Dostum: \"Hawa, eger keýpiňiz gowy bolsa, bir zady aýdaýyn; keýpiňiz gowy bolmasa, başga gün aýdaryn\" diýip jogap berdi. Başlyk gyzyklandy, rugsat şeýle aňsatlyk bilen alyndy.\nAýdyp geçmeli, bu dostum \"gapy bosagasyna aýak basmak effektini\" ulanyp, meseläni çözmegi gowy başarýar.\nPsihologlar \"gapy bosagasyna aýak basmak tehnikasy\" boýunça meýdan synagyny geçirdiler. Olar iki jemgyýete adam iberip, adamlara öýüniň öňünde \"Seresap sürüň\" diýen tegelek nyşany goýmagy haýyş etdiler. Birinji jemgyýetde gözlegçiler adamlara göni haýyş etdiler, netijede köp adam ret etdi, kabul ediş derejesi bary-ýogy 17% boldy. Ikinji jemgyýetde gözlegçiler şol bir zady iki basgança böldüler: ilki bilen adamlara howpsuz sürmegi goldaýan haýyşnama görkezip, oňa gol çekmegi haýyş etdiler, birnäçe hepde soň bolsa nyşan goýmak haýyşyny berdiler, bu gezek kabul edenler 55%-e ýetdi. Birinji basgançakda gol çekmek gaty aňsatdy, diýen ýaly hemmesi şeýle etdi, adamlar bu kiçijik \"gapy bosagasyna aýak basmak hereketiniň\" indiki karara möhüm täsir edýändigini duýmandyrlar.\nGündelik durmuşda hem şeýle. Bir adamdan has uly bir iş etmegi haýyş etmek isläniňizde, ýöne ol muny islemez öýdüp gorkanyňyzda, ilki bilen oňa şol bir görnüşdäki, has aňsat bir işi teklip edip bilersiňiz. Meselem, bir gyz bilen söýüşmek isleýärsiňiz, başda derrew onuň bilen duşuşmak isleýändigiňizi aýtsaňyz, gyz ikirjiňläp, hatda sowuklyk görkezip biler; eger \"nahar iýmeli bolsa, bile nahar iýeli\" diýseňiz, ol razy bolsa, indiki nobatda kinoga gitmekmi ýa-da barda oturmakmy",
+    "en": "A friend of mine, an editor at a newspaper, had a story about asking for leave. He first asked his boss about his mood — and if the mood was good, he'd say something. The boss got interested, and the leave was easily granted. This is the “foot-in-the-door effect”: start with a small request, then go bigger. Psychologists have done field experiments: if you first ask people to sign a petition, and later to allow a sign 'Drive Carefully!' — the acceptance rate jumps dramatically. In daily life too: it's easier for a girl to say yes to a meal than to a date, and for a colleague to do 'a small favour' than a big report. These little tricks may seem crafty, but they work — and when you step down from your pedestal, people are more willing to help.",
+    "uz": "Bir do'stim gazetada muharrir bo'lib ishlaydi. Bir kuni u ta'til so'rash uchun bordi, avval rahbardan: \"Bugun kayfiyatingiz yaxshimi?\" deb so'radi. Rahbar: \"Nima bo'ldi?\" dedi. Do'stim: \"Xo'p, agar kayfiyatingiz yaxshi bo'lsa, bir gap aytaman; kayfiyatingiz yomon bo'lsa, boshqa kuni aytaman\" deb javob berdi. Rahbar qiziqib qoldi, ta'til shunday osonlikcha olindi.\nAytish kerakki, bu do'stim \"eshik oldiga qadam qo'yish effekti\"dan foydalanib, muammoni hal qilishni juda yaxshi biladi.\nPsixologlar \"eshik oldiga qadam qo'yish texnikasi\" bo'yicha dala tajribasini o'tkazdilar. Ular ikki jamoaga odam yuborib, odamlarga uy oldiga \"Ehtiyotkorlik bilan haydang\" degan dumaloq belgi o'rnatishni taklif qildilar. Birinchi jamoada tadqiqotchilar odamlarga to'g'ridan-to'g'ri murojaat qildilar, natijada ko'pchilik rad etdi, qabul qilish darajasi atigi 17% bo'ldi. Ikkinchi jamoada tadqiqotchilar xuddi shu ishni ikki bosqichga bo'ldilar: avval odamlarga xavfsiz haydashni qo'llab-quvvatlovchi petitsiya ko'rsatib, unga imzo chekishni so'radilar, bir necha hafta o'tib esa belgi o'rnatish talabini qo'ydilar, bu safar qabul qilganlar 55% ga yetdi. Birinchi bosqichda imzo chekish juda oson edi, deyarli hamma shunday qildi, odamlar bu kichik \"eshik oldiga qadam qo'yish harakati\" keyingi qarorga muhim ta'sir ko'rsatganini sezmagan bo'lishlari mumkin.\nKundalik hayotda ham shunday. Biror kishidan kattaroq bir ish qilishni so'ramoqchi bo'lsangiz, lekin u buni xohlamasligidan qo'rqsangiz, avval unga shu turdagi, osonroq bir ishni taklif qilishingiz mumkin. Masalan, bir qiz bilan sevishmoqchi bo'lsangiz, boshida darhol u bilan uchrashishni talab qilsangiz, qiz ikkilanib, hatto sovuqqonlik qilishi mumkin; agar \"ovqat har doim yeyiladi-ku, birga ovqat yeylik\" desangiz, u rozi bo'lsa, keyin kinoga borishmi yoki barda o'tirishmi",
+    "tg": "Яке аз дӯстонам дар рӯзнома муҳаррир кор мекунад. Як рӯз ӯ барои рухсатӣ рафт, аввал аз роҳбар пурсид: \"Имрӯз кайфиятатон хуб аст?\" Роҳбар гуфт: \"Чӣ шуд?\" Дӯстам ҷавоб дод: \"Хуб, агар кайфиятатон хуб бошад, як чизро мегӯям; агар кайфиятатон бад бошад, рӯзи дигар мегӯям.\" Роҳбар шавқманд шуд, рухсатӣ ҳамин тавр ба осонӣ гирифта шуд.\nБояд гуфт, ки ин дӯстам аз \"эффекти қадам ба остона гузоштан\" барои ҳалли масъала хеле хуб истифода мебарад.\nПсихологҳо оид ба \"техникаи қадам ба остона гузоштан\" таҷрибаи саҳроӣ гузарониданд. Онҳо ба ду ҷомеа одамон фиристоданд ва аз одамон хоҳиш карданд, ки дар пеши хонаашон аломати гирдоби \"Эҳтиёткорона рондан\" гузоранд. Дар ҷомеаи якум, тадқиқотчиён бевосита ба одамон дархост карданд, дар натиҷа бисёр одамон рад карданд, сатҳи қабул ҳамагӣ 17% буд. Дар ҷомеаи дуюм, тадқиқотчиён ҳамон корро ба ду марҳила тақсим карданд: аввал ба одамон арзномаи тарафдории рондани бехатарро нишон дода, аз онҳо хоҳиш карданд, ки дар он имзо гузоранд, баъд аз чанд ҳафта талаби гузоштани аломатро пешниҳод карданд, ин дафъа қабулкунандагон ба 55% расиданд. Дар марҳилаи якум имзо гузоштан хеле осон буд, қариб ҳама ин корро карданд, эҳтимол одамон нафаҳмиданд, ки ин \"амали хурди қадам ба остона гузоштан\" ба қарори минбаъда таъсири муҳим расонд.\nДар ҳаёти ҳаррӯза низ ҳамин тавр аст. Вақте ки мехоҳед аз касе кори калонтарро талаб кунед, вале метарсед, ки ӯ ин корро нахоҳад кард, метавонед аввал ба ӯ кори ҳамон навъ, вале осонтарро пешниҳод кунед. Масалан, мехоҳед бо духтаре ошиқӣ кунед, агар дар аввал фавран бо ӯ вохӯрданро талаб кунед, духтар шояд дудила шавад, ҳатто хунукӣ нишон диҳад; агар гӯед \"хӯрок ҳамеша хӯрданӣ аст, биё якҷоя хӯрок хӯрем\", вай розӣ шавад, пас баъд ба кино рафтан ё дар бар нишастан",
+    "id": "Seorang teman saya bekerja sebagai editor di surat kabar. Suatu hari ia pergi meminta cuti, ia terlebih dahulu bertanya kepada atasannya: \"Apakah suasana hati Anda baik hari ini?\" Atasan berkata: \"Ada apa?\" Teman saya menjawab: \"Begini, jika suasana hati Anda baik, saya akan mengatakan sesuatu; jika tidak baik, saya akan mengatakannya lain hari.\" Atasan menjadi tertarik, dan cuti pun dengan mudah diberikan.\nHarus diakui, teman saya ini sangat pandai memanfaatkan \"efek kaki di pintu\" untuk menyelesaikan masalah.\nPsikolog pernah melakukan eksperimen lapangan tentang \"teknik kaki di pintu\". Mereka mengirim orang ke dua komunitas, membujuk orang-orang untuk memasang tanda bulat \"Hati-hati Mengemudi\" di depan rumah mereka. Di komunitas pertama, peneliti langsung mengajukan permintaan kepada orang-orang, akibatnya banyak yang menolak, tingkat penerimaan hanya 17%. Di komunitas kedua, peneliti membagi hal yang sama menjadi dua langkah: pertama menunjukkan petisi yang mendukung mengemudi aman kepada orang-orang, meminta mereka menandatanganinya, beberapa minggu kemudian mengajukan permintaan pemasangan tanda, kali ini penerima mencapai 55%. Langkah pertama menandatangani sangat mudah, hampir semua orang melakukannya, orang-orang mungkin tidak menyadari bahwa \"tindakan kaki di pintu\" yang kecil ini memberikan pengaruh penting pada keputusan berikutnya.\nDalam kehidupan sehari-hari pun demikian. Ketika Anda ingin meminta seseorang melakukan sesuatu yang lebih besar, tetapi khawatir orang tersebut tidak mau melakukannya, Anda dapat terlebih dahulu mengajukan sesuatu yang sejenis dan lebih mudah kepadanya. Misalnya Anda ingin berpacaran dengan seorang gadis, jika sejak awal Anda langsung mendesak untuk berkencan dengannya, gadis itu mungkin ragu-ragu, bahkan bersikap dingin; jika Anda berkata \"makan kan tetap harus makan, ayo makan bersama\", dan ia setuju, maka selanjutnya apakah pergi menonton film atau nongkrong di bar",
+    "tr": "Bir arkadaşım gazetede editör olarak çalışıyor. Bir gün izin istemeye gitti, önce yöneticisine sordu: \"Bugün keyfiniz iyi mi?\" Yönetici: \"Ne oldu?\" dedi. Arkadaşım cevap verdi: \"Şey, eğer keyfiniz iyiyse bir şey söyleyeceğim; keyfiniz iyi değilse başka gün söylerim.\" Yönetici ilgilendi, izin böylece kolayca alındı.\nSöylemek gerekirse, bu arkadaşım \"kapı aralığı etkisi\"ni kullanarak sorunları çözmeyi çok iyi biliyor.\nPsikologlar \"kapı aralığı tekniği\" üzerine saha deneyi yaptılar. İki mahalleye insan gönderip, insanları evlerinin önüne \"Dikkatli Sürün\" yazılı yuvarlak bir tabela koymaya ikna ettiler. Birinci mahallede araştırmacılar doğrudan insanlara ricada bulundular, sonuçta birçok kişi reddetti, kabul oranı sadece %17 oldu. İkinci mahallede araştırmacılar aynı şeyi iki adıma böldüler: önce insanlara güvenli sürüşü destekleyen bir dilekçe gösterip imzalamalarını istediler, birkaç hafta sonra tabela koyma isteğini sundular, bu kez kabul edenler %55'e ulaştı. İlk adımda imzalamak çok kolaydı, neredeyse herkes yaptı, insanlar bu küçük \"kapı aralığı davranışı\"nın sonraki karar üzerinde önemli bir etki yarattığını fark etmemiş olabilirler.\nGünlük hayatta da böyledir. Birinden daha büyük bir şey yapmasını istediğinizde, karşı tarafın yapmak istemeyeceğinden endişeleniyorsanız, önce ona aynı türden, daha kolay bir şey teklif edebilirsiniz. Örneğin bir kızla çıkmak istiyorsanız, başlangıçta hemen onunla buluşmak istediğinizi söylerseniz, kız tereddüt edebilir, hatta soğuk davranabilir; eğer \"yemek her zaman yenir ya, birlikte yemek yiyelim\" derseniz ve o kabul ederse, sonrasında sinemaya mı gidilir yoksa bara mı gidilir"
+  },
+  "vocabulary": [
+    {
+      "hanzi": "门槛",
+      "pinyin": "ménkǎn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "порог",
+        "tk": "bosaga",
+        "en": "threshold",
+        "uz": "ostona",
+        "tg": "остона",
+        "id": "ambang",
+        "tr": "eşik"
+      }
+    },
+    {
+      "hanzi": "报社",
+      "pinyin": "bàoshè",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "редакция газеты",
+        "tk": "gazet redaksiýasy",
+        "en": "newspaper office",
+        "uz": "gazeta tahririyati",
+        "tg": "редаксияи рӯзнома",
+        "id": "kantor surat kabar",
+        "tr": "gazete idaresi"
+      }
+    },
+    {
+      "hanzi": "编辑",
+      "pinyin": "biānjí",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "редактор",
+        "tk": "redaktor",
+        "en": "editor",
+        "uz": "muharrir",
+        "tg": "муҳаррир",
+        "id": "editor",
+        "tr": "editör"
+      }
+    },
+    {
+      "hanzi": "嗯",
+      "pinyin": "ng",
+      "pos": "int.",
+      "meaning": {
+        "zh": "",
+        "ru": "м-м (междометие)",
+        "tk": "hawa",
+        "en": "used to indicate positive response",
+        "uz": "ha",
+        "tg": "ҳа",
+        "id": "hmm",
+        "tr": "hı hı"
+      }
+    },
+    {
+      "hanzi": "轻易",
+      "pinyin": "qīngyì",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "легко, запросто",
+        "tk": "aňsat, ýeňil",
+        "en": "easy, effortless",
+        "uz": "oson, osonlikcha",
+        "tg": "осон, ба осонӣ",
+        "id": "mudah, dengan mudah",
+        "tr": "kolayca, zahmetsizce"
+      }
+    },
+    {
+      "hanzi": "处理",
+      "pinyin": "chǔlǐ",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "обрабатывать, улаживать",
+        "tk": "işlemek, çözmek",
+        "en": "to handle, to deal with",
+        "uz": "ishlamoq, hal qilmoq",
+        "tg": "кор кардан, ҳал кардан",
+        "id": "menangani, mengurus",
+        "tr": "işlemek, halletmek"
+      }
+    },
+    {
+      "hanzi": "社区",
+      "pinyin": "shèqū",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "микрорайон, сообщество",
+        "tk": "jemgyýet",
+        "en": "community",
+        "uz": "jamoa",
+        "tg": "ҷомеа",
+        "id": "komunitas",
+        "tr": "topluluk"
+      }
+    },
+    {
+      "hanzi": "劝",
+      "pinyin": "quàn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "убеждать, уговаривать",
+        "tk": "ynandyrmak, göwünlik bermek",
+        "en": "to try to persuade",
+        "uz": "koʻndirmoq, ishontirmoq",
+        "tg": "маслиҳат кардан, бовар кунондан",
+        "id": "membujuk, menasihati",
+        "tr": "ikna etmeye çalışmak, kandırmak"
+      }
+    },
+    {
+      "hanzi": "圆",
+      "pinyin": "yuán",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "круглый",
+        "tk": "tegelek",
+        "en": "round, circular",
+        "uz": "dumaloq",
+        "tg": "гирд",
+        "id": "bulat",
+        "tr": "yuvarlak"
+      }
+    },
+    {
+      "hanzi": "标志",
+      "pinyin": "biāozhì",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "знак, символ",
+        "tk": "belgi",
+        "en": "sign, mark",
+        "uz": "belgi",
+        "tg": "аломат",
+        "id": "tanda",
+        "tr": "işaret"
+      }
+    },
+    {
+      "hanzi": "出示",
+      "pinyin": "chūshì",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "предъявлять, показывать",
+        "tk": "görkezmek",
+        "en": "to show, to produce",
+        "uz": "ko'rsatmoq",
+        "tg": "нишон додан",
+        "id": "menunjukkan",
+        "tr": "göstermek"
+      }
+    },
+    {
+      "hanzi": "赞成",
+      "pinyin": "zànchéng",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "одобрять, поддерживать",
+        "tk": "makullamak, goldamak",
+        "en": "to agree with, to approve of",
+        "uz": "ma'qullamoq, qo'llab-quvvatlamoq",
+        "tg": "тасдиқ кардан, дастгирӣ кардан",
+        "id": "menyetujui, mendukung",
+        "tr": "onaylamak, desteklemek"
+      }
+    },
+    {
+      "hanzi": "请愿书",
+      "pinyin": "qǐngyuànshū",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "петиция",
+        "tk": "haýyşnama",
+        "en": "petition",
+        "uz": "petitsiya",
+        "tg": "арзунома",
+        "id": "petisi",
+        "tr": "dilekçe"
+      }
+    },
+    {
+      "hanzi": "恋爱",
+      "pinyin": "liàn'ài",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "любовь, влюблённость",
+        "tk": "söýgi",
+        "en": "romantic love",
+        "uz": "sevgi",
+        "tg": "ишқ",
+        "id": "cinta",
+        "tr": "aşk"
+      }
+    },
+    {
+      "hanzi": "迫切",
+      "pinyin": "pòqiè",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "настоятельный, срочный",
+        "tk": "gyssagly, hökman",
+        "en": "urgent, pressing",
+        "uz": "shoshilinch, zarur",
+        "tg": "таъҷилӣ, зарурӣ",
+        "id": "mendesak, penting",
+        "tr": "acil, ivedi"
+      }
+    },
+    {
+      "hanzi": "犹豫",
+      "pinyin": "yóuyù",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "колеблющийся",
+        "tk": "ikireňlemek",
+        "en": "hesitant",
+        "uz": "ikkilanish",
+        "tg": "дудила",
+        "id": "ragu-ragu",
+        "tr": "tereddüt"
+      }
+    },
+    {
+      "hanzi": "冷淡",
+      "pinyin": "lěngdàn",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "холодный, равнодушный",
+        "tk": "sowuk, biperwaý",
+        "en": "cold, indifferent",
+        "uz": "sovuq, befarq",
+        "tg": "хунук, бепарво",
+        "id": "dingin, acuh tak acuh",
+        "tr": "soğuk, ilgisiz"
+      }
+    },
+    {
+      "hanzi": "无所谓",
+      "pinyin": "wúsuǒwèi",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "безразлично, не важно",
+        "tk": "tapawudy ýok, parhy ýok",
+        "en": "to not care, to not mind",
+        "uz": "farqi yo'q, ahamiyati yo'q",
+        "tg": "фарқ надорад, муҳим нест",
+        "id": "tidak masalah, tidak peduli",
+        "tr": "fark etmez, önemli değil"
+      }
+    },
+    {
+      "hanzi": "值班",
+      "pinyin": "zhíbān",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "дежурить",
+        "tk": "garawulda durmak",
+        "en": "to be on duty",
+        "uz": "navbatchilik qilmoq",
+        "tg": "навбатдорӣ кардан",
+        "id": "berjaga-jaga",
+        "tr": "nöbette olmak"
+      }
+    },
+    {
+      "hanzi": "报告",
+      "pinyin": "bàogào",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "доклад, отчёт",
+        "tk": "hasabat",
+        "en": "report",
+        "uz": "hisobot",
+        "tg": "ҳисобот",
+        "id": "laporan",
+        "tr": "rapor"
+      }
+    },
+    {
+      "hanzi": "八成",
+      "pinyin": "bāchéng",
+      "pos": "adv.",
+      "meaning": {
+        "zh": "",
+        "ru": "скорее всего, вероятно",
+        "tk": "ähtimal, belki",
+        "en": "most probably",
+        "uz": "ehtimol, balki",
+        "tg": "эҳтимол, шояд",
+        "id": "kemungkinan besar",
+        "tr": "muhtemelen, belki"
+      }
+    },
+    {
+      "hanzi": "模糊",
+      "pinyin": "móhu",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "размытый, нечёткий",
+        "tk": "bulanyk, nätanyş",
+        "en": "blurred, vague",
+        "uz": "xira, noaniq",
+        "tg": "норавшан, тира",
+        "id": "kabur, tidak jelas",
+        "tr": "bulanık, belirsiz"
+      }
+    },
+    {
+      "hanzi": "狡猾",
+      "pinyin": "jiǎohuá",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "хитрый, лукавый",
+        "tk": "meýil, hilegär",
+        "en": "crafty, cunning",
+        "uz": "ayyor, makkor",
+        "tg": "маккор, ҳилагар",
+        "id": "licik, cerdik",
+        "tr": "kurnaz, sinsi"
+      }
+    },
+    {
+      "hanzi": "了不起",
+      "pinyin": "liǎobùqǐ",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "выдающийся, потрясающий",
+        "tk": "ajayyp, haýran galdyryjy",
+        "en": "great, amazing",
+        "uz": "ajoyib, hayratlanarli",
+        "tg": "аҷоиб, ҳайратангез",
+        "id": "hebat, luar biasa",
+        "tr": "muhteşem, harika"
+      }
+    },
+    {
+      "hanzi": "身段",
+      "pinyin": "shēnduàn",
+      "pos": "n.",
+      "meaning": {
+        "zh": "",
+        "ru": "осанка, позиция",
+        "tk": "duruş, hereket",
+        "en": "posture, manner",
+        "uz": "qomat, holat",
+        "tg": "қомат, ҳолат",
+        "id": "postur, sikap",
+        "tr": "duruş, tavır"
+      }
+    },
+    {
+      "hanzi": "缩短",
+      "pinyin": "suōduǎn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "сокращать, укорачивать",
+        "tk": "gysgaltmak",
+        "en": "to shorten",
+        "uz": "qisqartirmoq",
+        "tg": "кӯтоҳ кардан",
+        "id": "memperpendek",
+        "tr": "kısaltmak"
+      }
+    },
+    {
+      "hanzi": "看不起",
+      "pinyin": "kànbuqǐ",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "смотреть свысока, презирать",
+        "tk": "ýokarydan seretmek, äsgermezlik etmek",
+        "en": "to look down upon",
+        "uz": "past nazar bilan qaramoq, mensimaslik",
+        "tg": "бо боло нигоҳ кардан, таҳқир кардан",
+        "id": "memandang rendah, meremehkan",
+        "tr": "küçümsemek, hor görmek"
+      }
+    },
+    {
+      "hanzi": "谦虚",
+      "pinyin": "qiānxū",
+      "pos": "adj.",
+      "meaning": {
+        "zh": "",
+        "ru": "скромный",
+        "tk": "kiçigöwünli",
+        "en": "modest",
+        "uz": "kamtar",
+        "tg": "фурӯтан",
+        "id": "rendah hati",
+        "tr": "alçakgönüllü"
+      }
+    },
+    {
+      "hanzi": "实践",
+      "pinyin": "shíjiàn",
+      "pos": "v.",
+      "meaning": {
+        "zh": "",
+        "ru": "практиковать, применять",
+        "tk": "amalyýetde ulanmak",
+        "en": "to put into practice",
+        "uz": "amalda qo'llash",
+        "tg": "дар амал татбиқ кардан",
+        "id": "mempraktikkan",
+        "tr": "pratiğe dökmek"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "word": "嗯",
+      "pos": "int.",
+      "explanation": {
+        "ru": "«嗯» — междометие. Употребляется как согласие, удивление или вопрос, в зависимости от тона.",
+        "en": "«嗯» is an interjection. Depending on the tone, it means agreement, surprise, or a question.",
+        "tk": "«嗯» — ümlük. Äheňine görä razylyk, geň galmak ýa-da sorag manysyny berýär.",
+        "uz": "«嗯» — undov so'z. Ohangiga qarab rozilik, hayrat yoki savol ma'nosini bildiradi.",
+        "tg": "«嗯» — ҳиссачаи нидо. Вобаста ба оҳанг маънои розӣ шудан, ҳайрат ё саволро дорад.",
+        "id": "«嗯» adalah kata seru. Tergantung nadanya, artinya bisa persetujuan, keterkejutan, atau pertanyaan.",
+        "tr": "«嗯» bir ünlemdir. Tonuna bağlı olarak onay, şaşkınlık veya soru anlamına gelir."
+      },
+      "formula": {
+        "ru": "嗯 + 小句",
+        "en": "嗯 + clause",
+        "tk": "Hmm",
+        "uz": "Hm",
+        "tg": "Ҳм",
+        "id": "Hmm",
+        "tr": "Hmm"
+      },
+      "examples": [
+        {
+          "zh": "嗯，如果您心情好，我就说件事；心情不好就改天再说。",
+          "ru": "М-м, если у вас хорошее настроение — я кое-что скажу; если плохое — поговорим в другой раз.",
+          "en": "Mm, if you're in a good mood, I'll say something; if not, we'll talk another day.",
+          "tk": "Hmm, keýpiňiz ýagşy bolsa, bir zady aýdaýyn; keýpiňiz ýaman bolsa, başga gün aýdarys.",
+          "uz": "Hm, kayfiyatingiz yaxshi bo'lsa, bir gap aytaman; kayfiyatingiz yomon bo'lsa, boshqa kuni aytamiz.",
+          "tg": "Ҳм, агар кайфиятатон хуб бошад, як чизро мегӯям; агар бад бошад, рӯзи дигар мегӯем.",
+          "id": "Hmm, kalau suasana hati Anda baik, saya akan mengatakan sesuatu; kalau tidak baik, lain kali saja kita bicarakan.",
+          "tr": "Hmm, keyfiniz yerindeyse bir şey söyleyeyim; değilse başka gün konuşuruz."
+        },
+        {
+          "zh": "嗯？不是28号，难道是我记错了？",
+          "ru": "М-м? Не 28-е — может, я ошибся?",
+          "en": "Hm? Not the 28th — did I remember wrong?",
+          "tk": "Hmm? 28-nji däl, belki men ýalňyşýaryn?",
+          "uz": "Hm? 28-sana emas, balki men xato qilgandirmen?",
+          "tg": "Ҳм? На 28-ум нест, шояд ман хато карда бошам?",
+          "id": "Hm? Bukan tanggal 28, jangan-jangan aku salah ingat?",
+          "tr": "Hmm? 28'i değil, yoksa yanlış mı hatırlıyorum?"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "__我记住了，明天给你发邮件。",
+          "answer": "嗯"
+        }
+      ]
+    },
+    {
+      "word": "轻易",
+      "pos": "adj./adv.",
+      "explanation": {
+        "ru": "«轻易» — прилагательное: «легко, без усилий»; наречие: «необдуманно, поспешно». Часто в отрицании «轻易不...» = «редко».",
+        "en": "«轻易» — adj.: 'easy, effortless'; adv.: 'rashly'. In the negative «轻易不...» = 'rarely'.",
+        "tk": "«轻易» — sypat: «aňsat, kynçylyksyz»; hal: «pikir etmän, howlukmaç». Köplenç «轻易不...» = «seýrek» diýen inkär görnüşinde ulanylýar.",
+        "uz": "«轻易» — sifat: «oson, qiyinchiliksiz»; ravish: «o'ylamasdan, shoshqaloqlik bilan». Ko'pincha «轻易不...» = «kamdan-kam» inkor shaklida ishlatiladi.",
+        "tg": "«轻易» — сифат: «осон, безаҳмат»; зарф: «беандеша, шитобкорона». Аксар вақт дар шакли инкорӣ «轻易不...» = «кам-кам» истифода мешавад.",
+        "id": "«轻易» — kata sifat: 'mudah, tanpa usaha'; kata keterangan: 'tanpa berpikir, terburu-buru'. Sering dalam bentuk negatif «轻易不...» = 'jarang'.",
+        "tr": "«轻易» — sıfat: 'kolay, zahmetsiz'; zarf: 'düşüncesizce, aceleyle'. Sıklıkla olumsuz «轻易不...» = 'nadiren' yapısında kullanılır."
+      },
+      "formula": {
+        "ru": "轻易 + 动词",
+        "en": "轻易 + verb",
+        "tk": "aňsatlyk bilen + işlik",
+        "uz": "osonlik bilan + fe'l",
+        "tg": "ба осонӣ + феъл",
+        "id": "dengan mudah + kata kerja",
+        "tr": "kolayca + fiil"
+      },
+      "examples": [
+        {
+          "zh": "领导有了兴趣，假，就这样轻易地请好了。",
+          "ru": "Начальник заинтересовался — и отгул так легко был получен.",
+          "en": "The boss got interested — and the leave was granted just like that.",
+          "tk": "Başlygyň gyzyklanmagy bilen, rugsat şeýle aňsatlyk bilen alyndy.",
+          "uz": "Rahbar qiziqib qoldi — va ta'til shunchaki osonlikcha olindi.",
+          "tg": "Роҳбар шавқманд шуд — ва рухсатӣ ҳамин қадар осон гирифта шуд.",
+          "id": "Atasan menjadi tertarik — dan izin pun dengan mudah diperoleh.",
+          "tr": "Patron ilgilendi — ve izin işte bu kadar kolay alındı."
+        },
+        {
+          "zh": "他这个人的特点，是从不轻易决定，也不轻易转变。",
+          "ru": "Его черта — никогда не решать поспешно и не менять мнение легко.",
+          "en": "His trait is never deciding rashly or changing easily.",
+          "tk": "Onuň häsiýeti — hiç haçan aňsatlyk bilen karar bermezlik we aňsatlyk bilen pikirini üýtgetmezlik.",
+          "uz": "Uning xususiyati — hech qachon osonlikcha qaror qilmaslik va osonlikcha fikrini o'zgartirmaslik.",
+          "tg": "Хислати ӯ — ҳеҷ гоҳ осон қарор накардан ва осон фикрро тағйир надодан.",
+          "id": "Ciri khasnya adalah tidak pernah dengan mudah mengambil keputusan, dan juga tidak mudah berubah pikiran.",
+          "tr": "Onun özelliği, asla kolayca karar vermemesi ve kolayca fikir değiştirmemesidir."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "爸，天这么热，你们怎么不开空调啊？——我们__开空调。",
+          "answer": "轻易不"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "word_a": "轻易",
+      "word_b": "容易",
+      "common": {
+        "ru": "Как прилагательные оба означают, что что-то делается без усилий.",
+        "en": "As adjectives both mean doing something without effort.",
+        "tk": "Ýeňillik bilen vs aňsat",
+        "uz": "Osonlik bilan vs oson",
+        "tg": "Ба осонӣ vs осон",
+        "id": "Dengan mudah vs mudah",
+        "tr": "Kolayca vs kolay"
+      },
+      "differences": [
+        {
+          "ru": "«轻易» делает акцент на лёгкости действия, обычно в роли обстоятельства; «容易» — на простоте содержания, может быть сказуемым.",
+          "en": "«轻易» focuses on ease of action, usually adverbial; «容易» — on simplicity, can be a predicate.",
+          "tk": "«轻易» hereketiň aňsatlygyna ünsi çekýär, adatça hal hökmünde; «容易» — mazmunyň ýönekeýligine, habar beriji bolup biler.",
+          "uz": "«轻易» harakatning yengilligiga urg'u beradi, odatda hol sifatida; «容易» — mazmunning soddaligiga, kesim bo'lishi mumkin.",
+          "tg": "«轻易» ба осонии амал таъкид мекунад, одатан дар нақши ҳол; «容易» — ба соддагии мазмун, метавонад хабар бошад.",
+          "id": "«轻易» menekankan kemudahan tindakan, biasanya sebagai keterangan; «容易» — pada kesederhanaan isi, dapat menjadi predikat.",
+          "tr": "«轻易» eylemin kolaylığına vurgu yapar, genellikle zarf olarak; «容易» — içeriğin basitliğine, yüklem olabilir."
+        },
+        {
+          "ru": "«容易» также означает «вероятно, легко может случиться» — «容易发脾气». «轻易» так не используется.",
+          "en": "«容易» also means 'likely to happen' — 容易发脾气. «轻易» cannot be used this way.",
+          "tk": "«容易» şeýle hem «ähtimal, aňsatlyk bilen bolup biler» diýmegi aňladýar — «容易发脾气». «轻易» beýle ulanylmaýar.",
+          "uz": "«容易» shuningdek «ehtimol, osonlikcha sodir bo'lishi mumkin» ma'nosini ham bildiradi — «容易发脾气». «轻易» bunday ishlatilmaydi.",
+          "tg": "«容易» инчунин маънои «эҳтимол, ба осонӣ рӯй дода метавонад»-ро дорад — «容易发脾气». «轻易» ин тавр истифода намешавад.",
+          "id": "«容易» juga berarti 'kemungkinan besar, mudah terjadi' — «容易发脾气». «轻易» tidak digunakan seperti ini.",
+          "tr": "«容易» ayrıca 'muhtemelen, kolayca olabilir' anlamına gelir — «容易发脾气». «轻易» bu şekilde kullanılmaz."
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "topic": {
+      "zh": "行为1",
+      "ru": "Поведение 1",
+      "en": "Behavior 1",
+      "tk": "Özüni alyp baryş 1",
+      "uz": "Xulq-atvor 1",
+      "tg": "Рафтор 1",
+      "id": "Perilaku 1",
+      "tr": "Davranış 1"
+    },
+    "words": [
+      {
+        "hanzi": "插",
+        "pinyin": "chā",
+        "meaning": {
+          "zh": "",
+          "ru": "вставлять",
+          "en": "to insert",
+          "tk": "goýmak",
+          "uz": "qo'ymoq",
+          "tg": "гузоштан",
+          "id": "memasukkan",
+          "tr": "sokmak"
+        }
+      },
+      {
+        "hanzi": "捶",
+        "pinyin": "chuí",
+        "meaning": {
+          "zh": "",
+          "ru": "стучать кулаком",
+          "en": "to pound",
+          "tk": "ýumruk bilen urmak",
+          "uz": "musht bilan urmoq",
+          "tg": "бо муш задан",
+          "id": "meninju",
+          "tr": "yumruklamak"
+        }
+      },
+      {
+        "hanzi": "瞪",
+        "pinyin": "dèng",
+        "meaning": {
+          "zh": "",
+          "ru": "уставиться, сверлить взглядом",
+          "en": "to stare",
+          "tk": "gözüni dikmek",
+          "uz": "tikilib qaramoq",
+          "tg": "чашм дӯхтан",
+          "id": "menatap",
+          "tr": "gözlerini dikmek"
+        }
+      },
+      {
+        "hanzi": "抚摸",
+        "pinyin": "fǔmō",
+        "meaning": {
+          "zh": "",
+          "ru": "гладить, ласкать",
+          "en": "to stroke",
+          "tk": "sypalamak",
+          "uz": "silamoq",
+          "tg": "навозиш кардан",
+          "id": "membelai",
+          "tr": "okşamak"
+        }
+      },
+      {
+        "hanzi": "搂",
+        "pinyin": "lǒu",
+        "meaning": {
+          "zh": "",
+          "ru": "обнимать, обхватывать",
+          "en": "to hug",
+          "tk": "guçaklamak",
+          "uz": "quchoqlamoq",
+          "tg": "оғӯш кардан",
+          "id": "memeluk",
+          "tr": "sarılmak"
+        }
+      },
+      {
+        "hanzi": "爬",
+        "pinyin": "pá",
+        "meaning": {
+          "zh": "",
+          "ru": "ползти, взбираться",
+          "en": "to crawl, to climb",
+          "tk": "ýöremek, dyrmaşmak",
+          "uz": "emaklamoq, tirmashmoq",
+          "tg": "хазидан, боло рафтан",
+          "id": "merangkak, memanjat",
+          "tr": "emeklemek, tırmanmak"
+        }
+      },
+      {
+        "hanzi": "抛",
+        "pinyin": "pāo",
+        "meaning": {
+          "zh": "",
+          "ru": "бросать, подкидывать",
+          "en": "to throw",
+          "tk": "atmak",
+          "uz": "tashlamoq",
+          "tg": "партофтан",
+          "id": "melempar",
+          "tr": "atmak"
+        }
+      },
+      {
+        "hanzi": "扔",
+        "pinyin": "rēng",
+        "meaning": {
+          "zh": "",
+          "ru": "швырять",
+          "en": "to throw away",
+          "tk": "zyňmak",
+          "uz": "tashlamoq",
+          "tg": "партофтан",
+          "id": "membuang",
+          "tr": "atmak"
+        }
+      },
+      {
+        "hanzi": "踢",
+        "pinyin": "tī",
+        "meaning": {
+          "zh": "",
+          "ru": "пинать, бить ногой",
+          "en": "to kick",
+          "tk": "tepmoq",
+          "uz": "tepmoq",
+          "tg": "лагед задан",
+          "id": "menendang",
+          "tr": "tekmelemek"
+        }
+      },
+      {
+        "hanzi": "握",
+        "pinyin": "wò",
+        "meaning": {
+          "zh": "",
+          "ru": "сжимать (в руке)",
+          "en": "to grasp",
+          "tk": "tutmak",
+          "uz": "ushlamoq",
+          "tg": "доштан",
+          "id": "menggenggam",
+          "tr": "tutmak"
+        }
+      },
+      {
+        "hanzi": "握",
+        "pinyin": "wò",
+        "meaning": {
+          "zh": "",
+          "ru": "сжимать",
+          "en": "to hold",
+          "tk": "tutmak",
+          "uz": "ushlamoq",
+          "tg": "нигоҳ доштан",
+          "id": "memegang",
+          "tr": "tutmak"
+        }
+      },
+      {
+        "hanzi": "砸",
+        "pinyin": "zá",
+        "meaning": {
+          "zh": "",
+          "ru": "разбивать, обрушивать",
+          "en": "to smash",
+          "tk": "döwmek",
+          "uz": "sindirmoq",
+          "tg": "шикастан",
+          "id": "menghancurkan",
+          "tr": "parçalamak"
+        }
+      }
+    ]
+  },
+  "application": {
+    "discussion": {
+      "zh": "话题讨论：交往之道——接受与拒绝。1. 你觉得帮助别人对你会有影响吗？2. 介绍你拒绝别人的一次经历，那是什么事？3. 在与人交往中，你处理“接受与拒绝”的原则是什么？",
+      "ru": "Обсуждение: как принимать и отказывать. 1. Помощь другим влияет на вас? 2. Расскажите случай, когда вы отказали. 3. Какие у вас принципы в этом?",
+      "tk": "Çekişme: nädip kabul etmeli we ret etmeli. 1. Başgalara kömek etmek size täsir edýärmi? 2. Ret eden wagtyňyzy gürrüň beriň. 3. Bu meselede ýörelgeleriňiz nähili?",
+      "en": "Discussion: accepting and refusing. 1. Does helping others affect you? 2. Tell about a time you refused. 3. What are your principles?",
+      "uz": "Muhokama: qanday qabul qilish va rad etish. 1. Boshqalarga yordam berish sizga ta'sir qiladimi? 2. Rad etgan holatingizni aytib bering. 3. Bu borada qanday tamoyillaringiz bor?",
+      "tg": "Муҳокима: чӣ тавр қабул кардан ва рад кардан. 1. Кӯмак ба дигарон ба шумо таъсир мерасонад? 2. Ҳолатеро нақл кунед, ки шумо рад кардед. 3. Дар ин бора принсипҳои шумо чӣ гунаанд?",
+      "id": "Diskusi: bagaimana menerima dan menolak. 1. Apakah membantu orang lain memengaruhi Anda? 2. Ceritakan saat Anda menolak. 3. Apa prinsip Anda dalam hal ini?",
+      "tr": "Tartışma: nasıl kabul edilir ve reddedilir. 1. Başkalarına yardım etmek sizi etkiler mi? 2. Reddettiğiniz bir olayı anlatın. 3. Bu konuda ilkeleriniz neler?"
+    }
+  },
+  "workbook": {
+    "listening": [
+      {
+        "type": "mc",
+        "audio": "workbook_31_1.mp3",
+        "prompt": {
+          "zh": "女的是什么意思？",
+          "ru": "Что имеет в виду женщина?",
+          "en": "What does the woman mean?"
+        },
+        "options": [
+          "很关心",
+          "无所谓",
+          "坚决反对",
+          "有点儿犹豫"
+        ],
+        "answer": 3
+      }
+    ],
+    "reading": [
+      {
+        "type": "mc",
+        "prompt": {
+          "zh": "「登门槛效应」是什么意思？",
+          "ru": "Что такое «эффект ноги в двери»?",
+          "en": "What is the foot-in-the-door effect?"
+        },
+        "options": [
+          "要先拒绝",
+          "先小后大",
+          "先大后小",
+          "拒绝到底"
+        ],
+        "answer": 1
+      }
+    ],
+    "writing": [
+      {
+        "type": "make_sentence",
+        "words": [
+          "能",
+          "一点儿",
+          "老师",
+          "谦虚",
+          "希望我"
+        ],
+        "answer": "老师希望我能谦虚一点儿。"
+      },
+      {
+        "type": "make_sentence",
+        "words": [
+          "请",
+          "填写",
+          "并出示",
+          "这张表格",
+          "您的护照"
+        ],
+        "answer": "请填写这张表格并出示您的护照。"
+      },
+      {
+        "type": "short_essay",
+        "words": [
+          "态度",
+          "冷淡",
+          "赞成",
+          "无所谓",
+          "犹豫"
+        ],
+        "min_length": 80
+      }
+    ]
+  }
+}

@@ -1612,9 +1612,15 @@ const UNIT_TITLES = {
   4: { zh: "走近科学", ru: "Ближе к науке", tk: "Ylyma ýakynlaşmak", en: "Approaching Science" },
   5: { zh: "放眼世界", ru: "Взгляд на мир", tk: "Dünýä nazary", en: "Seeing the World" },
   6: { zh: "修养身心", ru: "Душа и тело", tk: "Ruhy we beden", en: "Cultivating Body and Mind" },
+  7: { zh: "交流文化", ru: "Обмен культурой", tk: "Medeniýet alyş-çalşygy", en: "Cultural Exchange" },
+  8: { zh: "体会教育", ru: "Понимание образования", tk: "Bilimi düşünmek", en: "Understanding Education" },
+  9: { zh: "感受人生", ru: "Чувство жизни", tk: "Durmuşy duýmak", en: "Feelings about Life" },
+  10: { zh: "关注经济", ru: "Внимание к экономике", tk: "Ykdysadyýete üns", en: "Focusing on Economy" },
+  11: { zh: "观察社会", ru: "Наблюдение за обществом", tk: "Jemgyýeti synlamak", en: "Observing Society" },
+  12: { zh: "亲近自然", ru: "Ближе к природе", tk: "Tebigata ýakynlaşmak", en: "Getting Close to Nature" },
 };
-const UNIT_COLORS = { 1: "#3A6088", 2: "#3A7060", 3: "#7A6030",
-  4: "#5A4A88", 5: "#3A7080", 6: "#7A3A60" };
+const UNIT_COLORS = { 1: "#3A6088", 2: "#3A7060", 3: "#7A6030", 4: "#5A4A88", 5: "#3A7080", 6: "#7A3A60",
+  7: "#4A7A3A", 8: "#7A3A3A", 9: "#3A5A7A", 10: "#6A3A7A", 11: "#7A5A3A", 12: "#3A7A5A" };
 
 async function renderLessons() {
   app.innerHTML = `
@@ -1632,7 +1638,7 @@ async function renderLessons() {
     cont.classList.remove("loading");
     cont.innerHTML = "";
     const opened = lsGet(LS.lessons, []);
-    for (const u of Object.keys(byUnit).sort()) {
+    for (const u of Object.keys(byUnit).sort((a, b) => Number(a) - Number(b))) {
       const block = document.createElement("div");
       block.className = "unit-block";
       const tt = UNIT_TITLES[u] || {};
@@ -1671,7 +1677,7 @@ async function renderLessons() {
 // Хелпер: фильтр по юнитам
 // ============================================================
 function makeUnitFilter(container, onPick) {
-  const units = ["all", 1, 2, 3, 4, 5, 6];
+  const units = ["all", 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
   let cur = "all";
   function draw() {
     container.innerHTML = "";
