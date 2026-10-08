@@ -108,3 +108,4 @@ release_assets/
 # Audio mp3 (moved to GitHub Releases)
 data/audio/unit*/
 release_assets/
+scripts/update_banner.py
