@@ -2,12 +2,12 @@
   "title": {
     "zh": "支教行动",
     "ru": "Помощь сельским школам",
-    "tk": "",
+    "tk": "Mugallymçylyk hereketi",
     "en": "Volunteer teaching",
-    "uz": "",
-    "tg": "",
-    "id": "",
-    "tr": ""
+    "uz": "O'qituvchilik harakati",
+    "tg": "Ҳаракати таълимӣ",
+    "id": "Aksi pengajaran sukarela",
+    "tr": "Gönüllü öğretmenlik hareketi"
   },
   "audio_files": {
     "textbook_1": "textbook_24_1.mp3",
@@ -18,12 +18,12 @@
     "question": {
       "zh": "中国有这样一些志愿者，他们会去经济不太发达的地区或农村的学校当老师，帮助那里的孩子学习。你听说过没有？你对志愿者有什么看法？",
       "ru": "В Китае есть волонтёры, которые едут в отстающие регионы и сельские школы учить детей. Слышали ли вы о них? Что вы думаете о добровольцах?",
-      "tk": "",
+      "tk": "Hytaýda yza galak sebitlere we oba mekdeplerine çagalara mugallymçylyk etmäge gidýän meýletinçiler bar. Olar barada eşitdiňizmi? Meýletinçiler barada nähili pikir edýärsiňiz?",
       "en": "In China, some volunteers go to underdeveloped regions or rural schools to teach and help children. Have you heard of them? What do you think of volunteers?",
-      "uz": "",
-      "tg": "",
-      "id": "",
-      "tr": ""
+      "uz": "Xitoyda qoloq hududlarga va qishloq maktablariga bolalarga ta'lim berish uchun boradigan ko'ngillilar bor. Ular haqida eshitganmisiz? Ko'ngillilar haqida qanday fikrdasiz?",
+      "tg": "Дар Чин волонтёрҳое ҳастанд, ки ба минтақаҳои ақибмонда ва мактабҳои деҳот барои таълими кӯдакон мераванд. Оё шумо дар бораи онҳо шунидаед? Дар бораи волонтёрҳо чӣ фикр доред?",
+      "id": "Di Tiongkok ada relawan yang pergi ke daerah tertinggal dan sekolah pedesaan untuk mengajar anak-anak. Pernahkah Anda mendengar tentang mereka? Apa pendapat Anda tentang relawan?",
+      "tr": "Çin'de geri kalmış bölgelere ve kırsal okullara çocuklara öğretmenlik yapmaya giden gönüllüler var. Onları duydunuz mu? Gönüllüler hakkında ne düşünüyorsunuz?"
     },
     "answers": [
       "冠军",
@@ -34,7 +34,7 @@
   "text_translation": {
     "zh": "",
     "ru": "Приехав в Юньнань учительствовать больше года назад, Хао Линьшо и сама не могла сосчитать, сколько раз ходила по домам учеников. Приехав, она заметила мальчика по имени Чжао Фугэнь. Он никогда не выступал на уроках, по многим предметам не сдавал, почти не общался с одноклассниками.\nПосле визита домой Хао узнала: отец Чжао Фугэня умер, старшая сестра работает в городе, семья очень бедная — мальчик помогает матери по дому, чуткий и почтительный ребёнок. «Поговорив с его матерью, я поняла — он очень любит танцевать», — сказала учительница Хао. — «Я почувствовала: вот шанс!» Она подбодрила Фугэня выступить на школьном празднике искусств, каждое воскресенье водила его к учителю музыки на репетицию. На выступлении танец бабочки Фугэня взял первое место в танцевальной категории; ученики в зале зааплодировали и хором выкрикивали его имя...\nПосле этого Чжао Фугэнь стал старательнее учиться, оценки постепенно улучшались. Он написал сочинение «Тот танец и аплодисменты» и получил высший балл в классе; мальчик прочёл его вслух: «Учительница Хао пришла к нам домой — первый раз учитель пришёл к нам. Она очень нежная... Я никогда не забуду те бурные аплодисменты и конфеты, что подарили одноклассники — такие сладкие. Я почувствовал, что в школе меня тоже любят, у меня появилась смелость...»\nУчительница Хао заметила: все молодые и взрослые мужчины в горах уходят «покорять мир», остаются лишь старики да дети — «вернутся ли они? Кто возьмёт на себя ответственность за горы в будущем?» Тогда Хао организовала 8-недельную исследовательскую учебную программу на тему «Сделать завтра родного края прекраснее». Она подбадривала учеников искать проблемы деревни, изучать историю и географию, брать интервью у стариков, обсуждать в группах и в итоге предлагать решения. Вместе с другими волонтёрами она использовала обеденные перерывы и выходные, чтобы консультировать и обучать школьников.\nУченики говорили: «Раньше мы считали, что строить родной край — дело взрослых, нам не о чем беспокоиться. Но теперь мы поняли: строить родной край — дело каждого, мы тоже должны нести эту обязанность. Задача очень трудная — мы приложим все свои силы».\nХао Линьшо считала, что получила гораздо больше, чем дала детям. «Где бы я ни была в будущем, я продолжу своими силами влиять на детей в горах — ведь они будущее и надежда страны».",
-    "tk": "",
+    "tk": "Ýunanaňda bir ýyldan gowrak mugallymçylyk eden Haо Linşo mugallym özüniň näçe gezek öý gözlegine gidendigini ýatlamýardy. Ýaňy geleninde, Çjao Fugän atly bir oglan onuň ünsüni çekdi. Ol sapakda hiç wagt geplemeýärdi, köp sapakdan ýykylýardy, adaty ýagdaýda-da klasdaşlary bilen gatnaşmaýardy.\nHaо mugallym öý gözleginden soň bilip aldy: Çjao Fugäniň kakasy aradan çykypdyr, aýal dogany daşarda işleýär, maşgalasy gaty garyp, ol ejesine öý işlerinde kömek edýär — gadyrly we yhlasly çaga. «Ejesi bilen gürleşip bilip, onuň tans etmegi gaty halaýandygyny bildim» diýdi Haо mugallym. «Men munuň bir mümkinçilikdigini duýdum!» Ol Fugäni mekdep sungat festiwalynda çykyş etmäge höweslendirdi, her sişenbe ony aýdym-saz mugallymyna alyp baryp repetisiýa etdi. Çykyşda Fugäniň kebelek tansy tans toparynda birinji ýeri aldy; zaldaky okuwçylar el çarpyp, onuň adyny bir sesden gygyrdylar...\nŞondan soň Çjao Fugän has yhlasly okady, bahalary kem-kemden gowulaşdy. Ol «Şol günki tans we el çarpyşmalar» atly ýazgy ýazdy we synpda iň ýokary bahany aldy; ol ýazgysyny sesli okady: «Haо mugallym biziň öýümize geldi — bu ilkinji gezek mugallymyň gelmegi boldy. Ol gaty mylaýym... Men şol joşgunly el çarpyşmalary we klasdaşlarymyň maňa beren süýjülerini hiç wagt ýatlaman... Süýji. Men mekdepde-de meni söýýändigini duýdum, meniň batyrgaýlygym başlady...»\nHaо mugallym daglardaky ýaşlaryň we orta ýaşlylaryň hemmesiniň dünýäni görmäge gidýändigini, diňe garrylar we çagalar galýandygyny gördi: «Olar gidip yzyna gelermi? Daglara soň kim jogapkär bolar?» Şeýlelikde, Haо mugallym 8 hepdelik gözleg-öwreniş işini gurady, mowzugy «Öz obamyzyň ertirini has gowulykly etmek». Ol okuwçylary obanyň problemlerini gözlemäge, taryh we geografiýa maglumatlaryny öwrenmäge, obanyň garrylary bilen söhbetdeşlik etmäge, toparlaýyn pikir alyşmaga we netijede çözgüt teklip etmäge höweslendirdi. Beýleki meýletinçiler bilen bilelikde günortanlyk arakesmeleri we dynç günlerini ulanyp, okuwçylara maslahat berdi we tälim berdi.\nOkuwçylar aýtdylar: «Öň biz öz obamyzy gurmak ulularyň işi, biziň aladamyz ýok diýip pikir edýärdik. Ýöne indi düşündik: öz obamyzy gurmak her kimiň jogapkärçiligi, biz hem bu jogapkärçiligi çekmeli. Bu wezipe gaty kyn — biz ähli güýjümizi sarp ederis».\nHaо Linşo çagalara bereninden has köp zat alandygyny hasaplady. «Geljekde nirde bolsam-da, daglardaky çagalara öz güýjüm bilen täsir etmegi dowam etdirerin — sebäbi olar ýurduň geljegi we umydy».",
     "en": "Having spent over a year volunteering in Yunnan, Teacher Hao Linshuo could no longer count how many home visits she'd made. On arriving, one boy caught her attention — Zhao Fugen. He never spoke in class, failed many subjects, and hardly socialized with classmates.\nAfter visiting his home, Teacher Hao learned: Fugen's father had died, his older sister worked away, the family was very poor, and he helped his mother with housework — a thoughtful and filial child. 'Only after chatting with his mother did I learn he loves dancing,' said Teacher Hao. 'I felt this was an opportunity!' She encouraged Fugen to perform at the school arts festival, taking him every Tuesday to rehearse with the music teacher. During the performance, Fugen's butterfly dance won first prize in the dance category; classmates applauded and chanted his name...\nAfterwards, Zhao Fugen studied harder, his grades gradually improving. He wrote an essay titled 'That Day's Dance and Applause' and got the top score in class; he read it aloud: 'Teacher Hao came to my home — it was the first time a teacher had come. She was very gentle... I'll never forget the enthusiastic applause and the sweets my classmates gave me — so sweet. I felt that at school someone loved me too, and I began to have courage...'\nTeacher Hao noticed that young adults in the mountains all went out to seek their fortunes, leaving only the elderly and children behind — 'Will they come back? Who will take responsibility for the mountains?' So Teacher Hao organized an 8-week research-learning activity themed 'Making our hometown's tomorrow better.' She encouraged students to find the village's problems, understand its history and geography, interview the elderly, hold group discussions, and ultimately propose solutions. She and other volunteers used lunch breaks and weekends to guide and train the students.\nThe students said: 'We used to think building our hometown was adults' business, nothing for us to worry about. But now we understand: building our hometown is everyone's responsibility, and we must shoulder this duty. This task is arduous — we will do our utmost.'\nHao Linshuo felt her gains far exceeded what she gave the children. 'Wherever I go from now on, I will continue to use my strength to influence the children in the mountains — for they are the future and hope of the nation.'",
     "uz": "",
     "tg": "",
@@ -49,12 +49,12 @@
       "meaning": {
         "zh": "",
         "ru": "работать учителем в глубинке",
-        "tk": "",
+        "tk": "çet ýerde mugallym bolup işlemek",
         "en": "to volunteer to teach in a backward region",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "chekka hududda o'qituvchi bo'lib ishlash",
+        "tg": "дар минтақаи дур муаллимӣ кардан",
+        "id": "menjadi guru sukarelawan di daerah terpencil",
+        "tr": "uzak bölgede gönüllü öğretmenlik yapmak"
       }
     },
     {
@@ -64,12 +64,12 @@
       "meaning": {
         "zh": "",
         "ru": "действие, акция",
-        "tk": "",
+        "tk": "hereket",
         "en": "action, activity",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "harakat",
+        "tg": "амал",
+        "id": "tindakan",
+        "tr": "eylem"
       }
     },
     {
@@ -79,12 +79,12 @@
       "meaning": {
         "zh": "",
         "ru": "ходить по домам учеников",
-        "tk": "",
+        "tk": "öýüne baryp görmek",
         "en": "to visit the parents of schoolchildren",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "uyiga tashrif buyurish",
+        "tg": "хонаталаба",
+        "id": "kunjungan ke rumah",
+        "tr": "eve ziyaret"
       }
     },
     {
@@ -94,12 +94,12 @@
       "meaning": {
         "zh": "",
         "ru": "выступать, говорить",
-        "tk": "",
+        "tk": "çykyş etmek, sözlemek",
         "en": "to speak, to make a speech",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "so'zlamoq, nutq so'zlamoq",
+        "tg": "сухан гуфтан, нутқ кардан",
+        "id": "berbicara, berpidato",
+        "tr": "konuşmak, konuşma yapmak"
       }
     },
     {
@@ -109,12 +109,12 @@
       "meaning": {
         "zh": "",
         "ru": "сдать (экзамен)",
-        "tk": "",
+        "tk": "geçmek",
         "en": "to pass an exam",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "o'tish",
+        "tg": "гузаштан",
+        "id": "lulus",
+        "tr": "geçmek"
       }
     },
     {
@@ -124,12 +124,12 @@
       "meaning": {
         "zh": "",
         "ru": "общаться, поддерживать отношения",
-        "tk": "",
+        "tk": "aragatnaşyk etmek, gatnaşmak",
         "en": "to associate, to contact",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "muloqot qilmoq, aloqada bo'lmoq",
+        "tg": "муошират кардан, робита доштан",
+        "id": "bergaul, berhubungan",
+        "tr": "ilişki kurmak, görüşmek"
       }
     },
     {
@@ -139,12 +139,12 @@
       "meaning": {
         "zh": "",
         "ru": "домашние дела",
-        "tk": "",
+        "tk": "öý işleri",
         "en": "household duties",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "uy ishlari",
+        "tg": "корҳои хона",
+        "id": "pekerjaan rumah",
+        "tr": "ev işleri"
       }
     },
     {
@@ -154,12 +154,12 @@
       "meaning": {
         "zh": "",
         "ru": "чуткий, заботливый",
-        "tk": "",
+        "tk": "ünsli, aladaly",
         "en": "thoughtful, considerate",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "mehribon, g'amxo'r",
+        "tg": "дилсӯз, ғамхор",
+        "id": "perhatian, penuh pengertian",
+        "tr": "düşünceli, anlayışlı"
       }
     },
     {
@@ -169,12 +169,12 @@
       "meaning": {
         "zh": "",
         "ru": "репетировать",
-        "tk": "",
+        "tk": "proýa etmek",
         "en": "to rehearse",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "mashq qilmoq",
+        "tg": "машқ кардан",
+        "id": "berlatih",
+        "tr": "prova yapmak"
       }
     },
     {
@@ -184,12 +184,12 @@
       "meaning": {
         "zh": "",
         "ru": "бабочка",
-        "tk": "",
+        "tk": "kebelek",
         "en": "butterfly",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "kapalak",
+        "tg": "шабпарак",
+        "id": "kupu-kupu",
+        "tr": "kelebek"
       }
     },
     {
@@ -199,12 +199,12 @@
       "meaning": {
         "zh": "",
         "ru": "танец",
-        "tk": "",
+        "tk": "tans",
         "en": "dance",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "raqs",
+        "tg": "рақс",
+        "id": "tarian",
+        "tr": "dans"
       }
     },
     {
@@ -214,12 +214,12 @@
       "meaning": {
         "zh": "",
         "ru": "чемпион, первое место",
-        "tk": "",
+        "tk": "çempion",
         "en": "champion, first-prize winner",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "chempion",
+        "tg": "чемпион",
+        "id": "juara",
+        "tr": "şampiyon"
       }
     },
     {
@@ -229,12 +229,12 @@
       "meaning": {
         "zh": "",
         "ru": "аплодировать",
-        "tk": "",
+        "tk": "el çarpmak",
         "en": "to applaud",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qarsak chalmoq",
+        "tg": "чак-чак кардан",
+        "id": "bertepuk tangan",
+        "tr": "alkışlamak"
       }
     },
     {
@@ -244,12 +244,12 @@
       "meaning": {
         "zh": "",
         "ru": "старательный, прилежный",
-        "tk": "",
+        "tk": "zähmetsöýer, yhlasly",
         "en": "hardworking, diligent",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "mehnatkash, tirishqoq",
+        "tg": "меҳнатдӯст, кӯшишкор",
+        "id": "rajin, tekun",
+        "tr": "çalışkan, gayretli"
       }
     },
     {
@@ -259,12 +259,12 @@
       "meaning": {
         "zh": "",
         "ru": "делать успехи",
-        "tk": "",
+        "tk": "öňe gitmek",
         "en": "to make progress, to improve",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "taraqqiy etmoq",
+        "tg": "пешравӣ кардан",
+        "id": "kemajuan",
+        "tr": "ilerleme"
       }
     },
     {
@@ -274,12 +274,12 @@
       "meaning": {
         "zh": "",
         "ru": "заголовок, тема",
-        "tk": "",
+        "tk": "at",
         "en": "title",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "sarlavha",
+        "tg": "сарлавҳа",
+        "id": "judul",
+        "tr": "başlık"
       }
     },
     {
@@ -289,12 +289,12 @@
       "meaning": {
         "zh": "",
         "ru": "читать вслух",
-        "tk": "",
+        "tk": "sesli okamak",
         "en": "to read aloud",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ovoz chiqarib o'qish",
+        "tg": "баланд хондан",
+        "id": "membaca dengan lantang",
+        "tr": "sesli okumak"
       }
     },
     {
@@ -304,12 +304,12 @@
       "meaning": {
         "zh": "",
         "ru": "нежный, мягкий",
-        "tk": "",
+        "tk": "ýumşak, mähirli",
         "en": "gentle",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yumshoq, mehribon",
+        "tg": "нарм, меҳрубон",
+        "id": "lembut, penyayang",
+        "tr": "nazik, yumuşak"
       }
     },
     {
@@ -319,12 +319,12 @@
       "meaning": {
         "zh": "",
         "ru": "горячий, бурный",
-        "tk": "",
+        "tk": "gyzgyn, joşgunly",
         "en": "enthusiastic, ardent",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qizg'in, shijoatli",
+        "tg": "гарм, пуршӯр",
+        "id": "antusias, bergelora",
+        "tr": "coşkulu, ateşli"
       }
     },
     {
@@ -334,12 +334,12 @@
       "meaning": {
         "zh": "",
         "ru": "смелость",
-        "tk": "",
+        "tk": "gaýrat",
         "en": "courage",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "jasorat",
+        "tg": "ҷасорат",
+        "id": "keberanian",
+        "tr": "cesaret"
       }
     },
     {
@@ -349,12 +349,12 @@
       "meaning": {
         "zh": "",
         "ru": "молодёжь и люди среднего возраста",
-        "tk": "",
+        "tk": "ýaşlar we orta ýaşly adamlar",
         "en": "young and middle-aged adults",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yoshlar va o'rta yoshdagilar",
+        "tg": "ҷавонон ва миёнасолон",
+        "id": "dewasa muda dan paruh baya",
+        "tr": "gençler ve orta yaşlılar"
       }
     },
     {
@@ -364,12 +364,12 @@
       "meaning": {
         "zh": "",
         "ru": "пробиваться, идти в большой мир",
-        "tk": "",
+        "tk": "öňe gitmek, dünýä çykmak",
         "en": "to go around to accomplish goals",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "oldga intilmoq, dunyoga chiqmoq",
+        "tg": "пеш рафтан, ба дунё баромадан",
+        "id": "maju ke dunia luar, berjuang",
+        "tr": "ilerlemek, dünyaya açılmak"
       }
     },
     {
@@ -379,12 +379,12 @@
       "meaning": {
         "zh": "",
         "ru": "оставаться дома (о детях, стариках)",
-        "tk": "",
+        "tk": "öýde galmak (çagalar, garrylar barada)",
         "en": "to stay behind",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "uyda qolmoq (bolalar, qariyalar haqida)",
+        "tg": "дар хона мондан (дар бораи кӯдакон, пиронсолон)",
+        "id": "tinggal di rumah (tentang anak-anak, orang tua)",
+        "tr": "evde kalmak (çocuklar, yaşlılar hakkında)"
       }
     },
     {
@@ -394,12 +394,12 @@
       "meaning": {
         "zh": "",
         "ru": "тема",
-        "tk": "",
+        "tk": "tema",
         "en": "theme, subject",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "mavzu",
+        "tg": "мавзӯъ",
+        "id": "tema",
+        "tr": "tema"
       }
     },
     {
@@ -409,12 +409,12 @@
       "meaning": {
         "zh": "",
         "ru": "география",
-        "tk": "",
+        "tk": "geografiýa",
         "en": "geography",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "geografiya",
+        "tg": "ҷуғрофия",
+        "id": "geografi",
+        "tr": "coğrafya"
       }
     },
     {
@@ -424,12 +424,12 @@
       "meaning": {
         "zh": "",
         "ru": "интервьюировать",
-        "tk": "",
+        "tk": "söhbetdeşlik",
         "en": "to interview",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "intervyu",
+        "tg": "мусоҳиба",
+        "id": "wawancara",
+        "tr": "röportaj"
       }
     },
     {
@@ -439,12 +439,12 @@
       "meaning": {
         "zh": "",
         "ru": "использовать",
-        "tk": "",
+        "tk": "peýdalanmak",
         "en": "to utilize, to make use of",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "foydalanmoq",
+        "tg": "истифода бурдан",
+        "id": "memanfaatkan",
+        "tr": "yararlanmak"
       }
     },
     {
@@ -454,12 +454,12 @@
       "meaning": {
         "zh": "",
         "ru": "свободный, досуг",
-        "tk": "",
+        "tk": "boş, azat",
         "en": "leisurely, free",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "bo'sh, bo'sh vaqt",
+        "tg": "озод, вақти холӣ",
+        "id": "luang, senggang",
+        "tr": "boş, serbest"
       }
     },
     {
@@ -469,12 +469,12 @@
       "meaning": {
         "zh": "",
         "ru": "руководить, направлять",
-        "tk": "",
+        "tk": "ýol görkezmek, ugur bermek",
         "en": "to guide, to instruct",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yo'naltirmoq, rahbarlik qilmoq",
+        "tg": "роҳнамоӣ кардан, ҳидоят кардан",
+        "id": "membimbing, mengarahkan",
+        "tr": "yönlendirmek, rehberlik etmek"
       }
     },
     {
@@ -484,12 +484,12 @@
       "meaning": {
         "zh": "",
         "ru": "обучать, тренировать",
-        "tk": "",
+        "tk": "türgenleşdirmek",
         "en": "to train",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "o'qitmoq",
+        "tg": "омӯзонидан",
+        "id": "melatih",
+        "tr": "eğitmek"
       }
     },
     {
@@ -499,12 +499,12 @@
       "meaning": {
         "zh": "",
         "ru": "строить, развивать",
-        "tk": "",
+        "tk": "gurmak, ösdürmek",
         "en": "to build, to construct",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qurmoq, rivojlantirmoq",
+        "tg": "сохтан, рушд додан",
+        "id": "membangun, mengembangkan",
+        "tr": "inşa etmek, geliştirmek"
       }
     },
     {
@@ -514,12 +514,12 @@
       "meaning": {
         "zh": "",
         "ru": "беспокоиться, заботиться",
-        "tk": "",
+        "tk": "gam çekmek, alada etmek",
         "en": "to worry about, to be concerned",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tashvishlanmoq, qayg'urmoq",
+        "tg": "ғам хӯрдан, ташвиш кашидан",
+        "id": "khawatir, mengurus",
+        "tr": "endişelenmek, kaygılanmak"
       }
     },
     {
@@ -529,12 +529,12 @@
       "meaning": {
         "zh": "",
         "ru": "брать на себя",
-        "tk": "",
+        "tk": "üstüne almak",
         "en": "to undertake, to shoulder",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "zimmasiga olmoq",
+        "tg": "ба дӯш гирифтан",
+        "id": "menanggung",
+        "tr": "üstlenmek"
       }
     },
     {
@@ -544,12 +544,12 @@
       "meaning": {
         "zh": "",
         "ru": "обязанность, долг",
-        "tk": "",
+        "tk": "borç, wezipeli",
         "en": "duty, obligation",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "majburiyat, burch",
+        "tg": "уҳдадорӣ, вазифа",
+        "id": "kewajiban, tugas",
+        "tr": "yükümlülük, görev"
       }
     },
     {
@@ -559,12 +559,12 @@
       "meaning": {
         "zh": "",
         "ru": "трудный, ответственный",
-        "tk": "",
+        "tk": "kyn, agyr",
         "en": "arduous, formidable",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qiyin, mashaqqatli",
+        "tg": "душвор, вазнин",
+        "id": "sulit, berat",
+        "tr": "zorlu, çetin"
       }
     },
     {
@@ -574,12 +574,12 @@
       "meaning": {
         "zh": "",
         "ru": "сила, мощь",
-        "tk": "",
+        "tk": "güýç",
         "en": "strength, capability",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "kuch",
+        "tg": "қувват",
+        "id": "kekuatan",
+        "tr": "güç"
       }
     },
     {
@@ -589,12 +589,12 @@
       "meaning": {
         "zh": "",
         "ru": "урожай; приобретение",
-        "tk": "",
+        "tk": "hasyl; gazanç",
         "en": "gain",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "hosil; yutuq",
+        "tg": "ҳосил; дастовард",
+        "id": "hasil; perolehan",
+        "tr": "hasat; kazanç"
       }
     }
   ],
@@ -604,23 +604,43 @@
       "pos": "v./n.",
       "explanation": {
         "ru": "«行动» как глагол — «двигаться, действовать». Как существительное — «действие, акция».",
-        "en": "«行动» as a verb means 'to move, to act'. As a noun — 'action, activity'."
+        "en": "«行动» as a verb means 'to move, to act'. As a noun — 'action, activity'.",
+        "tk": "«行动» işlik hökmünde — «hereket etmek, işlemek». At hökmünde — «hereket, aksiýa».",
+        "uz": "«行动» fe'l sifatida — «harakatlanmoq, harakat qilmoq». Ot sifatida — «harakat, aksiya».",
+        "tg": "«行动» ҳамчун феъл — «ҳаракат кардан, амал кардан». Ҳамчун исм — «амал, аксия».",
+        "id": "«行动» sebagai kata kerja — 'bergerak, bertindak'. Sebagai kata benda — 'tindakan, aksi'.",
+        "tr": "«行动» fiil olarak — 'hareket etmek, eylemek'. İsim olarak — 'hareket, eylem'."
       },
       "examples": [
         {
           "zh": "他运动时受伤了，行动不便。",
           "ru": "Он получил травму на тренировке — двигаться неудобно.",
-          "en": "He was injured exercising — hard to move."
+          "en": "He was injured exercising — hard to move.",
+          "tk": "Ol türgenleşikde ýaralandy — hereket etmek kyn.",
+          "uz": "U mashq paytida jarohat oldi — harakatlanish qiyin.",
+          "tg": "Вай ҳангоми машқ ҷароҳат бардошт — ҳаракат кардан душвор аст.",
+          "id": "Dia cedera saat berolahraga — sulit bergerak.",
+          "tr": "Egzersiz yaparken yaralandı — hareket etmesi zor."
         },
         {
           "zh": "郝老师到云南参加支教行动。",
           "ru": "Учительница Хао отправилась в Юньнань участвовать в программе добровольного преподавания.",
-          "en": "Teacher Hao went to Yunnan to join a volunteer teaching programme."
+          "en": "Teacher Hao went to Yunnan to join a volunteer teaching programme.",
+          "tk": "Mugallym Hao Þunnan şäherine meýletin mugallymçylyk maksatnamasyna gatnaşmak üçin gitdi.",
+          "uz": "O'qituvchi Xao Yunnanga ixtiyoriy o'qituvchilik dasturida qatnashish uchun bordi.",
+          "tg": "Муаллима Ҳао ба Юннан барои иштирок дар барномаи таълими ихтиёрӣ рафт.",
+          "id": "Guru Hao pergi ke Yunnan untuk mengikuti program pengajaran sukarela.",
+          "tr": "Öğretmen Hao, gönüllü öğretmenlik programına katılmak için Yunnan'a gitti."
         },
         {
           "zh": "我们应该勇敢面对困难，迅速采取行动，主动承担责任。",
           "ru": "Мы должны смело встречать трудности, быстро действовать и активно брать на себя ответственность.",
-          "en": "We should face difficulties bravely, act quickly, and shoulder responsibility."
+          "en": "We should face difficulties bravely, act quickly, and shoulder responsibility.",
+          "tk": "Biz kynçylyklara batyrgaýlyk bilen garşy durmaly, çalt hereket etmeli we jogapkärçiligi öz üstümize almaly.",
+          "uz": "Biz qiyinchiliklarga jasorat bilan qarshi turishimiz, tez harakat qilishimiz va mas'uliyatni o'z zimmamizga olishimiz kerak.",
+          "tg": "Мо бояд ба мушкилот ҷасоратона рӯ ба рӯ шавем, зуд амал кунем ва масъулиятро ба зиммаи худ гирем.",
+          "id": "Kita harus menghadapi kesulitan dengan berani, bertindak cepat, dan mengambil tanggung jawab.",
+          "tr": "Zorluklarla cesurca yüzleşmeli, hızlı hareket etmeli ve sorumluluğu üstlenmeliyiz."
         }
       ],
       "exercises": [
@@ -636,18 +656,33 @@
       "pos": "n./adj.",
       "explanation": {
         "ru": "«义务» как существительное — «юридическая или моральная обязанность». Как прилагательное — «бесплатный, неоплачиваемый».",
-        "en": "«义务» as a noun — 'legal or moral duty'. As an adjective — 'unpaid, voluntary'."
+        "en": "«义务» as a noun — 'legal or moral duty'. As an adjective — 'unpaid, voluntary'.",
+        "tk": "«义务» at hökmünde — «hukuky ýa-da ahlaky borç». Sypat hökmünde — «mugt, tölegsiz».",
+        "uz": "«义务» ot sifatida — «huquqiy yoki axloqiy majburiyat». Sifat sifatida — «bepul, to'lovsiz».",
+        "tg": "«义务» ҳамчун исм — «уҳдадории ҳуқуқӣ ё ахлоқӣ». Ҳамчун сифат — «ройгон, бепул».",
+        "id": "«义务» sebagai kata benda — 'kewajiban hukum atau moral'. Sebagai kata sifat — 'gratis, tidak dibayar'.",
+        "tr": "«义务» isim olarak — 'hukuki veya ahlaki görev'. Sıfat olarak — 'ücretsiz, karşılıksız'."
       },
       "examples": [
         {
           "zh": "不过，现在我们明白了，建设家乡，人人有责，我们也要承担这个义务。",
           "ru": "Но теперь мы поняли: строить родной край — дело каждого, мы тоже должны нести эту обязанность.",
-          "en": "But now we understand: building our hometown is everyone's responsibility — we must shoulder this duty too."
+          "en": "But now we understand: building our hometown is everyone's responsibility — we must shoulder this duty too.",
+          "tk": "Emma, indi biz düşündik: öz dogduk ýerimizi gurmak — her kimiň borjy, biz hem bu borjy öz üstümize almaly.",
+          "uz": "Ammo endi biz tushundik: o'z yurtimizni qurish — har kimning burchi, biz ham bu burchimizni zimmamizga olishimiz kerak.",
+          "tg": "Аммо ҳоло мо фаҳмидем: обод кардани зодгоҳ — вазифаи ҳар кас аст, мо низ бояд ин вазифаро ба зиммаи худ гирем.",
+          "id": "Namun sekarang kami mengerti: membangun kampung halaman adalah tanggung jawab setiap orang, kami juga harus memikul kewajiban ini.",
+          "tr": "Ama şimdi anladık: memleketimizi inşa etmek herkesin sorumluluğudur, biz de bu görevi üstlenmeliyiz."
         },
         {
           "zh": "我们每个学期都要至少参加三次义务劳动。",
           "ru": "Каждый семестр мы должны не менее трёх раз участвовать в субботниках.",
-          "en": "Every semester we must take part in at least three voluntary work sessions."
+          "en": "Every semester we must take part in at least three voluntary work sessions.",
+          "tk": "Biz her semestrde azyndan üç gezek meýletin zähmet işine gatnaşmaly.",
+          "uz": "Biz har semestrda kamida uch marta ixtiyoriy mehnatda qatnashishimiz kerak.",
+          "tg": "Мо дар ҳар семестр бояд камаш се маротиба дар меҳнати ихтиёрӣ иштирок кунем.",
+          "id": "Kami harus ikut serta dalam kerja sukarela setidaknya tiga kali setiap semester.",
+          "tr": "Her dönem en az üç kez gönüllü çalışmaya katılmamız gerekiyor."
         }
       ],
       "exercises": [
@@ -665,20 +700,40 @@
       "word_b": "发表",
       "common": {
         "ru": "Оба глагола связаны с выражением мнений.",
-        "en": "Both verbs relate to expressing opinions."
+        "en": "Both verbs relate to expressing opinions.",
+        "tk": "Iki işlik hem pikir aýtmak bilen baglydyr.",
+        "uz": "Ikkala fe'l ham fikr bildirish bilan bog'liq.",
+        "tg": "Ҳар ду феъл бо ифодаи ақида алоқаманданд.",
+        "id": "Kedua kata kerja berkaitan dengan mengungkapkan pendapat.",
+        "tr": "Her iki fiil de görüş belirtmeyle ilgilidir."
       },
       "differences": [
         {
           "ru": "«发言» — говорить на собрании/уроке; может быть существительным (высказывание).",
-          "en": "«发言» — to speak at a meeting/class; can be a noun (statement)."
+          "en": "«发言» — to speak at a meeting/class; can be a noun (statement).",
+          "tk": "«发言» — ýygnakda/sapakda çykyş etmek; at hökmünde hem bolup biler (beýanat).",
+          "uz": "«发言» — yig'ilishda/darsda so'zlash; ot bo'lib ham kelishi mumkin (bayonot).",
+          "tg": "«发言» — дар ҷаласа/дарс сухан гуфтан; метавонад исм бошад (изҳорот).",
+          "id": "«发言» — berbicara di rapat/kelas; bisa juga berupa kata benda (pernyataan).",
+          "tr": "«发言» — toplantıda/derste konuşmak; isim olarak da kullanılabilir (açıklama)."
         },
         {
           "ru": "«发表» — публично излагать мнение или печатать статью.",
-          "en": "«发表» — to publicly state an opinion or publish an article."
+          "en": "«发表» — to publicly state an opinion or publish an article.",
+          "tk": "«发表» — pikiri aç-açan beýan etmek ýa-da makala çap etmek.",
+          "uz": "«发表» — fikrni ochiq bayon qilish yoki maqola chop etish.",
+          "tg": "«发表» — ошкоро изҳори ақида кардан ё мақола чоп кардан.",
+          "id": "«发表» — menyatakan pendapat secara terbuka atau menerbitkan artikel.",
+          "tr": "«发表» — görüşü açıkça belirtmek veya makale yayımlamak."
         },
         {
           "ru": "«发言» — разделяемый глагол (можно вставить элементы), не принимает дополнение.",
-          "en": "«发言» is a separable verb (elements can be inserted), doesn't take an object."
+          "en": "«发言» is a separable verb (elements can be inserted), doesn't take an object.",
+          "tk": "«发言» — aýrylýan işlik (elementleri goýup bolýar), doldurgyç kabul etmeýär.",
+          "uz": "«发言» — ajraladigan fe'l (elementlarni qo'shish mumkin), to'ldiruvchi qabul qilmaydi.",
+          "tg": "«发言» — феъли ҷудошаванда (уносурҳоро дохил кардан мумкин аст), пуркунандаро қабул намекунад.",
+          "id": "«发言» — kata kerja terpisah (unsur dapat disisipkan), tidak menerima objek.",
+          "tr": "«发言» — ayrılabilir fiil (öğeler eklenebilir), nesne almaz."
         }
       ]
     }
@@ -687,7 +742,12 @@
     "topic": {
       "zh": "教学2 (Обучение 2)",
       "ru": "Обучение 2",
-      "en": "Teaching 2"
+      "en": "Teaching 2",
+      "tk": "Okuw 2",
+      "uz": "O'qitish 2",
+      "tg": "Омӯзиш 2",
+      "id": "Pengajaran 2",
+      "tr": "Öğretim 2"
     },
     "words": [
       {
@@ -696,7 +756,12 @@
         "meaning": {
           "zh": "",
           "ru": "тест, проверка",
-          "en": "test, quiz"
+          "en": "test, quiz",
+          "tk": "synag",
+          "uz": "sinov",
+          "tg": "озмоиш",
+          "id": "tes",
+          "tr": "test"
         }
       },
       {
@@ -705,7 +770,12 @@
         "meaning": {
           "zh": "",
           "ru": "эксперимент",
-          "en": "experiment"
+          "en": "experiment",
+          "tk": "tejribe",
+          "uz": "tajriba",
+          "tg": "таҷриба",
+          "id": "eksperimen",
+          "tr": "deney"
         }
       },
       {
@@ -714,7 +784,12 @@
         "meaning": {
           "zh": "",
           "ru": "списывать, копировать",
-          "en": "to copy"
+          "en": "to copy",
+          "tk": "göçürmek",
+          "uz": "ko'chirmoq",
+          "tg": "нусха бардоштан",
+          "id": "menyalin",
+          "tr": "kopyalamak"
         }
       },
       {
@@ -723,7 +798,12 @@
         "meaning": {
           "zh": "",
           "ru": "экзаменационный лист",
-          "en": "exam paper"
+          "en": "exam paper",
+          "tk": "synag kagyzy",
+          "uz": "imtihon qog'ozi",
+          "tg": "варақаи имтиҳон",
+          "id": "kertas ujian",
+          "tr": "sınav kağıdı"
         }
       },
       {
@@ -732,7 +812,12 @@
         "meaning": {
           "zh": "",
           "ru": "летний лагерь",
-          "en": "summer camp"
+          "en": "summer camp",
+          "tk": "tomusky lager",
+          "uz": "yozgi lager",
+          "tg": "лагвари тобистонӣ",
+          "id": "kamp musim panas",
+          "tr": "yaz kampı"
         }
       },
       {
@@ -741,7 +826,12 @@
         "meaning": {
           "zh": "",
           "ru": "спортплощадка",
-          "en": "playground"
+          "en": "playground",
+          "tk": "sport meýdançasy",
+          "uz": "sport maydoni",
+          "tg": "майдони варзиш",
+          "id": "lapangan olahraga",
+          "tr": "spor sahası"
         }
       },
       {
@@ -750,7 +840,12 @@
         "meaning": {
           "zh": "",
           "ru": "прилежный",
-          "en": "hardworking"
+          "en": "hardworking",
+          "tk": "zähmetsöýer",
+          "uz": "mehnatkash",
+          "tg": "меҳнатдӯст",
+          "id": "rajin",
+          "tr": "çalışkan"
         }
       },
       {
@@ -759,7 +854,12 @@
         "meaning": {
           "zh": "",
           "ru": "репетиторство",
-          "en": "to tutor"
+          "en": "to tutor",
+          "tk": "repetitorlyk",
+          "uz": "repetitorlik",
+          "tg": "таълимдиҳӣ",
+          "id": "bimbingan belajar",
+          "tr": "özel ders"
         }
       },
       {
@@ -768,7 +868,12 @@
         "meaning": {
           "zh": "",
           "ru": "приобретение, урожай",
-          "en": "gain, harvest"
+          "en": "gain, harvest",
+          "tk": "hasyl, gazanç",
+          "uz": "hosil, yutuq",
+          "tg": "ҳосил, дастовард",
+          "id": "panen, hasil, perolehan",
+          "tr": "hasat, kazanç, elde etme"
         }
       },
       {
@@ -777,7 +882,12 @@
         "meaning": {
           "zh": "",
           "ru": "звонок",
-          "en": "bell"
+          "en": "bell",
+          "tk": "jaň",
+          "uz": "qo'ng'iroq",
+          "tg": "занг",
+          "id": "lonceng",
+          "tr": "çan"
         }
       },
       {
@@ -786,7 +896,12 @@
         "meaning": {
           "zh": "",
           "ru": "регресс",
-          "en": "to regress"
+          "en": "to regress",
+          "tk": "yzyna gitmek",
+          "uz": "orqaga ketish",
+          "tg": "қафо рафтан",
+          "id": "kemunduran",
+          "tr": "gerileme"
         }
       },
       {
@@ -795,7 +910,12 @@
         "meaning": {
           "zh": "",
           "ru": "исправлять",
-          "en": "to correct"
+          "en": "to correct",
+          "tk": "düzetmek",
+          "uz": "tuzatmoq",
+          "tg": "ислоҳ кардан",
+          "id": "memperbaiki",
+          "tr": "düzeltmek"
         }
       }
     ]
@@ -804,17 +924,22 @@
     "discussion": {
       "zh": "外出的农民工：青壮年外出打工对农村可能产生什么影响？对城市可能产生什么影响？你认为，政府应该怎么帮助这些老人、孩子和农民工？",
       "ru": "Уезжающие на заработки: как отъезд молодёжи влияет на деревню? На город? Как государство должно помогать оставшимся старикам и детям?",
-      "tk": "",
+      "tk": "Işlemäge gidýänler: ýaşlaryň gitmegi oba nähili täsir edýär? Şähere? Döwlet galan garrylara we çagalara nähili kömek etmeli?",
       "en": "Migrant workers: what impact does young people leaving to work have on villages? On cities? How should the government help the elderly, children, and migrant workers?",
-      "uz": "",
-      "tg": "",
-      "id": "",
-      "tr": ""
+      "uz": "Ishlash uchun ketayotganlar: yoshlarning ketishi qishloqqa qanday ta'sir qiladi? Shaharga? Davlat qolgan qariyalar va bolalarga qanday yordam berishi kerak?",
+      "tg": "Ба кор рафтан: рафтани ҷавонон ба деҳа чӣ таъсир мерасонад? Ба шаҳр? Давлат бояд ба пиронсолон ва кӯдакони боқимонда чӣ гуна кӯмак кунад?",
+      "id": "Pekerja migran: bagaimana kepergian anak muda memengaruhi desa? Kota? Bagaimana pemerintah harus membantu orang tua dan anak-anak yang ditinggalkan?",
+      "tr": "Gurbetçiler: gençlerin gidişi köyü nasıl etkiliyor? Şehri? Devlet geride kalan yaşlılara ve çocuklara nasıl yardım etmeli?"
     },
     "writing_prompt": {
       "zh": "请以“大山的未来谁负责”为题，谈谈你的看法。尽量用上本课所学的生词，字数不少于100字。",
       "ru": "Напишите эссе на тему «Кто в ответе за будущее гор», используя слова урока, не менее 100 иероглифов.",
-      "en": "Write an essay titled 'Who is responsible for the future of the mountains', using this lesson's vocabulary, at least 100 characters."
+      "en": "Write an essay titled 'Who is responsible for the future of the mountains', using this lesson's vocabulary, at least 100 characters.",
+      "tk": "«Daglaryň geljegi üçin kim jogapkär» atly tema boýunça dersdäki sözleri ulanyp, azyndan 100 iýeroglifden ybarat esse ýazyň.",
+      "uz": "«Tog'lar kelajagi uchun kim javobgar» mavzusida darsdagi so'zlardan foydalanib, kamida 100 ieroglifdan iborat insho yozing.",
+      "tg": "Дар мавзӯи «Барои ояндаи кӯҳҳо кӣ масъул аст» бо истифода аз калимаҳои дарс, на камтар аз 100 иероглиф эссе нависед.",
+      "id": "Tulislah esai dengan tema «Siapa yang bertanggung jawab atas masa depan gunung», menggunakan kata-kata dari pelajaran, tidak kurang dari 100 karakter Han.",
+      "tr": "«Dağların geleceğinden kim sorumlu» konulu, dersteki kelimeleri kullanarak en az 100 karakterden oluşan bir kompozisyon yazın."
     }
   },
   "workbook": {

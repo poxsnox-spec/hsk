@@ -2,12 +2,12 @@
   "title": {
     "zh": "汉字叔叔：一个美国人的汉字情缘",
     "ru": "Дядюшка Ханьцзы: история любви американца к китайским иероглифам",
-    "tk": "",
+    "tk": "Hanzi daýy: bir amerikanyň hytaý iýerogliflerine bolan söýgüsi",
     "en": "Uncle Hanzi: The predestined love of an American for Chinese characters",
-    "uz": "",
-    "tg": "",
-    "id": "",
-    "tr": ""
+    "uz": "Xanzi amaki: bir amerikalikning xitoy ierogliflariga bo'lgan sevgisi",
+    "tg": "Амаки Ҳанзи: достони ишқи як амрикоӣ ба ҳарфҳои чинӣ",
+    "id": "Paman Hanzi: kisah cinta seorang Amerika terhadap aksara Tionghoa",
+    "tr": "Hanzi Amca: Bir Amerikalının Çin karakterlerine olan aşkı"
   },
   "audio_files": {
     "textbook_1": "textbook_21_1.mp3",
@@ -18,12 +18,12 @@
     "question": {
       "zh": "说说你母语所使用的文字和中文有什么不同。简单介绍一下你在学习汉字时，遇到了哪些困难或问题，你是怎么解决的。",
       "ru": "Расскажите, чем письменность вашего языка отличается от китайской. Какие трудности вы испытывали при изучении иероглифов и как их решали?",
-      "tk": "",
+      "tk": "Öz diliňiziň ýazuwynyň hytaý ýazuwyndan nähili tapawutlanýandygyny aýdyň. Iýeroglifleri öwrenen wagtyňyz nähili kynçylyklar başdan geçirdiňiz we olary nähili çözdüňiz?",
       "en": "Tell how your native script differs from Chinese. What difficulties did you meet learning characters and how did you solve them?",
-      "uz": "",
-      "tg": "",
-      "id": "",
-      "tr": ""
+      "uz": "O'z tilingizning yozuvi xitoy yozuvidan qanday farq qilishini aytib bering. Ierogliflarni o'rganishda qanday qiyinchiliklarga duch keldingiz va ularni qanday hal qildingiz?",
+      "tg": "Нақл кунед, ки хатти забони шумо аз хатти чинӣ чӣ фарқ дорад. Ҳангоми омӯхтани иероглифҳо чӣ гуна душвориҳоро аз сар гузаронидед ва онҳоро чӣ тавр ҳал кардед?",
+      "id": "Ceritakan bagaimana tulisan bahasa Anda berbeda dari tulisan Tionghoa. Kesulitan apa yang Anda alami saat belajar aksara dan bagaimana Anda mengatasinya?",
+      "tr": "Kendi dilinizin yazısının Çince yazıdan nasıl farklı olduğunu anlatın. Karakterleri öğrenirken ne gibi zorluklar yaşadınız ve bunları nasıl çözdünüz?"
     },
     "answers": [
       "逻辑",
@@ -35,12 +35,12 @@
   "text_translation": {
     "zh": "",
     "ru": "В 1972 году 22-летний Ричард Сирс влюбился в китайский, но иероглифы казались ему крайне сложными: в чертах не было никакой логики, приходилось зубрить. Случайно он обнаружил: если понять происхождение и эволюцию иероглифов, учить их становится легко. Но, к сожалению, почти ни одна книга на английском не объясняла этимологию в полной мере. В 1994 году у Ричарда случился сердечный приступ; врач сказал, что времени осталось немного. Тогда он задумался о жизни: «Что мне делать? Что я должен сделать?» — «Если мне осталось 24 часа — позвоню друзьям попрощаться. Если год — постараюсь как можно скорее оцифровать „Шовэнь цзецзы“». Так в его базу вошли классические труды по древним иероглифам; только копирование, упорядочивание и ввод в компьютер заняли восемь лет. 1 января 2002 года, победив болезнь, он решил открыть свой сайт для публики — чтобы как можно больше любителей китайского учили иероглифы без тех страданий, что выпали ему вначале.\nВ 2011 году кто-то выложил его историю в вейбо — она привлекла широкое внимание, и интернет-пользователи ласково прозвали его «Дядюшка Ханьцзы».\nОткрыв созданный им сайт — плод преодоления множества трудностей и всех его сбережений — можно увидеть почти 100 тысяч собранных и упорядоченных им иероглифов, включая все графические варианты их эволюции, конечно и традиционные, и упрощённые формы, а также чтения на путунхуа и в некоторых диалектах, английские толкования. Пользователи называют сайт «с картинками и правдой».\nЕщё более восхищает то, что Дядюшка Ханьцзы сделал всё содержимое сайта свободно доступным для скачивания. Сегодня многие организации приглашают Ричарда на работу, а он выбрал преподавание в Пекинском педагогическом университете, потому что там тоже ведутся исследования по распознаванию и поиску иероглифов. В БНУ он не только учит физике, но и имеет достаточно времени продолжать исследования и совершенствовать сайт. В Китае в 60 с лишним лет уже выходят на пенсию, но расписание Дядюшки Ханьцзы по-прежнему плотное. Он говорит: «Я не уйду на пенсию — продолжу pursue свою мечту. Я хочу учиться, пока жив».",
-    "tk": "",
+    "tk": "1972-nji ýylda 22 ýaşly Riçard Sirs hytaý diline aşyk boldy, ýöne hytaý iýerogliflary oňa gaty çylşyrymly göründi: çyzyklarynda hiç hili logika ýokdy, diňe ýatdan öwrenmeli bolýardy. Tötänleýin bir pursatda ol iýerogliflaryň gelip çykyşyny we ösüşini düşünseň, olary öwrenmegiň aňsatlaşýandygyny bildi. Ýöne gynansak-da, iňlis dilinde iýerogliflaryň etimologiýasyny doly düşündirýän kitap ýokdugyny gördi. 1994-nji ýylda Riçardyň ýüregi syrkawlady; lukman onuň wagtynyň az galandygyny aýtdy. Şonda ol öz durmuşy hakda oýlanmaga başlady: «Näme etmeli? Näme etmeli?» — «Eger 24 sagat ömrüm galsa, dostlaryma jaň edip hoşlaşardym; eger bir ýyl ömrüm galsa, „Şowen szeszy“ kitabyny gysga wagtda kompýuterleşdirmäge çalşardym.» Şeýlelikde, gadymy iýeroglifler baradaky nusgawy eserler onuň binýadyna girdi; diňe göçürmek, tertiplemek we kompýutere girizmek sekiz ýyl aldy. 2002-nji ýylyň 1-nji ýanwarynda, keselini ýeňen ol öz döreden saýtyny halka açmaga karar berdi — hytaý dilini söýýänleriň köpüsi iýeroglifleri öwrenende, onuň ilkibaşdaky ýaly azap çekmezligi üçin.\n2011-nji ýylda kimdir biri onuň hekaýasyny Weiboda ýerleşdirdi — bu giň ünsi çekdi we internet ulanyjylary ony mähirli «Hanzi daýy» diýip atlandyrdylar.\nHanzi daýynyň dürli kynçylyklary ýeňip, ähli tygşytly puluny sarp edip döreden saýtyny açsaň, onuň ýygnan we tertiplän 100 müňe golaý iýeroglifini görüp bolýar; olarda olaryň ösüşiniň ähli grafik görnüşleri, elbetde, adaty we ýönekeýleşdirilen görnüşleri, şeýle hem mandarin we käbir şiwelerdäki aýdylyşlary, iňlisçe düşündirişleri we başga zatlar bar. Internet ulanyjylar ony «suratly we hakykatly» diýip wasp edýärler.\nHas haýran galdyryjy zady — Hanzi daýy saýtyň ähli mazmunyny mugt göçürip alyp boljak etdi. Häzir köp guramalar Riçardy işe çagyrýar, ol bolsa Pekin pedagogika uniwersitetinde mugallymçylyk etmegi saýlady, sebäbi ol ýerde hem iýeroglifleri tanamak we gözlemek boýunça gözlegler geçirilýär. BPU-da ol diňe fizika öwretmän, gözleglerini dowam etdirmek we saýtyny kämilleşdirmek üçin ýeterlik wagty hem bar. Hytaýda 60-dan geçen adam pensiýa çykýar, ýöne Hanzi daýynyň tertibi henizem dykyz. Ol şeýle diýýär: «Men pensiýa çykmajak — arzuwymy yzarlamagy dowam etjek. Ölýänçäm öwrenmek isleýärin.»",
     "en": "In 1972, 22-year-old Richard Sears fell in love with Chinese, but found characters extremely complex — strokes had no logic, only rote memorization worked. By chance he discovered that understanding the origin and evolution of characters makes learning them easy. Yet regretfully, almost no English book explained their etymology fully. In 1994, Richard had a heart attack; the doctor said he might not have much time left. He began to ponder his life: 'What should I do? What should I do?' — 'If I only have 24 hours, I'll call friends to say goodbye; if I have a year, I'll hurry to digitize Shuowen Jiezi.' So classic works on ancient characters entered his database; simply copying, organizing, and inputting them took eight years. On New Year's Day 2002, having overcome his illness, he decided to open his website to the public — so that more Chinese lovers could learn characters without the pain he first endured.\nIn 2011, someone posted his story on Weibo — it drew wide attention, and netizens affectionately dubbed him 'Uncle Hanzi'.\nOpening the website he founded — the fruit of overcoming countless difficulties and spending all his savings — one can see nearly 100,000 characters he collected and organized, including all their evolutionary forms, both traditional and simplified, plus Mandarin and some dialect readings, English glosses, and more — netizens praise it as 'with pictures and the truth'.\nEven more admirable is that Uncle Hanzi made the entire site freely downloadable. Now many organizations have offered Richard jobs, and he chose to teach at Beijing Normal University, because research on character recognition and retrieval is also done there. At BNU he not only teaches physics but also has ample time to continue his research and perfect his site. In China, 60+ is retirement age, yet Uncle Hanzi's schedule is full. He says: 'I won't retire — I'll keep pursuing my dream. I want to learn as long as I live.'",
-    "uz": "",
-    "tg": "",
-    "id": "",
-    "tr": ""
+    "uz": "1972-yilda 22 yashli Richard Sirs xitoy tiliga oshiq bo‘ldi, lekin xitoy ierogliflari unga juda murakkab tuyuldi: chizqlarida hech qanday mantiq yo‘q edi, faqat yodlash kerak edi. Tasodifan u ierogliflarning kelib chiqishi va rivojlanishini tushunsa, ularni o‘rganish osonlashishini aniqladi. Afsuski, ingliz tilida ierogliflarning etimologiyasini to‘liq tushuntiruvchi deyarli hech qanday kitob yo‘q edi. 1994-yilda Richard yurak xurujiga uchradi; shifokor uning vaqti oz qolganligini aytdi. Shunda u hayoti haqida o‘ylay boshladi: «Nima qilishim kerak? Nima qilishim kerak?» — «Agar 24 soat umrim qolsa, do‘stlarimga qo‘ng‘iroq qilib xayrlashardim; agar bir yil umrim qolsa, „Shoven szeszi“ni imkon qadar tezroq kompyuterlashtirishga shoshilardim.» Shunday qilib, qadimgi ierogliflar haqidagi klassik asarlar uning bazasiga kirdi; faqat nusxa ko‘chirish, tartibga solish va kompyuterga kiritish sakkiz yil vaqt oldi. 2002-yil 1-yanvarda, kasalligini yenggan u o‘zi yaratgan saytni ommaga ochishga qaror qildi — xitoy tilini sevuvchilar ko‘proq bo‘lib, ierogliflarni o‘rganishda uning boshidagi kabi azob chekmasliklari uchun.\n2011-yilda kimdir uning hikoyasini Weiboga joylashtirdi — bu keng e’tiborni tortdi va internet foydalanuvchilari uni mehr bilan «Hanzi amaki» deb atashdi.\nHanzi amakining turli qiyinchiliklarni yengib, barcha jamg‘armasini sarflab yaratgan saytini ochsangiz, u to‘plagan va tartibga solgan 100 mingga yaqin ieroglifni ko‘rish mumkin; ularda ularning rivojlanishining barcha grafik shakllari, albatta, an’anaviy va soddalashtirilgan shakllari, shuningdek, mandarin va ba’zi shevalardagi talaffuzlari, inglizcha izohlari va boshqalar bor. Internet foydalanuvchilari uni «rasmli va haqiqatli» deb maqtashadi.\nYana hayratlanarlisi — Hanzi amaki saytning barcha mazmunini bepul yuklab olish imkonini yaratdi. Bugungi kunda ko‘plab tashkilotlar Richardni ishga taklif qilmoqda, u esa Pekin pedagogika universitetida dars berishni tanladi, chunki u yerda ham ierogliflarni aniqlash va qidirish bo‘yicha tadqiqotlar olib boriladi. BPUda u nafaqat fizika o‘qitadi, balki tadqiqotlarini davom ettirish va saytini takomillashtirish uchun yetarli vaqtga ham ega. Xitoyda 60 yoshdan oshganlar nafaqaga chiqadi, lekin Hanzi amakining jadvali hanuz zich. U shunday deydi: «Men nafaqaga chiqmayman — orzumga intilishda davom etaman. Yashaganimcha o‘rganishni xohlayman.»",
+    "tg": "Дар соли 1972, Ричард Сирси 22-сола ба забони чинӣ дил баст, аммо ба ӯ иероглифҳои чинӣ хеле мураккаб менамуданд: дар хатҳояшон ягон мантиқ набуд, танҳо азёд кардан лозим буд. Тасодуфан ӯ фаҳмид, ки агар пайдоиш ва таҳаввули иероглифҳоро фаҳманд, омӯхтани онҳо осон мешавад. Аммо бо таассуф, қариб ягон китоб ба забони англисӣ этимологияи иероглифҳоро пурра шарҳ намедод. Дар соли 1994 Ричард дилгирӣ шуд; духтур гуфт, ки вақташ кам мондааст. Он гоҳ ӯ дар бораи ҳаёти худ андеша кард: «Чӣ кор кунам? Чӣ бояд кунам?» — «Агар 24 соат умр дошта бошам, ба дӯстонам занг зада хайрбод мегӯям; агар як сол умр дошта бошам, кӯшиш мекунам ҳарчи зудтар „Шовэн зези“-ро компютерӣ кунам.» Ҳамин тавр, асарҳои классикии иероглифҳои қадимӣ ба пойгоҳи ӯ ворид шуданд; танҳо нусхабардорӣ, танзим ва ворид кардан ба компютер ҳашт сол вақт гирифт. 1 январи соли 2002, пас аз ғалаба бар беморӣ, ӯ қарор кард, ки сайти худро ба омма кушояд — то ки ҳаводорони бештари забони чинӣ ҳангоми омӯхтани иероглифҳо мисли ӯ дар аввал чунин азоб накашанд.\nДар соли 2011 касе ҳикояи ӯро дар Вейбо гузошт — ин таваҷҷуҳи васеъро ба бор овард ва корбарони интернет ӯро бо муҳаббат «Амаки Ҳанзи» номиданд.\nСайти Амаки Ҳанзиро, ки бо ғалаба бар мушкилоти гуногун ва сарф кардани тамоми пасандозаш сохтааст, кушоед, метавон қариб 100 ҳазор иероглифро, ки ӯ ҷамъ ва танзим кардааст, дид; дар онҳо ҳамаи шаклҳои графикии таҳаввули онҳо, албатта, шаклҳои анъанавӣ ва соддашуда, инчунин талаффузҳо дар путунхуа ва баъзе лаҳҷаҳо, шарҳҳои англисӣ ва ғайра мавҷуданд. Корбарони интернет онро «бо расм ва ҳақиқат» меситоянд.\nБоз ҳайратангезтар он аст, ки Амаки Ҳанзи тамоми мундариҷаи сайтро барои зеркашӣ ройгон дастрас кард. Имрӯзҳо бисёр ташкилотҳо Ричардро ба кор даъват мекунанд, вай бошад, дарс додан дар Донишгоҳи педагогии Пекинро интихоб кард, зеро дар он ҷо низ тадқиқот оид ба шинохтан ва ҷустуҷӯи иероглифҳо гузаронида мешавад. Дар ДПП ӯ на танҳо физика таълим медиҳад, балки вақти кофӣ дорад, ки тадқиқоташро идома диҳад ва сайти худро такмил диҳад. Дар Чин дар 60-солагӣ ба нафақа мебароянд, аммо ҷадвали Амаки Ҳанзи ҳанӯз пур аст. Ӯ мегӯяд: «Ман ба нафақа намебароям — орзуямро давом медиҳам. То зиндаам омӯхтан мехоҳам.»",
+    "id": "Pada tahun 1972, Richard Sears yang berusia 22 tahun jatuh cinta pada bahasa Mandarin, tetapi ia merasa aksara Han sangat rumit: goresannya tidak memiliki logika apa pun, hanya bisa dihafal mati-matian. Secara kebetulan, ia menemukan bahwa jika memahami asal-usul dan evolusi aksara Han, mempelajarinya menjadi mudah dan ringan. Namun ia menyesal menemukan hampir tidak ada buku berbahasa Inggris yang dapat menjelaskan etimologi aksara Han secara memadai. Pada tahun 1994, Richard terkena serangan jantung; saat itu dokter mengatakan sisa waktunya mungkin tidak banyak. Ketika itulah ia mulai merenungkan hidupnya, \"Apa yang harus saya lakukan? Apa yang harus saya kerjakan?\" \"Jika hanya bisa hidup 24 jam, saya akan menelepon teman-teman untuk berpamitan; jika saya masih bisa hidup satu tahun, saya akan mempercepat komputerisasi 'Shuowen Jiezi'.\" Demikianlah, karya-karya klasik aksara Han kuno masuk ke basis datanya; hanya menyalin, menata, dan memasukkan bahan-bahan itu ke komputer memakan waktu delapan tahun. Pada 1 Januari 2002, setelah mengalahkan penyakitnya, ia memutuskan untuk membuka situs web yang ia dirikan kepada publik, agar lebih banyak pencinta bahasa Mandarin tidak lagi menderita seperti yang ia alami saat pertama belajar aksara Han.\nPada tahun 2011, seseorang memposting kisahnya di Weibo, yang menarik perhatian luas, dan karena itu para netizen dengan akrab menyebutnya \"Paman Hanzi\".\nMembuka situs web yang didirikan Paman Hanzi setelah mengatasi berbagai kesulitan dan menghabiskan seluruh tabungannya, kita dapat melihat hampir 100.000 aksara Han yang ia kumpulkan dan tata, termasuk semua bentuk grafis evolusinya, tentu saja bentuk tradisional dan sederhana, serta pelafalan Mandarin dan sebagian dialek, makna bahasa Inggris, dan lain-lain, yang dipuji netizen sebagai \"ada gambar dan ada bukti\".\nYang lebih mengagumkan adalah Paman Hanzi membuat seluruh isi situsnya dapat diunduh secara gratis. Kini banyak organisasi mengundang Richard untuk bekerja, dan ia memilih mengajar di Universitas Normal Beijing, karena di sana juga dilakukan penelitian tentang pengenalan dan pencarian aksara Han. Di UNB ia tidak hanya mengajar fisika, tetapi juga memiliki cukup waktu untuk melanjutkan penelitian dan menyempurnakan situsnya. Di Tiongkok, usia 60-an sudah pensiun, tetapi jadwal Paman Hanzi masih padat. Ia berkata: \"Saya tidak akan pensiun — saya akan terus mengejar impian saya. Saya ingin belajar selama saya hidup.\"",
+    "tr": "1972'de 22 yaşındaki Richard Sears, Çinceye aşık oldu, ancak Çince karakterleri çok karmaşık buldu: çizgilerinde hiçbir mantık yoktu, sadece ezberlemek gerekiyordu. Tesadüfen, karakterlerin kökenini ve evrimini anlarsa öğrenmenin kolaylaştığını keşfetti. Ne yazık ki, İngilizce kitapların neredeyse hiçbirinin karakterlerin etimolojisini tam olarak açıklamadığını gördü. 1994'te Richard kalp krizi geçirdi; doktor kalan zamanının az olabileceğini söyledi. O zaman hayatını düşünmeye başladı: \"Ne yapmalıyım? Ne yapmalıyım?\" — \"Eğer sadece 24 saatim kaldıysa, arkadaşlarımı arayıp vedalaşırım; eğer bir yılım kaldıysa, 'Shuowen Jiezi'yi bir an önce bilgisayara aktarmaya çalışırım.\" Böylece, antik karakterler üzerine klasik eserler veri tabanına girdi; sadece kopyalamak, düzenlemek ve bilgisayara girmek sekiz yıl sürdü. 2002 Yılbaşı'nda, hastalığı yendikten sonra, kurduğu web sitesini halka açmaya karar verdi — daha fazla Çince severin karakterleri öğrenirken başlangıçta kendisinin çektiği acıyı çekmemesi için.\n2011'de biri hikayesini Weibo'ya koydu — bu geniş ilgi gördü ve internet kullanıcıları ona sevgiyle \"Hanzi Amca\" dedi.\nHanzi Amca'nın sayısız zorluğu aşarak ve tüm birikimini harcayarak kurduğu siteyi açtığınızda, toplayıp düzenlediği yaklaşık 100.000 karakteri görebilirsiniz; bunlar evrimlerinin tüm grafik biçimlerini, elbette geleneksel ve basitleştirilmiş biçimleri, ayrıca Mandarin ve bazı lehçelerdeki okunuşları, İngilizce anlamları ve daha fazlasını içerir. İnternet kullanıcıları siteyi \"resimli ve gerçekli\" olarak övüyor.\nDaha da hayranlık verici olan şey, Hanzi Amca'nın sitenin tüm içeriğini ücretsiz indirilebilir yapmasıdır. Bugün birçok kuruluş Richard'ı işe davet ediyor, o ise Pekin Normal Üniversitesi'nde ders vermeyi seçti, çünkü orada da karakter tanıma ve arama üzerine araştırmalar yapılıyor. BNU'da sadece fizik öğretmekle kalmıyor, aynı zamanda araştırmalarına devam etmek ve sitesini geliştirmek için yeterli zamanı da var. Çin'de 60'lı yaşlarda emekli olunur, ancak Hanzi Amca'nın programı hâlâ yoğun. Şöyle diyor: \"Emekli olmayacağım — hayalimin peşinden gitmeye devam edeceğim. Yaşadığım sürece öğrenmek istiyorum.\""
   },
   "vocabulary": [
     {
@@ -50,12 +50,12 @@
       "meaning": {
         "zh": "",
         "ru": "судьба, связь",
-        "tk": "",
+        "tk": "söýgi baglanyşygy",
         "en": "predestined love, sentimental bond",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "sevgi aloqasi",
+        "tg": "пайванди ишқ",
+        "id": "ikatan cinta",
+        "tr": "gönül bağı"
       }
     },
     {
@@ -65,12 +65,12 @@
       "meaning": {
         "zh": "",
         "ru": "логика",
-        "tk": "",
+        "tk": "logika",
         "en": "logic",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "mantiq",
+        "tg": "мантиқ",
+        "id": "logika",
+        "tr": "mantık"
       }
     },
     {
@@ -80,12 +80,12 @@
       "meaning": {
         "zh": "",
         "ru": "твёрдо, упрямо",
-        "tk": "",
+        "tk": "gaty, tutanýerli",
         "en": "rigidly, mechanically",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qattiq, qaysar",
+        "tg": "сахт, қатъӣ",
+        "id": "keras, kaku",
+        "tr": "katı, sert"
       }
     },
     {
@@ -95,12 +95,12 @@
       "meaning": {
         "zh": "",
         "ru": "зазубривать",
-        "tk": "",
+        "tk": "ýatdan düşünmän öwrenmek",
         "en": "to memorize mechanically",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "quruq yodlash",
+        "tg": "азёд кардан",
+        "id": "menghafal secara mekanis",
+        "tr": "ezberlemek"
       }
     },
     {
@@ -110,12 +110,12 @@
       "meaning": {
         "zh": "",
         "ru": "случайный; случайно",
-        "tk": "",
+        "tk": "tötänleýin",
         "en": "accidental; by chance",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tasodifan",
+        "tg": "тасодуфан",
+        "id": "secara kebetulan",
+        "tr": "tesadüfen"
       }
     },
     {
@@ -125,12 +125,12 @@
       "meaning": {
         "zh": "",
         "ru": "эволюционировать",
-        "tk": "",
+        "tk": "ösmek",
         "en": "to change, to evolve",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "rivojlanmoq",
+        "tg": "таҳаввул ёфтан",
+        "id": "berkembang",
+        "tr": "evrilmek"
       }
     },
     {
@@ -140,12 +140,12 @@
       "meaning": {
         "zh": "",
         "ru": "сожаление",
-        "tk": "",
+        "tk": "gynansyz",
         "en": "regretful; deep regret",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "afsus",
+        "tg": "пушаймонӣ",
+        "id": "penyesalan",
+        "tr": "pişmanlık"
       }
     },
     {
@@ -155,12 +155,12 @@
       "meaning": {
         "zh": "",
         "ru": "сердце",
-        "tk": "",
+        "tk": "ýürek",
         "en": "heart",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yurak",
+        "tg": "дил",
+        "id": "jantung",
+        "tr": "kalp"
       }
     },
     {
@@ -170,12 +170,12 @@
       "meaning": {
         "zh": "",
         "ru": "размышлять",
-        "tk": "",
+        "tk": "pikir etmek",
         "en": "to think deeply, to ponder",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "o'ylash",
+        "tg": "фикр кардан",
+        "id": "berpikir",
+        "tr": "düşünmek"
       }
     },
     {
@@ -185,12 +185,12 @@
       "meaning": {
         "zh": "",
         "ru": "крепко схватить; успеть",
-        "tk": "",
+        "tk": "bermek; tutmak; wagtly bolmak",
         "en": "to firmly grasp",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "mahkam tutmoq; ulgurmoq",
+        "tg": "маҳкам гирифтан; сари вақт расидан",
+        "id": "memegang erat; cepat-cepat",
+        "tr": "sıkıca tutmak; acele etmek"
       }
     },
     {
@@ -200,12 +200,12 @@
       "meaning": {
         "zh": "",
         "ru": "как можно скорее",
-        "tk": "",
+        "tk": "mümkin boldugyça çalt",
         "en": "as soon as possible",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "imkon qadar tezroq",
+        "tg": "ҳарчи зудтар",
+        "id": "secepat mungkin",
+        "tr": "mümkün olduğunca çabuk"
       }
     },
     {
@@ -215,12 +215,12 @@
       "meaning": {
         "zh": "",
         "ru": "классика; классический",
-        "tk": "",
+        "tk": "klassika; klassiki",
         "en": "classics; classical",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "klassika; klassik",
+        "tg": "классика; классикӣ",
+        "id": "klasik; klasik",
+        "tr": "klasik; klasik"
       }
     },
     {
@@ -230,12 +230,12 @@
       "meaning": {
         "zh": "",
         "ru": "хранилище",
-        "tk": "",
+        "tk": "ammar",
         "en": "storehouse, bank",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ombor",
+        "tg": "анбор",
+        "id": "gudang",
+        "tr": "depo"
       }
     },
     {
@@ -245,12 +245,12 @@
       "meaning": {
         "zh": "",
         "ru": "вводить",
-        "tk": "",
+        "tk": "girmek",
         "en": "to input",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "kiritmoq",
+        "tg": "ворид кардан",
+        "id": "memasukkan",
+        "tr": "girmek"
       }
     },
     {
@@ -260,12 +260,12 @@
       "meaning": {
         "zh": "",
         "ru": "Новый год (1 января)",
-        "tk": "",
+        "tk": "Täze ýyl",
         "en": "New Year's Day",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "Yangi yil",
+        "tg": "Соли нав",
+        "id": "Tahun Baru",
+        "tr": "Yılbaşı"
       }
     },
     {
@@ -275,12 +275,12 @@
       "meaning": {
         "zh": "",
         "ru": "болезнь",
-        "tk": "",
+        "tk": "kesel",
         "en": "disease, illness",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "kasallik",
+        "tg": "беморӣ",
+        "id": "penyakit",
+        "tr": "hastalık"
       }
     },
     {
@@ -290,12 +290,12 @@
       "meaning": {
         "zh": "",
         "ru": "основать",
-        "tk": "",
+        "tk": "döretmek",
         "en": "to establish, to set up",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tashkil etmoq",
+        "tg": "таъсис додан",
+        "id": "mendirikan",
+        "tr": "kurmak"
       }
     },
     {
@@ -305,12 +305,12 @@
       "meaning": {
         "zh": "",
         "ru": "обнародовать; открытый",
-        "tk": "",
+        "tk": "açyk; äşgär etmek",
         "en": "to make known; open",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ochiq; oshkor qilmoq",
+        "tg": "ошкор; кушодан",
+        "id": "terbuka; mengumumkan",
+        "tr": "açık; açıklamak"
       }
     },
     {
@@ -320,12 +320,12 @@
       "meaning": {
         "zh": "",
         "ru": "вначале, сначала",
-        "tk": "",
+        "tk": "ilki",
         "en": "first, earliest",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "dastlab",
+        "tg": "аввал",
+        "id": "awalnya",
+        "tr": "başlangıçta"
       }
     },
     {
@@ -335,12 +335,12 @@
       "meaning": {
         "zh": "",
         "ru": "мучительный",
-        "tk": "",
+        "tk": "azap",
         "en": "painful, suffering",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "azob",
+        "tg": "азоб",
+        "id": "penderitaan",
+        "tr": "acı"
       }
     },
     {
@@ -350,12 +350,12 @@
       "meaning": {
         "zh": "",
         "ru": "вейбо (микроблог)",
-        "tk": "",
+        "tk": "Weibo",
         "en": "microblog",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "Weibo",
+        "tg": "Вейбо",
+        "id": "Weibo",
+        "tr": "Weibo"
       }
     },
     {
@@ -365,12 +365,12 @@
       "meaning": {
         "zh": "",
         "ru": "называть; обращение",
-        "tk": "",
+        "tk": "çagyrmak; ýüzlenme",
         "en": "to call; form of address",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "chaqirmoq; murojaat",
+        "tg": "ном бурдан; муроҷиат",
+        "id": "memanggil; sapaan",
+        "tr": "çağırmak; hitap"
       }
     },
     {
@@ -380,12 +380,12 @@
       "meaning": {
         "zh": "",
         "ru": "преодолевать",
-        "tk": "",
+        "tk": "ýeňmek",
         "en": "to overcome, to conquer",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yengmoq",
+        "tg": "ғолиб омадан",
+        "id": "mengatasi",
+        "tr": "üstesinden gelmek"
       }
     },
     {
@@ -395,12 +395,12 @@
       "meaning": {
         "zh": "",
         "ru": "собирать",
-        "tk": "",
+        "tk": "ýygnamak",
         "en": "to collect, to gather",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "to'plash",
+        "tg": "ҷамъоварӣ кардан",
+        "id": "mengumpulkan",
+        "tr": "toplamak"
       }
     },
     {
@@ -410,12 +410,12 @@
       "meaning": {
         "zh": "",
         "ru": "содержать",
-        "tk": "",
+        "tk": "öz içine almak",
         "en": "to contain, to include",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "o'z ichiga olmoq",
+        "tg": "дар бар гирифтан",
+        "id": "mengandung",
+        "tr": "içermek"
       }
     },
     {
@@ -425,12 +425,12 @@
       "meaning": {
         "zh": "",
         "ru": "традиционные иероглифы",
-        "tk": "",
+        "tk": "adaty ýazuw (ýönekeý däl)",
         "en": "complex form, traditional characters",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "an'anaviy yozuv",
+        "tg": "хати анъанавӣ",
+        "id": "aksara tradisional",
+        "tr": "geleneksel yazı"
       }
     },
     {
@@ -440,12 +440,12 @@
       "meaning": {
         "zh": "",
         "ru": "упрощённые иероглифы",
-        "tk": "",
+        "tk": "aňsatlaşdyrylan (harf)",
         "en": "simplified form",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "soddalashtirilgan (harf)",
+        "tg": "соддашуда (ҳарф)",
+        "id": "bentuk sederhana (aksara)",
+        "tr": "basitleştirilmiş (karakter)"
       }
     },
     {
@@ -455,12 +455,12 @@
       "meaning": {
         "zh": "",
         "ru": "диалект",
-        "tk": "",
+        "tk": "şiwе",
         "en": "dialect",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "sheva",
+        "tg": "лаҳҷа",
+        "id": "dialek",
+        "tr": "lehçe"
       }
     },
     {
@@ -470,12 +470,12 @@
       "meaning": {
         "zh": "",
         "ru": "хвалить",
-        "tk": "",
+        "tk": "öwmek",
         "en": "to praise, to commend",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "maqtamoq",
+        "tg": "ситоиш кардан",
+        "id": "memuji",
+        "tr": "övmek"
       }
     },
     {
@@ -485,12 +485,12 @@
       "meaning": {
         "zh": "",
         "ru": "правда, истина",
-        "tk": "",
+        "tk": "hakykat",
         "en": "truth, fact",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "haqiqat",
+        "tg": "ҳақиқат",
+        "id": "kebenaran",
+        "tr": "gerçek"
       }
     },
     {
@@ -500,12 +500,12 @@
       "meaning": {
         "zh": "",
         "ru": "восхищаться",
-        "tk": "",
+        "tk": "haýran galmak",
         "en": "to admire",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qoyil qolmoq",
+        "tg": "ҳайрат кардан",
+        "id": "mengagumi",
+        "tr": "hayran olmak"
       }
     },
     {
@@ -515,12 +515,12 @@
       "meaning": {
         "zh": "",
         "ru": "открывать (доступ)",
-        "tk": "",
+        "tk": "açmak (köpçülige)",
         "en": "to open to the public",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ochiq (jamoatchilikka)",
+        "tg": "кушодан (барои умум)",
+        "id": "terbuka untuk umum",
+        "tr": "halka açık"
       }
     },
     {
@@ -530,12 +530,12 @@
       "meaning": {
         "zh": "",
         "ru": "скачивать",
-        "tk": "",
+        "tk": "ýükläp almak",
         "en": "to download",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yuklab olmoq",
+        "tg": "боргирӣ кардан",
+        "id": "mengunduh",
+        "tr": "indirmek"
       }
     },
     {
@@ -545,12 +545,12 @@
       "meaning": {
         "zh": "",
         "ru": "организация, учреждение",
-        "tk": "",
+        "tk": "edarana, gurama",
         "en": "company, employer",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "muassasa, tashkilot",
+        "tg": "муассиса, идора",
+        "id": "unit, lembaga",
+        "tr": "birim, kurum"
       }
     },
     {
@@ -560,12 +560,12 @@
       "meaning": {
         "zh": "",
         "ru": "распознавать",
-        "tk": "",
+        "tk": "tanamak",
         "en": "to recognize, to identify",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "aniqlamoq",
+        "tg": "шинохтан",
+        "id": "mengenali",
+        "tr": "tanımak"
       }
     },
     {
@@ -575,12 +575,12 @@
       "meaning": {
         "zh": "",
         "ru": "запрашивать, искать",
-        "tk": "",
+        "tk": "gözlemek, soramak",
         "en": "to search, to retrieve",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "so'ramoq, qidirmoq",
+        "tg": "ҷустуҷӯ кардан, пурсидан",
+        "id": "mencari, menanyakan",
+        "tr": "sorgulamak, aramak"
       }
     },
     {
@@ -590,12 +590,12 @@
       "meaning": {
         "zh": "",
         "ru": "физика",
-        "tk": "",
+        "tk": "fizika",
         "en": "physics",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "fizika",
+        "tg": "физика",
+        "id": "fisika",
+        "tr": "fizik"
       }
     },
     {
@@ -605,12 +605,12 @@
       "meaning": {
         "zh": "",
         "ru": "совершенствовать; совершенный",
-        "tk": "",
+        "tk": "kämilleşdirmek; kämil",
         "en": "to improve; perfect",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "takomillashtirmoq; mukammal",
+        "tg": "такмил додан; комил",
+        "id": "menyempurnakan; sempurna",
+        "tr": "geliştirmek; mükemmel"
       }
     },
     {
@@ -620,12 +620,12 @@
       "meaning": {
         "zh": "",
         "ru": "выходить на пенсию",
-        "tk": "",
+        "tk": "pensiýa çykmak",
         "en": "to retire",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "nafaqaga chiqish",
+        "tg": "ба нафақа баромадан",
+        "id": "pensiun",
+        "tr": "emekli olmak"
       }
     },
     {
@@ -635,12 +635,12 @@
       "meaning": {
         "zh": "",
         "ru": "расписание, график",
-        "tk": "",
+        "tk": "meýilnama",
         "en": "schedule",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "jadval",
+        "tg": "ҷадвал",
+        "id": "jadwal",
+        "tr": "program"
       }
     },
     {
@@ -650,12 +650,12 @@
       "meaning": {
         "zh": "",
         "ru": "стремиться, добиваться",
-        "tk": "",
+        "tk": "ymtylmak, gözlemek",
         "en": "to pursue, to go after",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "intilmoq, erishmoq",
+        "tg": "кӯшидан, талош кардан",
+        "id": "mengejar, mengupayakan",
+        "tr": "peşinden gitmek, elde etmeye çalışmak"
       }
     },
     {
@@ -665,12 +665,12 @@
       "meaning": {
         "zh": "",
         "ru": "мечта; мечтать",
-        "tk": "",
+        "tk": "arzuw; arzuw etmek",
         "en": "dream; to dream",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "orzu; orzu qilmoq",
+        "tg": "орзу; орзу кардан",
+        "id": "mimpi; bermimpi",
+        "tr": "hayal; hayal etmek"
       }
     }
   ],
@@ -680,18 +680,33 @@
       "pos": "adv.",
       "explanation": {
         "ru": "«硬» как наречие означает «настойчиво, упорно», а также «через силу, стиснув зубы».",
-        "en": "«硬» as an adverb means 'stubbornly, persistently' or 'by force, gritting one's teeth'."
+        "en": "«硬» as an adverb means 'stubbornly, persistently' or 'by force, gritting one's teeth'.",
+        "tk": "«硬» diňleýiş söz hökmünde «pugta, tutanýerli», şeýle hem «güýç bilen, dişiňi gysyp» diýmegi aňladýar.",
+        "uz": "«硬» ravish sifatida «qat'iy, tirishqoq», shuningdek «zo'rlik bilan, tishni tishga qo'yib» ma'nolarini bildiradi.",
+        "tg": "«硬» ҳамчун зарф маънои «устуворона, пойдор» ва инчунин «бо зӯрӣ, дандон ба дандон фишурда»-ро дорад.",
+        "id": "«硬» sebagai kata keterangan berarti 'dengan keras kepala, gigih' atau 'dengan paksa, sambil menggigit gigi'.",
+        "tr": "«硬» zarf olarak 'inatla, ısrarla' ve ayrıca 'zorla, dişini sıkarak' anlamlarına gelir."
       },
       "examples": [
         {
           "zh": "在中国历史故事“指鹿为马”中，赵高把鹿硬说成马。",
           "ru": "В исторической притче «выдать оленя за коня» Чжао Гао упорно называл оленя конём.",
-          "en": "In the tale 'call a stag a horse', Zhao Gao stubbornly called a deer a horse."
+          "en": "In the tale 'call a stag a horse', Zhao Gao stubbornly called a deer a horse.",
+          "tk": "Hytaýyň \"suwlagy at diýip görkezmek\" atly taryhy hekaýasynda Çžao Gao suwlagy zor bilen at diýip atlandyrdy.",
+          "uz": "Xitoyning \"kiyikni ot deb ko'rsatish\" nomli tarixiy hikoyasida Chjao Gao kiyikni zo'rlik bilan ot deb atadi.",
+          "tg": "Дар ҳикояи таърихии чинӣ «говро асп нишон додан» Чжао Гао говро ба зӯрӣ асп гуфт.",
+          "id": "Dalam kisah sejarah Tiongkok \"menunjuk rusa sebagai kuda\", Zhao Gao dengan keras kepala menyebut rusa sebagai kuda.",
+          "tr": "Çin tarihi hikâyesi \"geyiğe at demek\"te Zhao Gao, geyiği zorla at olarak nitelendirdi."
         },
         {
           "zh": "虽然中药汤有点儿苦，但为了治病，他还是硬把它喝下去了。",
           "ru": "Хотя отвар был горьким, ради лечения он через силу его выпил.",
-          "en": "Though the herbal decoction was bitter, he forced himself to drink it for his health."
+          "en": "Though the herbal decoction was bitter, he forced himself to drink it for his health.",
+          "tk": "Ganotawyň dermanlyk çaýy birneme ajy bolsa-da, bejermek üçin ol ony zor bilen içdi.",
+          "uz": "Garchi xitoy dorivor qaynatmasi biroz achchiq bo'lsa-da, davolanish uchun u uni zo'rlik bilan ichdi.",
+          "tg": "Ҳарчанд шӯрбои дорувории чинӣ каме талх буд, барои табобат ӯ онро ба зӯрӣ нӯшид.",
+          "id": "Meskipun ramuan obat tradisional Tiongkok itu agak pahit, demi pengobatan ia tetap memaksakan diri meminumnya.",
+          "tr": "Çin bitkisel ilaç çorbası biraz acı olsa da, tedavi için zorla içti."
         }
       ],
       "exercises": [
@@ -707,18 +722,33 @@
       "pos": "adj./adv.",
       "explanation": {
         "ru": "«偶然» как прилагательное — «случайный, неожиданный». Как наречие — «случайно, изредка».",
-        "en": "«偶然» as an adjective means 'accidental, unexpected'. As an adverb — 'by chance, occasionally'."
+        "en": "«偶然» as an adjective means 'accidental, unexpected'. As an adverb — 'by chance, occasionally'.",
+        "tk": "«偶然» sypat hökmünde — «tötänleýin, garaşylmadyk». Hal hökmünde — «tötänleýin, seýrek».",
+        "uz": "«偶然» sifat sifatida — «tasodifiy, kutilmagan». Ravish sifatida — «tasodifan, ba'zan».",
+        "tg": "«偶然» ҳамчун сифат — «тасодуфӣ, ногаҳонӣ». Ҳамчун зарф — «тасодуфан, баъзан».",
+        "id": "«偶然» sebagai kata sifat berarti 'kebetulan, tak terduga'. Sebagai kata keterangan — 'secara kebetulan, kadang-kadang'.",
+        "tr": "«偶然» sıfat olarak — «tesadüfi, beklenmedik». Zarf olarak — «tesadüfen, ara sıra»."
       },
       "examples": [
         {
           "zh": "一个偶然的机会，他发现如果了解汉字的来源和演变过程，再学习它就变得轻松、容易。",
           "ru": "Случайно он обнаружил: если понять происхождение и эволюцию иероглифов, учить их становится легко.",
-          "en": "By chance he discovered that understanding the origin and evolution of characters makes learning easy."
+          "en": "By chance he discovered that understanding the origin and evolution of characters makes learning easy.",
+          "tk": "Tötänleýin bir pursatda ol, hytaý iýeroglifleriniň gelip çykyşyny we ösüş taryhyny düşünseň, olary öwrenmegiň aňsat we ýeňil bolýandygyny bildi.",
+          "uz": "Tasodifan u bir imkoniyatda u xitoy iyerogliflarining kelib chiqishi va rivojlanish tarixini tushunsa, ularni o'rganish oson va yengil bo'lishini aniqladi.",
+          "tg": "Дар як фурсати тасодуфӣ ӯ фаҳмид, ки агар пайдоиш ва раванди таҳаввули иероглифҳои чинӣро донем, омӯхтани онҳо осон ва сабук мешавад.",
+          "id": "Secara kebetulan ia menemukan bahwa jika memahami asal-usul dan proses evolusi aksara Han, mempelajarinya menjadi ringan dan mudah.",
+          "tr": "Tesadüfen, Çince karakterlerin kökenini ve evrim sürecini anlarsa, onları öğrenmenin kolay ve rahat hale geldiğini keşfetti."
         },
         {
           "zh": "她专心地织着毛衣，偶然也会抬眼看一下墙上的挂钟。",
           "ru": "Она сосредоточенно вязала свитер, изредка поднимая взгляд на настенные часы.",
-          "en": "She knitted intently, occasionally glancing at the wall clock."
+          "en": "She knitted intently, occasionally glancing at the wall clock.",
+          "tk": "Ol, süýji jemegi üns bilen örýärdi, käwagtlar diwardaky sagada göz aýlardy.",
+          "uz": "U diqqat bilan sviter to‘qirdi, ba’zan devordagi soatga ko‘z tashlardi.",
+          "tg": "Вай бо диққат свитер мебофт, баъзан ба соати девор нигоҳ мекард.",
+          "id": "Dia dengan tekun merajut sweter, sesekali melirik jam dinding.",
+          "tr": "O, dikkatle kazak örüyordu, ara sıra duvardaki saate göz atıyordu."
         }
       ],
       "exercises": [
@@ -734,18 +764,33 @@
       "pos": "adv.",
       "explanation": {
         "ru": "«尽快» — наречие, «как можно быстрее».",
-        "en": "«尽快» is an adverb meaning 'as soon as possible'."
+        "en": "«尽快» is an adverb meaning 'as soon as possible'.",
+        "tk": "«尽快» — mümkin boldugyça çalt.",
+        "uz": "«尽快» — imkon qadar tezroq.",
+        "tg": "«尽快» — ҳарчи зудтар.",
+        "id": "«尽快» — secepat mungkin.",
+        "tr": "«尽快» — mümkün olduğunca çabuk."
       },
       "examples": [
         {
           "zh": "我要抓紧时间尽快把《说文解字》电脑化。",
           "ru": "Я должен использовать время и как можно скорее оцифровать «Шовэнь цзецзы».",
-          "en": "I must hurry to digitize Shuowen Jiezi as soon as possible."
+          "en": "I must hurry to digitize Shuowen Jiezi as soon as possible.",
+          "tk": "Men wagt tygşytlap, «Şowen szäz» atly eseri mümkin boldugyça çalt kompýuterleşdirmeli.",
+          "uz": "Men vaqtni tejab, «Shovэнь szäz» asarini imkon qadar tezroq kompyuterlashtirishim kerak.",
+          "tg": "Ман бояд вақтро ғанимат дониста, «Шовэн зези»-ро ҳарчи зудтар компютерӣ кунам.",
+          "id": "Saya harus memanfaatkan waktu dan secepat mungkin mendigitalkan «Shuowen Jiezi».",
+          "tr": "Zamanı iyi kullanıp «Şuoven Cıezı»yı mümkün olduğunca çabuk bilgisayara aktarmalıyım."
         },
         {
           "zh": "新产品出了点儿问题，你和严经理尽快商量一下这事。",
           "ru": "С новым продуктом проблемы — обсуди это с менеджером Янем как можно быстрее.",
-          "en": "There's a problem with the new product — discuss it with Manager Yan as soon as possible."
+          "en": "There's a problem with the new product — discuss it with Manager Yan as soon as possible.",
+          "tk": "Täze önümde biraz problema çykdy, sen we Ýan menejer bu meseläni gyssagly ara alyp maslahatlaşyň.",
+          "uz": "Yangi mahsulotda biroz muammo chiqdi, siz va Yan menejer bu ishni tezroq maslahatlashing.",
+          "tg": "Маҳсулоти нав баъзе мушкилот дорад, шумо ва мудир Ян ҳарчи зудтар ин корро муҳокима кунед.",
+          "id": "Produk baru ada sedikit masalah, kamu dan Manajer Yan segera diskusikan hal ini.",
+          "tr": "Yeni üründe biraz sorun çıktı, sen ve Yönetici Yan bu konuyu en kısa sürede görüşün."
         }
       ],
       "exercises": [
@@ -763,16 +808,31 @@
       "word_b": "偶尔",
       "common": {
         "ru": "Оба наречия означают «не часто», иногда взаимозаменяемы.",
-        "en": "Both adverbs mean 'not often'; sometimes interchangeable."
+        "en": "Both adverbs mean 'not often'; sometimes interchangeable.",
+        "tk": "偶然 vs 偶尔",
+        "uz": "偶然 vs 偶尔",
+        "tg": "偶然 vs 偶尔",
+        "id": "偶然 vs 偶尔",
+        "tr": "偶然 vs 偶尔"
       },
       "differences": [
         {
           "ru": "«偶然» — акцент на «внезапно, неожиданно», антоним к «必然».",
-          "en": "«偶然» focuses on 'suddenly, unexpectedly'; antonym of 必然."
+          "en": "«偶然» focuses on 'suddenly, unexpectedly'; antonym of 必然.",
+          "tk": "«偶然» — «birden, garaşylmadyk ýagdaýda» manylaryna ünsi çekýär, «必然» sözüniň antonimi.",
+          "uz": "«偶然» — «to'satdan, kutilmaganda» ma'nosiga urg'u beradi, «必然» so'zining antonimi.",
+          "tg": "«偶然» — таъкид ба «ногаҳон, ғайричашмдошт», антоним ба «必然».",
+          "id": "«偶然» — penekanan pada «tiba-tiba, tak terduga», antonim dari «必然».",
+          "tr": "«偶然» — «aniden, beklenmedik bir şekilde» anlamına vurgu yapar; «必然» kelimesinin antonimidir."
         },
         {
           "ru": "«偶尔» — акцент на «редко», антоним к «经常».",
-          "en": "«偶尔» focuses on 'rarely'; antonym of 经常."
+          "en": "«偶尔» focuses on 'rarely'; antonym of 经常.",
+          "tk": "«偶尔» — «seýrek» sözüne ünsiýet berýär, «经常» sözüniň antonimi.",
+          "uz": "«偶尔» — «kamdan-kam»ga urg‘u beradi, «经常»ning antonimi.",
+          "tg": "«偶尔» — таъкид ба «кам», антоним ба «经常».",
+          "id": "«偶尔» — penekanan pada 'jarang', antonim dari «经常».",
+          "tr": "«偶尔» — 'nadiren' üzerinde vurgu, «经常» kelimesinin zıt anlamlısı."
         }
       ]
     }
@@ -781,7 +841,12 @@
     "topic": {
       "zh": "学科 (Дисциплины)",
       "ru": "Учебные дисциплины",
-      "en": "Academic subjects"
+      "en": "Academic subjects",
+      "tk": "Okuw dersleri",
+      "uz": "O'quv fanlari",
+      "tg": "Фанҳои таълимӣ",
+      "id": "Mata pelajaran",
+      "tr": "Ders konuları"
     },
     "words": [
       {
@@ -790,7 +855,12 @@
         "meaning": {
           "zh": "",
           "ru": "философия",
-          "en": "philosophy"
+          "en": "philosophy",
+          "tk": "filosofiýa",
+          "uz": "falsafa",
+          "tg": "фалсафа",
+          "id": "filsafat",
+          "tr": "felsefe"
         }
       },
       {
@@ -799,7 +869,12 @@
         "meaning": {
           "zh": "",
           "ru": "химия",
-          "en": "chemistry"
+          "en": "chemistry",
+          "tk": "himiýa",
+          "uz": "kimyo",
+          "tg": "кимиё",
+          "id": "kimia",
+          "tr": "kimya"
         }
       },
       {
@@ -808,7 +883,12 @@
         "meaning": {
           "zh": "",
           "ru": "физика",
-          "en": "physics"
+          "en": "physics",
+          "tk": "fizika",
+          "uz": "fizika",
+          "tg": "физика",
+          "id": "fisika",
+          "tr": "fizik"
         }
       },
       {
@@ -817,7 +897,12 @@
         "meaning": {
           "zh": "",
           "ru": "политика",
-          "en": "politics"
+          "en": "politics",
+          "tk": "syýasat",
+          "uz": "siyosat",
+          "tg": "сиёсат",
+          "id": "politik",
+          "tr": "siyaset"
         }
       },
       {
@@ -826,7 +911,12 @@
         "meaning": {
           "zh": "",
           "ru": "вставить (в файл)",
-          "en": "to paste"
+          "en": "to paste",
+          "tk": "ýelmemek",
+          "uz": "joylash",
+          "tg": "часбондан",
+          "id": "tempel",
+          "tr": "yapıştır"
         }
       },
       {
@@ -835,7 +925,12 @@
         "meaning": {
           "zh": "",
           "ru": "копировать",
-          "en": "to copy"
+          "en": "to copy",
+          "tk": "göçürmek",
+          "uz": "nusxalash",
+          "tg": "нусхабардорӣ кардан",
+          "id": "menyalin",
+          "tr": "kopyalamak"
         }
       },
       {
@@ -844,7 +939,12 @@
         "meaning": {
           "zh": "",
           "ru": "просматривать",
-          "en": "to browse"
+          "en": "to browse",
+          "tk": "görmek",
+          "uz": "ko'rib chiqmoq",
+          "tg": "дидан",
+          "id": "menjelajah",
+          "tr": "göz atmak"
         }
       },
       {
@@ -853,7 +953,12 @@
         "meaning": {
           "zh": "",
           "ru": "удалять",
-          "en": "to delete"
+          "en": "to delete",
+          "tk": "pozmak",
+          "uz": "o'chirmoq",
+          "tg": "нест кардан",
+          "id": "menghapus",
+          "tr": "silmek"
         }
       },
       {
@@ -862,7 +967,12 @@
         "meaning": {
           "zh": "",
           "ru": "искать",
-          "en": "to search"
+          "en": "to search",
+          "tk": "gözlemek",
+          "uz": "qidirmoq",
+          "tg": "ҷустуҷӯ кардан",
+          "id": "mencari",
+          "tr": "aramak"
         }
       },
       {
@@ -871,7 +981,12 @@
         "meaning": {
           "zh": "",
           "ru": "файл, документ",
-          "en": "file"
+          "en": "file",
+          "tk": "faýl",
+          "uz": "fayl",
+          "tg": "файл",
+          "id": "berkas",
+          "tr": "dosya"
         }
       }
     ]
@@ -880,17 +995,22 @@
     "discussion": {
       "zh": "学汉语：出于什么目的或原因，你做出了学汉语的决定？你在学习过程中遇到过什么困难？你是怎么克服的？学汉语给你的生活带来了哪些改变？",
       "ru": "Изучение китайского: почему вы решили учить китайский? Какие трудности встретили и как преодолели? Как изменилась ваша жизнь?",
-      "tk": "",
+      "tk": "Hytaý dilini öwrenmek: näme üçin hytaý dilini öwrenmäge karar berdiňiz? Nähili kynçylyklara duş geldiňiz we olary nähili ýeňip geçdiňiz? Durmuşyňyz nähili üýtgedi?",
       "en": "Learning Chinese: why did you decide to learn Chinese? What difficulties did you meet and how did you overcome them? How has your life changed?",
-      "uz": "",
-      "tg": "",
-      "id": "",
-      "tr": ""
+      "uz": "Xitoy tilini o'rganish: nega xitoy tilini o'rganishga qaror qildingiz? Qanday qiyinchiliklarga duch keldingiz va ularni qanday yengdingiz? Hayotingiz qanday o'zgardi?",
+      "tg": "Омӯзиши забони чинӣ: чаро шумо тасмим гирифтед, ки забони чинӣ омӯзед? Ба кадом мушкилот дучор шудед ва чӣ тавр онҳоро бартараф кардед? Зиндагии шумо чӣ тавр тағйир ёфт?",
+      "id": "Belajar bahasa Mandarin: mengapa Anda memutuskan untuk belajar bahasa Mandarin? Kesulitan apa yang Anda hadapi dan bagaimana Anda mengatasinya? Bagaimana hidup Anda berubah?",
+      "tr": "Çince öğrenmek: neden Çince öğrenmeye karar verdiniz? Hangi zorluklarla karşılaştınız ve bunları nasıl aştınız? Hayatınız nasıl değişti?"
     },
     "writing_prompt": {
       "zh": "请以“我为什么学汉语”为题，谈一谈你的想法和经历。尽量用上本课所学的生词，字数不少于100字。",
       "ru": "Напишите эссе на тему «Почему я учу китайский», используя слова урока, не менее 100 иероглифов.",
-      "en": "Write an essay titled 'Why I learn Chinese', using this lesson's vocabulary, at least 100 characters."
+      "en": "Write an essay titled 'Why I learn Chinese', using this lesson's vocabulary, at least 100 characters.",
+      "tk": "«Näme üçin hytaý dilini öwrenýärin» atly esse ýazyň, sapagyň sözlerini ulanyp, azyndan 100 iýeroglif.",
+      "uz": "«Nega xitoy tilini o'rganaman» mavzusida insho yozing, dars so'zlaridan foydalanib, kamida 100 ieroglif.",
+      "tg": "Эссе дар мавзӯи «Чаро ман забони чинӣ меомӯзам» нависед, калимаҳои дарсро истифода бурда, на камтар аз 100 иероглиф.",
+      "id": "Tulislah esai dengan tema «Mengapa saya belajar bahasa Mandarin», menggunakan kosakata pelajaran ini, tidak kurang dari 100 karakter Han.",
+      "tr": "«Neden Çince öğreniyorum» konulu bir kompozisyon yazın, dersin kelimelerini kullanarak, en az 100 karakter."
     }
   },
   "workbook": {

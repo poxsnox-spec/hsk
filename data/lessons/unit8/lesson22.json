@@ -2,12 +2,12 @@
   "title": {
     "zh": "阅读与思考",
     "ru": "Чтение и размышление",
-    "tk": "",
+    "tk": "Okamak we pikirlenmek",
     "en": "Reading and thinking",
-    "uz": "",
-    "tg": "",
-    "id": "",
-    "tr": ""
+    "uz": "O'qish va fikrlash",
+    "tg": "Хониш ва андеша",
+    "id": "Membaca dan berpikir",
+    "tr": "Okuma ve düşünme"
   },
   "audio_files": {
     "textbook_1": "textbook_22_1.mp3",
@@ -18,12 +18,12 @@
     "question": {
       "zh": "请看下面的图片并说说你知道的颜色。你喜欢写作文吗？你觉得有哪些提高写作水平的好方法？请给老师和同学们介绍一下。",
       "ru": "Посмотрите на картинки и назовите цвета. Любите ли вы писать сочинения? Какие есть способы улучшить письмо? Расскажите.",
-      "tk": "",
+      "tk": "Suratlara serediň we reňkleri aýdyň. Esse ýazmagy halaýarsyňyzmy? Ýazuwy gowulandyrmagyň haýsy usullary bar? Gürrüň beriň.",
       "en": "Look at the pictures and name the colors. Do you like writing essays? What methods can improve writing? Tell the class.",
-      "uz": "",
-      "tg": "",
-      "id": "",
-      "tr": ""
+      "uz": "Rasmlarga qarang va ranglarni ayting. Insho yozishni yaxshi ko'rasizmi? Yozishni yaxshilashning qanday usullari bor? Aytib bering.",
+      "tg": "Ба расмҳо нигаред ва рангҳоро номбар кунед. Оё шумо иншо навиштанро дӯст медоред? Кадом роҳҳои беҳтар кардани навишт мавҷуданд? Нақл кунед.",
+      "id": "Lihatlah gambar-gambar dan sebutkan warnanya. Apakah Anda suka menulis karangan? Apa saja cara untuk meningkatkan tulisan? Ceritakan.",
+      "tr": "Resimlere bakın ve renkleri söyleyin. Kompozisyon yazmayı sever misiniz? Yazmayı geliştirmenin hangi yolları var? Anlatın."
     },
     "answers": [
       "红",
@@ -36,12 +36,12 @@
   "text_translation": {
     "zh": "",
     "ru": "Многие родители, возможно, слишком подчёркивают роль чтения, полагая, что чем больше читаешь, тем лучше пишешь сочинения. Эта точка зрения необъективна и неполна — нам нужно изменить свои представления.\nЯ как-то слышал от американского учителя начальной школы, что они уделяют большое внимание обсуждению вопросов вместе с учениками. Например, они обсуждали, для кого написана «Девочка со спичками», и сказку о Золушке. После рассказа учитель спросил: как только Золушка войдёт во дворец, станет возлюбленной принца, её мечта осуществится и всё счастье будет ей принадлежать — как ей тогда относиться к мачехе и двум сводным сёстрам?\nЗачем обсуждать это? Потому что это обмен чувствами. Учитель и ученики пришли к выводу: человек, уже обладающий огромным счастьем, должен простить и понять тех, кто его ранил. Кроме того, нужно признать врождённое несовершенство человеческой природы: как мать между родной дочерью и неродной Золушкой непременно будет больше любить свою родную дочь, трудно относиться к ним полностью одинаково. Возможно, вы считаете мачеху эгоистичной, но такое поведение имеет естественные причины и не обязательно связано с моралью.\nС тех пор как я услышал эту историю, я стал думать, как нужно читать и что ещё, кроме чтения, нужно делать. Видите, этот учитель, рассказывая сказку, уже сознательно передавал детям это эмоциональное влияние и даже ценностные суждения о человеческой природе. Если только настаивать на чтении, не подчёркивая размышление, — это односторонне.\nЯ всегда считал, что слово «знание» нужно разделять: «зна-» — это восприятие, «-ние» — это понимание. Восприятие — то, что тебе сказали, сообщили, попросили запомнить. Но этого недостаточно — нужны ещё понимание и размышление.",
-    "tk": "",
+    "tk": "Köp ene-atalar okamagyň roluny aşa ündäp, köp okasaň ýazuw işiň has gowy bolar diýip pikir edýärler. Bu garaýyş obýektiw we doly däl, biz öz düşünjämizi üýtgetmeli.\n\nMen bir amerikaly başlangyç synp mugallymyndan eşitdim, olar okuwçylar bilen bilelikde soraglary ara alyp maslahatlaşmaga örän üns berýärler. Mysal üçin, olar «Spiçkaly gyzjagaz» kim üçin ýazylan we Zolushka ertekisi barada maslahatlaşdylar. Mugallym ertekini aýdyp bolandan soň okuwçylardan sorady: Zolushka bu köşge girip, şazadanyň söýgülisi bolup, arzuwy amala aşyp, ähli bagt oňa degişli bolandan soň, ol öz ejesine nähili garamaly we iki gyz doganyna nähili garamaly?\n\nBu soragy näme üçin maslahatlaşmaly? Çünki bu duýgy alyş-çalşygy. Mugallym we okuwçylar maslahatlaşyp şu netijä geldiler: eýýäm ägirt uly bagta eýe bolan adam özüne zyýan ýetirenleri bagyşlamaly we düşünmeli. Mundan başga-da, adam tebigatynyň käbir dogabitdi kemçiliklerini boýun almaly, ýagny bir ene öz doglan gyzy bilen doglan däl Zolushkanyň arasynda öz doglan gyzyny has köp söýmegi tebigy, olara doly deň garamak kyn. Belki siz ögeý enäniň özüneçe bolandygyny pikir edýärsiňiz, ýöne bu hereketiň tebigy esaslary bar we ahlak bilen hökmany baglanyşygy ýok.\n\nBu wakany eşidenimden bäri, nähili okamalydygyny we okamakdan başga näme etmelidigini pikir edip başladym. Seret, bu mugallym erteki aýdanda eýýäm bu duýgy täsirini, hatda adam tebigatynyň gymmatlyk hökümini hem bilgeşleýin çagalara berýär. Diňe okamagy öňe sürmek, pikir etmegi ündemezlik bir taraply.\n\n«Bilim» diýen sözüň iki bölegini aýyrmaly: «bil-» duýgy, «-im» düşünje. Duýgy — saňa aýdylan, habar berlen, ýatlamagyň haýyş edilen zady. Ýöne bu ýeterlik däl — düşünje we pikir etmek hem gerek.",
     "en": "Many parents may overemphasize the role of reading, thinking that the more one reads, the better one writes. This view is neither objective nor complete — we need to change our mindset.\nI once heard an American primary school teacher say they attach great importance to discussing questions together with students. For example, they discussed for whom The Little Match Girl was written, and the Cinderella story. After telling the story, the teacher asked: once Cinderella enters the palace and becomes the prince's beloved, once her dream is fulfilled and all happiness belongs to her — how should she then treat her stepmother and her two stepsisters?\nWhy discuss this? Because it is an exchange of feelings. Through discussion, teacher and students concluded: a person who already possesses great happiness should forgive and understand those who hurt them. Also, one must acknowledge certain innate imperfections in human nature — as a mother, between her own daughter and non-biological Cinderella, she will inevitably love her own daughter more, hard to treat them entirely equally. You may find the stepmother selfish, but such behaviour has natural grounds and isn't necessarily a matter of morality.\nEver since I heard about this, I began to think about how one should read and what else to do besides reading. See — this teacher, telling a fairy tale, was already consciously passing on this emotional influence and even value judgments about human nature. Merely advocating reading without emphasizing thinking is one-sided.\nI've always held that the word 'knowledge' should be split: 'know-' is perception, '-ledge' is understanding. Perception is the part others tell you, say to you, ask you to remember. But that alone is not enough — you need understanding and reflection.",
-    "uz": "",
-    "tg": "",
-    "id": "",
-    "tr": ""
+    "uz": "Ko'p ota-onalar o'qishning rolini haddan tashqari ta'kidlab, ko'p o'qisang insho juda yaxshi yoziladi deb o'ylashadi. Bu fikr xolis va to'liq emas, biz o'z qarashimizni o'zgartirishimiz kerak.\n\nMen bir amerikalik boshlang'ich sinf o'qituvchisidan eshitdim, ular o'quvchilar bilan birgalikda savollarni muhokama qilishga katta ahamiyat berishadi. Masalan, ular «Gugurt qizcha» kim uchun yozilganini va Zolushka ertagini muhokama qilishgan. O'qituvchi ertakni aytib bo'lgach, o'quvchilardan so'radi: Zolushka bu saroyga kirib, shahzodaning sevgilisi bo'lib, orzusi amalga oshib, barcha baxt unga tegishli bo'lgandan so'ng, u o'z o'gay onasiga qanday munosabatda bo'lishi kerak, ikki opa-singlisiga qanday munosabatda bo'lishi kerak?\n\nNega bu savolni muhokama qilish kerak? Chunki bu hissiyot almashinuvi. O'qituvchi va o'quvchilar muhokama qilib shunday xulosaga kelishdi: allaqachon ulkan baxtga ega bo'lgan kishi o'ziga zarar yetkazganlarni kechirishi va tushunishi kerak. Bundan tashqari, inson tabiatidagi ba'zi tug'ma kamchiliklarni tan olish kerak, ya'ni bir ona o'z tug'ma qizi bilan tug'ma bo'lmagan Zolushka o'rtasida o'z qizini ko'proq yaxshi ko'rishi tabiiy, ularga to'liq teng munosabatda bo'lish qiyin. Balki siz o'gay onani xudbin deb o'ylaysiz, lekin bu xatti-harakatning tabiiy asoslari bor va axloq bilan majburiy bog'liqligi yo'q.\n\nBu voqeani eshitganimdan beri, qanday o'qish kerakligini va o'qishdan tashqari nima qilish kerakligini o'ylay boshladim. Qarang, bu o'qituvchi ertak aytayotganda allaqachon bu hissiy ta'sirni, hatto inson tabiatining qadriyat hukmini ham ongli ravishda bolalarga berayotgan edi. Faqat o'qishni targ'ib qilib, fikrlashni ta'kidlamaslik biryoqlama.\n\n«Bilim» so'zini ikki qismga ajratish kerak: «bil-» idrok, «-im» tushunish. Idrok — senga aytilgan, xabar qilingan, yodlash so'ralgan narsa. Lekin bu yetarli emas — tushunish va fikrlash ham kerak.",
+    "tg": "Бисёр волидон шояд нақши хонданро аз ҳад зиёд таъкид мекунанд ва фикр мекунанд, ки ҳар қадар бисёр хонӣ, иншо навиштан ҳамон қадар хуб мешавад. Ин нуқтаи назар ғайриобъективӣ ва нопурра аст — мо бояд тасаввуроти худро тағйир диҳем.\n\nМан як бор аз муаллими мактаби ибтидоии амрикоӣ шунидам, ки онҳо ба муҳокимаи саволҳо якҷоя бо хонандагон таваҷҷуҳи зиёд медиҳанд. Масалан, онҳо муҳокима карданд, ки «Духтари гугуртфурӯш» барои кӣ навишта шудааст ва афсонаи Золушкаро. Муаллим баъд аз нақл кардани афсона аз хонандагон пурсид: вақте ки Золушка ба ин қаср дарояд, маҳбуби шоҳзода шавад, орзуяш амалӣ гардад ва тамоми хушбахтӣ ба ӯ тааллуқ дошта бошад, он гоҳ вай бо модари номодараш чӣ гуна муносибат бояд кунад, бо ду хоҳаронаш чӣ гуна муносибат бояд кунад?\n\nЧаро ин саволро муҳокима кардан лозим? Зеро ин мубодилаи эҳсосот аст. Муаллим ва хонандагон тавассути муҳокима ба хулоса омаданд: шахсе, ки аллакай хушбахтии бузург дорад, бояд касонеро, ки ба ӯ осеб расонидаанд, бубахшад ва фаҳмад. Ғайр аз ин, бояд баъзе нуқсонҳои фитрии табиати инсонро эътироф кард, яъне ҳамчун модар дар байни духтари худизодаш ва Золушкаи ғайрихудизода, ногузир духтари худизодашро бештар дӯст медорад, муносибати комилан баробар кардан душвор аст. Шояд шумо модари номодарро худбин ҳисобед, аммо ин рафтор асосҳои табиӣ дорад ва бо ахлоқ робитаи ҳатмӣ надорад.\n\nАз вақте ки ман ин воқеаро шунидам, ба фикр кардан дар бораи он ки чӣ гуна бояд хонд ва ғайр аз хондан чӣ бояд кард, шурӯъ кардам. Бубинед, ин муаллим ҳангоми нақл кардани афсона аллакай огоҳона ин таъсири эҳсосӣ ва ҳатто баҳодиҳии арзишҳои табиати инсонро ба кӯдакон медод. Агар танҳо хонданро тарғиб кунем ва фикр карданро таъкид накунем, ин якҷониба аст.\n\nКалимаи «дониш»-ро бояд ба ду қисм ҷудо кард: «до-» идрок аст, «-ниш» фаҳмиш. Идрок — он чизе, ки ба ту гуфтанд, хабар доданд, хоҳиш карданд ба ёд дорӣ. Аммо ин кофӣ нест — фаҳмиш ва фикр кардан низ лозим аст.",
+    "id": "Banyak orang tua mungkin terlalu menekankan peran membaca, merasa bahwa semakin banyak membaca, semakin baik menulis karangan. Pandangan ini tidak objektif dan tidak menyeluruh — kita perlu mengubah cara berpikir kita.\n\nSaya pernah mendengar seorang guru sekolah dasar Amerika mengatakan bahwa mereka sangat mementingkan mendiskusikan pertanyaan bersama siswa. Misalnya, mereka mendiskusikan untuk siapa «Gadis Kecil Penjual Korek Api» ditulis, dan juga dongeng Cinderella. Setelah menceritakan kisahnya, guru bertanya kepada siswa: begitu Cinderella masuk ke istana, menjadi kekasih pangeran, mimpinya terwujud, dan semua kebahagiaan menjadi miliknya — bagaimana dia harus memperlakukan ibu tirinya dan kedua saudara tirinya?\n\nMengapa membahas masalah ini? Karena ini adalah pertukaran emosi. Melalui diskusi, guru dan siswa sampai pada kesimpulan: seseorang yang sudah memiliki kebahagiaan besar harus memaafkan dan memahami mereka yang pernah menyakitinya. Selain itu, harus mengakui beberapa ketidaksempurnaan bawaan dalam sifat manusia — sebagai seorang ibu, antara putri kandungnya dan Cinderella yang bukan kandung, dia pasti akan lebih menyayangi putri kandungnya, sulit memperlakukan mereka sepenuhnya setara. Mungkin Anda menganggap ibu tiri itu egois, tetapi perilaku seperti itu memiliki alasan alami dan tidak selalu berkaitan dengan moral.\n\nSejak saya mendengar hal ini, saya mulai berpikir tentang bagaimana seharusnya membaca dan apa lagi yang harus dilakukan selain membaca. Lihat, guru ini ketika menceritakan dongeng sudah secara sadar memberikan pengaruh emosional ini, bahkan penilaian nilai tentang sifat manusia, kepada anak-anak. Jika hanya menganjurkan membaca tanpa menekankan berpikir, itu sepihak.\n\nKata «pengetahuan» harus dipisahkan: «penge-» adalah persepsi, «-tahuan» adalah pemahaman. Persepsi adalah apa yang dikatakan kepadamu, diberitahukan, diminta untuk diingat. Tetapi itu saja tidak cukup — masih diperlukan pemahaman dan pemikiran.",
+    "tr": "Birçok ebeveyn okumanın rolünü aşırı vurgulayarak çok okumanın kompozisyon yazmayı çok iyi hale getireceğini düşünüyor olabilir. Bu görüş nesnel ve kapsamlı değildir — kendi düşüncemizi değiştirmemiz gerekiyor.\n\nBir Amerikalı ilkokul öğretmeninden duymuştum, öğrencilerle birlikte soruları tartışmaya çok önem veriyorlarmış. Örneğin, «Kibritçi Kız»ın kimin için yazıldığını ve Külkedisi masalını tartışmışlar. Öğretmen masalı anlattıktan sonra öğrencilere sordu: Külkedisi bu saraya girip prensin sevgilisi olduğunda, hayali gerçekleşip tüm mutluluk ona ait olduğunda, o zaman üvey annesine nasıl davranmalı, iki üvey kız kardeşine nasıl davranmalı?\n\nBu soru neden tartışılmalı? Çünkü bu bir duygu alışverişidir. Öğretmen ve öğrenciler tartışarak şu sonuca vardılar: zaten büyük bir mutluluğa sahip olan kişi, kendisine zarar verenleri affetmeli ve anlamalıdır. Ayrıca insan doğasındaki bazı doğuştan gelen eksiklikleri kabul etmek gerekir, yani bir anne olarak kendi öz kızı ile öz olmayan Külkedisi arasında kaçınılmaz olarak kendi öz kızını daha çok sever, onlara tamamen eşit davranması zordur. Belki üvey anneyi bencil buluyorsunuz, ancak bu davranışın doğal gerekçeleri vardır ve ahlakla zorunlu bir ilişkisi yoktur.\n\nBu olayı duyduğumdan beri, nasıl okunması gerektiğini ve okumanın yanı sıra ne yapılması gerektiğini düşünmeye başladım. Bakın, bu öğretmen masal anlatırken bu duygusal etkiyi, hatta insan doğasına dair değer yargılarını bile bilinçli olarak çocuklara aktarıyordu. Sadece okumayı savunup düşünmeyi vurgulamamak tek taraflıdır.\n\n«Bilgi» kelimesini ikiye ayırmak gerekir: «bil-» algıdır, «-gi» anlayıştır. Algı, sana söylenen, bildirilen, hatırlaman istenen şeydir. Ancak bu yeterli değildir — anlayış ve düşünme de gerekir."
   },
   "vocabulary": [
     {
@@ -51,12 +51,12 @@
       "meaning": {
         "zh": "",
         "ru": "чрезмерный",
-        "tk": "",
+        "tk": "aşa",
         "en": "excessive",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "haddan tashqari",
+        "tg": "аз ҳад зиёд",
+        "id": "berlebihan",
+        "tr": "aşırı"
       }
     },
     {
@@ -66,12 +66,12 @@
       "meaning": {
         "zh": "",
         "ru": "подчёркивать",
-        "tk": "",
+        "tk": "nygtamak",
         "en": "to emphasize",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ta'kidlamoq",
+        "tg": "таъкид кардан",
+        "id": "menekankan",
+        "tr": "vurgulamak"
       }
     },
     {
@@ -81,12 +81,12 @@
       "meaning": {
         "zh": "",
         "ru": "сочинение",
-        "tk": "",
+        "tk": "düzme iş",
         "en": "essay, composition",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "insho",
+        "tg": "иншо",
+        "id": "karangan",
+        "tr": "kompozisyon"
       }
     },
     {
@@ -96,12 +96,12 @@
       "meaning": {
         "zh": "",
         "ru": "точка зрения",
-        "tk": "",
+        "tk": "pikir",
         "en": "idea, opinion",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "fikr",
+        "tg": "нуқтаи назар",
+        "id": "pendapat",
+        "tr": "görüş"
       }
     },
     {
@@ -111,12 +111,12 @@
       "meaning": {
         "zh": "",
         "ru": "объективный",
-        "tk": "",
+        "tk": "obýektiw",
         "en": "objective",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "obyektiv",
+        "tg": "объективӣ",
+        "id": "objektif",
+        "tr": "objektif"
       }
     },
     {
@@ -126,12 +126,12 @@
       "meaning": {
         "zh": "",
         "ru": "всесторонний",
-        "tk": "",
+        "tk": "hemmetaraplaýyn",
         "en": "all-round, comprehensive",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "har tomonlama",
+        "tg": "ҳамаҷониба",
+        "id": "menyeluruh",
+        "tr": "kapsamlı"
       }
     },
     {
@@ -141,12 +141,12 @@
       "meaning": {
         "zh": "",
         "ru": "менять(ся)",
-        "tk": "",
+        "tk": "üýtgemek",
         "en": "to change, to transform",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "o'zgarish",
+        "tg": "тағйир",
+        "id": "perubahan",
+        "tr": "değişim"
       }
     },
     {
@@ -156,12 +156,12 @@
       "meaning": {
         "zh": "",
         "ru": "представление, понятие",
-        "tk": "",
+        "tk": "düşünje",
         "en": "mentality, concept",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tushuncha",
+        "tg": "мафҳум",
+        "id": "konsep",
+        "tr": "kavram"
       }
     },
     {
@@ -171,12 +171,12 @@
       "meaning": {
         "zh": "",
         "ru": "спичка",
-        "tk": "",
+        "tk": "спичка",
         "en": "match",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "gugurt",
+        "tg": "гӯгирд",
+        "id": "korek api",
+        "tr": "kibrit"
       }
     },
     {
@@ -186,12 +186,12 @@
       "meaning": {
         "zh": "",
         "ru": "пепел; серый",
-        "tk": "",
+        "tk": "kül; çal",
         "en": "dust; gray",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "kul; kulrang",
+        "tg": "хок; хокистарӣ",
+        "id": "abu; kelabu",
+        "tr": "kül; gri"
       }
     },
     {
@@ -201,12 +201,12 @@
       "meaning": {
         "zh": "",
         "ru": "как только; если вдруг",
-        "tk": "",
+        "tk": "bir gezek; eger",
         "en": "once, when",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "bir marta; agar",
+        "tg": "як бор; агар",
+        "id": "sekali; jika",
+        "tr": "bir kez; eğer"
       }
     },
     {
@@ -216,12 +216,12 @@
       "meaning": {
         "zh": "",
         "ru": "королевский дворец",
-        "tk": "",
+        "tk": "şalygyň köşgi",
         "en": "royal palace",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qirol saroyi",
+        "tg": "қасри шоҳӣ",
+        "id": "istana raja",
+        "tr": "kral sarayı"
       }
     },
     {
@@ -231,12 +231,12 @@
       "meaning": {
         "zh": "",
         "ru": "принц",
-        "tk": "",
+        "tk": "şazada",
         "en": "prince",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "shahzoda",
+        "tg": "шоҳзода",
+        "id": "pangeran",
+        "tr": "prens"
       }
     },
     {
@@ -246,12 +246,12 @@
       "meaning": {
         "zh": "",
         "ru": "принадлежать",
-        "tk": "",
+        "tk": "degişli bolmak",
         "en": "to belong to",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tegishli bo'lmoq",
+        "tg": "тааллуқ доштан",
+        "id": "milik",
+        "tr": "ait olmak"
       }
     },
     {
@@ -261,12 +261,12 @@
       "meaning": {
         "zh": "",
         "ru": "относиться, обращаться",
-        "tk": "",
+        "tk": "garamak, özüni alyp barmak",
         "en": "to treat, to adopt an attitude",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "munosabatda bo'lmoq, muomala qilmoq",
+        "tg": "муносибат кардан, рафтор кардан",
+        "id": "memperlakukan, bersikap",
+        "tr": "davranmak, muamele etmek"
       }
     },
     {
@@ -276,12 +276,12 @@
       "meaning": {
         "zh": "",
         "ru": "обменивать(ся)",
-        "tk": "",
+        "tk": "çalyşmak",
         "en": "to exchange",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "almashtirmoq",
+        "tg": "иваз кардан",
+        "id": "bertukar",
+        "tr": "değiştirmek"
       }
     },
     {
@@ -291,12 +291,12 @@
       "meaning": {
         "zh": "",
         "ru": "владеть, обладать",
-        "tk": "",
+        "tk": "eýe bolmak",
         "en": "to own, to possess",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ega bo'lmoq",
+        "tg": "доштан",
+        "id": "memiliki",
+        "tr": "sahip olmak"
       }
     },
     {
@@ -306,12 +306,12 @@
       "meaning": {
         "zh": "",
         "ru": "огромный",
-        "tk": "",
+        "tk": "ähmiýetli",
         "en": "huge, tremendous",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ulkan",
+        "tg": "бузург",
+        "id": "besar",
+        "tr": "devasa"
       }
     },
     {
@@ -321,12 +321,12 @@
       "meaning": {
         "zh": "",
         "ru": "признавать",
-        "tk": "",
+        "tk": "boýun almak",
         "en": "to admit, to acknowledge",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tan olmoq",
+        "tg": "эътироф кардан",
+        "id": "mengakui",
+        "tr": "kabul etmek"
       }
     },
     {
@@ -336,12 +336,12 @@
       "meaning": {
         "zh": "",
         "ru": "человеческая природа",
-        "tk": "",
+        "tk": "adamzat tebigaty",
         "en": "human nature",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "inson tabiati",
+        "tg": "табиати инсон",
+        "id": "sifat manusia",
+        "tr": "insan doğası"
       }
     },
     {
@@ -351,12 +351,12 @@
       "meaning": {
         "zh": "",
         "ru": "идеальный",
-        "tk": "",
+        "tk": "kämil",
         "en": "perfect, flawless",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "mukammal",
+        "tg": "комил",
+        "id": "sempurna",
+        "tr": "mükemmel"
       }
     },
     {
@@ -366,12 +366,12 @@
       "meaning": {
         "zh": "",
         "ru": "неизбежный",
-        "tk": "",
+        "tk": "gutulgysyz",
         "en": "hard to avoid",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "muqarrar",
+        "tg": "ночор",
+        "id": "sulit dihindari",
+        "tr": "kaçınılmaz"
       }
     },
     {
@@ -381,12 +381,12 @@
       "meaning": {
         "zh": "",
         "ru": "горячо любить",
-        "tk": "",
+        "tk": "jany-teni bilen söýmek",
         "en": "to love dearly",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qattiq sevmoq",
+        "tg": "ба ҷон дӯст доштан",
+        "id": "menyayangi dengan tulus",
+        "tr": "çok sevmek"
       }
     },
     {
@@ -396,12 +396,12 @@
       "meaning": {
         "zh": "",
         "ru": "равный",
-        "tk": "",
+        "tk": "deň",
         "en": "equal",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "teng",
+        "tg": "баробар",
+        "id": "setara",
+        "tr": "eşit"
       }
     },
     {
@@ -411,12 +411,12 @@
       "meaning": {
         "zh": "",
         "ru": "эгоистичный",
-        "tk": "",
+        "tk": "özüneçi",
         "en": "selfish",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "xudbin",
+        "tg": "худбин",
+        "id": "egois",
+        "tr": "bencil"
       }
     },
     {
@@ -426,12 +426,12 @@
       "meaning": {
         "zh": "",
         "ru": "склоняться; тенденция",
-        "tk": "",
+        "tk": "meýilli bolmak; tendensiýa",
         "en": "to be inclined to; tendency",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "moyil bo'lmoq; tendentsiya",
+        "tg": "майл доштан; тамоюл",
+        "id": "cenderung; kecenderungan",
+        "tr": "eğilimli olmak; eğilim"
       }
     },
     {
@@ -441,12 +441,12 @@
       "meaning": {
         "zh": "",
         "ru": "причина, основание",
-        "tk": "",
+        "tk": "sebäp",
         "en": "reason, ground",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "sabab",
+        "tg": "сабаб",
+        "id": "alasan",
+        "tr": "sebep"
       }
     },
     {
@@ -456,12 +456,12 @@
       "meaning": {
         "zh": "",
         "ru": "мораль, этика",
-        "tk": "",
+        "tk": "ahlak",
         "en": "morality, ethics",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "axloq",
+        "tg": "ахлоқ",
+        "id": "moral",
+        "tr": "ahlak"
       }
     },
     {
@@ -471,12 +471,12 @@
       "meaning": {
         "zh": "",
         "ru": "с тех пор как",
-        "tk": "",
+        "tk": "şondan bäri",
         "en": "ever since",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "shundan beri",
+        "tg": "аз он вақт",
+        "id": "sejak",
+        "tr": "beri"
       }
     },
     {
@@ -486,12 +486,12 @@
       "meaning": {
         "zh": "",
         "ru": "сказка",
-        "tk": "",
+        "tk": "ertek",
         "en": "fairy tale",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ertak",
+        "tg": "афсона",
+        "id": "dongeng",
+        "tr": "masal"
       }
     },
     {
@@ -501,12 +501,12 @@
       "meaning": {
         "zh": "",
         "ru": "ценность",
-        "tk": "",
+        "tk": "bahasy",
         "en": "value",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qiymat",
+        "tg": "арзиш",
+        "id": "nilai",
+        "tr": "değer"
       }
     },
     {
@@ -516,12 +516,12 @@
       "meaning": {
         "zh": "",
         "ru": "простой, чистый",
-        "tk": "",
+        "tk": "ýönekeý, arassa",
         "en": "simple, mere",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "oddiy, sof",
+        "tg": "оддӣ, пок",
+        "id": "sederhana, murni",
+        "tr": "basit, saf"
       }
     },
     {
@@ -531,12 +531,12 @@
       "meaning": {
         "zh": "",
         "ru": "настаивать; точка зрения",
-        "tk": "",
+        "tk": "öňe sürmek; garaýyş",
         "en": "to hold, to advocate; view",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "da'vo qilmoq; nuqtai nazar",
+        "tg": "тарафдор будан; нуқтаи назар",
+        "id": "menganjurkan; pandangan",
+        "tr": "savunmak, iddia etmek; görüş"
       }
     },
     {
@@ -546,12 +546,12 @@
       "meaning": {
         "zh": "",
         "ru": "восприятие, осознание",
-        "tk": "",
+        "tk": "duýgy, düşünje",
         "en": "sense, perception",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "his, idrok",
+        "tg": "ҳис, дарк",
+        "id": "rasa, persepsi",
+        "tr": "duygu, algı"
       }
     }
   ],
@@ -561,22 +561,42 @@
       "pos": "adv.",
       "explanation": {
         "ru": "«一旦» — наречие, «как только», «если вдруг». Выражает неопределённое время, внезапно наступивший день, либо гипотетическую ситуацию.",
-        "en": "«一旦» is an adverb meaning 'once', 'if ever'. Expresses indefinite time or hypothetical situation."
+        "en": "«一旦» is an adverb meaning 'once', 'if ever'. Expresses indefinite time or hypothetical situation.",
+        "tk": "«一旦» — hal, «haçan-da», «eğer birden». Kesgitli däl wagty, duýdansyz gelen güni ýa-da çaklama ýagdaýyny aňladýar.",
+        "uz": "«一旦» — ravish, «shu zahoti», «agar birdan». Noaniq vaqtni, to'satdan kelgan kunni yoki faraziy holatni bildiradi.",
+        "tg": "«一旦» — зарф, «ҳамин ки», «агар ногаҳон». Вақти номуайян, рӯзи ногаҳон фарорасида ё ҳолати фарзиро ифода мекунад.",
+        "id": "«一旦» adalah adverbia yang berarti 'begitu', 'jika tiba-tiba'. Mengungkapkan waktu yang tidak tentu, hari yang tiba-tiba datang, atau situasi hipotetis.",
+        "tr": "«一旦» bir zarf olup 'bir kez', 'eğer ansızın' anlamlarına gelir. Belirsiz zamanı, ansızın gelen günü ya da varsayımsal durumu ifade eder."
       },
       "formula": {
         "ru": "一旦 + условие, 就 ...",
-        "en": "一旦 + condition, 就 ..."
+        "en": "一旦 + condition, 就 ...",
+        "tk": "bir gezek",
+        "uz": "bir marta",
+        "tg": "як бор",
+        "id": "begitu",
+        "tr": "bir kez"
       },
       "examples": [
         {
           "zh": "灰姑娘一旦进了这个王宫，应该怎样对待她的继母？",
           "ru": "Как только Золушка войдёт во дворец, как ей относиться к мачехе?",
-          "en": "Once Cinderella enters the palace, how should she treat her stepmother?"
+          "en": "Once Cinderella enters the palace, how should she treat her stepmother?",
+          "tk": "Zolushka bu köşge girensoň, ögeý ejesine nähili garamaly?",
+          "uz": "Zolushka bu saroyga kirgach, o'gay onasiga qanday munosabatda bo'lishi kerak?",
+          "tg": "Вақте ки Золушка ба ин қаср дохил мешавад, бо модари нопокӣ чӣ гуна муносибат бояд кунад?",
+          "id": "Setelah Cinderella masuk ke istana ini, bagaimana dia harus memperlakukan ibu tirinya?",
+          "tr": "Külkedisi bu saraya girdiğinde üvey annesine nasıl davranmalı?"
         },
         {
           "zh": "所谓私人空间，是指我们身体周围的一定的空间，一旦有人闯入这个空间，我们就会感觉不舒服。",
           "ru": "Личное пространство — это определённое пространство вокруг тела; как только в него вторгается кто-то, нам становится некомфортно.",
-          "en": "Personal space is a certain space around our body; once someone intrudes, we feel uncomfortable."
+          "en": "Personal space is a certain space around our body; once someone intrudes, we feel uncomfortable.",
+          "tk": "Şahsy giňişlik diýilýän zat, bedenimiziň töweregindäki belli bir giňişlikdir; eger kimdir bir adam bu giňişlige girse, özümizi oňaýsyz duýýarys.",
+          "uz": "Shaxsiy makon deb, tanamiz atrofidagi ma'lum bir makonga aytiladi; agar kimdir bu makonga kirsa, o'zimizni noqulay his qilamiz.",
+          "tg": "Фазои шахсӣ ба фазои муайяни атрофи бадани мо ишора мекунад; ҳамин ки касе ба ин фазо дарояд, мо худро нороҳат ҳис мекунем.",
+          "id": "Ruang pribadi adalah ruang tertentu di sekitar tubuh kita; begitu seseorang masuk ke dalamnya, kita akan merasa tidak nyaman.",
+          "tr": "Kişisel alan, bedenimizin etrafındaki belirli bir alandır; biri bu alana girdiğinde kendimizi rahatsız hissederiz."
         }
       ],
       "exercises": [
@@ -592,18 +612,33 @@
       "pos": "adj.",
       "explanation": {
         "ru": "«难免» — прилагательное, «трудно избежать, неизбежно».",
-        "en": "«难免» is an adjective meaning 'hard to avoid, inevitable'."
+        "en": "«难免» is an adjective meaning 'hard to avoid, inevitable'.",
+        "tk": "«难免» — sypat, «gutulmak kyn, mukadder» manylaryny aňladýar.",
+        "uz": "«难免» — sifat, «qochish qiyin, muqarrar» ma'nolarini bildiradi.",
+        "tg": "«难免» — сифат, маънои «гурез нотавон, ногузир»-ро дорад.",
+        "id": "«难免» adalah kata sifat yang berarti 'sulit dihindari, tak terelakkan'.",
+        "tr": "«难免» bir sıfattır, 'kaçınılması zor, kaçınılmaz' anlamına gelir."
       },
       "examples": [
         {
           "zh": "刚开始工作，这样的错误是难免的。",
           "ru": "В начале работы такие ошибки неизбежны.",
-          "en": "Such mistakes are unavoidable at the start of a job."
+          "en": "Such mistakes are unavoidable at the start of a job.",
+          "tk": "Işe ýaňy başlanyňda, beýle ýalňyşlyklar gutulgysyz.",
+          "uz": "Ishni endigina boshlaganda, bunday xatolar muqarrar.",
+          "tg": "Ҳангоми нав ба кор шурӯъ кардан, чунин хатоҳо ногузиранд.",
+          "id": "Saat baru mulai bekerja, kesalahan seperti ini tidak terhindarkan.",
+          "tr": "İşe yeni başladığında bu tür hatalar kaçınılmazdır."
         },
         {
           "zh": "朋友间难免会产生矛盾、误会甚至是伤害。",
           "ru": "Между друзьями неизбежно возникают конфликты, недоразумения и даже обиды.",
-          "en": "Between friends there will inevitably be conflicts, misunderstandings, even hurt."
+          "en": "Between friends there will inevitably be conflicts, misunderstandings, even hurt.",
+          "tk": "Dostlaryň arasynda dawa-jenjel, düşünişmezlik we hatda göwün açyş ýüze çykmagy mümkin.",
+          "uz": "Do'stlar o'rtasida kelishmovchilik, tushunmovchilik va hatto xafa bo'lish holatlari yuzaga kelishi mumkin.",
+          "tg": "Дар байни дӯстон низоъ, нофаҳмӣ ва ҳатто озор ба вуҷуд омаданаш мумкин аст.",
+          "id": "Di antara teman pasti akan timbul konflik, kesalahpahaman, bahkan rasa sakit hati.",
+          "tr": "Arkadaşlar arasında çatışma, yanlış anlaşılma ve hatta incinme yaşanması kaçınılmazdır."
         }
       ],
       "exercises": [
@@ -619,22 +654,42 @@
       "pos": "prep.",
       "explanation": {
         "ru": "«自从» — предлог, «с тех пор как», указывает на начало действия в прошлом.",
-        "en": "«自从» is a preposition meaning 'ever since', pointing to a past starting point."
+        "en": "«自从» is a preposition meaning 'ever since', pointing to a past starting point.",
+        "tk": "«自从» — predlog bolup, «şondan bäri», geçmişdäki hereketiň başlangyç nokadyna görkezýär.",
+        "uz": "«自从» — predlog bo‘lib, «o vaqtdan beri», o‘tmishdagi harakatning boshlanish nuqtasiga ishora qiladi.",
+        "tg": "«自从» — пешоянд буда, «аз он вақт инҷониб», ба нуқтаи оғози амал дар гузашта ишора мекунад.",
+        "id": "«自从» adalah preposisi yang berarti 'sejak', menunjuk pada titik awal tindakan di masa lalu.",
+        "tr": "«自从» bir edattır, 'o zamandan beri' anlamına gelir ve geçmişteki bir eylemin başlangıç noktasına işaret eder."
       },
       "formula": {
         "ru": "自从 + время/событие, ...",
-        "en": "自从 + time/event, ..."
+        "en": "自从 + time/event, ...",
+        "tk": "şondan bäri",
+        "uz": "shundan beri",
+        "tg": "аз он вақт",
+        "id": "sejak",
+        "tr": "beri"
       },
       "examples": [
         {
           "zh": "自从城市出现后，它就成为人类生活的中心。",
           "ru": "С момента появления городов они стали центром человеческой жизни.",
-          "en": "Since cities appeared, they have become the centre of human life."
+          "en": "Since cities appeared, they have become the centre of human life.",
+          "tk": "Şäherler ýüze çykaly bäri, olar adamzat durmuşynyň merkezine öwrüldi.",
+          "uz": "Shaharlar paydo bo'lganidan beri ular inson hayotining markaziga aylandi.",
+          "tg": "Аз замони пайдоиши шаҳрҳо, онҳо ба маркази ҳаёти инсон табдил ёфтанд.",
+          "id": "Sejak kota muncul, kota telah menjadi pusat kehidupan manusia.",
+          "tr": "Şehirler ortaya çıktığından beri, insan hayatının merkezi haline gelmiştir."
         },
         {
           "zh": "自从我听说了这件事，就开始思考应该如何阅读。",
           "ru": "С тех пор как я услышал эту историю, я стал думать, как нужно читать.",
-          "en": "Ever since I heard this story, I've been thinking about how to read."
+          "en": "Ever since I heard this story, I've been thinking about how to read.",
+          "tk": "Bu wakany eşidenimden bäri, nähili okamalydygyny pikir edip başladym.",
+          "uz": "Bu voqeani eshitganimdan beri, qanday o'qish kerakligi haqida o'ylay boshladim.",
+          "tg": "Аз вақте ки ман ин ҳодисаро шунидам, дар бораи он ки чӣ тавр хондан лозим аст, фикр кардан гирифтам.",
+          "id": "Sejak saya mendengar hal ini, saya mulai memikirkan bagaimana seharusnya membaca.",
+          "tr": "Bu olayı duyduğumdan beri, nasıl okumam gerektiğini düşünmeye başladım."
         }
       ],
       "exercises": [
@@ -652,16 +707,31 @@
       "word_b": "公平",
       "common": {
         "ru": "Оба прилагательных близки по смыслу, иногда взаимозаменяемы.",
-        "en": "Both adjectives have similar meanings; sometimes interchangeable."
+        "en": "Both adjectives have similar meanings; sometimes interchangeable.",
+        "tk": "Deňlik vs Adalat",
+        "uz": "Tenglik vs Adolat",
+        "tg": "Баробарӣ vs Адолат",
+        "id": "Kesetaraan vs Keadilan",
+        "tr": "Eşitlik vs Adalet"
       },
       "differences": [
         {
           "ru": "«平等» — акцент на равные права/положение.",
-          "en": "«平等» focuses on equal rights/status."
+          "en": "«平等» focuses on equal rights/status.",
+          "tk": "«平等» — deň hukuklara/ýagdaýa ünsi çekýär.",
+          "uz": "«平等» — teng huquqlar/mavqega urg'u beradi.",
+          "tg": "«平等» — таъкид ба ҳуқуқҳо/мавқеи баробар.",
+          "id": "«平等» — menekankan pada hak/status yang setara.",
+          "tr": "«平等» — eşit haklar/statüye vurgu yapar."
         },
         {
           "ru": "«公平» — акцент на справедливости, беспристрастности.",
-          "en": "«公平» focuses on fairness, impartiality."
+          "en": "«公平» focuses on fairness, impartiality.",
+          "tk": "«公平» — adalatlylyga, bitaraplyga ünsi çekýär.",
+          "uz": "«公平» — adolatga, xolislikka urg'u beradi.",
+          "tg": "«公平» — таъкид ба адолат, беғаразӣ.",
+          "id": "«公平» — penekanan pada keadilan, ketidakberpihakan.",
+          "tr": "«公平» — adalete, tarafsızlığa vurgu."
         }
       ]
     }
@@ -670,7 +740,12 @@
     "topic": {
       "zh": "写作表达 (Письмо и речь)",
       "ru": "Письмо и речь",
-      "en": "Writing and expression"
+      "en": "Writing and expression",
+      "tk": "Ýazuw we gepleşik",
+      "uz": "Yozuv va nutq",
+      "tg": "Хат ва нутқ",
+      "id": "Tulisan dan ucapan",
+      "tr": "Yazı ve konuşma"
     },
     "words": [
       {
@@ -679,7 +754,12 @@
         "meaning": {
           "zh": "",
           "ru": "научная статья",
-          "en": "thesis, paper"
+          "en": "thesis, paper",
+          "tk": "ylmy iş",
+          "uz": "ilmiy maqola",
+          "tg": "мақолаи илмӣ",
+          "id": "makalah",
+          "tr": "tez, makale"
         }
       },
       {
@@ -688,7 +768,12 @@
         "meaning": {
           "zh": "",
           "ru": "тема",
-          "en": "theme"
+          "en": "theme",
+          "tk": "tema",
+          "uz": "mavzu",
+          "tg": "мавзӯъ",
+          "id": "tema",
+          "tr": "tema"
         }
       },
       {
@@ -697,7 +782,12 @@
         "meaning": {
           "zh": "",
           "ru": "заголовок, тема",
-          "en": "title"
+          "en": "title",
+          "tk": "at",
+          "uz": "sarlavha",
+          "tg": "сарлавҳа",
+          "id": "judul",
+          "tr": "başlık"
         }
       },
       {
@@ -706,7 +796,12 @@
         "meaning": {
           "zh": "",
           "ru": "тема разговора",
-          "en": "topic"
+          "en": "topic",
+          "tk": "mowzuk",
+          "uz": "mavzu",
+          "tg": "мавзӯъ",
+          "id": "topik",
+          "tr": "konu"
         }
       },
       {
@@ -715,7 +810,12 @@
         "meaning": {
           "zh": "",
           "ru": "содержание",
-          "en": "contents"
+          "en": "contents",
+          "tk": "mazmuny",
+          "uz": "mundarija",
+          "tg": "феҳрист",
+          "id": "daftar isi",
+          "tr": "içindekiler"
         }
       },
       {
@@ -724,7 +824,12 @@
         "meaning": {
           "zh": "",
           "ru": "план, конспект",
-          "en": "outline"
+          "en": "outline",
+          "tk": "meýilnama",
+          "uz": "reja",
+          "tg": "нақша",
+          "id": "kerangka",
+          "tr": "taslak"
         }
       },
       {
@@ -733,7 +838,12 @@
         "meaning": {
           "zh": "",
           "ru": "пунктуация",
-          "en": "punctuation"
+          "en": "punctuation",
+          "tk": "punktuasiýa",
+          "uz": "tinish belgilari",
+          "tg": "аломатҳои китобат",
+          "id": "tanda baca",
+          "tr": "noktalama"
         }
       },
       {
@@ -742,7 +852,12 @@
         "meaning": {
           "zh": "",
           "ru": "болтовня",
-          "en": "nonsense"
+          "en": "nonsense",
+          "tk": "biderek gürrüň",
+          "uz": "behuda gap",
+          "tg": "ҳарзагӣ",
+          "id": "omong kosong",
+          "tr": "saçmalık"
         }
       },
       {
@@ -751,7 +866,12 @@
         "meaning": {
           "zh": "",
           "ru": "говорить вздор",
-          "en": "to talk nonsense"
+          "en": "to talk nonsense",
+          "tk": "biderek geplemek",
+          "uz": "bema'ni gapirmoq",
+          "tg": "беҳуда гап задан",
+          "id": "bicara omong kosong",
+          "tr": "saçmalamak"
         }
       }
     ]
@@ -760,17 +880,22 @@
     "discussion": {
       "zh": "灰姑娘应该怎么做：你读过《灰姑娘》这篇童话吗？如果你是灰姑娘，进入王宫以后，你会怎么对待继母和姐姐？作者认为应该承认人性中一些先天的不完美，你同意他的看法吗？",
       "ru": "Как должна поступить Золушка? Читали ли вы эту сказку? Как бы вы поступили на её месте? Согласны ли вы с автором о врождённом несовершенстве человеческой природы?",
-      "tk": "",
+      "tk": "Zolushka nähili etmeli? Bu ertekini okadyňyzmy? Onuň ýerinde bolsaňyz, nähili ederdiňiz? Adamzadyň tebigatynyň dogabitdi kemterligi baradaky awtoryň pikiri bilen ylalaşýarsyňyzmy?",
       "en": "What should Cinderella do? Have you read this fairy tale? If you were Cinderella, how would you treat your stepmother and sister? Do you agree with the author's view on innate imperfections?",
-      "uz": "",
-      "tg": "",
-      "id": "",
-      "tr": ""
+      "uz": "Zolushka qanday yo'l tutishi kerak? Bu ertakni o'qiganmisiz? Uning o'rnida bo'lsangiz, qanday yo'l tutgan bo'lardingiz? Inson tabiatining tug'ma nuqsonliligi haqidagi muallifning fikriga qo'shilasizmi?",
+      "tg": "Золушка бояд чӣ кор кунад? Оё шумо ин афсонаро хондаед? Агар шумо дар ҷои ӯ мебудед, чӣ кор мекардед? Оё шумо бо фикри муаллиф дар бораи нуқси модарзодии табиати инсон розӣ ҳастед?",
+      "id": "Apa yang harus dilakukan Cinderella? Apakah Anda sudah membaca dongeng ini? Apa yang akan Anda lakukan jika berada di posisinya? Apakah Anda setuju dengan penulis tentang ketidaksempurnaan bawaan sifat manusia?",
+      "tr": "Külkedisi ne yapmalı? Bu masalı okudunuz mu? Onun yerinde olsaydınız ne yapardınız? İnsan doğasının doğuştan kusurlu olduğu konusunda yazarla aynı fikirde misiniz?"
     },
     "writing_prompt": {
       "zh": "请以“假如我是灰姑娘”为题，谈谈你的看法。尽量用上本课所学的生词，字数不少于100字。",
       "ru": "Напишите эссе на тему «Если бы я была Золушкой», используя слова урока, не менее 100 иероглифов.",
-      "en": "Write an essay titled 'If I were Cinderella', using this lesson's vocabulary, at least 100 characters."
+      "en": "Write an essay titled 'If I were Cinderella', using this lesson's vocabulary, at least 100 characters.",
+      "tk": "«Eger men Zolushka bolan bolsam» atly tema boýunça sapagyň sözlerini ulanyp, azyndan 100 iýeroglifden ybarat esse ýazyň.",
+      "uz": "«Agar men Zolushka bo'lganimda» mavzusida dars so'zlaridan foydalanib, kamida 100 ieroglifdan iborat insho yozing.",
+      "tg": "Дар мавзӯи «Агар ман Золушка мебудам» бо истифода аз калимаҳои дарс, на камтар аз 100 иероглиф эссе нависед.",
+      "id": "Tulislah esai dengan tema «Jika saya adalah Cinderella», menggunakan kosakata pelajaran, tidak kurang dari 100 karakter.",
+      "tr": "«Ben Külkedisi olsaydım» konulu, dersin kelimelerini kullanarak en az 100 karakterlik bir kompozisyon yazın."
     }
   },
   "workbook": {

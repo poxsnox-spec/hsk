@@ -2,12 +2,12 @@
   "title": {
     "zh": "放手",
     "ru": "Отпустить",
-    "tk": "",
+    "tk": "Goýbermek",
     "en": "Letting go",
-    "uz": "",
-    "tg": "",
-    "id": "",
-    "tr": ""
+    "uz": "Qo'yib yuborish",
+    "tg": "Раҳо кардан",
+    "id": "Melepaskan",
+    "tr": "Bırakmak"
   },
   "audio_files": {
     "textbook_1": "textbook_23_1.mp3",
@@ -18,12 +18,12 @@
     "question": {
       "zh": "你觉得这幅图片想告诉我们什么？说说你对这幅图片的理解。请从本课的生词中找出与学校生活有关的词语，试试用它们各说一句话。",
       "ru": "Как вы думаете, что хочет сказать эта картинка? Найдите в словаре урока слова, связанные со школьной жизнью, и составьте с ними предложения.",
-      "tk": "",
+      "tk": "Sizce bu surat näme aýtjak bolýar? Sapagyň sözlüginden mekdep durmuşyna degişli sözleri tapyň we olar bilen sözlemler düzüň.",
       "en": "What do you think this picture tells us? Find school-related words in this lesson's vocabulary and use each in a sentence.",
-      "uz": "",
-      "tg": "",
-      "id": "",
-      "tr": ""
+      "uz": "Sizningcha, bu rasm nima demoqchi? Darsning lug'atidan maktab hayotiga oid so'zlarni toping va ular bilan gaplar tuzing.",
+      "tg": "Ба фикри шумо, ин расм чӣ гуфтан мехоҳад? Аз луғати дарс калимаҳои ба ҳаёти мактабӣ алоқамандро ёбед ва бо онҳо ҷумлаҳо созед.",
+      "id": "Menurut Anda, apa yang ingin disampaikan gambar ini? Temukan kata-kata yang berkaitan dengan kehidupan sekolah di kamus pelajaran ini dan buatlah kalimat dengan kata-kata tersebut.",
+      "tr": "Sizce bu resim ne anlatmak istiyor? Dersin sözlüğünde okul hayatıyla ilgili kelimeleri bulun ve onlarla cümleler kurun."
     },
     "answers": [
       "主席",
@@ -34,12 +34,12 @@
   "text_translation": {
     "zh": "",
     "ru": "Вэньвэнь с детства была послушной девочкой: усердно училась, соблюдала дисциплину. По любым вопросам, хотя мама и говорила, что советуется с ней, — какую школу выбрать, какую специальность изучать, даже с кем дружить — в основном решала мама.\nНо в университете дорогая дочь вдруг нарушила все правила примерной девочки, стала всё более самостоятельной, способной и независимой. Хотя её оценки оставались лучшими, она больше не хотела быть «хорошей ученицей»: прогуливала занятия ради лекций, посещала коктейли Торговой палаты ЕС, работала волонтёром, снимала кино, училась фотографии, ходила в бары, вошла в студсовет и стала его председателем, организовывала общественные мероприятия. Мамин план сделать её дипломатом в её глазах был «совсем неинтересен» — она считала своей целью бизнес.\nОна отказалась от рекомендованного поступления в магистратуру на своём факультете, от собеседований на разные работы и настояла на учёбе за границей. В итоге её приняли 12 престижных университетов мира. Когда встал вопрос об Оксфорде, семья собралась на совет: родители считали, что надо ехать туда, но Вэньвэнь была не согласна — она настаивала на США.\nНа этот раз мама уступила. Она смутно почувствовала: пора полностью отпустить. И именно мамино «отпускание» позволило воздушному змею взлететь ещё выше.\nНесколько лет спустя Вэньвэнь работала в США, и мама поехала к ней в Лос-Анджелес. В этом незнакомом месте маме показалось, что они словно поменялись ролями: она стала как дочь, а Вэньвэнь — как мать. Они выстроили новые отношения.\nСначала мама никуда не решалась идти, не могла выйти одна, не могла общаться с людьми — всё приходилось делать через дочь. Потом Вэньвэнь, занятая работой, давала ей карты, ключи от машины, билеты — и подбадривала выходить самой. Начав с магазина у дома, мама уходила всё дальше и в конце концов одна пересекла всю Америку. Она говорит, что именно «отпускание» дочери позволило ей зайти так далеко. Только тогда мама по-настоящему поняла важность «отпускания».\nВ одну ночь марта 2010 года мать и дочь лежали на гавайском пляже и разговаривали по душам. Мама впервые извинилась за прежнее «неотпускание». Вэньвэнь долго молчала, потом поцеловала маму и тихо сказала: «Мама, ты мне сейчас очень нравишься». Мама не удержалась от слёз. Она сказала: «К счастью, в ту ночь было темно».",
-    "tk": "",
+    "tk": "Wenwen çagalykdan oňat gyz bolup ulaldy: yhlasly okaýardy, düzgünlere boýun bolýardy. Uly-kiçi ähli meselede, ejesi öz pikirini soraýandygyny aýtsa-da, haýsy mekdebe gitmeli, haýsy hünäri öwrenmeli, hatda kim bilen dostlaşmaly — esasan ejesi çözýärdi.\nEmma uniwersitet döwründe söýgüli gyzy oňat gyzyň ähli düzgünlerini bozdy, barha öz pikirini aýdýan, başarnygy we garaşsyzlygy artýan boldy. Netijeleri henizem birinji bolsa-da, ol indi «oňat okuwçy» bolmak bilen kanagatlanmady: dürli leksiýalara gatnaşmak üçin sapakdan gaçýardy, ÝB Söwda palatasynyň kokteýl oturşyklaryna gatnaşýardy, meýletinçi bolup işleýärdi, kino düşürýärdi, fotografiýa öwrenýärdi, barlara gidýärdi, talyp geňeşine girip, onuň başlygy boldy we dürli jemgyýetçilik çärelerini guraýardy. Ejesiniň ony diplomat etmek meýilnamasy onuň gözünde «asla gyzykly däldi» — ol telekeçiligi öz maksady hasaplaýardy.\nOl öz fakultetinde aspiranturada okamak hukugyndan we dürli iş söhbetdeşliklerinden ýüz öwürdi, daşary ýurtda okamakda tutdy we netijede dünýäniň 12 meşhur uniwersiteti ony kabul etdi. Oksfordy saýlamak meselesi ýüze çykanda, maşgala ýygnak geçirdi: eje-ata gitmeli diýip hasaplaýardy, emma Wenwen olar bilen ylalaşmady — ol ABŞ-a gitmekde tutdy.\nBu gezek eje boýun egdi. Ol içinden: indi doly goýbermeli diýip duýdy. Garaşylmadyk ýagdaýda, ejäniň goýbermegi uçurtmany has beýige uçurdy.\nBirnäçe ýyl soň Wenwen ABŞ-da işleýärdi, eje bolsa Los-Anjelesde ony görmäge gitdi. Bu nätanyş ýerde eje olaryň bir hili rollaryny çalyşandygyny duýdy: özi gyz ýaly, Wenwen bolsa eje ýaly bolupdy. Olar täze gatnaşyklary gurdular.\nBaşda eje hiç ýere gitmäge milt etmeýärdi, ýeke özi çykyp bilmeýärdi, adamlar bilen gepleşip bilmeýärdi — hemme zat gyzynyň üsti bilen bolmalydy. Soňra işi bilen meşgul Wenwen oňa kartalar, maşyn açarlary, biletler berdi we özi çykmaga höweslendirdi. Öýüň golaýyndaky dükandan başlap, eje barha uzaga gitdi we ahyrynda ýeke özi tutuş Amerikany geçdi. Ol gyzynyň «goýbermegi» oňa şeýle uzaga gitmäge mümkinçilik berendigini aýdýar. Şonda eje «goýbermegiň» ähmiýetini hakyky düşündi.\n2010-njy ýylyň mart aýynyň bir gijesinde eje bilen gyz Gawaýi kenarýakasynda ýatyp, ýürekden söhbet etdiler. Eje ilkinji gezek öňki «goýbermezligi» üçin ötünç sorady. Wenwen uzak wagt sessiz galdy, soň ejesini öpdi we ýuwaşlyk bilen: «Eje, sen maňa häzir gaty ýaraýarsyň» diýdi. Eje gözýaşyny saklap bilmedi. Ol: «Şol gije garaňky bolany gowy boldy» diýdi.",
     "en": "Wenwen was a well-behaved girl from childhood: she studied hard and followed the rules. About everything, though her mother said she'd consult her, — which school, which major, even which friends — it was basically the mother who decided.\nBut at university, the dear daughter violated every rule of a good girl, becoming more opinionated, more capable, more independent. Though still ranked first, she was no longer content to be a 'good student': she skipped classes to attend lectures, went to EU Chamber cocktail parties, volunteered, made films, studied photography, went to bars, joined the student council and became its chair, and organized various social activities. Her mother's plan for her to become a diplomat seemed to her 'utterly uninteresting' — she thought business was her goal.\nShe gave up a guaranteed graduate spot in her department and interviews for various jobs, insisting on studying abroad. In the end, twelve world-famous universities admitted her. When it came to choosing Oxford, the family held a meeting: her parents thought she should go, but Wenwen disagreed — she insisted on America.\nThis time mother gave in. She vaguely felt: she should completely let go. Unexpectedly, it was precisely mother's letting go that let the kite fly higher.\nA few years later, Wenwen worked in America, and mother went to see her in Los Angeles. In this unfamiliar place, mother felt they had somehow swapped identities: she herself was like the daughter, and Wenwen like the mother. They built a new relationship.\nAt first, mother dared not go anywhere, could not go out alone, could not communicate with people — everything depended on her daughter. Later Wenwen, busy with work, gave her maps, car keys, plane tickets, and encouraged her to go out on her own. Starting from a supermarket near home, mother went further and further, until she actually crossed all of America on her own. She said it was her daughter's 'letting go' that let her go so far. Only then did the mother truly understand the importance of 'letting go.'\nOne night in March 2010, mother and daughter lay on a Hawaiian beach and talked heart to heart. Mother apologised for the first time for her earlier 'not letting go'. Wenwen was silent a long time, then kissed her mother and said softly: 'Mom, I really like the you of now.' Mother couldn't hold back her tears. She said: 'Good thing it was so dark that night.'",
-    "uz": "",
-    "tg": "",
-    "id": "",
-    "tr": ""
+    "uz": "Venven bolaligidan itoatkor qiz edi: tirishib o'qirdi, tartibga rioya qilardi. Katta-kichik har qanday masalada, onasi o'z fikrini so'rashini aytgan bo'lsa-da, qaysi maktabga borish, qaysi mutaxassislikni o'qish, hatto kim bilan do'stlashish — asosan onasi hal qilardi.\nAmmo universitetda suyukli qizi itoatkor qizning barcha qoidalarini buzdi, tobora o'z fikriga ega, qobiliyatli va mustaqil bo'lib bordi. Natijalari hali ham birinchi bo'lsa-da, u endi «yaxshi o'quvchi» bo'lish bilan qanoatlanmasdi: turli ma'ruzalarga borish uchun darsdan qochardi, Yevropa Ittifoqi Savdo palatasining kokteyl kechalariga qatnashardi, ko'ngilli bo'lib ishlardi, kino suratga olardi, fotografiyani o'rgandi, barlarga borardi, talabalar kengashiga kirib, uning raisi bo'ldi va turli ijtimoiy tadbirlarni tashkil qildi. Onasining uni diplomat qilish rejasi uning nazarida «umuman qiziq emas» edi — u biznesni o'z maqsadi deb bildi.\nU o'z fakultetida aspiranturaga tavsiya etilishdan va turli ish suhbatlaridan voz kechdi, chet elda o'qishni talab qildi, natijada dunyoning 12 mashhur universiteti uni qabul qildi. Oksfordni tanlash masalasi ko'tarilganda, oila yig'ilish o'tkazdi: ota-onasi borish kerak deb hisobladi, ammo Venven ular bilan rozi bo'lmadi — u AQShga borishni talab qildi.\nBu safar onasi yon berdi. U ichida: endi butunlay qo'yib yuborish kerak deb sezdi. Kutilmaganda, onaning qo'yib yuborishi varrakning yanada balandroq uchishiga imkon berdi.\nBir necha yil o'tib Venven AQShda ishladi, onasi esa Los-Anjelesga uni ko'rgani bordi. Bu notanish joyda onaga ular go'yo rollarini almashtirgandek tuyuldi: o'zi qizdek, Venven esa onadek bo'lib qoldi. Ular yangi munosabatlar o'rnatdilar.\nAvval onasi hech qayerga borishga jur'at etmasdi, yolg'iz chiqa olmasdi, odamlar bilan muloqot qila olmasdi — hamma narsa qizi orqali bo'lardi. Keyin ish bilan band Venven unga xaritalar, mashina kalitlari, chiptalar berdi va o'zi chiqishga dalda berdi. Uydagi do'kondan boshlab, onasi tobora uzoqlashdi va oxir-oqibat yolg'iz butun Amerikani kesib o'tdi. U qizining «qo'yib yuborishi» unga shunchalik uzoqqa borishga imkon berganini aytadi. Shundagina ona «qo'yib yuborish»ning ahamiyatini chinakam tushundi.\n2010-yil mart oyining bir kechasida ona va qiz Gavayi sohilida yotib, samimiy suhbatlashdilar. Ona birinchi marta avvalgi «qo'yib yubormaslik» uchun kechirim so'radi. Venven uzoq jim turdi, so'ng onasini o'pdi va ohista dedi: «Ona, sen menga hozir juda yoqasan». Ona ko'z yoshlarini tuta olmadi. U dedi: «Yaxshiyam o'sha kecha qorong'i edi».",
+    "tg": "Вэнвэн аз кӯдакӣ духтари фармонбардор буд: бо ҷидду ҷаҳд таҳсил мекард, қоидаҳоро риоя мекард. Дар ҳар кори калону хурд, гарчанде модар мегуфт, ки бо ӯ маслиҳат мекунад, — ба кадом мактаб рафтан, кадом ихтисосро омӯхтан, ҳатто бо кӣ дӯст шудан — асосан модар ҳал мекард.\nАммо дар давраи донишгоҳ духтари азиз ҳамаи қоидаҳои духтари фармонбардорро вайрон кард, торафт соҳиби фикри худ, қобилтар ва мустақилтар шуд. Гарчанде баҳои ӯ ҳанӯз аввалин буд, вай дигар ба «донишҷӯи хуб» будан қаноат намекард: барои шунидани маърӯзаҳои гуногун аз дарс мегурехт, дар коктейлҳои Палатаи тиҷорати Иттиҳоди Аврупо иштирок мекард, хидматчии ихтиёрӣ буд, филм мебаровард, фотография меомӯхт, ба барҳо мерафт, ба шӯрои донишҷӯён дохил шуда, раиси он гардид ва чорабиниҳои гуногуни иҷтимоӣ ташкил мекард. Нақшаи модар барои дипломат шудани вай дар назари ӯ «тамоман ҷолиб набуд» — вай тиҷоратро мақсади худ мешумурд.\nВай аз имконияти тавсияшавандаи аспирантура дар факултети худ ва мусоҳибаҳои корӣ даст кашид, ба таҳсил дар хориҷа исрор кард, дар натиҷа 12 донишгоҳи машҳури ҷаҳон вайро қабул карданд. Вақте масъалаи интихоби Донишгоҳи Оксфорд пеш омад, хонавода маҷлис барпо кард: волидон рафтан лозим донистанд, аммо Вэнвэн бо онҳо розӣ набуд — вай ба Амрико рафтанро талаб кард.\nИн дафъа модар итоат кард. Вай ба таври норавшан ҳис кард: вақти он расидааст, ки пурра озод кунад. Ногаҳон, маҳз озод кардани модар боиси он шуд, ки бодбарак боз ҳам баландтар парвоз кунад.\nЧанд сол баъд Вэнвэн дар Амрико кор мекард, модар ба Лос-Анҷелес ба дидани вай рафт. Дар ин ҷои ношинос модар ҳис кард, ки онҳо гӯё нақшҳоро иваз кардаанд: худаш мисли духтар ва Вэнвэн мисли модар шудааст. Онҳо муносибати нав бунёд карданд.\nДар аввал модар ба ҳеҷ ҷо рафтанӣ намешуд, танҳо берун баромада наметавонист, бо одамон муошират карда наметавонист — ҳама чиз бояд тавассути духтараш мешуд. Баъдтар Вэнвэн, ки бо кор банд буд, ба вай харитаҳо, калидҳои мошин, чиптаҳо дод ва барои худаш баромадан рӯҳбаланд кард. Аз мағозаи назди хона сар карда, модар торафт дуртар рафт ва дар ниҳоят танҳо тамоми Амрикоро убур кард. Вай мегӯяд, ки маҳз «озод кардани» духтараш ба вай имкон дод, ки ин қадар дур равад. Танҳо он вақт модар аҳамияти «озод кардан»-ро воқеан фаҳмид.\nЯк шаби моҳи марти соли 2010 модару духтар дар соҳили Гавайӣ дароз кашида, самимона сӯҳбат карданд. Модар бори аввал барои «озод накардан»-и пешина бахшиш пурсид. Вэнвэн муддати тӯлонӣ хомӯш монд, баъд модарашро бӯсид ва оҳиста гуфт: «Модар, ту ҳозир ба ман хеле писандидаӣ». Модар ашкҳояшро нигоҳ дошта натавонист. Вай гуфт: «Хушбахтона, ки он шаб торик буд».",
+    "id": "Wenwen sejak kecil adalah gadis penurut: rajin belajar, patuh pada aturan. Dalam hal besar maupun kecil, meskipun ibunya mengatakan akan meminta pendapatnya, — sekolah mana, jurusan apa, bahkan berteman dengan siapa — pada dasarnya ibunya yang menentukan.\nNamun di masa kuliah, putri tersayang itu justru melanggar segala aturan gadis penurut, semakin punya pendirian sendiri, semakin cakap dan mandiri. Meski nilainya tetap peringkat pertama, ia tidak lagi puas menjadi 'siswa teladan': ia membolos untuk menghadiri berbagai kuliah umum, menghadiri jamuan koktail Kamar Dagang Uni Eropa, menjadi relawan, membuat film, belajar fotografi, nongkrong di bar, masuk dewan mahasiswa dan menjadi ketuanya, serta menyelenggarakan berbagai kegiatan sosial. Rencana ibunya agar ia menjadi diplomat baginya 'sama sekali tidak menarik' — ia merasa berbisnis adalah tujuannya.\nIa melepaskan kesempatan kuliah pascasarjana jalur rekomendasi di jurusannya, melepaskan berbagai wawancara kerja, dan bersikeras belajar ke luar negeri. Akhirnya 12 universitas ternama dunia menerimanya. Ketika harus memilih Universitas Oxford, seluruh keluarga mengadakan rapat: ayah dan ibu berpendapat sebaiknya pergi ke sana, tetapi Wenwen tidak sependapat — ia bersikeras ingin ke Amerika.\nKali ini ibu mengalah. Samar-samar ia merasa: sudah waktunya ia benar-benar melepaskan. Tak disangka, justru pelepasan ibulah yang membuat layang-layang terbang semakin tinggi.\nBeberapa tahun kemudian, Wenwen bekerja di Amerika, dan ibu pergi menemuinya di Los Angeles. Di tempat asing ini, ibu merasa mereka seolah bertukar peran: dirinya seperti anak, dan Wenwen seperti ibu. Mereka membangun hubungan yang baru.\nAwalnya, ibu tidak berani pergi ke mana pun, tidak bisa keluar sendiri, tidak bisa berkomunikasi dengan orang — semuanya harus melalui putrinya. Kemudian Wenwen, yang sibuk bekerja, memberinya peta, kunci mobil, tiket, dan mendorongnya untuk keluar sendiri. Mulai dari toko dekat rumah, ibu pergi semakin jauh dan akhirnya sendirian menyeberangi seluruh Amerika. Ia mengatakan justru 'pelepasan' putrinya yang membuatnya bisa pergi sejauh itu. Barulah saat itu ibu benar-benar memahami pentingnya 'melepaskan'.\nPada suatu malam di bulan Maret 2010, ibu dan anak berbaring di pantai Hawaii dan berbicara dari hati ke hati. Ibu untuk pertama kalinya meminta maaf atas 'tidak melepaskan' di masa lalu. Wenwen lama terdiam, lalu mencium ibunya dan berkata pelan: 'Ibu, aku sangat menyukaimu yang sekarang.' Ibu tidak bisa menahan air matanya. Ia berkata: 'Untung saja malam itu gelap.'",
+    "tr": "Wenwen çocukluğundan beri uslu bir kızdı: çok çalışır, kurallara uyardı. Büyük küçük her konuda, annesi fikrini soracağını söylese de, — hangi okula gidilecek, hangi bölüm okunacak, hatta kiminle arkadaş olunacak — temelde annesi karar verirdi.\nAma üniversite döneminde sevgili kızı, uslu kızın tüm kurallarını çiğnedi; giderek kendi fikri olan, daha yetenekli ve bağımsız biri oldu. Notları hâlâ birinci olsa da, artık 'iyi öğrenci' olmaya razı değildi: çeşitli konferansları dinlemek için dersleri asıyor, AB Ticaret Odası'nın kokteyllerine katılıyor, gönüllü çalışıyor, film çekiyor, fotoğrafçılık öğreniyor, barlara gidiyor, öğrenci konseyine girip başkanı oluyor ve çeşitli sosyal etkinlikler düzenliyordu. Annesinin onu diplomat yapma planı onun gözünde 'hiç de ilginç değildi' — iş hayatını kendi hedefi olarak görüyordu.\nKendi bölümünde tavsiyeli yüksek lisans hakkından ve çeşitli iş görüşmelerinden vazgeçti, yurt dışında okumakta ısrar etti; sonunda dünyanın 12 ünlü üniversitesi onu kabul etti. Oxford Üniversitesi'ni seçip seçmeme konusu gündeme geldiğinde aile toplandı: anne babası gitmesi gerektiğini düşünüyordu, ama Wenwen onlarla aynı fikirde değildi — Amerika'ya gitmekte ısrar ediyordu.\nBu kez anne geri adım attı. İçten içe hissetti: artık tamamen bırakmalıydı. Beklenmedik bir şekilde, annenin bırakması uçurtmanın daha da yükseğe uçmasını sağladı.\nBirkaç yıl sonra Wenwen Amerika'da çalışıyordu, annesi de onu görmek için Los Angeles'a gitti. Bu yabancı yerde anne, sanki rollerini değiştirdiklerini hissetti: kendisi kız gibi, Wenwen ise anne gibiydi. Yeni bir ilişki kurdular.\nBaşlangıçta anne hiçbir yere gitmeye cesaret edemiyor, tek başına dışarı çıkamıyor, insanlarla iletişim kuramıyordu — her şey kızı aracılığıyla oluyordu. Sonra işiyle meşgul Wenwen ona haritalar, araba anahtarları, biletler verdi ve tek başına dışarı çıkması için cesaretlendirdi. Evin yakınındaki marketten başlayarak anne giderek daha uzağa gitti ve sonunda tek başına tüm Amerika'yı geçti. Kızının 'bırakması'nın onu bu kadar uzağa gitmesine olanak sağladığını söylüyor. Ancak o zaman anne 'bırakmanın' önemini gerçekten anladı.\n2010 yılının Mart ayında bir gece, anne ve kız Hawaii'de bir plajda uzanıp baş başa konuştular. Anne ilk kez önceki 'bırakmama'sı için özür diledi. Wenwen uzun süre sustu, sonra annesini öptü ve usulca dedi: 'Anne, şu anki seni çok seviyorum.' Anne gözyaşlarını tutamadı. Şöyle dedi: 'İyi ki o gece karanlıktı.'"
   },
   "vocabulary": [
     {
@@ -49,12 +49,12 @@
       "meaning": {
         "zh": "",
         "ru": "послушный",
-        "tk": "",
+        "tk": "akylly, gulak salýan",
         "en": "obedient, well-behaved",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "aqlli, itoatkor",
+        "tg": "фармонбардор, хушфеъл",
+        "id": "penurut, baik",
+        "tr": "uslu, söz dinleyen"
       }
     },
     {
@@ -64,12 +64,12 @@
       "meaning": {
         "zh": "",
         "ru": "усердный",
-        "tk": "",
+        "tk": "zähmetsöýer",
         "en": "hardworking, assiduous",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "mehnatkash",
+        "tg": "меҳнатдӯст",
+        "id": "rajin",
+        "tr": "çalışkan"
       }
     },
     {
@@ -79,12 +79,12 @@
       "meaning": {
         "zh": "",
         "ru": "соблюдать",
-        "tk": "",
+        "tk": "boýun egmek, amal etmek",
         "en": "to abide by, to observe",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "rioya qilmoq, amal qilmoq",
+        "tg": "риоя кардан, итоат кардан",
+        "id": "mematuhi, menaati",
+        "tr": "uymak, riayet etmek"
       }
     },
     {
@@ -94,12 +94,12 @@
       "meaning": {
         "zh": "",
         "ru": "дисциплина",
-        "tk": "",
+        "tk": "düzgün-tertip",
         "en": "discipline, rule",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tartib-intizom",
+        "tg": "интизом",
+        "id": "disiplin",
+        "tr": "disiplin"
       }
     },
     {
@@ -109,12 +109,12 @@
       "meaning": {
         "zh": "",
         "ru": "спрашивать (мнение)",
-        "tk": "",
+        "tk": "soramak (pikir)",
         "en": "to seek, to ask for",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "so'ramoq (fikr)",
+        "tg": "пурсидан (назар)",
+        "id": "meminta (pendapat)",
+        "tr": "sormak (görüş)"
       }
     },
     {
@@ -124,12 +124,12 @@
       "meaning": {
         "zh": "",
         "ru": "учиться, изучать",
-        "tk": "",
+        "tk": "okamak",
         "en": "to study",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "o'qimoq",
+        "tg": "хондан",
+        "id": "belajar",
+        "tr": "okumak"
       }
     },
     {
@@ -139,12 +139,12 @@
       "meaning": {
         "zh": "",
         "ru": "в основном",
-        "tk": "",
+        "tk": "esasan",
         "en": "basically, on the whole",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "asosan",
+        "tg": "асосан",
+        "id": "pada dasarnya",
+        "tr": "temel olarak"
       }
     },
     {
@@ -154,12 +154,12 @@
       "meaning": {
         "zh": "",
         "ru": "этап",
-        "tk": "",
+        "tk": "tapgyr",
         "en": "stage, phase",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "bosqich",
+        "tg": "марҳила",
+        "id": "tahap",
+        "tr": "aşama"
       }
     },
     {
@@ -169,12 +169,12 @@
       "meaning": {
         "zh": "",
         "ru": "дорогой, любимый",
-        "tk": "",
+        "tk": "gadyrly, söýgüli",
         "en": "dear, beloved",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "aziz, sevimli",
+        "tg": "азиз, дӯстдошта",
+        "id": "terkasih, tercinta",
+        "tr": "sevgili, aziz"
       }
     },
     {
@@ -184,12 +184,12 @@
       "meaning": {
         "zh": "",
         "ru": "нарушать",
-        "tk": "",
+        "tk": "bozmak",
         "en": "to violate, to go against",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "buzmoq",
+        "tg": "вайрон кардан",
+        "id": "melanggar",
+        "tr": "ihlal etmek"
       }
     },
     {
@@ -199,12 +199,12 @@
       "meaning": {
         "zh": "",
         "ru": "правило, устои",
-        "tk": "",
+        "tk": "düzgün, kada",
         "en": "rule, established practice",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qoida, tartib",
+        "tg": "қоида, тартиб",
+        "id": "aturan, tata tertib",
+        "tr": "kural, nizam"
       }
     },
     {
@@ -214,12 +214,12 @@
       "meaning": {
         "zh": "",
         "ru": "способный",
-        "tk": "",
+        "tk": "başarnykly",
         "en": "capable",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qobiliyatli",
+        "tg": "қобил",
+        "id": "cakap",
+        "tr": "becerikli"
       }
     },
     {
@@ -229,12 +229,12 @@
       "meaning": {
         "zh": "",
         "ru": "лекция",
-        "tk": "",
+        "tk": "leksiýa",
         "en": "lecture",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ma'ruza",
+        "tg": "лексия",
+        "id": "kuliah",
+        "tr": "konferans"
       }
     },
     {
@@ -244,12 +244,12 @@
       "meaning": {
         "zh": "",
         "ru": "присутствовать",
-        "tk": "",
+        "tk": "gatnaşmak",
         "en": "to attend, to be present",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qatnashmoq",
+        "tg": "иштирок кардан",
+        "id": "menghadiri",
+        "tr": "katılmak"
       }
     },
     {
@@ -259,12 +259,12 @@
       "meaning": {
         "zh": "",
         "ru": "бар",
-        "tk": "",
+        "tk": "bar",
         "en": "bar",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "bar",
+        "tg": "бар",
+        "id": "bar",
+        "tr": "bar"
       }
     },
     {
@@ -274,12 +274,12 @@
       "meaning": {
         "zh": "",
         "ru": "занимать должность",
-        "tk": "",
+        "tk": "wezipä durmak",
         "en": "to serve as, to hold the post of",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "lavozimda ishlamoq",
+        "tg": "вазифаро ишғол кардан",
+        "id": "menjabat",
+        "tr": "görev almak"
       }
     },
     {
@@ -289,12 +289,12 @@
       "meaning": {
         "zh": "",
         "ru": "председатель",
-        "tk": "",
+        "tk": "başlyk",
         "en": "chairperson",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "rais",
+        "tg": "раис",
+        "id": "ketua",
+        "tr": "başkan"
       }
     },
     {
@@ -304,12 +304,12 @@
       "meaning": {
         "zh": "",
         "ru": "организовывать",
-        "tk": "",
+        "tk": "guramak",
         "en": "to organize",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tashkil qilmoq",
+        "tg": "ташкил кардан",
+        "id": "mengorganisir",
+        "tr": "örgütlemek"
       }
     },
     {
@@ -319,12 +319,12 @@
       "meaning": {
         "zh": "",
         "ru": "дипломатия",
-        "tk": "",
+        "tk": "diplomatiýa",
         "en": "diplomacy",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "diplomatiya",
+        "tg": "дипломатия",
+        "id": "diplomasi",
+        "tr": "diplomasi"
       }
     },
     {
@@ -334,12 +334,12 @@
       "meaning": {
         "zh": "",
         "ru": "заниматься торговлей",
-        "tk": "",
+        "tk": "söwda etmek",
         "en": "to do business",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "savdo qilmoq",
+        "tg": "тиҷорат кардан",
+        "id": "berdagang",
+        "tr": "ticaret yapmak"
       }
     },
     {
@@ -349,12 +349,12 @@
       "meaning": {
         "zh": "",
         "ru": "цель",
-        "tk": "",
+        "tk": "maksat",
         "en": "goal, objective",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "maqsad",
+        "tg": "ҳадаф",
+        "id": "tujuan",
+        "tr": "hedef"
       }
     },
     {
@@ -364,12 +364,12 @@
       "meaning": {
         "zh": "",
         "ru": "факультет",
-        "tk": "",
+        "tk": "fakultet",
         "en": "department (of a university)",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "fakultet",
+        "tg": "факултет",
+        "id": "fakultas",
+        "tr": "fakülte"
       }
     },
     {
@@ -379,12 +379,12 @@
       "meaning": {
         "zh": "",
         "ru": "известный бренд",
-        "tk": "",
+        "tk": "meşhur marka",
         "en": "famous brand",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "mashhur brend",
+        "tg": "бренди машҳур",
+        "id": "merek terkenal",
+        "tr": "ünlü marka"
       }
     },
     {
@@ -394,12 +394,12 @@
       "meaning": {
         "zh": "",
         "ru": "зачислить, принять",
-        "tk": "",
+        "tk": "kabul etmek, hasaba almak",
         "en": "to enroll, to admit",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qabul qilmoq, ro'yxatga olmoq",
+        "tg": "қабул кардан, ба қайд гирифтан",
+        "id": "menerima, mendaftarkan",
+        "tr": "kabul etmek, kaydetmek"
       }
     },
     {
@@ -409,12 +409,12 @@
       "meaning": {
         "zh": "",
         "ru": "стоять перед лицом",
-        "tk": "",
+        "tk": "ýüz tutmak",
         "en": "to face, to confront",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "duch kelmoq",
+        "tg": "рӯ ба рӯ шудан",
+        "id": "menghadapi",
+        "tr": "yüzleşmek"
       }
     },
     {
@@ -424,12 +424,12 @@
       "meaning": {
         "zh": "",
         "ru": "единодушный",
-        "tk": "",
+        "tk": "birmeňzeş",
         "en": "identical, unanimous",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "bir xil",
+        "tg": "якхела",
+        "id": "identik",
+        "tr": "tutarlı"
       }
     },
     {
@@ -439,12 +439,12 @@
       "meaning": {
         "zh": "",
         "ru": "уступать",
-        "tk": "",
+        "tk": "ýeň bermek",
         "en": "to concede, to give in",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yondoshmoq",
+        "tg": "имтиёз додан",
+        "id": "mengalah",
+        "tr": "taviz vermek"
       }
     },
     {
@@ -454,12 +454,12 @@
       "meaning": {
         "zh": "",
         "ru": "смутный, неясный",
-        "tk": "",
+        "tk": "näbelli, düşnüksiz",
         "en": "indistinct, vague",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "noaniq, xira",
+        "tg": "норавшан, номуайян",
+        "id": "samar-samar, tidak jelas",
+        "tr": "belirsiz, müphem"
       }
     },
     {
@@ -469,12 +469,12 @@
       "meaning": {
         "zh": "",
         "ru": "незнакомый",
-        "tk": "",
+        "tk": "nätanyş",
         "en": "strange, unfamiliar",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "notanish",
+        "tg": "ношинос",
+        "id": "asing",
+        "tr": "yabancı"
       }
     },
     {
@@ -484,12 +484,12 @@
       "meaning": {
         "zh": "",
         "ru": "некий, некоторый",
-        "tk": "",
+        "tk": "belli bir, käbir",
         "en": "some, certain",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ma'lum bir, ba'zi",
+        "tg": "баъзе, муайян",
+        "id": "suatu, tertentu",
+        "tr": "bir, belirli"
       }
     },
     {
@@ -499,12 +499,12 @@
       "meaning": {
         "zh": "",
         "ru": "создавать, устанавливать",
-        "tk": "",
+        "tk": "döretmek, gurmak",
         "en": "to build, to establish",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yaratmoq, o'rnatmoq",
+        "tg": "сохтан, бунёд кардан",
+        "id": "membangun, mendirikan",
+        "tr": "inşa etmek, kurmak"
       }
     },
     {
@@ -514,12 +514,12 @@
       "meaning": {
         "zh": "",
         "ru": "отдельно, один",
-        "tk": "",
+        "tk": "ýeke, ýalňyz",
         "en": "alone, by oneself",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yolg'iz, alohida",
+        "tg": "танҳо, алоҳида",
+        "id": "sendiri, terpisah",
+        "tr": "yalnız, tek başına"
       }
     },
     {
@@ -529,12 +529,12 @@
       "meaning": {
         "zh": "",
         "ru": "общаться",
-        "tk": "",
+        "tk": "aragatnaşyk",
         "en": "to communicate",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "muloqot",
+        "tg": "иртибот",
+        "id": "komunikasi",
+        "tr": "iletişim"
       }
     },
     {
@@ -544,12 +544,12 @@
       "meaning": {
         "zh": "",
         "ru": "поперёк",
-        "tk": "",
+        "tk": "keseligine",
         "en": "across",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ko'ndalang",
+        "tg": "бариканор",
+        "id": "melintang",
+        "tr": "enine"
       }
     },
     {
@@ -559,12 +559,12 @@
       "meaning": {
         "zh": "",
         "ru": "пляж",
-        "tk": "",
+        "tk": "çäge plýaž",
         "en": "sand beach",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qumli plyaj",
+        "tg": "соҳили регӣ",
+        "id": "pantai berpasir",
+        "tr": "kum plajı"
       }
     },
     {
@@ -574,12 +574,12 @@
       "meaning": {
         "zh": "",
         "ru": "молчать",
-        "tk": "",
+        "tk": "dymmak",
         "en": "to be silent",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "jim bo'lish",
+        "tg": "хомӯш будан",
+        "id": "diam",
+        "tr": "sessiz olmak"
       }
     },
     {
@@ -589,12 +589,12 @@
       "meaning": {
         "zh": "",
         "ru": "целовать",
-        "tk": "",
+        "tk": "öpmek",
         "en": "to kiss",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "o'pmoq",
+        "tg": "бӯса кардан",
+        "id": "mencium",
+        "tr": "öpmek"
       }
     },
     {
@@ -604,12 +604,12 @@
       "meaning": {
         "zh": "",
         "ru": "не удержаться",
-        "tk": "",
+        "tk": "özüni saklap bilmek",
         "en": "cannot help (doing sth.)",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "o'zini tuta olmaslik",
+        "tg": "тоқат карда натавонистан",
+        "id": "tidak bisa menahan diri",
+        "tr": "kendini tutamamak"
       }
     },
     {
@@ -619,12 +619,12 @@
       "meaning": {
         "zh": "",
         "ru": "к счастью",
-        "tk": "",
+        "tk": "bagtymyza",
         "en": "fortunately",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "baxtimizga",
+        "tg": "хушбахтона",
+        "id": "untung saja",
+        "tr": "neyse ki"
       }
     },
     {
@@ -634,12 +634,12 @@
       "meaning": {
         "zh": "",
         "ru": "тёмный",
-        "tk": "",
+        "tk": "garaňky",
         "en": "dark, dim",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qorong'i",
+        "tg": "торик",
+        "id": "gelap",
+        "tr": "karanlık"
       }
     }
   ],
@@ -649,18 +649,33 @@
       "pos": "adj./adv.",
       "explanation": {
         "ru": "«一致» — прилагательное, «без разногласий, единодушный». Как наречие — «вместе, единодушно».",
-        "en": "«一致» is an adjective meaning 'without disagreement, unanimous'. As an adverb — 'together, unanimously'."
+        "en": "«一致» is an adjective meaning 'without disagreement, unanimous'. As an adverb — 'together, unanimously'.",
+        "tk": "«一致» sypat, «pikir aýrylyşygy ýok, birpikir». Rowaç hökmünde — «bilelikde, birpikir».",
+        "uz": "«一致» — sifat, «kelishmovchiliksiz, bir ovozdan». Ravish sifatida — «birgalikda, bir ovozdan».",
+        "tg": "«一致» сифат аст, «беихтилоф, якдилона». Ҳамчун зарф — «якҷоя, якдилона».",
+        "id": "«一致» adalah kata sifat yang berarti 'tanpa perselisihan, mufakat'. Sebagai kata keterangan — 'bersama-sama, dengan mufakat'.",
+        "tr": "«一致» sıfat olarak 'görüş ayrılığı olmadan, oybirliğiyle' anlamına gelir. Zarf olarak — 'birlikte, oybirliğiyle'."
       },
       "examples": [
         {
           "zh": "但文文跟他们的意见不一致，她坚持要去美国。",
           "ru": "Но Вэньвэнь была не согласна — она настаивала на поездке в США.",
-          "en": "But Wenwen disagreed — she insisted on going to the US."
+          "en": "But Wenwen disagreed — she insisted on going to the US.",
+          "tk": "Emma Wenwen olaryň pikiri bilen ylalaşmady, ol ABŞ-a gitmegiň üstünde durdy.",
+          "uz": "Ammo Wenwen ularning fikriga qo'shilmadi, u AQShga borishni talab qildi.",
+          "tg": "Аммо Вэнвэн бо фикри онҳо розӣ набуд, вай ба Амрико рафтанро талаб мекард.",
+          "id": "Tetapi Wenwen tidak setuju dengan pendapat mereka, dia bersikeras ingin pergi ke Amerika Serikat.",
+          "tr": "Ama Wenwen onların fikrine katılmadı, o ABD'ye gitmekte ısrar etti."
         },
         {
           "zh": "专家们一致认为这是一种成功的产品，可以放心使用。",
           "ru": "Специалисты единодушно признали продукт успешным и безопасным в использовании.",
-          "en": "Experts unanimously agreed the product is successful and safe to use."
+          "en": "Experts unanimously agreed the product is successful and safe to use.",
+          "tk": "Hünärmenler bu önümiň üstünlikli bolandygyny we howpsuz ulanyp boljakdygyny biragyzdan tassyklaýarlar.",
+          "uz": "Mutaxassislar bu mahsulotni muvaffaqiyatli deb hisoblab, undan bexatar foydalanish mumkin degan bir tovushdan xulosaga kelishdi.",
+          "tg": "Мутахассисон ба иттифоқ ин маҳсулотро муваффақ донистанд ва метавон аз он бехатар истифода кард.",
+          "id": "Para ahli sepakat bahwa ini adalah produk yang sukses dan aman untuk digunakan.",
+          "tr": "Uzmanlar bunun başarılı bir ürün olduğu ve güvenle kullanılabileceği konusunda hemfikir."
         }
       ],
       "exercises": [
@@ -676,18 +691,33 @@
       "pos": "pron.",
       "explanation": {
         "ru": "«某» — указательное местоимение, «некий, некоторый». Может стоять после фамилии, выражая «некто (не называя)», иногда с негативным оттенком.",
-        "en": "«某» is a demonstrative pronoun meaning 'some, a certain'. Can follow a surname for 'someone (unspecified)', sometimes pejorative."
+        "en": "«某» is a demonstrative pronoun meaning 'some, a certain'. Can follow a surname for 'someone (unspecified)', sometimes pejorative.",
+        "tk": "«某» — görkezme çalyşmasy, «belli bir, käbir». Familiýadan soň gelip, «kimdir biri (atlandyrylmaýan)» manyny berýär, käte negatiw öwüşginli bolýar.",
+        "uz": "«某» — ko'rsatish olmoshi, «ma'lum bir, ba'zi». Familiyadan keyin kelib, «kimdir biri (nomi aytilmagan)» ma'nosini bildiradi, ba'zan salbiy ma'no bilan.",
+        "tg": "«某» — ҷонишини ишоратӣ, «муайян, баъзе». Метавонад баъд аз насаб ояд ва «касе (бе ном)»-ро ифода кунад, баъзан бо маънои манфӣ.",
+        "id": "«某» adalah kata ganti penunjuk, «suatu, tertentu». Dapat diletakkan setelah nama keluarga untuk menyatakan «seseorang (tanpa menyebut nama)», kadang dengan nuansa negatif.",
+        "tr": "«某» — işaret zamiri, «belli bir, bazı». Soyaddan sonra gelerek «biri (adı belirtilmeden)» anlamını verir, bazen olumsuz bir ton taşır."
       },
       "examples": [
         {
           "zh": "公司业务员李某闻之大喜，以为自己碰到了一个大买主。",
           "ru": "Услышав это, некий Ли, торговый агент компании, обрадовался, решив, что нашёл крупного покупателя.",
-          "en": "Hearing this, a certain salesman surnamed Li rejoiced, thinking he'd found a big buyer."
+          "en": "Hearing this, a certain salesman surnamed Li rejoiced, thinking he'd found a big buyer.",
+          "tk": "Kompaniýanyň söwda işgäri Li muny eşidip, uly alyjy tapandygyna begenip başlady.",
+          "uz": "Kompaniya savdo xodimi Li buni eshitib, katta xaridor topdim deb juda xursand bo'ldi.",
+          "tg": "Корманди ширкат Ли инро шунида, хеле шод шуд ва гумон кард, ки харидори калон ёфтааст.",
+          "id": "Mendengar hal itu, Li, seorang tenaga penjual perusahaan, sangat gembira dan mengira telah menemukan pembeli besar.",
+          "tr": "Şirketin satış temsilcisi Li bunu duyunca çok sevindi ve büyük bir alıcı bulduğunu sandı."
         },
         {
           "zh": "在这个陌生的地方，妈妈感到她们好像交换了某种身份。",
           "ru": "В этом незнакомом месте маме казалось, что они словно поменялись какими-то ролями.",
-          "en": "In this unfamiliar place, mother felt they had somehow swapped roles."
+          "en": "In this unfamiliar place, mother felt they had somehow swapped roles.",
+          "tk": "Bu nätanyş ýerde eje olaryň käbir rollaryny çalşandyrlaryny duýdy.",
+          "uz": "Bu notanish joyda ona ular qandaydir rollarni almashtirgandek tuyuldi.",
+          "tg": "Дар ин ҷои ношинос модар ҳис кард, ки гӯё онҳо кадоме аз нақшҳоро иваз кардаанд.",
+          "id": "Di tempat yang asing ini, ibu merasa mereka seolah-olah bertukar peran.",
+          "tr": "Bu yabancı yerde anne, sanki bir şekilde rollerini değiştirdiklerini hissetti."
         }
       ],
       "exercises": [
@@ -703,18 +733,33 @@
       "pos": "adv.",
       "explanation": {
         "ru": "«幸亏» — наречие, «к счастью, благодаря чему-то удалось избежать нежелательного».",
-        "en": "«幸亏» is an adverb meaning 'fortunately, thanks to which something undesirable was avoided'."
+        "en": "«幸亏» is an adverb meaning 'fortunately, thanks to which something undesirable was avoided'.",
+        "tk": "«幸亏» — bu duşmanlykly bir zadyň öňüni almak üçin «bagtymyza, bir zadyň netijesinde» manysyny berýän hal (räsmi däl söz).",
+        "uz": "«幸亏» — «baxtimizga, bir narsa tufayli yoqimsiz holatdan qutulindi» ma'nosini bildiruvchi ravish.",
+        "tg": "«幸亏» — зарф, «хушбахтона, ба шарофати чизе аз ҳолати номатлуб наҷот ёфт».",
+        "id": "«幸亏» adalah kata keterangan yang berarti 'untunglah, berkat sesuatu hal yang tidak diinginkan dapat dihindari'.",
+        "tr": "«幸亏» — 'iyi ki, sayesinde istenmeyen bir durumdan kaçınıldı' anlamına gelen bir zarftır."
       },
       "examples": [
         {
           "zh": "幸亏你提醒了我，我今天就去报名。",
           "ru": "Хорошо, что ты напомнил — сегодня же пойду записываться.",
-          "en": "Good thing you reminded me — I'll register today."
+          "en": "Good thing you reminded me — I'll register today.",
+          "tk": "Seniň ýatlatmanyň oňat boldy — men şu gün barlagdan geçmäge gidýärin.",
+          "uz": "Yaxshi bo‘ldi, sen eslatding — men bugun ro‘yxatdan o‘tishga boraman.",
+          "tg": "Хуб шуд, ки ту ба ман ёдовар шудӣ — ман имрӯз ба қайд гирифтан меравам.",
+          "id": "Untung kamu mengingatkan saya — hari ini saya akan mendaftar.",
+          "tr": "İyi ki bana hatırlattın — bugün kayıt yapmaya gidiyorum."
         },
         {
           "zh": "医生说这个病人是心脏问题，幸亏送来得及时。",
           "ru": "Врач сказал, что у пациента проблема с сердцем; к счастью, его доставили вовремя.",
-          "en": "The doctor said it was a heart problem; fortunately he was brought in time."
+          "en": "The doctor said it was a heart problem; fortunately he was brought in time.",
+          "tk": "Lukman bu näsagyň ýürek meselesi bardygyny aýtdy, saglyk, wagtynda getirilendigi üçin bagtly.",
+          "uz": "Shifokor bu bemorning yurak muammosi borligini aytdi, yaxshiyamki, vaqtida olib kelindi.",
+          "tg": "Духтур гуфт, ки ин бемор мушкили дил дорад, хушбахтона, вақтӣ оварда шуд.",
+          "id": "Dokter mengatakan pasien ini memiliki masalah jantung, untung saja dibawa tepat waktu.",
+          "tr": "Doktor bu hastanın kalp sorunu olduğunu söyledi, iyi ki zamanında getirilmiş."
         }
       ],
       "exercises": [
@@ -732,20 +777,40 @@
       "word_b": "独自",
       "common": {
         "ru": "Оба наречия означают «один, самостоятельно».",
-        "en": "Both adverbs mean 'alone, by oneself'."
+        "en": "Both adverbs mean 'alone, by oneself'.",
+        "tk": "Ýeke özi vs öz başyna",
+        "uz": "Yolg'iz vs o'z-o'zidan",
+        "tg": "Танҳо vs худитанҳо",
+        "id": "Sendiri vs sendiri",
+        "tr": "Tek başına vs kendi başına"
       },
       "differences": [
         {
           "ru": "«单独» — акцент на «не вместе с другими».",
-          "en": "«单独» focuses on 'not together with others'."
+          "en": "«单独» focuses on 'not together with others'.",
+          "tk": "«单独» — «başgalar bilen bile däl» manylaryna ünsi çekýär.",
+          "uz": "«单独» — «boshqalar bilan birga emas» ma'nosiga urg'u beradi.",
+          "tg": "«单独» — таъкид ба «на якҷоя бо дигарон».",
+          "id": "«单独» — menekankan pada «tidak bersama dengan orang lain».",
+          "tr": "«单独» — «başkalarıyla birlikte değil» anlamına vurgu yapar."
         },
         {
           "ru": "«独自» — акцент на «делать что-то самостоятельно».",
-          "en": "«独自» focuses on 'doing something independently'."
+          "en": "«独自» focuses on 'doing something independently'.",
+          "tk": "«独自» — «bir zady özbaşdak etmek» manysyna ünsi çekýär.",
+          "uz": "«独自» — «biror narsani mustaqil ravishda qilish»ga urg'u beradi.",
+          "tg": "«独自» — таъкид ба «кореро мустақилона анҷом додан».",
+          "id": "«独自» — penekanan pada «melakukan sesuatu secara mandiri».",
+          "tr": "«独自» — «bir şeyi bağımsız olarak yapmak» vurgusu."
         },
         {
           "ru": "«单独» может использоваться с предметами и быть прилагательным.",
-          "en": "«单独» can be used for objects and can be an adjective."
+          "en": "«单独» can be used for objects and can be an adjective.",
+          "tk": "«单独» zatlar bilen ulanylyp bilner we sypat bolup biler.",
+          "uz": "«单独» narsalar bilan ishlatilishi va sifat bo'lishi mumkin.",
+          "tg": "«单独» метавонад бо ашёҳо истифода шавад ва сифат бошад.",
+          "id": "«单独» dapat digunakan dengan benda dan dapat menjadi kata sifat.",
+          "tr": "«单独» nesnelerle kullanılabilir ve sıfat olabilir."
         }
       ]
     }
@@ -754,7 +819,12 @@
     "topic": {
       "zh": "教学 (Обучение)",
       "ru": "Обучение",
-      "en": "Teaching and study"
+      "en": "Teaching and study",
+      "tk": "Okuw",
+      "uz": "O'qish",
+      "tg": "Омӯзиш",
+      "id": "Pembelajaran",
+      "tr": "Öğrenme"
     },
     "words": [
       {
@@ -763,7 +833,12 @@
         "meaning": {
           "zh": "",
           "ru": "учебник",
-          "en": "textbook"
+          "en": "textbook",
+          "tk": "okuw kitaby",
+          "uz": "darslik",
+          "tg": "китоби дарсӣ",
+          "id": "buku pelajaran",
+          "tr": "ders kitabı"
         }
       },
       {
@@ -772,7 +847,12 @@
         "meaning": {
           "zh": "",
           "ru": "курс",
-          "en": "course"
+          "en": "course",
+          "tk": "kurs",
+          "uz": "kurs",
+          "tg": "курс",
+          "id": "kursus",
+          "tr": "kurs"
         }
       },
       {
@@ -781,7 +861,12 @@
         "meaning": {
           "zh": "",
           "ru": "практика",
-          "en": "internship"
+          "en": "internship",
+          "tk": "tejribe",
+          "uz": "amaliyot",
+          "tg": "таҷрибаомӯзӣ",
+          "id": "magang",
+          "tr": "staj"
         }
       },
       {
@@ -790,7 +875,12 @@
         "meaning": {
           "zh": "",
           "ru": "образование (уровень)",
-          "en": "academic qualification"
+          "en": "academic qualification",
+          "tk": "bilim derejesi",
+          "uz": "ma'lumoti",
+          "tg": "таҳсилот",
+          "id": "kualifikasi akademik",
+          "tr": "eğitim durumu"
         }
       },
       {
@@ -799,7 +889,12 @@
         "meaning": {
           "zh": "",
           "ru": "бакалавриат",
-          "en": "undergraduate"
+          "en": "undergraduate",
+          "tk": "bakalawr",
+          "uz": "bakalavr",
+          "tg": "бакалавр",
+          "id": "sarjana",
+          "tr": "lisans"
         }
       },
       {
@@ -808,7 +903,12 @@
         "meaning": {
           "zh": "",
           "ru": "наука, наука академическая",
-          "en": "academic"
+          "en": "academic",
+          "tk": "akademik",
+          "uz": "akademik",
+          "tg": "академикӣ",
+          "id": "akademik",
+          "tr": "akademik"
         }
       },
       {
@@ -817,7 +917,12 @@
         "meaning": {
           "zh": "",
           "ru": "знания, учёность",
-          "en": "learning, knowledge"
+          "en": "learning, knowledge",
+          "tk": "bilim, okuw",
+          "uz": "bilim, ilm",
+          "tg": "дониш, илм",
+          "id": "ilmu, pengetahuan",
+          "tr": "bilgi, ilim"
         }
       },
       {
@@ -826,7 +931,12 @@
         "meaning": {
           "zh": "",
           "ru": "теория",
-          "en": "theory"
+          "en": "theory",
+          "tk": "teoriýa",
+          "uz": "nazariya",
+          "tg": "назария",
+          "id": "teori",
+          "tr": "teori"
         }
       },
       {
@@ -835,7 +945,12 @@
         "meaning": {
           "zh": "",
           "ru": "материалы",
-          "en": "materials"
+          "en": "materials",
+          "tk": "maglumatlar",
+          "uz": "ma'lumotlar",
+          "tg": "маълумот",
+          "id": "materi",
+          "tr": "materyaller"
         }
       },
       {
@@ -844,7 +959,12 @@
         "meaning": {
           "zh": "",
           "ru": "править, исправлять",
-          "en": "to revise"
+          "en": "to revise",
+          "tk": "üýtgetmek",
+          "uz": "o'zgartirmoq",
+          "tg": "тағйир додан",
+          "id": "memodifikasi",
+          "tr": "değiştirmek"
         }
       },
       {
@@ -853,7 +973,12 @@
         "meaning": {
           "zh": "",
           "ru": "публиковать",
-          "en": "to publish"
+          "en": "to publish",
+          "tk": "çap etmek",
+          "uz": "e'lon qilmoq",
+          "tg": "нашр кардан",
+          "id": "menerbitkan",
+          "tr": "yayımlamak"
         }
       }
     ]
@@ -862,17 +987,22 @@
     "discussion": {
       "zh": "子女教育：在学习问题上，你和父母有过争吵吗？你和父母交流时，你感觉你们是平等的吗？当你遇到问题或犯了错误时，父母是怎么帮助你的？举例说明。",
       "ru": "Воспитание детей: ссорились ли вы с родителями из-за учёбы? Чувствуете ли вы равенство в общении с ними? Как они помогали вам в трудностях? Приведите пример.",
-      "tk": "",
+      "tk": "Çagalaryň terbiýesi: okuw sebäpli ene-ataňyz bilen jedelleşdiňizmi? Olar bilen gürleşeniňizde deňligi duýýarsyňyzmy? Kynçylyklarda olar size nähili kömek etdiler? Bir mysal getiriň.",
       "en": "Children's education: have you quarrelled with your parents about studies? Do you feel equal when talking to them? How did they help when you had problems? Give examples.",
-      "uz": "",
-      "tg": "",
-      "id": "",
-      "tr": ""
+      "uz": "Bolalarni tarbiyalash: o'qish sababli ota-onangiz bilan janjallashganmisiz? Ular bilan muloqotda o'zingizni teng his qilasizmi? Qiyinchiliklarda ular sizga qanday yordam berdi? Misol keltiring.",
+      "tg": "Тарбияи фарзандон: оё шумо бо волидонатон барои таҳсил ҷанҷол кардаед? Оё шумо дар муошират бо онҳо баробарӣ ҳис мекунед? Онҳо дар душвориҳо ба шумо чӣ гуна кӯмак карданд? Мисол оред.",
+      "id": "Pengasuhan anak: apakah Anda pernah bertengkar dengan orang tua karena belajar? Apakah Anda merasa setara saat berkomunikasi dengan mereka? Bagaimana mereka membantu Anda dalam kesulitan? Berikan contoh.",
+      "tr": "Çocuk yetiştirme: dersler yüzünden anne babanızla tartıştınız mı? Onlarla iletişimde eşitlik hissediyor musunuz? Zorluklarda size nasıl yardım ettiler? Bir örnek verin."
     },
     "writing_prompt": {
       "zh": "请以“我想对父母说的是……”为题，谈谈你和父母之间的关系。尽量用上本课所学的生词，字数不少于100字。",
       "ru": "Напишите эссе на тему «Что я хочу сказать родителям...», используя слова урока, не менее 100 иероглифов.",
-      "en": "Write an essay titled 'What I want to say to my parents...', using this lesson's vocabulary, at least 100 characters."
+      "en": "Write an essay titled 'What I want to say to my parents...', using this lesson's vocabulary, at least 100 characters.",
+      "tk": "«Ene-atama aýtmak isleýän zadym...» atly tema boýunça sapagyň sözlerini ulanyp, azyndan 100 iýeroglifden ybarat esse ýazyň.",
+      "uz": "«Ota-onamga aytmoqchi bo'lganlarim...» mavzusida dars so'zlaridan foydalanib, kamida 100 ieroglifdan iborat insho yozing.",
+      "tg": "Дар мавзӯи «Он чизе, ки мехоҳам ба волидонам гӯям...» бо истифода аз калимаҳои дарс, на камтар аз 100 иероглиф иншо нависед.",
+      "id": "Tulislah esai dengan tema «Apa yang ingin saya katakan kepada orang tua...» dengan menggunakan kosakata pelajaran ini, minimal 100 karakter.",
+      "tr": "«Aileme söylemek istediklerim...» konulu, dersin kelimelerini kullanarak en az 100 karakterlik bir kompozisyon yazın."
     }
   },
   "workbook": {

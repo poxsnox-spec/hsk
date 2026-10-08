@@ -2,12 +2,12 @@
   "title": {
     "zh": "给自己加满水",
     "ru": "Наполнить себя водой",
-    "tk": "",
+    "tk": "Özüňi suwdan doldurmak",
     "en": "Adding up the load on yourself",
-    "uz": "",
-    "tg": "",
-    "id": "",
-    "tr": ""
+    "uz": "O'zingizni suv bilan to'ldirish",
+    "tg": "Худатонро аз об пур кардан",
+    "id": "Mengisi diri sendiri dengan air",
+    "tr": "Kendini suyla doldurmak"
   },
   "audio_files": {
     "textbook_1": "textbook_25_1.mp3",
@@ -18,12 +18,12 @@
     "question": {
       "zh": "你听说过“有压力才会有动力”这句话吗？你是否同意这种观点？为什么？",
       "ru": "Слышали ли вы выражение «есть давление — есть и стимул»? Согласны ли вы? Почему?",
-      "tk": "",
+      "tk": "«Basyş bar — höwes hem bar» diýen jümläni eşitdiňizmi? Razymysyňyz? Näme üçin?",
       "en": "Have you heard 'pressure creates motivation'? Do you agree? Why?",
-      "uz": "",
-      "tg": "",
-      "id": "",
-      "tr": ""
+      "uz": "«Bosim bor — rag'bat ham bor» degan iborani eshitganmisiz? Rozimisiz? Nega?",
+      "tg": "Оё ибораи «фишор ҳаст — ҳавас ҳам ҳаст»-ро шунидаед? Розӣ ҳастед? Чаро?",
+      "id": "Pernahkah Anda mendengar ungkapan «ada tekanan — ada pula dorongan»? Apakah Anda setuju? Mengapa?",
+      "tr": "«Baskı varsa teşvik de vardır» sözünü duydunuz mu? Katılıyor musunuz? Neden?"
     },
     "answers": [
       "返航"
@@ -33,7 +33,7 @@
   "text_translation": {
     "zh": "",
     "ru": "У одного опытного старого капитана во время возвращения из плавания погода была суровой, и корабль попал в страшный шторм. Когда матросы в панике не знали, что делать, старый капитан приказал немедленно открыть трюм и изо всех сил заливать туда воду.\n«Капитан просто сошёл с ума: это только увеличит нагрузку, корабль быстрее пойдёт ко дну — разве это не самоубийство?» — выругался молодой матрос. Но, увидев серьёзное лицо капитана, матросы всё же выполнили приказ. По мере того как уровень воды в трюме поднимался, корабль медленно оседал, но яростные волны и ураганный ветер уже не так угрожали ему — судно постепенно обрело равновесие. Глядя на вздохнувших с облегчением матросов, капитан сказал: «Многотонные стальные гиганты редко опрокидываются; опрокидываются обычно лёгкие, с малой осадкой суда. Корабль наиболее безопасен при определённом весе и наиболее опасен пустым».\nПохожая история произошла в одном живописном районе, где есть самый опасный участок, прозванный местными «ущельем духов»: горная тропа очень узкая, по обе стороны — бездонные пропасти. Когда экскурсоводы ведут туристов, они обязательно велят им что-нибудь нести или взять в руки. «В таком опасном месте у меня и без ноши ноги дрожат, а если ещё с грузом — разве не легче упасть?» — недоумевала одна женщина. Экскурсовод объяснила: «Здесь раньше случались происшествия — потерявшиеся туристы, не чувствуя никакого давления, неосторожно скатывались вниз. Местные жители каждый день ходят по этой тропе с грузом туда и обратно, но никто не пострадал. Если вы чувствуете риск и осторожно идёте с грузом, вам, наоборот, безопаснее».\nЭто и есть «эффект давления». Только те, у кого в груди мечта и на плечах чувство ответственности, способны выдержать давление и пройти сквозь бури истории «ущелье духов»; а те, у кого нет мечты, нет ни малейшего давления, кто живёт «день прошёл — и ладно», подобны пустому судну в шторме — и любая буря жизни полностью опрокинет их.",
-    "tk": "",
+    "tk": "Bir tejribeli garry kapitan bir gezek yzyna gaýdýarka howa ýamanlaşyp, gämileri gorkunç äpet tupan-şemala duş geldi. Deňizçiler näme etjegini bilmän howlukmaçlyk edýärkäler, garry kapitan deňizçilere derrew ýük ammaryny açyp, içine baryny edip suw guýmagy buýurdy.\n«Kapitan düýbünden däli bolmaly, bu diňe gämä agram goşup, gämini has çalt gark eder, bu özüni öldürmek dälmi?» diýip, bir ýaş deňizçi sögündi. Kapitanyň çynlakaý ýüzüni görüp, deňizçiler ýene-de buýrugy ýerine ýetirdiler. Ammardaky suwuň derejesi ýokarlanýarka, gämi kem-kemden çümýärdi, gazaply tupan-şemal bolsa öňküsi ýaly güýçli bolsa-da, gämä howpy azaldy we gämi kem-kemden deňagramlylyga geldi. Ýeňillik bilen dem alan deňizçilere seredip, kapitan şeýle diýdi: «Birnäçe müň tonnalyk polat äpet gämiler seýrek agdarylýar, agdarylýanlar köplenç düýbi ýeňil kiçi gämilerdir. Gämi belli bir agramy bolanda iň howpsuz, boş bolanda bolsa iň howplydyr.»\nBaşga bir meňzeş waka bir görnüşli seýilgähde bolup geçdi, ol ýerde ýerli halkyň «arwah jülgesi» diýip atlandyrýan iň howply ýol bölegi bar, dag ýoly örän dar, iki tarapy hem düýpsiz uçurymlar. Gidler toparlary bu ýere gezelenje alyp gelende, hökman syýahatçylara bir zat götermegi ýa-da tutmagy buýurýarlar. «Şeýle howply ýerde men hiç zat götermesem-de aýagym titreýär, üstüne ýene ýük götersem, has çalt ýykylyp bilmezmi?» diýip, bir aýal düşünmän sorady. Gid hanym düşündirdi: «Bu ýerde öň birnäçe waka bolupdy, olaryň hemmesi ýitiren syýahatçylaryň hiç hili basyş duýman, bilmän aşak togalanyp gidenleridir. Ýerli halk her gün bu ýoldan ýük göterip gelip-gidýär, ýöne hiç kim heläk bolmady. Eger sen howpy duýsaň, seresaplylyk bilen ýük göterip ýöreseň, gaýtam howpsuz bolarsyň.»\nBu «basyş effekti»dir. Diňe ýüreginde arzuwy we egninde jogapkärçilik duýgusy bolanlar basyşa çydap, taryhyň «arwah jülgesinden» geçip bilýärler; arzuwy bolmadyk, hiç hili basyşy duýmadyk, «gün geçdi, jaň kak» diýip ýaşaýanlar bolsa tupandaky boş gämi ýalydyr — durmuşyň islendik tupany olary düýbünden agdarar.",
     "en": "An experienced old captain was returning from a voyage when the weather turned bad and the ship met a terrible storm. Just as the sailors were panicking, unsure what to do, the old captain ordered them to open the cargo hold at once and pour water in with all their might.\n'The captain has gone mad — this will only add weight and sink us faster. Isn't this suicide?' cursed a young sailor. But seeing the captain's serious face, the sailors obeyed. As the water level in the hold rose, the ship slowly sank lower, but the howling wind and waves threatened it less and less — the vessel gradually regained balance. Looking at the relieved sailors, the captain said: 'Multi-ton steel giants are rarely capsized; it's usually light, shallow-keeled boats that overturn. A ship is safest with a certain weight and most dangerous when empty.'\nA similar story took place at a scenic spot where there is a most dangerous stretch called by locals 'Ghost Valley' — a very narrow mountain path flanked by bottomless abysses. Whenever guides lead tour groups here, they always make visitors carry or hold something. 'In such a dangerous place my legs tremble even without a load — with extra weight, wouldn't I fall more easily?' asked a puzzled woman. The guide explained: 'Several accidents happened here before — lost tourists, feeling no pressure at all, carelessly rolled down. Locals pass this path daily carrying loads back and forth, yet no one has ever had an accident. If you sense the risk and cautiously walk with a load, you'll actually be safer.'\nThis is the 'pressure effect.' Only those with ideals in their hearts and a sense of responsibility on their shoulders can withstand pressure and pass through the 'Ghost Valley' of history's storms; those without ideals and with no pressure at all — those who 'live as a monk for a day and toll the bell for a day' — are like empty ships in a storm; a single wild wave of life will overturn them completely.",
     "uz": "",
     "tg": "",
@@ -48,12 +48,12 @@
       "meaning": {
         "zh": "",
         "ru": "возвращаться из плавания",
-        "tk": "",
+        "tk": "yzyna gaýtmak",
         "en": "to be on the homeward voyage",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qaytish",
+        "tg": "бозгашт",
+        "id": "kembali ke pangkalan",
+        "tr": "geri dönüş"
       }
     },
     {
@@ -63,12 +63,12 @@
       "meaning": {
         "zh": "",
         "ru": "суровый, скверный",
-        "tk": "",
+        "tk": "erbet, ýaman",
         "en": "bad, vile",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yomon, qabih",
+        "tg": "бад, разил",
+        "id": "buruk, keji",
+        "tr": "kötü, alçak"
       }
     },
     {
@@ -78,12 +78,12 @@
       "meaning": {
         "zh": "",
         "ru": "страшный, ужасный",
-        "tk": "",
+        "tk": "gorkunç",
         "en": "terrible, dreadful",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qo'rqinchli",
+        "tg": "даҳшатнок",
+        "id": "mengerikan",
+        "tr": "korkunç"
       }
     },
     {
@@ -93,12 +93,12 @@
       "meaning": {
         "zh": "",
         "ru": "шторм, буря",
-        "tk": "",
+        "tk": "tupan, tolkun",
         "en": "storm, stormy waves",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "bo'ron, to'lqin",
+        "tg": "тӯфон, мавҷ",
+        "id": "badai, gelombang",
+        "tr": "fırtına, dalga"
       }
     },
     {
@@ -108,12 +108,12 @@
       "meaning": {
         "zh": "",
         "ru": "растерянный",
-        "tk": "",
+        "tk": "aljyraňňy",
         "en": "flurried, flustered",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "hovliqqan",
+        "tg": "ҳайрон",
+        "id": "panik",
+        "tr": "telaşlı"
       }
     },
     {
@@ -123,12 +123,12 @@
       "meaning": {
         "zh": "",
         "ru": "каюта, трюм",
-        "tk": "",
+        "tk": "kabina",
         "en": "cabin",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "kabina",
+        "tg": "кабина",
+        "id": "kabin",
+        "tr": "kabin"
       }
     },
     {
@@ -138,12 +138,12 @@
       "meaning": {
         "zh": "",
         "ru": "изо всех сил",
-        "tk": "",
+        "tk": "güýçli",
         "en": "to exert oneself",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "kuch bilan",
+        "tg": "бо тамоми қувва",
+        "id": "dengan sekuat tenaga",
+        "tr": "var gücüyle"
       }
     },
     {
@@ -153,12 +153,12 @@
       "meaning": {
         "zh": "",
         "ru": "в сторону, к",
-        "tk": "",
+        "tk": "tarap",
         "en": "towards",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tomon",
+        "tg": "тараф",
+        "id": "menuju",
+        "tr": "doğru"
       }
     },
     {
@@ -168,12 +168,12 @@
       "meaning": {
         "zh": "",
         "ru": "просто, прямо",
-        "tk": "",
+        "tk": "diýen ýaly, bütinleý",
         "en": "simply, virtually",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "deyarli, butunlay",
+        "tg": "тамоман, айнан",
+        "id": "sama sekali, benar-benar",
+        "tr": "neredeyse, tamamen"
       }
     },
     {
@@ -183,12 +183,12 @@
       "meaning": {
         "zh": "",
         "ru": "тонуть, опускаться",
-        "tk": "",
+        "tk": "çökmek, batmak",
         "en": "to sink",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "cho'kmoq, botmoq",
+        "tg": "ғарқ шудан, фурӯ рафтан",
+        "id": "tenggelam, terbenam",
+        "tr": "batmak, çökmek"
       }
     },
     {
@@ -198,12 +198,12 @@
       "meaning": {
         "zh": "",
         "ru": "серьёзный, строгий",
-        "tk": "",
+        "tk": "çynlakaý, düşnükli",
         "en": "serious, solemn",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "jiddiy, qat'iy",
+        "tg": "ҷиддӣ, сахтгир",
+        "id": "serius, khidmat",
+        "tr": "ciddi, ağırbaşlı"
       }
     },
     {
@@ -213,12 +213,12 @@
       "meaning": {
         "zh": "",
         "ru": "яростный, сильный",
-        "tk": "",
+        "tk": "güýçli, gazaply",
         "en": "strong, violent, fierce",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "kuchli, shiddatli",
+        "tg": "пурзӯр, шадид",
+        "id": "kuat, dahsyat",
+        "tr": "şiddetli, güçlü"
       }
     },
     {
@@ -228,12 +228,12 @@
       "meaning": {
         "zh": "",
         "ru": "бешеный, необузданный",
-        "tk": "",
+        "tk": "deli, göwniçöwlen",
         "en": "wildly, unrestrainedly",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "telba, to'polon",
+        "tg": "девона, бесарусомон",
+        "id": "liar, tak terkendali",
+        "tr": "çılgın, azgın"
       }
     },
     {
@@ -243,12 +243,12 @@
       "meaning": {
         "zh": "",
         "ru": "угрожать",
-        "tk": "",
+        "tk": "haýbat atmak",
         "en": "to threaten",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tahdid qilmoq",
+        "tg": "таҳдид кардан",
+        "id": "mengancam",
+        "tr": "tehdit etmek"
       }
     },
     {
@@ -258,12 +258,12 @@
       "meaning": {
         "zh": "",
         "ru": "равновесный",
-        "tk": "",
+        "tk": "deňagramlylyk",
         "en": "balanced",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "muvozanat",
+        "tg": "мувозинат",
+        "id": "keseimbangan",
+        "tr": "denge"
       }
     },
     {
@@ -273,12 +273,12 @@
       "meaning": {
         "zh": "",
         "ru": "тонна",
-        "tk": "",
+        "tk": "tonna",
         "en": "metric ton",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tonna",
+        "tg": "тонна",
+        "id": "ton",
+        "tr": "ton"
       }
     },
     {
@@ -288,12 +288,12 @@
       "meaning": {
         "zh": "",
         "ru": "сталь",
-        "tk": "",
+        "tk": "polat",
         "en": "steel",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "po'lat",
+        "tg": "пӯлод",
+        "id": "baja",
+        "tr": "çelik"
       }
     },
     {
@@ -303,12 +303,12 @@
       "meaning": {
         "zh": "",
         "ru": "основа, фундамент",
-        "tk": "",
+        "tk": "esas, binýat",
         "en": "basis, foundation",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "asos, poydevor",
+        "tg": "асос, поя",
+        "id": "dasar, fondasi",
+        "tr": "temel, esas"
       }
     },
     {
@@ -318,12 +318,12 @@
       "meaning": {
         "zh": "",
         "ru": "вес",
-        "tk": "",
+        "tk": "agram",
         "en": "weight",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "og'irlik",
+        "tg": "вазн",
+        "id": "berat",
+        "tr": "ağırlık"
       }
     },
     {
@@ -333,12 +333,12 @@
       "meaning": {
         "zh": "",
         "ru": "похожий",
-        "tk": "",
+        "tk": "meňzeş",
         "en": "similar",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "o'xshash",
+        "tg": "монанд",
+        "id": "mirip",
+        "tr": "benzer"
       }
     },
     {
@@ -348,12 +348,12 @@
       "meaning": {
         "zh": "",
         "ru": "пейзаж",
-        "tk": "",
+        "tk": "peýzaž",
         "en": "scenery, view",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "manzara",
+        "tg": "манзара",
+        "id": "pemandangan",
+        "tr": "manzara"
       }
     },
     {
@@ -363,12 +363,12 @@
       "meaning": {
         "zh": "",
         "ru": "узкий",
-        "tk": "",
+        "tk": "dar",
         "en": "narrow",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tor",
+        "tg": "танг",
+        "id": "sempit",
+        "tr": "dar"
       }
     },
     {
@@ -378,12 +378,12 @@
       "meaning": {
         "zh": "",
         "ru": "бездонный, огромной высоты",
-        "tk": "",
+        "tk": "beýik, çuň",
         "en": "lofty, bottomless",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "baland, tubsiz",
+        "tg": "баланд, бепоён",
+        "id": "tinggi menjulang, tak berdasar",
+        "tr": "yüce, dipsiz"
       }
     },
     {
@@ -393,12 +393,12 @@
       "meaning": {
         "zh": "",
         "ru": "пропасть, бездна",
-        "tk": "",
+        "tk": "çukur, düýpsüz",
         "en": "abyss, bottomless pit",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tubanlik, chuqurlik",
+        "tg": "партгоҳ, бепоён",
+        "id": "jurang, dasar tanpa dasar",
+        "tr": "uçurum, dipsiz kuyu"
       }
     },
     {
@@ -408,12 +408,12 @@
       "meaning": {
         "zh": "",
         "ru": "осматривать, посещать",
-        "tk": "",
+        "tk": "gezmek, görmek",
         "en": "to visit, to tour",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tomosha qilmoq, sayr qilmoq",
+        "tg": "сайр кардан, тамошо кардан",
+        "id": "mengunjungi, berkeliling",
+        "tr": "gezmek, ziyaret etmek"
       }
     },
     {
@@ -423,12 +423,12 @@
       "meaning": {
         "zh": "",
         "ru": "дрожать",
-        "tk": "",
+        "tk": "titremek",
         "en": "to tremble, to shiver",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "titramoq",
+        "tg": "ларзидан",
+        "id": "gemetar",
+        "tr": "titremek"
       }
     },
     {
@@ -438,12 +438,12 @@
       "meaning": {
         "zh": "",
         "ru": "нести груз",
-        "tk": "",
+        "tk": "ýük götermek",
         "en": "to bear a load or weight",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yuk ko'tarmoq",
+        "tg": "бор бардоштан",
+        "id": "memikul beban",
+        "tr": "yük taşımak"
       }
     },
     {
@@ -453,12 +453,12 @@
       "meaning": {
         "zh": "",
         "ru": "упасть",
-        "tk": "",
+        "tk": "ýykylyp gaçmak",
         "en": "to fall down, to tumble",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yiqilib tushmoq",
+        "tg": "афтодан",
+        "id": "jatuh",
+        "tr": "düşmek"
       }
     },
     {
@@ -468,12 +468,12 @@
       "meaning": {
         "zh": "",
         "ru": "женщина",
-        "tk": "",
+        "tk": "aýal",
         "en": "woman",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ayol",
+        "tg": "зан",
+        "id": "wanita",
+        "tr": "kadın"
       }
     },
     {
@@ -483,12 +483,12 @@
       "meaning": {
         "zh": "",
         "ru": "счётное слово для случаев",
-        "tk": "",
+        "tk": "hasap sözi (waka üçin)",
         "en": "case, instance",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "hisob so'zi (holat uchun)",
+        "tg": "калимаи шумориш барои ҳолатҳо",
+        "id": "kata bantu bilangan untuk kejadian",
+        "tr": "olaylar için sınıflandırıcı"
       }
     },
     {
@@ -498,12 +498,12 @@
       "meaning": {
         "zh": "",
         "ru": "ни малейший",
-        "tk": "",
+        "tk": "asla, zerre",
         "en": "slightest, at all",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "aslo, zarracha",
+        "tg": "ҳеҷ, зарра",
+        "id": "sedikit pun, sama sekali",
+        "tr": "hiç, zerre"
       }
     },
     {
@@ -513,12 +513,12 @@
       "meaning": {
         "zh": "",
         "ru": "катиться",
-        "tk": "",
+        "tk": "togalanmak",
         "en": "to roll, to tumble",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "dumalash",
+        "tg": "ғелтидан",
+        "id": "berguling",
+        "tr": "yuvarlanmak"
       }
     },
     {
@@ -528,12 +528,12 @@
       "meaning": {
         "zh": "",
         "ru": "риск",
-        "tk": "",
+        "tk": "töwekgelçilik",
         "en": "risk",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "xavf",
+        "tg": "хатар",
+        "id": "risiko",
+        "tr": "risk"
       }
     },
     {
@@ -543,12 +543,12 @@
       "meaning": {
         "zh": "",
         "ru": "осмотрительный",
-        "tk": "",
+        "tk": "ätiýaçly",
         "en": "cautious, prudent",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ehtiyotkor",
+        "tg": "эҳтиёткор",
+        "id": "hati-hati",
+        "tr": "ihtiyatlı"
       }
     },
     {
@@ -558,12 +558,12 @@
       "meaning": {
         "zh": "",
         "ru": "эффект",
-        "tk": "",
+        "tk": "täsir",
         "en": "effect",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ta'sir",
+        "tg": "таъсир",
+        "id": "efek",
+        "tr": "etki"
       }
     },
     {
@@ -573,12 +573,12 @@
       "meaning": {
         "zh": "",
         "ru": "грудь",
-        "tk": "",
+        "tk": "döş",
         "en": "chest, bosom",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ko'krak",
+        "tg": "сина",
+        "id": "dada",
+        "tr": "göğüs"
       }
     },
     {
@@ -588,12 +588,12 @@
       "meaning": {
         "zh": "",
         "ru": "выдерживать, выносить",
-        "tk": "",
+        "tk": "çydamak, götermek",
         "en": "to bear, to endure",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "chidamoq, toqat qilmoq",
+        "tg": "таҳаммул кардан, тоб овардан",
+        "id": "menanggung, menahan",
+        "tr": "katlanmak, dayanmak"
       }
     },
     {
@@ -603,12 +603,12 @@
       "meaning": {
         "zh": "",
         "ru": "буддийский монах",
-        "tk": "",
+        "tk": "buddist monah",
         "en": "Buddhist monk",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "buddist rohib",
+        "tg": "роҳиби буддоӣ",
+        "id": "biksu Buddha",
+        "tr": "Budist rahip"
       }
     },
     {
@@ -618,12 +618,12 @@
       "meaning": {
         "zh": "",
         "ru": "колокол; часы",
-        "tk": "",
+        "tk": "jaň; sagat",
         "en": "bell",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qo'ng'iroq; soat",
+        "tg": "занг; соат",
+        "id": "lonceng; jam",
+        "tr": "çan; saat"
       }
     },
     {
@@ -633,12 +633,12 @@
       "meaning": {
         "zh": "",
         "ru": "полный, окончательный",
-        "tk": "",
+        "tk": "doly, düýbünden",
         "en": "thorough, complete",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "to'liq, butunlay",
+        "tg": "пурра, комил",
+        "id": "menyeluruh, sepenuhnya",
+        "tr": "tamamen, eksiksiz"
       }
     }
   ],
@@ -648,27 +648,52 @@
       "pos": "v./prep.",
       "explanation": {
         "ru": "«朝» как глагол — «обращённый лицом к чему-то». Как предлог — «в сторону, по направлению к». В отличие от «向» не может быть послеслогом (complement).",
-        "en": "«朝» as a verb means 'facing'. As a preposition — 'towards'. Unlike «向», it cannot be used as a complement."
+        "en": "«朝» as a verb means 'facing'. As a preposition — 'towards'. Unlike «向», it cannot be used as a complement.",
+        "tk": "«朝» işlik hökmünde — «bir zada ýüzüni öwüren». Prepozisiýa hökmünde — «tarapa, bir zada tarap». «向»-dan tapawutlylykda, ol postlog (complement) bolup bilmeýär.",
+        "uz": "«朝» fe'l sifatida — «bir narsaga yuzlangan». Predlog sifatida — «tomon, bir narsaga qarab». «向» dan farqli o'laroq, u postlog (complement) bo'la olmaydi.",
+        "tg": "«朝» ҳамчун феъл — «рӯ ба чизе карда». Ҳамчун пешоянд — «ба тараф, ба сӯи чизе». Баръакси «向», он наметавонад пасоянд (complement) бошад.",
+        "id": "«朝» sebagai kata kerja berarti 'menghadap ke sesuatu'. Sebagai preposisi — 'ke arah, menuju sesuatu'. Berbeda dengan «向», kata ini tidak dapat digunakan sebagai pelengkap (complement).",
+        "tr": "«朝» fiil olarak — 'bir şeye yüzü dönük' anlamına gelir. Edat olarak — 'doğru, bir şeye yönelik'. «向» dan farklı olarak, son ek (complement) olarak kullanılamaz."
       },
       "formula": {
         "ru": "朝 + место/направление + глагол",
-        "en": "朝 + place/direction + verb"
+        "en": "朝 + place/direction + verb",
+        "tk": "朝 + ýer/ugur + işlik",
+        "uz": "朝 + joy/yo'nalish + fe'l",
+        "tg": "朝 + ҷой/самт + феъл",
+        "id": "朝 + tempat/arah + kata kerja",
+        "tr": "朝 + yer/yön + fiil"
       },
       "examples": [
         {
           "zh": "我们学校的正门坐西朝东。",
           "ru": "Главные ворота нашей школы обращены на восток.",
-          "en": "Our school's main gate faces east."
+          "en": "Our school's main gate faces east.",
+          "tk": "Mekdebimiziň baş derwezesi gün dogýan tarapa bakýar.",
+          "uz": "Maktabimizning asosiy darvozasi sharqqa qaragan.",
+          "tg": "Дарвозаи асосии мактаби мо ба тарафи шарқ нигаронида шудааст.",
+          "id": "Gerbang utama sekolah kami menghadap ke timur.",
+          "tr": "Okulumuzun ana kapısı doğuya bakıyor."
         },
         {
           "zh": "老船长命令水手们立刻打开货舱，使劲儿朝里面放水。",
           "ru": "Старый капитан приказал матросам немедленно открыть трюм и изо всех сил заливать туда воду.",
-          "en": "The old captain ordered the sailors to open the hold and pour water in with all their might."
+          "en": "The old captain ordered the sailors to open the hold and pour water in with all their might.",
+          "tk": "Garram kapitan deňizçilere derrew ýük ammaryny açmagy we ol ýere baryp bolan güýji bilen suw guýmagy buýurdy.",
+          "uz": "Keksa kapitan dengizchilarga darhol yuk omborini ochishni va unga bor kuchi bilan suv quyishni buyurdi.",
+          "tg": "Капитани пир ба дарёнавардон фармон дод, ки фавран анбори борро кушоянд ва бо тамоми қувва ба даруни он об резанд.",
+          "id": "Kapten tua itu memerintahkan para pelaut untuk segera membuka palka dan menuangkan air ke dalamnya dengan sekuat tenaga.",
+          "tr": "Yaşlı kaptan, denizcilere derhal ambarı açmalarını ve var güçleriyle içine su dökmelerini emretti."
         },
         {
           "zh": "我仿佛看到胜利正朝我们走来。",
           "ru": "Мне казалось, сама победа идёт нам навстречу.",
-          "en": "It seemed victory itself was walking towards us."
+          "en": "It seemed victory itself was walking towards us.",
+          "tk": "Men ýeňşiň bize tarap gelýändigini görýän ýaly boldum.",
+          "uz": "Men go‘yoki g‘alabaning bizga qarab kelayotganini ko‘rdim.",
+          "tg": "Ман гӯё пирӯзиро дидам, ки ба сӯи мо меояд.",
+          "id": "Seolah-olah aku melihat kemenangan sedang menghampiri kami.",
+          "tr": "Sanki zaferin bize doğru geldiğini görüyordum."
         }
       ],
       "exercises": [
@@ -684,23 +709,43 @@
       "pos": "adv.",
       "explanation": {
         "ru": "«简直» — наречие, «прямо, буквально, просто». Выражает близость к полному сходству, но не полное сходство. С оттенком восклицания, подчёркивания.",
-        "en": "«简直» is an adverb meaning 'simply, literally, virtually'. Expresses near-complete similarity. Has an emphatic, exclamatory tone."
+        "en": "«简直» is an adverb meaning 'simply, literally, virtually'. Expresses near-complete similarity. Has an emphatic, exclamatory tone.",
+        "tk": "«简直» — bu bir rahatlyk, «göni, sözme-söz, diňe». Doly meňzeşlige ýakynlygy, ýöne doly meňzeşligi däl. Ünsi çekmek we haýran galmak äheňi bilen.",
+        "uz": "«简直» — bu ravish, «to'g'ridan-to'g'ri, so'zma-so'z, shunchaki». To'liq o'xshashlikka yaqinlikni, lekin to'liq o'xshashlikni emas. Hayrat va ta'kid ohangi bilan.",
+        "tg": "«简直» — ин зарф аст, «мустақим, ҳарф ба ҳарф, танҳо». Наздикии ба монандии пурраро ифода мекунад, аммо на монандии пурра. Бо оҳанги тааҷҷуб ва таъкид.",
+        "id": "«简直» adalah kata keterangan yang berarti 'benar-benar, secara harfiah, sungguh'. Mengungkapkan kedekatan dengan kesamaan yang hampir sempurna, tetapi bukan kesamaan yang sepenuhnya. Dengan nada seru dan penekanan.",
+        "tr": "«简直» bir zarftır, «adeta, harfiyen, sadece» anlamına gelir. Tam benzerliğe yakınlığı ifade eder, ancak tam benzerliği değil. Vurgu ve hayret tonu taşır."
       },
       "examples": [
         {
           "zh": "听到刘方离婚的消息时，我简直不敢相信自己的耳朵。",
           "ru": "Услышав о разводе Лю Фана, я просто не поверил своим ушам.",
-          "en": "Hearing that Liu Fang had divorced, I simply couldn't believe my ears."
+          "en": "Hearing that Liu Fang had divorced, I simply couldn't believe my ears.",
+          "tk": "Liu Fangyň aýrylyşandygy baradaky habary eşidip, gulaklaryma ynanmadym.",
+          "uz": "Liu Fangning ajrashgani haqidagi xabarni eshitib, quloqlarimga ishonmadim.",
+          "tg": "Вақте ки хабари талоқи Лю Фангро шунидам, ба гӯшҳоям бовар карда натавонистам.",
+          "id": "Ketika mendengar kabar perceraian Liu Fang, saya sungguh tidak percaya pada telinga saya sendiri.",
+          "tr": "Liu Fang'ın boşandığı haberini duyduğumda kulaklarıma inanamadım."
         },
         {
           "zh": "这次张小姐变得格外客气、礼貌，与从前相比，简直像换了个人。",
           "ru": "На этот раз госпожа Чжан была особенно вежлива — по сравнению с прошлым она словно стала другим человеком.",
-          "en": "This time Miss Zhang was especially polite — she seemed like a completely different person."
+          "en": "This time Miss Zhang was especially polite — she seemed like a completely different person.",
+          "tk": "Bu gezek hanym Çžan aýratyn mylakatly we edepli boldy, öňki döwür bilen deňeşdireniňde, edil başga bir adama öwrülen ýalydy.",
+          "uz": "Bu safar janob Chjan nihoyatda muloyim va odobli bo‘ldi, avvalgiga qaraganda xuddi boshqa odamga aylangandek edi.",
+          "tg": "Ин дафъа хонум Чжан бағоят мулоим ва боназокат шуд, дар муқоиса бо пештар гӯё ба шахси дигар табдил ёфтааст.",
+          "id": "Kali ini Nona Zhang menjadi sangat sopan dan ramah, dibandingkan sebelumnya, seolah-olah berubah menjadi orang yang berbeda.",
+          "tr": "Bu sefer Bayan Zhang son derece nazik ve kibar davrandı; eskisine kıyasla sanki bambaşka bir insana dönüşmüştü."
         },
         {
           "zh": "船长简直是疯了。",
           "ru": "Капитан буквально сошёл с ума.",
-          "en": "The captain has simply gone mad."
+          "en": "The captain has simply gone mad.",
+          "tk": "Kapitan hut-ýok ýaly däli boldy.",
+          "uz": "Kapitan shunchaki aqldan ozgan.",
+          "tg": "Капитан комилан девона шудааст.",
+          "id": "Kapten itu benar-benar sudah gila.",
+          "tr": "Kaptan resmen delirmiş."
         }
       ],
       "exercises": [
@@ -718,16 +763,31 @@
       "word_b": "严格",
       "common": {
         "ru": "Оба прилагательных могут описывать строгость.",
-        "en": "Both adjectives can describe strictness."
+        "en": "Both adjectives can describe strictness.",
+        "tk": "Ciddi vs berk",
+        "uz": "Jiddiy vs qat'iy",
+        "tg": "Ҷиддӣ vs қатъӣ",
+        "id": "Serius vs ketat",
+        "tr": "Ciddi vs katı"
       },
       "differences": [
         {
           "ru": "«严肃» — «серьёзный, строгий (в выражении лица, в тоне)».",
-          "en": "«严肃» — 'serious, solemn (expression, tone)'."
+          "en": "«严肃» — 'serious, solemn (expression, tone)'.",
+          "tk": "«严肃» — «çynlakaý, berk (ýüz keşbinde, äheňde)».",
+          "uz": "«严肃» — «jiddiy, qattiq (yuz ifodasida, ohangda)».",
+          "tg": "«严肃» — «ҷиддӣ, сахт (дар чеҳра, дар оҳанг)».",
+          "id": "«严肃» — «serius, tegas (dalam ekspresi wajah, dalam nada)».",
+          "tr": "«严肃» — «ciddi, sert (yüz ifadesinde, tonda)»."
         },
         {
           "ru": "«严格» — «строгий, требовательный (к требованиям, правилам)».",
-          "en": "«严格» — 'strict, demanding (requirements, rules)'."
+          "en": "«严格» — 'strict, demanding (requirements, rules)'.",
+          "tk": "«严格» — «gaty, talap ediji (talap, düzgünlere)».",
+          "uz": "«严格» — «qat'iy, talabchan (talablar, qoidalar)».",
+          "tg": "«严格» — «қатъӣ, талабгор (ба талабот, қоидаҳо)».",
+          "id": "«严格» — «ketat, menuntut (persyaratan, aturan)».",
+          "tr": "«严格» — «katı, talepkâr (gereksinimler, kurallar)»."
         }
       ]
     }
@@ -736,7 +796,12 @@
     "topic": {
       "zh": "度量单位 (Единицы измерения)",
       "ru": "Единицы измерения",
-      "en": "Units of measurement"
+      "en": "Units of measurement",
+      "tk": "Ölçeg birlikleri",
+      "uz": "O'lchov birliklari",
+      "tg": "Воҳидҳои ченак",
+      "id": "Satuan ukuran",
+      "tr": "Ölçü birimleri"
     },
     "words": [
       {
@@ -745,7 +810,12 @@
         "meaning": {
           "zh": "",
           "ru": "сантиметр",
-          "en": "centimetre"
+          "en": "centimetre",
+          "tk": "santimetr",
+          "uz": "santimetr",
+          "tg": "сантиметр",
+          "id": "sentimeter",
+          "tr": "santimetre"
         }
       },
       {
@@ -754,7 +824,12 @@
         "meaning": {
           "zh": "",
           "ru": "грамм",
-          "en": "gram"
+          "en": "gram",
+          "tk": "gram",
+          "uz": "gramm",
+          "tg": "грамм",
+          "id": "gram",
+          "tr": "gram"
         }
       },
       {
@@ -763,7 +838,12 @@
         "meaning": {
           "zh": "",
           "ru": "квадратный (метр и т.п.)",
-          "en": "square (metre, etc.)"
+          "en": "square (metre, etc.)",
+          "tk": "kwadrat",
+          "uz": "kvadrat",
+          "tg": "мураббаъ",
+          "id": "persegi",
+          "tr": "kare"
         }
       },
       {
@@ -772,7 +852,12 @@
         "meaning": {
           "zh": "",
           "ru": "тонна",
-          "en": "tonne"
+          "en": "tonne",
+          "tk": "tonna",
+          "uz": "tonna",
+          "tg": "тонна",
+          "id": "ton",
+          "tr": "ton"
         }
       },
       {
@@ -781,7 +866,12 @@
         "meaning": {
           "zh": "",
           "ru": "линейка",
-          "en": "ruler"
+          "en": "ruler",
+          "tk": "çyzgyç",
+          "uz": "chizg'ich",
+          "tg": "хатчӣ",
+          "id": "penggaris",
+          "tr": "cetvel"
         }
       },
       {
@@ -790,7 +880,12 @@
         "meaning": {
           "zh": "",
           "ru": "клей",
-          "en": "glue"
+          "en": "glue",
+          "tk": "ýelim",
+          "uz": "yelim",
+          "tg": "ширеш",
+          "id": "lem",
+          "tr": "tutkal"
         }
       },
       {
@@ -799,7 +894,12 @@
         "meaning": {
           "zh": "",
           "ru": "канцтовары",
-          "en": "stationery"
+          "en": "stationery",
+          "tk": "kanselyariýa harytlary",
+          "uz": "kanselyariya buyumlari",
+          "tg": "лавозимоти канцелярӣ",
+          "id": "alat tulis",
+          "tr": "kırtasiye"
         }
       }
     ]
@@ -808,17 +908,22 @@
     "discussion": {
       "zh": "如何面对压力：目前你遇到的最大的压力来自哪方面？压力给你带来了什么影响？有什么好处和坏处？你觉得压力过大时，有什么好的减轻压力的办法吗？",
       "ru": "Как справляться со стрессом: откуда сейчас самый большой стресс? Какое влияние он оказывает? Плюсы и минусы? Как можно его снизить?",
-      "tk": "",
+      "tk": "Stress bilen nähili baş edilmeli: häzir iň uly stress nireden gelýär? Ol nähili täsir edýär? Peýdalary we zyýanlary? Ony nähili azaldyp bolýar?",
       "en": "Facing pressure: what's your biggest current source of stress? What impact does it have? Pros and cons? How do you relieve excessive stress?",
-      "uz": "",
-      "tg": "",
-      "id": "",
-      "tr": ""
+      "uz": "Stress bilan qanday kurashish kerak: hozir eng katta stress qayerdan keladi? U qanday ta'sir qiladi? Foydalari va zararlari? Uni qanday kamaytirish mumkin?",
+      "tg": "Чӣ тавр бо стресс мубориза бурдан мумкин: ҳозир калонтарин стресс аз куҷост? Он чӣ таъсир мерасонад? Фоидаҳо ва зиёнҳо? Чӣ тавр онро кам кардан мумкин?",
+      "id": "Cara mengatasi stres: dari mana stres terbesar saat ini? Apa dampaknya? Plus dan minusnya? Bagaimana cara menguranginya?",
+      "tr": "Stresle nasıl başa çıkılır: şu anda en büyük stres kaynağı nereden geliyor? Nasıl bir etkisi var? Artıları ve eksileri? Nasıl azaltılabilir?"
     },
     "writing_prompt": {
       "zh": "请以“我喜欢/不喜欢压力”为题，谈谈你的看法。尽量用上本课所学的生词，字数不少于100字。",
       "ru": "Напишите эссе на тему «Люблю / не люблю давление», используя слова урока, не менее 100 иероглифов.",
-      "en": "Write an essay titled 'I like / dislike pressure', using this lesson's vocabulary, at least 100 characters."
+      "en": "Write an essay titled 'I like / dislike pressure', using this lesson's vocabulary, at least 100 characters.",
+      "tk": "«Basyşy / basyşy halamok» atly tema boýunça, sapagyň sözlerini ulanyp, azyndan 100 iýeroglifden ybarat esse ýazyň.",
+      "uz": "«Bosimni yaxshi ko'raman / yoqtirmayman» mavzusida dars so'zlaridan foydalanib, kamida 100 iyeroglifdan iborat insho yozing.",
+      "tg": "Дар мавзӯи «Фишорро дӯст медорам / дӯст намедорам» бо истифода аз калимаҳои дарс, на камтар аз 100 иероглиф иншо нависед.",
+      "id": "Tulislah esai dengan tema «Saya suka / tidak suka tekanan» menggunakan kosakata pelajaran, tidak kurang dari 100 karakter Han.",
+      "tr": "«Baskıyı severim / sevmem» konulu, dersin kelimelerini kullanarak en az 100 karakterlik bir kompozisyon yazın."
     }
   },
   "workbook": {

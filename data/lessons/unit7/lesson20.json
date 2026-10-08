@@ -2,12 +2,12 @@
   "title": {
     "zh": "小人书摊",
     "ru": "Ларьки с комиксами",
-    "tk": "",
+    "tk": "Kiçi kitap dükany",
     "en": "Picture-story book stalls",
-    "uz": "",
-    "tg": "",
-    "id": "",
-    "tr": ""
+    "uz": "Kichik kitob do'koni",
+    "tg": "Дӯкони китобҳои хурд",
+    "id": "Kios buku cerita bergambar",
+    "tr": "Resimli kitap tezgahları"
   },
   "audio_files": {
     "textbook_1": "textbook_20_1.mp3",
@@ -18,12 +18,12 @@
     "question": {
       "zh": "请看下面的图片，试着找出本课跟它们有关的生词。请问问你的同学或朋友，他们小时候有哪些印象深刻的娱乐活动？现在还有没有这样的活动？",
       "ru": "Посмотрите на картинки и найдите слова из словаря урока. Спросите друзей, какие развлечения были яркими в их детстве. Есть ли они сейчас?",
-      "tk": "",
+      "tk": "Suratlara serediň we sapagyň sözlükdäki sözlerini tapyň. Dostlaryňyzdan çagalygynda haýsy güýmenjeleriň ýagty bolandygyny soraň. Olar häzir hem barmy?",
       "en": "Look at the pictures and find related vocabulary. Ask friends what entertainment left an impression in their childhood. Does it still exist?",
-      "uz": "",
-      "tg": "",
-      "id": "",
-      "tr": ""
+      "uz": "Rasmlarga qarang va dars lug'atidagi so'zlarni toping. Do'stlaringizdan bolaligida qanday o'yin-kulgilar yorqin bo'lganini so'rang. Ular hozir ham bormi?",
+      "tg": "Ба расмҳо назар кунед ва калимаҳои луғати дарсро ёбед. Аз дӯстон бипурсед, ки дар кӯдакии онҳо кадом фароғатҳо равшан буданд. Оё онҳо ҳоло ҳастанд?",
+      "id": "Lihat gambar-gambar dan temukan kata-kata dari kosakata pelajaran. Tanyakan kepada teman, hiburan apa yang berkesan di masa kecil mereka. Apakah masih ada sekarang?",
+      "tr": "Resimlere bakın ve dersin sözlüğündeki kelimeleri bulun. Arkadaşlarınıza çocukluklarında hangi eğlencelerin canlı olduğunu sorun. Bunlar hâlâ var mı?"
     },
     "answers": [
       "成人",
@@ -34,12 +34,12 @@
   "text_translation": {
     "zh": "",
     "ru": "«Сяожэньшу» — это комиксы, изданные в виде книги. В 1950-60-е годы жизнь была однообразной — ни интернета, ни мультфильмов; чтение комиксов было одним из главных развлечений детей. Их любили не только дети, но и бесчисленные подростки и взрослые.\nС ростом популярности комиксов появились ларьки по их прокату. Для тех, кто хотел читать, но не мог позволить себе купить книгу, — за копейки можно было прочесть один выпуск, что, безусловно, было большим благом.\nПомню, в детстве рядом с домом был такой ларёк — небольшой навес у стены в начале улицы, где грубые деревянные доски для сидения подпирали кирпичами. Внутри на щите были разложены комиксы на разные темы; у стены натянуты верёвки, на которых, как бельё, висели раскрытые книжки — пёстро и очень красиво. Чтобы книги меньше изнашивались, каждую обернули бумагой и подписали название кистью: аккуратный, красивый почерк выдавал культурный уровень хозяина. Хозяин — пожилой худощавый старик в сером халате — тихо сидел в стороне, составляя компанию читателям.\nЧитателями были в основном дети соседей, а также взрослые любители комиксов. Прокат был дешёвым: на месте — 1 фэнь за выпуск; можно было сесть и читать; вернув книгу, отдать деньги хозяину. Если брали домой — 2 фэня за книгу в день: выбрав, отдавали хозяину, тот аккуратно записывал в тетрадь имя, адрес и название книги, брал плату — и можно было уходить. Назавтра при возврате записи вычёркивались по одной — процедура завершалась. Помнится, залога не было — всё на доверии. Каждый день, возвращаясь из школы, я проходил мимо этого ларька и обязательно заглядывал.\nОднако эти комиксы, повлиявшие на несколько поколений, сегодня можно найти лишь на барахолках вроде Паньцзяюань или Хугоусы в Пекине. Некоторые изящно напечатанные, характерные издания сильно поднялись в цене и стали предметами коллекционирования, попали даже в музеи. Комиксы и их ларьки стали воспоминанием истории.",
-    "tk": "",
+    "tk": "«Sýažýenşu» — kitap görnüşinde neşir edilen komiksler. Ýigriminji asyryň 50-60-njy ýyllarynda durmuş gaty birmeňzeşdi — ne internet, ne multfilm bardy; komiks okamak çagalaryň iň esasy gyzyklanmalaryndan biri bolupdyr. Olary diňe çagalar däl, san-sajaksyz ýetginjekler we ulular hem gowy görüpdirler.\nKomiksleriň meşhurlygynyň artmagy bilen olary kärendesine bermek bilen meşgullanýan dükanjalar peýda boldy. Okamak isläp-de kitap alyp bilmeýänler üçin azajyk pul bilen bir kitapçany okap bolýardy, bu elbetde uly gowy zatdy.\nÇagalygymda öýümiň golaýynda şeýle bir dükanjanyň bardygyny ýadymda — köçäniň başynda diwaryň ýanyndaky kiçijik çadyr, içinde oturmak üçin çigildem agaç tagtalar kerpiçler bilen direlýärdi. Içinde dürli temaly komiksler düşelip goýlan bir tagta bardy; diwaryň boýunda birnäçe ýüp dartylgy durdy, üstünde açyk kitaplar asylyp, reňbe-reň bolup, gaty owadan görünýärdi. Zeper ýetmegini azaltmak üçin her komiks kagyz bilen gaplanýardy we daşyna çotga bilen kitabyň ady ýazylýardy: tertipli, owadan hat ýazuw dükanjanyň eýesiniň medeni derejesini doly görkezýärdi. Dükanjanyň eýesi goja, arryk bir adam bolup, hemişe çal don geýip, bir gyrada sessiz oturyp, okaýanlara ýoldaşlyk edýärdi.\nBu ýerde kitap okaýanlaryň köpüsi goňşy öýleriň çagalarydy, käbir komiksleri gowy görýän ulular hem bardy. Komiks kärendesine bermek arzan boldy: ýerinde okasaň, her kitap üçin 1 fyn; kitaby saýlap oturanyňdan soň okap, gutaranyňdan soň kitaby we puluny dükanjanyň eýesine berýärdiň; öýe äkidip okasaň, her kitap üçin günde 2 fyn; kitaby saýlap dükanjanyň eýesine berýärdiň, ol kärendesine alýanyň adyny, salgysyny we alnan kitabyň adyny depderine ýazýardy, kärendesine puluny alyp, soň gidip bilýärdiň. Ertesi gün kitaby yzyna getireniňde ýazgylar bir-bir öçürilýärdi — amal tamamlanýardy. Ýadymda, girew pul ýokdy — hemme zat ynam esasynda. Her gün mekdepden gaýdyp, şu dükanjanyň ýanyndan geçýärdim we hökman girip görýärdim.\nEmma birnäçe nesle täsir eden bu komiksleri häzir diňe Pekiniň Panýzýaýuan ýa-da Hugousy ýaly ikinji el bazarlarynda tapyp bolýar. Käbir nepis çap edilen, özboluşly neşirler gaty gymmatlap, ýygnaýjylaryň zatlaryna öwrüldi, hatda muzeýlere-de girdi. Komiksler we olaryň dükanjalary taryhyň ýatlamalaryna öwrüldi.",
     "en": "Xiaorenshu are picture-story books published in book form. In the 1950s-60s life was monotonous — no internet, no cartoons — so reading them was one of children's main entertainments. Not only kids loved them, but also countless teenagers and adults.\nWith their popularity came rental stalls. For those who wanted to read but couldn't afford to buy, one could read a book for very little money — undoubtedly a great thing.\nI remember there was such a stall near my home — a small shed against a wall at the street entrance, with rough wooden planks propped up by bricks for seating. Inside, a bed board displayed picture-story books on all kinds of subjects; strings were stretched along the wall, with open books draped over them — colourful and lovely. To reduce wear, each book was wrapped in kraft paper with the title written in brush characters — neat and beautiful handwriting revealed the owner's cultural level. The owner, a small elderly man in a grey gown, always sat quietly to one side, keeping the readers company.\nMost readers were neighbourhood children, along with some adults who loved the books. Rental was cheap: 1 fen per volume to read on the spot — sit down and read, then hand the book and money to the owner. If borrowed home, it cost 2 fen per book per day — after choosing, you handed the book to the owner, who carefully recorded your name, address and the book's title, took the fee — and off you went. Returning the next day, records were crossed out one by one — the return procedure done. As far as I recall there was no deposit — all based on trust. Every day after school I'd pass this stall and go in for a look.\nYet today these books, which influenced several generations, can only be found at second-hand stalls in Beijing's Panjiayuan or Huguosi. Some beautifully printed, distinctive editions have soared in value, becoming collector's items, even entering museums. Picture-story books and their stalls have become memories of history.",
-    "uz": "",
-    "tg": "",
-    "id": "",
-    "tr": ""
+    "uz": "«Syaojenshu» — kitob shaklida nashr etilgan komikslar. Yigirmanchi asrning 50-60-yillarida hayot juda bir xil edi — na internet, na multfilmlar bor edi; komikslar o'qish bolalar uchun eng asosiy o'yin-kulgilardan biri edi. Ularni nafaqat bolalar, balki son-sanoqsiz o'smirlar va kattalar ham yaxshi ko'rar edilar.\nKomikslarning ommalashuvi bilan ularni ijaraga berish bilan shug'ullanuvchi do'konchalar paydo bo'ldi. O'qishni xohlab, lekin kitob sotib olishga qurbi yetmaganlar uchun juda oz pul evaziga bitta kitobni o'qish mumkin edi, bu shubhasiz juda yaxshi narsa edi.\nBolaligimda uyimning yaqinida shunday do'koncha borligini eslayman — ko'cha boshida devor yonidagi kichkina shiypon, ichida o'tirish uchun qo'pol yog'och taxtalar g'ishtlar bilan tiralgan edi. Ichida turli mavzudagi komikslar qo'yilgan karavot taxtasi bor edi; devor bo'ylab bir nechta arqon tortilgan, ustiga ochiq kitoblar osilgan, rang-barang va juda chiroyli edi. Zararni kamaytirish uchun har bir komiks qog'oz bilan qoplangan va muqovaga cho'tka bilan kitob nomi yozilgan: tartibli, chiroyli xattotlik do'koncha egasining madaniy darajasini to'liq ko'rsatib turardi. Do'koncha egasi keksa, ozg'in bir chol bo'lib, doim kulrang xalat kiyib, bir chetda jimgina o'tirar va kitob o'qiyotganlarga hamrohlik qilar edi.\nBu yerda kitob o'qiydiganlarning ko'pchiligi qo'shni uylarning bolalari edi, ba'zi komikslarni yaxshi ko'radigan kattalar ham bor edi. Komikslarni ijaraga olish arzon edi: joyida o'qisangiz, har bir kitob uchun 1 fin; kitobni tanlab o'tirib o'qib, tugatgandan so'ng kitob va pulni do'koncha egasiga topshirar edingiz; uyga olib ketib o'qisangiz, har bir kitob uchun kuniga 2 fin; kitobni tanlab do'koncha egasiga topshirar edingiz, u ijaraga oluvchining ismini, manzilini va olingan kitobning nomini daftarga sinchkovlik bilan yozib qo'yardi, ijara haqini olib, keyin ketishingiz mumkin edi. Ertasi kuni kitobni qaytarganingizda yozuvlar birma-bir o'chirilar edi — jarayon tugallanar edi. Esimda, garov pul yo'q edi — hammasi ishonchga asoslangan edi. Har kuni maktabdan qaytayotib, shu do'koncha yonidan o'tar va albatta kirib ko'rardim.\nAmmo bir necha avlodga ta'sir qilgan bu komikslarni bugungi kunda faqat Pekinning Panjsyuan yoki Xugousi kabi ikkinchi qo'l bozorlarida topish mumkin. Ba'zi nafis bosilgan, o'ziga xos nashrlar juda qimmatlashib, kolleksiya buyumlariga aylandi, hatto muzeylarga ham kirdi. Komikslar va ularning do'konchalari tarix xotiralariga aylandi.",
+    "tg": "«Сяожэншу» — комиксҳое, ки дар шакли китоб нашр шудаанд. Дар солҳои 50-60-уми асри бистум ҳаёт якранг буд — на интернет, на мультфилмҳо буданд; хондани комиксҳо яке аз вақтхушиҳои асосии кӯдакон буд. Онҳоро на танҳо кӯдакон, балки наврасон ва калонсолони бешумор низ дӯст медоштанд.\nБо афзудани машҳурияти комиксҳо дуконҳои иҷорадиҳии онҳо пайдо шуданд. Барои онҳое, ки хондан мехостанд, аммо китоб харида наметавонистанд, бо пули камаш як нусхаро хондан мумкин буд, ки бешубҳа кори хеле хуб буд.\nДар ёдам аст, дар кӯдакӣ дар назди хонаам чунин дуконе буд — хаймачаи хурде дар канори девор дар аввали кӯча, ки дар дохили он тахтаҳои дурушти чӯбӣ барои нишастан бо хиштҳо такя дода шуда буданд. Дар дохили он тахтае буд, ки комиксҳои мавзӯъҳои гуногун дар он гузошта шуда буданд; дар канори девор чанд таноб кашида шуда буд, ки болои онҳо китобҳои кушода овезон буданд — рангоранг ва хеле зебо. Барои кам кардани вайроншавӣ ҳар як комикс бо коғаз печонида шуда, дар муқова бо қалами мӯй номи китоб навишта мешуд: хати дастнависи ботартиб ва зебо сатҳи мадании соҳиби дуконро пурра нишон медод. Соҳиби дукон марди пир, лоғар буд, ки ҳамеша куртаи хокистарранг мепӯшид ва дар як тараф хомӯшона нишаста, ба хонандагон ҳамроҳӣ мекард.\nОдамоне, ки дар ин ҷо китоб мехонданд, асосан кӯдакони ҳамсояҳо буданд, инчунин баъзе калонсолоне, ки комиксҳоро дӯст медоштанд. Иҷораи комиксҳо арзон буд: дар ҷо хондан — барои ҳар як нусха 1 фин; китобро интихоб карда нишаста хонед, баъд аз хондан китоб ва пулро ба соҳиби дукон супоред; агар ба хона баред, барои ҳар як китоб дар як рӯз 2 фин; китобро интихоб карда ба соҳиби дукон супоред, вай ном, суроға ва номи китоби иҷорагирандаро бодиққат дар дафтар сабт мекард, пули иҷораро мегирифт ва шумо метавонистед равед. Рӯзи дигар ҳангоми баргардонидани китоб сабтҳо яктогӣ хат зада мешуданд — раванд ба анҷом мерасид. Дар ёдам аст, гарав пул набуд — ҳама чиз ба эътимод асос ёфта буд. Ҳар рӯз аз мактаб бармегаштам ва аз ин дукон мегузаштам ва ҳатман ба он нигоҳ мекардам.\nАммо ин комиксҳо, ки ба чанд насл таъсир расонидаанд, имрӯз танҳо дар бозорҳои дасти дуюми монанди Панҷзиюан ё Хугоуси дар Пекин ёфт мешаванд. Баъзе нашрҳои нозуки чопшуда ва хос баҳои худро хеле баланд бардоштанд ва ба ашёи коллексия табдил ёфтанд, ҳатто ба музейҳо ворид шуданд. Комиксҳо ва дуконҳои онҳо ба ёдгории таърих табдил ёфтанд.",
+    "id": "Xiaorenshu adalah komik yang diterbitkan dalam bentuk buku. Pada tahun 1950-60-an kehidupan sangat monoton — tidak ada internet, tidak ada kartun; membaca komik adalah salah satu hiburan utama anak-anak. Tidak hanya anak-anak yang menyukainya, tetapi juga remaja dan orang dewasa yang tak terhitung jumlahnya.\nSeiring popularitas komik, muncul kios-kios penyewaan komik. Bagi mereka yang ingin membaca tetapi tidak mampu membeli buku, dengan sedikit uang saja bisa membaca satu buku, tidak diragukan lagi itu hal yang sangat baik.\nSaya ingat semasa kecil, di dekat rumah saya ada kios komik — sebuah gubuk kecil di dinding di ujung jalan, di dalamnya papan kayu kasar untuk duduk ditopang dengan beberapa bata. Di dalamnya ada papan tempat tidur yang menampilkan berbagai tema komik; di dinding ditarik beberapa tali, sebuah buku terbuka digantung di atasnya, berwarna-warni dan sangat indah. Untuk mengurangi kerusakan, setiap komik dilapisi kertas cokelat dengan judul ditulis dengan kuas: tulisan kuas yang rapi dan indah sepenuhnya menunjukkan tingkat budaya pemilik kios. Pemiliknya adalah seorang pria tua bertubuh kurus, selalu mengenakan jubah abu-abu, duduk dengan tenang di samping, menemani orang-orang yang membaca.\nOrang-orang yang membaca di sini sebagian besar adalah anak-anak penghuni sekitar, ada juga beberapa orang dewasa yang menyukai komik. Menyewa komik sangat murah: membaca di tempat, 1 fen per buku; pilih buku lalu duduk dan baca, setelah selesai serahkan buku dan uang kepada pemilik kios; jika dibawa pulang, 2 fen per buku per hari; pilih buku lalu serahkan kepada pemilik kios, pemilik dengan hati-hati mencatat nama, alamat, dan judul buku yang dipinjam di buku catatan, menerima uang sewa, lalu Anda bisa pergi. Keesokan harinya saat mengembalikan buku, catatan dicoret satu per satu — prosedur selesai. Saya ingat, tidak ada uang jaminan — semuanya berdasarkan kepercayaan. Setiap hari sepulang sekolah, saya melewati kios ini dan pasti mampir melihat.\nNamun komik-komik ini, yang memengaruhi beberapa generasi, hari ini hanya dapat ditemukan di pasar loak seperti Panjiayuan atau Huguosi di Beijing. Beberapa edisi yang dicetak dengan indah dan khas harganya melonjak tinggi dan menjadi barang koleksi, bahkan masuk ke museum. Komik dan kios-kiosnya telah menjadi kenangan sejarah.",
+    "tr": "Xiaorenshu, kitap biçiminde yayımlanan çizgi romanlardır. Yirminci yüzyılın 50-60'lı yıllarında hayat çok tekdüzeydi — ne internet ne çizgi film vardı; çizgi roman okumak çocukların en önemli eğlencelerinden biriydi. Onları sadece çocuklar değil, sayısız genç ve yetişkin de severdi.\nÇizgi romanların yaygınlaşmasıyla birlikte kiralama işi yapan büfeler ortaya çıktı. Okumak isteyip de kitap alamayanlar için çok az parayla bir kitap okunabiliyordu; bu kuşkusuz çok iyi bir şeydi.\nÇocukluğumda evimin yakınında böyle bir büfe olduğunu hatırlıyorum — sokağın başında duvarın yanındaki küçük bir baraka; içinde oturmak için kaba ahşap tahtalar tuğlalarla desteklenmişti. İçeride çeşitli konularda çizgi romanların sergilendiği bir karyola tahtası vardı; duvar boyunca birkaç ip gerilmiş, üzerlerine açık kitaplar asılmıştı — rengarenk ve çok güzeldi. Hasarı azaltmak için her çizgi roman kağıtla kaplanmış ve kapağa fırçayla kitabın adı yazılmıştı: düzenli, güzel fırça yazısı büfe sahibinin kültür düzeyini tam olarak gösteriyordu. Büfe sahibi yaşlı, ince yapılı bir adamdı; her zaman gri bir cübbe giyer, bir kenarda sessizce oturur ve okuyanlara eşlik ederdi.\nBurada kitap okuyanların çoğu çevredeki sakinlerin çocuklarıydı; çizgi romanları seven bazı yetişkinler de vardı. Çizgi roman kiralamak çok ucuzdu: yerinde okumak için her kitap 1 fen; kitabı seçip oturur ve okurdunuz, bitirdikten sonra kitabı ve parayı büfe sahibine verirdiniz; eve götürüp okumak içinse her kitap için günde 2 fen; kitabı seçtikten sonra büfe sahibine verirdiniz, o kiralayanın adını, adresini ve kiralanan kitabın adını dikkatlice deftere kaydeder, kira ücretini alır ve gidebilirdiniz. Ertesi gün kitabı geri getirdiğinizde kayıtlar tek tek çizilirdi — işlem tamamlanırdı. Hatırlıyorum, depozito yoktu — her şey güvene dayalıydı. Her gün okuldan dönerken bu büfenin önünden geçer ve mutlaka uğrardım.\nAncak birkaç kuşağı etkileyen bu çizgi romanlar bugün yalnızca Pekin'deki Panjiayuan veya Huguosi gibi ikinci el pazarlarında bulunabilir. Bazı zarif basılmış, kendine özgü baskılar çok değerlenmiş ve koleksiyon parçası hâline gelmiş, hatta müzelere girmiştir. Çizgi romanlar ve büfeleri tarihin hatıraları hâline gelmiştir."
   },
   "vocabulary": [
     {
@@ -49,12 +49,12 @@
       "meaning": {
         "zh": "",
         "ru": "ларёк, палатка",
-        "tk": "",
+        "tk": "tezgâh, dükan",
         "en": "stall, stand",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "do'kon, rastagul",
+        "tg": "дукон, раста",
+        "id": "kios, lapak",
+        "tr": "tezgâh, sergi"
       }
     },
     {
@@ -64,12 +64,12 @@
       "meaning": {
         "zh": "",
         "ru": "публиковать",
-        "tk": "",
+        "tk": "neşir etmek",
         "en": "to publish",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "nashr etmoq",
+        "tg": "нашр кардан",
+        "id": "menerbitkan",
+        "tr": "yayımlamak"
       }
     },
     {
@@ -79,12 +79,12 @@
       "meaning": {
         "zh": "",
         "ru": "комикс",
-        "tk": "",
+        "tk": "komiks",
         "en": "picture-story book",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "komiks",
+        "tg": "комикс",
+        "id": "buku cerita bergambar",
+        "tr": "çizgi roman"
       }
     },
     {
@@ -94,12 +94,12 @@
       "meaning": {
         "zh": "",
         "ru": "десятилетие, годы",
-        "tk": "",
+        "tk": "on ýyllyk",
         "en": "decade of a century",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "o'n yillik",
+        "tg": "даҳсола",
+        "id": "dekade",
+        "tr": "on yıl"
       }
     },
     {
@@ -109,12 +109,12 @@
       "meaning": {
         "zh": "",
         "ru": "однообразный",
-        "tk": "",
+        "tk": "birmeňzeş",
         "en": "monotonous, dull",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "bir xil",
+        "tg": "якранг",
+        "id": "monoton",
+        "tr": "monoton"
       }
     },
     {
@@ -124,12 +124,12 @@
       "meaning": {
         "zh": "",
         "ru": "интернет, сеть",
-        "tk": "",
+        "tk": "tor, ulgam",
         "en": "network, web",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tarmoq, internet",
+        "tg": "шабака, интернет",
+        "id": "jaringan, internet",
+        "tr": "ağ, internet"
       }
     },
     {
@@ -139,12 +139,12 @@
       "meaning": {
         "zh": "",
         "ru": "мультфильм",
-        "tk": "",
+        "tk": "animasiýa filmi",
         "en": "animated cartoon",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "multfilm",
+        "tg": "мультфилм",
+        "id": "film animasi",
+        "tr": "çizgi film"
       }
     },
     {
@@ -154,12 +154,12 @@
       "meaning": {
         "zh": "",
         "ru": "развлечение; развлекать",
-        "tk": "",
+        "tk": "gyngy; gyngamak",
         "en": "entertainment; to entertain",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ko'ngilxushlik; ko'ngil ochmoq",
+        "tg": "фароғат; фароғат кардан",
+        "id": "hiburan; menghibur",
+        "tr": "eğlence; eğlendirmek"
       }
     },
     {
@@ -169,12 +169,12 @@
       "meaning": {
         "zh": "",
         "ru": "бесчисленный",
-        "tk": "",
+        "tk": "san-sajaksyz",
         "en": "countless, innumerable",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "son-sanoqsiz",
+        "tg": "бешумор",
+        "id": "tak terhitung",
+        "tr": "sayısız"
       }
     },
     {
@@ -184,12 +184,12 @@
       "meaning": {
         "zh": "",
         "ru": "подростки, молодёжь",
-        "tk": "",
+        "tk": "ýetginjekler",
         "en": "youngsters, teenagers",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "o'smirlar",
+        "tg": "наврасонҳо",
+        "id": "remaja",
+        "tr": "gençler"
       }
     },
     {
@@ -199,12 +199,12 @@
       "meaning": {
         "zh": "",
         "ru": "заниматься чем-л.",
-        "tk": "",
+        "tk": "meşgullanmak",
         "en": "to engage in",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "shug'ullanmoq",
+        "tg": "машғул шудан",
+        "id": "terlibat dalam",
+        "tr": "uğraşmak"
       }
     },
     {
@@ -214,12 +214,12 @@
       "meaning": {
         "zh": "",
         "ru": "вовсе не, ничуть",
-        "tk": "",
+        "tk": "asla, hiç",
         "en": "not in the least",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "hech, aslo",
+        "tg": "ҳеҷ, асло",
+        "id": "sama sekali tidak",
+        "tr": "hiç, asla"
       }
     },
     {
@@ -229,12 +229,12 @@
       "meaning": {
         "zh": "",
         "ru": "сомнение, вопрос",
-        "tk": "",
+        "tk": "sorag, şübhe",
         "en": "question, doubt",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "savol, shubha",
+        "tg": "савол, шубҳа",
+        "id": "pertanyaan, keraguan",
+        "tr": "soru, şüphe"
       }
     },
     {
@@ -244,12 +244,12 @@
       "meaning": {
         "zh": "",
         "ru": "навес, лачуга",
-        "tk": "",
+        "tk": "çadyr, gurylan jaý",
         "en": "shed, shack",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "shiypon, kulba",
+        "tg": "соябон, кулба",
+        "id": "gubuk, pondok",
+        "tr": "sundurma, kulübe"
       }
     },
     {
@@ -259,12 +259,12 @@
       "meaning": {
         "zh": "",
         "ru": "кирпич",
-        "tk": "",
+        "tk": "kerpiç",
         "en": "brick",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "g'isht",
+        "tg": "хишт",
+        "id": "bata",
+        "tr": "tuğla"
       }
     },
     {
@@ -274,12 +274,12 @@
       "meaning": {
         "zh": "",
         "ru": "подпирать; счётное слово",
-        "tk": "",
+        "tk": "goldamak; sanagych",
         "en": "to prop up; classifier for sticks",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tirash; sanoq so'zi",
+        "tg": "такя кардан; калимаи шумора",
+        "id": "menopang; kata bantu bilangan",
+        "tr": "desteklemek; sınıflandırıcı"
       }
     },
     {
@@ -289,12 +289,12 @@
       "meaning": {
         "zh": "",
         "ru": "грубый, шероховатый",
-        "tk": "",
+        "tk": "gödek, ýiti",
         "en": "rough, crude",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qo'pol, dag'al",
+        "tg": "дурушт, ноҳамвор",
+        "id": "kasar, kasar",
+        "tr": "pürüzlü, kaba"
       }
     },
     {
@@ -304,12 +304,12 @@
       "meaning": {
         "zh": "",
         "ru": "дерево, древесина",
-        "tk": "",
+        "tk": "agaç",
         "en": "wood, timber",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yog'och",
+        "tg": "чӯб",
+        "id": "kayu",
+        "tr": "ahşap, kereste"
       }
     },
     {
@@ -319,12 +319,12 @@
       "meaning": {
         "zh": "",
         "ru": "тема, сюжет",
-        "tk": "",
+        "tk": "tema, sýužet",
         "en": "theme, subject matter",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "mavzu, syujet",
+        "tg": "мавзӯъ, сюжет",
+        "id": "tema, alur cerita",
+        "tr": "tema, konu"
       }
     },
     {
@@ -334,12 +334,12 @@
       "meaning": {
         "zh": "",
         "ru": "переворачивать, листать",
-        "tk": "",
+        "tk": "öwürmek, agdarmak",
         "en": "to turn over",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ag'darmoq, varaqlamoq",
+        "tg": "гардондан, варақ задан",
+        "id": "membalik, membuka halaman",
+        "tr": "çevirmek, sayfayı çevirmek"
       }
     },
     {
@@ -349,12 +349,12 @@
       "meaning": {
         "zh": "",
         "ru": "вешать, класть поверх",
-        "tk": "",
+        "tk": "asmak, üstüne goýmak",
         "en": "to hang over, to lay over",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "osmoq, ustiga qo'ymoq",
+        "tg": "овехтан, болои он гузоштан",
+        "id": "menggantung, meletakkan di atas",
+        "tr": "asmak, üzerine koymak"
       }
     },
     {
@@ -364,12 +364,12 @@
       "meaning": {
         "zh": "",
         "ru": "аккуратный, ровный",
-        "tk": "",
+        "tk": "tertip",
         "en": "tidy, orderly",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tartibli",
+        "tg": "мураттаб",
+        "id": "rapi",
+        "tr": "düzenli"
       }
     },
     {
@@ -379,12 +379,12 @@
       "meaning": {
         "zh": "",
         "ru": "возраст",
-        "tk": "",
+        "tk": "ýaş",
         "en": "age",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yosh",
+        "tg": "синну сол",
+        "id": "usia",
+        "tr": "yaş"
       }
     },
     {
@@ -394,12 +394,12 @@
       "meaning": {
         "zh": "",
         "ru": "фигура, телосложение",
-        "tk": "",
+        "tk": "göwre, beden gurluşy",
         "en": "figure, stature",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qomat, tana tuzilishi",
+        "tg": "қомат, сохтори бадан",
+        "id": "perawakan, bentuk tubuh",
+        "tr": "vücut yapısı, endam"
       }
     },
     {
@@ -409,12 +409,12 @@
       "meaning": {
         "zh": "",
         "ru": "взрослый",
-        "tk": "",
+        "tk": "ulakan",
         "en": "adult",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "kattalar",
+        "tg": "калонсол",
+        "id": "dewasa",
+        "tr": "yetişkin"
       }
     },
     {
@@ -424,12 +424,12 @@
       "meaning": {
         "zh": "",
         "ru": "том, книга (счётн.)",
-        "tk": "",
+        "tk": "tom, kitap (sanaw sözi)",
         "en": "volume",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tom, kitob (hisob so'zi)",
+        "tg": "ҷилд, китоб (вожаи шумориш)",
+        "id": "jilid, buku (kata bantu bilangan)",
+        "tr": "cilt, kitap (sayı sözcüğü)"
       }
     },
     {
@@ -439,12 +439,12 @@
       "meaning": {
         "zh": "",
         "ru": "если, предположим",
-        "tk": "",
+        "tk": "eger",
         "en": "if, in case",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "agar",
+        "tg": "агар",
+        "id": "jika",
+        "tr": "eğer"
       }
     },
     {
@@ -454,12 +454,12 @@
       "meaning": {
         "zh": "",
         "ru": "регистрировать",
-        "tk": "",
+        "tk": "hasaba almak",
         "en": "to register",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ro'yxatdan o'tkazmoq",
+        "tg": "бақайд гирифтан",
+        "id": "mendaftar",
+        "tr": "kaydetmek"
       }
     },
     {
@@ -469,12 +469,12 @@
       "meaning": {
         "zh": "",
         "ru": "запись; записывать",
-        "tk": "",
+        "tk": "ýazgy; ýazmak",
         "en": "record; to record",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yozuv; yozmoq",
+        "tg": "сабт; сабт кардан",
+        "id": "catatan; merekam",
+        "tr": "kayıt; kaydetmek"
       }
     },
     {
@@ -484,12 +484,12 @@
       "meaning": {
         "zh": "",
         "ru": "процедура, формальности",
-        "tk": "",
+        "tk": "prosedura, resmiýet",
         "en": "procedure",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "protsedura, rasmiyatchilik",
+        "tg": "расмиёт, тартибот",
+        "id": "prosedur, formalitas",
+        "tr": "prosedür, formalite"
       }
     },
     {
@@ -499,12 +499,12 @@
       "meaning": {
         "zh": "",
         "ru": "оформлять, вести дела",
-        "tk": "",
+        "tk": "amal etmek, işlemek",
         "en": "to handle, to deal with",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "rasmiylashtirmoq, bajarish",
+        "tg": "анҷом додан, иҷро кардан",
+        "id": "mengurus, menangani",
+        "tr": "işlem yapmak, halletmek"
       }
     },
     {
@@ -514,12 +514,12 @@
       "meaning": {
         "zh": "",
         "ru": "залог",
-        "tk": "",
+        "tk": "girew",
         "en": "cash pledge, deposit",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "garov",
+        "tg": "гарав",
+        "id": "deposit",
+        "tr": "depozito"
       }
     },
     {
@@ -529,12 +529,12 @@
       "meaning": {
         "zh": "",
         "ru": "полагаться; на основании",
-        "tk": "",
+        "tk": "daýanmak; esaslanmak",
         "en": "to rely on; on the basis of",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tayanmoq; asosida",
+        "tg": "такя кардан; дар асоси",
+        "id": "mengandalkan; berdasarkan",
+        "tr": "güvenmek; dayanarak"
       }
     },
     {
@@ -544,12 +544,12 @@
       "meaning": {
         "zh": "",
         "ru": "печатать",
-        "tk": "",
+        "tk": "çap etmek",
         "en": "to print",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "chop etmoq",
+        "tg": "чоп кардан",
+        "id": "mencetak",
+        "tr": "yazdırmak"
       }
     },
     {
@@ -559,12 +559,12 @@
       "meaning": {
         "zh": "",
         "ru": "расти, подниматься",
-        "tk": "",
+        "tk": "ýokary galmak, ösmek",
         "en": "to rise, to go up",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ko'tarilmoq, o'smoq",
+        "tg": "баромадан, афзудан",
+        "id": "naik, tumbuh",
+        "tr": "yükselmek, artmak"
       }
     },
     {
@@ -574,12 +574,12 @@
       "meaning": {
         "zh": "",
         "ru": "коллекционировать",
-        "tk": "",
+        "tk": "ýygnamak",
         "en": "to collect, to store up",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "to'plamoq",
+        "tg": "ҷамъоварӣ кардан",
+        "id": "mengoleksi",
+        "tr": "toplamak"
       }
     }
   ],
@@ -589,22 +589,42 @@
       "pos": "конструкция",
       "explanation": {
         "ru": "Конструкция «глагол + 得/不 + 起» означает, что субъект (не) может позволить себе или (не) способен выдержать какое-либо действие.",
-        "en": "The pattern 'verb + 得/不 + 起' means the subject can (or cannot) afford or endure a certain action."
+        "en": "The pattern 'verb + 得/不 + 起' means the subject can (or cannot) afford or endure a certain action.",
+        "tk": "«Işlik + 得/不 + 起» gurluşy, subýektiň belli bir hereketi (edip bilmezligini) ýa-da oňa (çydap bilmezligini) mümkinçiliginiň bardygyny ýa-da ýokdugyny aňladýar.",
+        "uz": "«Fe'l + 得/不 + 起» konstruksiyasi sub'ektning muayyan harakatni (qila olmasligini) yoki unga (chidab berolmasligini) bildiradi.",
+        "tg": "Таркиби «феъл + 得/不 + 起» маънои онро дорад, ки субъект амали муайянро (наметавонад) иҷро кунад ёки онро (наметавонад) таҳаммул кунад.",
+        "id": "Pola «verba + 得/不 + 起» berarti bahwa subjek (tidak) mampu atau (tidak) sanggup melakukan atau menanggung suatu tindakan.",
+        "tr": "«Fiil + 得/不 + 起» yapısı, öznenin belirli bir eylemi (yapamayacağını) ya da ona (katlanamayacağını) karşılayamayacağını ifade eder."
       },
       "formula": {
         "ru": "глагол + 得/不 + 起",
-        "en": "verb + 得/不 + 起"
+        "en": "verb + 得/不 + 起",
+        "tk": "işlik + 得/不 + 起",
+        "uz": "fe'l + 得/不 + 起",
+        "tg": "феъл + 得/不 + 起",
+        "id": "verba + 得/不 + 起",
+        "tr": "fiil + 得/不 + 起"
       },
       "examples": [
         {
           "zh": "这对于那些想看又买不起书的人来说，只用很少的钱就能看一本。",
           "ru": "Для тех, кто хочет читать, но не может позволить себе покупать книги, — можно прочесть за копейки.",
-          "en": "For those who want to read but can't afford books, they can read one for very little money."
+          "en": "For those who want to read but can't afford books, they can read one for very little money.",
+          "tk": "Kitap okaýyp, satyn almaga mümkinçiligi bolmadyk adamlar üçin, azajyk pul bilen bir kitap okap bolýar.",
+          "uz": "Kitob o'qishni xohlab, lekin sotib olishga qurbi yetmaydiganlar uchun juda oz pulga bitta kitobni o'qish mumkin.",
+          "tg": "Барои онҳое, ки мехоҳанд хонанд, вале китоб хариданро тоб намеоваранд, бо пули хеле кам метавонанд як китобро хонанд.",
+          "id": "Bagi mereka yang ingin membaca tetapi tidak mampu membeli buku, dengan uang yang sangat sedikit sudah bisa membaca satu buku.",
+          "tr": "Kitap okumak isteyip de satın almaya gücü yetmeyenler için, çok az parayla bir kitap okunabilir."
         },
         {
           "zh": "古时候，有个十分好学的年轻人，但他家里很穷，买不起灯。",
           "ru": "В древности был очень любознательный юноша, но семья его была так бедна, что не могла позволить себе лампу.",
-          "en": "In ancient times, a studious young man's family was too poor to afford a lamp."
+          "en": "In ancient times, a studious young man's family was too poor to afford a lamp.",
+          "tk": "Gadymy döwürlerde örän okamaga höwesli bir ýigit bardy, ýöne maşgalasy gaty garyp bolup, çyra almaga mümkinçiligi ýokdy.",
+          "uz": "Qadimda juda ilmga chanqoq bir yigit bor edi, lekin uning oilasi juda kambag'al bo'lib, chiroq sotib olishga qurbi yetmasdi.",
+          "tg": "Дар замонҳои қадим ҷавони бисёр донишҷӯе буд, вале хонаводааш хеле камбағал буд ва барои харидани чароғ пул надошт.",
+          "id": "Pada zaman dahulu, ada seorang pemuda yang sangat rajin belajar, tetapi keluarganya sangat miskin sehingga tidak mampu membeli lampu.",
+          "tr": "Eski zamanlarda, öğrenmeye çok meraklı bir genç vardı, ama ailesi çok yoksuldu ve lamba almaya gücü yetmiyordu."
         }
       ],
       "exercises": [
@@ -620,18 +640,33 @@
       "pos": "v./m.",
       "explanation": {
         "ru": "«支» как глагол означает «подпирать, поддерживать». Как счётное слово используется для музыкальных произведений, отрядов и продолговатых предметов.",
-        "en": "«支» as a verb means 'to prop up'. As a classifier it's used for musical works, teams, or stick-like objects."
+        "en": "«支» as a verb means 'to prop up'. As a classifier it's used for musical works, teams, or stick-like objects.",
+        "tk": "«支» işlik hökmünde «diremek, goldamak» diýmegi aňladýar. Sanalgyç hökmünde aýdym-saz eserleri, otradlar we uzyn-uzyn zatlar üçin ulanylýar.",
+        "uz": "«支» fe'l sifatida «tirgak bo'lmoq, qo'llab-quvvatlamoq» ma'nosini bildiradi. Sanoq so'z sifatida musiqa asarlari, otryadlar va cho'ziq narsalar uchun ishlatiladi.",
+        "tg": "«支» ҳамчун феъл маънои «такя кардан, дастгирӣ кардан»-ро дорад. Ҳамчун калимаи шумориш барои асарҳои мусиқӣ, отрядҳо ва ашёи дарозрӯя истифода мешавад.",
+        "id": "«支» sebagai kata kerja berarti 'menopang, mendukung'. Sebagai kata bantu bilangan digunakan untuk karya musik, pasukan, dan benda yang memanjang.",
+        "tr": "«支» fiil olarak 'desteklemek, dayamak' anlamına gelir. Sınıflandırıcı olarak müzik eserleri, birlikler ve uzun nesneler için kullanılır."
       },
       "examples": [
         {
           "zh": "他的两只手放在桌上，支着脑袋，正在想事情。",
           "ru": "Он положил руки на стол и подпёр голову — о чём-то думал.",
-          "en": "He rested his hands on the table, propping up his head, thinking."
+          "en": "He rested his hands on the table, propping up his head, thinking.",
+          "tk": "Ol iki elini stoluň üstüne goýup, kellesini direýärdi we bir zady pikir edýärdi.",
+          "uz": "U ikki qoʻlini stolga qoʻyib, boshini tirab, bir narsani oʻylayotgan edi.",
+          "tg": "Ӯ ду дасташро ба болои миз гузошта, сарашро такя карда, чизеро фикр мекард.",
+          "id": "Dia meletakkan kedua tangannya di atas meja, menopang kepalanya, sedang memikirkan sesuatu.",
+          "tr": "İki elini masaya koymuş, başını dayamış, bir şey düşünüyordu."
         },
         {
           "zh": "给他十支枪，他就能拉起一支军队来。",
           "ru": "Дайте ему десять ружей — и он соберёт целую армию.",
-          "en": "Give him ten rifles, and he can raise an army."
+          "en": "Give him ten rifles, and he can raise an army.",
+          "tk": "Oňa on ýarag ber, ol goşun ýygnap biler.",
+          "uz": "Unga o‘nta miltiq ber, u qo‘shin to‘play oladi.",
+          "tg": "Ба ӯ даҳ туфанг деҳ, вай лашкар ҷамъ карда метавонад.",
+          "id": "Beri dia sepuluh senapan, dia bisa mengumpulkan pasukan.",
+          "tr": "Ona on tüfek ver, bir ordu toplayabilir."
         }
       ],
       "exercises": [
@@ -647,27 +682,52 @@
       "pos": "v./prep.",
       "explanation": {
         "ru": "«凭» как глагол — «опираться, полагаться». Как предлог — «на основании, по», в конструкции «凭 + объект + глагол».",
-        "en": "«凭» as a verb means 'to rely on'. As a preposition — 'on the basis of', in the pattern '凭 + object + verb'."
+        "en": "«凭» as a verb means 'to rely on'. As a preposition — 'on the basis of', in the pattern '凭 + object + verb'.",
+        "tk": "«凭» işlik hökmünde «daýanmak, bil baglamak» diýmegi aňladýar. Prepozisiýa hökmünde — «esasynda, boýunça», «凭 + obýekt + işlik» gurluşynda.",
+        "uz": "«凭» fe'l sifatida «tayanmoq, suyanmoq» ma'nosini bildiradi. Predlog sifatida — «asosida, bo'yicha», «凭 + obyekt + fe'l» qurilmasida.",
+        "tg": "«凭» ҳамчун феъл — «такя кардан, умед бастан» мефаҳмонад. Ҳамчун пешоянд — «дар асоси, аз рӯи», дар сохтори «凭 + объект + феъл».",
+        "id": "«凭» sebagai kata kerja berarti 'bersandar, mengandalkan'. Sebagai preposisi — 'atas dasar, berdasarkan', dalam pola '凭 + objek + kata kerja'.",
+        "tr": "«凭» fiil olarak 'dayanmak, güvenmek' anlamına gelir. Edat olarak — 'esasında, dayanarak', '凭 + nesne + fiil' yapısında."
       },
       "formula": {
         "ru": "凭 + сущ. + глагол",
-        "en": "凭 + noun + verb"
+        "en": "凭 + noun + verb",
+        "tk": "凭 + at + işlik",
+        "uz": "凭 + ot + fe'l",
+        "tg": "凭 + исм + феъл",
+        "id": "凭 + kata benda + kata kerja",
+        "tr": "凭 + isim + fiil"
       },
       "examples": [
         {
           "zh": "干工作不能光凭经验，还要有创新。",
           "ru": "В работе нельзя полагаться только на опыт — нужны и инновации.",
-          "en": "You can't rely only on experience in work — you also need innovation."
+          "en": "You can't rely only on experience in work — you also need innovation.",
+          "tk": "Işde diňe tejribä daýanmak bolmaýar, täzelik hem gerek.",
+          "uz": "Ishda faqat tajribaga tayanib bo'lmaydi, yangilik ham kerak.",
+          "tg": "Дар кор наметавон танҳо ба таҷриба такя кард, навоварӣ ҳам лозим аст.",
+          "id": "Dalam bekerja tidak bisa hanya mengandalkan pengalaman, inovasi juga diperlukan.",
+          "tr": "İşte sadece deneyime güvenilmez, yenilik de gerekir."
         },
         {
           "zh": "印象中似乎没有什么押金，全凭信用。",
           "ru": "Кажется, залога не было — всё на доверии.",
-          "en": "I don't recall any deposit — it was all based on trust."
+          "en": "I don't recall any deposit — it was all based on trust.",
+          "tk": "Ýadymda bolşuna görä, hiç hili girew ýokdy, hemme zat ynam bilen edilýärdi.",
+          "uz": "Yodimda qolganga o'xshaydi, hech qanday garov yo'q edi, hammasi ishonchga asoslangan edi.",
+          "tg": "Дар хотирам чунин менамояд, ки ягон гарав набуд, ҳама чиз ба эътимод асос ёфтааст.",
+          "id": "Seingat saya, sepertinya tidak ada uang jaminan, semuanya berdasarkan kepercayaan.",
+          "tr": "Hatırladığım kadarıyla hiçbir depozito yoktu, her şey güvene dayanıyordu."
         },
         {
           "zh": "请旅客们准备好车票，凭票进站。",
           "ru": "Пассажиры, приготовьте билеты — вход по билетам.",
-          "en": "Passengers, please have your tickets ready — entry by ticket."
+          "en": "Passengers, please have your tickets ready — entry by ticket.",
+          "tk": "Ýolagçylar, biletleriňizi taýýarlaň — bilet bilen girilýär.",
+          "uz": "Yo'lovchilar, chiptalaringizni tayyorlang — chipta bilan kiring.",
+          "tg": "Мусофирон, чиптаҳои худро омода кунед — бо чипта ворид шавед.",
+          "id": "Penumpang, siapkan tiket Anda — masuk dengan tiket.",
+          "tr": "Yolcular, biletlerinizi hazırlayın — bilete giriş."
         }
       ],
       "exercises": [
@@ -685,16 +745,31 @@
       "word_b": "纪录",
       "common": {
         "ru": "Оба могут обозначать «запись, документация». Часто путают.",
-        "en": "Both can mean 'record, documentation' and are often confused."
+        "en": "Both can mean 'record, documentation' and are often confused.",
+        "tk": "Ikisi hem \"ýazgy, resminama\" manylaryny aňladyp biler. Köplenç bulaşdyrylýar.",
+        "uz": "Ikkalasi ham \"yozuv, hujjat\" ma'nosini bildirishi mumkin. Ko'pincha chalkashtiriladi.",
+        "tg": "Ҳарду метавонанд маънои «сабт, ҳуҷҷат»-ро дошта бошанд. Аксар вақт омехта карда мешаванд.",
+        "id": "Keduanya bisa berarti 'catatan, dokumentasi'. Sering tertukar.",
+        "tr": "İkisi de 'kayıt, belge' anlamına gelebilir. Sıklıkla karıştırılır."
       },
       "differences": [
         {
           "ru": "«记录» — глагол «записывать» или существительное «запись» (материал, человек).",
-          "en": "«记录» — verb 'to record' or noun 'record' (material, person)."
+          "en": "«记录» — verb 'to record' or noun 'record' (material, person).",
+          "tk": "«记录» — işlik «ýazmak» ýa-da at «ýazgy» (material, adam).",
+          "uz": "«记录» — fe'l «yozmoq» yoki ot «yozuv» (material, shaxs).",
+          "tg": "«记录» — феъл «навиштан» ё исм «сабт» (мавод, шахс).",
+          "id": "«记录» — kata kerja 'mencatat' atau kata benda 'catatan' (bahan, orang).",
+          "tr": "«记录» — fiil 'kaydetmek' veya isim 'kayıt' (materyal, kişi)."
         },
         {
           "ru": "«纪录» — существительное, обозначает «рекорд» или документальный фильм.",
-          "en": "«纪录» — noun meaning 'record (best result)' or documentary."
+          "en": "«纪录» — noun meaning 'record (best result)' or documentary.",
+          "tk": "«纪录» — at, «rekord» ýa-da dokumental film manyny berýär.",
+          "uz": "«纪录» — ot, «rekord» yoki hujjatli film ma'nosini bildiradi.",
+          "tg": "«纪录» — исм, маънои «рекорд» ё филми ҳуҷҷатиро дорад.",
+          "id": "«纪录» — kata benda, berarti «rekor» atau film dokumenter.",
+          "tr": "«纪录» — isim, «rekor» veya belgesel anlamına gelir."
         }
       ]
     }
@@ -703,7 +778,12 @@
     "topic": {
       "zh": "单位、场所 (Организации и места)",
       "ru": "Организации и места",
-      "en": "Organizations and places"
+      "en": "Organizations and places",
+      "tk": "Guramalar we ýerler",
+      "uz": "Tashkilotlar va joylar",
+      "tg": "Ташкилотҳо ва ҷойҳо",
+      "id": "Organisasi dan tempat",
+      "tr": "Kuruluşlar ve yerler"
     },
     "words": [
       {
@@ -712,7 +792,12 @@
         "meaning": {
           "zh": "",
           "ru": "клуб",
-          "en": "club"
+          "en": "club",
+          "tk": "klub",
+          "uz": "klub",
+          "tg": "клуб",
+          "id": "klub",
+          "tr": "kulüp"
         }
       },
       {
@@ -721,7 +806,12 @@
         "meaning": {
           "zh": "",
           "ru": "детский сад",
-          "en": "kindergarten"
+          "en": "kindergarten",
+          "tk": "çagalar bagy",
+          "uz": "bolalar bog'chasi",
+          "tg": "кӯдакистон",
+          "id": "taman kanak-kanak",
+          "tr": "anaokulu"
         }
       },
       {
@@ -730,7 +820,12 @@
         "meaning": {
           "zh": "",
           "ru": "музей",
-          "en": "museum"
+          "en": "museum",
+          "tk": "muzeý",
+          "uz": "muzey",
+          "tg": "музей",
+          "id": "museum",
+          "tr": "müze"
         }
       },
       {
@@ -739,7 +834,12 @@
         "meaning": {
           "zh": "",
           "ru": "бар",
-          "en": "bar"
+          "en": "bar",
+          "tk": "bar",
+          "uz": "bar",
+          "tg": "бар",
+          "id": "bar",
+          "tr": "bar"
         }
       },
       {
@@ -748,7 +848,12 @@
         "meaning": {
           "zh": "",
           "ru": "суд",
-          "en": "court"
+          "en": "court",
+          "tk": "sud",
+          "uz": "sud",
+          "tg": "суд",
+          "id": "pengadilan",
+          "tr": "mahkeme"
         }
       },
       {
@@ -757,7 +862,12 @@
         "meaning": {
           "zh": "",
           "ru": "таможня",
-          "en": "customs"
+          "en": "customs",
+          "tk": "gümrük",
+          "uz": "bojxona",
+          "tg": "гумрук",
+          "id": "bea cukai",
+          "tr": "gümrük"
         }
       },
       {
@@ -766,7 +876,12 @@
         "meaning": {
           "zh": "",
           "ru": "производить",
-          "en": "to produce"
+          "en": "to produce",
+          "tk": "önümçilik",
+          "uz": "ishlab chiqarish",
+          "tg": "истеҳсол",
+          "id": "produksi",
+          "tr": "üretim"
         }
       },
       {
@@ -775,7 +890,12 @@
         "meaning": {
           "zh": "",
           "ru": "изобретать",
-          "en": "to invent"
+          "en": "to invent",
+          "tk": "oýlap tapmak",
+          "uz": "ixtiro qilmoq",
+          "tg": "ихтироъ кардан",
+          "id": "menemukan",
+          "tr": "icat etmek"
         }
       },
       {
@@ -784,7 +904,12 @@
         "meaning": {
           "zh": "",
           "ru": "проектировать",
-          "en": "to design"
+          "en": "to design",
+          "tk": "dizaýn etmek",
+          "uz": "dizayn qilmoq",
+          "tg": "тарҳ кардан",
+          "id": "merancang",
+          "tr": "tasarlamak"
         }
       },
       {
@@ -793,7 +918,12 @@
         "meaning": {
           "zh": "",
           "ru": "дело, бизнес",
-          "en": "business"
+          "en": "business",
+          "tk": "iş, biznes",
+          "uz": "ish, biznes",
+          "tg": "кор, тиҷорат",
+          "id": "bisnis, usaha",
+          "tr": "iş, ticaret"
         }
       },
       {
@@ -802,7 +932,12 @@
         "meaning": {
           "zh": "",
           "ru": "проект",
-          "en": "project"
+          "en": "project",
+          "tk": "taslama",
+          "uz": "loyiha",
+          "tg": "лоиҳа",
+          "id": "proyek",
+          "tr": "proje"
         }
       },
       {
@@ -811,7 +946,12 @@
         "meaning": {
           "zh": "",
           "ru": "эффективность",
-          "en": "efficiency"
+          "en": "efficiency",
+          "tk": "netijelilik",
+          "uz": "samaradorlik",
+          "tg": "самаранокӣ",
+          "id": "efisiensi",
+          "tr": "verimlilik"
         }
       },
       {
@@ -820,7 +960,12 @@
         "meaning": {
           "zh": "",
           "ru": "законный",
-          "en": "legal"
+          "en": "legal",
+          "tk": "kanuny",
+          "uz": "qonuniy",
+          "tg": "қонунӣ",
+          "id": "legal",
+          "tr": "yasal"
         }
       },
       {
@@ -829,7 +974,12 @@
         "meaning": {
           "zh": "",
           "ru": "справедливый",
-          "en": "fair"
+          "en": "fair",
+          "tk": "adolatly",
+          "uz": "adolatli",
+          "tg": "одилона",
+          "id": "adil",
+          "tr": "adil"
         }
       }
     ]
@@ -838,17 +988,22 @@
     "discussion": {
       "zh": "童年的生活与记忆：你的童年是在什么地方度过的？哪些人、事、东西给你留下了深刻印象？为什么？",
       "ru": "Детство и воспоминания: где прошло ваше детство? Какие люди, события, вещи оставили глубокий след? Почему?",
-      "tk": "",
+      "tk": "Çagalyk we ýatlamalar: çagalygyňyz nirede geçdi? Haýsy adamlar, wakalar, zatlar çuň yz galdyrdy? Näme üçin?",
       "en": "Childhood and memories: where did you spend your childhood? Which people, events or things left a deep impression? Why?",
-      "uz": "",
-      "tg": "",
-      "id": "",
-      "tr": ""
+      "uz": "Bolalik va xotiralar: bolaligingiz qayerda o'tdi? Qanday odamlar, voqealar, narsalar chuqur iz qoldirdi? Nega?",
+      "tg": "Кӯдакӣ ва хотираҳо: кӯдакии шумо дар куҷо гузашт? Кадом одамон, рӯйдодҳо, чизҳо изи амиқ гузоштанд? Чаро?",
+      "id": "Masa kecil dan kenangan: di mana masa kecil Anda dihabiskan? Orang, peristiwa, atau benda apa yang meninggalkan kesan mendalam? Mengapa?",
+      "tr": "Çocukluk ve anılar: çocukluğunuz nerede geçti? Hangi insanlar, olaylar, şeyler derin bir iz bıraktı? Neden?"
     },
     "writing_prompt": {
       "zh": "请以“我的童年”为题，谈一谈你的童年时代。尽量用上本课所学的生词，字数不少于100字。",
       "ru": "Напишите эссе на тему «Моё детство», используя слова урока, не менее 100 иероглифов.",
-      "en": "Write an essay titled 'My childhood', using this lesson's vocabulary, at least 100 characters."
+      "en": "Write an essay titled 'My childhood', using this lesson's vocabulary, at least 100 characters.",
+      "tk": "«Çagalygym» atly tema boýunça, sapagyň sözlerini ulanyp, azyndan 100 iýeroglifden ybarat esse ýazyň.",
+      "uz": "«Bolaligim» mavzusida dars so'zlaridan foydalanib, kamida 100 ieroglifdan iborat insho yozing.",
+      "tg": "Дар мавзӯи «Кӯдакии ман» бо истифода аз калимаҳои дарс, на камтар аз 100 иероглиф эссе нависед.",
+      "id": "Tulislah esai dengan tema «Masa kecilku» menggunakan kosakata pelajaran ini, minimal 100 karakter hanzi.",
+      "tr": "«Çocukluğum» konulu, dersin kelimelerini kullanarak en az 100 karakterden oluşan bir kompozisyon yazın."
     }
   },
   "workbook": {

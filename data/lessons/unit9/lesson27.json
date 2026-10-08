@@ -2,12 +2,12 @@
   "title": {
     "zh": "下棋",
     "ru": "Игра в шахматы",
-    "tk": "",
+    "tk": "Şahmat oýnamak",
     "en": "Playing chess",
-    "uz": "",
-    "tg": "",
-    "id": "",
-    "tr": ""
+    "uz": "Shaxmat o'ynash",
+    "tg": "Шоҳмотбозӣ",
+    "id": "Bermain catur",
+    "tr": "Satranç oynamak"
   },
   "audio_files": {
     "textbook_1": "textbook_27_1.mp3",
@@ -18,12 +18,12 @@
     "question": {
       "zh": "下图中的棋类，你认识多少？请说一说它们的名称。除了这些以外，你还知道其他棋牌运动吗？",
       "ru": "Какие настольные игры на картинках вы знаете? Назовите их. Знаете ли вы другие?",
-      "tk": "",
+      "tk": "Suratdaky haýsy stol oýunlaryny bilýärsiňiz? Olaryň adyny aýdyň. Başga oýunlary bilýärsiňizmi?",
       "en": "How many board games in the picture do you know? Name them. Do you know other board and card games?",
-      "uz": "",
-      "tg": "",
-      "id": "",
-      "tr": ""
+      "uz": "Rasmdagi qaysi stol o'yinlarini bilasiz? Ularning nomini ayting. Boshqa o'yinlarni bilasizmi?",
+      "tg": "Кадом бозиҳои рӯимизии дар расм бударо медонед? Номҳои онҳоро гӯед. Оё бозиҳои дигарро медонед?",
+      "id": "Permainan papan apa saja yang ada di gambar yang Anda ketahui? Sebutkan. Apakah Anda tahu permainan lainnya?",
+      "tr": "Resimlerdeki hangi masa oyunlarını biliyorsunuz? Adlarını söyleyin. Başka oyunlar biliyor musunuz?"
     },
     "answers": [
       "围棋",
@@ -35,12 +35,12 @@
   "text_translation": {
     "zh": "",
     "ru": "Мой отец — тренер по сянци. В тот год я приехал домой на университетские каникулы, отец предложил сыграть, и я с радостью согласился.\nОтец дал мне фору в три хода. Не прошло и трёх минут, как я потерял больше половины фигур, доска опустела — остались лишь несколько. Ничего не поделаешь: беспомощно глядя, как отец объявляет «шах!», я проиграл.\nНе смирившись, я сказал: «В этот раз не повезло, ещё раз!» Вторая партия — снова поражение. «На этот раз не вошёл в форму, ещё!» После нескольких партий я в основном сдавался меньше чем за десять минут. Я пал духом. Отец посмотрел на меня и сказал: «Ты только начинаешь играть, проигрывать — нормально. Но ты должен понимать, где проиграл, и извлекать урок. Иначе, сколько бы ты ни играл ещё десять лет, победы можешь так и не добиться».\n«Я знаю, моя техника хуже твоей, и опыта мало».\n«Это лишь второстепенные факторы, не самое главное».\n«А что самое главное?» — удивился я.\n«Самое главное — у тебя неправильный настрой. Ты недостаточно бережёшь свои фигуры».\n«Как это не берегу? Я над каждым ходом думаю по полдня», — возразил я.\n«Это позже. А в начале ты так делал? Я внимательно наблюдал: две трети твоих фигур потеряны в первую треть времени. В тот период ты будто был уверен в себе, играл не задумываясь, хватал и двигал — и о потерях не жалел. Потому что считал: фигур много, потерять одну-две ничего не значит. А в последние две трети ты совершил противоположную ошибку: стал слишком дорожить фигурами, над каждым ходом чрезмерно осторожничал, ни одну фигуру не хотел терять — и растерял их одну за другой».\nТут отец остановился, снова расставил фигуры на доске, поднял голову, взглянул на меня и спросил: «Это партия, которую предстоит играть. Скажи, каков основной принцип игры в шахматы?»\nЯ, не задумываясь, выпалил: «Победить!»\n«Это цель». Отец укоризненно взглянул на меня: «А принцип — это учитывать приобретения и потери. Где приобретение — там неизбежна потеря; есть потеря — будет и приобретение. Перед каждым ходом ты должен заранее ясно понимать: ради какого приобретения ты готов чем пожертвовать — тогда только возможна победа. Увы, большинство людей, как и ты: сначала не думают о приобретениях и потерях, а когда позже теряют много — начинают жалеть; результат — поражение за поражением. И не только в шахматах — в жизни то же самое!»",
-    "tk": "",
+    "tk": "Meniň kakam küşt treneri. Şol ýyl men uniwersitetiň dynç alyşyna öýe gaýdyp geldim, kakam meniň bilen küşt oýnamak isledi, men begenerlik bilen razy boldum.\nKakam maňa üç ýöreýiş öňden gitmäge rugsat berdi. Üç minut geçmänkä, meniň küşt daşlarymyň ýarysyndan köpüsi ýitdi, tagtam boşady, diňe birnäçe daş galdy. Çäresiz, kakamyň «şa!» diýşine seredip, men ýeňildim.\nMen razy bolmadym we: «Bu gezek bagtly däldi, ýene bir gezek!» diýdim. Ikinji oýun hem ýeňildi. «Bu gezek gowy oýnamadym, ýene!» Birnäçe oýundan soň, men esasan on minutdan az wagtda ýeňilýärdim. Men birneme ruhdan düşdüm. Kakam maňa seredip: «Sen küşte täze, ýeňilmek adaty zat. Ýöne nirede ýeňilendigiňi bilmeli we sapak almaly. Ýogsam, ýene on ýyl oýnasaň hem, ýeňiş gazanyp bilmersiň» diýdi.\n«Bilýärin, meniň tehnikam seniňkiden pes, tejribem hem ýeterlik däl.»\n«Bu diňe ikinji derejeli faktorlar, iň möhümi däl.»\n«Onda iň möhümi näme?» — geň galyp soradym.\n«Iň möhüm mesele seniň pikirňiň nädogry bolmagy. Sen küşt daşlaryňy ýeterlik goralamaýarsyň.»\n«Nädip goralamaýaryn? Men her ýöreýşimde ýarym gün pikir edýärin» — men inkär etdim.\n«Bu soňky döwür. Başda şeýlemi? Men ünsli synladym: seniň küşt daşlaryňyň üçden ikisi wagtyň üçden bir böleginde ýitdi. Şol döwürde sen özüňe ynamly görünýärdin, oýnanyňda pikir etmän, alyp ýöreýärdiň, ýitireniňe hem gynanmaýardyn. Çünki sen küşt daşlaryň köp diýip pikir edýärdin, bir-ikisini ýitirmek hiç zat däl. Soňky üçden iki böleginde sen tersine ýalňyşlyk etdiň: küşt daşlaryňy aşa goraladyň, her ýöreýşiňde aşa seresap boldun, bir küşt daşyny hem ýitirmek islemediň, tersine, bir-bir ýitirdiň.»\nŞu ýerde kakam durdy, tagtada küşt daşlaryny täzeden ýerleşdirdi, kellesini göterdi, maňa seredip sorady: «Bu oýnaljak oýun. Aýt, küşt oýnamagyň esasy ýörelgesi näme?»\nMen pikir etmän: «Ýeňmek!» diýip aýtdym.\n«Bu maksat.» Kakam maňa käýinç bilen seretdi: «Ýörelge bolsa, gazanç we ýitgini hasaba almak. Gazanç bar ýerde ýitgi gutulgysyz; ýitgi bar ýerde gazanç bolar. Her ýöreýşden öň sen öňünden aýdyň bilmeli: haýsy gazanç üçin näme pida etmäge taýynsyň — şonda ýeňiş mümkin. Wah, köp adamlar seniň ýaly: ilki gazanç we ýitgi hakda pikir etmeýärler, soň köp ýitirende, gynanýarlar; netijede — yzly-yzyna ýeňilýärler. Diňe küştde däl — durmuşda hem şeýle!»",
     "en": "My father is a Chinese chess coach. That year I came home from university for the holidays; father wanted to play chess with me, and I happily agreed.\nFather gave me three moves' head start. In under three minutes I'd lost most of my pieces — the board was nearly empty, only a few left. Helplessly watching father announce 'check!', I lost.\nUnconvinced, I said: 'Bad luck this time — again!' Second game lost too. 'Didn't play well this time, again!' After several games, I usually lost in under ten minutes. I got discouraged. Father looked at me: 'You're a beginner — losing is normal. But you must know where you lost and learn the lesson. Otherwise, even ten more years of playing may not bring victory.'\n'I know — my skill is worse, and my experience lacking.'\n'Those are secondary factors, not the most important.'\n'Then what is?' I asked, puzzled.\n'The key problem is your attitude. You don't value your pieces enough.'\n'How so? I think half a day over every move!' I protested.\n'That's later. Was it like that at the start? I watched carefully: two-thirds of your pieces were lost in the first third of the time. During that period you seemed confident, playing without thinking, picking up and moving — and not regretting the losses. Because you thought: plenty of pieces, losing one or two is nothing. In the last two-thirds you made the opposite mistake: you valued the pieces too much, were too cautious with every move, unwilling to lose a single one — and lost them one by one.'\nFather paused, reset the pieces on the board, lifted his head, looked at me and asked: 'This is a game yet to be played. Tell me, what is the basic principle of chess?'\nWithout thinking I blurted: 'To win!' 'That's the goal.' Father glanced at me reproachfully. 'The principle is to weigh gains and losses. Where there's gain there is inevitably loss; only with loss comes gain. Before every move you should know clearly: for what gain are you willing to lose what? Only then can you win. Alas, most people are like you: at first they don't weigh gains and losses; later, having lost much, they begrudge — and lose again and again. And not only in chess — in life too!'",
-    "uz": "",
-    "tg": "",
-    "id": "",
-    "tr": ""
+    "uz": "Mening otam shaxmat murabbiyi. O'sha yili men universitet ta'tiliga uyga qaytdim, otam men bilan shaxmat o'ynashni xohladi, men xursandchilik bilan rozi bo'ldim.\nOtam menga uchta yurish oldindan yurishga ruxsat berdi. Uch daqiqa o'tmasdan, mening donalarimning ko'p qismini yo'qotdim, taxta bo'sh qoldi, faqat bir nechta dona qoldi. Ilohim, otamning «shoh!» deganini ko'rib, men yutqazdim.\nMen rozi bo'lmadim va: «Bu safar omad kelmadi, yana bir bor!» dedim. Ikkinchi o'yinda ham yutqazdim. «Bu safar yaxshi o'ynamadim, yana!» Bir nechta o'yindan so'ng, men asosan o'n daqiqadan kam vaqt ichida yutqazdim. Men biroz tushkunlikka tushdim. Otam menga qarab: «Sen shaxmatni endi o'rganyapsan, yutqazish normal. Lekin qayerda yutqazganingni bilishing va saboq olishing kerak. Aks holda, yana o'n yil o'ynasang ham, g'alaba qozona olmaysan» dedi.\n«Bilaman, mening texnikam sennikidan past, tajribam ham yetarli emas.»\n«Bu faqat ikkinchi darajali omillar, eng muhimi emas.»\n«Unda eng muhimi nima?» — hayron bo'lib so'radim.\n«Eng muhim muammo — sening fikrlashing noto'g'ri. Sen donalaringni yetarli darajada qadrlamaysan.»\n«Qanday qadrlamayman? Men har bir yurishimni yarim kun o'ylayman» — men inkor etdim.\n«Bu keyinroq. Boshida shundaymidi? Men diqqat bilan kuzatdim: sening donalaringning uchdan ikki qismi vaqtning uchdan bir qismida yo'qolgan. O'sha davrda sen o'zingga ishongan ko'rinarding, o'ynaganingda o'ylamasdan, olib yurarding, yo'qotganingga ham achchinmading. Chunki sen donalar ko'p deb o'ylarding, bir-ikkitasini yo'qotish hech narsa emas. Oxirgi uchdan ikki qismida sen teskari xatoga yo'l qo'yding: donalarni haddan tashqari qadrlay boshlading, har bir yurishda haddan tashqari ehtiyotkor bo'lding, bitta donani ham yo'qotishni xohlamading, aksincha, birin-ketin yo'qotding.»\nShu yerda otam to'xtadi, taxtada donalarni qayta joylashtirdi, boshini ko'tardi, menga qarab so'radi: «Bu o'ynaladigan o'yin. Ayt, shaxmat o'ynashning asosiy tamoyili nima?»\nMen o'ylamasdan: «G'alaba qozonish!» deb aytdim.\n«Bu maqsad.» Otam menga tanbeh bilan qaradi: «Tamoyil esa — foyda va zararni hisobga olish. Foyda bor joyda zarar muqarrar; zarar bor joyda foyda bo'ladi. Har bir yurishdan oldin sen oldindan aniq bilishing kerak: qanday foyda uchun nimadan voz kechishga tayyorsan — shundagina g'alaba mumkin. Afsus, ko'p odamlar sen kabi: avval foyda va zarar haqida o'ylamaydilar, keyin ko'p yo'qotganda, achchiqlanadilar; natijada — ketma-ket mag'lubiyat. Faqat shaxmatda emas — hayotda ham shunday!»",
+    "tg": "Падари ман мураббии шоҳмот аст. Он сол ман барои таътили донишгоҳ ба хона омадам, падар мехост бо ман шоҳмот бозӣ кунад, ва ман бо хурсандӣ розӣ шудам.\nПадар ба ман се ҳаракат пешӣ дод. Се дақиқа нагузашта, ман аксари мӯҳраҳоямро гум кардам, тахта холӣ шуд, танҳо чанд мӯҳра боқӣ монд. Чорае набуд, бечора нигоҳ карда, ки падар «шоҳ!» эълон мекунад, ман мағлуб шудам.\nМан розӣ нашудам ва гуфтам: «Ин дафъа бахт набуд, боз!» Бозии дуюм низ мағлуб шуд. «Ин дафъа хуб бозӣ накардам, боз!» Баъди чанд бозӣ, ман асосан дар камтар аз даҳ дақиқа мағлуб мешудам. Ман каме дилшикаста шудам. Падар ба ман нигоҳ карда гуфт: «Ту нав омӯхта истодаӣ, мағлуб шудан муқаррарӣ аст. Аммо ту бояд донӣ, ки дар куҷо мағлуб шудӣ ва сабоқ гирӣ. Вагарна, ҳатто даҳ соли дигар бозӣ кунӣ ҳам, ғалаба карда наметавонӣ.»\n«Медонам, техникаи ман аз ту камтар аст, таҷрибаам ҳам кофӣ нест.»\n«Ин танҳо омилҳои дуюмдараҷа ҳастанд, на муҳимтарин.»\n«Пас муҳимтарин чӣ аст?» — бо ҳайрат пурсидам.\n«Муҳимтарин масъала ин аст, ки рӯҳияи ту нодуруст аст. Ту мӯҳраҳоятро кофӣ қадр намекунӣ.»\n«Чӣ тавр қадр намекунам? Ман ҳар ҳаракатро ним рӯз фикр мекунам» — ман инкор кардам.\n«Ин баъдтар. Дар аввал ҳамин тавр буд? Ман бодиққат мушоҳида кардам: ду се ҳиссаи мӯҳраҳои ту дар се ҳиссаи аввали вақт гум шуданд. Дар он давра ту гӯё боварӣ дошӣ, ҳангоми бозӣ бефикр, гирифта мерафтӣ, гум карданро ҳам пушаймон намешудӣ. Зеро ту фикр мекардӣ: мӯҳраҳо бисёранд, гум кардани як-дуто чизе нест. Дар ду се ҳиссаи охир ту хатои муқобил кардӣ: мӯҳраҳоро аз ҳад зиёд қадр кардӣ, ҳар ҳаракатро аз ҳад зиёд эҳтиёткорона кардӣ, як мӯҳраро ҳам гум кардан намехостӣ, баръакс, яке аз паси дигаре гум кардӣ.»\nДар ин ҷо падар истод, мӯҳраҳоро дар тахта аз нав ҷойгир кард, сарашро бардошт, ба ман нигоҳ карда пурсид: «Ин бозиест, ки бояд бозӣ шавад. Бигӯ, принсипи асосии бозии шоҳмот чист?»\nМан бефикр гуфтам: «Ғалаба!»\n«Ин мақсад аст.» Падар ба ман бо маломат нигоҳ кард: «Аммо принсип ин аст, ки фоида ва зиёнро ба назар гирӣ. Дар ҷое ки фоида ҳаст, зиён муқаррарӣ аст; зиён бошад, фоида хоҳад буд. Пеш аз ҳар ҳаракат ту бояд пешакӣ равшан донӣ: барои кадом фоида ту омодаӣ аз чӣ даст кашӣ — танҳо он гоҳ ғалаба мумкин аст. Афсӯс, аксари одамон мисли ту: аввал дар бораи фоида ва зиён фикр намекунанд, баъдтар вақте бисёр гум мекунанд, пушаймон мешаванд; натиҷа — мағлубият паси мағлубият. Ва на танҳо дар шоҳмот — дар ҳаёт ҳам ҳамин тавр!»",
+    "id": "Ayah saya adalah seorang pelatih catur Cina. Tahun itu saya pulang ke rumah saat libur universitas, ayah ingin bermain catur dengan saya, dan saya dengan senang hati menyetujuinya.\nAyah memberi saya tiga langkah lebih dulu. Dalam waktu kurang dari tiga menit, sebagian besar bidak saya hilang, papan menjadi kosong, hanya tersisa beberapa bidak. Tidak ada cara lain, dengan tak berdaya melihat ayah mengumumkan 'sekak!', saya kalah.\nSaya tidak terima, dan berkata: 'Kali ini kurang beruntung, ayo lagi!' Permainan kedua juga kalah. 'Kali ini tidak bermain dengan baik, ayo lagi!' Setelah beberapa permainan, biasanya saya kalah dalam waktu kurang dari sepuluh menit. Saya agak putus asa. Ayah melihat saya dan berkata: 'Kamu baru belajar catur, kalah itu normal. Tapi kamu harus tahu di mana kamu kalah, dan mengambil pelajaran. Kalau tidak, bahkan jika kamu bermain sepuluh tahun lagi, kamu belum tentu bisa menang.'\n'Saya tahu, teknik saya tidak sebaik kamu, dan pengalaman saya juga kurang.'\n'Itu hanya faktor sekunder, bukan yang paling penting.'\n'Lalu apa yang paling penting?' tanya saya heran.\n'Masalah paling penting adalah pola pikirmu tidak benar. Kamu tidak cukup menghargai bidakmu.'\n'Bagaimana tidak menghargai? Setiap langkah saya pikirkan setengah hari,' bantah saya.\n'Itu nanti. Apakah dari awal begitu? Saya mengamati dengan cermat: dua pertiga bidakmu hilang dalam sepertiga waktu pertama. Selama periode itu kamu tampak sangat percaya diri, bermain tanpa berpikir, mengambil dan melangkah, dan tidak merasa sayang kehilangan. Karena kamu merasa bidak masih banyak, kehilangan satu atau dua tidak masalah. Pada dua pertiga waktu terakhir, kamu melakukan kesalahan yang berlawanan: terlalu menghargai bidak, setiap langkah terlalu hati-hati, tidak ingin kehilangan satu bidak pun, malah satu per satu semuanya hilang.'\nSampai di sini, ayah berhenti, menata ulang bidak di papan, mengangkat kepala, menatap saya dan bertanya: 'Ini adalah permainan yang akan dimainkan. Katakan, apa prinsip dasar bermain catur?'\nTanpa berpikir saya spontan berkata: 'Menang!'\n'Itu tujuan.' Ayah menatap saya dengan nada menegur: 'Sedangkan prinsipnya adalah memperhitungkan keuntungan dan kerugian. Di mana ada keuntungan, di situ pasti ada kerugian; ada kerugian, akan ada keuntungan. Sebelum setiap langkah, kamu harus tahu dengan jelas terlebih dahulu: demi keuntungan apa kamu rela mengorbankan apa — barulah kemenangan mungkin. Sayangnya, kebanyakan orang seperti kamu: awalnya tidak memikirkan keuntungan dan kerugian, lalu ketika banyak yang hilang, baru menyesal; hasilnya — kalah terus-menerus. Dan bukan hanya dalam catur — dalam hidup juga sama!'",
+    "tr": "Babam bir satranç antrenörü. O yıl üniversite tatilinde eve döndüm, babam benimle satranç oynamak istedi ve seve seve kabul ettim.\nBabam bana üç hamle önden gitmemi söyledi. Üç dakika geçmeden taşlarımın çoğunu kaybettim, tahta boş kaldı, sadece birkaç taş kaldı. Çaresiz, babamın 'şah!' dediğini görerek kaybettim.\nKabul etmedim ve dedim: 'Bu sefer şanssızdı, bir daha!' İkinci oyunu da kaybettim. 'Bu sefer iyi oynamadım, bir daha!' Birkaç oyundan sonra, genellikle on dakikadan kısa sürede kaybediyordum. Biraz cesaretim kırıldı. Babam bana bakıp dedi: 'Sen satranca yeni başladın, kaybetmek normal. Ama nerede kaybettiğini bilmeli ve ders almalısın. Yoksa on yıl daha oynasan da kazanacağın garanti değil.'\n'Biliyorum, tekniğim senden kötü, tecrübem de yetersiz.'\n'Bunlar sadece ikincil faktörler, en önemlisi değil.'\n'Peki en önemlisi ne?' diye merakla sordum.\n'En önemli sorun, zihniyetinin yanlış olması. Taşlarını yeterince değer vermiyorsun.'\n'Nasıl değer vermiyorum? Her hamlemi yarım gün düşünüyorum,' diye itiraz ettim.\n'O sonra. Başta öyle miydi? Dikkatle gözlemledim: taşlarının üçte ikisi zamanın ilk üçte birinde kayboldu. O dönemde kendine güveniyor gibiydin, oynarken düşünmeden, alıp gidiyordun, kaybettiğine de üzülmüyordun. Çünkü taşların çok olduğunu düşünüyordun, bir-iki tanesini kaybetmek bir şey değildi. Son üçte ikisinde ise tam tersi bir hata yaptın: taşlara aşırı değer verdin, her hamlede aşırı dikkatliydin, bir taşı bile kaybetmek istemedin, aksine birer birer kaybettin.'\nBurada babam durdu, tahtadaki taşları yeniden dizdi, başını kaldırdı, bana baktı ve sordu: 'Bu oynanacak bir oyun. Söyle, satranç oynamanın temel ilkesi nedir?'\nDüşünmeden pat diye söyledim: 'Kazanmak!'\n'Bu amaç.' Babam bana sitemle baktı: 'İlke ise kazanç ve kaybı hesaba katmaktır. Kazanç olan yerde kayıp kaçınılmazdır; kayıp varsa kazanç da olur. Her hamleden önce açıkça bilmelisin: hangi kazanç için neyi feda etmeye hazırsın — ancak o zaman kazanmak mümkün. Ne yazık ki çoğu insan senin gibi: önce kazanç ve kaybı düşünmezler, sonra çok kaybedince pişman olurlar; sonuç — ardı ardına yenilgi. Ve sadece satrançta değil — hayatta da aynı!'"
   },
   "vocabulary": [
     {
@@ -50,12 +50,12 @@
       "meaning": {
         "zh": "",
         "ru": "шахматы (сянци)",
-        "tk": "",
+        "tk": "şahmat (sýançi)",
         "en": "(Chinese) chess, board game",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "shaxmat (syanqi)",
+        "tg": "шатранҷ (сянци)",
+        "id": "catur (xiangqi)",
+        "tr": "satranç (xiangqi)"
       }
     },
     {
@@ -65,12 +65,12 @@
       "meaning": {
         "zh": "",
         "ru": "тренер",
-        "tk": "",
+        "tk": "türgenleşdiriji",
         "en": "coach, instructor",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "murabbiy",
+        "tg": "мураббӣ",
+        "id": "pelatih",
+        "tr": "antrenör"
       }
     },
     {
@@ -80,12 +80,12 @@
       "meaning": {
         "zh": "",
         "ru": "соглашаться, обещать",
-        "tk": "",
+        "tk": "razy bolmak, wada bermek",
         "en": "to agree, to promise",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "rozi bo'lmoq, va'da bermoq",
+        "tg": "розӣ шудан, ваъда додан",
+        "id": "setuju, berjanji",
+        "tr": "kabul etmek, söz vermek"
       }
     },
     {
@@ -95,12 +95,12 @@
       "meaning": {
         "zh": "",
         "ru": "терять, утрачивать",
-        "tk": "",
+        "tk": "ýitirmek",
         "en": "to lose",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yo'qotmoq",
+        "tg": "аз даст додан",
+        "id": "kehilangan",
+        "tr": "kayıp"
       }
     },
     {
@@ -110,12 +110,12 @@
       "meaning": {
         "zh": "",
         "ru": "открывать (глаза)",
-        "tk": "",
+        "tk": "gözüni açmak",
         "en": "to open one's eyes",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ko'zini ochmoq",
+        "tg": "чашм кушодан",
+        "id": "membuka mata",
+        "tr": "gözünü açmak"
       }
     },
     {
@@ -125,12 +125,12 @@
       "meaning": {
         "zh": "",
         "ru": "беспомощно (смотреть)",
-        "tk": "",
+        "tk": "gözi bilen görüp durmak",
         "en": "looking on helplessly",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ko'z oldida bo'lmoq",
+        "tg": "бечораҳолона нигоҳ кардан",
+        "id": "menonton dengan tak berdaya",
+        "tr": "göz göre göre"
       }
     },
     {
@@ -140,12 +140,12 @@
       "meaning": {
         "zh": "",
         "ru": "генерал; шах!",
-        "tk": "",
+        "tk": "general; şah!",
         "en": "general; to check",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "general; shoh!",
+        "tg": "генерал; шоҳ!",
+        "id": "jenderal; skak!",
+        "tr": "general; şah!"
       }
     },
     {
@@ -155,12 +155,12 @@
       "meaning": {
         "zh": "",
         "ru": "признать поражение",
-        "tk": "",
+        "tk": "boýun egmek",
         "en": "to be convinced, to be won over",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tan olmoq",
+        "tg": "эътироф кардан",
+        "id": "mengakui",
+        "tr": "ikna olmak"
       }
     },
     {
@@ -170,12 +170,12 @@
       "meaning": {
         "zh": "",
         "ru": "удача",
-        "tk": "",
+        "tk": "bagt",
         "en": "luck, fortune",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "omad",
+        "tg": "бахт",
+        "id": "keberuntungan",
+        "tr": "şans"
       }
     },
     {
@@ -185,12 +185,12 @@
       "meaning": {
         "zh": "",
         "ru": "партия (в игре)",
-        "tk": "",
+        "tk": "oýun, partýa",
         "en": "game, set",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "o'yin, partiya",
+        "tg": "бозӣ, партия",
+        "id": "permainan, babak",
+        "tr": "oyun, parti"
       }
     },
     {
@@ -200,12 +200,12 @@
       "meaning": {
         "zh": "",
         "ru": "проявить, реализовать",
-        "tk": "",
+        "tk": "peýdalanmak, ýüze çykarmak",
         "en": "to bring into play",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "namoyon qilmoq, ro'yobga chiqarmoq",
+        "tg": "ба кор бурдан, зоҳир кардан",
+        "id": "memainkan, mengembangkan",
+        "tr": "ortaya koymak, kullanmak"
       }
     },
     {
@@ -215,12 +215,12 @@
       "meaning": {
         "zh": "",
         "ru": "падать духом",
-        "tk": "",
+        "tk": "ruhdan düşmek",
         "en": "discouraged",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ruhiy tushkunlikka tushmoq",
+        "tg": "дилсард шудан",
+        "id": "putus asa",
+        "tr": "cesareti kırılmak"
       }
     },
     {
@@ -230,12 +230,12 @@
       "meaning": {
         "zh": "",
         "ru": "извлекать, впитывать",
-        "tk": "",
+        "tk": "siňdirmek, özüne siňdirmek",
         "en": "to absorb, to draw",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "singdirmoq, o'zlashtirmoq",
+        "tg": "ҷаббидан, фурӯ бурдан",
+        "id": "menyerap, mengambil",
+        "tr": "emmek, özümsemek"
       }
     },
     {
@@ -245,12 +245,12 @@
       "meaning": {
         "zh": "",
         "ru": "урок",
-        "tk": "",
+        "tk": "sapak",
         "en": "lesson, moral",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "saboq",
+        "tg": "дарс",
+        "id": "pelajaran",
+        "tr": "ders"
       }
     },
     {
@@ -260,12 +260,12 @@
       "meaning": {
         "zh": "",
         "ru": "не обязательно",
-        "tk": "",
+        "tk": "hökman däl",
         "en": "may not, not necessarily",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "shart emas",
+        "tg": "ҳатман нест",
+        "id": "belum tentu",
+        "tr": "mutlaka değil"
       }
     },
     {
@@ -275,12 +275,12 @@
       "meaning": {
         "zh": "",
         "ru": "второстепенный",
-        "tk": "",
+        "tk": "ikinji derejeli",
         "en": "less important, secondary",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ikkinchi darajali",
+        "tg": "дараҷаи дуюм",
+        "id": "sekunder",
+        "tr": "ikincil"
       }
     },
     {
@@ -290,12 +290,12 @@
       "meaning": {
         "zh": "",
         "ru": "фактор",
-        "tk": "",
+        "tk": "faktor",
         "en": "factor",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "omil",
+        "tg": "омил",
+        "id": "faktor",
+        "tr": "faktör"
       }
     },
     {
@@ -305,12 +305,12 @@
       "meaning": {
         "zh": "",
         "ru": "заключаться в",
-        "tk": "",
+        "tk": "durmuşda bolmak",
         "en": "to lie in, to consist in",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "iborat bo'lmoq",
+        "tg": "иборат будан",
+        "id": "terletak pada",
+        "tr": "dayanmak"
       }
     },
     {
@@ -320,12 +320,12 @@
       "meaning": {
         "zh": "",
         "ru": "психологическое состояние",
-        "tk": "",
+        "tk": "ruhy ýagdaý",
         "en": "psychology, mental attitude",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ruhiy holat",
+        "tg": "ҳолати рӯҳӣ",
+        "id": "pola pikir",
+        "tr": "zihniyet"
       }
     },
     {
@@ -335,12 +335,12 @@
       "meaning": {
         "zh": "",
         "ru": "дорожить",
-        "tk": "",
+        "tk": "gymmat bermek",
         "en": "to cherish, to treasure",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qadrlamoq",
+        "tg": "қадр кардан",
+        "id": "menghargai",
+        "tr": "değer vermek"
       }
     },
     {
@@ -350,12 +350,12 @@
       "meaning": {
         "zh": "",
         "ru": "отрицать",
-        "tk": "",
+        "tk": "inkär etmek",
         "en": "to deny",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "inkor qilmoq",
+        "tg": "инкор кардан",
+        "id": "menyangkal",
+        "tr": "inkar etmek"
       }
     },
     {
@@ -365,12 +365,12 @@
       "meaning": {
         "zh": "",
         "ru": "наблюдать",
-        "tk": "",
+        "tk": "synlamak",
         "en": "to observe, to watch",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "kuzatmoq",
+        "tg": "мушоҳида кардан",
+        "id": "mengamati",
+        "tr": "gözlemlemek"
       }
     },
     {
@@ -380,12 +380,12 @@
       "meaning": {
         "zh": "",
         "ru": "терять",
-        "tk": "",
+        "tk": "ýitirmek",
         "en": "to lose",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "yo'qotmoq",
+        "tg": "аз даст додан",
+        "id": "kehilangan",
+        "tr": "kaybetmek"
       }
     },
     {
@@ -395,12 +395,12 @@
       "meaning": {
         "zh": "",
         "ru": "период, время",
-        "tk": "",
+        "tk": "döwür, wagt",
         "en": "time, period",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "davr, vaqt",
+        "tg": "давра, вақт",
+        "id": "periode, waktu",
+        "tr": "dönem, süre"
       }
     },
     {
@@ -410,12 +410,12 @@
       "meaning": {
         "zh": "",
         "ru": "уверенность",
-        "tk": "",
+        "tk": "düşünmek, ynam",
         "en": "assurance, confidence",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ishonch, qo'lga kiritmoq",
+        "tg": "боварӣ, дарк кардан",
+        "id": "keyakinan, memegang",
+        "tr": "güven, kavramak"
       }
     },
     {
@@ -425,12 +425,12 @@
       "meaning": {
         "zh": "",
         "ru": "не задумываясь",
-        "tk": "",
+        "tk": "pikir etmän",
         "en": "without thinking or hesitation",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "o'ylamasdan",
+        "tg": "беандеша",
+        "id": "tanpa berpikir",
+        "tr": "düşünmeden"
       }
     },
     {
@@ -440,12 +440,12 @@
       "meaning": {
         "zh": "",
         "ru": "совершать (ошибку)",
-        "tk": "",
+        "tk": "ýalňyşlyk etmek",
         "en": "to commit (an error)",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "xato qilmoq",
+        "tg": "хато кардан",
+        "id": "melakukan (kesalahan)",
+        "tr": "hata yapmak"
       }
     },
     {
@@ -455,12 +455,12 @@
       "meaning": {
         "zh": "",
         "ru": "слишком, чрезмерно",
-        "tk": "",
+        "tk": "aşa, çendan",
         "en": "too, excessively",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "juda, haddan tashqari",
+        "tg": "хеле, аз ҳад зиёд",
+        "id": "terlalu, berlebihan",
+        "tr": "aşırı, fazlasıyla"
       }
     },
     {
@@ -470,12 +470,12 @@
       "meaning": {
         "zh": "",
         "ru": "принцип",
-        "tk": "",
+        "tk": "ýörelge",
         "en": "principle, tenet",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "tamoyil",
+        "tg": "принсип",
+        "id": "prinsip",
+        "tr": "ilke"
       }
     },
     {
@@ -485,12 +485,12 @@
       "meaning": {
         "zh": "",
         "ru": "упрекать",
-        "tk": "",
+        "tk": "ýazgarmak",
         "en": "to blame, to reproach",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ayblash",
+        "tg": "маломат кардан",
+        "id": "menyalahkan",
+        "tr": "suçlamak"
       }
     },
     {
@@ -500,12 +500,12 @@
       "meaning": {
         "zh": "",
         "ru": "неизбежный",
-        "tk": "",
+        "tk": "hökman",
         "en": "inevitable, certain",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "muqarrar",
+        "tg": "ҳатмӣ",
+        "id": "pasti",
+        "tr": "kaçınılmaz"
       }
     },
     {
@@ -515,12 +515,12 @@
       "meaning": {
         "zh": "",
         "ru": "заранее",
-        "tk": "",
+        "tk": "öňünden",
         "en": "beforehand, in advance",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "oldindan",
+        "tg": "пешакӣ",
+        "id": "sebelumnya",
+        "tr": "önceden"
       }
     },
     {
@@ -530,12 +530,12 @@
       "meaning": {
         "zh": "",
         "ru": "жалко, не хочется расставаться",
-        "tk": "",
+        "tk": "aýrylmak islemek",
         "en": "to be unwilling to part with",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "ajralishni xohlamaslik",
+        "tg": "ҷудо шудан нахостан",
+        "id": "enggan berpisah",
+        "tr": "ayrılmak istememek"
       }
     },
     {
@@ -545,12 +545,12 @@
       "meaning": {
         "zh": "",
         "ru": "последствие",
-        "tk": "",
+        "tk": "netije",
         "en": "consequence, aftermath",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "natija",
+        "tg": "оқибат",
+        "id": "konsekuensi",
+        "tr": "sonuç"
       }
     },
     {
@@ -560,12 +560,12 @@
       "meaning": {
         "zh": "",
         "ru": "неоднократно",
-        "tk": "",
+        "tk": "gaýta-gaýta",
         "en": "repeatedly, time and again",
-        "uz": "",
-        "tg": "",
-        "id": "",
-        "tr": ""
+        "uz": "qayta-qayta",
+        "tg": "борҳо",
+        "id": "berulang kali",
+        "tr": "defalarca"
       }
     }
   ],
@@ -575,23 +575,43 @@
       "pos": "конструкция",
       "explanation": {
         "ru": "«Глагол + 下来» означает завершение действия, иногда с оттенком отделения или фиксации.",
-        "en": "«Verb + 下来» indicates completion of an action, sometimes with a sense of separation or fixation."
+        "en": "«Verb + 下来» indicates completion of an action, sometimes with a sense of separation or fixation.",
+        "tk": "«Işlik + 下来» hereketiň tamamlanmagyny aňladýar, käte aýralyk ýa-da berkidilme manylary bilen.",
+        "uz": "«Fe'l + 下来» harakatning tugallanishini bildiradi, ba'zan ajralish yoki mustahkamlash ma'nosi bilan.",
+        "tg": "«Феъл + 下来» анҷоми амалро ифода мекунад, баъзан бо маънои ҷудошавӣ ё мустаҳкамкунӣ.",
+        "id": "«Verba + 下来» menunjukkan penyelesaian suatu tindakan, kadang-kadang dengan nuansa pemisahan atau penetapan.",
+        "tr": "«Fiil + 下来» bir eylemin tamamlanmasını belirtir, bazen ayrılma veya sabitleme anlamıyla."
       },
       "examples": [
         {
           "zh": "你的论文大概什么时候发表？定下来了吗？",
           "ru": "Когда примерно опубликуют твою диссертацию? Уже решено?",
-          "en": "When will your thesis be published? Is it settled?"
+          "en": "When will your thesis be published? Is it settled?",
+          "tk": "Teziňiz takmynan haçan çap ediler? Karar edildimi?",
+          "uz": "Tezisingiz taxminan qachon chop etiladi? Hal qilindimi?",
+          "tg": "Рисолаи шумо тақрибан кай нашр мешавад? Қарор шуд?",
+          "id": "Kira-kira kapan tesis Anda akan diterbitkan? Sudah dipastikan?",
+          "tr": "Teziniz yaklaşık ne zaman yayımlanacak? Kesinleşti mi?"
         },
         {
           "zh": "你看，那张纸是从这本书里撕下来的。",
           "ru": "Смотри, этот лист вырван из этой книги.",
-          "en": "Look, that page was torn out of this book."
+          "en": "Look, that page was torn out of this book.",
+          "tk": "Sere, şol kagyz şu kitapdan ýyrtylyp alyndy.",
+          "uz": "Qara, o qog'oz shu kitobdan yirtib olingan.",
+          "tg": "Бибин, он коғаз аз ҳамин китоб канда шудааст.",
+          "id": "Lihat, kertas itu robek dari buku ini.",
+          "tr": "Bak, o kâğıt bu kitaptan yırtılmış."
         },
         {
           "zh": "几局下来，基本上都是不到10分钟我就败下阵来。",
           "ru": "После нескольких партий я в основном сдавался меньше чем за 10 минут.",
-          "en": "After several games, I usually lost in under ten minutes."
+          "en": "After several games, I usually lost in under ten minutes.",
+          "tk": "Birnäçe oýundan soň, men esasan 10 minutdan az wagtda ýeňildim.",
+          "uz": "Bir nechta o'yindan so'ng, men asosan 10 daqiqadan kam vaqt ichida yutqazdim.",
+          "tg": "Баъди якчанд бозӣ, ман асосан дар камтар аз 10 дақиқа мағлуб мешудам.",
+          "id": "Setelah beberapa permainan, biasanya saya kalah dalam waktu kurang dari 10 menit.",
+          "tr": "Birkaç oyundan sonra, genellikle 10 dakikadan kısa sürede yenildim."
         }
       ],
       "exercises": [
@@ -607,18 +627,33 @@
       "pos": "v.",
       "explanation": {
         "ru": "«舍不得» — «жаль, не хочется расставаться / тратить / использовать». Утвердительная форма «舍得» обычно в вопросах или сравнениях.",
-        "en": "«舍不得» means 'to be unwilling to part with / spend / use'. The affirmative «舍得» is usually in questions or comparisons."
+        "en": "«舍不得» means 'to be unwilling to part with / spend / use'. The affirmative «舍得» is usually in questions or comparisons.",
+        "tk": "«舍不得» — «aýrylmak / sarp etmek / ulanmak islemezlik, gynanmak». Tassyklaýyş formasy «舍得» adatça soraglarda ýa-da deňeşdirmelerde ulanylýar.",
+        "uz": "«舍不得» — «ajralishga / sarflashga / ishlatishga ko‘nli bo‘lmaslik, achinish». Tasdiq shakli «舍得» odatda savollarda yoki qiyoslashlarda ishlatiladi.",
+        "tg": "«舍不得» — «дил нахоҳад ҷудо шудан / сарф кардан / истифода бурдан». Шакли тасдиқии «舍得» одатан дар саволҳо ё муқоисаҳо истифода мешавад.",
+        "id": "«舍不得» berarti 'tidak tega berpisah / membelanjakan / menggunakan'. Bentuk afirmatif «舍得» biasanya dalam pertanyaan atau perbandingan.",
+        "tr": "«舍不得» — «ayrılmaya / harcamaya / kullanmaya gönlü elvermeyen, kıyamayan» anlamına gelir. Olumlu biçimi «舍得» genellikle sorularda veya karşılaştırmalarda kullanılır."
       },
       "examples": [
         {
           "zh": "把你最喜欢的玩具送给小朋友，你舍得吗？",
           "ru": "Ты готов отдать свою любимую игрушку малышу?",
-          "en": "Would you give your favourite toy to a child?"
+          "en": "Would you give your favourite toy to a child?",
+          "tk": "Iň gowy görýän oýnawaçyňy kiçi çaga bermäge, göwnüň bolýarmy?",
+          "uz": "Eng yaxshi ko'rgan o'yinchoqingizni bolaga bersangiz, achinmaysizmi?",
+          "tg": "Бозичаи дӯстдоштаи худро ба кӯдак диҳед, дилатон месӯзад?",
+          "id": "Apakah kamu rela memberikan mainan favoritmu kepada anak kecil?",
+          "tr": "En sevdiğin oyuncağını küçük bir çocuğa vermeye kıyabilir misin?"
         },
         {
           "zh": "可惜，大部分人都像你这样，开始不考虑得失，等到后来失去得多了，又开始舍不得，后果就是屡下屡败。",
           "ru": "Увы, большинство людей, как и ты: сначала не думают о потерях, а позже, потеряв много, начинают жалеть — и в итоге терпят поражение за поражением.",
-          "en": "Alas, most people are like you: at first they ignore gains and losses; later, having lost much, they begrudge — and lose again and again."
+          "en": "Alas, most people are like you: at first they ignore gains and losses; later, having lost much, they begrudge — and lose again and again.",
+          "tk": "Gynansak-da, köp adamlar seniň ýaly: ilki girdeji we zyýany hasaba almaýarlar, soň köp zady ýitirenden soň, gynanç duýýarlar — netijede yzygiderli ýeňilýärler.",
+          "uz": "Afsuski, ko'pchilik odamlar sizga o'xshaydi: avval foyda va zararni hisobga olmaydilar, keyin ko'p narsani yo'qotgach, achinadilar — natijada qayta-qayta mag'lub bo'ladilar.",
+          "tg": "Афсӯс, аксари одамон мисли шумо ҳастанд: аввал фоида ва зиёнро ба назар намегиранд, баъд аз он ки бисёр чизро аз даст медиҳанд, пушаймон мешаванд — ва дар натиҷа пайиҳам мағлуб мешаванд.",
+          "id": "Sayangnya, kebanyakan orang seperti kamu: awalnya tidak mempertimbangkan untung dan rugi, lalu setelah banyak kehilangan, mulai menyesal — akibatnya kalah terus-menerus.",
+          "tr": "Ne yazık ki çoğu insan senin gibi: başta kazanç ve kaybı hesaba katmazlar, sonra çok şey kaybedince kıymet bilmeye başlarlar — sonuç ise tekrar tekrar yenilmektir."
         }
       ],
       "exercises": [
@@ -636,16 +671,31 @@
       "word_b": "失去",
       "common": {
         "ru": "Оба глагола означают, что что-то было и исчезло.",
-        "en": "Both verbs mean something that existed is gone."
+        "en": "Both verbs mean something that existed is gone.",
+        "tk": "损失 vs 失去",
+        "uz": "损失 vs 失去",
+        "tg": "损失 vs 失去",
+        "id": "损失 vs 失去",
+        "tr": "损失 vs 失去"
       },
       "differences": [
         {
           "ru": "«损失» — «уменьшение»; может быть существительным.",
-          "en": "«损失» — 'reduction'; can be a noun."
+          "en": "«损失» — 'reduction'; can be a noun.",
+          "tk": "«损失» — «azalma»; at hökmünde bolup biler.",
+          "uz": "«损失» — «kamayish»; ot bo'lishi mumkin.",
+          "tg": "«损失» — «камшавӣ»; метавонад исм бошад.",
+          "id": "«损失» — «pengurangan»; dapat berupa kata benda.",
+          "tr": "«损失» — «azalma»; isim olabilir."
         },
         {
           "ru": "«失去» — обычно «полностью лишиться»; не может быть существительным.",
-          "en": "«失去» — usually 'completely lose'; can't be a noun."
+          "en": "«失去» — usually 'completely lose'; can't be a noun.",
+          "tk": "«失去» — adatça «doly ýitirmek»; at bolup bilmeýär.",
+          "uz": "«失去» — odatda «butunlay yo'qotmoq»; ot bo'la olmaydi.",
+          "tg": "«失去» — одатан «пурра аз даст додан»; исм шуда наметавонад.",
+          "id": "«失去» — biasanya 'kehilangan sepenuhnya'; tidak bisa menjadi kata benda.",
+          "tr": "«失去» — genellikle 'tamamen kaybetmek'; isim olamaz."
         }
       ]
     }
@@ -654,7 +704,12 @@
     "topic": {
       "zh": "家居2 (Домашние принадлежности 2)",
       "ru": "Домашние принадлежности 2",
-      "en": "Household items 2"
+      "en": "Household items 2",
+      "tk": "Öý goşlary 2",
+      "uz": "Uy jihozlari 2",
+      "tg": "Лавозимоти хона 2",
+      "id": "Perlengkapan rumah 2",
+      "tr": "Ev eşyaları 2"
     },
     "words": [
       {
@@ -663,7 +718,12 @@
         "meaning": {
           "zh": "",
           "ru": "зажим, прищепка",
-          "en": "clip, clamp"
+          "en": "clip, clamp",
+          "tk": "gysgyç",
+          "uz": "qisqich",
+          "tg": "қисқич",
+          "id": "klip, penjepit",
+          "tr": "klips, mandal"
         }
       },
       {
@@ -672,7 +732,12 @@
         "meaning": {
           "zh": "",
           "ru": "расчёска",
-          "en": "comb"
+          "en": "comb",
+          "tk": "darak",
+          "uz": "taroq",
+          "tg": "шона",
+          "id": "sisir",
+          "tr": "tarak"
         }
       },
       {
@@ -681,7 +746,12 @@
         "meaning": {
           "zh": "",
           "ru": "мыло",
-          "en": "soap"
+          "en": "soap",
+          "tk": "sabyn",
+          "uz": "sovun",
+          "tg": "собун",
+          "id": "sabun",
+          "tr": "sabun"
         }
       },
       {
@@ -690,7 +760,12 @@
         "meaning": {
           "zh": "",
           "ru": "веер",
-          "en": "fan"
+          "en": "fan",
+          "tk": "ýelpik",
+          "uz": "yelpig'ich",
+          "tg": "бодбезак",
+          "id": "kipas",
+          "tr": "yelpaze"
         }
       },
       {
@@ -699,7 +774,12 @@
         "meaning": {
           "zh": "",
           "ru": "ножницы",
-          "en": "scissors"
+          "en": "scissors",
+          "tk": "gaýçy",
+          "uz": "qaychi",
+          "tg": "қайчӣ",
+          "id": "gunting",
+          "tr": "makas"
         }
       },
       {
@@ -708,7 +788,12 @@
         "meaning": {
           "zh": "",
           "ru": "верёвка",
-          "en": "rope"
+          "en": "rope",
+          "tk": "ýüp",
+          "uz": "arqon",
+          "tg": "таноб",
+          "id": "tali",
+          "tr": "ip"
         }
       },
       {
@@ -717,7 +802,12 @@
         "meaning": {
           "zh": "",
           "ru": "замок; запирать",
-          "en": "lock"
+          "en": "lock",
+          "tk": "gulpy; gulplamak",
+          "uz": "qulf; qulflamoq",
+          "tg": "қулф; қулф кардан",
+          "id": "kunci; mengunci",
+          "tr": "kilit; kilitlemek"
         }
       },
       {
@@ -726,7 +816,12 @@
         "meaning": {
           "zh": "",
           "ru": "вилка",
-          "en": "fork"
+          "en": "fork",
+          "tk": "çarşak",
+          "uz": "vilka",
+          "tg": "чангак",
+          "id": "garpu",
+          "tr": "çatal"
         }
       },
       {
@@ -735,7 +830,12 @@
         "meaning": {
           "zh": "",
           "ru": "кастрюля, котёл",
-          "en": "pot, pan"
+          "en": "pot, pan",
+          "tk": "gap-çanak",
+          "uz": "qozon",
+          "tg": "дег",
+          "id": "panci",
+          "tr": "tencere"
         }
       },
       {
@@ -744,7 +844,12 @@
         "meaning": {
           "zh": "",
           "ru": "чайник, кувшин",
-          "en": "kettle, pot"
+          "en": "kettle, pot",
+          "tk": "çäýnek",
+          "uz": "choynak",
+          "tg": "чойник",
+          "id": "ketel",
+          "tr": "çaydanlık"
         }
       },
       {
@@ -753,7 +858,12 @@
         "meaning": {
           "zh": "",
           "ru": "таз, миска",
-          "en": "basin, tub"
+          "en": "basin, tub",
+          "tk": "legеn",
+          "uz": "tovoq",
+          "tg": "тағора",
+          "id": "baskom",
+          "tr": "leğen"
         }
       },
       {
@@ -762,7 +872,12 @@
         "meaning": {
           "zh": "",
           "ru": "спички",
-          "en": "matches"
+          "en": "matches",
+          "tk": "спичка",
+          "uz": "gugurt",
+          "tg": "гӯгирд",
+          "id": "korek api",
+          "tr": "kibrit"
         }
       }
     ]
@@ -771,17 +886,22 @@
     "discussion": {
       "zh": "人生如棋：课文中父亲是怎样教育孩子的？你同意父亲的观点吗？你对“得”与“失”有什么看法？",
       "ru": "Жизнь как шахматы: как отец в тексте воспитывал сына? Согласны ли вы с ним? Что вы думаете о «приобретениях» и «потерях»?",
-      "tk": "",
+      "tk": "Durmuş küşt ýaly: tekstde kaka ogluny nähili terbiýeledi? Siz onuň bilen ylalaşýarsyňyzmy? «Gazanjylar» we «ýitgiler» barada näme pikir edýärsiňiz?",
       "en": "Life is like chess: how did the father educate his child in the text? Do you agree with him? What's your view on 'gains' and 'losses'?",
-      "uz": "",
-      "tg": "",
-      "id": "",
-      "tr": ""
+      "uz": "Hayot shaxmat kabi: matnda ota o'g'lini qanday tarbiyaladi? Siz u bilan rozimisiz? «Yutuqlar» va «yo'qotishlar» haqida nima deb o'ylaysiz?",
+      "tg": "Ҳаёт мисли шоҳмот: падар дар матн писарашро чӣ тавр тарбия мекард? Шумо бо ӯ розӣ ҳастед? Дар бораи «дастовардҳо» ва «талафот» чӣ фикр доред?",
+      "id": "Hidup seperti catur: bagaimana ayah dalam teks mendidik anaknya? Apakah Anda setuju dengannya? Apa pendapat Anda tentang 'keuntungan' dan 'kerugian'?",
+      "tr": "Hayat satranç gibidir: metindeki baba oğlunu nasıl eğitti? Ona katılıyor musunuz? 'Kazançlar' ve 'kayıplar' hakkında ne düşünüyorsunuz?"
     },
     "writing_prompt": {
       "zh": "请以“得与失”为题，谈谈你的看法。尽量用上本课所学的生词，字数不少于100字。",
       "ru": "Напишите эссе на тему «Приобретения и потери», используя слова урока, не менее 100 иероглифов.",
-      "en": "Write an essay titled 'Gains and losses', using this lesson's vocabulary, at least 100 characters."
+      "en": "Write an essay titled 'Gains and losses', using this lesson's vocabulary, at least 100 characters.",
+      "tk": "«Gazanjlar we ýitgiler» atly tema boýunça sapagyň sözlerini ulanyp, azyndan 100 iýeroglifden ybarat esse ýazyň.",
+      "uz": "«Yutuqlar va yo'qotishlar» mavzusida dars so'zlaridan foydalanib, kamida 100 ieroglifdan iborat insho yozing.",
+      "tg": "Дар мавзӯи «Дастовардҳо ва талафот» бо истифода аз калимаҳои дарс, на камтар аз 100 иероглиф эссе нависед.",
+      "id": "Tulislah esai dengan tema «Keuntungan dan Kerugian» menggunakan kosakata pelajaran ini, tidak kurang dari 100 karakter Han.",
+      "tr": "«Kazançlar ve Kayıplar» konulu, dersin kelimelerini kullanarak en az 100 karakterden oluşan bir kompozisyon yazın."
     }
   },
   "workbook": {
